@@ -1,0 +1,51 @@
+<map id="MulticopterAttitudeControl::run" name="MulticopterAttitudeControl::run">
+<area shape="rect" id="node2" href="$d9/d0c/class_multicopter_attitude_control.html#addc37534f96e52475895fa1ea65f4de1" title="Check for parameter update and handle it. " alt="" coords="487,440,661,481"/>
+<area shape="rect" id="node5" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="757,513,831,539"/>
+<area shape="rect" id="node7" href="$d9/d0c/class_multicopter_attitude_control.html#af1a62e2fc06cb9482dd8cc533803f630" title="Attitude controller. " alt="" coords="252,1417,425,1459"/>
+<area shape="rect" id="node10" href="$dd/df8/classmatrix_1_1_matrix.html#ad0bf8eb3b9f41d6ea57ea5ee40d6f022" title="matrix::Matrix::emult" alt="" coords="503,1669,645,1695"/>
+<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="775,1719,813,1746"/>
+<area shape="rect" id="node17" href="$d9/d0c/class_multicopter_attitude_control.html#a102ebec1dd741cebdef571e565fe0bde" title="Attitude rates controller. " alt="" coords="252,1739,425,1780"/>
+<area shape="rect" id="node19" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="534,1938,614,1965"/>
+<area shape="rect" id="node21" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="507,1989,641,2015"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="276,1906,401,1933"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="524,77,624,103"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a10876a56e0054909b8e40fedd8baa624" title="Get the number of published instances of a topic group. " alt="" coords="515,1166,633,1193"/>
+<area shape="rect" id="node28" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="750,106,838,133"/>
+<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="514,1115,634,1142"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="743,989,845,1015"/>
+<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="725,1039,863,1066"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="280,963,397,990"/>
+<area shape="rect" id="node35" href="$d9/d0c/class_multicopter_attitude_control.html#aeba8d9dfe82837dcce7cf06a9c8166e8" title="MulticopterAttitudeControl\l::parameter_update_poll" alt="" coords="487,505,661,547"/>
+<area shape="rect" id="node36" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="297,1957,380,1983"/>
+<area shape="rect" id="node37" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="303,2007,375,2034"/>
+<area shape="rect" id="node38" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="303,2109,374,2135"/>
+<area shape="rect" id="node39" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="544,2086,604,2113"/>
+<area shape="rect" id="node40" href="$d9/d0c/class_multicopter_attitude_control.html#affad3eeeb59e85dd8f6b134e907d7556" title="MulticopterAttitudeControl\l::sensor_bias_poll" alt="" coords="487,571,661,612"/>
+<area shape="rect" id="node41" href="$d9/d0c/class_multicopter_attitude_control.html#ac1d50b9516dab42c6977f787b8702dc2" title="MulticopterAttitudeControl\l::sensor_correction_poll" alt="" coords="487,636,661,677"/>
+<area shape="rect" id="node42" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a5c1390c1bca03d0eb9229ddccfbede24" title="Change filter parameters. " alt="" coords="261,1217,417,1259"/>
+<area shape="rect" id="node43" href="$dd/d47/namespacemath.html#a86772083eb6c0acbc8a6bbf10a26a3b7" title="math::superexpo" alt="" coords="279,1502,398,1529"/>
+<area shape="rect" id="node44" href="$d9/d0c/class_multicopter_attitude_control.html#adcbc3e9b6a1d0df0e0c6fe6d79e4c14f" title="MulticopterAttitudeControl\l::vehicle_attitude_poll" alt="" coords="487,701,661,743"/>
+<area shape="rect" id="node45" href="$d9/d0c/class_multicopter_attitude_control.html#a2654af4dd4313fb0d53025597df1ed5d" title="MulticopterAttitudeControl\l::vehicle_control_mode_poll" alt="" coords="483,767,665,808"/>
+<area shape="rect" id="node46" href="$d9/d0c/class_multicopter_attitude_control.html#ac9df3ea691102be55ee8812471ebfa85" title="MulticopterAttitudeControl\l::vehicle_land_detected_poll" alt="" coords="481,832,667,873"/>
+<area shape="rect" id="node47" href="$d9/d0c/class_multicopter_attitude_control.html#a35a3639e7b5a0a4873aaec86df071cf7" title="MulticopterAttitudeControl\l::vehicle_manual_poll" alt="" coords="487,179,661,220"/>
+<area shape="rect" id="node48" href="$d9/d0c/class_multicopter_attitude_control.html#a28ba80395b814ecc0ea8a62aa1343ee6" title="MulticopterAttitudeControl\l::vehicle_motor_limits_poll" alt="" coords="486,244,662,285"/>
+<area shape="rect" id="node49" href="$d9/d0c/class_multicopter_attitude_control.html#a6293042ca9722c919bbd5f0e78cd7b9c" title="MulticopterAttitudeControl\l::vehicle_rates_setpoint_poll" alt="" coords="481,309,667,351"/>
+<area shape="rect" id="node50" href="$d9/d0c/class_multicopter_attitude_control.html#ac59e4e1e86ae18e388c468b3631726dc" title="MulticopterAttitudeControl\l::vehicle_status_poll" alt="" coords="487,375,661,416"/>
+<area shape="rect" id="node3" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="753,578,835,605"/>
+<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="931,981,1073,1023"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="913,354,1091,381"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="518,1618,630,1645"/>
+<area shape="rect" id="node9" href="$d5/d0f/classmatrix_1_1_quaternion.html#acb9ab87d4b9412d6d99afea8731b9835" title="Corresponding body z&#45;axis to an attitude quaternion / last orthogonal unit basis vector. " alt="" coords="509,1501,639,1543"/>
+<area shape="rect" id="node12" href="$d5/d0f/classmatrix_1_1_quaternion.html#a7f22e88e6e7fd2d3a3741f4f65186c61" title="Imaginary components of quaternion. " alt="" coords="509,1268,639,1309"/>
+<area shape="rect" id="node13" href="$d5/d0f/classmatrix_1_1_quaternion.html#a062e2b2e59cf4d95df01a2ce7bdb837c" title="Invert quaternion. " alt="" coords="509,1333,639,1375"/>
+<area shape="rect" id="node14" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="490,1399,658,1426"/>
+<area shape="rect" id="node15" href="$dd/d47/namespacemath.html#a4934517a579458a694be9f675a27cb45" title="math::signNoZero" alt="" coords="511,1450,637,1477"/>
+<area shape="rect" id="node16" href="$d9/d0c/class_multicopter_attitude_control.html#a72a504bcabfcfea9ecb633f768cf25b1" title="MulticopterAttitudeControl\l::vehicle_attitude_setpoint_poll" alt="" coords="473,897,675,939"/>
+<area shape="rect" id="node18" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="532,1821,616,1847"/>
+<area shape="rect" id="node20" href="$d9/d0c/class_multicopter_attitude_control.html#a207682a6d7ba450c126c96cd0ba1867b" title="Throttle PID attenuation. " alt="" coords="487,1872,661,1913"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="723,157,865,199"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="931,128,1073,169"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="753,1242,835,1269"/>
+<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="727,1141,861,1167"/>
+<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="753,1090,835,1117"/>
+</map>

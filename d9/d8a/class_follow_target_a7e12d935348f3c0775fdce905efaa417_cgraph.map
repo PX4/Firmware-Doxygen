@@ -1,0 +1,26 @@
+<map id="FollowTarget::update_position_sp" name="FollowTarget::update_position_sp">
+<area shape="rect" id="node2" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="208,65,364,107"/>
+<area shape="rect" id="node3" href="$da/d7b/class_mission_block.html#a8cb90e6258e8c99a0c4d1738308b8233" title="General function used to adjust the mission item based on vehicle specific limitations. " alt="" coords="209,131,363,172"/>
+<area shape="rect" id="node6" href="$da/d7b/class_mission_block.html#abf7e746ff80d9c2a1df6dad353f07eeb" title="Convert a mission item to a position setpoint. " alt="" coords="197,252,375,293"/>
+<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="203,317,369,359"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="428,105,563,147"/>
+<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="424,40,567,81"/>
+<area shape="rect" id="node7" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="429,523,562,564"/>
+<area shape="rect" id="node8" href="$d0/df9/class_navigator.html#aefb68d38e1a80fd6bdc6c810f4f842d1" title="Navigator::get_loiter\l_radius" alt="" coords="426,223,565,264"/>
+<area shape="rect" id="node12" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="843,541,997,567"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#aeac4bfdde502928eb5b2ac03f8de5615" title="Get the cruising speed. " alt="" coords="627,5,783,47"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a430adf0c9a74dbeff4ff33f1c34c1117" title="Get the target throttle. " alt="" coords="627,500,783,541"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a02be59300eb6d37c39bd4aa1b948d516" title="Navigator::get_loiter\l_min_alt" alt="" coords="426,340,565,381"/>
+<area shape="rect" id="node23" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="453,406,537,433"/>
+<area shape="rect" id="node24" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="423,457,568,499"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="630,71,781,112"/>
+<area shape="rect" id="node10" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="616,136,795,177"/>
+<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a99ffced3ab485575b385454433aa105f" title="Get the altitude acceptance radius. " alt="" coords="629,435,782,476"/>
+<area shape="rect" id="node17" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="901,137,939,163"/>
+<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#a74b7532beec44c110e8dd61bbeaa5e53" title="Set the cruising speed. " alt="" coords="627,304,783,345"/>
+<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#a118e53f014f6d15a14d4a5188eee47c5" title="Reset cruising speed to default values. " alt="" coords="622,369,789,411"/>
+<area shape="rect" id="node20" href="$d0/df9/class_navigator.html#aadb6e4e2fc72366317916bf4c0672d28" title="Set triplets to invalid. " alt="" coords="625,253,786,279"/>
+<area shape="rect" id="node13" href="$df/d08/commander__helper_8cpp.html#a90a80fd140e5e1feba80ba0c5ef25c7c" title="is_rotary_wing" alt="" coords="867,442,973,469"/>
+<area shape="rect" id="node14" href="$df/d08/commander__helper_8cpp.html#a11b38c975bd7707de957c1a32b45297a" title="is_multirotor" alt="" coords="1045,442,1139,469"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a11e8849cec37173aeec7b8dce2a17bc0" title="Navigator::is_planned\l_mission" alt="" coords="846,5,994,47"/>
+</map>

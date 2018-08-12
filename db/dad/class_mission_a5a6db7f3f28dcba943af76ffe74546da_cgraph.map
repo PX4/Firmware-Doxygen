@@ -1,0 +1,20 @@
+<map id="Mission::set_current_offboard_mission_item" name="Mission::set_current_offboard_mission_item">
+<area shape="rect" id="node2" href="$d0/df9/class_navigator.html#a195ae35247b8133508746e9cbb4ba287" title="Navigator::get_mission\l_result" alt="" coords="214,59,370,101"/>
+<area shape="rect" id="node3" href="$db/dad/class_mission.html#a858dcaca4d0da1a4394081efdc00c3d0" title="Save current offboard mission state to dataman. " alt="" coords="213,125,371,166"/>
+<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#a7ab887dfa8f6543d42ad6564eadd9924" title="Navigator::set_mission\l_result_updated" alt="" coords="214,190,370,231"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a1fa2ba1e37a3615ca23fe3cbf42c12be" title="Lock all items of a type. " alt="" coords="461,5,532,32"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="461,107,533,133"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="454,56,539,83"/>
+<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="459,157,534,184"/>
+<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="419,209,575,250"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="434,275,559,301"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="665,56,747,83"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="841,111,966,137"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="623,209,789,250"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1025,161,1113,188"/>
+<area shape="rect" id="node9" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1025,212,1112,239"/>
+<area shape="rect" id="node10" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1025,111,1112,137"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1017,263,1120,289"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="837,212,969,239"/>
+<area shape="rect" id="node14" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="861,313,946,340"/>
+</map>

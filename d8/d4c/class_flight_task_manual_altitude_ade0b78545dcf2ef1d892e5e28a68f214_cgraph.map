@@ -1,0 +1,14 @@
+<map id="FlightTaskManualAltitude::updateInitialize" name="FlightTaskManualAltitude::updateInitialize">
+<area shape="rect" id="node2" href="$da/dc5/class_flight_task_manual_stabilized.html#a0735095caf1cbbea0744de4fcda13f3d" title="Call before activate() or update() to initialize time and input data. " alt="" coords="223,107,405,149"/>
+<area shape="rect" id="node3" href="$de/de4/class_flight_task_manual.html#a6ef9556b08c7178aa8113357b6a2c3d3" title="Call before activate() or update() to initialize time and input data. " alt="" coords="453,107,625,149"/>
+<area shape="rect" id="node4" href="$da/dbc/class_flight_task.html#ac0cf5331e942bf582c3ba4fd81ea62f9" title="Call before activate() or update() to initialize time and input data. " alt="" coords="673,115,852,141"/>
+<area shape="rect" id="node5" href="$da/dbc/class_flight_task.html#a9f321fac68454f9080d5925772121217" title="FlightTask::_evaluateVehicle\lLocalPosition" alt="" coords="900,49,1091,90"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="933,115,1058,141"/>
+<area shape="rect" id="node13" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="955,165,1035,192"/>
+<area shape="rect" id="node6" href="$da/dbc/class_flight_task.html#a46347ff9c49771017f76291832e07f0d" title="Reset all setpoints to NAN. " alt="" coords="1139,5,1321,32"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="1148,56,1312,83"/>
+<area shape="rect" id="node8" href="$d7/d09/geo_8cpp.html#a98adc506d799f265ba54500d0afac998" title="Initialize the global mapping between global position (spherical) and local position (NED)..." alt="" coords="1149,107,1311,133"/>
+<area shape="rect" id="node9" href="$d7/d09/geo_8cpp.html#a2f52a1c310e562a170d2ab2b4f53e5e3" title="Initializes the global map transformation. " alt="" coords="1369,107,1544,133"/>
+<area shape="rect" id="node10" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="1592,99,1727,141"/>
+<area shape="rect" id="node11" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="1775,107,1876,133"/>
+</map>

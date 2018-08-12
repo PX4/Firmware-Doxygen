@@ -1,0 +1,51 @@
+<map id="gnd_pos_control_main" name="gnd_pos_control_main">
+<area shape="rect" id="node2" href="$d7/d8c/class_ground_rover_position_control.html#a037e8b87973e3f89c49f3124d2da228b" title="Start the sensors task. " alt="" coords="205,343,393,384"/>
+<area shape="rect" id="node30" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1235,339,1295,366"/>
+<area shape="rect" id="node50" href="$d7/d8c/class_ground_rover_position_control.html#a2d9e3be44e4061d6963a4cc607c7396f" title="Task status. " alt="" coords="205,408,393,449"/>
+<area shape="rect" id="node3" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="459,350,611,377"/>
+<area shape="rect" id="node4" href="$d7/d8c/class_ground_rover_position_control.html#aa2ea14b3608ff1d5a718e79ba2de7a88" title="Shim for calling task_main from task_create. " alt="" coords="441,673,629,715"/>
+<area shape="rect" id="node5" href="$d7/d8c/class_ground_rover_position_control.html#a7a46f5fdad2a22139244a3ae8f3c89f5" title="GroundRoverPositionControl\l::GroundRoverPositionControl" alt="" coords="677,1356,873,1397"/>
+<area shape="rect" id="node21" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="681,673,869,715"/>
+<area shape="rect" id="node6" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="977,1422,1064,1449"/>
+<area shape="rect" id="node7" href="$d7/d8c/class_ground_rover_position_control.html#a486c644a7a677782a8f3f964855c40ae" title="Update our local parameter cache. " alt="" coords="927,1356,1115,1397"/>
+<area shape="rect" id="node8" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1224,1363,1307,1390"/>
+<area shape="rect" id="node9" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a2a25fd4f58af2b9b0f696081a1f47201" title="Set the L1 damping factor. " alt="" coords="1418,1185,1581,1227"/>
+<area shape="rect" id="node10" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab449fa4dc6e9feb1fd69eef9215559ee" title="Set the L1 period. " alt="" coords="1418,1264,1581,1305"/>
+<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1688,1271,1727,1298"/>
+<area shape="rect" id="node12" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#aed61ea14a1fbc6298c8dea6f2fcd9152" title="Set the maximum roll angle output in radians. " alt="" coords="1184,1516,1347,1557"/>
+<area shape="rect" id="node13" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="1215,1262,1316,1289"/>
+<area shape="rect" id="node14" href="$d8/dcb/pid_8cpp.html#ac57ab975a633133a99f2f0a9bf44ec6a" title="pid_init" alt="" coords="1234,1582,1297,1609"/>
+<area shape="rect" id="node15" href="$d8/dcb/pid_8cpp.html#a4e38c612d1b0e53fbb5b51f40b89d5ff" title="pid_set_parameters" alt="" coords="1197,1633,1333,1659"/>
+<area shape="rect" id="node16" href="$d7/d8c/class_ground_rover_position_control.html#a0cb9c8dd59d037cfd62af3f9564ddc77" title="Publish navigation capabilities. " alt="" coords="1168,593,1363,635"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1437,609,1562,635"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1455,423,1543,450"/>
+<area shape="rect" id="node20" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="1449,474,1549,501"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1636,441,1779,483"/>
+<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="969,137,1072,163"/>
+<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="963,238,1078,265"/>
+<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="985,441,1056,467"/>
+<area shape="rect" id="node31" href="$d7/d8c/class_ground_rover_position_control.html#a22bac44908ec214053b94ab9afa1f911" title="GroundRoverPositionControl\l::vehicle_control_mode_poll" alt="" coords="927,761,1115,803"/>
+<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1228,710,1303,737"/>
+<area shape="rect" id="node35" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="979,710,1062,737"/>
+<area shape="rect" id="node36" href="$d7/d8c/class_ground_rover_position_control.html#a0637dc36fe0f33fa684ad2e47bdca999" title="GroundRoverPositionControl\l::manual_control_setpoint_poll" alt="" coords="921,644,1120,685"/>
+<area shape="rect" id="node37" href="$d7/d8c/class_ground_rover_position_control.html#a01167cf03a5490418dbe6bd068e34c5c" title="GroundRoverPositionControl\l::position_setpoint_triplet_poll" alt="" coords="923,827,1118,868"/>
+<area shape="rect" id="node38" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a1f7f1bd26da7cc8d23bbbb1a278f742f" title="Create an update function that uses the embedded struct. " alt="" coords="951,892,1090,933"/>
+<area shape="rect" id="node39" href="$d7/d8c/class_ground_rover_position_control.html#a4f2f86b3be874fbb7928271fa49aa511" title="Control position. " alt="" coords="927,1009,1115,1051"/>
+<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1205,811,1326,838"/>
+<area shape="rect" id="node44" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a8ea4156a2d5569653dc12f58acbc2d83" title="Get roll angle setpoint for fixed wing. " alt="" coords="1184,1131,1347,1172"/>
+<area shape="rect" id="node45" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a0b85d2795cd09a2d17fb90aa0980dd23" title="The current target bearing. " alt="" coords="1184,1196,1347,1237"/>
+<area shape="rect" id="node46" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a573e766a26ab72f787474714f9a0190c" title="Bearing from aircraft to current target. " alt="" coords="939,1192,1102,1233"/>
+<area shape="rect" id="node47" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a09321a7ee00cffd28ba031758af02f85" title="Get the current crosstrack error. " alt="" coords="939,71,1102,112"/>
+<area shape="rect" id="node48" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="947,1127,1094,1168"/>
+<area shape="rect" id="node49" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="985,187,1057,214"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1194,105,1337,147"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1194,223,1337,264"/>
+<area shape="rect" id="node27" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1228,441,1303,467"/>
+<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="1200,491,1331,518"/>
+<area shape="rect" id="node29" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1219,542,1312,569"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="1224,761,1307,787"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1411,710,1588,737"/>
+<area shape="rect" id="node41" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19" title="Returns true if following a circle (loiter) " alt="" coords="1184,1065,1347,1107"/>
+<area shape="rect" id="node42" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="1183,963,1347,990"/>
+<area shape="rect" id="node43" href="$d8/dcb/pid_8cpp.html#a9922a32e0572e0961cb34ba0440da32c" title="pid_calculate" alt="" coords="1216,1014,1315,1041"/>
+</map>

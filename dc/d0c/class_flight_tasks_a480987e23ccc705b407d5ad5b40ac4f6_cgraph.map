@@ -1,0 +1,51 @@
+<map id="FlightTasks::~FlightTasks" name="FlightTasks::~FlightTasks">
+<area shape="rect" id="node2" href="$dc/d0c/class_flight_tasks.html#a1f07acad3a899df3dfa586b2b8e359ae" title="Get task avoidance desired waypoints. " alt="" coords="247,64,424,105"/>
+<area shape="rect" id="node9" href="$dc/d0c/class_flight_tasks.html#af6924cd69d86e43dd5c701914c6c6b4d" title="Get task dependent constraints. " alt="" coords="244,173,427,199"/>
+<area shape="rect" id="node11" href="$dc/d0c/class_flight_tasks.html#a46485c3b65b61ac69c5db8083e97c5b0" title="Get empty avoidance desired waypoints. " alt="" coords="228,389,443,431"/>
+<area shape="rect" id="node12" href="$dc/d0c/class_flight_tasks.html#a5bcf5880e6b54f08170826d4814d37fc" title="Get the output data from the current task. " alt="" coords="511,275,674,316"/>
+<area shape="rect" id="node16" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="267,338,404,365"/>
+<area shape="rect" id="node50" href="$da/dbc/class_flight_task.html#a5bb8931beaa09925e3223c018fa70d2b" title="FlightTask::~FlightTask" alt="" coords="255,455,415,482"/>
+<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#a06712d8dac53a150d02c8fbf5db38c49" title="Check if any task is active. " alt="" coords="743,223,940,250"/>
+<area shape="rect" id="node8" href="$da/dbc/class_flight_task.html#af0745f6352804bee45b3042add102214" title="Get avoidance desired waypoint. " alt="" coords="507,5,678,47"/>
+<area shape="rect" id="node4" href="$dc/d0c/class_flight_tasks.html#af790ba4505548862724e41d5f25122b6" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="992,216,1188,257"/>
+<area shape="rect" id="node7" href="$dc/d0c/class_flight_tasks.html#aecfb5285ba3a8c4a289e74b6c82552d7" title="Call this method to get the description of a task error. " alt="" coords="1003,165,1177,191"/>
+<area shape="rect" id="node5" href="$da/dbc/class_flight_task.html#aaebc7d92ecf165895988b76b7f1381d7" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="1241,216,1430,257"/>
+<area shape="rect" id="node6" href="$db/db3/class_module_params.html#acf08d1a67a584f7b6e0feaa9182bede1" title="Call this whenever the module gets a parameter change notification. " alt="" coords="1479,223,1680,250"/>
+<area shape="rect" id="node10" href="$da/dbc/class_flight_task.html#a4130424d279c90b71b8a6293a880ea93" title="Get vehicle constraints. " alt="" coords="505,122,681,149"/>
+<area shape="rect" id="node13" href="$da/dbc/class_flight_task.html#aa57d35ea8258f1d45cbf7c43b16106a7" title="Get the output data. " alt="" coords="988,307,1192,334"/>
+<area shape="rect" id="node14" href="$dd/df8/classmatrix_1_1_matrix.html#aa1b34844ff0b1b168a71bfaa5735639a" title="matrix::Matrix::copyTo" alt="" coords="1259,282,1412,309"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1273,333,1398,359"/>
+<area shape="rect" id="node17" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="491,601,695,627"/>
+<area shape="rect" id="node32" href="$da/dbc/class_flight_task.html#a0d9b7eb5ed7bbec682eab8789323b780" title="To be called regularly in the control loop cycle to execute the task. " alt="" coords="1025,446,1155,473"/>
+<area shape="rect" id="node33" href="$da/dbc/class_flight_task.html#ac0cf5331e942bf582c3ba4fd81ea62f9" title="Call before activate() or update() to initialize time and input data. " alt="" coords="1001,391,1179,418"/>
+<area shape="rect" id="node48" href="$d2/df1/class_subscription_array.html#a485d03584d470e3750e46e47b31df5b6" title="update all subscriptions (if new data is available) " alt="" coords="526,775,659,816"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="790,693,893,719"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="800,794,883,821"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="804,501,879,527"/>
+<area shape="rect" id="node29" href="$dc/d0c/class_flight_tasks.html#a711cbd468ab8483180c1999e0a728580" title="FlightTasks::switchVehicle\lCommand" alt="" coords="752,552,931,593"/>
+<area shape="rect" id="node30" href="$dc/d0c/class_flight_tasks.html#ac82559255ca3f7ec7b79ee2bd51cdd9e" title="Switch to the next task in the available list (for testing) " alt="" coords="759,642,924,669"/>
+<area shape="rect" id="node31" href="$da/dbc/class_flight_task.html#a28fcf5bd24f6d3ccf3ebb23a37a76093" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="750,384,933,425"/>
+<area shape="rect" id="node39" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="770,743,913,770"/>
+<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="797,845,885,871"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1019,700,1161,741"/>
+<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1264,603,1407,644"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1728,603,1871,644"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1486,669,1673,695"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1264,1085,1407,1127"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1542,845,1617,871"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1247,501,1424,527"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1542,501,1617,527"/>
+<area shape="rect" id="node34" href="$da/dbc/class_flight_task.html#a9f321fac68454f9080d5925772121217" title="FlightTask::_evaluateVehicle\lLocalPosition" alt="" coords="1240,384,1431,425"/>
+<area shape="rect" id="node38" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="1295,450,1375,477"/>
+<area shape="rect" id="node35" href="$da/dbc/class_flight_task.html#a46347ff9c49771017f76291832e07f0d" title="Reset all setpoints to NAN. " alt="" coords="1488,341,1671,367"/>
+<area shape="rect" id="node36" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="1497,391,1661,418"/>
+<area shape="rect" id="node37" href="$d7/d09/geo_8cpp.html#a98adc506d799f265ba54500d0afac998" title="Initialize the global mapping between global position (spherical) and local position (NED)..." alt="" coords="1499,442,1660,469"/>
+<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="1019,779,1161,820"/>
+<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1264,837,1407,879"/>
+<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1508,1027,1651,1068"/>
+<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="1264,968,1407,1009"/>
+<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1264,720,1407,761"/>
+<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1264,903,1407,944"/>
+<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1250,786,1421,813"/>
+<area shape="rect" id="node49" href="$d6/d30/classu_o_r_b_1_1_subscription_node.html#ad854fd711930c2c6c7628717453e281d" title="This function is the callback for list traversal updates, a child class must implement it..." alt="" coords="757,896,926,937"/>
+</map>

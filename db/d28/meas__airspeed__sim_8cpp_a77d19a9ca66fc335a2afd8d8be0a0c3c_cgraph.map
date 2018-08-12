@@ -1,0 +1,43 @@
+<map id="measairspeedsim_main" name="measairspeedsim_main">
+<area shape="rect" id="node2" href="$d4/d0d/namespacemeas__airspeed__sim.html#a01f0b63d5c1df3869dff82d59bab7198" title="Print a little info about the driver. " alt="" coords="214,162,381,189"/>
+<area shape="rect" id="node5" href="$db/d28/meas__airspeed__sim_8cpp.html#ac7aeef2e92becfd6be2d3bb9c7d18076" title="meas_airspeed_usage" alt="" coords="221,317,373,343"/>
+<area shape="rect" id="node6" href="$d4/d0d/namespacemeas__airspeed__sim.html#a1bc02e3b8c664e25c59f4b56b923f27f" title="Reset the driver. " alt="" coords="485,213,631,255"/>
+<area shape="rect" id="node18" href="$d4/d0d/namespacemeas__airspeed__sim.html#a2e7c299567e4fca7b3b03cf8441b3ea5" title="Start the driver. " alt="" coords="224,419,371,460"/>
+<area shape="rect" id="node31" href="$d4/d0d/namespacemeas__airspeed__sim.html#a456fd12c9f7e31a33fde5b71ef7383b5" title="Stop the driver. " alt="" coords="212,485,383,511"/>
+<area shape="rect" id="node32" href="$d4/d0d/namespacemeas__airspeed__sim.html#a1c643436c02721b3fe7db275e51ba301" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="213,629,381,655"/>
+<area shape="rect" id="node3" href="$dd/dd4/class_airspeed_sim.html#a80e0b01c82bdcc660eb126ae836c5b33" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="479,90,637,117"/>
+<area shape="rect" id="node4" href="$dd/d78/perf__counter_8c.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="751,71,878,98"/>
+<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="745,122,884,149"/>
+<area shape="rect" id="node11" href="$dd/dd4/class_airspeed_sim.html#a5ec54afe8892496e43d8f9a494af0838" title="Perform an ioctl operation on the device. " alt="" coords="751,257,879,283"/>
+<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="744,173,885,199"/>
+<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="961,71,1096,98"/>
+<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="959,5,1098,47"/>
+<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="955,122,1103,149"/>
+<area shape="rect" id="node12" href="$dd/dd4/class_airspeed_sim.html#a0770be30197cf0b76d40ec545b2fe76e" title="Stop the automatic measurement state machine. " alt="" coords="964,223,1093,250"/>
+<area shape="rect" id="node13" href="$dd/dd4/class_airspeed_sim.html#aae35587e7d374b0e472b27ecb2c70723" title="Initialise the automatic measurement state machine and start it. " alt="" coords="963,274,1094,301"/>
+<area shape="rect" id="node14" href="$dd/dd4/class_airspeed_sim.html#a863ba80473a5b43749e6a0567481ea27" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="1171,267,1305,308"/>
+<area shape="rect" id="node15" href="$dd/dd4/class_airspeed_sim.html#afe6abd2729430af5bbb1908a07aa325b" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="1363,274,1497,301"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="944,173,1113,199"/>
+<area shape="rect" id="node19" href="$d5/d35/class_m_e_a_s_airspeed_sim.html#a8a39d4848eb2e46eef2547a3efab4925" title="MEASAirspeedSim::MEASAirspeedSim" alt="" coords="431,375,685,402"/>
+<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="519,477,597,503"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="521,629,595,655"/>
+<area shape="rect" id="node21" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="733,375,896,402"/>
+<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1169,451,1307,478"/>
+<area shape="rect" id="node25" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1161,515,1315,542"/>
+<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="997,527,1061,554"/>
+<area shape="rect" id="node27" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="768,578,861,605"/>
+<area shape="rect" id="node22" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="961,325,1097,351"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="977,375,1081,402"/>
+<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="991,603,1066,630"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="747,679,882,706"/>
+<area shape="rect" id="node33" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="521,730,595,757"/>
+<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="493,871,623,898"/>
+<area shape="rect" id="node39" href="$dd/dd4/class_airspeed_sim.html#a682abd127f58f91b203a9d777d398b8c" title="Perform a read from the device. " alt="" coords="493,1054,623,1081"/>
+<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="747,781,882,807"/>
+<area shape="rect" id="node36" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="745,832,884,873"/>
+<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="749,897,880,939"/>
+<area shape="rect" id="node38" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="738,963,891,1004"/>
+<area shape="rect" id="node40" href="$dd/dd4/class_airspeed_sim.html#a6c3fe216cc60fc56544a65b7e7e9b578" title="AirspeedSim::measure" alt="" coords="737,1029,892,1055"/>
+<area shape="rect" id="node41" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="785,1079,845,1106"/>
+<area shape="rect" id="node42" href="$dd/dd4/class_airspeed_sim.html#ab5273d2b39357c8838f8c0a2c24302f8" title="AirspeedSim::collect" alt="" coords="743,1130,886,1157"/>
+</map>

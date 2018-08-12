@@ -1,0 +1,7 @@
+<map id="GPS" name="GPS">
+<area shape="rect" id="node3" href="$d2/d20/class_g_p_s_helper.html" title="{GPSHelper\n|# _callback\l# _callback_user\l# _rate_count_lat_lon\l# _rate_count_vel\l# _rate_lat_lon\l# _rate_vel\l# _interval_rate_start\l|+ GPSHelper()\l+ ~GPSHelper()\l+ configure()\l+ receive()\l+ getPositionUpdateRate()\l+ getVelocityUpdateRate()\l+ resetUpdateRates()\l+ storeUpdateRates()\l+ setSurveyInSpecs()\l# read()\l# write()\l# setBaudrate()\l# surveyInStatus()\l# gotRTCMMessage()\l# setClock()\l}" alt="" coords="177,248,354,619"/>
+<area shape="rect" id="node4" href="$df/ded/structgps__dump__s.html" title="{gps_dump_s\n|+ timestamp\l+ len\l+ data\l|}" alt="" coords="379,380,475,487"/>
+<area shape="rect" id="node5" href="$d3/dd6/structvehicle__gps__position__s.html" title="{vehicle_gps_position_s\n|+ timestamp\l+ time_utc_usec\l+ lat\l+ lon\l+ alt\l+ alt_ellipsoid\land 19 more...\l|}" alt="" coords="499,351,656,516"/>
+<area shape="rect" id="node6" href="$d5/d0b/structsatellite__info__s.html" title="{satellite_info_s\n|+ timestamp\l+ count\l+ svid\l+ used\l+ elevation\l+ azimuth\l+ snr\l+ _padding0\l|}" alt="" coords="708,5,817,185"/>
+<area shape="rect" id="node7" href="$d9/db1/struct_g_p_s___sat___info.html" title="{GPS_Sat_Info\n||}" alt="" coords="844,395,951,472"/>
+</map>

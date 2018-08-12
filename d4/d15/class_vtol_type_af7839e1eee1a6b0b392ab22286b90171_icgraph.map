@@ -1,0 +1,16 @@
+<map id="VtolType::apply_pwm_limits" name="VtolType::apply_pwm_limits">
+<area shape="rect" id="node2" href="$d4/d15/class_vtol_type.html#aed4104618cc718c2c0cec44a48438f94" title="Sets mc motor minimum pwm to PWM_MIN which ensures that the motors stop spinning on zero throttle in ..." alt="" coords="203,129,351,155"/>
+<area shape="rect" id="node7" href="$d4/d15/class_vtol_type.html#a367043e4c812cfa87a92d4b8c1e881e8" title="Sets mc motor minimum pwm to VT_IDLE_PWM_MC which ensures that they are spinning in mc mode..." alt="" coords="201,285,353,311"/>
+<area shape="rect" id="node14" href="$d4/d15/class_vtol_type.html#a4c3058921d945bdeca03fcefd38764c4" title="Sets state of a selection of motors, see struct motor_state. " alt="" coords="207,216,347,257"/>
+<area shape="rect" id="node3" href="$d4/d15/class_vtol_type.html#af1c7c698dda426e11a11ec3c8bc16e57" title="Update fixed wing state. " alt="" coords="421,103,563,144"/>
+<area shape="rect" id="node4" href="$de/df2/class_standard.html#a0b713295b9c242d2d61e80676a6af4c5" title="Update fixed wing state. " alt="" coords="633,5,775,47"/>
+<area shape="rect" id="node5" href="$d2/db7/class_tailsitter.html#af7c8196584f9ee365d4ed458acd263a7" title="Update fixed wing state. " alt="" coords="645,71,763,112"/>
+<area shape="rect" id="node6" href="$db/d0f/class_tiltrotor.html#a2fc3e8c1e947038ae0fa59b675225d61" title="Update fixed wing state. " alt="" coords="637,136,771,177"/>
+<area shape="rect" id="node8" href="$d2/db7/class_tailsitter.html#a10e6d117dcde302f08ad6c32da7c0f17" title="Update transition state. " alt="" coords="433,364,551,405"/>
+<area shape="rect" id="node9" href="$db/d0f/class_tiltrotor.html#ab7d3203a529fe0cfde518b9528784dc4" title="Update transition state. " alt="" coords="405,299,579,340"/>
+<area shape="rect" id="node10" href="$d4/d15/class_vtol_type.html#a99d48c88f434ea1c33f48be0ffc28ae2" title="Update multicopter state. " alt="" coords="419,233,565,275"/>
+<area shape="rect" id="node11" href="$de/df2/class_standard.html#a6f4b65c091e9b635d836fe1dffaae48b" title="Update multicopter state. " alt="" coords="631,201,777,243"/>
+<area shape="rect" id="node12" href="$d2/db7/class_tailsitter.html#a96aed85696e0e8c090fd0f41a308e703" title="Update multicopter state. " alt="" coords="645,267,763,308"/>
+<area shape="rect" id="node13" href="$db/d0f/class_tiltrotor.html#a15e6be05ddf863032cdb249d7574d77c" title="Update multicopter state. " alt="" coords="635,332,773,373"/>
+<area shape="rect" id="node15" href="$de/df2/class_standard.html#aa6d475db4418c291844213d37a231074" title="Update transition state. " alt="" coords="401,168,583,209"/>
+</map>

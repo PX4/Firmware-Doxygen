@@ -1,0 +1,40 @@
+<map id="LedController::maximum_update_interval" name="LedController::maximum_update_interval">
+<area shape="rect" id="node2" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#a8a188dd993943a248cb35bc551fd7413" title="Main loop function. " alt="" coords="217,115,360,141"/>
+<area shape="rect" id="node5" href="$df/de8/class_r_g_b_l_e_d.html#a7ad849430836d59b169fdce79373abc3" title="Main loop function. " alt="" coords="237,165,340,192"/>
+<area shape="rect" id="node8" href="$df/de8/class_r_g_b_l_e_d.html#a74afa10502bae4312526faaa39cfa965" title="RGBLED::start" alt="" coords="233,216,344,243"/>
+<area shape="rect" id="node3" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ad6f4e70883ed9816569f80f768b08a17" title="RGBLED_PWM::led_trampoline" alt="" coords="408,115,617,141"/>
+<area shape="rect" id="node4" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ab7895cba95aa1bd594e849627b688cb6" title="Initialise the driver and make it ready for use. " alt="" coords="665,115,808,141"/>
+<area shape="rect" id="node6" href="$df/de8/class_r_g_b_l_e_d.html#a066c9839db327e76ee28a1a65744432b" title="RGBLED::led_trampoline" alt="" coords="428,165,597,192"/>
+<area shape="rect" id="node7" href="$df/de8/class_r_g_b_l_e_d.html#ae9598ecff03b6c2e913595aecb725fc5" title="RGBLED::init" alt="" coords="685,165,788,192"/>
+<area shape="rect" id="node9" href="$d8/d63/namespacenavio__rgbled.html#a482d092c76c6aaf61138e1f1a2365ab6" title="Attempt to start driver on all available I2C busses. " alt="" coords="448,216,577,243"/>
+<area shape="rect" id="node12" href="$dc/dc7/drivers_2navio__rgbled_2test_2test_8cpp.html#aaae85e447b6802d7c30d28ab6fb0c416" title="do_test" alt="" coords="480,385,545,412"/>
+<area shape="rect" id="node10" href="$d6/dd7/navio__rgbled_8cpp.html#ab01f0436267a40f9c9a4c9480c3066fe" title="navio_rgbled_main" alt="" coords="671,216,802,243"/>
+<area shape="rect" id="node11" href="$df/de8/class_r_g_b_l_e_d.html#a7032a183595c2347429a1744a9a99af2" title="RGBLED::_measure" alt="" coords="883,5,1026,32"/>
+<area shape="rect" id="node13" href="$de/d33/navio__rgbled_2test_2main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="711,503,762,529"/>
+<area shape="rect" id="node14" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="892,56,1017,83"/>
+<area shape="rect" id="node15" href="$d3/d87/ekf2__main_8cpp.html#a6c0fb378aca574bb77d5186b48eb33cc" title="ekf2_main" alt="" coords="913,107,996,133"/>
+<area shape="rect" id="node16" href="$de/d74/fmu_8cpp.html#afde8e45b94740a17b13d070e8af4b786" title="fmu_main" alt="" coords="915,157,994,184"/>
+<area shape="rect" id="node18" href="$d6/d62/_fixedwing_attitude_control_8cpp.html#aebf89678ea4a61329302893fed630411" title="Fixedwing attitude control app start / stop handling function. " alt="" coords="885,208,1024,235"/>
+<area shape="rect" id="node19" href="$dc/d51/_fixedwing_position_control_8cpp.html#a9f868438e7e7d59735d7b5bc4d6fc434" title="fw_pos_control_l1_main" alt="" coords="873,259,1036,285"/>
+<area shape="rect" id="node20" href="$db/d7d/drivers_2gps_2gps_8cpp.html#a8600db28c2368a2df53b1628c4216ebd" title="gps_main" alt="" coords="915,309,994,336"/>
+<area shape="rect" id="node21" href="$d8/d08/namespaceland__detector.html#acba9ff686ff38374bae66795b785baed" title="land_detector::land\l_detector_main" alt="" coords="889,361,1021,402"/>
+<area shape="rect" id="node22" href="$d6/d6a/namespaceload__mon.html#a5276082dd293485f5d2bf23ccaee042e" title="load_mon::load_mon_main" alt="" coords="866,427,1043,453"/>
+<area shape="rect" id="node23" href="$d1/db5/local__position__estimator__main_8cpp.html#a004e411375e16ddf6b8428b36737f9cf" title="local_position_estimator_main" alt="" coords="856,477,1053,504"/>
+<area shape="rect" id="node24" href="$d1/d8c/logger_8h.html#a6fe343624e1112f133fe4ddb8aef8335" title="logger_main" alt="" coords="909,528,1001,555"/>
+<area shape="rect" id="node25" href="$d4/d98/mc__att__control__main_8cpp.html#a97f2c218afe8a9d60a220591327487a0" title="Multicopter attitude control app start / stop handling function. " alt="" coords="883,579,1026,605"/>
+<area shape="rect" id="node26" href="$da/da4/navigator__main_8cpp.html#ac90dbe87f0a18885a3a8c502ad70305c" title="navigator app start / stop handling function " alt="" coords="899,629,1010,656"/>
+<area shape="rect" id="node27" href="$d4/dba/_p_w_m_sim_8cpp.html#a17a0f9486eb5835a2cc4aaf916acc57d" title="pwm_out_sim_main" alt="" coords="885,680,1024,707"/>
+<area shape="rect" id="node29" href="$d5/d40/_r_c_input_8cpp.html#a7c401705df3d6d4ac469aad824c5c94d" title="rc_input_main" alt="" coords="903,731,1006,757"/>
+<area shape="rect" id="node31" href="$d7/ddc/replay__main_8cpp.html#af77be7e8c530f455258b5b9a8dc7880c" title="replay_main" alt="" coords="909,781,1001,808"/>
+<area shape="rect" id="node32" href="$d8/dd5/namespaceevents.html#a429bcc7d034ee4a600cca4d83aaf09c8" title="events::send_event_main" alt="" coords="869,832,1040,859"/>
+<area shape="rect" id="node33" href="$d4/d34/sensors_8cpp.html#a9e29509ce3fe5667cf612ed11f2be33a" title="Sensor app start / stop handling function. " alt="" coords="903,883,1006,909"/>
+<area shape="rect" id="node34" href="$de/d96/tap__esc_8cpp.html#a895724463ef6de448cacd8e6bed03ccb" title="tap_esc_main" alt="" coords="903,933,1006,960"/>
+<area shape="rect" id="node38" href="$dc/df8/wind__estimator__main_8cpp.html#a6a5830e515a67a7aae41869f007866f3" title="wind_estimator_main" alt="" coords="882,985,1027,1012"/>
+<area shape="rect" id="node17" href="$df/d64/class_p_x4_f_m_u.html#a928c48d43a78ad5e6c2b569ed12ba700" title="PX4FMU::print_status" alt="" coords="1105,157,1257,184"/>
+<area shape="rect" id="node28" href="$d7/d56/class_p_w_m_sim.html#a1939429e041e3f07f9d7bcb0b4dc7969" title="PWMSim::print_status" alt="" coords="1103,680,1258,707"/>
+<area shape="rect" id="node30" href="$d4/d39/class_r_c_input.html#af2453ed486af108e1ceefc30a0aa45e6" title="RCInput::print_status" alt="" coords="1107,731,1254,757"/>
+<area shape="rect" id="node35" href="$d2/da9/class_t_a_p___e_s_c.html#a79d15c11063e01902fc21e34bc603000" title="TAP_ESC::print_usage" alt="" coords="1101,931,1260,957"/>
+<area shape="rect" id="node36" href="$d2/da9/class_t_a_p___e_s_c.html#abb422ddc36bd219390bff22d9ca497eb" title="TAP_ESC::instantiate" alt="" coords="1332,905,1483,932"/>
+<area shape="rect" id="node37" href="$d2/da9/class_t_a_p___e_s_c.html#aa0d2f9f2832494428b5be28596ca40fe" title="TAP_ESC::custom_command" alt="" coords="1308,956,1507,983"/>
+<area shape="rect" id="node39" href="$de/df6/class_wind_estimator_module.html#a6ab32a5d9c945ee67b84108d6d86a58a" title="WindEstimatorModule\l::print_status" alt="" coords="1105,982,1256,1023"/>
+</map>

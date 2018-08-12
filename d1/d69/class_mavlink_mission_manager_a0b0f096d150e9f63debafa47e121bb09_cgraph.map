@@ -1,0 +1,51 @@
+<map id="MavlinkMissionManager::handle_message" name="MavlinkMissionManager::handle_message">
+<area shape="rect" id="node2" href="$d1/d69/class_mavlink_mission_manager.html#a5084a00c1cc492fc4f0566231e85cb10" title="MavlinkMissionManager\l::handle_mission_ack" alt="" coords="475,858,637,899"/>
+<area shape="rect" id="node12" href="$d1/d69/class_mavlink_mission_manager.html#a987f325014822a471b7f2190e62a46d5" title="MavlinkMissionManager\l::handle_mission_clear_all" alt="" coords="469,746,643,787"/>
+<area shape="rect" id="node33" href="$d1/d69/class_mavlink_mission_manager.html#a4973e172a2b1aa2614c6b55d54760c20" title="MavlinkMissionManager\l::handle_mission_count" alt="" coords="475,663,637,705"/>
+<area shape="rect" id="node34" href="$d1/d69/class_mavlink_mission_manager.html#a8c3328cc22d09da209c52a8272ed6e31" title="MavlinkMissionManager\l::handle_mission_item" alt="" coords="230,473,393,514"/>
+<area shape="rect" id="node39" href="$d1/d69/class_mavlink_mission_manager.html#a64afcaef5dca35d8cacf2d25acc48212" title="MavlinkMissionManager\l::handle_mission_item_int" alt="" coords="225,549,398,590"/>
+<area shape="rect" id="node40" href="$d1/d69/class_mavlink_mission_manager.html#aae54e060ac36663943ce1252b3bde0fa" title="MavlinkMissionManager\l::handle_mission_request" alt="" coords="226,1142,397,1183"/>
+<area shape="rect" id="node45" href="$d1/d69/class_mavlink_mission_manager.html#a703842ebd1a79da5ea8ab4e116cd962f" title="MavlinkMissionManager\l::handle_mission_request_int" alt="" coords="216,950,407,991"/>
+<area shape="rect" id="node46" href="$d1/d69/class_mavlink_mission_manager.html#abd8bb4da625d9a54b8cc66c326a53916" title="MavlinkMissionManager\l::handle_mission_request_list" alt="" coords="459,1494,653,1535"/>
+<area shape="rect" id="node50" href="$d1/d69/class_mavlink_mission_manager.html#a3861969422931980a14ee8a11c0d0354" title="MavlinkMissionManager\l::handle_mission_set\l_current" alt="" coords="475,524,637,580"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="991,1029,1116,1056"/>
+<area shape="rect" id="node4" href="$d1/d69/class_mavlink_mission_manager.html#ace485a5195b65fc39ca8bc9cdbbacc23" title="get the number of item count for the current _mission_type " alt="" coords="723,1283,886,1325"/>
+<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a6772377272b44d6a50eefd7ece27f0a9" title="Send a status text with loglevel CRITICAL. " alt="" coords="969,702,1137,743"/>
+<area shape="rect" id="node6" href="$d1/d69/class_mavlink_mission_manager.html#a2a07c3e54fc60c534e5210f767334452" title="set _state to idle (and do necessary cleanup) " alt="" coords="723,593,886,634"/>
+<area shape="rect" id="node9" href="$d1/d69/class_mavlink_mission_manager.html#aa5c2b4dda4230a6cb7bc1b9b46c1720f" title="MavlinkMissionManager\l::send_mission_request" alt="" coords="723,913,886,954"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="1011,500,1096,527"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="1245,500,1327,527"/>
+<area shape="rect" id="node10" href="$d1/d69/class_mavlink_mission_manager.html#a46f76568ce76148b6129c792bc881f6e" title="get the maximum number of item count for the current _mission_type " alt="" coords="967,869,1140,910"/>
+<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a194a3b8f53d8f45849ad522c7f273215" title="Mavlink::get_channel" alt="" coords="1213,1265,1359,1292"/>
+<area shape="rect" id="node13" href="$d1/d69/class_mavlink_mission_manager.html#ad39599d7e28fed6164cfd559c017af08" title="Publish mission topic to notify navigator about changes. " alt="" coords="723,191,886,233"/>
+<area shape="rect" id="node30" href="$d1/d69/class_mavlink_mission_manager.html#ac2b65cbc1110a3605d9cf0361276a2b6" title="store the geofence count to dataman " alt="" coords="721,475,889,517"/>
+<area shape="rect" id="node31" href="$d1/d69/class_mavlink_mission_manager.html#a58a188959a59162d272985976d42cb23" title="store the safepoint count to dataman " alt="" coords="721,410,889,451"/>
+<area shape="rect" id="node32" href="$d1/d69/class_mavlink_mission_manager.html#a8679217c8cb18f563c5631f46ce5b5b0" title="Sends an waypoint ack message. " alt="" coords="972,1213,1135,1254"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a1fa2ba1e37a3615ca23fe3cbf42c12be" title="Lock all items of a type. " alt="" coords="1018,249,1089,276"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="1016,449,1091,476"/>
+<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="1003,148,1103,175"/>
+<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1009,199,1097,225"/>
+<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="1426,1384,1551,1411"/>
+<area shape="rect" id="node21" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="1203,1506,1369,1547"/>
+<area shape="rect" id="node17" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1615,1435,1703,1461"/>
+<area shape="rect" id="node18" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1616,1384,1703,1411"/>
+<area shape="rect" id="node19" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1616,1333,1703,1360"/>
+<area shape="rect" id="node20" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1608,1485,1711,1512"/>
+<area shape="rect" id="node22" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="1423,1485,1555,1512"/>
+<area shape="rect" id="node23" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="1446,1536,1531,1563"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1215,166,1357,207"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="1215,101,1357,142"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1417,159,1560,201"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1417,225,1560,266"/>
+<area shape="rect" id="node35" href="$d1/d69/class_mavlink_mission_manager.html#a3cc251b5c79a7a80c4f2521f0971a566" title="MavlinkMissionManager\l::handle_mission_item_both" alt="" coords="464,443,648,485"/>
+<area shape="rect" id="node36" href="$d1/d69/class_mavlink_mission_manager.html#a0b43e1be4f4a23e95bdbc70e9626ec6d" title="Parse mavlink MISSION_ITEM message to get mission_item_s. " alt="" coords="705,23,904,65"/>
+<area shape="rect" id="node37" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="998,5,1109,32"/>
+<area shape="rect" id="node38" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="1003,56,1104,83"/>
+<area shape="rect" id="node41" href="$d1/d69/class_mavlink_mission_manager.html#ab57e2591d8f8da25dc2174046b16ec1e" title="MavlinkMissionManager\l::handle_mission_request_both" alt="" coords="455,1254,657,1295"/>
+<area shape="rect" id="node42" href="$d1/d69/class_mavlink_mission_manager.html#a5d33cecfa4470f9ca56efd220c9cbc35" title="MavlinkMissionManager\l::send_mission_item" alt="" coords="723,1553,886,1594"/>
+<area shape="rect" id="node43" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="1017,1560,1089,1587"/>
+<area shape="rect" id="node44" href="$d1/d69/class_mavlink_mission_manager.html#a31cea0f6092cb0c0aad679eb9743e237" title="Format mission_item_s as mavlink MISSION_ITEM(_INT) message. " alt="" coords="952,1443,1155,1485"/>
+<area shape="rect" id="node47" href="$d1/d69/class_mavlink_mission_manager.html#af9be0e96d90c5e8c95c3c5e9e8b01d1c" title="load geofence stats from dataman " alt="" coords="723,1749,886,1790"/>
+<area shape="rect" id="node48" href="$d1/d69/class_mavlink_mission_manager.html#a448f0d69ef1d6f187ecf8b24d94a08e0" title="load safe point stats from dataman " alt="" coords="723,1683,886,1725"/>
+<area shape="rect" id="node49" href="$d1/d69/class_mavlink_mission_manager.html#aba4c5f4e1822803320e8196389d1e84a" title="MavlinkMissionManager\l::send_mission_count" alt="" coords="723,1618,886,1659"/>
+</map>

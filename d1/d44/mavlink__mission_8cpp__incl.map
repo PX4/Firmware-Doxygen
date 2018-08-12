@@ -1,0 +1,38 @@
+<map id="src/modules/mavlink/mavlink_mission.cpp" name="src/modules/mavlink/mavlink_mission.cpp">
+<area shape="rect" id="node2" href="$d9/de6/mavlink__mission_8h.html" title="Implementation of the MAVLink mission protocol. " alt="" coords="80,95,211,121"/>
+<area shape="rect" id="node4" href="$d4/d9d/navigation_8h.html" title="Definition of a mission consisting of mission items. " alt="" coords="531,251,680,278"/>
+<area shape="rect" id="node7" href="$db/d02/build_2doxygen_2u_o_r_b_2topics_2mission_8h.html" title="uORB/topics/mission.h" alt="" coords="422,341,579,367"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="562,423,678,449"/>
+<area shape="rect" id="node16" href="$d2/d69/mavlink__main_8h.html" title="MAVLink 2.0 protocol interface definition. " alt="" coords="1288,169,1401,196"/>
+<area shape="rect" id="node18" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="2300,341,2402,367"/>
+<area shape="rect" id="node30" href="$df/d0e/mission__result_8h.html" title="uORB/topics/mission\l_result.h" alt="" coords="755,244,902,285"/>
+<area shape="rect" id="node37" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1870,423,1987,449"/>
+<area shape="rect" id="node38" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2521,341,2629,367"/>
+<area shape="rect" id="node42" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="2926,95,3042,121"/>
+<area shape="rect" id="node3" href="$db/d6e/dataman_8h.html" title="DATAMANAGER driver. " alt="" coords="260,169,397,196"/>
+<area shape="rect" id="node8" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="919,423,1028,449"/>
+<area shape="rect" id="node10" href="$df/d96/mavlink__bridge__header_8h.html" title="mavlink_bridge_header.h" alt="" coords="1428,341,1594,367"/>
+<area shape="rect" id="node11" href="$d5/d0d/mavlink__rate__limiter_8h.html" title="Message rate limiter definition. " alt="" coords="46,341,195,367"/>
+<area shape="rect" id="node14" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="658,497,745,524"/>
+<area shape="rect" id="node17" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="2394,251,2486,278"/>
+<area shape="rect" id="node24" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="1856,251,2012,278"/>
+<area shape="rect" id="node25" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1292,423,1431,449"/>
+<area shape="rect" id="node26" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="2239,251,2370,278"/>
+<area shape="rect" id="node28" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="1190,341,1352,367"/>
+<area shape="rect" id="node29" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="1894,341,2066,367"/>
+<area shape="rect" id="node31" href="$d9/d33/telemetry__status_8h.html" title="uORB/topics/telemetry\l_status.h" alt="" coords="1011,333,1166,375"/>
+<area shape="rect" id="node32" href="$d8/d69/mavlink__orb__subscription_8h.html" title="uORB subscription definition. " alt="" coords="654,341,834,367"/>
+<area shape="rect" id="node33" href="$d8/d99/mavlink__stream_8h.html" title="Mavlink messages stream definition. " alt="" coords="272,341,398,367"/>
+<area shape="rect" id="node34" href="$d2/df1/mavlink__messages_8h.html" title="MAVLink 1.0 message formatters definition. " alt="" coords="310,251,456,278"/>
+<area shape="rect" id="node35" href="$d0/d76/mavlink__shell_8h.html" title="A shell to be used via MAVLink. " alt="" coords="2062,423,2174,449"/>
+<area shape="rect" id="node36" href="$d3/da1/mavlink__ulog_8h.html" title="ULog data streaming via MAVLink. " alt="" coords="1382,251,1491,278"/>
+<area shape="rect" id="node19" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="2312,423,2390,449"/>
+<area shape="rect" id="node43" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="3046,169,3174,196"/>
+<area shape="rect" id="node44" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="3198,169,3280,196"/>
+<area shape="rect" id="node45" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="3304,169,3428,196"/>
+<area shape="rect" id="node46" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="3452,169,3538,196"/>
+<area shape="rect" id="node47" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="2613,169,2705,196"/>
+<area shape="rect" id="node48" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="2729,169,2821,196"/>
+<area shape="rect" id="node49" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2846,169,2923,196"/>
+<area shape="rect" id="node50" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="2947,169,3022,196"/>
+</map>

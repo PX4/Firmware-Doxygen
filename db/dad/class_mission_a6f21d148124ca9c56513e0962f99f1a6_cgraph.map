@@ -1,0 +1,19 @@
+<map id="Mission::set_closest_item_as_current" name="Mission::set_closest_item_as_current">
+<area shape="rect" id="node2" href="$db/dad/class_mission.html#a722fc381a1112e7599fb1a13bb707945" title="Return the index of the closest offboard mission item to the current global position. " alt="" coords="196,326,351,367"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="454,157,526,184"/>
+<area shape="rect" id="node13" href="$da/d7b/class_mission_block.html#ab1ec02b6ac5b533b1d2981f87067c739" title="MissionBlock::get_absolute\l_altitude_for_item" alt="" coords="399,209,581,250"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="641,267,784,309"/>
+<area shape="rect" id="node15" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="415,326,565,367"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="417,391,563,433"/>
+<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="413,457,567,484"/>
+<area shape="rect" id="node18" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="423,509,557,550"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="847,56,973,83"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="629,150,796,191"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="672,216,753,243"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1031,107,1119,133"/>
+<area shape="rect" id="node6" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1032,56,1119,83"/>
+<area shape="rect" id="node7" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1032,5,1119,32"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1024,157,1127,184"/>
+<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="844,157,976,184"/>
+<area shape="rect" id="node11" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="867,208,953,235"/>
+</map>

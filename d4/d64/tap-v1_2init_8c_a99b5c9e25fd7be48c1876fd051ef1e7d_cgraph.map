@@ -1,0 +1,13 @@
+<map id="stm32_boardinitialize" name="stm32_boardinitialize">
+<area shape="rect" id="node2" href="$d0/d7a/esc35-v1_2led_8c.html#a14ce19cd6180f85123c3093884443de2" title="board_autoled_initialize" alt="" coords="197,56,355,83"/>
+<area shape="rect" id="node4" href="$d2/d5e/tap-v1_2board__config_8h.html#a063dae2bb2c33eb88d88a358795c2ae0" title="board_pwr_init" alt="" coords="223,107,329,133"/>
+<area shape="rect" id="node11" href="$d5/dc1/aerocore2_2board__config_8h.html#ad828192b15b4ef2b10b491cae2945521" title="stm32_spiinitialize" alt="" coords="211,157,341,184"/>
+<area shape="rect" id="node12" href="$d5/dc1/aerocore2_2board__config_8h.html#af388dbb10eb307c3a9efde36ffe783bf" title="stm32_usbinitialize" alt="" coords="209,208,343,235"/>
+<area shape="rect" id="node3" href="$da/def/aerocore2_2led_8c.html#a0cc0bc29c523ad33c74e9b50baf905c5" title="Ideally we&#39;d be able to get these from up_internal.h, but since we want to be able to disable the Nut..." alt="" coords="431,56,493,83"/>
+<area shape="rect" id="node5" href="$d8/d3d/pwr_8c.html#aa09a060c5102ff0cc53d1a0875f4f2b1" title="board_button_irq" alt="" coords="403,107,521,133"/>
+<area shape="rect" id="node6" href="$d8/d3d/pwr_8c.html#a7db1effb18f6d8973c6f9a645e8c31cc" title="board_pwr_button_down" alt="" coords="569,5,732,32"/>
+<area shape="rect" id="node7" href="$d8/d3d/pwr_8c.html#a6a4bc26a21ab305b8080a6d37726955f" title="led_on" alt="" coords="621,56,681,83"/>
+<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#a6fa4fcf1ad1f2f62773a03323f08592e" title="clock_gettime" alt="" coords="599,107,702,133"/>
+<area shape="rect" id="node9" href="$d8/d3d/pwr_8c.html#a332be2958bf709819b7853ee7fe9372e" title="led_off" alt="" coords="620,157,681,184"/>
+<area shape="rect" id="node10" href="$d8/d3d/pwr_8c.html#a7eab334f84b1c992d1a26fadff77d018" title="board_shutdown" alt="" coords="592,208,709,235"/>
+</map>

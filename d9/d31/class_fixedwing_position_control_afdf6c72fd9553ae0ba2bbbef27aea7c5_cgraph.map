@@ -1,0 +1,51 @@
+<map id="FixedwingPositionControl::control_takeoff" name="FixedwingPositionControl::control_takeoff">
+<area shape="rect" id="node2" href="$d9/d31/class_fixedwing_position_control.html#a751b06c2cba53b416bea84a04a2b974a" title="FixedwingPositionControl\l::calculate_target_airspeed" alt="" coords="503,211,681,253"/>
+<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="747,511,859,537"/>
+<area shape="rect" id="node4" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#ae4bb9df857577cd16009a883dbca9f9b" title="runwaytakeoff::RunwayTakeoff\l::climbout" alt="" coords="229,857,433,898"/>
+<area shape="rect" id="node6" href="$d0/d58/position__estimator__inav__main_8cpp.html#a9788a89a1fa912669102bc6049a9ed9b" title="max" alt="" coords="569,881,615,908"/>
+<area shape="rect" id="node8" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#ad91f9e290a2b660dbf3ed808d295b704" title="runwaytakeoff::RunwayTakeoff\l::controlYaw" alt="" coords="229,1553,433,1594"/>
+<area shape="rect" id="node9" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="783,1041,822,1068"/>
+<area shape="rect" id="node10" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="510,1369,674,1396"/>
+<area shape="rect" id="node11" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a8ea4156a2d5569653dc12f58acbc2d83" title="Get roll angle setpoint for fixed wing. " alt="" coords="249,1618,412,1659"/>
+<area shape="rect" id="node12" href="$d9/d31/class_fixedwing_position_control.html#a9f37fefb7cf58a5623ffc9eadf032bcf" title="FixedwingPositionControl\l::get_tecs_pitch" alt="" coords="245,1683,416,1725"/>
+<area shape="rect" id="node14" href="$d9/d31/class_fixedwing_position_control.html#a401dadd463c4c959ac64181b48d43ae5" title="Return the terrain estimate during takeoff or takeoff_alt if terrain estimate is not available..." alt="" coords="245,1748,416,1804"/>
+<area shape="rect" id="node15" href="$d0/d89/classlaunchdetection_1_1_launch_detector.html#a6af0b7430a6725934e42832aa709b4d6" title="launchdetection::LaunchDetector\l::getLaunchDetected" alt="" coords="224,1945,437,1986"/>
+<area shape="rect" id="node16" href="$d0/d89/classlaunchdetection_1_1_launch_detector.html#a95e435f33766232ba09afde48b8bbdb2" title="launchdetection::LaunchDetector\l::launchDetectionEnabled" alt="" coords="485,1883,699,1925"/>
+<area shape="rect" id="node18" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a8439220a9ba45ce7ddd915fa26d706b0" title="runwaytakeoff::RunwayTakeoff\l::getMaxPitch" alt="" coords="229,1010,433,1051"/>
+<area shape="rect" id="node19" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#ac927e5c4049772220a70d56cc944bc20" title="runwaytakeoff::RunwayTakeoff\l::getMinAirspeedScaling" alt="" coords="229,2075,433,2117"/>
+<area shape="rect" id="node20" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a3e33d26b861dfd93766bcb7cc7a2f49e" title="runwaytakeoff::RunwayTakeoff\l::getMinPitch" alt="" coords="229,773,433,814"/>
+<area shape="rect" id="node22" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a245ff3e753a2d106dc46d0ab05455157" title="runwaytakeoff::RunwayTakeoff\l::getPitch" alt="" coords="490,81,694,122"/>
+<area shape="rect" id="node23" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="752,219,853,245"/>
+<area shape="rect" id="node24" href="$d0/d89/classlaunchdetection_1_1_launch_detector.html#af986e951d62ff62356b5674b5bdcc8b4" title="launchdetection::LaunchDetector\l::getPitchMax" alt="" coords="224,2010,437,2051"/>
+<area shape="rect" id="node26" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a1aa3a11b26f4fbbdacbdd92eb82ffe74" title="runwaytakeoff::RunwayTakeoff\l::getRoll" alt="" coords="490,146,694,187"/>
+<area shape="rect" id="node27" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#ac4b0d14b68c7e4eb0e86892eebe22eba" title="runwaytakeoff::RunwayTakeoff\l::getStartWP" alt="" coords="229,2141,433,2182"/>
+<area shape="rect" id="node28" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a6d7a23240fb3e2c50ee34656fd9c9b02" title="runwaytakeoff::RunwayTakeoff\l::getYaw" alt="" coords="229,2206,433,2247"/>
+<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="529,1471,655,1497"/>
+<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="531,1521,653,1548"/>
+<area shape="rect" id="node31" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a883a430817992665328bf4380c7a9a7d" title="runwaytakeoff::RunwayTakeoff\l::init" alt="" coords="229,1370,433,1411"/>
+<area shape="rect" id="node32" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a024318a61f99e3c68839efce8afdee9a" title="runwaytakeoff::RunwayTakeoff\l::isInitialized" alt="" coords="229,2271,433,2313"/>
+<area shape="rect" id="node33" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a0b85d2795cd09a2d17fb90aa0980dd23" title="The current target bearing. " alt="" coords="249,1082,412,1123"/>
+<area shape="rect" id="node35" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a4812a285e3309e23e33f86f5cb86cf78" title="Navigate between two waypoints. " alt="" coords="249,554,412,595"/>
+<area shape="rect" id="node40" href="$d0/d89/classlaunchdetection_1_1_launch_detector.html#a681eb5921ef67a5b6ba4eae7cc876fff" title="launchdetection::LaunchDetector\l::reset" alt="" coords="224,2337,437,2378"/>
+<area shape="rect" id="node41" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a35fb2eb0c23823f1b4290cf2364769d1" title="runwaytakeoff::RunwayTakeoff\l::resetIntegrators" alt="" coords="229,2402,433,2443"/>
+<area shape="rect" id="node42" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#ac414afcc00eff3018043971ee7219be4" title="runwaytakeoff::RunwayTakeoff\l::runwayTakeoffEnabled" alt="" coords="229,2467,433,2509"/>
+<area shape="rect" id="node43" href="$d9/d31/class_fixedwing_position_control.html#a1fbe4b171c27542e459c3e058f55b267" title="FixedwingPositionControl\l::tecs_update_pitch_throttle" alt="" coords="239,1151,422,1193"/>
+<area shape="rect" id="node49" href="$d0/d89/classlaunchdetection_1_1_launch_detector.html#aa5eb53d2bd2ab28a8dd9d62fb9d9f733" title="launchdetection::LaunchDetector\l::update" alt="" coords="224,1827,437,1869"/>
+<area shape="rect" id="node50" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a388b0a12166ab689123e978965a5e2ad" title="runwaytakeoff::RunwayTakeoff\l::update" alt="" coords="229,1487,433,1529"/>
+<area shape="rect" id="node5" href="$d0/d58/position__estimator__inav__main_8cpp.html#ab72387a3954ae834958e94d34cf610ea" title="min" alt="" coords="571,780,613,807"/>
+<area shape="rect" id="node7" href="$dc/d5d/namespacebmp280.html#a997ff1692ee326fe28fe00a2f1f5c004" title="Reset the driver. " alt="" coords="539,831,645,857"/>
+<area shape="rect" id="node13" href="$d1/d1f/class_t_e_c_s.html#ad83e038b3d5482f5f617cbf5b121fd2a" title="TECS::get_pitch_setpoint" alt="" coords="506,1691,678,1717"/>
+<area shape="rect" id="node17" href="$d3/d70/classlaunchdetection_1_1_launch_method.html#a47be65f46e9c15647f4220d541e16030" title="launchdetection::LaunchMethod\l::getLaunchDetected" alt="" coords="489,1949,695,1990"/>
+<area shape="rect" id="node21" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="550,729,634,756"/>
+<area shape="rect" id="node25" href="$d3/d70/classlaunchdetection_1_1_launch_method.html#a78579b5998ed13b9d8157d49e1068050" title="launchdetection::LaunchMethod\l::getPitchMax" alt="" coords="489,2014,695,2055"/>
+<area shape="rect" id="node34" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="747,747,858,773"/>
+<area shape="rect" id="node36" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="523,445,661,486"/>
+<area shape="rect" id="node37" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a44d8387e2e22bf4df57d10cdb5bcc8d1" title="Convert a 2D vector from WGS84 to planar coordinates. " alt="" coords="509,277,675,318"/>
+<area shape="rect" id="node38" href="$d1/d71/classmatrix_1_1_vector.html#a8cbb2d42da6488e74e0596b0e14bd825" title="matrix::Vector::normalized" alt="" coords="505,561,679,588"/>
+<area shape="rect" id="node39" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#adcbf0ee88d4daf62942f15100a689af3" title="Update roll angle setpoint. " alt="" coords="511,613,673,654"/>
+<area shape="rect" id="node44" href="$d1/d1f/class_t_e_c_s.html#a6a2cc48df5201b3cd43e88eb35f9d3bc" title="TECS::reset_state" alt="" coords="527,1100,657,1127"/>
+<area shape="rect" id="node45" href="$d1/d1f/class_t_e_c_s.html#a9823126daa119eb29fbcc40f6be61953" title="TECS::set_detect_underspeed\l_enabled" alt="" coords="491,1151,693,1193"/>
+<area shape="rect" id="node46" href="$d1/d1f/class_t_e_c_s.html#aab6412a9450a4430487b7b1cffa7c38f" title="Updates the following vehicle kineamtic state estimates: Vertical position, velocity and acceleration..." alt="" coords="515,1034,669,1075"/>
+<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="551,1217,633,1244"/>
+<area shape="rect" id="node48" href="$df/de7/test__sensors_8c.html#a7e59b8ff2e9eb4aba115d1a9fe3ff438" title="baro" alt="" coords="569,1268,615,1295"/>
+</map>

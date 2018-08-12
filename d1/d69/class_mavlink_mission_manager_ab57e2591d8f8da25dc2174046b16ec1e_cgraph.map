@@ -1,0 +1,22 @@
+<map id="MavlinkMissionManager::handle_mission_request_both" name="MavlinkMissionManager::handle_mission_request_both">
+<area shape="rect" id="node2" href="$d1/d69/class_mavlink_mission_manager.html#ace485a5195b65fc39ca8bc9cdbbacc23" title="get the number of item count for the current _mission_type " alt="" coords="256,5,419,47"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="505,34,631,61"/>
+<area shape="rect" id="node4" href="$d1/d69/class_mavlink_mission_manager.html#a8679217c8cb18f563c5631f46ce5b5b0" title="Sends an waypoint ack message. " alt="" coords="487,85,649,127"/>
+<area shape="rect" id="node6" href="$d1/d69/class_mavlink_mission_manager.html#a5d33cecfa4470f9ca56efd220c9cbc35" title="MavlinkMissionManager\l::send_mission_item" alt="" coords="256,173,419,215"/>
+<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#a6772377272b44d6a50eefd7ece27f0a9" title="Send a status text with loglevel CRITICAL. " alt="" coords="484,320,652,361"/>
+<area shape="rect" id="node20" href="$d1/d69/class_mavlink_mission_manager.html#a2a07c3e54fc60c534e5210f767334452" title="set _state to idle (and do necessary cleanup) " alt="" coords="256,379,419,420"/>
+<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a194a3b8f53d8f45849ad522c7f273215" title="Mavlink::get_channel" alt="" coords="728,122,873,149"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="532,269,604,295"/>
+<area shape="rect" id="node18" href="$d1/d69/class_mavlink_mission_manager.html#a31cea0f6092cb0c0aad679eb9743e237" title="Format mission_item_s as mavlink MISSION_ITEM(_INT) message. " alt="" coords="467,203,669,244"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="935,263,1061,290"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="717,315,884,356"/>
+<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="760,385,841,411"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1119,263,1207,290"/>
+<area shape="rect" id="node10" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1120,314,1207,341"/>
+<area shape="rect" id="node11" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1120,213,1207,239"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1112,365,1215,391"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="932,365,1064,391"/>
+<area shape="rect" id="node15" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="955,314,1041,341"/>
+<area shape="rect" id="node19" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="748,210,853,237"/>
+<area shape="rect" id="node21" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="525,386,611,413"/>
+</map>

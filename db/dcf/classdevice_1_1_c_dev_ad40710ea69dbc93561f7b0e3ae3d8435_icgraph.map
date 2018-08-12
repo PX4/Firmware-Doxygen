@@ -1,0 +1,51 @@
+<map id="device::CDev::poll_notify" name="device::CDev::poll_notify">
+<area shape="rect" id="node2" href="$d5/d16/class_m_p_u9250__mag.html#a8680a969755273d73edba631d7cf32ff" title="MPU9250_mag::_measure" alt="" coords="188,56,365,83"/>
+<area shape="rect" id="node4" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="639,81,777,108"/>
+<area shape="rect" id="node5" href="$d5/d35/class_m_e_a_s_airspeed_sim.html#ab3de30b87eb975d0aec8515d9c0c80f7" title="MEASAirspeedSim::collect" alt="" coords="187,208,367,235"/>
+<area shape="rect" id="node7" href="$d1/daf/class_b_m_p280.html#aa459a57ffbe6ca906f53555e016ec4e7" title="BMP280::collect" alt="" coords="217,284,336,311"/>
+<area shape="rect" id="node11" href="$d8/d56/class_t_f_m_i_n_i.html#ad84428a299daf0435ade5e64db908f13" title="TFMINI::collect" alt="" coords="220,411,333,437"/>
+<area shape="rect" id="node14" href="$d7/dd9/class_s_f0_x.html#a10ad3a3321cda934a6b4d18b2ee0d02d" title="SF0X::collect" alt="" coords="226,512,327,539"/>
+<area shape="rect" id="node17" href="$dc/d68/class_h_c___s_r04.html#a1b1533cab72c1ecfd6f5e304646fb0dc" title="HC_SR04::collect" alt="" coords="213,613,341,640"/>
+<area shape="rect" id="node20" href="$d8/d33/class_m_p_l3115_a2.html#acaa299f1264ea030f6c0cad136477d84" title="Collect the result of the most recent measurement. " alt="" coords="207,740,346,767"/>
+<area shape="rect" id="node24" href="$d4/df1/class_l_i_s3_m_d_l.html#a4f9991a60bec3e89c424a4c526f22a04" title="Collect the result of the most recent measurement. " alt="" coords="215,867,338,893"/>
+<area shape="rect" id="node27" href="$d3/d05/class_m_s5611.html#af8be111387f7d74224f734e274ba767a" title="Collect the result of the most recent measurement. " alt="" coords="219,917,335,944"/>
+<area shape="rect" id="node31" href="$dc/d03/class_l_p_s25_h.html#a54bf0a1c6dbdbcb2c3ea7f57d6979869" title="Collect the result of the most recent measurement. " alt="" coords="218,968,335,995"/>
+<area shape="rect" id="node34" href="$d5/dad/class_h_m_c5883.html#aa274541257c488a9b67e239737e73034" title="Collect the result of the most recent measurement. " alt="" coords="213,1019,340,1045"/>
+<area shape="rect" id="node37" href="$dc/d3d/class_lidar_lite_p_w_m.html#a6da118d05ed6e95effd66724bc04ce52" title="LidarLitePWM::measure" alt="" coords="195,1069,358,1096"/>
+<area shape="rect" id="node39" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="435,1407,573,1433"/>
+<area shape="rect" id="node40" href="$d3/dd6/class_b_m_i160__gyro.html#a6a87d2e4ecc35376a9da9ce7b6a060d4" title="BMI160_gyro::parent\l_poll_notify" alt="" coords="205,1186,348,1227"/>
+<area shape="rect" id="node41" href="$d5/d99/class_m_p_u9250__gyro.html#a8c75646e9b0b8f340c0a2d3d06687cc6" title="MPU9250_gyro::parent\l_poll_notify" alt="" coords="199,1121,355,1162"/>
+<area shape="rect" id="node42" href="$da/dfc/class_a_d_i_s16448__gyro.html#a3678ec7f3b6017de7d10c9fd12c51a2f" title="ADIS16448_gyro::parent\l_poll_notify" alt="" coords="194,1303,359,1345"/>
+<area shape="rect" id="node43" href="$db/d23/class_f_x_o_s8701_c_q__mag.html#af7da79abe71c3dd55ca53fbe51abf01e" title="FXOS8701CQ_mag::parent\l_poll_notify" alt="" coords="185,1369,368,1410"/>
+<area shape="rect" id="node44" href="$d7/d54/class_m_p_u6000__gyro.html#a6c62644637eecb3c07a4129618e1d253" title="MPU6000_gyro::parent\l_poll_notify" alt="" coords="199,1434,355,1475"/>
+<area shape="rect" id="node45" href="$db/d2e/class_a_d_i_s16448__mag.html#a2cc7758d3019f1fe6c91fd32967d425f" title="ADIS16448_mag::parent\l_poll_notify" alt="" coords="194,1499,359,1541"/>
+<area shape="rect" id="node46" href="$d9/dfa/class_l_s_m303_d__mag.html#a2b435844331d6752eead5d5ea28f30a8" title="LSM303D_mag::parent\l_poll_notify" alt="" coords="199,1565,355,1606"/>
+<area shape="rect" id="node47" href="$de/ddc/class_syslink_bridge.html#ab4d0f86f6d974c78d09c66438a652ff6" title="SyslinkBridge::pipe\l_message" alt="" coords="209,1630,344,1671"/>
+<area shape="rect" id="node48" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a0a843a69cfe07b53ed802398e522f73b" title="message, it is counted as two. " alt="" coords="184,1695,369,1737"/>
+<area shape="rect" id="node49" href="$db/d23/classdevice_1_1_v_file.html#ad70d207d021e966a7c464d303f8ce158" title="Perform a write to the device. " alt="" coords="209,1761,344,1788"/>
+<area shape="rect" id="node50" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="189,1812,364,1839"/>
+<area shape="rect" id="node3" href="$d5/d16/class_m_p_u9250__mag.html#a14f964ed506f7c0d8907b6a46b509fbf" title="MPU9250_mag::measure" alt="" coords="419,5,589,32"/>
+<area shape="rect" id="node6" href="$d5/d35/class_m_e_a_s_airspeed_sim.html#a57d16afe23afe664909814d1c5d0bd9f" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="417,157,591,184"/>
+<area shape="rect" id="node8" href="$d1/daf/class_b_m_p280.html#a79b5e09c5047a1e5bc0248e18d1bb9e5" title="BMP280::cycle" alt="" coords="449,259,559,285"/>
+<area shape="rect" id="node9" href="$d1/daf/class_b_m_p280.html#a19cb357451895c41f211837684d90f84" title="Initialise the driver and make it ready for use. " alt="" coords="455,309,553,336"/>
+<area shape="rect" id="node10" href="$d1/daf/class_b_m_p280.html#a8969107b1e5605b1686dda6181cc87e8" title="BMP280::read" alt="" coords="451,208,557,235"/>
+<area shape="rect" id="node12" href="$d8/d56/class_t_f_m_i_n_i.html#a55e2ea5d275a9ec29ca6bdd1bf682b1e" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="451,360,557,387"/>
+<area shape="rect" id="node13" href="$d8/d56/class_t_f_m_i_n_i.html#ab7d99c5e05cb38281c893b4f4610c41b" title="Perform a read from the device. " alt="" coords="454,411,554,437"/>
+<area shape="rect" id="node15" href="$d7/dd9/class_s_f0_x.html#aa78b274f95f908a8d431f1e5531eaeac" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="457,461,551,488"/>
+<area shape="rect" id="node16" href="$d7/dd9/class_s_f0_x.html#a721223b8d03012270b9bfa65be6345ca" title="Perform a read from the device. " alt="" coords="460,512,548,539"/>
+<area shape="rect" id="node18" href="$dc/d68/class_h_c___s_r04.html#a6b5c25d52dc71e33e240ff955b0f419e" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="443,563,565,589"/>
+<area shape="rect" id="node19" href="$dc/d68/class_h_c___s_r04.html#ae8d561a530e537f031b76191b8516049" title="Perform a read from the device. " alt="" coords="447,613,561,640"/>
+<area shape="rect" id="node21" href="$d8/d33/class_m_p_l3115_a2.html#ad38c15828cf32660f4348fe856cdc60a" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="438,715,570,741"/>
+<area shape="rect" id="node22" href="$d8/d33/class_m_p_l3115_a2.html#a95d49936db9c6811cc825151afc280e1" title="Initialise the driver and make it ready for use. " alt="" coords="445,765,563,792"/>
+<area shape="rect" id="node23" href="$d8/d33/class_m_p_l3115_a2.html#a8ff4996cbb8074ba15276727250d7e73" title="MPL3115A2::read" alt="" coords="441,664,567,691"/>
+<area shape="rect" id="node25" href="$d4/df1/class_l_i_s3_m_d_l.html#abc976f937b431e89d76c2b610fb1cec8" title="Performs a poll cycle; collect from the previous measurement and start a new one. ..." alt="" coords="446,816,562,843"/>
+<area shape="rect" id="node26" href="$d4/df1/class_l_i_s3_m_d_l.html#a2d3dc1393f41ca032f1d72fb00ab7f4e" title="LIS3MDL::read" alt="" coords="449,867,559,893"/>
+<area shape="rect" id="node28" href="$d3/d05/class_m_s5611.html#a3d00f84eaea5b05ce0d091c4869a880d" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="449,968,559,995"/>
+<area shape="rect" id="node29" href="$d3/d05/class_m_s5611.html#a6ec45990defdae23baf1601542d28f84" title="Initialise the driver and make it ready for use. " alt="" coords="457,1019,551,1045"/>
+<area shape="rect" id="node30" href="$d3/d05/class_m_s5611.html#aeb1e1bd72db7ec4fef7f7ca7768507b7" title="MS5611::read" alt="" coords="453,917,555,944"/>
+<area shape="rect" id="node32" href="$dc/d03/class_l_p_s25_h.html#a9949c12a0c7431a6cd3ffd5c28324592" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="449,1069,559,1096"/>
+<area shape="rect" id="node33" href="$dc/d03/class_l_p_s25_h.html#aa27d6889d10944e32adbd715bd3f8a38" title="LPS25H::read" alt="" coords="452,1120,556,1147"/>
+<area shape="rect" id="node35" href="$d5/dad/class_h_m_c5883.html#a86f898010fb03199a13e4704615509ce" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="444,1171,564,1197"/>
+<area shape="rect" id="node36" href="$d5/dad/class_h_m_c5883.html#aa039c9b8bce1d17d7b7ade4e947f9b33" title="HMC5883::read" alt="" coords="447,1221,561,1248"/>
+<area shape="rect" id="node38" href="$dc/d3d/class_lidar_lite_p_w_m.html#a9c7475a833d4ce3c25ca1280951184ed" title="LidarLitePWM::cycle" alt="" coords="433,1272,575,1299"/>
+</map>

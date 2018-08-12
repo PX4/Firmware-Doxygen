@@ -1,0 +1,49 @@
+<map id="src/modules/navigator/loiter.cpp" name="src/modules/navigator/loiter.cpp">
+<area shape="rect" id="node2" href="$d2/d97/loiter_8h.html" title="Helper class to loiter. " alt="" coords="1647,169,1708,196"/>
+<area shape="rect" id="node17" href="$d0/d69/navigator_8h.html" title="Helper class to access missions. " alt="" coords="2258,95,2345,121"/>
+<area shape="rect" id="node3" href="$d8/ddc/navigator__mode_8h.html" title="Base class for different modes in navigator. " alt="" coords="2293,341,2419,367"/>
+<area shape="rect" id="node4" href="$d5/d0d/mission__block_8h.html" title="Helper class to use mission items. " alt="" coords="1974,251,2090,278"/>
+<area shape="rect" id="node14" href="$d5/dd2/px4__module__params_8h.html" title="C++ base class for modules/classes using configuration parameters. " alt="" coords="1577,251,1730,278"/>
+<area shape="rect" id="node5" href="$d4/d9d/navigation_8h.html" title="Definition of a mission consisting of mission items. " alt="" coords="2854,430,2946,457"/>
+<area shape="rect" id="node6" href="$db/d02/build_2doxygen_2u_o_r_b_2topics_2mission_8h.html" title="uORB/topics/mission.h" alt="" coords="2821,519,2979,546"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1974,341,2090,367"/>
+<area shape="rect" id="node9" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="2005,430,2168,457"/>
+<area shape="rect" id="node10" href="$d9/d94/position__setpoint__triplet_8h.html" title="uORB/topics/position\l_setpoint_triplet.h" alt="" coords="2536,333,2683,375"/>
+<area shape="rect" id="node11" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="1090,333,1233,375"/>
+<area shape="rect" id="node12" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="1257,333,1399,375"/>
+<area shape="rect" id="node13" href="$d0/d75/vtol__vehicle__status_8h.html" title="uORB/topics/vtol_vehicle\l_status.h" alt="" coords="2013,512,2184,553"/>
+<area shape="rect" id="node7" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="2555,601,2664,628"/>
+<area shape="rect" id="node15" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="901,341,1033,367"/>
+<area shape="rect" id="node16" href="$de/de9/px4__param_8h.html" title="C++ Parameter class. " alt="" coords="1605,341,1702,367"/>
+<area shape="rect" id="node18" href="$df/def/datalinkloss_8h.html" title="Helper class for Data Link Loss Mode acording to the OBC rules. " alt="" coords="2057,169,2159,196"/>
+<area shape="rect" id="node19" href="$d9/dd6/enginefailure_8h.html" title="Helper class for a fixedwing engine failure mode. " alt="" coords="2363,169,2469,196"/>
+<area shape="rect" id="node20" href="$d8/de5/src_2modules_2navigator_2follow__target_8h.html" title="follow_target.h" alt="" coords="1209,169,1316,196"/>
+<area shape="rect" id="node24" href="$d0/d8c/geofence_8h.html" title="Provides functions for handling the geofence. " alt="" coords="734,169,821,196"/>
+<area shape="rect" id="node30" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="159,244,302,285"/>
+<area shape="rect" id="node32" href="$d8/d8b/gpsfailure_8h.html" title="Helper class for Data Link Loss Mode according to the OBC rules. " alt="" coords="1783,169,1873,196"/>
+<area shape="rect" id="node33" href="$d7/d9a/land_8h.html" title="Helper class to land at the current position. " alt="" coords="2183,169,2241,196"/>
+<area shape="rect" id="node34" href="$d7/d16/precland_8h.html" title="Helper class to do precision landing with a landing target. " alt="" coords="1447,169,1529,196"/>
+<area shape="rect" id="node36" href="$db/dee/src_2modules_2navigator_2mission_8h.html" title="mission.h" alt="" coords="2494,169,2573,196"/>
+<area shape="rect" id="node39" href="$dc/dd4/fw__pos__ctrl__status_8h.html" title="uORB/topics/fw_pos\l_ctrl_status.h" alt="" coords="3123,333,3266,375"/>
+<area shape="rect" id="node40" href="$df/d0e/mission__result_8h.html" title="uORB/topics/mission\l_result.h" alt="" coords="3131,244,3277,285"/>
+<area shape="rect" id="node41" href="$d6/d2d/rcloss_8h.html" title="Helper class for RC Loss Mode acording to the OBC rules. " alt="" coords="1897,169,1965,196"/>
+<area shape="rect" id="node42" href="$dd/d87/rtl_8h.html" title="rtl.h" alt="" coords="1989,169,2033,196"/>
+<area shape="rect" id="node43" href="$d0/d7b/takeoff_8h.html" title="Helper class to take off. " alt="" coords="2265,169,2338,196"/>
+<area shape="rect" id="node44" href="$d7/dc9/px4__module_8h.html" title="px4_module.h" alt="" coords="3102,169,3205,196"/>
+<area shape="rect" id="node45" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="5,251,136,278"/>
+<area shape="rect" id="node46" href="$d7/ddd/geofence__result_8h.html" title="uORB/topics/geofence\l_result.h" alt="" coords="3224,423,3379,464"/>
+<area shape="rect" id="node47" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="3291,512,3450,553"/>
+<area shape="rect" id="node48" href="$df/dd2/vehicle__attitude__setpoint_8h.html" title="uORB/topics/vehicle\l_attitude_setpoint.h" alt="" coords="3454,423,3597,464"/>
+<area shape="rect" id="node49" href="$d8/ddd/vehicle__land__detected_8h.html" title="uORB/topics/vehicle\l_land_detected.h" alt="" coords="3535,512,3678,553"/>
+<area shape="rect" id="node50" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="3673,423,3815,464"/>
+<area shape="rect" id="node22" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="1205,251,1321,278"/>
+<area shape="rect" id="node23" href="$d2/dd3/build_2doxygen_2u_o_r_b_2topics_2follow__target_8h.html" title="uORB/topics/follow\l_target.h" alt="" coords="874,423,1009,464"/>
+<area shape="rect" id="node26" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1063,251,1180,278"/>
+<area shape="rect" id="node27" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="289,341,391,367"/>
+<area shape="rect" id="node28" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="378,251,537,278"/>
+<area shape="rect" id="node29" href="$d7/df9/home__position_8h.html" title="uORB/topics/home_position.h" alt="" coords="1754,251,1950,278"/>
+<area shape="rect" id="node31" href="$d7/d94/vehicle__air__data_8h.html" title="uORB/topics/vehicle\l_air_data.h" alt="" coords="742,512,885,553"/>
+<area shape="rect" id="node35" href="$dd/d54/landing__target__pose_8h.html" title="uORB/topics/landing\l_target_pose.h" alt="" coords="1541,512,1683,553"/>
+<area shape="rect" id="node37" href="$d2/d42/mission__feasibility__checker_8h.html" title="Provides checks if mission is feasible given the navigation capabilities. " alt="" coords="2825,244,2954,285"/>
+<area shape="rect" id="node38" href="$db/d6e/dataman_8h.html" title="DATAMANAGER driver. " alt="" coords="2758,341,2895,367"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="PX4FMU::pwm_ioctl" name="PX4FMU::pwm_ioctl">
+<area shape="rect" id="node2" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="432,5,589,32"/>
+<area shape="rect" id="node3" href="$d3/dc4/class_simple_mixer.html#ab191e02e844721ff723b79413d82f90e" title="Check that the mixer configuration as loaded is sensible. " alt="" coords="217,977,354,1004"/>
+<area shape="rect" id="node5" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="196,775,375,801"/>
+<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="877,977,1044,1004"/>
+<area shape="rect" id="node10" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="1092,905,1256,946"/>
+<area shape="rect" id="node20" href="$df/d64/class_p_x4_f_m_u.html#a56ad319ce8088b6122e7cf96c07d4136" title="PX4FMU::update_pwm\l_trims" alt="" coords="881,497,1040,538"/>
+<area shape="rect" id="node21" href="$d9/dbb/class_mixer_group.html#a7c805254119d62180adbab7ed49e389b" title="MixerGroup::set_trims" alt="" coords="1099,445,1249,472"/>
+<area shape="rect" id="node24" href="$df/d64/class_p_x4_f_m_u.html#a8cfa12dc982c977be9d0f9e00642d92c" title="PX4FMU::update_pwm\l_out_state" alt="" coords="659,1054,817,1095"/>
+<area shape="rect" id="node27" href="$d9/dbb/class_mixer_group.html#a4fa3714b990c2552696fae0dbed90212" title="MixerGroup::get_trims" alt="" coords="210,1028,361,1055"/>
+<area shape="rect" id="node29" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="217,1079,353,1121"/>
+<area shape="rect" id="node31" href="$d9/dbb/class_mixer_group.html#a7bd735772388a8b1d9f4cc41dd8ec7d1" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="196,132,375,159"/>
+<area shape="rect" id="node42" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="218,1145,353,1172"/>
+<area shape="rect" id="node43" href="$df/d64/class_p_x4_f_m_u.html#a14ec7f47e6be4f509c4a28c6cf1b35fd" title="PX4FMU::set_mode" alt="" coords="215,1196,356,1223"/>
+<area shape="rect" id="node46" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="211,1247,359,1273"/>
+<area shape="rect" id="node47" href="$d0/dbb/drv__pwm__output_8h.html#a6bb192ea76b78953f6b5a54ddda3c471" title="Get the current output value for a channel. " alt="" coords="218,1297,353,1324"/>
+<area shape="rect" id="node49" href="$d0/dbb/drv__pwm__output_8h.html#a4e3ecac6bbb17ef4c38ffd288a2a11e3" title="Set the current output value for a channel. " alt="" coords="218,1348,353,1375"/>
+<area shape="rect" id="node4" href="$de/d2d/class_mixer.html#a11251e4c91b83d1c0781a1842619394c" title="Validate a scaler. " alt="" coords="443,977,578,1004"/>
+<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="427,800,594,827"/>
+<area shape="rect" id="node22" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1380,395,1419,421"/>
+<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#a29c65fbc3ff3761991c0798e00040391" title="PX4FMU::capture_callback" alt="" coords="647,749,829,776"/>
+<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="647,800,829,827"/>
+<area shape="rect" id="node14" href="$df/d64/class_p_x4_f_m_u.html#a163083d229976aa6d33acdac3bf69573" title="PX4FMU::start" alt="" coords="683,851,793,877"/>
+<area shape="rect" id="node15" href="$df/d64/class_p_x4_f_m_u.html#a427f03adac69358868f8a78e9c5487e1" title="PX4FMU::subscribe" alt="" coords="668,901,808,928"/>
+<area shape="rect" id="node16" href="$df/d64/class_p_x4_f_m_u.html#ab7e79eae3a5f77f7a5b09cb60c9fceb8" title="PX4FMU::update_params" alt="" coords="651,597,825,624"/>
+<area shape="rect" id="node17" href="$df/d64/class_p_x4_f_m_u.html#ac745c5e0953c0e996150f4056f0fd1ec" title="PX4FMU::update_pwm\l_rev_mask" alt="" coords="881,614,1040,655"/>
+<area shape="rect" id="node13" href="$d0/dbb/drv__pwm__output_8h.html#aace3976c339490fde77b5691afb34fcc" title="Set the update rate for a given rate group. " alt="" coords="1092,970,1256,1011"/>
+<area shape="rect" id="node11" href="$df/d04/kinetis_2drv__io__timer_8c.html#aad3a035250ee099bc93058614b0c0991" title="io_timer_get_group" alt="" coords="1333,912,1465,939"/>
+<area shape="rect" id="node12" href="$df/d04/kinetis_2drv__io__timer_8c.html#aa05b59458783481df45d51f51d8eb30f" title="io_timer_get_mode_channels" alt="" coords="1304,999,1495,1025"/>
+<area shape="rect" id="node18" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1131,563,1217,589"/>
+<area shape="rect" id="node19" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1133,621,1215,648"/>
+<area shape="rect" id="node23" href="$de/d2d/class_mixer.html#a579ea4265fb48405f95d9f0c4ad609df" title="Set trim offset for this mixer. " alt="" coords="1345,445,1454,472"/>
+<area shape="rect" id="node25" href="$d0/dbb/drv__pwm__output_8h.html#a282045de007d89d6943369f466628546" title="Intialise the PWM servo outputs using the specified configuration. " alt="" coords="1107,1036,1241,1063"/>
+<area shape="rect" id="node26" href="$d0/dbb/drv__pwm__output_8h.html#acae7bc2a82d7fb3cfffab568cfccdaee" title="Arm or disarm servo outputs. " alt="" coords="891,1087,1030,1113"/>
+<area shape="rect" id="node28" href="$de/d2d/class_mixer.html#aa5170a9cd7904d29b81b1a47e74fce25" title="Get trim offset for this mixer. " alt="" coords="456,1028,565,1055"/>
+<area shape="rect" id="node30" href="$de/d2d/class_mixer.html#a7490fba3e26745dcf8ea90d1286bc013" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="433,1087,588,1113"/>
+<area shape="rect" id="node32" href="$d8/d40/class_null_mixer.html#a898d2500fcf86c626c17c9080497eb65" title="Factory method. " alt="" coords="441,157,581,184"/>
+<area shape="rect" id="node35" href="$d3/dc4/class_simple_mixer.html#a4db178ad15ab4ff1815f92fccb472bb3" title="Factory method with full external configuration. " alt="" coords="432,252,589,279"/>
+<area shape="rect" id="node40" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="425,56,596,83"/>
+<area shape="rect" id="node41" href="$d3/d18/class_helicopter_mixer.html#aa74c76554b6aecf5e5f5498472764f1f" title="Factory method. " alt="" coords="423,107,599,133"/>
+<area shape="rect" id="node33" href="$d8/d40/class_null_mixer.html#a54bdcbfea2e55f5c43a5211e52fb9da2" title="NullMixer::NullMixer" alt="" coords="668,161,808,188"/>
+<area shape="rect" id="node34" href="$de/d2d/class_mixer.html#ae496f246c8434d0c6d3fcff164e81640" title="Check wether the string is well formed and suitable for parsing. " alt="" coords="676,95,800,137"/>
+<area shape="rect" id="node36" href="$de/d2d/class_mixer.html#a2f8fa80f069727fcb9a1abb25e007470" title="Skip a line. " alt="" coords="907,220,1014,247"/>
+<area shape="rect" id="node37" href="$de/d2d/class_mixer.html#af7700fca6686a37e9b84b8028843010a" title="Find next tag and return it (0 is returned if no tag is found) " alt="" coords="675,344,801,371"/>
+<area shape="rect" id="node38" href="$d3/dc4/class_simple_mixer.html#a3748661dfe004123e411d995c673f4fc" title="SimpleMixer::parse\l_output_scaler" alt="" coords="671,213,805,254"/>
+<area shape="rect" id="node39" href="$d3/dc4/class_simple_mixer.html#a8a8f623c91b686cedb8ceeb77b09f491" title="SimpleMixer::parse\l_control_scaler" alt="" coords="671,278,805,319"/>
+<area shape="rect" id="node44" href="$dc/d5d/drv__input__capture_8h.html#ab86ba2023ce7e2c504afa11874b1acc7" title="up_input_capture_set" alt="" coords="437,1171,584,1197"/>
+<area shape="rect" id="node45" href="$d0/dbb/drv__pwm__output_8h.html#a53f946d554caa8bfbfe13782395de840" title="De&#45;initialise the PWM servo outputs. " alt="" coords="437,1221,585,1248"/>
+<area shape="rect" id="node48" href="$df/d04/kinetis_2drv__io__timer_8c.html#abd2e7712b205e52f188fe238f3ab2d03" title="io_channel_get_ccr" alt="" coords="443,1297,578,1324"/>
+<area shape="rect" id="node50" href="$df/d04/kinetis_2drv__io__timer_8c.html#acfa2c0476476cc15c4aa6b6148f0d8b8" title="io_timer_set_ccr" alt="" coords="451,1348,570,1375"/>
+</map>

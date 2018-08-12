@@ -1,0 +1,28 @@
+<map id="orb_group_count" name="orb_group_count">
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="303,141,445,182"/>
+<area shape="rect" id="node9" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="172,199,255,225"/>
+<area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="511,45,654,86"/>
+<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="738,5,865,32"/>
+<area shape="rect" id="node5" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="934,5,1069,32"/>
+<area shape="rect" id="node6" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="949,157,1053,184"/>
+<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1135,157,1274,184"/>
+<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1128,360,1281,387"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="303,253,445,294"/>
+<area shape="rect" id="node11" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="493,183,672,209"/>
+<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="537,233,629,260"/>
+<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="543,284,622,311"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="764,360,839,387"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="761,512,842,539"/>
+<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="769,208,833,235"/>
+<area shape="rect" id="node15" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="720,259,883,285"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="932,563,1071,589"/>
+<area shape="rect" id="node21" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="755,309,848,336"/>
+<area shape="rect" id="node16" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="933,259,1069,285"/>
+<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1137,613,1272,640"/>
+<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1135,497,1274,538"/>
+<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1131,563,1279,589"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="964,360,1039,387"/>
+<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="934,309,1069,336"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="931,613,1072,640"/>
+<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1120,664,1289,691"/>
+</map>

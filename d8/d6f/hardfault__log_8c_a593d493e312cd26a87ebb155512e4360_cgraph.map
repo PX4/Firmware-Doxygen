@@ -1,0 +1,38 @@
+<map id="hardfault_log_main" name="hardfault_log_main">
+<area shape="rect" id="node2" href="$d8/d6f/hardfault__log_8c.html#a6ffed2f24ce463802ed5efd8e573a5de" title="genfault" alt="" coords="211,56,279,83"/>
+<area shape="rect" id="node4" href="$d8/d6f/hardfault__log_8c.html#a23afbf9773670baa5c9c8f19d33b5f1a" title="hardfault_check_status" alt="" coords="389,157,547,184"/>
+<area shape="rect" id="node8" href="$d8/d6f/hardfault__log_8c.html#abf9911c37b137dd0001897bc806c9dbc" title="hardfault_rearm" alt="" coords="659,208,771,235"/>
+<area shape="rect" id="node9" href="$d8/d6f/hardfault__log_8c.html#a2de999924e08249feceb1702b90a70f8" title="hardfault_commit" alt="" coords="184,259,307,285"/>
+<area shape="rect" id="node32" href="$d8/d6f/hardfault__log_8c.html#a1a10910e0d5dabe97f8a4f93e526693c" title="hardfault_increment\l_reboot" alt="" coords="647,610,783,651"/>
+<area shape="rect" id="node33" href="$d8/d6f/hardfault__log_8c.html#a0edd37fe65f6a8b1e530370f6e6402f3" title="print_usage" alt="" coords="201,512,290,539"/>
+<area shape="rect" id="node3" href="$d8/d6f/hardfault__log_8c.html#a8568bece1977ce05874f4d6b0460daa9" title="CCASSERT" alt="" coords="420,5,516,32"/>
+<area shape="rect" id="node5" href="$d8/d6f/hardfault__log_8c.html#a1b902ea78b384c3b723f5b521e7f6b94" title="format_fault_time" alt="" coords="1255,179,1377,205"/>
+<area shape="rect" id="node6" href="$d8/d6f/hardfault__log_8c.html#a5961b7d0d02e18725970b1767fb2bcba" title="hardfault_get_desc" alt="" coords="649,309,781,336"/>
+<area shape="rect" id="node7" href="$d8/d6f/hardfault__log_8c.html#a6ee0e23edbc394712ad5d3306b25f5fb" title="identify" alt="" coords="901,208,965,235"/>
+<area shape="rect" id="node10" href="$d8/d6f/hardfault__log_8c.html#ad3ac8555091980a55d913a739ca3cc51" title="format_fault_file_name" alt="" coords="637,5,792,32"/>
+<area shape="rect" id="node11" href="$d8/d6f/hardfault__log_8c.html#a5182d3830c2877d968bd3d63381212da" title="Append hardfault data to the stored ULog file (the log path is stored in BBSRAM). ..." alt="" coords="629,107,800,133"/>
+<area shape="rect" id="node14" href="$d8/d6f/hardfault__log_8c.html#ac27fa69cb6ae9e22b27bb385add96250" title="hardfault_write" alt="" coords="415,360,521,387"/>
+<area shape="rect" id="node12" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="1439,683,1485,709"/>
+<area shape="rect" id="node13" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="1291,385,1341,412"/>
+<area shape="rect" id="node15" href="$d8/d6f/hardfault__log_8c.html#af409f6f50ee6b6c0164b89d6cdf9997e" title="hardfault_dowrite" alt="" coords="654,436,775,463"/>
+<area shape="rect" id="node16" href="$dc/d5d/namespacebmp280.html#a93191cc5092a30d015afd545e9d9890d" title="Print a little info about the driver. " alt="" coords="885,563,982,589"/>
+<area shape="rect" id="node17" href="$d8/d6f/hardfault__log_8c.html#ac79b2f331deeeb5c4e420b3a4f5f7800" title="write_dump_footer" alt="" coords="869,259,998,285"/>
+<area shape="rect" id="node19" href="$d8/d6f/hardfault__log_8c.html#a6159c262cdcab21c1db888ff3f62ac44" title="write_dump_header" alt="" coords="866,309,1001,336"/>
+<area shape="rect" id="node20" href="$d8/d6f/hardfault__log_8c.html#a9187872abb37b22639e5e66edecde2fb" title="write_dump_info" alt="" coords="1071,259,1189,285"/>
+<area shape="rect" id="node23" href="$d8/d6f/hardfault__log_8c.html#abf6bcf30645652101630113c6a3a6208" title="write_interrupt_stack_info" alt="" coords="848,512,1019,539"/>
+<area shape="rect" id="node25" href="$d8/d6f/hardfault__log_8c.html#ac048a249e3cd55446caa7932f1e95e83" title="write_intterupt_stack" alt="" coords="862,613,1005,640"/>
+<area shape="rect" id="node28" href="$d8/d6f/hardfault__log_8c.html#a078c7ee4fdc7fd85000d230d0351b73a" title="write_registers_info" alt="" coords="866,411,1001,437"/>
+<area shape="rect" id="node30" href="$d8/d6f/hardfault__log_8c.html#a79fbc4a0b4b5bb509582815c1896bf8e" title="write_user_stack" alt="" coords="873,664,994,691"/>
+<area shape="rect" id="node31" href="$d8/d6f/hardfault__log_8c.html#ad0d4520ec0005b49ffd192d636cdb40a" title="write_user_stack_info" alt="" coords="859,461,1008,488"/>
+<area shape="rect" id="node18" href="$d8/d6f/hardfault__log_8c.html#a3e1302edabba3b50f3ceec1c795140bb" title="write_dump_time" alt="" coords="1069,208,1191,235"/>
+<area shape="rect" id="node21" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="1241,241,1391,282"/>
+<area shape="rect" id="node22" href="$d2/d0b/version_8c.html#a0cb6b90f4ebff6157957b19a677fddc8" title="get the build URI (used for crash logging) " alt="" coords="1267,307,1365,333"/>
+<area shape="rect" id="node24" href="$d8/d6f/hardfault__log_8c.html#ae65e6fb3ba5738137e845b30a0a351a2" title="write_stack_detail" alt="" coords="1067,461,1193,488"/>
+<area shape="rect" id="node26" href="$d8/d6f/hardfault__log_8c.html#ae0eed11a56e42ff30e6499aa665ac88a" title="write_stack" alt="" coords="1085,639,1175,665"/>
+<area shape="rect" id="node27" href="$d8/d6f/hardfault__log_8c.html#a5c46b4e5e674eaab6e6642a1f3847b26" title="read_stack" alt="" coords="1273,651,1359,677"/>
+<area shape="rect" id="node29" href="$d8/d6f/hardfault__log_8c.html#a91659a4e36f5650e640435ddaa75de64" title="write_registers" alt="" coords="1077,411,1183,437"/>
+<area shape="rect" id="node34" href="$dd/d30/module_8cpp.html#a53dcf1637cabe04fa554ef0e38f266d2" title="Print module documentation (will also be used for online documentation). " alt="" coords="355,512,581,539"/>
+<area shape="rect" id="node35" href="$dd/d30/module_8cpp.html#a06777df5209dd638c8ee6ac49331a50c" title="Print the command name. " alt="" coords="355,563,581,589"/>
+<area shape="rect" id="node36" href="$dd/d30/module_8cpp.html#aff1dbaa4bef630dfbdcc72bd0061c75a" title="Print a command with a short description what it does. " alt="" coords="377,614,559,655"/>
+<area shape="rect" id="node37" href="$dd/d30/module_8cpp.html#ac5bfc5f17f7305a0c6e85739cfe5100d" title="print definition for an argument, which does not have the typical &#45;p &lt;val&gt; form, but for example &#39;par..." alt="" coords="359,461,577,488"/>
+</map>

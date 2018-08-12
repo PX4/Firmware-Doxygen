@@ -1,0 +1,34 @@
+<map id="test_file" name="test_file">
+<area shape="rect" id="node2" href="$d0/dd5/test__file_8c.html#af23b12204ad49b7aa0da2ef507a295f0" title="check_user_abort" alt="" coords="121,57,247,84"/>
+<area shape="rect" id="node3" href="$d6/dfb/stubs__posix_8c.html#a9ba34c4ff72e21db486eedf77c2a18d0" title="fsync" alt="" coords="349,7,403,33"/>
+<area shape="rect" id="node4" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="353,57,399,84"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="121,244,247,271"/>
+<area shape="rect" id="node6" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="335,424,417,451"/>
+<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="145,295,223,321"/>
+<area shape="rect" id="node22" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="160,459,208,485"/>
+<area shape="rect" id="node33" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="159,509,209,536"/>
+<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="505,551,647,577"/>
+<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="539,399,613,425"/>
+<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="710,348,849,375"/>
+<area shape="rect" id="node13" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="703,247,856,273"/>
+<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="712,551,847,577"/>
+<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="695,601,864,628"/>
+<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="705,500,853,527"/>
+<area shape="rect" id="node15" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="295,247,457,273"/>
+<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="544,145,608,172"/>
+<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="507,500,645,527"/>
+<area shape="rect" id="node21" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="329,373,423,400"/>
+<area shape="rect" id="node16" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="508,196,644,223"/>
+<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="524,247,628,273"/>
+<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="710,434,849,475"/>
+<area shape="rect" id="node23" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="300,525,452,552"/>
+<area shape="rect" id="node24" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="335,703,417,729"/>
+<area shape="rect" id="node25" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="507,703,645,729"/>
+<area shape="rect" id="node27" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="736,753,823,780"/>
+<area shape="rect" id="node29" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="537,804,615,831"/>
+<area shape="rect" id="node30" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="549,855,603,881"/>
+<area shape="rect" id="node31" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="533,601,619,628"/>
+<area shape="rect" id="node32" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="535,652,617,679"/>
+<area shape="rect" id="node26" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="735,652,823,679"/>
+<area shape="rect" id="node28" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="728,703,831,729"/>
+</map>

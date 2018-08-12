@@ -1,0 +1,51 @@
+<map id="StateMachineHelperTest::armingStateTransitionTest" name="StateMachineHelperTest::armingStateTransitionTest">
+<area shape="rect" id="node2" href="$df/d25/state__machine__helper_8cpp.html#a5e5cde38d584868dbf7a3a8d76ccdb0f" title="arming_state_transition" alt="" coords="236,537,393,564"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="460,461,585,488"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="917,1171,1038,1197"/>
+<area shape="rect" id="node5" href="$df/d25/state__machine__helper_8cpp.html#ac8732d75f16faf5917ec531ad9dc2856" title="prearm_check" alt="" coords="471,512,575,539"/>
+<area shape="rect" id="node7" href="$d4/d96/namespace_preflight.html#a40c1bbeaadf96c1bd47cff1babc0f159" title="Runs a preflight check on all sensors to see if they are properly calibrated and healthy. " alt="" coords="441,563,604,589"/>
+<area shape="rect" id="node6" href="$d0/d49/arm__auth_8cpp.html#a4760c5a750686a3000fc8dbde4cc203d" title="arm_auth_check" alt="" coords="687,5,805,32"/>
+<area shape="rect" id="node8" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1162,436,1245,463"/>
+<area shape="rect" id="node9" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1160,335,1247,361"/>
+<area shape="rect" id="node10" href="$d4/d96/namespace_preflight.html#a88fd932de2eda51bd84fd4800f24c769" title="Preflight::magnometerCheck" alt="" coords="652,259,840,285"/>
+<area shape="rect" id="node12" href="$d0/dc0/health__flag__helper_8cpp.html#a3523b6bbd000329099eed54f4994dbf1" title="set_health_flags" alt="" coords="1145,600,1262,627"/>
+<area shape="rect" id="node13" href="$d4/d96/namespace_preflight.html#ac02cd96701d55c4313e7ffcb7d3c150c" title="Preflight::magConsistency\lCheck" alt="" coords="658,910,834,951"/>
+<area shape="rect" id="node41" href="$d4/d96/namespace_preflight.html#ab9cad2c9872b0c9f479b6b5b04765d55" title="Preflight::accelerometer\lCheck" alt="" coords="666,429,826,470"/>
+<area shape="rect" id="node43" href="$d4/d96/namespace_preflight.html#a03efae4d0600a19405bf166c6a78c4f5" title="Preflight::gyroCheck" alt="" coords="675,309,817,336"/>
+<area shape="rect" id="node44" href="$d4/d96/namespace_preflight.html#a9fc8d60d2212cc9c01ded19aafe7496a" title="Preflight::baroCheck" alt="" coords="907,563,1048,589"/>
+<area shape="rect" id="node45" href="$d4/d96/namespace_preflight.html#a972abdfd2aa8e7c94c50fadf19c6afa6" title="Preflight::imuConsistency\lCheck" alt="" coords="660,771,832,813"/>
+<area shape="rect" id="node46" href="$d4/d96/namespace_preflight.html#ac465ae7e024f50dfb37d96549cd19749" title="Preflight::airspeedCheck" alt="" coords="663,1059,829,1085"/>
+<area shape="rect" id="node47" href="$d8/d9e/rc__check_8cpp.html#a4594d0b121af38ea471fc771f0efd25e" title="Check the RC calibration. " alt="" coords="907,56,1048,83"/>
+<area shape="rect" id="node49" href="$d4/d96/namespace_preflight.html#a4312d608e3abcec89d94d0345aecc890" title="Preflight::powerCheck" alt="" coords="671,987,821,1013"/>
+<area shape="rect" id="node50" href="$d4/d96/namespace_preflight.html#a6a535359aa153b1e81c87c49248b364e" title="Preflight::ekf2Check" alt="" coords="675,837,817,864"/>
+<area shape="rect" id="node11" href="$d4/d96/namespace_preflight.html#a5eeaf89ae6ecfbfed695f42253ddc1fb" title="Preflight::check_calibration" alt="" coords="888,259,1067,285"/>
+<area shape="rect" id="node14" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="926,1019,1029,1045"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="940,968,1015,995"/>
+<area shape="rect" id="node38" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="919,1069,1036,1096"/>
+<area shape="rect" id="node40" href="$d0/dc0/health__flag__helper_8cpp.html#a7473f8ce7686f32763799b3b393d475f" title="set_health_flags_healthy" alt="" coords="894,917,1061,944"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1132,1039,1275,1081"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1132,946,1275,987"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1605,1058,1747,1099"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1825,949,1952,976"/>
+<area shape="rect" id="node18" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2014,949,2149,976"/>
+<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2229,696,2333,723"/>
+<area shape="rect" id="node20" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2407,721,2546,748"/>
+<area shape="rect" id="node21" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2400,811,2553,837"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1340,916,1527,943"/>
+<area shape="rect" id="node24" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1587,891,1765,917"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1849,848,1928,875"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1600,993,1752,1034"/>
+<area shape="rect" id="node31" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1575,709,1777,750"/>
+<area shape="rect" id="node32" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1603,774,1749,815"/>
+<area shape="rect" id="node33" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1652,840,1700,867"/>
+<area shape="rect" id="node26" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="2000,696,2163,723"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="2041,1000,2122,1027"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="2211,1000,2352,1027"/>
+<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="2244,747,2319,773"/>
+<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1115,664,1292,691"/>
+<area shape="rect" id="node36" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1396,657,1471,684"/>
+<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1609,657,1743,684"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1362,1113,1505,1154"/>
+<area shape="rect" id="node42" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="958,867,997,893"/>
+<area shape="rect" id="node48" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1173,56,1233,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="frsky_send_byte" name="frsky_send_byte">
+<area shape="rect" id="node2" href="$dc/dcb/frsky__data_8cpp.html#aa6e8e4ac66c46816835eda3cd831afe6" title="Sends one data id/value pair. " alt="" coords="172,56,291,83"/>
+<area shape="rect" id="node3" href="$d4/dcf/frsky__data_8h.html#a5fa4c819ace7aeb2f7fc430ff594a4db" title="Sends frame 1 (every 200ms): acceleration values, barometer altitude, temperature, battery voltage &amp; current. " alt="" coords="339,5,472,32"/>
+<area shape="rect" id="node6" href="$d4/dcf/frsky__data_8h.html#a0163954a3531697a700ec8cf2efa4293" title="Sends frame 2 (every 1000ms): GPS course, latitude, longitude, ground speed, GPS altitude, remaining battery level. " alt="" coords="339,56,472,83"/>
+<area shape="rect" id="node7" href="$d4/dcf/frsky__data_8h.html#a70bab4a3e227b7e7946412cd5fab64d4" title="Sends frame 3 (every 5000ms): GPS date &amp; time. " alt="" coords="339,107,472,133"/>
+<area shape="rect" id="node4" href="$d4/de1/frsky__telemetry_8cpp.html#ac7ef296957e318ce7c370f98299e300d" title="The daemon thread. " alt="" coords="520,56,711,83"/>
+<area shape="rect" id="node5" href="$d4/de1/frsky__telemetry_8cpp.html#a99b28b0c9e6f642c07b5323bf86cf0f6" title="The main command function. " alt="" coords="759,56,905,83"/>
+</map>

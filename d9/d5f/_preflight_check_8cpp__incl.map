@@ -1,0 +1,37 @@
+<map id="src/modules/commander/PreflightCheck.cpp" name="src/modules/commander/PreflightCheck.cpp">
+<area shape="rect" id="node2" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="63,102,159,129"/>
+<area shape="rect" id="node3" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="275,273,367,300"/>
+<area shape="rect" id="node18" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="2102,348,2241,375"/>
+<area shape="rect" id="node19" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="2323,191,2486,218"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="3520,273,3636,300"/>
+<area shape="rect" id="node25" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="1027,102,1153,129"/>
+<area shape="rect" id="node31" href="$d5/df5/drv__gyro_8h.html" title="Gyroscope driver interface. " alt="" coords="1712,102,1839,129"/>
+<area shape="rect" id="node33" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="703,102,835,129"/>
+<area shape="rect" id="node35" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="1204,102,1331,129"/>
+<area shape="rect" id="node37" href="$d0/d9f/drv__airspeed_8h.html" title="Airspeed driver interface. " alt="" coords="499,102,649,129"/>
+<area shape="rect" id="node38" href="$df/de5/build_2doxygen_2u_o_r_b_2topics_2airspeed_8h.html" title="uORB/topics/airspeed.h" alt="" coords="2511,191,2672,218"/>
+<area shape="rect" id="node39" href="$dd/d58/differential__pressure_8h.html" title="uORB/topics/differential\l_pressure.h" alt="" coords="2696,184,2857,225"/>
+<area shape="rect" id="node40" href="$d8/d3d/estimator__status_8h.html" title="uORB/topics/estimator\l_status.h" alt="" coords="2882,184,3037,225"/>
+<area shape="rect" id="node41" href="$db/d8d/sensor__preflight_8h.html" title="uORB/topics/sensor\l_preflight.h" alt="" coords="3061,184,3201,225"/>
+<area shape="rect" id="node42" href="$d6/d0c/system__power_8h.html" title="uORB/topics/system\l_power.h" alt="" coords="2003,184,2147,225"/>
+<area shape="rect" id="node43" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="2059,95,2201,136"/>
+<area shape="rect" id="node44" href="$dc/d50/subsystem__info_8h.html" title="uORB/topics/subsystem\l_info.h" alt="" coords="2226,95,2391,136"/>
+<area shape="rect" id="node45" href="$d7/da8/_preflight_check_8h.html" title="Preflight check for main system components. " alt="" coords="3244,102,3363,129"/>
+<area shape="rect" id="node48" href="$dc/d63/health__flag__helper_8h.html" title="Contains helper functions to efficiently set the system health flags from commander and preflight che..." alt="" coords="3394,102,3533,129"/>
+<area shape="rect" id="node49" href="$d2/da2/rc__check_8h.html" title="RC calibration check. " alt="" coords="2416,102,2503,129"/>
+<area shape="rect" id="node4" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1271,423,1373,449"/>
+<area shape="rect" id="node10" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="2265,348,2358,375"/>
+<area shape="rect" id="node16" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="47,348,133,375"/>
+<area shape="rect" id="node5" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="2139,497,2217,524"/>
+<area shape="rect" id="node20" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="2206,273,2315,300"/>
+<area shape="rect" id="node22" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1991,348,2077,375"/>
+<area shape="rect" id="node27" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="663,191,760,218"/>
+<area shape="rect" id="node29" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1121,348,1225,375"/>
+<area shape="rect" id="node30" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="1305,184,1445,225"/>
+<area shape="rect" id="node28" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="715,273,811,300"/>
+<area shape="rect" id="node32" href="$d6/d90/sensor__gyro_8h.html" title="uORB/topics/sensor\l_gyro.h" alt="" coords="1839,184,1979,225"/>
+<area shape="rect" id="node34" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="887,184,1027,225"/>
+<area shape="rect" id="node36" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="1572,184,1712,225"/>
+<area shape="rect" id="node46" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="3392,184,3535,225"/>
+<area shape="rect" id="node47" href="$d6/d33/vehicle__status__flags_8h.html" title="uORB/topics/vehicle\l_status_flags.h" alt="" coords="3225,184,3368,225"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="bma180::test" name="bma180::test">
+<area shape="rect" id="node2" href="$de/d59/class_b_m_a180.html#a13bfe5adf11084a14224902ce3e57062" title="BMA180::ioctl" alt="" coords="306,81,410,108"/>
+<area shape="rect" id="node32" href="$de/d59/class_b_m_a180.html#a13b6b24a68c14c7bc46eb8dc69593a29" title="BMA180::read" alt="" coords="305,201,411,228"/>
+<area shape="rect" id="node33" href="$d7/d4e/namespacebma180.html#a10deb50dc1e5a2a533e26ecee8b6a266" title="Reset the driver. " alt="" coords="152,81,257,108"/>
+<area shape="rect" id="node3" href="$de/d59/class_b_m_a180.html#a0ab1c61f4908427625776453494004ca" title="Set the BMA180 measurement range. " alt="" coords="643,56,781,83"/>
+<area shape="rect" id="node7" href="$de/d59/class_b_m_a180.html#a271f64bcf7c7e7a982a78a7b82a14b6f" title="Start automatic measurement. " alt="" coords="459,107,565,133"/>
+<area shape="rect" id="node30" href="$de/d59/class_b_m_a180.html#a3d3f43a5a9edecd318bce8474e16c000" title="Stop automatic measurement. " alt="" coords="659,5,765,32"/>
+<area shape="rect" id="node4" href="$de/d59/class_b_m_a180.html#a4295722b5a06f3044b7064bd3c24aff4" title="Modify a register in the BMA180. " alt="" coords="859,56,1003,83"/>
+<area shape="rect" id="node5" href="$de/d59/class_b_m_a180.html#a8f040718e1682ddf0a50f7547b0c88f2" title="Read a register from the BMA180. " alt="" coords="1052,107,1183,133"/>
+<area shape="rect" id="node6" href="$de/d59/class_b_m_a180.html#aa12d0a2808bcc9e99447ed6218d82890" title="Write a register in the BMA180. " alt="" coords="1051,56,1184,83"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="661,107,763,133"/>
+<area shape="rect" id="node9" href="$de/d59/class_b_m_a180.html#a9d930f15692650c95441a116419c85ba" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="613,157,811,184"/>
+<area shape="rect" id="node10" href="$de/d59/class_b_m_a180.html#a66f2b72e595fcd6e90d061230c33e696" title="Fetch measurements from the sensor and update the report ring. " alt="" coords="865,208,996,235"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1919,245,2045,272"/>
+<area shape="rect" id="node12" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1073,393,1161,420"/>
+<area shape="rect" id="node28" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1076,157,1159,184"/>
+<area shape="rect" id="node29" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1081,208,1153,235"/>
+<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1687,451,1830,493"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1232,386,1375,427"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1911,465,2053,506"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2106,472,2233,499"/>
+<area shape="rect" id="node16" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2283,447,2417,473"/>
+<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2298,497,2402,524"/>
+<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2473,472,2611,499"/>
+<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2465,523,2619,549"/>
+<area shape="rect" id="node21" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1423,393,1609,420"/>
+<area shape="rect" id="node22" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1671,335,1846,361"/>
+<area shape="rect" id="node27" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1657,386,1860,427"/>
+<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1915,413,2049,440"/>
+<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1908,296,2056,323"/>
+<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1917,347,2047,389"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="2104,347,2235,389"/>
+<area shape="rect" id="node31" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="889,5,972,32"/>
+</map>

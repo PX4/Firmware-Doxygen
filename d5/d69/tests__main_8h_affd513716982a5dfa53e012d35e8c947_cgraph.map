@@ -1,0 +1,29 @@
+<map id="test_bson" name="test_bson">
+<area shape="rect" id="node2" href="$db/dc0/tinybson_8c.html#a60ad949d6c02b4d3c1b14b7469cfa6e0" title="Initialise the decoder to read from a buffer in memory. " alt="" coords="136,157,288,184"/>
+<area shape="rect" id="node5" href="$db/dc0/tinybson_8c.html#aa7bdda930677d5dcd27288193c27210f" title="Get a pointer to the encoded object buffer. " alt="" coords="132,259,292,285"/>
+<area shape="rect" id="node6" href="$db/dc0/tinybson_8c.html#a4a22856f08793699562b4f1b58c270b8" title="Fetch the size of the encoded object; only valid for buffer operations. " alt="" coords="575,328,733,355"/>
+<area shape="rect" id="node7" href="$db/dc0/tinybson_8c.html#a8d0c0f3b9cd04d613d62437af240c4cd" title="Initialze the encoder for writing to a buffer. " alt="" coords="136,360,288,387"/>
+<area shape="rect" id="node10" href="$d7/d48/test__bson_8c.html#aa1b6f840619b69d277672c7a42574d3e" title="decode" alt="" coords="180,107,244,133"/>
+<area shape="rect" id="node15" href="$d7/d48/test__bson_8c.html#a0e19524f01487166e2e4910c144a9eab" title="decode_callback" alt="" coords="153,208,271,235"/>
+<area shape="rect" id="node18" href="$d7/d48/test__bson_8c.html#a32820224ead87e7d885847d9d3a20fe7" title="encode" alt="" coords="180,520,244,547"/>
+<area shape="rect" id="node3" href="$db/dc0/tinybson_8c.html#a980d9ef521335763f4a1798f067ae371" title="read_int32" alt="" coords="613,157,695,184"/>
+<area shape="rect" id="node4" href="$db/dc0/tinybson_8c.html#a2e9b9339ad505c31cc9a6020f19ea264" title="read_x" alt="" coords="783,107,844,133"/>
+<area shape="rect" id="node8" href="$db/dc0/tinybson_8c.html#a924debf4f464cec328a32262059b2bf8" title="write_int32" alt="" coords="611,449,697,476"/>
+<area shape="rect" id="node9" href="$db/dc0/tinybson_8c.html#a58418fa5c9bb33aec15e8b18f581de8d" title="write_x" alt="" coords="781,551,845,577"/>
+<area shape="rect" id="node11" href="$db/dc0/tinybson_8c.html#a72b6175a128c66851152976bf2f9e6b3" title="Process the next node from the stream and invoke the callback. " alt="" coords="366,107,501,133"/>
+<area shape="rect" id="node12" href="$db/dc0/tinybson_8c.html#affb2f5e5df892dfc9c92903e4e7ba57a" title="read_double" alt="" coords="608,107,700,133"/>
+<area shape="rect" id="node13" href="$db/dc0/tinybson_8c.html#a6001e8a6acd963ad3a27f947f851bc31" title="read_int64" alt="" coords="613,5,695,32"/>
+<area shape="rect" id="node14" href="$db/dc0/tinybson_8c.html#a452210a82b6a93f169b422060fb0720f" title="read_int8" alt="" coords="617,56,691,83"/>
+<area shape="rect" id="node16" href="$db/dc0/tinybson_8c.html#a3f081d222a3c1b9a95685742eef902d1" title="Copy node data. " alt="" coords="348,208,519,235"/>
+<area shape="rect" id="node17" href="$db/dc0/tinybson_8c.html#afc03f2b10180bc62ce7c9b5972a9d8ee" title="Report copyable data size. " alt="" coords="340,259,527,285"/>
+<area shape="rect" id="node19" href="$db/dc0/tinybson_8c.html#ae6846a464cb07e60f23fd19576ca41e3" title="Append a binary blob to the encoded stream. " alt="" coords="357,513,509,554"/>
+<area shape="rect" id="node22" href="$db/dc0/tinybson_8c.html#adf096492d898ec3850734d36994214b5" title="Append a boolean to the encoded stream. " alt="" coords="342,644,525,671"/>
+<area shape="rect" id="node23" href="$db/dc0/tinybson_8c.html#a235ae0ad9932f9e47d45079679b533e8" title="Append a double to the encoded stream. " alt="" coords="357,695,509,737"/>
+<area shape="rect" id="node25" href="$db/dc0/tinybson_8c.html#ab5c00674251b182fb67849151f0470e8" title="Append an integer to the encoded stream. " alt="" coords="347,461,520,488"/>
+<area shape="rect" id="node27" href="$db/dc0/tinybson_8c.html#a750db9d700cb49bc4743439b1d26352f" title="Append a string to the encoded stream. " alt="" coords="357,578,509,619"/>
+<area shape="rect" id="node28" href="$db/dc0/tinybson_8c.html#a071913ac8a97cf35622c873a7a7ac309" title="Finalise the encoded stream. " alt="" coords="370,411,497,437"/>
+<area shape="rect" id="node20" href="$db/dc0/tinybson_8c.html#a082048f44f0df9894780b3c78a52d1cc" title="write_int8" alt="" coords="615,551,693,577"/>
+<area shape="rect" id="node21" href="$db/dc0/tinybson_8c.html#aa84ae658fa40acab935850ccd09fa776" title="write_name" alt="" coords="609,652,699,679"/>
+<area shape="rect" id="node24" href="$db/dc0/tinybson_8c.html#a9fc48036293241fce94345713b8d04d7" title="write_double" alt="" coords="607,703,701,729"/>
+<area shape="rect" id="node26" href="$db/dc0/tinybson_8c.html#aaa8ec6ffd40f205bd0f1425d761e0475" title="write_int64" alt="" coords="611,399,697,425"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="px4::logger::Logger" name="px4::logger::Logger">
+<area shape="rect" id="node3" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="177,27,322,149"/>
+<area shape="rect" id="node11" href="$d2/d95/structpx4_1_1logger_1_1_logger_subscription.html" title="{px4::logger::LoggerSubscription\n|+ fd\l+ msg_ids\l|+ LoggerSubscription()\l+ LoggerSubscription()\l}" alt="" coords="244,380,449,487"/>
+<area shape="rect" id="node4" href="$d3/d78/structprint__load__s.html" title="{print_load_s\n|+ total_user_time\l+ running_count\l+ blocked_count\l+ new_time\l+ interval_start_time\l+ last_times\l+ interval_time_ms_inv\l|}" alt="" coords="424,733,581,898"/>
+<area shape="rect" id="node5" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html" title="Manages starting, stopping &amp; writing of logged data using the configured backend. ..." alt="" coords="606,711,757,920"/>
+<area shape="rect" id="node6" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html" title="Writes logging data to uORB, and then sent via mavlink. " alt="" coords="528,299,723,567"/>
+<area shape="rect" id="node7" href="$d3/dae/structulog__stream__s.html" title="{ulog_stream_s\n|+ timestamp\l+ sequence\l+ length\l+ first_message_offset\l+ flags\l+ data\l+ _padding0\l|}" alt="" coords="547,5,703,171"/>
+<area shape="rect" id="node8" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html" title="Writes logging data to a file. " alt="" coords="747,248,927,619"/>
+<area shape="rect" id="node9" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="781,35,893,141"/>
+<area shape="rect" id="node10" href="$d8/dcd/classpx4_1_1_array.html" title="{px4::Array\&lt; px4::logger\l::LoggerSubscription,\l MAX_TOPICS_NUM \&gt;\n|&#45; _size\l&#45; _overflow\l|+ Array()\l+ push_back()\l+ remove()\l+ operator[]()\l+ operator[]()\l+ at()\land 11 more...\l}" alt="" coords="237,711,400,920"/>
+</map>

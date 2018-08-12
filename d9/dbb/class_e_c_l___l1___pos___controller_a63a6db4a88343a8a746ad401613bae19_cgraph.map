@@ -1,0 +1,20 @@
+<map id="ECL_L1_Pos_Controller::circle_mode" name="ECL_L1_Pos_Controller::circle_mode">
+<area shape="rect" id="node2" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a7567fdc1eb3b4bdaf0d8d6ef2ec509ab" title="Navigate on a fixed bearing. " alt="" coords="216,33,379,74"/>
+<area shape="rect" id="node8" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a5526936756605515a35f2b31902a6152" title="Keep the wings level. " alt="" coords="216,117,379,158"/>
+<area shape="rect" id="node9" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab402b69cd3a6053795e90d83a84c0da3" title="Navigate on an orbit around a loiter waypoint. " alt="" coords="216,201,379,242"/>
+<area shape="rect" id="node14" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a4812a285e3309e23e33f86f5cb86cf78" title="Navigate between two waypoints. " alt="" coords="216,310,379,352"/>
+<area shape="rect" id="node16" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a2a25fd4f58af2b9b0f696081a1f47201" title="Set the L1 damping factor. " alt="" coords="216,428,379,469"/>
+<area shape="rect" id="node17" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab449fa4dc6e9feb1fd69eef9215559ee" title="Set the L1 period. " alt="" coords="433,596,595,637"/>
+<area shape="rect" id="node18" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ac11b87b276fae1e9a0d2b887ecbf9ccd" title="Get the switch distance. " alt="" coords="216,573,379,614"/>
+<area shape="rect" id="node3" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="650,74,761,100"/>
+<area shape="rect" id="node5" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="649,7,761,34"/>
+<area shape="rect" id="node6" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="686,158,725,184"/>
+<area shape="rect" id="node7" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#adcbf0ee88d4daf62942f15100a689af3" title="Update roll angle setpoint. " alt="" coords="433,92,595,133"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="809,74,920,100"/>
+<area shape="rect" id="node10" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="445,310,583,352"/>
+<area shape="rect" id="node12" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="472,208,556,235"/>
+<area shape="rect" id="node13" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a44d8387e2e22bf4df57d10cdb5bcc8d1" title="Convert a 2D vector from WGS84 to planar coordinates. " alt="" coords="431,428,597,469"/>
+<area shape="rect" id="node11" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="655,435,756,462"/>
+<area shape="rect" id="node15" href="$d1/d71/classmatrix_1_1_vector.html#a8cbb2d42da6488e74e0596b0e14bd825" title="matrix::Vector::normalized" alt="" coords="427,494,601,520"/>
+<area shape="rect" id="node19" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="474,662,554,688"/>
+</map>

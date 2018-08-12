@@ -1,0 +1,51 @@
+<map id="BMI055_accel::ioctl" name="BMI055_accel::ioctl">
+<area shape="rect" id="node2" href="$d2/d34/class_b_m_i055__accel.html#aa1352f58dcaacd9f65f0ab777f7f4684" title="BMI055_accel::accel\l_set_sample_rate" alt="" coords="1013,173,1157,215"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1727,951,1765,978"/>
+<area shape="rect" id="node8" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a958d971dfaa0dd65ecb269a303e30a7b" title="Return the cutoff frequency. " alt="" coords="191,596,347,637"/>
+<area shape="rect" id="node36" href="$d2/d34/class_b_m_i055__accel.html#a3b4f067b2ae5a303957b0cb2aa66f6e7" title="Reset chip. " alt="" coords="795,181,938,207"/>
+<area shape="rect" id="node37" href="$d2/d34/class_b_m_i055__accel.html#a03581a1705873dc0ad99c70524407476" title="Set the BMI055_accel measurement range. " alt="" coords="1001,5,1170,47"/>
+<area shape="rect" id="node38" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a5c1390c1bca03d0eb9229ddccfbede24" title="Change filter parameters. " alt="" coords="395,1053,551,1095"/>
+<area shape="rect" id="node39" href="$d2/d34/class_b_m_i055__accel.html#a0d823adf3de0c16dfda0e61367736716" title="Start automatic measurement. " alt="" coords="599,353,737,379"/>
+<area shape="rect" id="node40" href="$d2/d34/class_b_m_i055__accel.html#afca59a4015469e9daff3c66302f32d16" title="Stop automatic measurement. " alt="" coords="797,462,936,489"/>
+<area shape="rect" id="node3" href="$d2/d34/class_b_m_i055__accel.html#ac6e11bfd04b7d369820b086e8e55f50c" title="Modify a register in the BMI055_accel. " alt="" coords="1223,177,1400,203"/>
+<area shape="rect" id="node4" href="$d0/d48/class_b_m_i055.html#a47ee187403ca5e3fee9f5bd9c854c7b2" title="Read a register from the BMI055. " alt="" coords="1683,265,1809,291"/>
+<area shape="rect" id="node5" href="$d2/d34/class_b_m_i055__accel.html#a056fb161d5b15bcc568dd937ba4d78a7" title="Write a register in the BMI055_accel, updating _checked_values. " alt="" coords="1455,123,1597,164"/>
+<area shape="rect" id="node6" href="$d0/d48/class_b_m_i055.html#a123c0bbc2c836f01bdd7ca607ac791e1" title="Write a register in the BMI055. " alt="" coords="1682,130,1810,157"/>
+<area shape="rect" id="node9" href="$dc/d5d/namespacebmp280.html#a997ff1692ee326fe28fe00a2f1f5c004" title="Reset the driver. " alt="" coords="420,661,525,687"/>
+<area shape="rect" id="node10" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="605,635,731,662"/>
+<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="2345,741,2484,767"/>
+<area shape="rect" id="node15" href="$d1/daf/class_b_m_p280.html#aa0063410420975514305632659eb7dc7" title="BMP280::ioctl" alt="" coords="616,686,720,713"/>
+<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="2571,711,2705,738"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="2569,763,2707,804"/>
+<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="2564,661,2712,687"/>
+<area shape="rect" id="node16" href="$d1/daf/class_b_m_p280.html#ab6e00b5dd8c6d9e0cef9990cef531ec0" title="BMP280::stop_cycle" alt="" coords="795,661,938,687"/>
+<area shape="rect" id="node17" href="$d1/daf/class_b_m_p280.html#aa07ba96a45b1c88a0293896df80b15c9" title="BMP280::start_cycle" alt="" coords="795,711,939,738"/>
+<area shape="rect" id="node18" href="$d1/daf/class_b_m_p280.html#a51e6625b41ad7d264d6b0ef853c8aa9b" title="BMP280::cycle_trampoline" alt="" coords="996,711,1175,738"/>
+<area shape="rect" id="node19" href="$d1/daf/class_b_m_p280.html#a79b5e09c5047a1e5bc0248e18d1bb9e5" title="BMP280::cycle" alt="" coords="1256,711,1367,738"/>
+<area shape="rect" id="node20" href="$d1/daf/class_b_m_p280.html#aa459a57ffbe6ca906f53555e016ec4e7" title="BMP280::collect" alt="" coords="1467,661,1585,687"/>
+<area shape="rect" id="node35" href="$d1/daf/class_b_m_p280.html#a3d6b3add57d1f1e6b0951df5ea342637" title="BMP280::measure" alt="" coords="1461,762,1591,789"/>
+<area shape="rect" id="node21" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1705,762,1787,789"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2575,562,2701,589"/>
+<area shape="rect" id="node23" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1685,509,1807,535"/>
+<area shape="rect" id="node24" href="$de/dbc/classbmp280_1_1_i_b_m_p280.html#a16773562e3b883cf14128ca53e15899f" title="bmp280::IBMP280::get_data" alt="" coords="1652,661,1840,687"/>
+<area shape="rect" id="node25" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1705,559,1787,586"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1702,407,1790,434"/>
+<area shape="rect" id="node34" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1710,711,1782,738"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2343,383,2486,424"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1888,444,2031,485"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2567,383,2709,424"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2760,390,2887,417"/>
+<area shape="rect" id="node31" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="2079,454,2265,481"/>
+<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="2327,661,2502,687"/>
+<area shape="rect" id="node33" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="2313,448,2516,489"/>
+<area shape="rect" id="node42" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="815,294,918,321"/>
+<area shape="rect" id="node43" href="$d2/d34/class_b_m_i055__accel.html#a3ada8e84158f80206e59b819cb945995" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="785,345,948,387"/>
+<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="1044,462,1127,489"/>
+<area shape="rect" id="node44" href="$d2/d34/class_b_m_i055__accel.html#ac362d079edf5896e2370325932bf576e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="1230,534,1393,561"/>
+<area shape="rect" id="node45" href="$d2/d34/class_b_m_i055__accel.html#a5aea7162db6bf6f5174a5d04f4328ece" title="BMI055_accel::check\l_registers" alt="" coords="1452,341,1600,383"/>
+<area shape="rect" id="node46" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1489,610,1563,637"/>
+<area shape="rect" id="node47" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="1448,915,1604,956"/>
+<area shape="rect" id="node48" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="1475,863,1577,890"/>
+<area shape="rect" id="node49" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="1685,863,1807,890"/>
+<area shape="rect" id="node50" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1892,863,2027,890"/>
+</map>

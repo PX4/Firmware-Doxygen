@@ -1,0 +1,44 @@
+<map id="ModuleParams::updateParams" name="ModuleParams::updateParams">
+<area shape="rect" id="node2" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="295,157,417,183"/>
+<area shape="rect" id="node4" href="$de/d9c/class_ekf2.html#a7ac806ea2ea8a0531091065d7ef4d92d" title="Ekf2::Ekf2" alt="" coords="314,207,398,234"/>
+<area shape="rect" id="node6" href="$da/dbc/class_flight_task.html#aaebc7d92ecf165895988b76b7f1381d7" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="261,259,451,300"/>
+<area shape="rect" id="node20" href="$dd/d4e/class_multicopter_position_control.html#a3d233d69ff0d4eb2214d0672751a8bbe" title="Update our local parameter cache. " alt="" coords="1037,332,1212,373"/>
+<area shape="rect" id="node22" href="$d9/d0c/class_multicopter_attitude_control.html#aeba8d9dfe82837dcce7cf06a9c8166e8" title="MulticopterAttitudeControl\l::parameter_update_poll" alt="" coords="269,376,443,417"/>
+<area shape="rect" id="node24" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="288,441,424,483"/>
+<area shape="rect" id="node26" href="$d9/d31/class_fixedwing_position_control.html#a9fcb348a9e7a6a55c69e017810573a48" title="Update our local parameter cache. " alt="" coords="271,507,441,548"/>
+<area shape="rect" id="node31" href="$d0/df9/class_navigator.html#a03fc12ad33c3f07fa0be5af2f8d2b884" title="Navigator::params_update" alt="" coords="269,573,443,599"/>
+<area shape="rect" id="node33" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="297,623,415,650"/>
+<area shape="rect" id="node34" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="319,674,393,701"/>
+<area shape="rect" id="node35" href="$d5/d01/class_block_local_position_estimator.html#ad15c4f6a9868f57abfc5b78f4e2165d9" title="BlockLocalPositionEstimator\l::update" alt="" coords="261,725,451,767"/>
+<area shape="rect" id="node37" href="$de/df6/class_wind_estimator_module.html#ac2285bc2fefbba0b238f87086eacb5cf" title="WindEstimatorModule\l::update_params" alt="" coords="281,791,431,832"/>
+<area shape="rect" id="node42" href="$d0/d5e/class_flight_task_auto_mapper.html#a4018df76a6647737bf35154cd950fd95" title="See ModuleParam class. " alt="" coords="279,856,433,897"/>
+<area shape="rect" id="node43" href="$d8/d5a/class_position_control.html#aef836bf25af6f4288b3bf55f6f0cd2d0" title="Call this whenever the module gets a parameter change notification. " alt="" coords="255,922,457,949"/>
+<area shape="rect" id="node3" href="$d2/da9/class_t_a_p___e_s_c.html#a24c08fd964d11944b1f351dbb5723dd5" title="TAP_ESC::run" alt="" coords="563,157,672,183"/>
+<area shape="rect" id="node5" href="$de/d9c/class_ekf2.html#a0c2ca6006a7790b7b1ed1a5ca7d1de3d" title="Ekf2::instantiate" alt="" coords="559,207,676,234"/>
+<area shape="rect" id="node7" href="$dc/d0c/class_flight_tasks.html#af790ba4505548862724e41d5f25122b6" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="519,259,715,300"/>
+<area shape="rect" id="node8" href="$dc/d0c/class_flight_tasks.html#a06712d8dac53a150d02c8fbf5db38c49" title="Check if any task is active. " alt="" coords="777,193,975,219"/>
+<area shape="rect" id="node9" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="1023,230,1227,257"/>
+<area shape="rect" id="node10" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="1303,230,1441,257"/>
+<area shape="rect" id="node11" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="1517,223,1692,264"/>
+<area shape="rect" id="node16" href="$dc/d0c/class_flight_tasks.html#a1f07acad3a899df3dfa586b2b8e359ae" title="Get task avoidance desired waypoints. " alt="" coords="1036,63,1213,104"/>
+<area shape="rect" id="node18" href="$dc/d0c/class_flight_tasks.html#af6924cd69d86e43dd5c701914c6c6b4d" title="Get task dependent constraints. " alt="" coords="1281,34,1463,61"/>
+<area shape="rect" id="node19" href="$dc/d0c/class_flight_tasks.html#a5bcf5880e6b54f08170826d4814d37fc" title="Get the output data from the current task. " alt="" coords="1291,164,1453,205"/>
+<area shape="rect" id="node15" href="$dc/d0c/class_flight_tasks.html#a480987e23ccc705b407d5ad5b40ac4f6" title="FlightTasks::~FlightTasks" alt="" coords="1517,103,1692,130"/>
+<area shape="rect" id="node12" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="1744,245,1919,287"/>
+<area shape="rect" id="node13" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="1971,253,2145,295"/>
+<area shape="rect" id="node14" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="2193,294,2343,321"/>
+<area shape="rect" id="node17" href="$dd/d4e/class_multicopter_position_control.html#a3e2734c11e2986c712bacfc71dc62db9" title="Fill desired vehicle_trajectory_waypoint: point1: current position, desired velocity point2: current ..." alt="" coords="1275,85,1469,141"/>
+<area shape="rect" id="node21" href="$dd/d4e/class_multicopter_position_control.html#aae649eb7638f47f245a7b27889743eee" title="Constructor. " alt="" coords="1740,332,1923,373"/>
+<area shape="rect" id="node23" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="518,379,717,406"/>
+<area shape="rect" id="node25" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="569,430,665,457"/>
+<area shape="rect" id="node27" href="$d9/d31/class_fixedwing_position_control.html#a903d5f213fea0a5d5e24fee43aebb7cd" title="FixedwingPositionControl\l::FixedwingPositionControl" alt="" coords="528,481,707,523"/>
+<area shape="rect" id="node29" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="778,577,974,603"/>
+<area shape="rect" id="node30" href="$d9/d31/class_fixedwing_position_control.html#accc12e21242a82a421eb6a3365c965cb" title="FixedwingPositionControl\l::vehicle_status_poll" alt="" coords="532,599,703,640"/>
+<area shape="rect" id="node28" href="$d9/d31/class_fixedwing_position_control.html#a914ed9528c9ba9d7ae4d94f42de7f4d8" title="FixedwingPositionControl\l::instantiate" alt="" coords="791,481,961,523"/>
+<area shape="rect" id="node32" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="565,665,669,691"/>
+<area shape="rect" id="node36" href="$dc/d09/class_local_position_estimator_module.html#a6e620e76d8f8c8d6a87fe2246c30bde9" title="LocalPositionEstimatorModule::run" alt="" coords="505,733,729,759"/>
+<area shape="rect" id="node38" href="$de/df6/class_wind_estimator_module.html#acc820028adb66025ba198d92c75cd102" title="WindEstimatorModule\l::WindEstimatorModule" alt="" coords="538,787,697,828"/>
+<area shape="rect" id="node41" href="$de/df6/class_wind_estimator_module.html#a0f33419010318d9c7f836538e489d102" title="WindEstimatorModule\l::cycle" alt="" coords="542,852,693,893"/>
+<area shape="rect" id="node39" href="$de/df6/class_wind_estimator_module.html#acd4450355b2c716f6a9d2095f85f7a68" title="WindEstimatorModule\l::task_spawn" alt="" coords="801,819,951,860"/>
+<area shape="rect" id="node40" href="$de/df6/class_wind_estimator_module.html#aae0ff29609f7d7b4b2dfb6471be3a7a1" title="WindEstimatorModule\l::custom_command" alt="" coords="1049,819,1200,860"/>
+</map>

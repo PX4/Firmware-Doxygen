@@ -1,0 +1,42 @@
+<map id="BMI055_accel::start" name="BMI055_accel::start">
+<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="222,601,325,628"/>
+<area shape="rect" id="node3" href="$d2/d34/class_b_m_i055__accel.html#a3ada8e84158f80206e59b819cb945995" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="192,653,355,694"/>
+<area shape="rect" id="node35" href="$d2/d34/class_b_m_i055__accel.html#a3b4f067b2ae5a303957b0cb2aa66f6e7" title="Reset chip. " alt="" coords="202,719,345,745"/>
+<area shape="rect" id="node40" href="$d2/d34/class_b_m_i055__accel.html#afca59a4015469e9daff3c66302f32d16" title="Stop automatic measurement. " alt="" coords="204,824,343,851"/>
+<area shape="rect" id="node4" href="$d2/d34/class_b_m_i055__accel.html#ac362d079edf5896e2370325932bf576e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="406,296,569,323"/>
+<area shape="rect" id="node5" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="631,259,787,301"/>
+<area shape="rect" id="node7" href="$d2/d34/class_b_m_i055__accel.html#a5aea7162db6bf6f5174a5d04f4328ece" title="BMI055_accel::check\l_registers" alt="" coords="635,478,783,519"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1533,380,1658,407"/>
+<area shape="rect" id="node9" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="875,429,958,456"/>
+<area shape="rect" id="node10" href="$d0/d48/class_b_m_i055.html#a47ee187403ca5e3fee9f5bd9c854c7b2" title="Read a register from the BMI055. " alt="" coords="854,593,979,620"/>
+<area shape="rect" id="node12" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="665,157,753,184"/>
+<area shape="rect" id="node28" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="667,5,750,32"/>
+<area shape="rect" id="node29" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="673,56,745,83"/>
+<area shape="rect" id="node30" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="647,107,770,133"/>
+<area shape="rect" id="node31" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="657,325,760,352"/>
+<area shape="rect" id="node34" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="672,208,745,235"/>
+<area shape="rect" id="node6" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="897,273,936,300"/>
+<area shape="rect" id="node11" href="$d0/d48/class_b_m_i055.html#a123c0bbc2c836f01bdd7ca607ac791e1" title="Write a register in the BMI055. " alt="" coords="1065,744,1193,771"/>
+<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1301,143,1443,185"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="845,203,988,245"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1524,143,1667,185"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1719,151,1846,177"/>
+<area shape="rect" id="node16" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1896,125,2031,152"/>
+<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1911,176,2015,203"/>
+<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2086,151,2225,177"/>
+<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2079,201,2232,228"/>
+<area shape="rect" id="node21" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1036,213,1223,240"/>
+<area shape="rect" id="node22" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1285,275,1459,301"/>
+<area shape="rect" id="node27" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1271,209,1473,250"/>
+<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1528,329,1663,356"/>
+<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1521,212,1669,239"/>
+<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1530,263,1661,305"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1717,263,1848,305"/>
+<area shape="rect" id="node32" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="856,325,977,352"/>
+<area shape="rect" id="node33" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1062,325,1197,352"/>
+<area shape="rect" id="node36" href="$d2/d34/class_b_m_i055__accel.html#aa1352f58dcaacd9f65f0ab777f7f4684" title="BMI055_accel::accel\l_set_sample_rate" alt="" coords="415,646,559,687"/>
+<area shape="rect" id="node38" href="$d2/d34/class_b_m_i055__accel.html#a056fb161d5b15bcc568dd937ba4d78a7" title="Write a register in the BMI055_accel, updating _checked_values. " alt="" coords="846,737,987,778"/>
+<area shape="rect" id="node39" href="$d2/d34/class_b_m_i055__accel.html#a03581a1705873dc0ad99c70524407476" title="Set the BMI055_accel measurement range. " alt="" coords="403,711,572,753"/>
+<area shape="rect" id="node37" href="$d2/d34/class_b_m_i055__accel.html#ac6e11bfd04b7d369820b086e8e55f50c" title="Modify a register in the BMI055_accel. " alt="" coords="620,687,797,713"/>
+<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="446,879,529,905"/>
+</map>

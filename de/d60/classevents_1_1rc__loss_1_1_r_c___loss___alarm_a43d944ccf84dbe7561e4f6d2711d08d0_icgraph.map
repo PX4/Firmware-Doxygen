@@ -1,0 +1,7 @@
+<map id="events::rc_loss::RC_Loss_Alarm::process" name="events::rc_loss::RC_Loss_Alarm::process">
+<area shape="rect" id="node2" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="call process_commands() and schedule the next cycle. " alt="" coords="205,5,347,47"/>
+<area shape="rect" id="node3" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Trampoline for the work queue. " alt="" coords="395,5,536,47"/>
+<area shape="rect" id="node4" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Start background listening for commands. " alt="" coords="395,71,536,112"/>
+<area shape="rect" id="node5" href="$d4/dc6/structevents_1_1_send_event.html#a716f60497ef234cfb7faead37f08d1df" title="Trampoline for initialisation. " alt="" coords="584,71,725,112"/>
+<area shape="rect" id="node6" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Initialize class in the same context as the work queue. " alt="" coords="773,71,915,112"/>
+</map>

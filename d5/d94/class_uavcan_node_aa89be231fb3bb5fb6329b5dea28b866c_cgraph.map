@@ -1,0 +1,51 @@
+<map id="UavcanNode::attachITxQueueInjector" name="UavcanNode::attachITxQueueInjector">
+<area shape="rect" id="node2" href="$d5/d94/class_uavcan_node.html#ac1d73a25e29a58850a05fedc6c3c85bf" title="add a fd to poll list, returning index into _poll_fds[] " alt="" coords="771,1794,943,1821"/>
+<area shape="rect" id="node3" href="$d5/d94/class_uavcan_node.html#a4236d9a128a6345239a5357edcc2c100" title="UavcanNode::fill_node_info" alt="" coords="253,71,435,98"/>
+<area shape="rect" id="node6" href="$d5/d94/class_uavcan_node.html#a0f69cc084378d0ccfc786e8683605549" title="UavcanNode::get_param" alt="" coords="261,257,427,283"/>
+<area shape="rect" id="node8" href="$d5/d94/class_uavcan_node.html#a86556a2901177615fb2820840c6a0d72" title="UavcanNode::get_set\l_param" alt="" coords="521,123,671,164"/>
+<area shape="rect" id="node11" href="$d5/d94/class_uavcan_node.html#aa5b67488c42ce223965ba3a8836acade" title="UavcanNode::print_params" alt="" coords="505,319,687,346"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="281,623,407,650"/>
+<area shape="rect" id="node18" href="$d5/d94/class_uavcan_node.html#ac8763c72c291b4eb5463d93ef0f8511d" title="UavcanNode::list_params" alt="" coords="257,307,431,334"/>
+<area shape="rect" id="node19" href="$d5/d94/class_uavcan_node.html#a6866b73db9f4f831bf9d8ed5f4228e22" title="UavcanNode::node_spin_once" alt="" coords="496,573,696,599"/>
+<area shape="rect" id="node21" href="$d5/d94/class_uavcan_node.html#a9ead06803d34d24e02df8dfc5667d09a" title="UavcanNode::request\l_fw_check" alt="" coords="521,675,671,716"/>
+<area shape="rect" id="node24" href="$d5/d94/class_uavcan_node.html#a3d5fca05e7fe632d800be18754c12261" title="UavcanNode::reset_node" alt="" coords="259,421,429,447"/>
+<area shape="rect" id="node26" href="$d5/d94/class_uavcan_node.html#aa5f18742853ca1adad2e98067f0806d7" title="UavcanNode::run" alt="" coords="282,1343,406,1370"/>
+<area shape="rect" id="node31" href="$d5/d94/class_uavcan_node.html#af78e1cd59c28c014665d451d8ebc709c" title="UavcanNode::update\l_params" alt="" coords="523,923,669,964"/>
+<area shape="rect" id="node34" href="$d5/d94/class_uavcan_node.html#a5eef4e9ca2e3786ffc34e5856c0dca66" title="UavcanNode::start_fw\l_server" alt="" coords="519,805,673,847"/>
+<area shape="rect" id="node35" href="$d5/d94/class_uavcan_node.html#a9a19e6fde448971a340ef17353f3f607" title="UavcanNode::stop_fw\l_server" alt="" coords="520,740,672,781"/>
+<area shape="rect" id="node48" href="$d5/d94/class_uavcan_node.html#aea43db05d6c0a9dd72fdc94d9a26d608" title="UavcanNode::save_params" alt="" coords="252,522,436,549"/>
+<area shape="rect" id="node50" href="$d5/d94/class_uavcan_node.html#ad0e51051165dfb2721fb1019edd36089" title="UavcanNode::set_param" alt="" coords="261,202,427,229"/>
+<area shape="rect" id="node4" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="521,5,671,47"/>
+<area shape="rect" id="node5" href="$d5/d94/class_uavcan_node.html#ae269cb54a4a9054ec929af9f6e245c1d" title="UavcanNode::getHardwareVersion" alt="" coords="484,71,708,98"/>
+<area shape="rect" id="node7" href="$d5/d94/class_uavcan_node.html#ad90314817c7938d819cc80425fc493e0" title="UavcanNode::set_setget\l_response" alt="" coords="513,188,679,229"/>
+<area shape="rect" id="node12" href="$d5/d94/class_uavcan_node.html#ad4eb9943d2363f93f26181cab0a882a4" title="UavcanNode::free_setget\l_response" alt="" coords="511,253,681,295"/>
+<area shape="rect" id="node9" href="$d5/d94/class_uavcan_node.html#a08b61f5163031b6fb70d6cb8d3aee516" title="UavcanNode::cb_setget" alt="" coords="775,130,938,157"/>
+<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="827,421,887,447"/>
+<area shape="rect" id="node14" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="529,623,663,650"/>
+<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="544,871,648,898"/>
+<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="787,930,926,957"/>
+<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="780,1630,933,1657"/>
+<area shape="rect" id="node20" href="$d2/d2d/class_i_tx_queue_injector.html#a6812967843ef9a20e548e9e40ca6a3d3" title="Flush contents of TX queues into the main node. " alt="" coords="776,565,937,607"/>
+<area shape="rect" id="node22" href="$d3/df7/class_uavcan_servers.html#af2ba5288f15306aff9e53610fc09413f" title="UavcanServers::instance" alt="" coords="772,747,941,774"/>
+<area shape="rect" id="node23" href="$d3/df7/class_uavcan_servers.html#a610b0b9da62dfcf02a10ccf2c35853cb" title="UavcanServers::requestCheck\lAllNodesFirmwareAndUpdate" alt="" coords="756,675,957,716"/>
+<area shape="rect" id="node25" href="$d5/d94/class_uavcan_node.html#ab7710d055bba9c649780b7359242c9a5" title="UavcanNode::cb_restart" alt="" coords="514,370,678,397"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="805,1706,908,1733"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="794,1882,919,1909"/>
+<area shape="rect" id="node29" href="$d5/d94/class_uavcan_node.html#a81f65aa5540136ff95e100e7f653428d" title="UavcanNode::handle\l_time_sync" alt="" coords="524,1963,668,2004"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="527,1039,665,1066"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="555,1090,637,1117"/>
+<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="559,1141,633,1167"/>
+<area shape="rect" id="node36" href="$d5/d94/class_uavcan_node.html#afd5f172faafa2f8df4562c4995c61aa4" title="UavcanNode::subscribe" alt="" coords="515,1743,677,1770"/>
+<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="798,2029,915,2055"/>
+<area shape="rect" id="node38" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="531,1191,661,1218"/>
+<area shape="rect" id="node39" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="512,1242,680,1269"/>
+<area shape="rect" id="node40" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="537,1293,655,1319"/>
+<area shape="rect" id="node41" href="$d1/dfe/class_uavcan_esc_controller.html#a14a693863f93f2bbf4e505d538d35559" title="UavcanEscController\l::update_outputs" alt="" coords="523,1845,669,1887"/>
+<area shape="rect" id="node42" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="535,1343,657,1370"/>
+<area shape="rect" id="node43" href="$d1/dfe/class_uavcan_esc_controller.html#aaaa622474f9ac6e7469fc3bcef44b4b9" title="UavcanEscController\l::arm_single_esc" alt="" coords="523,1395,669,1436"/>
+<area shape="rect" id="node44" href="$d5/d94/class_uavcan_node.html#af442eb446291881f995b9380c5b84b0e" title="UavcanNode::arm_actuators" alt="" coords="501,1461,691,1487"/>
+<area shape="rect" id="node45" href="$d1/dfe/class_uavcan_esc_controller.html#a8bc0ccc221b981c250cbf7a3f644250a" title="UavcanEscController\l::enable_idle_throttle\l_when_armed" alt="" coords="523,1511,669,1567"/>
+<area shape="rect" id="node46" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="525,1591,667,1618"/>
+<area shape="rect" id="node47" href="$d5/d94/class_uavcan_node.html#aaa11d6971ea44b8e9a51c58dae73f8ba" title="UavcanNode::teardown" alt="" coords="517,2029,675,2055"/>
+<area shape="rect" id="node49" href="$d5/d94/class_uavcan_node.html#ab4c7d8d9866a63c59aa6753409635cb2" title="UavcanNode::cb_opcode" alt="" coords="511,522,681,549"/>
+</map>

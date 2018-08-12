@@ -1,0 +1,16 @@
+<map id="up_pwm_servo_arm" name="up_pwm_servo_arm">
+<area shape="rect" id="node2" href="$d8/d05/px4io_8h.html#ae4335b0132a371f64a91cbc19cb518e4" title="mixer_tick" alt="" coords="230,5,313,32"/>
+<area shape="rect" id="node4" href="$d6/d33/kinetis_2drv__pwm__servo_8c.html#a4b1b90716ed161a2a03c3190f4b89dbd" title="De&#45;initialise the PWM servo outputs. " alt="" coords="197,56,345,83"/>
+<area shape="rect" id="node5" href="$df/d64/class_p_x4_f_m_u.html#a8cfa12dc982c977be9d0f9e00642d92c" title="PX4FMU::update_pwm\l_out_state" alt="" coords="192,107,351,149"/>
+<area shape="rect" id="node3" href="$dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626" title="user_start" alt="" coords="442,5,522,32"/>
+<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="399,115,565,141"/>
+<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="645,13,760,40"/>
+<area shape="rect" id="node13" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="860,159,1003,185"/>
+<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="613,115,792,141"/>
+<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="840,64,1023,91"/>
+<area shape="rect" id="node11" href="$df/d64/class_p_x4_f_m_u.html#a00f750c72c6cc1f0bd156b5de4d9fac9" title="PX4FMU::run" alt="" coords="880,13,983,40"/>
+<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#a622e54b376f05bfd26ec16cbbe2889bf" title="PX4FMU::task_spawn" alt="" coords="1227,77,1381,104"/>
+<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a2be5e5695b54ad07a8e905b64992a46d" title="PX4FMU::custom_command" alt="" coords="1429,107,1620,133"/>
+<area shape="rect" id="node14" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="1071,147,1179,173"/>
+<area shape="rect" id="node15" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="1251,135,1357,161"/>
+</map>

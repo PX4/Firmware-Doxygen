@@ -1,0 +1,51 @@
+<map id="MPU9250::~MPU9250" name="MPU9250::~MPU9250">
+<area shape="rect" id="node2" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="1113,955,1228,981"/>
+<area shape="rect" id="node13" href="$dd/d78/perf__counter_8c.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="255,423,328,449"/>
+<area shape="rect" id="node14" href="$df/dd9/class_m_p_u9250.html#a117a8049159359180786726a7abcd9f6" title="Stop automatic measurement. " alt="" coords="235,473,348,500"/>
+<area shape="rect" id="node49" href="$db/dcf/classdevice_1_1_c_dev.html#a1bc70f8f4087d2acf0ffe516f15c9e38" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="208,170,375,211"/>
+<area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1791,734,1934,775"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="1303,887,1445,929"/>
+<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2015,734,2157,775"/>
+<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2210,480,2337,507"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2387,429,2521,456"/>
+<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2402,480,2506,507"/>
+<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2577,392,2715,419"/>
+<area shape="rect" id="node9" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2569,455,2723,481"/>
+<area shape="rect" id="node11" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1500,876,1713,903"/>
+<area shape="rect" id="node12" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a77ca809a54e4d7a0137e89eeba22d17f" title="Interface to notify the remote entity of a topic being advertised. " alt="" coords="1761,869,1964,910"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="451,448,533,475"/>
+<area shape="rect" id="node16" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="423,499,561,525"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2023,431,2149,457"/>
+<area shape="rect" id="node18" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="672,397,755,424"/>
+<area shape="rect" id="node19" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="919,296,991,323"/>
+<area shape="rect" id="node20" href="$df/dd9/class_m_p_u9250.html#ab7ffef3c6d49afbaebdb7caa8ce5098d" title="MPU9250::check_registers" alt="" coords="865,195,1045,221"/>
+<area shape="rect" id="node24" href="$df/dd9/class_m_p_u9250.html#ac6a98f3cdd7d0de404b532d9b6b5b5e8" title="MPU9250::check_duplicate" alt="" coords="622,347,805,373"/>
+<area shape="rect" id="node25" href="$d5/d16/class_m_p_u9250__mag.html#a3bc4a1e9f946a7ff41b0dd11dd54554f" title="MPU9250_mag::is_passthrough" alt="" coords="609,549,817,576"/>
+<area shape="rect" id="node27" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1109,397,1232,424"/>
+<area shape="rect" id="node28" href="$d5/d16/class_m_p_u9250__mag.html#a8680a969755273d73edba631d7cf32ff" title="MPU9250_mag::_measure" alt="" coords="867,565,1044,592"/>
+<area shape="rect" id="node30" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1134,653,1207,680"/>
+<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="2021,154,2151,195"/>
+<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1127,723,1215,749"/>
+<area shape="rect" id="node40" href="$d5/d16/class_m_p_u9250__mag.html#a14f964ed506f7c0d8907b6a46b509fbf" title="MPU9250_mag::measure" alt="" coords="628,651,799,677"/>
+<area shape="rect" id="node41" href="$d6/d1e/conversions_8c.html#adcfc38898c99b0a7987a8c53de2e37b8" title="Converts a signed 16 bit integer from big endian to little endian. " alt="" coords="647,920,780,947"/>
+<area shape="rect" id="node42" href="$df/dd9/class_m_p_u9250.html#a9c745af99b7d4d55d899ae5b016313eb" title="MPU9250::check_null_data" alt="" coords="622,245,805,272"/>
+<area shape="rect" id="node43" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="635,702,791,743"/>
+<area shape="rect" id="node44" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="936,768,975,795"/>
+<area shape="rect" id="node45" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="662,819,765,845"/>
+<area shape="rect" id="node48" href="$d5/d99/class_m_p_u9250__gyro.html#a8c75646e9b0b8f340c0a2d3d06687cc6" title="MPU9250_gyro::parent\l_poll_notify" alt="" coords="1296,115,1452,157"/>
+<area shape="rect" id="node21" href="$df/dd9/class_m_p_u9250.html#a9e211d7a42a413678b084358a0bdf055" title="Read a register from the mpu. " alt="" coords="1101,245,1240,272"/>
+<area shape="rect" id="node22" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1129,347,1212,373"/>
+<area shape="rect" id="node23" href="$df/dd9/class_m_p_u9250.html#ad1709c24cbe9e442c6f097c855b9bbb8" title="Write a register in the mpu. " alt="" coords="1100,195,1241,221"/>
+<area shape="rect" id="node26" href="$df/dd9/class_m_p_u9250.html#ae55bce6cc4d0e75fcebe8a6f41b24daf" title="Measurement self test. " alt="" coords="886,499,1025,525"/>
+<area shape="rect" id="node29" href="$d5/d16/class_m_p_u9250__mag.html#a7ad28f869048e4eac2f58b96e874a583" title="MPU9250_mag::check\l_duplicate" alt="" coords="1093,499,1248,541"/>
+<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="2208,154,2339,195"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1303,675,1445,717"/>
+<area shape="rect" id="node35" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1513,683,1700,709"/>
+<area shape="rect" id="node36" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1775,683,1950,709"/>
+<area shape="rect" id="node39" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1761,617,1964,658"/>
+<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="2019,632,2153,659"/>
+<area shape="rect" id="node38" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="2012,683,2160,709"/>
+<area shape="rect" id="node46" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="895,920,1016,947"/>
+<area shape="rect" id="node47" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1103,904,1238,931"/>
+<area shape="rect" id="node50" href="$da/dc9/posix_2cdev__platform_8cpp.html#a982c5d28fb1c9d81d326b245be5aac6b" title="unregister_driver" alt="" coords="2395,379,2513,405"/>
+</map>

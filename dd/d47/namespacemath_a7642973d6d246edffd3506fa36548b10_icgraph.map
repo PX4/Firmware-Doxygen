@@ -1,0 +1,51 @@
+<map id="math::min" name="math::min">
+<area shape="rect" id="node2" href="$d8/d4c/class_flight_task_manual_altitude.html#a7861572e68c901a3cd1068e1b95abfe4" title="FlightTaskManualAltitude\l::_respectMaxAltitude" alt="" coords="155,17,324,59"/>
+<area shape="rect" id="node3" href="$d0/d4b/class_manual_smoothing_x_y.html#aad3522a44137c70b2d3d7e242719e066" title="Set acceleration depending on Intention. " alt="" coords="163,83,315,124"/>
+<area shape="rect" id="node6" href="$d8/d5a/class_position_control.html#a344630cfe29f6359d43b36e72e3b97d4" title="applies the P&#45;position&#45;controller " alt="" coords="154,763,325,804"/>
+<area shape="rect" id="node9" href="$db/dad/class_mission.html#a0a9489e28310bedd1b5d83d51cb07645" title="Updates the altitude sp to follow a foh. " alt="" coords="170,169,309,211"/>
+<area shape="rect" id="node12" href="$d3/df7/class_uavcan_servers.html#ad185fb9274f90b346951341e13ac958b" title="UavcanServers::cb_enumeration\l_getset" alt="" coords="133,235,345,276"/>
+<area shape="rect" id="node14" href="$dd/d4e/class_multicopter_position_control.html#ad337d7df40f5eb1593e7f97e2b210123" title="Checks if smooth takeoff is initiated. " alt="" coords="401,825,585,867"/>
+<area shape="rect" id="node15" href="$d9/d0c/class_multicopter_attitude_control.html#a102ebec1dd741cebdef571e565fe0bde" title="Attitude rates controller. " alt="" coords="153,352,326,393"/>
+<area shape="rect" id="node16" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="393,357,592,383"/>
+<area shape="rect" id="node17" href="$da/dac/class_e_c_l___yaw_controller.html#ab9f6d80480a05691c2366bf586355bf5" title="ECL_YawController::\lcontrol_bodyrate" alt="" coords="167,469,312,511"/>
+<area shape="rect" id="node20" href="$d5/d82/class_e_c_l___wheel_controller.html#a14ae2d6d50f33c6db3bf39a0e103eb47" title="ECL_WheelController\l::control_bodyrate" alt="" coords="419,291,567,332"/>
+<area shape="rect" id="node21" href="$d6/d4a/class_e_c_l___roll_controller.html#ac583b77234c58a4233025d1b6dac3d09" title="ECL_RollController\l::control_bodyrate" alt="" coords="172,584,307,625"/>
+<area shape="rect" id="node23" href="$d7/d35/class_e_c_l___pitch_controller.html#a61a8c68bc4695ff543e893938728171f" title="ECL_PitchController\l::control_bodyrate" alt="" coords="169,697,310,739"/>
+<area shape="rect" id="node25" href="$da/d2b/class_straight_line.html#ad5268431570b6b1bb2167c56dd3b87ea" title="Get the maximum possible acceleration depending on the direction of the line Respects horizontal and ..." alt="" coords="157,879,322,906"/>
+<area shape="rect" id="node27" href="$da/d2b/class_straight_line.html#afc6af3548ef33ede07302942e06866bf" title="Get the maximum possible velocity depending on the direction of the line Respects horizontal and vert..." alt="" coords="159,930,320,957"/>
+<area shape="rect" id="node31" href="$dd/dd1/class_simulator.html#a1a78752a0e42cc7012f4bcd474795792" title="Simulator::handle_message" alt="" coords="148,981,331,1007"/>
+<area shape="rect" id="node32" href="$da/d89/class_mavlink_receiver.html#aace4112bca36d5dfe6fd105751e425e8" title="MavlinkReceiver::handle\l_message_gps_rtcm_data" alt="" coords="152,1032,327,1073"/>
+<area shape="rect" id="node34" href="$d5/d73/class_estimator_interface.html#a53b3c14143f8316f60e811af7079f875" title="EstimatorInterface\l::initialise_interface" alt="" coords="172,1097,307,1139"/>
+<area shape="rect" id="node36" href="$dd/d4e/class_multicopter_position_control.html#a3d233d69ff0d4eb2214d0672751a8bbe" title="Update our local parameter cache. " alt="" coords="152,1332,327,1373"/>
+<area shape="rect" id="node38" href="$d7/d6f/class_vtol_attitude_control.html#a5a6f2ddb30542332d382e53c88351fd8" title="Update parameters. " alt="" coords="169,1215,310,1256"/>
+<area shape="rect" id="node39" href="$d1/d58/class_g_p_s.html#addbf9acf7d95e18850b82f03a1ba1534" title="This is an abstraction for the poll on serial used. " alt="" coords="178,1281,301,1307"/>
+<area shape="rect" id="node41" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="178,1645,301,1671"/>
+<area shape="rect" id="node44" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ac11b87b276fae1e9a0d2b887ecbf9ccd" title="Get the switch distance. " alt="" coords="158,1397,321,1439"/>
+<area shape="rect" id="node45" href="$d4/d91/class_temperature_calibration_common.html#ae92c00965835fc07edd07ac0a80604dd" title="TemperatureCalibrationCommon\l\&lt; 3, 3 \&gt;::update" alt="" coords="134,1463,345,1504"/>
+<area shape="rect" id="node46" href="$db/d2b/class_attitude_estimator_q.html#aae666619f856c8def390dbc1a98cb9ba" title="AttitudeEstimatorQ\l::update" alt="" coords="173,1528,306,1569"/>
+<area shape="rect" id="node47" href="$db/d02/namespacesensors.html#a2524a6de41c2fe180562428116c9a6b5" title="Read out the parameters using the handles into the parameters struct. " alt="" coords="146,1594,333,1621"/>
+<area shape="rect" id="node48" href="$dd/d4e/class_multicopter_position_control.html#a00f97f18daea9d779694531512d8ade7" title="Check if smooth takeoff has ended and updates accordingly. " alt="" coords="405,1227,580,1268"/>
+<area shape="rect" id="node49" href="$da/dbc/class_flight_task.html#ac0cf5331e942bf582c3ba4fd81ea62f9" title="Call before activate() or update() to initialize time and input data. " alt="" coords="150,1695,329,1722"/>
+<area shape="rect" id="node50" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a715caf561d7426e6d75b47ea69c26b8b" title="px4::logger::LogWriterMavlink\l::write_message" alt="" coords="142,1747,337,1788"/>
+<area shape="rect" id="node4" href="$d0/d4b/class_manual_smoothing_x_y.html#a5c0cf00c23c17c94844db0d2bf69ca3f" title="Sets velocity change limits (=acceleration). " alt="" coords="417,5,569,47"/>
+<area shape="rect" id="node5" href="$d0/d4b/class_manual_smoothing_x_y.html#a9ac657e7d3f11c2da1f74d15c1f8ecb0" title="ManualSmoothingXY::\loverwriteJerkMin" alt="" coords="661,35,813,76"/>
+<area shape="rect" id="node7" href="$d8/d5a/class_position_control.html#adbac83085545adb41be6523877231e90" title="Apply P&#45;position and PID&#45;velocity controller that updates the member thrust, yaw&#45; and yawspeed&#45;setpoi..." alt="" coords="408,760,577,801"/>
+<area shape="rect" id="node8" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="650,1027,825,1068"/>
+<area shape="rect" id="node10" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="420,173,565,215"/>
+<area shape="rect" id="node11" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="427,122,558,149"/>
+<area shape="rect" id="node13" href="$d3/df7/class_uavcan_servers.html#a6c443712b288a4dfc98ea47af36921f6" title="UavcanServers::run" alt="" coords="423,239,562,266"/>
+<area shape="rect" id="node18" href="$da/dac/class_e_c_l___yaw_controller.html#ad316e13d9df2bea3c8aae84f82bbe425" title="ECL_YawController::\lcontrol_euler_rate" alt="" coords="420,408,565,449"/>
+<area shape="rect" id="node19" href="$d3/d25/class_fixedwing_attitude_control.html#a9a2fe5a46e51b61b291b93109b6c22f4" title="FixedwingAttitudeControl::run" alt="" coords="640,533,835,559"/>
+<area shape="rect" id="node22" href="$d6/d4a/class_e_c_l___roll_controller.html#a232722aaf0950262542b84e57fe5bfcf" title="ECL_RollController\l::control_euler_rate" alt="" coords="425,525,560,567"/>
+<area shape="rect" id="node24" href="$d7/d35/class_e_c_l___pitch_controller.html#a5416956938beb51705956e080eb061b2" title="ECL_PitchController\l::control_euler_rate" alt="" coords="422,643,563,684"/>
+<area shape="rect" id="node26" href="$da/d2b/class_straight_line.html#a92f5c6998ee1f75e3489f66e67c7580d" title="Set all parameters to their default value depending on the direction of the line. ..." alt="" coords="402,891,583,918"/>
+<area shape="rect" id="node28" href="$da/d2b/class_straight_line.html#a4d99476febdddf97a0b252f7ee633b7e" title="StraightLine::setAcceleration" alt="" coords="398,942,587,969"/>
+<area shape="rect" id="node29" href="$da/d2b/class_straight_line.html#a4d02de9d725911635512149ddf9c461d" title="StraightLine::setSpeed" alt="" coords="415,993,570,1019"/>
+<area shape="rect" id="node30" href="$da/d2b/class_straight_line.html#af02a27bb19dfeef2631081f5d7e7c0ef" title="StraightLine::setSpeedAt\lTarget" alt="" coords="409,1044,576,1085"/>
+<area shape="rect" id="node33" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="410,1109,575,1151"/>
+<area shape="rect" id="node35" href="$dc/d66/class_ekf.html#aa68133b40fd9f0ea1ec39a15394801fd" title="Ekf::init" alt="" coords="459,1175,526,1202"/>
+<area shape="rect" id="node37" href="$dd/d4e/class_multicopter_position_control.html#aae649eb7638f47f245a7b27889743eee" title="Constructor. " alt="" coords="401,1344,584,1385"/>
+<area shape="rect" id="node40" href="$d1/d58/class_g_p_s.html#ade51b469c95a168441874ae0456bb297" title="callback from the driver for the platform specific stuff " alt="" coords="439,1293,546,1319"/>
+<area shape="rect" id="node42" href="$d8/d7e/class_r_t_l.html#a08d3ece18df6bf8f59cbd73c05aceafe" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="427,1670,559,1697"/>
+<area shape="rect" id="node43" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="437,1619,548,1646"/>
+</map>

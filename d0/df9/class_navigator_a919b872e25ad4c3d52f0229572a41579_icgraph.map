@@ -1,0 +1,21 @@
+<map id="Navigator::get_can_loiter_at_sp" name="Navigator::get_can_loiter_at_sp">
+<area shape="rect" id="node2" href="$de/db3/class_gps_failure.html#a70011bad0dc47cf8c09eb5d17d2acbbc" title="This function is called while the mode is inactive. " alt="" coords="203,5,361,32"/>
+<area shape="rect" id="node3" href="$d7/dc4/class_r_c_loss.html#ade813a84f6cc4c16a88b8ba720b056c1" title="This function is called while the mode is inactive. " alt="" coords="210,56,354,83"/>
+<area shape="rect" id="node4" href="$d9/d3a/class_data_link_loss.html#ae8796060afba5d869f47db70198f5497" title="This function is called while the mode is inactive. " alt="" coords="194,107,370,133"/>
+<area shape="rect" id="node5" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="211,157,353,184"/>
+<area shape="rect" id="node6" href="$da/d7b/class_mission_block.html#a47b729d8b256178cfc4515acb74ce9e0" title="Set a loiter mission item, if possible reuse the position setpoint, otherwise take the current positi..." alt="" coords="185,208,379,235"/>
+<area shape="rect" id="node7" href="$d8/d13/class_takeoff.html#a222d4e276bc3b82aca68af486cf9297f" title="This function is called while the mode is active. " alt="" coords="434,149,565,176"/>
+<area shape="rect" id="node8" href="$d5/da0/class_loiter.html#aac8e6e7fba3b661e8e33e5fb9b971622" title="Set the position to hold based on the current local position. " alt="" coords="442,201,557,242"/>
+<area shape="rect" id="node10" href="$db/dad/class_mission.html#a2f25f09d8e1688237be7a0abb28d542a" title="Set new mission items. " alt="" coords="427,283,572,325"/>
+<area shape="rect" id="node9" href="$d5/da0/class_loiter.html#ad8fedd17e85b7834ba0ca9763106ba8b" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="634,189,773,216"/>
+<area shape="rect" id="node11" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="835,246,980,287"/>
+<area shape="rect" id="node13" href="$db/dad/class_mission.html#a3561ffcb7a9229e67b0ff553f4853ea3" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="627,291,779,317"/>
+<area shape="rect" id="node14" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="638,341,769,368"/>
+<area shape="rect" id="node15" href="$db/dad/class_mission.html#ae9f26d718c3f24b86b1ee8fc19a45c35" title="Mission::set_current\l_offboard_mission_index" alt="" coords="620,393,787,434"/>
+<area shape="rect" id="node12" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1249,349,1353,376"/>
+<area shape="rect" id="node16" href="$db/dad/class_mission.html#a0d0bfe31ec4e43f1de757a81f2b40598" title="Mission::land_start" alt="" coords="841,400,973,427"/>
+<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#a0a39ebe10ae1314fe8378c1d98481160" title="Navigator::start_mission\l_landing" alt="" coords="1028,426,1192,467"/>
+<area shape="rect" id="node18" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="1240,433,1363,460"/>
+<area shape="rect" id="node19" href="$d8/d7e/class_r_t_l.html#a08d3ece18df6bf8f59cbd73c05aceafe" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="1411,408,1543,435"/>
+<area shape="rect" id="node20" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="1421,459,1532,485"/>
+</map>

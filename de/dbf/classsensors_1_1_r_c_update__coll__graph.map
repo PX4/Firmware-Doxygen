@@ -1,0 +1,6 @@
+<map id="sensors::RCUpdate" name="sensors::RCUpdate">
+<area shape="rect" id="node2" href="$d7/d23/structrc__parameter__map__s.html" title="{rc_parameter_map_s\n|+ timestamp\l+ param_index\l+ scale\l+ value0\l+ value_min\l+ value_max\l+ valid\l+ param_id\l+ _padding0\l|}" alt="" coords="5,27,149,222"/>
+<area shape="rect" id="node3" href="$de/dfc/classmath_1_1_low_pass_filter2p.html" title="{math::LowPassFilter2p\n|&#45; _cutoff_freq\l&#45; _a1\l&#45; _a2\l&#45; _b0\l&#45; _b1\l&#45; _b2\l&#45; _delay_element_1\l&#45; _delay_element_2\l|+ LowPassFilter2p()\l+ set_cutoff_frequency()\l+ apply()\l+ get_cutoff_freq()\l+ reset()\l}" alt="" coords="174,5,338,244"/>
+<area shape="rect" id="node4" href="$dd/d29/structrc__channels__s.html" title="{rc_channels_s\n|+ timestamp\l+ timestamp_last_valid\l+ channels\l+ frame_drop_count\l+ channel_count\l+ function\l+ rssi\l+ signal_lost\l+ _padding0\l|}" alt="" coords="363,27,520,222"/>
+<area shape="rect" id="node5" href="$d3/d5b/structsensors_1_1_parameters.html" title="{sensors::Parameters\n|+ min\l+ trim\l+ max\l+ rev\l+ dz\l+ scaling_factor\land 71 more...\l|}" alt="" coords="545,42,687,207"/>
+</map>

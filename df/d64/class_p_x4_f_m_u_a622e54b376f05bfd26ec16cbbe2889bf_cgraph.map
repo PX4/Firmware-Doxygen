@@ -1,0 +1,51 @@
+<map id="PX4FMU::task_spawn" name="PX4FMU::task_spawn">
+<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="208,936,391,963"/>
+<area shape="rect" id="node47" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="256,1710,343,1736"/>
+<area shape="rect" id="node50" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="223,1760,375,1787"/>
+<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="451,816,565,843"/>
+<area shape="rect" id="node41" href="$df/d64/class_p_x4_f_m_u.html#a72c4d0fb34c593ee5b21b97be6f14d84" title="Initialise the driver and make it ready for use. " alt="" coords="664,1710,765,1736"/>
+<area shape="rect" id="node46" href="$df/d64/class_p_x4_f_m_u.html#abf18a5e4520c2af44cef809613c9113c" title="PX4FMU::PX4FMU" alt="" coords="439,404,577,431"/>
+<area shape="rect" id="node4" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="631,1246,798,1272"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1373,94,1412,120"/>
+<area shape="rect" id="node10" href="$d0/dbb/drv__pwm__output_8h.html#a4e3ecac6bbb17ef4c38ffd288a2a11e3" title="Set the current output value for a channel. " alt="" coords="1105,1074,1239,1100"/>
+<area shape="rect" id="node11" href="$df/d64/class_p_x4_f_m_u.html#a8cfa12dc982c977be9d0f9e00642d92c" title="PX4FMU::update_pwm\l_out_state" alt="" coords="1093,1348,1251,1389"/>
+<area shape="rect" id="node13" href="$df/d64/class_p_x4_f_m_u.html#a427f03adac69358868f8a78e9c5487e1" title="PX4FMU::subscribe" alt="" coords="873,1078,1013,1104"/>
+<area shape="rect" id="node16" href="$df/d64/class_p_x4_f_m_u.html#ab7e79eae3a5f77f7a5b09cb60c9fceb8" title="PX4FMU::update_params" alt="" coords="857,1608,1030,1635"/>
+<area shape="rect" id="node17" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1135,1624,1209,1651"/>
+<area shape="rect" id="node19" href="$df/d64/class_p_x4_f_m_u.html#a8a3489e72caa5d6498a06c50f825da42" title="PX4FMU::flash_safety\l_button" alt="" coords="637,1070,792,1112"/>
+<area shape="rect" id="node20" href="$d9/dbb/class_mixer_group.html#a7311c864d9bbd9a3583eb58b4c490a68" title="Get the saturation status. " alt="" coords="625,348,804,389"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="881,976,1006,1003"/>
+<area shape="rect" id="node23" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="655,414,774,440"/>
+<area shape="rect" id="node25" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="647,699,782,726"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="673,918,756,944"/>
+<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1128,992,1216,1019"/>
+<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="655,144,775,171"/>
+<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="1115,443,1229,470"/>
+<area shape="rect" id="node32" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="654,195,775,222"/>
+<area shape="rect" id="node33" href="$d2/d09/pwm__limit_8cpp.html#a1f8a7620629f6261224f8c4c9c28ee7d" title="pwm_limit_calc" alt="" coords="659,968,771,995"/>
+<area shape="rect" id="node34" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="679,296,750,323"/>
+<area shape="rect" id="node35" href="$df/d64/class_p_x4_f_m_u.html#a5fc5cd1c4427d6ed1f083d8c128cfeff" title="Reorder PWM outputs according to _motor_ordering. " alt="" coords="627,464,802,491"/>
+<area shape="rect" id="node36" href="$df/d64/class_p_x4_f_m_u.html#afdfe6059bc060674ac5873eaab996aa4" title="PX4FMU::safety_check\l_button" alt="" coords="633,516,796,557"/>
+<area shape="rect" id="node37" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="631,582,799,608"/>
+<area shape="rect" id="node38" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="641,633,788,674"/>
+<area shape="rect" id="node39" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to pwm. " alt="" coords="637,750,792,792"/>
+<area shape="rect" id="node40" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="656,816,773,843"/>
+<area shape="rect" id="node5" href="$df/d64/class_p_x4_f_m_u.html#a29c65fbc3ff3761991c0798e00040391" title="PX4FMU::capture_callback" alt="" coords="852,1304,1035,1331"/>
+<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="1083,1140,1261,1167"/>
+<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="872,1203,1015,1230"/>
+<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="1309,1355,1476,1382"/>
+<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#a163083d229976aa6d33acdac3bf69573" title="PX4FMU::start" alt="" coords="888,1254,999,1280"/>
+<area shape="rect" id="node18" href="$df/d64/class_p_x4_f_m_u.html#ac745c5e0953c0e996150f4056f0fd1ec" title="PX4FMU::update_pwm\l_rev_mask" alt="" coords="1093,1558,1251,1600"/>
+<area shape="rect" id="node14" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="1121,1191,1223,1218"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1321,952,1464,993"/>
+<area shape="rect" id="node21" href="$de/d2d/class_mixer.html#a0489d4761ca014a0269fa975811c0066" title="Get the saturation status. " alt="" coords="871,348,1015,389"/>
+<area shape="rect" id="node24" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="902,414,985,440"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="872,742,1015,784"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="872,860,1015,901"/>
+<area shape="rect" id="node42" href="$d8/d98/circuit__breaker_8cpp.html#a0eb495f286c64c70c007505210ec5df4" title="circuit_breaker_enabled" alt="" coords="864,1827,1023,1854"/>
+<area shape="rect" id="node43" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="899,1878,987,1904"/>
+<area shape="rect" id="node44" href="$d2/d09/pwm__limit_8cpp.html#ae3de6fee4531aea8b7281b9876803c09" title="pwm_limit_init" alt="" coords="891,1710,996,1736"/>
+<area shape="rect" id="node45" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="867,1761,1020,1802"/>
+<area shape="rect" id="node48" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="676,1760,753,1787"/>
+<area shape="rect" id="node49" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="477,1760,539,1787"/>
+</map>

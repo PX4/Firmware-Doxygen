@@ -1,0 +1,51 @@
+<map id="lsm303d::test" name="lsm303d::test">
+<area shape="rect" id="node2" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="350,136,491,163"/>
+<area shape="rect" id="node6" href="$d9/dfa/class_l_s_m303_d__mag.html#ac6ea69129ce52b44e9162c1e418fe06f" title="LSM303D_mag::ioctl" alt="" coords="349,288,493,315"/>
+<area shape="rect" id="node45" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="351,187,490,213"/>
+<area shape="rect" id="node47" href="$d9/dfa/class_l_s_m303_d__mag.html#ac520e30f2a6993c905b61dbcb2093bc2" title="LSM303D_mag::read" alt="" coords="155,339,300,365"/>
+<area shape="rect" id="node50" href="$de/d88/namespacelsm303d.html#a1e0a21dd8d1235be6528b0a62fcd00ca" title="Reset the driver. " alt="" coords="173,237,281,264"/>
+<area shape="rect" id="node3" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="541,76,711,103"/>
+<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="559,127,693,153"/>
+<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="552,177,700,204"/>
+<area shape="rect" id="node7" href="$d6/dd5/class_l_s_m303_d.html#a03e16cd3366e3e8ca52f9e62c83e0fa3" title="LSM303D::mag_ioctl" alt="" coords="554,295,698,321"/>
+<area shape="rect" id="node8" href="$d6/dd5/class_l_s_m303_d.html#a07c0af476f2b847a25282eef1b6a0f8d" title="Set the LSM303D internal mag sampling frequency. " alt="" coords="1231,107,1440,133"/>
+<area shape="rect" id="node13" href="$d6/dd5/class_l_s_m303_d.html#a5f1f4db34131f350507192dbe4dd46b2" title="Reset chip. " alt="" coords="1021,295,1139,321"/>
+<area shape="rect" id="node22" href="$d6/dd5/class_l_s_m303_d.html#a90993a1bfd5a7d396989ff88d75db82d" title="Start automatic measurement. " alt="" coords="787,395,901,421"/>
+<area shape="rect" id="node43" href="$d6/dd5/class_l_s_m303_d.html#a7517d7fd402d1d94baf02a9c35ba3a94" title="Stop automatic measurement. " alt="" coords="1023,193,1137,220"/>
+<area shape="rect" id="node9" href="$d6/dd5/class_l_s_m303_d.html#a94d120e35d1ccfe5917a58ba03572138" title="Modify a register in the LSM303D. " alt="" coords="1502,223,1654,249"/>
+<area shape="rect" id="node10" href="$d6/dd5/class_l_s_m303_d.html#a5dc0b5d0de4a3ef9ccdf79326cc5b416" title="Read a register from the LSM303D. " alt="" coords="1745,267,1884,293"/>
+<area shape="rect" id="node11" href="$d6/dd5/class_l_s_m303_d.html#ae01c393885c97b626a1b1bdb66057b86" title="Write a register in the LSM303D, updating _checked_values. " alt="" coords="1716,216,1913,243"/>
+<area shape="rect" id="node12" href="$d6/dd5/class_l_s_m303_d.html#a8b8e71c3287211a03712a1be26fc2f09" title="Write a register in the LSM303D. " alt="" coords="1984,216,2125,243"/>
+<area shape="rect" id="node14" href="$d6/dd5/class_l_s_m303_d.html#ab41e197327d397cc23e458becc50d0ad" title="Set the driver lowpass filter bandwidth. " alt="" coords="1261,470,1409,511"/>
+<area shape="rect" id="node17" href="$d6/dd5/class_l_s_m303_d.html#ab8f45a014207b3e5afad605ba5e0b89b" title="Set the LSM303D on&#45;chip anti&#45;alias filter bandwith. " alt="" coords="1258,208,1413,264"/>
+<area shape="rect" id="node18" href="$d6/dd5/class_l_s_m303_d.html#a6b43adb7eb7739c63f278d291b7f481b" title="Set the LSM303D accel measurement range. " alt="" coords="1263,353,1407,394"/>
+<area shape="rect" id="node19" href="$d6/dd5/class_l_s_m303_d.html#a171677a1939ed7c4d73be3e8be59a01f" title="Set the LSM303D internal accel sampling frequency. " alt="" coords="1263,287,1407,329"/>
+<area shape="rect" id="node20" href="$d6/dd5/class_l_s_m303_d.html#a312b66c90c9134bf7421cd430d23b9e0" title="disable I2C on the chip " alt="" coords="1501,165,1655,192"/>
+<area shape="rect" id="node21" href="$d6/dd5/class_l_s_m303_d.html#ae00d2da66e47872a89bcfbbe2612f6e3" title="Set the LSM303D mag measurement range. " alt="" coords="1247,419,1424,445"/>
+<area shape="rect" id="node15" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a5c1390c1bca03d0eb9229ddccfbede24" title="Change filter parameters. " alt="" coords="1500,375,1656,417"/>
+<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1795,383,1834,409"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1029,445,1131,472"/>
+<area shape="rect" id="node24" href="$d6/dd5/class_l_s_m303_d.html#ad8d778c112a3fdfdecdc0e4da7412eb4" title="Static trampoline for the mag because it runs at a lower rate. " alt="" coords="995,594,1165,635"/>
+<area shape="rect" id="node36" href="$d6/dd5/class_l_s_m303_d.html#a627c0c76e55761dd0ff0ef775ddb29e5" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="977,395,1183,421"/>
+<area shape="rect" id="node25" href="$d6/dd5/class_l_s_m303_d.html#a00c7cff1191c8730799c4f2c6789c97c" title="Fetch mag measurements from the sensor and update the report ring. " alt="" coords="1250,735,1421,761"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1515,709,1641,736"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1534,760,1622,787"/>
+<area shape="rect" id="node32" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1537,861,1619,888"/>
+<area shape="rect" id="node33" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1542,912,1614,939"/>
+<area shape="rect" id="node34" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1517,659,1639,685"/>
+<area shape="rect" id="node35" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1541,811,1615,837"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2196,751,2339,793"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1743,782,1886,823"/>
+<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2387,751,2529,793"/>
+<area shape="rect" id="node31" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1961,785,2148,812"/>
+<area shape="rect" id="node37" href="$d6/dd5/class_l_s_m303_d.html#a9e12ef7f12febb7f4d8e900e848b3dbd" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="1266,659,1405,685"/>
+<area shape="rect" id="node38" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="1500,441,1656,482"/>
+<area shape="rect" id="node39" href="$d6/dd5/class_l_s_m303_d.html#a2456a0eb55d42884d757730a206766c5" title="check key registers for correct values " alt="" coords="1488,557,1668,584"/>
+<area shape="rect" id="node40" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1773,608,1856,635"/>
+<area shape="rect" id="node41" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="1527,507,1629,533"/>
+<area shape="rect" id="node42" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="1754,507,1875,533"/>
+<area shape="rect" id="node44" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="1294,5,1377,32"/>
+<area shape="rect" id="node46" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="557,229,695,270"/>
+<area shape="rect" id="node48" href="$d6/dd5/class_l_s_m303_d.html#a83ed1f7ecfe8a2836087557b16f05fcc" title="LSM303D::mag_read" alt="" coords="348,347,493,373"/>
+<area shape="rect" id="node49" href="$d9/dfa/class_l_s_m303_d__mag.html#ae81b17f23bc8b384d7b2255e671e7c92" title="LSM303D_mag::measure" alt="" coords="759,555,929,581"/>
+</map>

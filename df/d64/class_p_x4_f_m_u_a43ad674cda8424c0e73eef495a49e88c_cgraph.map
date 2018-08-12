@@ -1,0 +1,51 @@
+<map id="PX4FMU::cycle" name="PX4FMU::cycle">
+<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="174,377,341,404"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="919,573,958,600"/>
+<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="395,573,577,600"/>
+<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#ab7e79eae3a5f77f7a5b09cb60c9fceb8" title="PX4FMU::update_params" alt="" coords="852,645,1025,672"/>
+<area shape="rect" id="node10" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1115,776,1190,803"/>
+<area shape="rect" id="node15" href="$df/d64/class_p_x4_f_m_u.html#a8cfa12dc982c977be9d0f9e00642d92c" title="PX4FMU::update_pwm\l_out_state" alt="" coords="635,281,794,322"/>
+<area shape="rect" id="node17" href="$d0/dbb/drv__pwm__output_8h.html#a4e3ecac6bbb17ef4c38ffd288a2a11e3" title="Set the current output value for a channel. " alt="" coords="647,523,782,549"/>
+<area shape="rect" id="node19" href="$df/d64/class_p_x4_f_m_u.html#a427f03adac69358868f8a78e9c5487e1" title="PX4FMU::subscribe" alt="" coords="416,523,556,549"/>
+<area shape="rect" id="node20" href="$df/d64/class_p_x4_f_m_u.html#a8a3489e72caa5d6498a06c50f825da42" title="PX4FMU::flash_safety\l_button" alt="" coords="180,777,335,818"/>
+<area shape="rect" id="node21" href="$d9/dbb/class_mixer_group.html#a7311c864d9bbd9a3583eb58b4c490a68" title="Get the saturation status. " alt="" coords="168,894,347,935"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="423,1087,549,1113"/>
+<area shape="rect" id="node24" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="198,960,317,987"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="1085,1283,1220,1309"/>
+<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="1111,725,1194,752"/>
+<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1109,587,1197,613"/>
+<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="879,1061,999,1088"/>
+<area shape="rect" id="node41" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="881,1223,996,1249"/>
+<area shape="rect" id="node42" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="197,1264,318,1291"/>
+<area shape="rect" id="node43" href="$d2/d09/pwm__limit_8cpp.html#a1f8a7620629f6261224f8c4c9c28ee7d" title="pwm_limit_calc" alt="" coords="201,1112,313,1139"/>
+<area shape="rect" id="node44" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="222,1365,293,1392"/>
+<area shape="rect" id="node45" href="$df/d64/class_p_x4_f_m_u.html#a5fc5cd1c4427d6ed1f083d8c128cfeff" title="Reorder PWM outputs according to _motor_ordering. " alt="" coords="170,1416,345,1443"/>
+<area shape="rect" id="node46" href="$df/d64/class_p_x4_f_m_u.html#afdfe6059bc060674ac5873eaab996aa4" title="PX4FMU::safety_check\l_button" alt="" coords="176,1467,339,1509"/>
+<area shape="rect" id="node47" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="173,1533,341,1560"/>
+<area shape="rect" id="node48" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="184,1585,331,1626"/>
+<area shape="rect" id="node49" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to pwm. " alt="" coords="180,1650,335,1691"/>
+<area shape="rect" id="node50" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="199,1716,316,1743"/>
+<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a29c65fbc3ff3761991c0798e00040391" title="PX4FMU::capture_callback" alt="" coords="395,245,577,272"/>
+<area shape="rect" id="node4" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="625,409,804,436"/>
+<area shape="rect" id="node13" href="$df/d64/class_p_x4_f_m_u.html#ac745c5e0953c0e996150f4056f0fd1ec" title="PX4FMU::update_pwm\l_rev_mask" alt="" coords="1073,638,1232,679"/>
+<area shape="rect" id="node14" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="415,347,557,373"/>
+<area shape="rect" id="node16" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="855,288,1022,315"/>
+<area shape="rect" id="node18" href="$df/d64/class_p_x4_f_m_u.html#a163083d229976aa6d33acdac3bf69573" title="PX4FMU::start" alt="" coords="431,93,541,120"/>
+<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#abf18a5e4520c2af44cef809613c9113c" title="PX4FMU::PX4FMU" alt="" coords="645,573,784,600"/>
+<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a72c4d0fb34c593ee5b21b97be6f14d84" title="Initialise the driver and make it ready for use. " alt="" coords="664,624,765,651"/>
+<area shape="rect" id="node11" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1297,971,1440,1013"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1280,855,1457,881"/>
+<area shape="rect" id="node22" href="$de/d2d/class_mixer.html#a0489d4761ca014a0269fa975811c0066" title="Get the saturation status. " alt="" coords="414,894,558,935"/>
+<area shape="rect" id="node25" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="445,960,527,987"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1297,1178,1440,1219"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1505,1119,1648,1161"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1297,742,1440,783"/>
+<area shape="rect" id="node33" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="1085,1181,1220,1208"/>
+<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="1111,827,1194,853"/>
+<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="1115,877,1190,904"/>
+<area shape="rect" id="node36" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="1111,1029,1194,1056"/>
+<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="1095,1080,1210,1107"/>
+<area shape="rect" id="node38" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="1093,928,1212,955"/>
+<area shape="rect" id="node39" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="1109,979,1196,1005"/>
+<area shape="rect" id="node40" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="1109,1131,1197,1157"/>
+</map>

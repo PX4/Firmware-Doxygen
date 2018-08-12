@@ -1,0 +1,51 @@
+<map id="lock_queue" name="lock_queue">
+<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="349,1600,474,1627"/>
+<area shape="rect" id="node46" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="141,1781,280,1808"/>
+<area shape="rect" id="node49" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="145,1656,277,1683"/>
+<area shape="rect" id="node50" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="328,1651,495,1693"/>
+<area shape="rect" id="node3" href="$db/d6e/dataman_8h.html#a7a5efb4d8faca621b9e92ebded5a59bf" title="Erase all items of this type. " alt="" coords="547,1701,622,1728"/>
+<area shape="rect" id="node6" href="$db/d6e/dataman_8h.html#a3de9f2b358b752b7945c801d3235bcf6" title="Retrieve from the data manager store. " alt="" coords="549,849,621,876"/>
+<area shape="rect" id="node39" href="$db/d6e/dataman_8h.html#a0aa9590c68d2c40ebbf34d7880fbcb06" title="Tell the data manager about the type of the last reset. " alt="" coords="543,1651,627,1677"/>
+<area shape="rect" id="node41" href="$db/d6e/dataman_8h.html#a2c0db8cb512345ef4b2c0da60a6a7c88" title="write to the data manager store " alt="" coords="547,1600,622,1627"/>
+<area shape="rect" id="node4" href="$d7/dbe/class_geofence.html#a861a0b8a8e12423188e3140e09bafc3c" title="Geofence::clearDm" alt="" coords="726,2000,861,2027"/>
+<area shape="rect" id="node5" href="$d7/dbe/class_geofence.html#a9f6a2ec731abb95f297168dbfbcce200" title="Load a single inclusion polygon, replacing any already existing polygons. " alt="" coords="981,1899,1142,1925"/>
+<area shape="rect" id="node7" href="$d3/dc6/class_commander.html#af1dc603ce8ac5c165ffbf71cc57f850f" title="Commander::mission_init" alt="" coords="708,1483,879,1509"/>
+<area shape="rect" id="node9" href="$d1/d69/class_mavlink_mission_manager.html#a2f6c1ca8e2d9100b90e6dda3fce09038" title="MavlinkMissionManager\l::init_offboard_mission" alt="" coords="980,1083,1143,1125"/>
+<area shape="rect" id="node11" href="$d1/d69/class_mavlink_mission_manager.html#af9be0e96d90c5e8c95c3c5e9e8b01d1c" title="load geofence stats from dataman " alt="" coords="712,1149,875,1190"/>
+<area shape="rect" id="node13" href="$d1/d69/class_mavlink_mission_manager.html#a448f0d69ef1d6f187ecf8b24d94a08e0" title="load safe point stats from dataman " alt="" coords="712,1083,875,1125"/>
+<area shape="rect" id="node14" href="$d1/d69/class_mavlink_mission_manager.html#a5d33cecfa4470f9ca56efd220c9cbc35" title="MavlinkMissionManager\l::send_mission_item" alt="" coords="712,1214,875,1255"/>
+<area shape="rect" id="node17" href="$d7/dbe/class_geofence.html#a39dc1f54930821f1e7d0b488590605ca" title="implementation of updateFence(), but without locking " alt="" coords="709,601,877,628"/>
+<area shape="rect" id="node19" href="$d7/dbe/class_geofence.html#ad04469e1fc121106b04be1492d00c158" title="Check if a point passes the Geofence test. " alt="" coords="974,81,1149,108"/>
+<area shape="rect" id="node20" href="$d7/dbe/class_geofence.html#a11637131c4a1374b8caf70d1e075e898" title="Check if a single point is within a polygon. " alt="" coords="710,107,877,133"/>
+<area shape="rect" id="node21" href="$d7/dbe/class_geofence.html#a1ce8999e183228080ae6b4e9be3e8b5a" title="Check if a single point is within a circle. " alt="" coords="716,5,871,32"/>
+<area shape="rect" id="node22" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="991,908,1132,935"/>
+<area shape="rect" id="node23" href="$db/dad/class_mission.html#a109d984e22dba040bb8587e4a7735043" title="Find and store the index of the landing sequence (DO_LAND_START) " alt="" coords="718,901,869,942"/>
+<area shape="rect" id="node24" href="$db/dad/class_mission.html#a39d9d3167a186a25eae268e830fb394d" title="Move on to next mission item or switch to loiter. " alt="" coords="705,157,881,184"/>
+<area shape="rect" id="node25" href="$db/dad/class_mission.html#aee5a4533d9566a086f24133a89ac293e" title="Read current (offset == 0) or a specific (offset &gt; 0) mission item from the dataman and watch out for..." alt="" coords="701,1432,885,1459"/>
+<area shape="rect" id="node26" href="$db/dad/class_mission.html#a858dcaca4d0da1a4394081efdc00c3d0" title="Save current offboard mission state to dataman. " alt="" coords="715,1534,872,1575"/>
+<area shape="rect" id="node27" href="$db/dad/class_mission.html#a7f410937084a02056293c52acdb93a98" title="Reset offboard mission. " alt="" coords="714,1018,873,1059"/>
+<area shape="rect" id="node28" href="$db/dad/class_mission.html#a722fc381a1112e7599fb1a13bb707945" title="Return the index of the closest offboard mission item to the current global position. " alt="" coords="716,209,871,250"/>
+<area shape="rect" id="node29" href="$d0/d52/class_mission_feasibility_checker.html#ac20191a66873ba5a153419de9924162d" title="MissionFeasibilityChecker\l::checkRotarywing" alt="" coords="706,274,881,315"/>
+<area shape="rect" id="node30" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="706,339,881,381"/>
+<area shape="rect" id="node31" href="$d0/d52/class_mission_feasibility_checker.html#a5e0f002d5237c920181f7d13c0e199d9" title="MissionFeasibilityChecker\l::checkHomePositionAltitude" alt="" coords="698,405,889,446"/>
+<area shape="rect" id="node32" href="$d0/d52/class_mission_feasibility_checker.html#acd2aa67347aa222e7fbfc810e6ddc41d" title="MissionFeasibilityChecker\l::checkMissionItemValidity" alt="" coords="704,470,883,511"/>
+<area shape="rect" id="node33" href="$d0/d52/class_mission_feasibility_checker.html#acfcea251043eb561a4fbe3294f6eccee" title="MissionFeasibilityChecker\l::checkFixedWingTakeoff" alt="" coords="706,535,881,577"/>
+<area shape="rect" id="node34" href="$d0/d52/class_mission_feasibility_checker.html#acd3269d879ba473e39791b25411490c1" title="MissionFeasibilityChecker\l::checkFixedWingLanding" alt="" coords="706,653,881,694"/>
+<area shape="rect" id="node35" href="$d0/d52/class_mission_feasibility_checker.html#ad2f505f8086fe3cf231ee07b96e354fa" title="MissionFeasibilityChecker\l::checkDistanceToFirstWaypoint" alt="" coords="687,718,900,759"/>
+<area shape="rect" id="node36" href="$d0/d52/class_mission_feasibility_checker.html#ac4a0f0b4cc2f87d4631c882428afe85d" title="MissionFeasibilityChecker\l::checkDistancesBetweenWaypoints" alt="" coords="675,783,912,825"/>
+<area shape="rect" id="node37" href="$d2/d91/test__dataman_8c.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="752,1381,835,1408"/>
+<area shape="rect" id="node38" href="$d5/d69/tests__main_8h.html#afc1b31371802a0a50a530fd78923a05d" title="test_dataman" alt="" coords="1011,1381,1112,1408"/>
+<area shape="rect" id="node8" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1002,1483,1121,1509"/>
+<area shape="rect" id="node10" href="$d1/d69/class_mavlink_mission_manager.html#a2f58b27e3ec0b76a1846a2b63a7b2bdd" title="MavlinkMissionManager\l::MavlinkMissionManager" alt="" coords="1211,1083,1381,1125"/>
+<area shape="rect" id="node12" href="$d1/d69/class_mavlink_mission_manager.html#abd8bb4da625d9a54b8cc66c326a53916" title="MavlinkMissionManager\l::handle_mission_request_list" alt="" coords="964,1149,1159,1190"/>
+<area shape="rect" id="node15" href="$d1/d69/class_mavlink_mission_manager.html#a58a06e2a7db20b86e4b26e566ff2f76d" title="Handle sending of messages. " alt="" coords="980,1214,1143,1255"/>
+<area shape="rect" id="node16" href="$d1/d69/class_mavlink_mission_manager.html#ab57e2591d8f8da25dc2174046b16ec1e" title="MavlinkMissionManager\l::handle_mission_request_both" alt="" coords="960,1279,1163,1321"/>
+<area shape="rect" id="node18" href="$d7/dbe/class_geofence.html#a6a4f90550a9337ee92bf0242c5af3ffb" title="Geofence::Geofence" alt="" coords="990,601,1133,628"/>
+<area shape="rect" id="node40" href="$d6/d47/dataman_8cpp.html#a6418d61c47cdbb8ffb7b57ddbe5f90bf" title="dataman_main" alt="" coords="740,1949,847,1976"/>
+<area shape="rect" id="node42" href="$d1/d69/class_mavlink_mission_manager.html#ad39599d7e28fed6164cfd559c017af08" title="Publish mission topic to notify navigator about changes. " alt="" coords="712,1767,875,1809"/>
+<area shape="rect" id="node43" href="$d1/d69/class_mavlink_mission_manager.html#a3cc251b5c79a7a80c4f2521f0971a566" title="MavlinkMissionManager\l::handle_mission_item_both" alt="" coords="969,1735,1153,1777"/>
+<area shape="rect" id="node44" href="$d1/d69/class_mavlink_mission_manager.html#ac2b65cbc1110a3605d9cf0361276a2b6" title="store the geofence count to dataman " alt="" coords="709,1702,877,1743"/>
+<area shape="rect" id="node45" href="$d1/d69/class_mavlink_mission_manager.html#a58a188959a59162d272985976d42cb23" title="store the safepoint count to dataman " alt="" coords="709,1833,877,1874"/>
+<area shape="rect" id="node47" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="370,1828,453,1855"/>
+<area shape="rect" id="node48" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="561,1851,609,1877"/>
+</map>

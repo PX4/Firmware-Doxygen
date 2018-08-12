@@ -1,0 +1,28 @@
+<map id="pwm_limit_init" name="pwm_limit_init">
+<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#a72c4d0fb34c593ee5b21b97be6f14d84" title="Initialise the driver and make it ready for use. " alt="" coords="204,75,305,101"/>
+<area shape="rect" id="node13" href="$d9/dd5/class_mixer_test.html#a41f997efe4a878dcb538c524351942f6" title="MixerTest::mixerTest" alt="" coords="181,196,328,223"/>
+<area shape="rect" id="node15" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="166,249,343,276"/>
+<area shape="rect" id="node22" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="159,300,351,327"/>
+<area shape="rect" id="node27" href="$dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626" title="user_start" alt="" coords="215,351,295,377"/>
+<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="399,75,581,101"/>
+<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#a00f750c72c6cc1f0bd156b5de4d9fac9" title="PX4FMU::run" alt="" coords="1108,5,1211,32"/>
+<area shape="rect" id="node4" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="629,105,796,132"/>
+<area shape="rect" id="node5" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="879,31,993,57"/>
+<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#a622e54b376f05bfd26ec16cbbe2889bf" title="PX4FMU::task_spawn" alt="" coords="1291,183,1445,209"/>
+<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="847,132,1025,159"/>
+<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="1088,132,1231,159"/>
+<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="1314,132,1422,159"/>
+<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="1493,132,1600,159"/>
+<area shape="rect" id="node11" href="$df/d64/class_p_x4_f_m_u.html#a2be5e5695b54ad07a8e905b64992a46d" title="PX4FMU::custom_command" alt="" coords="1648,157,1839,184"/>
+<area shape="rect" id="node14" href="$d9/dd5/class_mixer_test.html#aa8aecca3b00dcc680a6e512bf769a3cd" title="Override to run your unit tests. " alt="" coords="419,192,561,219"/>
+<area shape="rect" id="node16" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="419,243,561,285"/>
+<area shape="rect" id="node17" href="$d0/db0/namespacelinux__pwm__out.html#a15fd89cbae6f918aee78e46d9d018a7b" title="linux_pwm_out::start" alt="" coords="641,284,784,311"/>
+<area shape="rect" id="node20" href="$de/d9c/class_ekf2.html#a8ad1745bc2cc2c53ac1c48c2ec2e172e" title="Ekf2::set_replay_mode" alt="" coords="635,233,791,260"/>
+<area shape="rect" id="node18" href="$da/dd6/linux__pwm__out_8cpp.html#a412407ab462307bbeb3e9198bc9872ce" title="linux_pwm_out_main" alt="" coords="864,284,1008,311"/>
+<area shape="rect" id="node19" href="$d0/db0/namespacelinux__pwm__out.html#a3eab6d177df998cc3a3fe0664f591369" title="linux_pwm_out::usage" alt="" coords="1083,284,1235,311"/>
+<area shape="rect" id="node21" href="$de/d9c/class_ekf2.html#a0c2ca6006a7790b7b1ed1a5ca7d1de3d" title="Ekf2::instantiate" alt="" coords="877,233,995,260"/>
+<area shape="rect" id="node23" href="$d3/d92/namespacesnapdragon__pwm.html#a2ba69ca6582c4546ff158d57c18fec22" title="snapdragon_pwm::task\l_main_trampoline" alt="" coords="411,318,569,359"/>
+<area shape="rect" id="node24" href="$d3/d92/namespacesnapdragon__pwm.html#a4ded7b1adaa7c042a7feec376941cc2f" title="snapdragon_pwm::start" alt="" coords="633,335,792,361"/>
+<area shape="rect" id="node25" href="$d8/dad/snapdragon__pwm__out_8cpp.html#a21dce0265a43d504f07e3c24e3302e83" title="snapdragon_pwm_out_main" alt="" coords="844,335,1028,361"/>
+<area shape="rect" id="node26" href="$d3/d92/namespacesnapdragon__pwm.html#a8d24f1d491d98e86370e41289f812007" title="snapdragon_pwm::usage" alt="" coords="1076,335,1243,361"/>
+</map>

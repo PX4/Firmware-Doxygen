@@ -1,0 +1,51 @@
+<map id="write_int32" name="write_int32">
+<area shape="rect" id="node2" href="$d1/de1/tinybson_8h.html#a8e7daed098473f1a517eb5d9d3a6aac4" title="Append a binary blob to the encoded stream. " alt="" coords="151,153,303,194"/>
+<area shape="rect" id="node35" href="$d1/de1/tinybson_8h.html#acd183eb3e4e78d4dc673362acb78b5cb" title="Append an integer to the encoded stream. " alt="" coords="140,219,313,246"/>
+<area shape="rect" id="node36" href="$d1/de1/tinybson_8h.html#af385cf22373488bb048e51535cc0d76f" title="Append a string to the encoded stream. " alt="" coords="151,88,303,129"/>
+<area shape="rect" id="node37" href="$d1/de1/tinybson_8h.html#a8bde48161a6ee04f682096ad05991bbb" title="Initialze the encoder for writing to a buffer. " alt="" coords="151,270,303,296"/>
+<area shape="rect" id="node38" href="$d1/de1/tinybson_8h.html#a32ff17659dd60b9c65ff5cd464d07e19" title="Initialze the encoder for writing to a file. " alt="" coords="139,36,315,63"/>
+<area shape="rect" id="node39" href="$d1/de1/tinybson_8h.html#a97fac1acf602f6b628a71d9ff061940c" title="Initialze the encoder for writing to a file. " alt="" coords="151,375,302,402"/>
+<area shape="rect" id="node3" href="$d2/d06/flashparams_8c.html#a928cacba27914c52f4e3db6dd3d52fa4" title="param_export_internal" alt="" coords="363,219,513,246"/>
+<area shape="rect" id="node31" href="$d5/d33/param_8h.html#ae7c8a59918c92ba45e23e7ca59c98381" title="Export changed parameters to a file. " alt="" coords="387,82,489,108"/>
+<area shape="rect" id="node33" href="$d7/d48/test__bson_8c.html#a32820224ead87e7d885847d9d3a20fe7" title="encode" alt="" coords="406,164,470,191"/>
+<area shape="rect" id="node4" href="$d3/d19/flashparams_8h.html#ab2215226877c7c44a451f67a7456a94c" title="flash_param_save" alt="" coords="567,219,695,246"/>
+<area shape="rect" id="node5" href="$d5/d33/param_8h.html#aac114d47fe21936442ef251b4af6e81d" title="Save parameters to the default file. " alt="" coords="748,219,887,246"/>
+<area shape="rect" id="node6" href="$d9/da5/param_8c.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="953,392,1074,419"/>
+<area shape="rect" id="node14" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="2068,430,2244,456"/>
+<area shape="rect" id="node16" href="$d6/d89/class_parameter_test.html#a612b8826b7d08994dfde86e42b594641" title="ParameterTest::exportImportAll" alt="" coords="1816,263,2020,290"/>
+<area shape="rect" id="node21" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="1839,379,1997,406"/>
+<area shape="rect" id="node24" href="$d6/d89/class_parameter_test.html#a50e40a2a9f3282c662dcca0a92a809c8" title="ParameterTest::exportImport" alt="" coords="1823,212,2013,239"/>
+<area shape="rect" id="node25" href="$d9/d30/param_8cpp.html#a1269436fa41934ca22ce4a43572d17ab" title="do_save_default" alt="" coords="955,160,1072,187"/>
+<area shape="rect" id="node26" href="$d9/d30/param_8cpp.html#acdb587df4fccb667a10a4b46328bdfc1" title="param_main" alt="" coords="1187,160,1280,187"/>
+<area shape="rect" id="node27" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="935,212,1092,253"/>
+<area shape="rect" id="node7" href="$d9/da5/param_8c.html#a6c51844a2beacdf981daf222af7ee197" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="1174,404,1293,431"/>
+<area shape="rect" id="node8" href="$d5/d33/param_8h.html#a0be8f0b2d4cef4e2aa6546892929bd01" title="Reset a parameter to its default value. " alt="" coords="1409,582,1503,608"/>
+<area shape="rect" id="node11" href="$d9/da5/param_8c.html#a759202dec4546bd981d796584f740bbd" title="param_reset_all_internal" alt="" coords="1375,430,1537,456"/>
+<area shape="rect" id="node18" href="$d9/da5/param_8c.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1390,379,1522,406"/>
+<area shape="rect" id="node9" href="$d5/d33/param_8h.html#ab6c1c91bd7dcb9fc540805e112e22d9a" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="1600,582,1753,608"/>
+<area shape="rect" id="node10" href="$d5/d69/tests__main_8h.html#af4859f2fd00ef2788e16d10bf5962657" title="test_param" alt="" coords="1875,556,1961,583"/>
+<area shape="rect" id="node12" href="$d5/d33/param_8h.html#ae8d5f925fbe3b899fbe51098a541139f" title="Load parameters from a file. " alt="" coords="1632,531,1721,558"/>
+<area shape="rect" id="node13" href="$d5/d33/param_8h.html#aba23d08f1756d0ab3e8cbd610abaf6af" title="Reset all parameters to their default values. " alt="" coords="1619,430,1734,456"/>
+<area shape="rect" id="node15" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="2292,379,2411,406"/>
+<area shape="rect" id="node17" href="$d6/d89/class_parameter_test.html#a97850908363a100ca589f3b4db5e51d6" title="Override to run your unit tests. " alt="" coords="2089,241,2223,282"/>
+<area shape="rect" id="node19" href="$d9/da5/param_8c.html#aef043febf8ac8ffbac1efcc936e76e8a" title="param_import_callback" alt="" coords="1599,379,1755,406"/>
+<area shape="rect" id="node20" href="$d5/d33/param_8h.html#a26cb63b426af831903dcb1193002cf48" title="Set the value of a parameter. " alt="" coords="1635,480,1718,507"/>
+<area shape="rect" id="node23" href="$d5/d33/param_8h.html#a817e6f9a6a2b732e09e5c446af02ed45" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="1589,278,1764,304"/>
+<area shape="rect" id="node22" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="2093,379,2219,406"/>
+<area shape="rect" id="node28" href="$d5/dce/class_temperature_calibration.html#ae260fba51c37cca23e825e81bc31d1bf" title="TemperatureCalibration\l::do_temperature_calibration" alt="" coords="1140,212,1327,253"/>
+<area shape="rect" id="node29" href="$d5/dce/class_temperature_calibration.html#ade82c5dd7e5f8787ffb0fecdfd9ef596" title="Start task. " alt="" coords="1377,180,1535,221"/>
+<area shape="rect" id="node30" href="$d8/dd0/temperature__calibration_8h.html#a34b406ade258e7d4659d6f4c082e581f" title="start temperature calibration in a new task for one or multiple sensors " alt="" coords="1585,176,1768,203"/>
+<area shape="rect" id="node32" href="$d9/d30/param_8cpp.html#a0f3f0246cfc87e7677e3edc52f3cd8e6" title="do_save" alt="" coords="782,23,853,50"/>
+<area shape="rect" id="node34" href="$d5/d69/tests__main_8h.html#affd513716982a5dfa53e012d35e8c947" title="test_bson" alt="" coords="591,168,670,195"/>
+<area shape="rect" id="node40" href="$de/d95/param__shmem_8c.html#a9684c9aefbfb9f1addd8fd14b4776555" title="Export changed parameters to a file. " alt="" coords="387,430,489,456"/>
+<area shape="rect" id="node41" href="$de/d95/param__shmem_8c.html#a8c23617be66d165d07cc3bd42e9acffd" title="Save parameters to the default file. " alt="" coords="561,484,700,511"/>
+<area shape="rect" id="node42" href="$de/d95/param__shmem_8c.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="757,703,878,730"/>
+<area shape="rect" id="node43" href="$de/d95/param__shmem_8c.html#a6c51844a2beacdf981daf222af7ee197" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="954,759,1073,786"/>
+<area shape="rect" id="node44" href="$de/d95/param__shmem_8c.html#a44d25292a66f5521372edb465e668038" title="Reset a parameter to its default value. " alt="" coords="1186,784,1281,811"/>
+<area shape="rect" id="node46" href="$de/d95/param__shmem_8c.html#a759202dec4546bd981d796584f740bbd" title="param_reset_all_internal" alt="" coords="1152,835,1315,862"/>
+<area shape="rect" id="node49" href="$de/d95/param__shmem_8c.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1167,734,1299,760"/>
+<area shape="rect" id="node45" href="$de/d95/param__shmem_8c.html#ac579e1a9910cc9e997cceeefbbf51d05" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="1379,784,1533,811"/>
+<area shape="rect" id="node47" href="$de/d95/param__shmem_8c.html#a455cd138f80934ec65400e099cd4086b" title="Load parameters from a file. " alt="" coords="1411,835,1501,862"/>
+<area shape="rect" id="node48" href="$de/d95/param__shmem_8c.html#aab3a3324b8f2b8a6d4d33583024ea7cc" title="Reset all parameters to their default values. " alt="" coords="1399,886,1513,912"/>
+<area shape="rect" id="node50" href="$de/d95/param__shmem_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1415,734,1497,760"/>
+</map>

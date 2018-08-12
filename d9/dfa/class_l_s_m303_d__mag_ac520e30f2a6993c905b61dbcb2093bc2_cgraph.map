@@ -1,0 +1,26 @@
+<map id="LSM303D_mag::read" name="LSM303D_mag::read">
+<area shape="rect" id="node2" href="$d6/dd5/class_l_s_m303_d.html#a83ed1f7ecfe8a2836087557b16f05fcc" title="LSM303D::mag_read" alt="" coords="199,229,344,256"/>
+<area shape="rect" id="node3" href="$d9/dfa/class_l_s_m303_d__mag.html#ae81b17f23bc8b384d7b2255e671e7c92" title="LSM303D_mag::measure" alt="" coords="392,229,563,256"/>
+<area shape="rect" id="node4" href="$d6/dd5/class_l_s_m303_d.html#a00c7cff1191c8730799c4f2c6789c97c" title="Fetch mag measurements from the sensor and update the report ring. " alt="" coords="611,229,781,256"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1687,5,1813,32"/>
+<area shape="rect" id="node6" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="847,153,935,180"/>
+<area shape="rect" id="node22" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="849,204,932,231"/>
+<area shape="rect" id="node23" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="855,255,927,281"/>
+<area shape="rect" id="node24" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="829,305,952,332"/>
+<area shape="rect" id="node25" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="854,356,927,383"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1455,211,1598,253"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1000,146,1143,187"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1679,225,1821,266"/>
+<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1874,232,2001,259"/>
+<area shape="rect" id="node10" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2051,207,2185,233"/>
+<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2066,257,2170,284"/>
+<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2241,232,2379,259"/>
+<area shape="rect" id="node13" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2233,283,2387,309"/>
+<area shape="rect" id="node15" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1191,153,1377,180"/>
+<area shape="rect" id="node16" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1439,95,1614,121"/>
+<area shape="rect" id="node21" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1425,146,1628,187"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1683,173,1817,200"/>
+<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1676,56,1824,83"/>
+<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1685,107,1815,149"/>
+<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1872,107,2003,149"/>
+</map>

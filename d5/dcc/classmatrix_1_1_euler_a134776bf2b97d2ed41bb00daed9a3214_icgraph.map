@@ -1,0 +1,34 @@
+<map id="matrix::Euler::phi" name="matrix::Euler::phi">
+<area shape="rect" id="node2" href="$d4/d15/class_vtol_type.html#a2ee870bd529e4c9b7fe5f043d0399abf" title="Checks for fixed&#45;wing failsafe condition and issues abort request if needed. " alt="" coords="185,227,369,268"/>
+<area shape="rect" id="node10" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a65ce990aa49256b1f415396fa80bddec" title="px4::bst::BST::cycle" alt="" coords="206,325,349,351"/>
+<area shape="rect" id="node16" href="$d4/d11/classmatrix_1_1_dcm.html#a027a364a589090d475253e8f74aeacfb" title="Constructor from euler angles. " alt="" coords="212,376,343,417"/>
+<area shape="rect" id="node17" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="209,442,345,469"/>
+<area shape="rect" id="node21" href="$d5/dcc/classmatrix_1_1_euler.html#a2e2bda3b719e501e88127f6956a08195" title="Constructor from euler angles. " alt="" coords="210,493,345,519"/>
+<area shape="rect" id="node22" href="$d5/d01/class_block_local_position_estimator.html#a086547fd47445231ef92e78217daefc4" title="BlockLocalPositionEstimator\l::flowMeasure" alt="" coords="183,544,372,585"/>
+<area shape="rect" id="node27" href="$d2/d50/class_terrain_estimator.html#a83768b34286123a4c179ecd77ae00eb9" title="TerrainEstimator::measurement\l_update" alt="" coords="175,609,380,651"/>
+<area shape="rect" id="node30" href="$d5/d0f/classmatrix_1_1_quaternion.html#afc4f49b1b7b4acf28b1984b70db702d6" title="Constructor from euler angles. " alt="" coords="213,675,342,716"/>
+<area shape="rect" id="node31" href="$d3/d25/class_fixedwing_attitude_control.html#a9a2fe5a46e51b61b291b93109b6c22f4" title="FixedwingAttitudeControl::run" alt="" coords="180,741,375,767"/>
+<area shape="rect" id="node32" href="$d2/dc2/class_mavlink_stream_attitude.html#aea9ac13fe32315f83c99e1abf935bfb0" title="MavlinkStreamAttitude\l::send" alt="" coords="200,792,355,833"/>
+<area shape="rect" id="node33" href="$d5/d02/class_mavlink_stream_vision_position_estimate.html#ad89390300cd903b29246ac04f6a1a8a8" title="MavlinkStreamVisionPosition\lEstimate::send" alt="" coords="181,857,373,899"/>
+<area shape="rect" id="node3" href="$d4/d15/class_vtol_type.html#af1c7c698dda426e11a11ec3c8bc16e57" title="Update fixed wing state. " alt="" coords="451,103,594,144"/>
+<area shape="rect" id="node7" href="$d4/d15/class_vtol_type.html#aa0d8effe8396812d460a206a883ce698" title="Update transition state. " alt="" coords="432,227,613,268"/>
+<area shape="rect" id="node4" href="$db/d0f/class_tiltrotor.html#a2fc3e8c1e947038ae0fa59b675225d61" title="Update fixed wing state. " alt="" coords="693,5,827,47"/>
+<area shape="rect" id="node5" href="$d2/db7/class_tailsitter.html#af7c8196584f9ee365d4ed458acd263a7" title="Update fixed wing state. " alt="" coords="701,71,819,112"/>
+<area shape="rect" id="node6" href="$de/df2/class_standard.html#a0b713295b9c242d2d61e80676a6af4c5" title="Update fixed wing state. " alt="" coords="689,136,831,177"/>
+<area shape="rect" id="node8" href="$db/d0f/class_tiltrotor.html#ab7d3203a529fe0cfde518b9528784dc4" title="Update transition state. " alt="" coords="673,201,847,243"/>
+<area shape="rect" id="node9" href="$de/df2/class_standard.html#aa6d475db4418c291844213d37a231074" title="Update transition state. " alt="" coords="669,267,851,308"/>
+<area shape="rect" id="node11" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a4091bee8d9087018d0b21938bd6ef382" title="px4::bst::BST::cycle\l_trampoline" alt="" coords="451,317,594,359"/>
+<area shape="rect" id="node12" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a078527b7be3a0c23c837832de2a68405" title="px4::bst::BST::start" alt="" coords="691,333,829,359"/>
+<area shape="rect" id="node13" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#ad8b113c7ff5f5e4bfa89c9eb7df49d4a" title="px4::bst::BST::start\l_trampoline" alt="" coords="946,325,1083,367"/>
+<area shape="rect" id="node14" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#ab3118eb7234400ae4ef98d9af632ff43" title="px4::bst::BST::init" alt="" coords="1175,333,1303,359"/>
+<area shape="rect" id="node15" href="$df/dae/bst_8cpp.html#a90f7503d61c90189317c62c5db76d3ec" title="bst_main" alt="" coords="1351,333,1425,359"/>
+<area shape="rect" id="node18" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="435,391,611,418"/>
+<area shape="rect" id="node20" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="460,442,585,469"/>
+<area shape="rect" id="node19" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="701,391,819,418"/>
+<area shape="rect" id="node23" href="$d5/d01/class_block_local_position_estimator.html#a1d2aa0e31914dace37a3ac47f4c45ac8" title="BlockLocalPositionEstimator\l::flowCorrect" alt="" coords="428,493,617,535"/>
+<area shape="rect" id="node26" href="$d5/d01/class_block_local_position_estimator.html#a3572edd7b53fdb1bfcf8168f61b283f9" title="BlockLocalPositionEstimator\l::flowInit" alt="" coords="428,559,617,600"/>
+<area shape="rect" id="node24" href="$d5/d01/class_block_local_position_estimator.html#ad15c4f6a9868f57abfc5b78f4e2165d9" title="BlockLocalPositionEstimator\l::update" alt="" coords="665,527,855,568"/>
+<area shape="rect" id="node25" href="$dc/d09/class_local_position_estimator_module.html#a6e620e76d8f8c8d6a87fe2246c30bde9" title="LocalPositionEstimatorModule::run" alt="" coords="903,534,1127,561"/>
+<area shape="rect" id="node28" href="$d0/d58/position__estimator__inav__main_8cpp.html#acf822e9bb4a008a2a53118ccbdf951b6" title="position_estimator\l_inav_thread_main" alt="" coords="457,624,588,665"/>
+<area shape="rect" id="node29" href="$d0/d58/position__estimator__inav__main_8cpp.html#ad30a31aecbb0b3fe8c1aa84282cdbbcd" title="The position_estimator_inav_thread only briefly exists to start the background job. " alt="" coords="696,624,824,665"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="px4::logger::LogWriterMavlink::write_message" name="px4::logger::LogWriterMavlink::write_message">
+<area shape="rect" id="node2" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a05e9f4bf61d442b239b29c988538abdb" title="px4::logger::LogWriterMavlink\l::is_started" alt="" coords="248,706,443,748"/>
+<area shape="rect" id="node9" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ac2593d6cbf51a596331a9fd0009e9d78" title="Write a single ulog message (including header). " alt="" coords="270,772,421,813"/>
+<area shape="rect" id="node3" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a2d2e1f688e99e970d759c4fa810ab7cd" title="whether logging is currently active or not (any of the selected backends). " alt="" coords="913,713,1063,754"/>
+<area shape="rect" id="node4" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a331cecaa22ecd90b3cdccafb209c6dc4" title="px4::logger::LogWriter\l::backend" alt="" coords="1133,772,1284,813"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="1581,494,1740,520"/>
+<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="1374,426,1507,468"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aabf3bd800d91afa723ca1c7086a94c39" title="px4::logger::Logger\l::stop_log_file" alt="" coords="1374,610,1507,652"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a200ba0903d384e28507898c4813db256" title="get the configured backend as string " alt="" coords="1348,685,1533,726"/>
+<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac86db42b9da1cb2b7bf7ea92d1782274" title="Write exactly one ulog message to the logger and handle dropouts. " alt="" coords="491,270,624,312"/>
+<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aa40b58ace4c34d57e28bbe5eb18c134e" title="Write an ADD_LOGGED_MSG to the log for a given subscription and instance. " alt="" coords="907,128,1069,169"/>
+<area shape="rect" id="node15" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1922c4ca5ffd567c35022a9916137f6d" title="px4::logger::Logger\l::write_changed_parameters" alt="" coords="672,64,859,105"/>
+<area shape="rect" id="node16" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ae3da77cc33cea95cab42e341c21f7a6e" title="px4::logger::Logger\l::write_formats" alt="" coords="1142,292,1275,333"/>
+<area shape="rect" id="node17" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2cd14e980d6cf54d311ef04a6e2f6576" title="write the file header with file magic and timestamp. " alt="" coords="1142,357,1275,398"/>
+<area shape="rect" id="node18" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aad75655a39296e402e2780c12bcf9c62" title="px4::logger::Logger\l::write_info" alt="" coords="699,417,832,458"/>
+<area shape="rect" id="node20" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#abc77eb15aa77b10765c2603a0d44e0ff" title="px4::logger::Logger\l::write_info_multiple" alt="" coords="696,488,835,529"/>
+<area shape="rect" id="node26" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#abb096f3f7d2f75e334dc0d64a55ff16e" title="generic common template method for write_info variants " alt="" coords="694,186,837,228"/>
+<area shape="rect" id="node27" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aeb300ff4e6c1aaf4e18b3b1585c0f57c" title="px4::logger::Logger\l::write_parameters" alt="" coords="1142,226,1275,268"/>
+<area shape="rect" id="node12" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a55a07bd6f5959c9b8bdeeb7d63e4817a" title="px4::logger::Logger\l::copy_if_updated_multi" alt="" coords="1361,202,1521,244"/>
+<area shape="rect" id="node13" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a5c827b9922d8f6587745fc990fe7855a" title="Write an ADD_LOGGED_MSG to the log for a all current subscriptions and instances. ..." alt="" coords="1117,161,1300,202"/>
+<area shape="rect" id="node14" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="1374,360,1507,401"/>
+<area shape="rect" id="node19" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac0af196c7ee13d419fc7e43bb826e4a2" title="px4::logger::Logger\l::write_version" alt="" coords="1142,422,1275,464"/>
+<area shape="rect" id="node21" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1518c6c522bd97c985de145657cf8e58" title="callback to write the performance counters " alt="" coords="913,553,1063,594"/>
+<area shape="rect" id="node23" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a37dfb72c80d4e6b9698b19bcb05084d6" title="callback for print_load_buffer() to print the process load " alt="" coords="917,488,1059,529"/>
+<area shape="rect" id="node22" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a77b27d1ea4cc84e531d4f63b02b6587b" title="write performance counters " alt="" coords="1142,553,1275,594"/>
+<area shape="rect" id="node24" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2e8815353f916530d838f13c1f2e0ee7" title="initialize the output for the process load, so that ~1 second later it will be written to the log ..." alt="" coords="1133,488,1284,529"/>
+<area shape="rect" id="node25" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a4e5bcf7638c7e8c4e51333c9b56d70f4" title="write the process load, which was previously initialized with initialize_load_output() ..." alt="" coords="1374,545,1507,586"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="lis3mdl_main" name="lis3mdl_main">
+<area shape="rect" id="node2" href="$d9/d1e/namespacelis3mdl.html#a0373c3970edd6292cb0a3a3e5d9c3d40" title="Calibrate and self test. " alt="" coords="158,107,278,133"/>
+<area shape="rect" id="node4" href="$d2/dd2/namespacehmc5883.html#a908535d4673436b75edbfb6a4eba7030" title="Automatic scale calibration. " alt="" coords="152,259,284,285"/>
+<area shape="rect" id="node20" href="$d9/d1e/namespacelis3mdl.html#aa8913513c0202cb53fc9a098b65865e0" title="Prints info about the driver. " alt="" coords="172,157,264,184"/>
+<area shape="rect" id="node23" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="174,5,262,32"/>
+<area shape="rect" id="node24" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="175,1195,261,1221"/>
+<area shape="rect" id="node27" href="$d9/d1e/namespacelis3mdl.html#a0772582936c6c977b4c7758adbc88f7f" title="Resets the driver. " alt="" coords="168,56,268,83"/>
+<area shape="rect" id="node28" href="$d9/d1e/namespacelis3mdl.html#a3ab0c420f209d6ea14b148f9367494aa" title="Starts the driver. " alt="" coords="169,335,267,361"/>
+<area shape="rect" id="node31" href="$d9/d1e/namespacelis3mdl.html#ab78e7b40af15a7a9a24e119168074f54" title="Stop the driver. " alt="" coords="170,908,266,935"/>
+<area shape="rect" id="node48" href="$d9/d1e/namespacelis3mdl.html#aa91f2e9af84505e848f2d9db4d6441c1" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="171,208,265,235"/>
+<area shape="rect" id="node50" href="$d9/d1e/namespacelis3mdl.html#aaae0e627c1fd095e2da308cc747756de" title="Prints info about the driver argument usage. " alt="" coords="165,1245,271,1272"/>
+<area shape="rect" id="node3" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="367,56,493,83"/>
+<area shape="rect" id="node5" href="$d2/dd2/namespacehmc5883.html#ab5153d706ecc0aedea3bba29156e05ce" title="find a bus structure for a busid " alt="" coords="364,259,496,285"/>
+<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="598,208,737,235"/>
+<area shape="rect" id="node10" href="$d5/dad/class_h_m_c5883.html#afe7634b15765ccc24fa3248f49f8bd6d" title="HMC5883::ioctl" alt="" coords="373,477,487,504"/>
+<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="597,259,738,285"/>
+<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="824,208,959,235"/>
+<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="822,142,961,183"/>
+<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="817,259,965,285"/>
+<area shape="rect" id="node11" href="$d5/dad/class_h_m_c5883.html#aa1c526efdb13f2495353d0a61802502f" title="Stop the automatic measurement state machine. " alt="" coords="610,680,725,707"/>
+<area shape="rect" id="node12" href="$d5/dad/class_h_m_c5883.html#a950b9f8dcc129a3c2fe31898ca4e2dae" title="Initialise the automatic measurement state machine and start it. " alt="" coords="610,477,725,504"/>
+<area shape="rect" id="node13" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="608,579,727,605"/>
+<area shape="rect" id="node14" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="818,553,965,580"/>
+<area shape="rect" id="node15" href="$d5/dad/class_h_m_c5883.html#af62280e6a08c2f18962e9c7e18941938" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="598,629,737,656"/>
+<area shape="rect" id="node16" href="$d5/dad/class_h_m_c5883.html#a72f96fab429f29a8660ddaac5f97cc83" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="578,360,757,387"/>
+<area shape="rect" id="node17" href="$d5/dad/class_h_m_c5883.html#a9f6a2b974feee741d57b82542dd5c376" title="enable hmc5983 temperature compensation " alt="" coords="576,411,759,453"/>
+<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="807,309,976,336"/>
+<area shape="rect" id="node21" href="$d4/df1/class_l_i_s3_m_d_l.html#a4ce92759be4b76c009a2d414ab4b7a83" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="361,107,499,133"/>
+<area shape="rect" id="node22" href="$dd/d78/perf__counter_8c.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="604,107,731,133"/>
+<area shape="rect" id="node25" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="399,1456,461,1483"/>
+<area shape="rect" id="node26" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="629,1431,706,1457"/>
+<area shape="rect" id="node29" href="$dc/d5d/namespacebmp280.html#a4ebcff79b7e38cd4cc36fa8157910d35" title="Start the driver. " alt="" coords="365,360,495,387"/>
+<area shape="rect" id="node30" href="$d1/daf/class_b_m_p280.html#ab140b554e4fcad8dfd46fbf564af8c5f" title="BMP280::BMP280" alt="" coords="602,309,733,336"/>
+<area shape="rect" id="node32" href="$df/de8/class_r_g_b_l_e_d.html#a51bc798e1bc399b1a8cd4676cc464c40" title="RGBLED::stop" alt="" coords="375,781,485,808"/>
+<area shape="rect" id="node33" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="400,832,460,859"/>
+<area shape="rect" id="node34" href="$d4/d87/class_video_device.html#a9460a8d99ac5fb402ab3ddee9e32482c" title="Stop the device. " alt="" coords="365,883,495,909"/>
+<area shape="rect" id="node35" href="$d9/d0b/class_df_a_k8963_wrapper.html#a2fee4b821b28ae84ce24d6f89f1766c4" title="Stop automatic measurement. " alt="" coords="348,933,512,960"/>
+<area shape="rect" id="node36" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac135c51227119b3c878e4e157444dfe8" title="Stop the driver. " alt="" coords="341,984,519,1011"/>
+<area shape="rect" id="node37" href="$d1/d27/class_df_bebop_range_finder_wrapper.html#a6105b62c46afb12880e60daf3c2f10b1" title="Stop automatic measurement. " alt="" coords="332,1035,528,1077"/>
+<area shape="rect" id="node38" href="$db/de6/class_df_bmp280_wrapper.html#a76687de36de63e990c0af173a481be68" title="Stop automatic measurement. " alt="" coords="347,1101,513,1128"/>
+<area shape="rect" id="node39" href="$d7/d3e/class_df_hmc5883_wrapper.html#a6db1291b51b02badb3e845bba6134019" title="Stop automatic measurement. " alt="" coords="343,680,517,707"/>
+<area shape="rect" id="node40" href="$d8/d40/class_df_i_s_l29501_wrapper.html#abd65e3303a6753b0f1a9b776c0c92bd0" title="Stop automatic measurement. " alt="" coords="343,1152,517,1179"/>
+<area shape="rect" id="node41" href="$df/d43/class_df_lsm9ds1_wrapper.html#a2fb22c06b869a022a4f45b43d731ceff" title="Stop automatic measurement. " alt="" coords="345,1203,515,1229"/>
+<area shape="rect" id="node42" href="$d4/d83/class_df_ltc2946_wrapper.html#a558ac5f225b2b8bff9868692f6e8e57b" title="DfLtc2946Wrapper::stop" alt="" coords="348,1253,512,1280"/>
+<area shape="rect" id="node43" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a89fb752da23610933df57d0bd5b83463" title="Stop automatic measurement. " alt="" coords="342,1304,518,1331"/>
+<area shape="rect" id="node44" href="$df/d4c/class_df_mpu9250_wrapper.html#a075faba0f706022238c53cda9fe0fa57" title="Stop automatic measurement. " alt="" coords="345,1355,515,1381"/>
+<area shape="rect" id="node45" href="$d9/dec/class_df_m_s5607_wrapper.html#ab0d26ccb2e3d12ed4ac9a78dbf0fb0f1" title="Stop automatic measurement. " alt="" coords="347,528,513,555"/>
+<area shape="rect" id="node46" href="$d4/d4a/class_df_m_s5611_wrapper.html#a73f99faa47f7bbb2c8f5aa38c90ddc0f" title="Stop automatic measurement. " alt="" coords="347,579,513,605"/>
+<area shape="rect" id="node47" href="$d8/ddf/class_df_t_r_one_wrapper.html#a7eacc4487d23601fbd6afe73b67ac277" title="Stop automatic measurement. " alt="" coords="350,731,510,757"/>
+<area shape="rect" id="node49" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="407,157,453,184"/>
+</map>

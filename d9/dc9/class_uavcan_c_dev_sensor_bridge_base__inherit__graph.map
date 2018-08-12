@@ -1,0 +1,8 @@
+<map id="UavcanCDevSensorBridgeBase" name="UavcanCDevSensorBridgeBase">
+<area shape="rect" id="node7" href="$df/d71/class_uavcan_barometer_bridge.html" title="{UavcanBarometerBridge\n|+ NAME\l&#45; _sub_air_pressure_data\l&#45; _sub_air_temperature_data\l&#45; _reports\l&#45; last_temperature_kelvin\l|+ UavcanBarometerBridge()\l+ get_name()\l+ init()\l&#45; read()\l&#45; ioctl()\l&#45; air_pressure_sub_cb()\l&#45; air_temperature_sub_cb()\l}" alt="" coords="193,1071,379,1295"/>
+<area shape="rect" id="node8" href="$d2/d84/class_uavcan_magnetometer_bridge.html" title="{UavcanMagnetometerBridge\n|+ NAME\l&#45; _sub_mag\l&#45; _scale\l&#45; _report\l|+ UavcanMagnetometerBridge()\l+ get_name()\l+ init()\l&#45; read()\l&#45; ioctl()\l&#45; mag_sub_cb()\l}" alt="" coords="404,1085,611,1280"/>
+<area shape="rect" id="node2" href="$de/d34/class_i_uavcan_sensor_bridge.html" title="A sensor bridge class must implement this interface. " alt="" coords="179,475,393,626"/>
+<area shape="rect" id="node4" href="$df/db4/class_list_node.html" title="{ListNode\&lt; IUavcanSensorBridge * \&gt;\n|# _sibling\l|+ ListNode()\l+ ListNode()\l+ ListNode()\l+ ~ListNode()\l+ operator=()\l+ operator=()\l+ setSibling()\l+ getSibling()\l}" alt="" coords="177,57,411,237"/>
+<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="417,336,600,765"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="442,5,575,288"/>
+</map>

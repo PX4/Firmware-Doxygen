@@ -1,0 +1,10 @@
+<map id="uORB::FastRpcChannel" name="uORB::FastRpcChannel">
+<area shape="rect" id="node2" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html" title="Interface to enable remote subscriptions. " alt="" coords="5,301,208,437"/>
+<area shape="rect" id="node3" href="$d2/d1e/classu_o_r_b_communicator_1_1_i_channel_rx_handler.html" title="Class passed to the communication link implement to provide callback for received messages over a cha..." alt="" coords="233,301,447,437"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="779,147,859,224"/>
+<area shape="rect" id="node7" href="$d6/d6f/structu_o_r_b_1_1_fast_rpc_channel_1_1_fast_rpc_data_msg.html" title="{uORB::FastRpcChannel\l::FastRpcDataMsg\n|+ _MaxBufferSize\l+ _Length\l+ _Buffer\l|}" alt="" coords="643,309,807,430"/>
+<area shape="rect" id="node10" href="$d0/d82/structu_o_r_b_1_1_fast_rpc_channel_1_1_fast_rpc_control_msg.html" title="{uORB::FastRpcChannel\l::FastRpcControlMsg\n|+ _Type\l|}" alt="" coords="831,323,995,415"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="755,5,882,97"/>
+<area shape="rect" id="node8" href="$d4/d5e/classu_o_r_b_1_1_fast_rpc_channel_1_1_semaphore.html" title="{uORB::FastRpcChannel\l::Semaphore\n|&#45; _Sem\l|+ Semaphore()\l+ ~Semaphore()\l+ post()\l+ wait()\l&#45; Semaphore()\l&#45; operator=()\l}" alt="" coords="1191,287,1355,452"/>
+<area shape="rect" id="node9" href="$db/d29/classu_o_r_b_1_1_fast_rpc_channel_1_1_mutex.html" title="{uORB::FastRpcChannel\l::Mutex\n|&#45; _Sem\l|+ Mutex()\l+ ~Mutex()\l+ lock()\l+ unlock()\l&#45; Mutex()\l&#45; operator=()\l}" alt="" coords="1382,287,1546,452"/>
+</map>

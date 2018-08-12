@@ -1,0 +1,51 @@
+<map id="src/platforms/px4_workqueue.h" name="src/platforms/px4_workqueue.h">
+<area shape="rect" id="node2" href="$d0/d7e/_l_p_s22_h_b_8hpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.hpp" alt="" coords="411,87,569,129"/>
+<area shape="rect" id="node7" href="$d0/d08/batt__smbus_8h.html" title="Header for a battery monitor connected via SMBus (I2C). " alt="" coords="705,87,859,129"/>
+<area shape="rect" id="node9" href="$d8/d15/blinkm_8cpp.html" title="Driver for the BlinkM LED controller connected via I2C. " alt="" coords="883,87,1009,129"/>
+<area shape="rect" id="node10" href="$d9/d92/camera__trigger_8cpp.html" title="External camera&#45;IMU synchronisation and triggering, and support for camera manipulation using PWM sig..." alt="" coords="1033,87,1213,129"/>
+<area shape="rect" id="node11" href="$d9/d50/hc__sr04_8cpp.html" title="Driver for the hc_sr04 sonar range finders . " alt="" coords="1237,87,1431,129"/>
+<area shape="rect" id="node12" href="$d5/d80/leddar__one_8cpp.html" title="src/drivers/distance\l_sensor/leddar_one/leddar\l_one.cpp" alt="" coords="1455,80,1629,136"/>
+<area shape="rect" id="node13" href="$d4/d8a/_lidar_lite_i2_c_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLiteI2C.h" alt="" coords="1654,87,1841,129"/>
+<area shape="rect" id="node14" href="$de/d12/_lidar_lite_p_w_m_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLitePWM.h" alt="" coords="1865,87,2064,129"/>
+<area shape="rect" id="node15" href="$d5/d45/mb12xx_8cpp.html" title="src/drivers/distance\l_sensor/mb12xx/mb12xx.cpp" alt="" coords="2088,87,2281,129"/>
+<area shape="rect" id="node16" href="$d6/d95/sf0x_8cpp.html" title="src/drivers/distance\l_sensor/sf0x/sf0x.cpp" alt="" coords="2305,87,2456,129"/>
+<area shape="rect" id="node17" href="$d6/df1/sf1xx_8cpp.html" title="src/drivers/distance\l_sensor/sf1xx/sf1xx.cpp" alt="" coords="2481,87,2646,129"/>
+<area shape="rect" id="node18" href="$d8/d1c/srf02_8cpp.html" title="Driver for the SRF02 sonar range finder adapted from the Maxbotix sonar range finder driver (mb12xx)..." alt="" coords="2671,87,2829,129"/>
+<area shape="rect" id="node19" href="$d7/db0/teraranger_8cpp.html" title="src/drivers/distance\l_sensor/teraranger/teraranger.cpp" alt="" coords="2853,87,3071,129"/>
+<area shape="rect" id="node20" href="$dc/d77/tfmini_8cpp.html" title="src/drivers/distance\l_sensor/tfmini/tfmini.cpp" alt="" coords="3095,87,3261,129"/>
+<area shape="rect" id="node21" href="$d4/dd7/ulanding_8cpp.html" title="src/drivers/distance\l_sensor/ulanding/ulanding.cpp" alt="" coords="3285,87,3482,129"/>
+<area shape="rect" id="node22" href="$d6/d2e/vl53lxx_8cpp.html" title="src/drivers/distance\l_sensor/vl53lxx/vl53lxx.cpp" alt="" coords="3507,87,3689,129"/>
+<area shape="rect" id="node23" href="$d5/d6b/linux__sbus_8h.html" title="src/drivers/linux_sbus\l/linux_sbus.h" alt="" coords="3714,87,3863,129"/>
+<area shape="rect" id="node24" href="$da/d2b/_l_s_m303_a_g_r_8hpp.html" title="src/drivers/magnetometer\l/lsm303agr/LSM303AGR.hpp" alt="" coords="3887,87,4079,129"/>
+<area shape="rect" id="node25" href="$d7/dbe/navio__sysfs__rc__in_8cpp.html" title="src/drivers/navio_sysfs\l_rc_in/navio_sysfs_rc\l_in.cpp" alt="" coords="4103,80,4261,136"/>
+<area shape="rect" id="node26" href="$d0/d55/pmw3901_8cpp.html" title="src/drivers/pmw3901\l/pmw3901.cpp" alt="" coords="4285,87,4428,129"/>
+<area shape="rect" id="node27" href="$df/d1a/_r_c_input_8hpp.html" title="src/drivers/rc_input\l/RCInput.hpp" alt="" coords="4453,87,4586,129"/>
+<area shape="rect" id="node28" href="$d6/d45/rgbled_8cpp.html" title="Driver for the onboard RGB LED controller (TCA62724FMG) connected via I2C. " alt="" coords="4610,87,4733,129"/>
+<area shape="rect" id="node29" href="$df/d64/rpi__rc__in_8h.html" title="src/drivers/rpi_rc\l_in/rpi_rc_in.h" alt="" coords="4757,87,4876,129"/>
+<area shape="rect" id="node30" href="$de/de9/drivers_2stm32_2tone__alarm_2tone__alarm_8cpp.html" title="src/drivers/stm32/tone\l_alarm/tone_alarm.cpp" alt="" coords="4899,87,5054,129"/>
+<area shape="rect" id="node31" href="$df/dae/bst_8cpp.html" title="Black Sheep Telemetry driver. " alt="" coords="5078,87,5219,129"/>
+<area shape="rect" id="node32" href="$d4/d56/src_2lib_2drivers_2airspeed_2airspeed_8h.html" title="src/lib/drivers/airspeed\l/airspeed.h" alt="" coords="5244,87,5397,129"/>
+<area shape="rect" id="node33" href="$d9/da5/param_8c.html" title="Global parameter store. " alt="" coords="5421,87,5548,129"/>
+<area shape="rect" id="node34" href="$de/d95/param__shmem_8c.html" title="src/lib/parameters\l/param_shmem.c" alt="" coords="5572,87,5699,129"/>
+<area shape="rect" id="node35" href="$dd/d9f/send__event_8h.html" title="src/modules/events\l/send_event.h" alt="" coords="5723,87,5859,129"/>
+<area shape="rect" id="node36" href="$d7/d37/_land_detector_8h.html" title="Land detector interface for multicopter, fixedwing and VTOL implementations. " alt="" coords="5884,87,6059,129"/>
+<area shape="rect" id="node37" href="$d4/d94/_landing_target_estimator_8h.html" title="src/modules/landing\l_target_estimator/LandingTarget\lEstimator.h" alt="" coords="6083,80,6292,136"/>
+<area shape="rect" id="node38" href="$dd/dcc/load__mon_8cpp.html" title="src/modules/load_mon\l/load_mon.cpp" alt="" coords="6316,87,6469,129"/>
+<area shape="rect" id="node39" href="$d4/d10/airspeedsim_8h.html" title="src/modules/simulator\l/airspeedsim/airspeedsim.h" alt="" coords="6494,87,6675,129"/>
+<area shape="rect" id="node40" href="$d1/dfc/uavcannode__main_8cpp.html" title="src/modules/uavcannode\l/uavcannode_main.cpp" alt="" coords="6700,87,6867,129"/>
+<area shape="rect" id="node41" href="$dc/df8/wind__estimator__main_8cpp.html" title="src/modules/wind_estimator\l/wind_estimator_main.cpp" alt="" coords="6891,87,7076,129"/>
+<area shape="rect" id="node42" href="$df/d04/shutdown_8cpp.html" title="Implementation of the API declared in px4_shutdown.h. " alt="" coords="7101,87,7253,129"/>
+<area shape="rect" id="node43" href="$d3/d20/hrt__queue_8c.html" title="src/platforms/common\l/work_queue/hrt_queue.c" alt="" coords="7277,87,7445,129"/>
+<area shape="rect" id="node44" href="$df/dc9/hrt__thread_8c.html" title="src/platforms/common\l/work_queue/hrt_thread.c" alt="" coords="7469,87,7639,129"/>
+<area shape="rect" id="node45" href="$de/d63/hrt__work__cancel_8c.html" title="src/platforms/common\l/work_queue/hrt_work\l_cancel.c" alt="" coords="7663,80,7815,136"/>
+<area shape="rect" id="node46" href="$d9/d96/work__cancel_8c.html" title="src/platforms/common\l/work_queue/work_cancel.c" alt="" coords="7839,87,8023,129"/>
+<area shape="rect" id="node47" href="$da/ddc/work__queue_8c.html" title="src/platforms/common\l/work_queue/work_queue.c" alt="" coords="8047,87,8229,129"/>
+<area shape="rect" id="node48" href="$d6/d39/work__thread_8c.html" title="src/platforms/common\l/work_queue/work_thread.c" alt="" coords="8253,87,8436,129"/>
+<area shape="rect" id="node49" href="$db/d41/wqueue__test_8h.html" title="Example app for Linux. " alt="" coords="8460,80,8635,136"/>
+<area shape="rect" id="node50" href="$d3/d50/wqueue__test_8cpp.html" title="src/platforms/common\l/work_queue/wqueue_test\l/wqueue_test.cpp" alt="" coords="8523,184,8697,240"/>
+<area shape="rect" id="node3" href="$d4/dbd/_l_p_s22_h_b_8cpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.cpp" alt="" coords="5,191,164,233"/>
+<area shape="rect" id="node4" href="$d9/de1/_l_p_s22_h_b___i2_c_8cpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB_I2C.cpp" alt="" coords="189,191,375,233"/>
+<area shape="rect" id="node5" href="$d0/d68/lps22hb__main_8cpp.html" title="src/drivers/barometer\l/lps22hb/lps22hb_main.cpp" alt="" coords="400,191,580,233"/>
+<area shape="rect" id="node6" href="$d3/d5f/_l_p_s22_h_b___s_p_i_8cpp.html" title="SPI interface for LPS22HB. " alt="" coords="605,191,791,233"/>
+<area shape="rect" id="node8" href="$d0/d0b/batt__smbus_8cpp.html" title="Driver for a battery monitor connected via SMBus (I2C). " alt="" coords="815,191,970,233"/>
+</map>

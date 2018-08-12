@@ -1,0 +1,51 @@
+<map id="MicroBenchORB::ut_declare_test_c" name="MicroBenchORB::ut_declare_test_c">
+<area shape="rect" id="node2" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="422,142,505,169"/>
+<area shape="rect" id="node14" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="426,193,501,220"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="422,244,505,270"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#ade1bac66c3d565ab0e335caf9212995c" title="orb_stat" alt="" coords="429,294,498,321"/>
+<area shape="rect" id="node36" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="241,345,344,372"/>
+<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="405,462,522,489"/>
+<area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="605,262,747,303"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="605,94,747,135"/>
+<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="847,268,990,310"/>
+<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1094,202,1221,229"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1309,192,1443,218"/>
+<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1538,293,1642,320"/>
+<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1730,242,1869,269"/>
+<area shape="rect" id="node9" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1723,293,1876,320"/>
+<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1120,152,1195,178"/>
+<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1339,90,1413,117"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1309,40,1443,66"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="587,160,765,186"/>
+<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="881,50,956,77"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1090,50,1225,77"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="847,203,990,244"/>
+<area shape="rect" id="node20" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1068,293,1247,320"/>
+<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="1111,101,1203,128"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1118,385,1197,412"/>
+<area shape="rect" id="node31" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1117,517,1198,544"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1558,141,1622,168"/>
+<area shape="rect" id="node24" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="1295,394,1457,421"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1307,453,1445,480"/>
+<area shape="rect" id="node30" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1329,504,1423,530"/>
+<area shape="rect" id="node25" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="1522,394,1658,421"/>
+<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1523,562,1657,589"/>
+<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1521,446,1659,487"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1516,613,1664,640"/>
+<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1305,558,1447,585"/>
+<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1505,512,1675,538"/>
+<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="591,328,761,354"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="392,396,535,438"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="583,424,769,450"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="843,436,995,478"/>
+<area shape="rect" id="node40" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="817,502,1020,543"/>
+<area shape="rect" id="node41" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1303,766,1449,807"/>
+<area shape="rect" id="node43" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="895,725,943,752"/>
+<area shape="rect" id="node42" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a09e6cdb4967bc03e666621319a3ee8f0" title="Find a node give its name. " alt="" coords="1509,766,1671,807"/>
+<area shape="rect" id="node44" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1081,725,1233,752"/>
+<area shape="rect" id="node45" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1116,857,1199,884"/>
+<area shape="rect" id="node46" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="1307,832,1445,858"/>
+<area shape="rect" id="node47" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1337,882,1415,909"/>
+<area shape="rect" id="node48" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1349,933,1403,960"/>
+<area shape="rect" id="node50" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="605,554,747,595"/>
+</map>

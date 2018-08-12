@@ -1,0 +1,10 @@
+<map id="GroundRoverAttitudeControl" name="GroundRoverAttitudeControl">
+<area shape="rect" id="node2" href="$d3/d52/structvehicle__control__mode__s.html" title="{vehicle_control_mode_s\n|+ timestamp\l+ flag_armed\l+ flag_external_manual\l_override_ok\l+ flag_system_hil_enabled\l+ flag_control_manual\l_enabled\l+ flag_control_auto_enabled\land 13 more...\l|}" alt="" coords="5,5,191,200"/>
+<area shape="rect" id="node3" href="$de/de6/structmanual__control__setpoint__s.html" title="{manual_control_setpoint_s\n|+ timestamp\l+ x\l+ y\l+ z\l+ r\l+ flaps\land 21 more...\l|}" alt="" coords="215,20,392,185"/>
+<area shape="rect" id="node4" href="$de/d31/structvehicle__attitude__setpoint__s.html" title="{vehicle_attitude_setpoint_s\n|+ timestamp\l+ roll_body\l+ pitch_body\l+ yaw_body\l+ yaw_sp_move_rate\l+ q_d\land 10 more...\l|}" alt="" coords="416,20,596,185"/>
+<area shape="rect" id="node5" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="621,49,733,156"/>
+<area shape="rect" id="node6" href="$d0/d5c/structbattery__status__s.html" title="{battery_status_s\n|+ timestamp\l+ voltage_v\l+ voltage_filtered_v\l+ current_a\l+ current_filtered_a\l+ average_current_a\land 16 more...\l|}" alt="" coords="757,20,898,185"/>
+<area shape="rect" id="node7" href="$d9/da3/struct_p_i_d__t.html" title="{PID_t\n|+ mode\l+ dt_min\l+ kp\l+ ki\l+ kd\l+ integral\land 4 more...\l|}" alt="" coords="922,20,1021,185"/>
+<area shape="rect" id="node8" href="$de/d27/structactuator__controls__s.html" title="{actuator_controls_s\n|+ timestamp\l+ timestamp_sample\l+ control\l|}" alt="" coords="1045,49,1189,156"/>
+<area shape="rect" id="node9" href="$db/db4/structvehicle__attitude__s.html" title="{vehicle_attitude_s\n|+ timestamp\l+ rollspeed\l+ pitchspeed\l+ yawspeed\l+ q\l+ delta_q_reset\l+ quat_reset_counter\l+ _padding0\l|}" alt="" coords="1213,13,1359,193"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Takeoff" name="Takeoff">
+<area shape="rect" id="node2" href="$da/d7b/class_mission_block.html" title="{MissionBlock\n|# _mission_item\l# _waypoint_position\l_reached\l# _waypoint_yaw_reached\l# _time_first_inside\l_orbit\l# _action_start\l# _time_wp_reached\l# _actuator_pub\l|+ MissionBlock()\l+ ~MissionBlock()\l+ MissionBlock()\l+ operator=()\l+ item_contains_position()\l# is_mission_item_reached()\l# reset_mission_item\l_reached()\l# mission_item_to_position\l_setpoint()\l# set_loiter_item()\l# set_takeoff_item()\l# set_land_item()\land 6 more...\l}" alt="" coords="5,263,193,648"/>
+<area shape="rect" id="node3" href="$d9/dde/class_navigator_mode.html" title="{NavigatorMode\n|# _navigator\l&#45; _active\l|+ NavigatorMode()\l+ ~NavigatorMode()\l+ NavigatorMode()\l+ operator=()\l+ run()\l+ on_inactive()\l+ on_activation()\l+ on_inactivation()\l+ on_active()\l}" alt="" coords="30,5,169,215"/>
+</map>

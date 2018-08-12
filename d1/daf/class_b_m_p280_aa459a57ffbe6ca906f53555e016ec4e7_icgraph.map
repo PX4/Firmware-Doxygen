@@ -1,0 +1,51 @@
+<map id="BMP280::collect" name="BMP280::collect">
+<area shape="rect" id="node2" href="$d1/daf/class_b_m_p280.html#a79b5e09c5047a1e5bc0248e18d1bb9e5" title="BMP280::cycle" alt="" coords="172,1018,283,1045"/>
+<area shape="rect" id="node46" href="$d1/daf/class_b_m_p280.html#a19cb357451895c41f211837684d90f84" title="Initialise the driver and make it ready for use. " alt="" coords="179,1122,276,1149"/>
+<area shape="rect" id="node50" href="$d1/daf/class_b_m_p280.html#a8969107b1e5605b1686dda6181cc87e8" title="BMP280::read" alt="" coords="367,1069,473,1095"/>
+<area shape="rect" id="node3" href="$d1/daf/class_b_m_p280.html#a51e6625b41ad7d264d6b0ef853c8aa9b" title="BMP280::cycle_trampoline" alt="" coords="331,1018,509,1045"/>
+<area shape="rect" id="node4" href="$d1/daf/class_b_m_p280.html#aa07ba96a45b1c88a0293896df80b15c9" title="BMP280::start_cycle" alt="" coords="559,1018,703,1045"/>
+<area shape="rect" id="node5" href="$d1/daf/class_b_m_p280.html#aa0063410420975514305632659eb7dc7" title="BMP280::ioctl" alt="" coords="787,1018,891,1045"/>
+<area shape="rect" id="node6" href="$dc/d5d/namespacebmp280.html#a4ebcff79b7e38cd4cc36fa8157910d35" title="Start the driver. " alt="" coords="975,1018,1105,1045"/>
+<area shape="rect" id="node11" href="$dc/d5d/namespacebmp280.html#a7f540db51331f237ff47f19f32212afb" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="991,1069,1089,1095"/>
+<area shape="rect" id="node12" href="$dc/d5d/namespacebmp280.html#a997ff1692ee326fe28fe00a2f1f5c004" title="Reset the driver. " alt="" coords="987,390,1093,417"/>
+<area shape="rect" id="node7" href="$dc/d5d/namespacebmp280.html#aecdf1d003eaa044ff9ac4e407d47b60a" title="Start the driver. " alt="" coords="1204,993,1307,1019"/>
+<area shape="rect" id="node9" href="$d9/d1e/namespacelis3mdl.html#a3ab0c420f209d6ea14b148f9367494aa" title="Starts the driver. " alt="" coords="1207,1043,1304,1070"/>
+<area shape="rect" id="node8" href="$dc/da6/bmp280_8cpp.html#a18609c5745affa47a4a79f461c25ae7e" title="bmp280_main" alt="" coords="1439,1043,1542,1070"/>
+<area shape="rect" id="node10" href="$de/d50/lis3mdl__main_8cpp.html#a5a1a250829c9ac5a02805549f24e87af" title="Driver &#39;main&#39; command. " alt="" coords="1441,1094,1540,1121"/>
+<area shape="rect" id="node13" href="$d6/d55/class_integrator.html#a6abf5f205ddb5b3300e8ded9f952b108" title="Get the current integral and reset the integrator if needed. " alt="" coords="1190,201,1321,243"/>
+<area shape="rect" id="node16" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a958d971dfaa0dd65ecb269a303e30a7b" title="Return the cutoff frequency. " alt="" coords="1177,589,1333,631"/>
+<area shape="rect" id="node42" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#ae4bb9df857577cd16009a883dbca9f9b" title="runwaytakeoff::RunwayTakeoff\l::climbout" alt="" coords="1153,23,1357,64"/>
+<area shape="rect" id="node44" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a53416a2a557fd55b332e4895ed43f57e" title="Return true if this topic has been published. " alt="" coords="1177,104,1333,145"/>
+<area shape="rect" id="node14" href="$df/d43/class_df_lsm9ds1_wrapper.html#a90885ef37d746377c85a37142ace5d93" title="DfLsm9ds1Wrapper::\l_publish" alt="" coords="1417,136,1564,177"/>
+<area shape="rect" id="node15" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="1415,201,1566,243"/>
+<area shape="rect" id="node17" href="$d8/db8/class_a_d_i_s16448.html#a036e00fcd6ac7142c11b047a4d62c11e" title="ADIS16448::ioctl" alt="" coords="1430,891,1551,918"/>
+<area shape="rect" id="node20" href="$d8/de0/class_a_d_i_s16477.html#ae0eacdcd4283689ed228e5f0fa698050" title="ADIS16477::ioctl" alt="" coords="1430,942,1551,969"/>
+<area shape="rect" id="node22" href="$d2/d34/class_b_m_i055__accel.html#a029baa07a5cf50cbaeca8dd3ff0c5bfc" title="BMI055_accel::ioctl" alt="" coords="1422,993,1559,1019"/>
+<area shape="rect" id="node23" href="$d7/d07/class_b_m_i055__gyro.html#a33c0e0569da515d5091d9817427e69e5" title="BMI055_gyro::ioctl" alt="" coords="1425,267,1556,294"/>
+<area shape="rect" id="node24" href="$df/d9d/class_b_m_i160.html#a2e4756dc6dd13975674edd843a97da00" title="BMI160::ioctl" alt="" coords="1441,318,1540,345"/>
+<area shape="rect" id="node26" href="$df/d3b/class_f_x_a_s21002_c.html#ad7a0d5d856512233af9d0ffcc71a4bf4" title="FXAS21002C::ioctl" alt="" coords="1423,369,1558,395"/>
+<area shape="rect" id="node30" href="$db/d27/class_f_x_o_s8701_c_q.html#a5dc4a51b71a66cb35f9179c29e9031f7" title="FXOS8701CQ::ioctl" alt="" coords="1421,419,1560,446"/>
+<area shape="rect" id="node31" href="$de/dc0/class_l3_g_d20.html#aa6df572b621d24d4dd9896dbdd3ed4fb" title="L3GD20::ioctl" alt="" coords="1439,470,1542,497"/>
+<area shape="rect" id="node35" href="$d6/dd5/class_l_s_m303_d.html#a9d1f9e4e9f223d05329adcc039cb1e7a" title="LSM303D::ioctl" alt="" coords="1435,521,1547,547"/>
+<area shape="rect" id="node36" href="$d5/d19/class_m_p_u6000.html#a06027f6675291f22d547da7219ffc314" title="MPU6000::ioctl" alt="" coords="1435,571,1547,598"/>
+<area shape="rect" id="node37" href="$d5/d19/class_m_p_u6000.html#a6616af08515830aaf52702a86ef1a9f3" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="1420,622,1561,649"/>
+<area shape="rect" id="node38" href="$df/dd9/class_m_p_u9250.html#a0a041de5c72cac35efc42caab7e2fff8" title="MPU9250::ioctl" alt="" coords="1435,673,1547,699"/>
+<area shape="rect" id="node39" href="$df/dd9/class_m_p_u9250.html#ab454f75077422d5c5109d74fb5681f18" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="1420,723,1561,750"/>
+<area shape="rect" id="node40" href="$dc/d73/classcontrol_1_1_block_low_pass2.html#ad7b9d30ea4af75b56b57c719710b9d29" title="control::BlockLowPass2\l::update" alt="" coords="1409,775,1572,816"/>
+<area shape="rect" id="node41" href="$de/d74/class_a_c_c_e_l_s_i_m.html#acc32822847744bf157ed7d7cc8029e6d" title="ACCELSIM::devIOCTL" alt="" coords="1411,841,1570,867"/>
+<area shape="rect" id="node18" href="$d8/db8/class_a_d_i_s16448.html#a08909edd7080b21b29e56ce7c86661d6" title="ADIS16448::gyro_ioctl" alt="" coords="1624,891,1777,918"/>
+<area shape="rect" id="node19" href="$d8/db8/class_a_d_i_s16448.html#aa2ae817159056ed6080842a3578fa98d" title="ADIS16448::mag_ioctl" alt="" coords="1624,841,1777,867"/>
+<area shape="rect" id="node21" href="$d8/de0/class_a_d_i_s16477.html#aa3bc25577f73fcbc199767ed8e3ec18c" title="ADIS16477::gyro_ioctl" alt="" coords="1624,942,1777,969"/>
+<area shape="rect" id="node25" href="$df/d9d/class_b_m_i160.html#a0d0103ffe9774d1375aeb5deeead9719" title="BMI160::gyro_ioctl" alt="" coords="1635,267,1766,294"/>
+<area shape="rect" id="node27" href="$d4/dc5/namespacefxas21002c.html#ad5398e8b9f953452da8ab4b6960cab4d" title="Start the driver. " alt="" coords="1639,419,1762,446"/>
+<area shape="rect" id="node28" href="$d4/dc5/namespacefxas21002c.html#a9637e6dbc487269af2938e72e073c05f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1641,318,1760,345"/>
+<area shape="rect" id="node29" href="$d4/dc5/namespacefxas21002c.html#a624409c2a24ac21a9fd1707f2ee3989f" title="Reset the driver. " alt="" coords="1637,369,1764,395"/>
+<area shape="rect" id="node32" href="$d5/db7/namespacel3gd20.html#a061f260878adf25f94d9833dd6d0e54f" title="Start the driver. " alt="" coords="1653,571,1748,598"/>
+<area shape="rect" id="node33" href="$d5/db7/namespacel3gd20.html#a099f0465eb6a7ebd049953a47e975641" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1655,470,1746,497"/>
+<area shape="rect" id="node34" href="$d5/db7/namespacel3gd20.html#a96a171363b93c30e9f03c74f97b6aedd" title="Reset the driver. " alt="" coords="1652,521,1749,547"/>
+<area shape="rect" id="node43" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="1405,5,1576,47"/>
+<area shape="rect" id="node45" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#afce9e85ef809e3b06bb150223d5016bb" title="Perform an ioctl operation on the device. " alt="" coords="1417,71,1564,112"/>
+<area shape="rect" id="node47" href="$db/de6/class_df_bmp280_wrapper.html#afa29b3109398937f91ac9df7fc542e5a" title="Start automatic measurement. " alt="" coords="337,1123,503,1150"/>
+<area shape="rect" id="node48" href="$d5/ded/namespacedf__bmp280__wrapper.html#ad9b55e45815d137f66c4629db9b6e4ef" title="Attempt to start driver on all available I2C busses. " alt="" coords="557,1120,704,1161"/>
+<area shape="rect" id="node49" href="$d3/d30/df__bmp280__wrapper_8cpp.html#a8dabc96381e6fe19aa059cf51f8963f1" title="df_bmp280_wrapper_main" alt="" coords="752,1127,927,1154"/>
+</map>

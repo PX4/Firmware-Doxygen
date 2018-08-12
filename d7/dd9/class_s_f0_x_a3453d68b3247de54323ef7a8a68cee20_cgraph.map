@@ -1,0 +1,37 @@
+<map id="SF0X::ioctl" name="SF0X::ioctl">
+<area shape="rect" id="node2" href="$d7/dd9/class_s_f0_x.html#a227a1623b932799ea107791cf9e6cd43" title="Initialise the automatic measurement state machine and start it. " alt="" coords="140,247,229,274"/>
+<area shape="rect" id="node36" href="$d7/dd9/class_s_f0_x.html#ad75a0b8f08e04c3e4e2a7e3eefc3c979" title="Stop the automatic measurement state machine. " alt="" coords="141,298,229,324"/>
+<area shape="rect" id="node3" href="$d7/dd9/class_s_f0_x.html#a55d628f5e9fc81c95829b3d02393e3ca" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="277,222,439,248"/>
+<area shape="rect" id="node4" href="$d7/dd9/class_s_f0_x.html#aa78b274f95f908a8d431f1e5531eaeac" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="487,222,581,248"/>
+<area shape="rect" id="node5" href="$d7/dd9/class_s_f0_x.html#a10ad3a3321cda934a6b4d18b2ee0d02d" title="SF0X::collect" alt="" coords="629,323,731,350"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1715,564,1841,591"/>
+<area shape="rect" id="node30" href="$d7/dd9/class_s_f0_x.html#ae3b5ff03258968252a69d64f9912a6e4" title="SF0X::measure" alt="" coords="1043,222,1156,248"/>
+<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1485,731,1624,758"/>
+<area shape="rect" id="node6" href="$d7/dd9/class_s_f0_x.html#a4dd017ff8c655efc10720d59fc59b78e" title="SF0X::get_maximum_distance" alt="" coords="779,475,980,502"/>
+<area shape="rect" id="node7" href="$d7/dd9/class_s_f0_x.html#a0ea44079e4dd64984461b023f60e98a4" title="SF0X::get_minimum_distance" alt="" coords="781,526,978,552"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="819,171,940,198"/>
+<area shape="rect" id="node10" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="835,70,923,96"/>
+<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1713,616,1843,657"/>
+<area shape="rect" id="node26" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="838,222,921,248"/>
+<area shape="rect" id="node27" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1271,298,1353,324"/>
+<area shape="rect" id="node28" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="843,374,915,400"/>
+<area shape="rect" id="node29" href="$d7/dd9/class_s_f0_x.html#a721223b8d03012270b9bfa65be6345ca" title="Perform a read from the device. " alt="" coords="835,272,923,299"/>
+<area shape="rect" id="node33" href="$d2/df7/sf0x__parser_8cpp.html#a5699796c4e4b3d1496fe10d5e2373f62" title="sf0x_parser" alt="" coords="834,424,925,451"/>
+<area shape="rect" id="node11" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1483,70,1626,112"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1028,130,1171,172"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1707,70,1849,112"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1902,78,2029,104"/>
+<area shape="rect" id="node14" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2079,52,2213,79"/>
+<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2094,103,2198,130"/>
+<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2269,78,2407,104"/>
+<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2261,128,2415,155"/>
+<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1219,140,1405,167"/>
+<area shape="rect" id="node20" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1467,678,1642,704"/>
+<area shape="rect" id="node25" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1453,136,1656,177"/>
+<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1711,732,1845,759"/>
+<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1704,682,1852,708"/>
+<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1900,616,2031,657"/>
+<area shape="rect" id="node32" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1069,272,1129,299"/>
+<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a082bca749e995839a2fe025bc165f8a3" title="Perform a write to the device. " alt="" coords="1243,222,1381,248"/>
+<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1709,784,1847,825"/>
+</map>

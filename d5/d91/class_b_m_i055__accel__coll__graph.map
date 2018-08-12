@@ -1,0 +1,8 @@
+<map id="BMI055_accel" name="BMI055_accel">
+<area shape="rect" id="node2" href="$d0/d48/class_b_m_i055.html" title="{BMI055\n|# _whoami\l# _call_interval\l# _dlpf_freq\l# _register_wait\l# _reset_wait\l# _rotation\l# _checked_next\l|+ BMI055()\l+ ~BMI055()\l# read_reg()\l# read_reg16()\l# write_reg()\l# BMI055()\l# operator=()\l}" alt="" coords="11,226,132,479"/>
+<area shape="rect" id="node4" href="$dc/d0d/structhrt__call.html" title="Callout record. " alt="" coords="74,5,157,141"/>
+<area shape="rect" id="node5" href="$de/dfc/classmath_1_1_low_pass_filter2p.html" title="{math::LowPassFilter2p\n|&#45; _cutoff_freq\l&#45; _a1\l&#45; _a2\l&#45; _b0\l&#45; _b1\l&#45; _b2\l&#45; _delay_element_1\l&#45; _delay_element_2\l|+ LowPassFilter2p()\l+ set_cutoff_frequency()\l+ apply()\l+ get_cutoff_freq()\l+ reset()\l}" alt="" coords="156,233,320,472"/>
+<area shape="rect" id="node6" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="345,299,457,406"/>
+<area shape="rect" id="node7" href="$d6/d55/class_integrator.html" title="{Integrator\n|&#45; _auto_reset_interval\l&#45; _last_integration_time\l&#45; _last_reset_time\l&#45; _alpha\l&#45; _last_alpha\l&#45; _beta\l&#45; _last_val\l&#45; _last_delta_alpha\l&#45; _coning_comp_on\l|+ Integrator()\l+ ~Integrator()\l+ Integrator()\l+ operator=()\l+ Integrator()\l+ operator=()\land 5 more...\l&#45; _reset()\l}" alt="" coords="481,204,638,501"/>
+<area shape="rect" id="node8" href="$de/d34/structaccel__calibration__s.html" title="accel scaling factors; Vout = Vscale * (Vin + Voffset) " alt="" coords="662,277,795,428"/>
+</map>

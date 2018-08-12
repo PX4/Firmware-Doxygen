@@ -1,0 +1,51 @@
+<map id="ms4525_airspeed_main" name="ms4525_airspeed_main">
+<area shape="rect" id="node2" href="$db/dc7/ms4525__airspeed_8cpp.html#ac7aeef2e92becfd6be2d3bb9c7d18076" title="meas_airspeed_usage" alt="" coords="212,84,364,111"/>
+<area shape="rect" id="node3" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="245,135,331,161"/>
+<area shape="rect" id="node6" href="$d9/da5/namespacemeas__airspeed.html#a1203f59f1e283fac3237c3dd87e49689" title="Reset the driver. " alt="" coords="1715,185,1861,212"/>
+<area shape="rect" id="node22" href="$d9/da5/namespacemeas__airspeed.html#a55b566e3632d184b83812b89fcedd5ec" title="Attempt to start driver on all available I2C busses. " alt="" coords="216,287,360,313"/>
+<area shape="rect" id="node23" href="$d9/da5/namespacemeas__airspeed.html#a4928e33fd127390629479ade5a3acda0" title="Start the driver on a specific bus. " alt="" coords="412,287,584,313"/>
+<area shape="rect" id="node50" href="$d9/da5/namespacemeas__airspeed.html#a898b6f35efd6b4fae42a60bc08266abf" title="Stop the driver. " alt="" coords="217,337,359,364"/>
+<area shape="rect" id="node4" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="467,135,529,161"/>
+<area shape="rect" id="node5" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="697,109,775,136"/>
+<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1974,185,2053,212"/>
+<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1976,779,2051,805"/>
+<area shape="rect" id="node8" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="2401,107,2465,133"/>
+<area shape="rect" id="node9" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2573,208,2711,235"/>
+<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2565,259,2719,285"/>
+<area shape="rect" id="node11" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="2137,185,2300,212"/>
+<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="2149,397,2288,424"/>
+<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="2172,5,2265,32"/>
+<area shape="rect" id="node12" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="2365,157,2501,184"/>
+<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2381,208,2485,235"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="2365,544,2500,571"/>
+<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="2363,361,2502,402"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="2359,427,2507,453"/>
+<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="2181,787,2256,813"/>
+<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="2151,837,2286,864"/>
+<area shape="rect" id="node24" href="$d2/deb/class_m_e_a_s_airspeed.html#acfff047e7b740b71679b6d2a98cc74c7" title="MEASAirspeed::MEASAirspeed" alt="" coords="632,287,840,313"/>
+<area shape="rect" id="node25" href="$d8/daf/class_airspeed.html#a8a2f9a36f6bf04dfa1c7cd189559bf78" title="Airspeed::init" alt="" coords="687,361,785,388"/>
+<area shape="rect" id="node26" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="911,456,999,483"/>
+<area shape="rect" id="node28" href="$d8/daf/class_airspeed.html#a27d2443455edb77d4232ce10494983fb" title="Airspeed::measure" alt="" coords="890,384,1021,411"/>
+<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="888,333,1023,360"/>
+<area shape="rect" id="node27" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="1079,477,1205,504"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1717,237,1859,278"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1071,411,1213,453"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1942,302,2085,343"/>
+<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2155,309,2282,336"/>
+<area shape="rect" id="node33" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2365,309,2500,336"/>
+<area shape="rect" id="node35" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1267,469,1399,496"/>
+<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1452,448,1639,475"/>
+<area shape="rect" id="node39" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1973,681,2054,708"/>
+<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1261,346,1404,387"/>
+<area shape="rect" id="node37" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1699,353,1877,380"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1712,623,1864,665"/>
+<area shape="rect" id="node42" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1687,455,1889,497"/>
+<area shape="rect" id="node43" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="2145,499,2292,541"/>
+<area shape="rect" id="node45" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1764,572,1812,599"/>
+<area shape="rect" id="node40" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="2148,565,2289,592"/>
+<area shape="rect" id="node41" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="2348,595,2517,621"/>
+<area shape="rect" id="node44" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a09e6cdb4967bc03e666621319a3ee8f0" title="Find a node give its name. " alt="" coords="2351,478,2514,519"/>
+<area shape="rect" id="node46" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1937,623,2089,649"/>
+<area shape="rect" id="node47" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1972,572,2055,599"/>
+<area shape="rect" id="node49" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1452,345,1639,372"/>
+</map>

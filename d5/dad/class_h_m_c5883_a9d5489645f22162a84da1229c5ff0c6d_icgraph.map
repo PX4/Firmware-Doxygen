@@ -1,0 +1,27 @@
+<map id="HMC5883::read_reg" name="HMC5883::read_reg">
+<area shape="rect" id="node2" href="$d5/dad/class_h_m_c5883.html#ac6ef4de5432fe29e3ee36ccf99ae3285" title="check the sensor configuration. " alt="" coords="205,106,361,133"/>
+<area shape="rect" id="node21" href="$d5/dad/class_h_m_c5883.html#ad7c9c72a363a9e47dca7dc6aebe440ad" title="check the sensor range. " alt="" coords="202,55,365,82"/>
+<area shape="rect" id="node22" href="$d5/dad/class_h_m_c5883.html#a72f96fab429f29a8660ddaac5f97cc83" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="423,325,601,351"/>
+<area shape="rect" id="node23" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="649,223,796,250"/>
+<area shape="rect" id="node26" href="$d5/dad/class_h_m_c5883.html#a9f6a2b974feee741d57b82542dd5c376" title="enable hmc5983 temperature compensation " alt="" coords="192,157,375,199"/>
+<area shape="rect" id="node3" href="$d5/dad/class_h_m_c5883.html#aa274541257c488a9b67e239737e73034" title="Collect the result of the most recent measurement. " alt="" coords="449,71,575,98"/>
+<area shape="rect" id="node4" href="$d5/dad/class_h_m_c5883.html#a86f898010fb03199a13e4704615509ce" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="663,71,783,98"/>
+<area shape="rect" id="node20" href="$d5/dad/class_h_m_c5883.html#aa039c9b8bce1d17d7b7ade4e947f9b33" title="HMC5883::read" alt="" coords="1271,46,1386,73"/>
+<area shape="rect" id="node5" href="$d5/dad/class_h_m_c5883.html#a682125ac270c159056296e6114b726df" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="844,71,1031,98"/>
+<area shape="rect" id="node6" href="$d5/dad/class_h_m_c5883.html#a950b9f8dcc129a3c2fe31898ca4e2dae" title="Initialise the automatic measurement state machine and start it. " alt="" coords="1079,71,1193,98"/>
+<area shape="rect" id="node7" href="$d5/dad/class_h_m_c5883.html#afe7634b15765ccc24fa3248f49f8bd6d" title="HMC5883::ioctl" alt="" coords="1272,198,1385,225"/>
+<area shape="rect" id="node17" href="$d7/d3e/class_df_hmc5883_wrapper.html#a6eb1f21a85e59b3d84ed3ff802b6ab73" title="Start automatic measurement. " alt="" coords="1241,97,1416,123"/>
+<area shape="rect" id="node8" href="$d5/dad/class_h_m_c5883.html#af62280e6a08c2f18962e9c7e18941938" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="1468,122,1607,149"/>
+<area shape="rect" id="node10" href="$d2/dd2/namespacehmc5883.html#a908535d4673436b75edbfb6a4eba7030" title="Automatic scale calibration. " alt="" coords="1471,274,1603,301"/>
+<area shape="rect" id="node12" href="$d2/dd2/namespacehmc5883.html#a7835bbc0621ef79f05183a9f24933a91" title="Reset the driver. " alt="" coords="1693,375,1805,402"/>
+<area shape="rect" id="node13" href="$d2/dd2/namespacehmc5883.html#ac8c2746e5f357283d28bf62efa03a4e9" title="start driver for a specific bus option " alt="" coords="1469,173,1606,199"/>
+<area shape="rect" id="node15" href="$d2/dd2/namespacehmc5883.html#a0e482c094e232bcd863f3874218547f1" title="enable/disable temperature compensation " alt="" coords="1671,223,1828,250"/>
+<area shape="rect" id="node16" href="$d2/dd2/namespacehmc5883.html#acf19e9e5e0944644e1594bf04d41971e" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1485,71,1590,98"/>
+<area shape="rect" id="node9" href="$d9/de0/hmc5883_8cpp.html#a456cca7d4e656cd485c42ed3f7ac49c2" title="hmc5883_main" alt="" coords="1888,198,1999,225"/>
+<area shape="rect" id="node11" href="$de/d50/lis3mdl__main_8cpp.html#a5a1a250829c9ac5a02805549f24e87af" title="Driver &#39;main&#39; command. " alt="" coords="1700,274,1799,301"/>
+<area shape="rect" id="node14" href="$d2/dd2/namespacehmc5883.html#a36740b13ab71387a9d606ad38fcc7d25" title="Start the driver. " alt="" coords="1695,173,1804,199"/>
+<area shape="rect" id="node18" href="$d6/d1d/namespacedf__hmc5883__wrapper.html#a9955713e49af290bbb6ad343b626f025" title="df_hmc5883_wrapper\l::start" alt="" coords="1464,5,1611,47"/>
+<area shape="rect" id="node19" href="$dc/d89/df__hmc5883__wrapper_8cpp.html#a97422702cd852554d9a6d24afe9a900e" title="df_hmc5883_wrapper_main" alt="" coords="1659,13,1840,39"/>
+<area shape="rect" id="node24" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="878,173,997,199"/>
+<area shape="rect" id="node25" href="$d5/dad/class_h_m_c5883.html#ac71ae8705d5d23e970a25adeeb9434c7" title="Initialise the driver and make it ready for use. " alt="" coords="1083,122,1189,149"/>
+</map>

@@ -1,0 +1,28 @@
+var adc_8c =
+[
+    [ "DEBUG", "de/d01/adc_8c.html#ad72dbcf6d0153db1b8d8a58001feed83", null ],
+    [ "rCR1", "de/d01/adc_8c.html#ae155fac3b63318d53e7cfafc3ccfa507", null ],
+    [ "rCR2", "de/d01/adc_8c.html#a8374ced762a49a58d37e61ba8f53baa9", null ],
+    [ "rDR", "de/d01/adc_8c.html#ad8a81171550a3593bdd0ebd9a3b98efb", null ],
+    [ "REG", "de/d01/adc_8c.html#a8fe8cedee76aa00c750f6ff3b445e23e", null ],
+    [ "rHTR", "de/d01/adc_8c.html#ab5359c9961351f5159abe67961da8ba6", null ],
+    [ "rJDR1", "de/d01/adc_8c.html#afc12987d4a3af5103e7f4a905ed2e803", null ],
+    [ "rJDR2", "de/d01/adc_8c.html#abec445ffbcc7d0cb46cf3da060bb1752", null ],
+    [ "rJDR3", "de/d01/adc_8c.html#ab917c5dd0d1886a88f9556a401fe7d9e", null ],
+    [ "rJDR4", "de/d01/adc_8c.html#a071dda55a08a2aad629be31a36849325", null ],
+    [ "rJOFR1", "de/d01/adc_8c.html#a6496c6de01dbe4a33265ebac47423b93", null ],
+    [ "rJOFR2", "de/d01/adc_8c.html#af13c0ae6f4fbcb0eade6d983ef39adcc", null ],
+    [ "rJOFR3", "de/d01/adc_8c.html#a59ee3072b0653552e40dfb10bdd1c9a6", null ],
+    [ "rJOFR4", "de/d01/adc_8c.html#a400c562719bda83a73c64a573592961b", null ],
+    [ "rJSQR", "de/d01/adc_8c.html#a45c6ae889b5ecc5d14bf26752392a8c1", null ],
+    [ "rLTR", "de/d01/adc_8c.html#a83176dd15cc8c499e8f0b495c28351c3", null ],
+    [ "rSMPR1", "de/d01/adc_8c.html#a50a5bb16ddf32022d994dd63afae94be", null ],
+    [ "rSMPR2", "de/d01/adc_8c.html#a2532bc74fe72b73de9d3ba15837555be", null ],
+    [ "rSQR1", "de/d01/adc_8c.html#a0e0644c7fedcb2ff6c3df1240fd86160", null ],
+    [ "rSQR2", "de/d01/adc_8c.html#a09604581683450297cb9121164982442", null ],
+    [ "rSQR3", "de/d01/adc_8c.html#a60cb4c653c098470ca192e3d51273c4b", null ],
+    [ "rSR", "de/d01/adc_8c.html#a049a2cdfb678af4b9df45d126d77bec9", null ],
+    [ "adc_init", "de/d01/adc_8c.html#a17f4991547e2a224daed40a939373d01", null ],
+    [ "adc_measure", "de/d01/adc_8c.html#adb8e4695bf43be882f16f075e9b6ba8c", null ],
+    [ "adc_perf", "de/d01/adc_8c.html#a0fdc4d53ebc681fa249ff41782592cd8", null ]
+];

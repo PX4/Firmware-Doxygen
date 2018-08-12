@@ -1,0 +1,10 @@
+<map id="hmc5883::hmc5883_bus_option" name="hmc5883::hmc5883_bus_option">
+<area shape="rect" id="node2" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="447,329,580,597"/>
+<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="293,660,475,1075"/>
+<area shape="rect" id="node3" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="429,189,598,267"/>
+<area shape="rect" id="node4" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="408,5,619,127"/>
+<area shape="rect" id="node5" href="$d5/dad/class_h_m_c5883.html" title="{HMC5883\n|# _interface\l&#45; _work\l&#45; _measure_ticks\l&#45; _reports\l&#45; _range_scale\l&#45; _range_ga\l&#45; _collect_phase\land 10 more...\l|+ HMC5883()\l+ ~HMC5883()\l+ init()\l+ read()\l+ ioctl()\l+ stop()\l+ print_info()\l&#45; start()\l&#45; reset()\l&#45; calibrate()\l&#45; set_excitement()\l&#45; set_temperature_compensation()\l&#45; set_range()\land 12 more...\l&#45; cycle_trampoline()\l}" alt="" coords="157,1181,377,1567"/>
+<area shape="rect" id="node7" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="271,425,423,502"/>
+<area shape="rect" id="node8" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="5,814,117,921"/>
+<area shape="rect" id="node9" href="$d1/d13/structmag__calibration__s.html" title="mag scaling factors; Vout = (Vin * Vscale) + Voffset " alt="" coords="142,792,269,943"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="px4io_main" name="px4io_main">
+<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#a85db0292370b5380301fa2c1422486c8" title="Detect if a PX4IO is connected. " alt="" coords="172,56,277,83"/>
+<area shape="rect" id="node7" href="$d8/daf/class_airspeed.html#a92d892eca983708055b4fa95169a1ab2" title="Airspeed::ioctl" alt="" coords="172,157,277,184"/>
+<area shape="rect" id="node12" href="$d1/dde/class_p_x4_i_o.html#afa47c2f4de1c150b0f40829ed09ebef4" title="Constructor. " alt="" coords="171,208,279,235"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="201,259,249,285"/>
+<area shape="rect" id="node24" href="$d4/d36/class_p_x4_i_o___uploader.html#a18292fa384d55d539ed8792f7ff180ad" title="PX4IO_Uploader::upload" alt="" coords="141,669,308,696"/>
+<area shape="rect" id="node3" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="408,56,496,83"/>
+<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="387,5,517,32"/>
+<area shape="rect" id="node4" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="629,56,755,83"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="621,5,763,32"/>
+<area shape="rect" id="node8" href="$d8/daf/class_airspeed.html#a4ea58242d6de23cefa9c5a5046be1ebe" title="Stop the automatic measurement state machine. " alt="" coords="399,157,505,184"/>
+<area shape="rect" id="node9" href="$d8/daf/class_airspeed.html#a68fc3d30a0797e4288a0e3944ffc532c" title="Initialise the automatic measurement state machine and start it. " alt="" coords="399,107,505,133"/>
+<area shape="rect" id="node10" href="$d8/daf/class_airspeed.html#a8eba04e2651ee7f7f06f2b68bbecb440" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="603,107,781,133"/>
+<area shape="rect" id="node11" href="$d8/daf/class_airspeed.html#ac4b2c96ac2a32747fe82e77a897dac71" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="871,56,983,83"/>
+<area shape="rect" id="node14" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="376,309,528,336"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="411,259,493,285"/>
+<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="665,309,719,336"/>
+<area shape="rect" id="node17" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="651,360,733,387"/>
+<area shape="rect" id="node18" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="649,411,735,437"/>
+<area shape="rect" id="node19" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="623,157,761,184"/>
+<area shape="rect" id="node21" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="883,208,970,235"/>
+<area shape="rect" id="node23" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="653,259,731,285"/>
+<area shape="rect" id="node20" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="883,157,971,184"/>
+<area shape="rect" id="node22" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="875,107,978,133"/>
+<area shape="rect" id="node25" href="$d4/d36/class_p_x4_i_o___uploader.html#a71919be9924a7eb5300cb7e59ed3257f" title="PX4IO_Uploader::log" alt="" coords="1267,715,1412,741"/>
+<area shape="rect" id="node26" href="$d4/d36/class_p_x4_i_o___uploader.html#a95aa70b1252b8bff39d3dc62d88950a4" title="PX4IO_Uploader::sync" alt="" coords="614,575,770,601"/>
+<area shape="rect" id="node33" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="422,927,482,953"/>
+<area shape="rect" id="node34" href="$d4/d36/class_p_x4_i_o___uploader.html#aac78543a9598274f9a227a565859d23a" title="PX4IO_Uploader::get_info" alt="" coords="605,828,779,855"/>
+<area shape="rect" id="node36" href="$d4/d36/class_p_x4_i_o___uploader.html#a7bd95842f00cec1dc073035187a7a4b2" title="PX4IO_Uploader::erase" alt="" coords="612,524,772,551"/>
+<area shape="rect" id="node37" href="$d4/d36/class_p_x4_i_o___uploader.html#a11789c4586da16ff9c80d68ca0986a1b" title="PX4IO_Uploader::program" alt="" coords="605,727,779,753"/>
+<area shape="rect" id="node39" href="$d4/d36/class_p_x4_i_o___uploader.html#a7da15609caefbe46a3d4895f85b35a95" title="PX4IO_Uploader::verify_rev2" alt="" coords="596,777,788,804"/>
+<area shape="rect" id="node40" href="$d4/d36/class_p_x4_i_o___uploader.html#a847ef0fa60c552e113191062d1e49e18" title="PX4IO_Uploader::verify_rev3" alt="" coords="356,876,548,903"/>
+<area shape="rect" id="node41" href="$d4/d36/class_p_x4_i_o___uploader.html#a2e151f77b677d69d1e85610da5c06a12" title="PX4IO_Uploader::reboot" alt="" coords="610,625,774,652"/>
+<area shape="rect" id="node27" href="$d4/d36/class_p_x4_i_o___uploader.html#aa0b3e1d3dda38b4b4b54b1d92d32df0c" title="PX4IO_Uploader::drain" alt="" coords="849,575,1005,601"/>
+<area shape="rect" id="node30" href="$d4/d36/class_p_x4_i_o___uploader.html#a7a7aae9dc1056191a59f95bdd88b521d" title="PX4IO_Uploader::send" alt="" coords="849,664,1005,691"/>
+<area shape="rect" id="node32" href="$d4/d36/class_p_x4_i_o___uploader.html#a3a5022ecec769b791630e2e68fdf1971" title="PX4IO_Uploader::get_sync" alt="" coords="836,765,1017,792"/>
+<area shape="rect" id="node28" href="$d4/d36/class_p_x4_i_o___uploader.html#a75c031ce6c2d9911284c39c8fafd4e60" title="PX4IO_Uploader::recv\l_byte_with_timeout" alt="" coords="1065,867,1219,909"/>
+<area shape="rect" id="node29" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="1316,980,1363,1007"/>
+<area shape="rect" id="node31" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="1117,613,1167,640"/>
+<area shape="rect" id="node35" href="$d4/d36/class_p_x4_i_o___uploader.html#a6dc229ead7fda46f71eb2695db07867c" title="PX4IO_Uploader::recv\l_bytes" alt="" coords="850,969,1003,1010"/>
+<area shape="rect" id="node38" href="$d7/d86/px4io__uploader_8cpp.html#abd30672590924ea0c3a6d5adc6d07c4f" title="read_with_retry" alt="" coords="871,917,982,944"/>
+</map>

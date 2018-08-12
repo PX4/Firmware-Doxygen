@@ -1,0 +1,28 @@
+<map id="waypoint_from_heading_and_distance" name="waypoint_from_heading_and_distance">
+<area shape="rect" id="node2" href="$d0/df9/class_navigator.html#a34945eedcd82eda8a50bd1890c0d09cc" title="Check nearby traffic for potential collisions. " alt="" coords="1151,39,1312,66"/>
+<area shape="rect" id="node4" href="$db/d35/geo_8h.html#a713e1c07bb04347540b8c98af7bb6a37" title="Creates a new waypoint C on the line of two given waypoints (A, B) at certain distance from waypoint ..." alt="" coords="229,63,379,104"/>
+<area shape="rect" id="node8" href="$d9/d31/class_fixedwing_position_control.html#a5d848f24184d857728914031545d3cbd" title="Get a new waypoint based on heading and distance from current position. " alt="" coords="456,111,627,167"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#a175a11d30445403529f51f4d6d73d367" title="Generate an artificial traffic indication. " alt="" coords="229,179,379,206"/>
+<area shape="rect" id="node10" href="$db/dad/class_mission.html#a30c0dc8f95a9ad59e40f082f1dfca13b" title="Project current location with heading to far away location and fill setpoint. " alt="" coords="212,233,396,275"/>
+<area shape="rect" id="node22" href="$da/d7b/class_mission_block.html#a6ecd406f400032b5ea48176bb884eb66" title="Check if mission item has been reached. " alt="" coords="456,487,627,528"/>
+<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1371,217,1475,243"/>
+<area shape="rect" id="node5" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="456,47,627,88"/>
+<area shape="rect" id="node6" href="$d9/d31/class_fixedwing_position_control.html#ad90bcc3a1e81fdd41fd6d8b8ec462529" title="FixedwingPositionControl\l::control_position" alt="" coords="687,56,857,97"/>
+<area shape="rect" id="node7" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="905,63,1101,90"/>
+<area shape="rect" id="node11" href="$db/dad/class_mission.html#a8cb473221c069e960e84a66fb73457d3" title="Set a new mission mode and handle the switching between the different modes. " alt="" coords="444,191,639,218"/>
+<area shape="rect" id="node12" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="699,184,845,225"/>
+<area shape="rect" id="node13" href="$db/dad/class_mission.html#a2f25f09d8e1688237be7a0abb28d542a" title="Set new mission items. " alt="" coords="469,293,614,335"/>
+<area shape="rect" id="node14" href="$db/dad/class_mission.html#a3561ffcb7a9229e67b0ff553f4853ea3" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="696,250,848,277"/>
+<area shape="rect" id="node15" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="707,367,837,394"/>
+<area shape="rect" id="node16" href="$db/dad/class_mission.html#ae9f26d718c3f24b86b1ee8fc19a45c35" title="Mission::set_current\l_offboard_mission_index" alt="" coords="689,301,855,343"/>
+<area shape="rect" id="node17" href="$db/dad/class_mission.html#a0d0bfe31ec4e43f1de757a81f2b40598" title="Mission::land_start" alt="" coords="937,309,1069,335"/>
+<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#a0a39ebe10ae1314fe8378c1d98481160" title="Navigator::start_mission\l_landing" alt="" coords="1149,344,1313,385"/>
+<area shape="rect" id="node19" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="1361,355,1484,382"/>
+<area shape="rect" id="node20" href="$d8/d7e/class_r_t_l.html#a08d3ece18df6bf8f59cbd73c05aceafe" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="1532,355,1664,382"/>
+<area shape="rect" id="node21" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="1543,414,1653,441"/>
+<area shape="rect" id="node23" href="$d9/d3a/class_data_link_loss.html#a8477f26e5eaae5758a225745417f7f6c" title="This function is called while the mode is active. " alt="" coords="689,469,855,495"/>
+<area shape="rect" id="node24" href="$d9/d75/class_engine_failure.html#af733ac517fb2e86d89e117c0637652e8" title="This function is called while the mode is active. " alt="" coords="689,519,855,546"/>
+<area shape="rect" id="node25" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="691,570,853,597"/>
+<area shape="rect" id="node26" href="$d7/dc4/class_r_c_loss.html#a533b999d196a106153d9068b23f5538f" title="This function is called while the mode is active. " alt="" coords="705,621,839,647"/>
+<area shape="rect" id="node27" href="$d8/d13/class_takeoff.html#a222d4e276bc3b82aca68af486cf9297f" title="This function is called while the mode is active. " alt="" coords="707,671,837,698"/>
+</map>

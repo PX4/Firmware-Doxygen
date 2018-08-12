@@ -1,0 +1,35 @@
+<map id="LidarLiteI2C::cycle_trampoline" name="LidarLiteI2C::cycle_trampoline">
+<area shape="rect" id="node2" href="$dc/dec/class_lidar_lite_i2_c.html#a7b4c0603bc98fdd09ccc9a267feb0bc6" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="184,649,315,676"/>
+<area shape="rect" id="node3" href="$dc/dec/class_lidar_lite_i2_c.html#aff0c3615e32f0b251e36cb76c64c4557" title="LidarLiteI2C::collect" alt="" coords="383,340,521,367"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1497,547,1622,573"/>
+<area shape="rect" id="node33" href="$d5/dd3/class_lidar_lite.html#a8c5703917d4f5cfdc02144f6ede68774" title="LidarLite::getMeasureTicks" alt="" coords="363,776,541,803"/>
+<area shape="rect" id="node34" href="$dc/dec/class_lidar_lite_i2_c.html#a3d16881e23a324ed38a35283bd9acc82" title="LidarLiteI2C::measure" alt="" coords="377,599,527,625"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="651,107,689,133"/>
+<area shape="rect" id="node5" href="$d5/dd3/class_lidar_lite.html#a1771509ac050889504f0ef11a923c6c3" title="LidarLite::get_maximum\l_distance" alt="" coords="589,158,751,199"/>
+<area shape="rect" id="node6" href="$d5/dd3/class_lidar_lite.html#a5d244ab9e4a089564ebad28f0b009ca0" title="LidarLite::get_minimum\l_distance" alt="" coords="591,223,749,265"/>
+<area shape="rect" id="node8" href="$dc/dec/class_lidar_lite_i2_c.html#a1e75636d254226723ba8c5e1695d5e6a" title="LidarLite specific transfer function. " alt="" coords="608,507,732,549"/>
+<area shape="rect" id="node9" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="628,340,712,367"/>
+<area shape="rect" id="node10" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="626,289,714,316"/>
+<area shape="rect" id="node26" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="629,5,711,32"/>
+<area shape="rect" id="node27" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="629,573,711,600"/>
+<area shape="rect" id="node28" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="634,56,706,83"/>
+<area shape="rect" id="node29" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="609,624,731,651"/>
+<area shape="rect" id="node30" href="$dc/dec/class_lidar_lite_i2_c.html#aef3c1d279556d96b6320817159752c93" title="LidarLiteI2C::reset\l_sensor" alt="" coords="605,442,735,483"/>
+<area shape="rect" id="node11" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1265,214,1407,255"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="804,279,947,321"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1488,185,1631,226"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1683,192,1810,219"/>
+<area shape="rect" id="node14" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1860,167,1995,193"/>
+<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1875,217,1979,244"/>
+<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2050,192,2189,219"/>
+<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2043,243,2196,269"/>
+<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1000,284,1187,311"/>
+<area shape="rect" id="node20" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1249,280,1423,307"/>
+<area shape="rect" id="node25" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1235,331,1437,373"/>
+<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1492,368,1627,395"/>
+<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1485,251,1633,277"/>
+<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1494,302,1625,343"/>
+<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1681,302,1812,343"/>
+<area shape="rect" id="node31" href="$dc/dec/class_lidar_lite_i2_c.html#a7a356f4d6deb0176a10b597e1b0553ed" title="LidarLiteI2C::write_reg" alt="" coords="799,497,952,524"/>
+<area shape="rect" id="node32" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="845,447,905,473"/>
+</map>

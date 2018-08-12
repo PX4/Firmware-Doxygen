@@ -1,0 +1,16 @@
+<map id="write_frame_crc" name="write_frame_crc">
+<area shape="rect" id="node2" href="$d9/ddf/crsf_8h.html#a32d45afb8bb88c343c41403502936375" title="Send telemetry Attitude information. " alt="" coords="182,5,322,47"/>
+<area shape="rect" id="node10" href="$d9/ddf/crsf_8h.html#a134bde0b918bd74e75ca723e01889a78" title="Send telemetry battery information. " alt="" coords="182,71,322,112"/>
+<area shape="rect" id="node12" href="$d9/ddf/crsf_8h.html#ae3b75a9b9b0caf66f83b73bec5bfaaeb" title="Send telemetry Flight Mode information. " alt="" coords="182,136,322,177"/>
+<area shape="rect" id="node14" href="$d9/ddf/crsf_8h.html#aba14c3d1e3928f2951cf4ac375d03f83" title="Send telemetry GPS information. " alt="" coords="168,202,336,229"/>
+<area shape="rect" id="node3" href="$d0/da3/class_c_r_s_f_telemetry.html#ae60b3713b4ecebab6748b5ed612197a6" title="CRSFTelemetry::send\l_attitude" alt="" coords="398,5,551,47"/>
+<area shape="rect" id="node4" href="$d0/da3/class_c_r_s_f_telemetry.html#a8cd227cc2e9f118ddf0d0bb1cb14db2b" title="Send telemetry data. " alt="" coords="613,111,777,138"/>
+<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="825,111,936,138"/>
+<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="984,111,1161,138"/>
+<area shape="rect" id="node9" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="1024,162,1121,189"/>
+<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="1209,111,1359,138"/>
+<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="1407,111,1593,138"/>
+<area shape="rect" id="node11" href="$d0/da3/class_c_r_s_f_telemetry.html#a291dd664fb2f821fa855735ca1494563" title="CRSFTelemetry::send\l_battery" alt="" coords="398,71,551,112"/>
+<area shape="rect" id="node13" href="$d0/da3/class_c_r_s_f_telemetry.html#ac9f030b9b009c365f1bcff8e765dd4b6" title="CRSFTelemetry::send\l_flight_mode" alt="" coords="398,136,551,177"/>
+<area shape="rect" id="node15" href="$d0/da3/class_c_r_s_f_telemetry.html#a1a43efaf0777d7821ebbdf2f8ec51046" title="CRSFTelemetry::send_gps" alt="" coords="384,202,565,229"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="MavlinkMissionManager::handle_mission_request_list" name="MavlinkMissionManager::handle_mission_request_list">
+<area shape="rect" id="node2" href="$d1/d69/class_mavlink_mission_manager.html#ace485a5195b65fc39ca8bc9cdbbacc23" title="get the number of item count for the current _mission_type " alt="" coords="251,5,413,47"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="474,75,599,102"/>
+<area shape="rect" id="node4" href="$d1/d69/class_mavlink_mission_manager.html#af9be0e96d90c5e8c95c3c5e9e8b01d1c" title="load geofence stats from dataman " alt="" coords="251,188,413,229"/>
+<area shape="rect" id="node15" href="$d1/d69/class_mavlink_mission_manager.html#a448f0d69ef1d6f187ecf8b24d94a08e0" title="load safe point stats from dataman " alt="" coords="251,253,413,295"/>
+<area shape="rect" id="node16" href="$d1/d69/class_mavlink_mission_manager.html#aba4c5f4e1822803320e8196389d1e84a" title="MavlinkMissionManager\l::send_mission_count" alt="" coords="251,123,413,164"/>
+<area shape="rect" id="node18" href="$df/d1f/class_mavlink.html#a6772377272b44d6a50eefd7ece27f0a9" title="Send a status text with loglevel CRITICAL. " alt="" coords="248,319,416,360"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="501,227,573,254"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="875,169,1001,195"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="657,220,824,261"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="700,286,781,313"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1059,169,1147,195"/>
+<area shape="rect" id="node8" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1060,219,1147,246"/>
+<area shape="rect" id="node9" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1060,118,1147,145"/>
+<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1052,270,1155,297"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="872,219,1004,246"/>
+<area shape="rect" id="node13" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="895,321,981,347"/>
+<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#a194a3b8f53d8f45849ad522c7f273215" title="Mavlink::get_channel" alt="" coords="464,130,609,157"/>
+</map>

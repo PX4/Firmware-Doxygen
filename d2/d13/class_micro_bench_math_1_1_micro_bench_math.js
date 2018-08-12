@@ -1,0 +1,27 @@
+var class_micro_bench_math_1_1_micro_bench_math =
+[
+    [ "reset", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a4803771b683b5f8fa07c752c942c1400", null ],
+    [ "run_tests", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#aaaaecfcff7bfadb87e10011f3e50e86e", null ],
+    [ "time_16bit_integers", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a6cfcce28051efce493b7fdce8b0251f5", null ],
+    [ "time_32bit_integers", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a3be5146c201f75895542192b18745bfa", null ],
+    [ "time_64bit_integers", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#abe912cd69ee0a37c262d72e57614f2f4", null ],
+    [ "time_8bit_integers", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#aed8c314d874818b1b768bbc887be9c07", null ],
+    [ "time_double_precision_float", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a702143bbd22b684d4df70caf86b11a51", null ],
+    [ "time_double_precision_float_trig", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a378057d47cd489a7bf85742ed06a3d45", null ],
+    [ "time_single_precision_float", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#adc8efcf1fa4d1eaf4ef8b488b6c8006c", null ],
+    [ "time_single_precision_float_trig", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a7ec3e96ba7202a9dbed92719333d0745", null ],
+    [ "f32", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a105fa3e6e277b5f7c0485ab0490685e7", null ],
+    [ "f32_out", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#ae04c1ee34a726e478c9f8189633df456", null ],
+    [ "f64", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a709765c8eecd74f558e964c98ce39359", null ],
+    [ "f64_out", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a497f7f2104349aa9e246fd1839f3e39b", null ],
+    [ "i_16", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a19e53e5b1cdf9398563509c78ec9a661", null ],
+    [ "i_16_out", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a99dcea83aa13ae7218bf8d65b551600b", null ],
+    [ "i_32", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a586abf55019a23dae417eadec86c64d5", null ],
+    [ "i_32_out", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#aee19c23397a229d1f4e62270a75e8d4b", null ],
+    [ "i_64", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#ac0ddc82749ee64c4e8e46b680488787f", null ],
+    [ "i_64_out", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#abdd1f6468df37959d8ea7ac959d861b4", null ],
+    [ "i_8", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a1dd23ee6fc447cb040e78bc4214d6d17", null ],
+    [ "i_8_out", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a9c5a67936c41bc0506e3da217257bd6e", null ],
+    [ "u_64", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#adbf6dbaac57207188a639571ab51b337", null ],
+    [ "u_64_out", "d2/d13/class_micro_bench_math_1_1_micro_bench_math.html#a79e396fd63fed838f7e84811343467c4", null ]
+];

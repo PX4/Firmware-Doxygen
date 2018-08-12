@@ -1,0 +1,20 @@
+<map id="FXAS21002C::write_reg" name="FXAS21002C::write_reg">
+<area shape="rect" id="node2" href="$df/d3b/class_f_x_a_s21002_c.html#ada514a4468a30527f3778f85a847b20c" title="check key registers for correct values " alt="" coords="224,119,427,145"/>
+<area shape="rect" id="node13" href="$df/d3b/class_f_x_a_s21002_c.html#a6de660bfd7901cce954845a9ec5dba8f" title="Reset chip. " alt="" coords="952,224,1091,251"/>
+<area shape="rect" id="node14" href="$df/d3b/class_f_x_a_s21002_c.html#a2236f488da9f7aefe20ad10c670dc862" title="deliberately trigger an error " alt="" coords="487,376,653,403"/>
+<area shape="rect" id="node16" href="$df/d3b/class_f_x_a_s21002_c.html#aa4ed901ea09d5c9702b7b721395067a6" title="Write a register in the FXAS21002C, updating _checked_values. " alt="" coords="216,249,435,276"/>
+<area shape="rect" id="node3" href="$df/d3b/class_f_x_a_s21002_c.html#ab9d78d3c80768c5c4eda82e1427f6d98" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="490,85,650,112"/>
+<area shape="rect" id="node4" href="$df/d3b/class_f_x_a_s21002_c.html#a56c6b2a8a48c2780fdffa4ec48d709a1" title="FXAS21002C::init" alt="" coords="1151,203,1278,229"/>
+<area shape="rect" id="node7" href="$df/d3b/class_f_x_a_s21002_c.html#af92c2dfccd3c1cc7219e6dadbb64a2cc" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="725,107,885,149"/>
+<area shape="rect" id="node12" href="$df/d3b/class_f_x_a_s21002_c.html#a3aa906c5df3b753a67e872f6fe8b3367" title="FXAS21002C::read" alt="" coords="954,5,1089,32"/>
+<area shape="rect" id="node5" href="$d4/dc5/namespacefxas21002c.html#ad5398e8b9f953452da8ab4b6960cab4d" title="Start the driver. " alt="" coords="1341,231,1463,257"/>
+<area shape="rect" id="node6" href="$d7/d97/fxas21002c_8cpp.html#a49d8ba4dd73cd96281a228ba05e1870d" title="fxas21002c_main" alt="" coords="1513,256,1637,283"/>
+<area shape="rect" id="node8" href="$df/d3b/class_f_x_a_s21002_c.html#a9bade712347829162320fcbb9f879d36" title="Start automatic measurement. " alt="" coords="953,144,1089,171"/>
+<area shape="rect" id="node9" href="$df/d3b/class_f_x_a_s21002_c.html#ad7a0d5d856512233af9d0ffcc71a4bf4" title="FXAS21002C::ioctl" alt="" coords="1147,253,1282,280"/>
+<area shape="rect" id="node10" href="$d4/dc5/namespacefxas21002c.html#a624409c2a24ac21a9fd1707f2ee3989f" title="Reset the driver. " alt="" coords="1339,281,1465,308"/>
+<area shape="rect" id="node11" href="$d4/dc5/namespacefxas21002c.html#a9637e6dbc487269af2938e72e073c05f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1343,180,1461,207"/>
+<area shape="rect" id="node15" href="$d4/dc5/namespacefxas21002c.html#acf7fd9f1e6e34b8a593f194dfe6b945a" title="trigger an error " alt="" coords="1139,369,1291,396"/>
+<area shape="rect" id="node17" href="$df/d3b/class_f_x_a_s21002_c.html#a229d43d10639cf5c3b570263a147760e" title="Modify a register in the FXAS21002C. " alt="" coords="483,275,657,301"/>
+<area shape="rect" id="node19" href="$df/d3b/class_f_x_a_s21002_c.html#a8224995be50a08c41eb6de4353e6775b" title="Set the FXAS21002C internal sampling frequency. " alt="" coords="705,325,904,352"/>
+<area shape="rect" id="node18" href="$df/d3b/class_f_x_a_s21002_c.html#a240c6234b752bd75259e56a6209db6c6" title="Set the FXAS21002C measurement range. " alt="" coords="721,275,888,301"/>
+</map>

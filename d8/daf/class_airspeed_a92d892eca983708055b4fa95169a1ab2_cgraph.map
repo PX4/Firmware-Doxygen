@@ -1,0 +1,6 @@
+<map id="Airspeed::ioctl" name="Airspeed::ioctl">
+<area shape="rect" id="node2" href="$d8/daf/class_airspeed.html#a68fc3d30a0797e4288a0e3944ffc532c" title="Initialise the automatic measurement state machine and start it. " alt="" coords="159,5,265,32"/>
+<area shape="rect" id="node5" href="$d8/daf/class_airspeed.html#a4ea58242d6de23cefa9c5a5046be1ebe" title="Stop the automatic measurement state machine. " alt="" coords="159,56,265,83"/>
+<area shape="rect" id="node3" href="$d8/daf/class_airspeed.html#a8eba04e2651ee7f7f06f2b68bbecb440" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="313,5,492,32"/>
+<area shape="rect" id="node4" href="$d8/daf/class_airspeed.html#ac4b2c96ac2a32747fe82e77a897dac71" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="540,5,652,32"/>
+</map>

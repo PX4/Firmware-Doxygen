@@ -1,0 +1,51 @@
+<map id="px4::Replay::onSubscriptionAdded" name="px4::Replay::onSubscriptionAdded">
+<area shape="rect" id="node2" href="$de/dec/classpx4_1_1_replay.html#a8d9c63a915c1accbbb7124ce894a1f0f" title="handle delay until topic can be published. " alt="" coords="258,1041,429,1082"/>
+<area shape="rect" id="node5" href="$de/dec/classpx4_1_1_replay.html#ac3a160784f36f75b2afbe1ae462e8ce8" title="handle the publication of a topic update " alt="" coords="258,657,429,698"/>
+<area shape="rect" id="node40" href="$de/dec/classpx4_1_1_replay.html#a2da8be3cba2cd599137f16ccbcaddcab" title="Find next data message for this subscription, starting with the stored file offset. " alt="" coords="240,1224,447,1251"/>
+<area shape="rect" id="node50" href="$de/dec/classpx4_1_1_replay.html#a81e01008be004724a9da12bcce9cd164" title="read a topic from the file (offset given by the subscription) into _read_buffer " alt="" coords="251,1158,436,1199"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2349,673,2474,700"/>
+<area shape="rect" id="node4" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="586,1045,646,1072"/>
+<area shape="rect" id="node6" href="$de/dec/classpx4_1_1_replay.html#ae6cd9533bdb7f030a553f75d719399a3" title="publish an orb topic " alt="" coords="529,221,703,248"/>
+<area shape="rect" id="node7" href="$da/d7c/classpx4_1_1_replay_1_1_compat_base.html#a0c6290466e675e453df6a70c13d40bac" title="apply compatibility to a topic " alt="" coords="837,155,1013,197"/>
+<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1403,7,1491,33"/>
+<area shape="rect" id="node16" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="875,272,975,299"/>
+<area shape="rect" id="node39" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="1139,221,1273,248"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2119,123,2262,165"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1629,210,1771,251"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2340,329,2483,370"/>
+<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2531,336,2657,363"/>
+<area shape="rect" id="node13" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1855,217,2041,244"/>
+<area shape="rect" id="node14" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="2103,529,2278,556"/>
+<area shape="rect" id="node15" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="2089,210,2292,251"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="1135,578,1277,619"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1375,311,1518,353"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1607,501,1793,528"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1872,530,2024,571"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="1375,167,1518,209"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1375,429,1518,470"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1375,494,1518,535"/>
+<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1877,362,2019,403"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1358,1041,1535,1068"/>
+<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1629,914,1771,955"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1863,915,2033,941"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1629,713,1771,754"/>
+<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1629,979,1771,1021"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1877,595,2019,637"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="1375,766,1518,807"/>
+<area shape="rect" id="node19" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1634,276,1766,303"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="2153,813,2228,840"/>
+<area shape="rect" id="node24" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="2150,580,2231,607"/>
+<area shape="rect" id="node21" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1859,661,2037,688"/>
+<area shape="rect" id="node26" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1593,159,1807,185"/>
+<area shape="rect" id="node31" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1663,1045,1737,1072"/>
+<area shape="rect" id="node35" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="1902,813,1994,840"/>
+<area shape="rect" id="node41" href="$de/dec/classpx4_1_1_replay.html#abd544f3f376b854795c5202a7c5cc98b" title="px4::Replay::readAndAddSubscription" alt="" coords="495,1224,737,1251"/>
+<area shape="rect" id="node42" href="$de/dec/classpx4_1_1_replay.html#a6028297289426483caac32fcce09cc52" title="px4::Replay::findTopic" alt="" coords="1623,1277,1777,1304"/>
+<area shape="rect" id="node45" href="$de/dec/classpx4_1_1_replay.html#a876e88dc1714a627002fa0899bc2c709" title="Find the offset &amp; field size in bytes for a given field name. " alt="" coords="832,1277,1017,1304"/>
+<area shape="rect" id="node49" href="$d4/d37/classpx4_1_1_replay_1_1_compat_sensor_combined_dt_type.html#a4761b853ef04080ed3f5edd58d97e6e0" title="px4::Replay::CompatSensor\lCombinedDtType::CompatSensorCombined\lDtType" alt="" coords="785,1147,1064,1203"/>
+<area shape="rect" id="node43" href="$d8/d9f/u_o_r_b_topics_8h.html#a1457ee2166d29f0fd6148b5ec63cf32c" title="orb_get_topics" alt="" coords="1895,1252,2001,1279"/>
+<area shape="rect" id="node44" href="$d8/d9f/u_o_r_b_topics_8h.html#a242e4babf1597f56989322220bd4e2f8" title="orb_topics_count" alt="" coords="1887,1303,2009,1329"/>
+<area shape="rect" id="node46" href="$de/dec/classpx4_1_1_replay.html#a5f0fc035f733386b7f2702b8db5e214a" title="get the size of a type that can be an array " alt="" coords="1112,1277,1300,1304"/>
+<area shape="rect" id="node47" href="$de/dec/classpx4_1_1_replay.html#a13fbb4698a685dabe1119a314dc2668c" title="get the array size from a type. " alt="" coords="1348,1277,1545,1304"/>
+<area shape="rect" id="node48" href="$de/dec/classpx4_1_1_replay.html#aded37fe61327f1eaa576ddde08633cea" title="get the size of a type that is not an array " alt="" coords="1363,1328,1530,1355"/>
+</map>

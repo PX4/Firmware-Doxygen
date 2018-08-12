@@ -1,0 +1,18 @@
+<map id="FlightTask::updateInitialize" name="FlightTask::updateInitialize">
+<area shape="rect" id="node2" href="$da/dbc/class_flight_task.html#a28fcf5bd24f6d3ccf3ebb23a37a76093" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="243,68,426,109"/>
+<area shape="rect" id="node4" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="773,42,911,69"/>
+<area shape="rect" id="node11" href="$dc/d0c/class_flight_tasks.html#a6fc97bcf40943382cba6a6c54d80b99f" title="Switch to a specific task (for normal usage) " alt="" coords="252,134,417,161"/>
+<area shape="rect" id="node12" href="$df/d3f/class_flight_task_offboard.html#af52e13a17d5f788962ce83205b996d04" title="Call before activate() or update() to initialize time and input data. " alt="" coords="268,185,401,227"/>
+<area shape="rect" id="node13" href="$de/de4/class_flight_task_manual.html#a6ef9556b08c7178aa8113357b6a2c3d3" title="Call before activate() or update() to initialize time and input data. " alt="" coords="249,251,421,292"/>
+<area shape="rect" id="node17" href="$d8/d0b/class_flight_task_auto.html#a6632a22e2e4eebe37e94ace639930a58" title="Call before activate() or update() to initialize time and input data. " alt="" coords="232,317,437,343"/>
+<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="495,71,699,98"/>
+<area shape="rect" id="node10" href="$de/de4/class_flight_task_manual.html#a16249ae1f0f40c812e0c58265e707916" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="485,152,709,193"/>
+<area shape="rect" id="node5" href="$dc/d0c/class_flight_tasks.html#a480987e23ccc705b407d5ad5b40ac4f6" title="FlightTasks::~FlightTasks" alt="" coords="975,71,1149,98"/>
+<area shape="rect" id="node6" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="975,5,1149,47"/>
+<area shape="rect" id="node7" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="1197,5,1372,47"/>
+<area shape="rect" id="node8" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="1420,5,1595,47"/>
+<area shape="rect" id="node9" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="1643,13,1792,39"/>
+<area shape="rect" id="node14" href="$da/dc5/class_flight_task_manual_stabilized.html#a0735095caf1cbbea0744de4fcda13f3d" title="Call before activate() or update() to initialize time and input data. " alt="" coords="506,251,689,292"/>
+<area shape="rect" id="node15" href="$d8/d4c/class_flight_task_manual_altitude.html#ade0b78545dcf2ef1d892e5e28a68f214" title="Call before activate() or update() to initialize time and input data. " alt="" coords="757,251,927,292"/>
+<area shape="rect" id="node16" href="$da/d83/class_flight_task_manual_position.html#a70583eb60c439747581571aeacc2a104" title="Call before activate() or update() to initialize time and input data. " alt="" coords="976,251,1148,292"/>
+</map>

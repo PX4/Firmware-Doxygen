@@ -1,0 +1,29 @@
+<map id="Ekf::get_quat_reset" name="Ekf::get_quat_reset">
+<area shape="rect" id="node2" href="$dc/d66/class_ekf.html#a52b1a68996606971a215126974840d68" title="Ekf::calculate_quaternion" alt="" coords="195,208,365,235"/>
+<area shape="rect" id="node3" href="$dc/d66/class_ekf.html#a8d2929adfb1ee07e32be414d7944585a" title="Ekf::get_ekf2ev_quaternion" alt="" coords="189,259,371,285"/>
+<area shape="rect" id="node4" href="$dc/d66/class_ekf.html#a8ff24d9e0b203798067ccc49a99ff059" title="Ekf::get_ekf_soln_status" alt="" coords="197,360,363,387"/>
+<area shape="rect" id="node7" href="$dc/d66/class_ekf.html#ac917493375582be25d58f6364f01196c" title="Ekf::get_innovation\l_test_status" alt="" coords="213,433,347,474"/>
+<area shape="rect" id="node9" href="$df/de7/test__sensors_8c.html#a46c6cfc357986e1d96d9afba27ad8829" title="mag" alt="" coords="257,309,303,336"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="472,360,511,387"/>
+<area shape="rect" id="node6" href="$dc/d66/class_ekf.html#a2c60f34b50e8e113a76a143ce9744841" title="Ekf::get_terrain_valid" alt="" coords="419,411,564,437"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="449,461,533,488"/>
+<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="653,208,734,235"/>
+<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="452,309,531,336"/>
+<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="656,107,731,133"/>
+<area shape="rect" id="node28" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="461,259,521,285"/>
+<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="823,56,964,83"/>
+<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="856,208,931,235"/>
+<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1027,259,1166,285"/>
+<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1020,360,1173,387"/>
+<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1029,56,1164,83"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1012,5,1181,32"/>
+<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1023,107,1171,133"/>
+<area shape="rect" id="node19" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="612,360,775,387"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="861,461,925,488"/>
+<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="824,107,963,133"/>
+<area shape="rect" id="node25" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="647,309,740,336"/>
+<area shape="rect" id="node20" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="825,411,961,437"/>
+<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="841,309,945,336"/>
+<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1027,158,1166,199"/>
+<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="826,5,961,32"/>
+</map>

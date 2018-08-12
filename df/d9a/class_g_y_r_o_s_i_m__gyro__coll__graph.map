@@ -1,0 +1,7 @@
+<map id="GYROSIM_gyro" name="GYROSIM_gyro">
+<area shape="rect" id="node3" href="$da/d7e/class_g_y_r_o_s_i_m.html" title="{GYROSIM\n|&#45; _product\l&#45; _call_interval\l&#45; _accel_reports\l&#45; _accel_range_scale\l&#45; _accel_range_m_s2\l&#45; _accel_topic\land 7 more...\l|+ GYROSIM()\l+ ~GYROSIM()\l+ init()\l+ start()\l+ devRead()\l+ devIOCTL()\l+ transfer()\l+ print_info()\l+ print_registers()\l# gyro_read()\l# gyro_ioctl()\l&#45; reset()\l&#45; _measure()\l&#45; read_reg()\l&#45; write_reg()\l&#45; set_accel_range()\l&#45; swap16()\land 4 more...\l}" alt="" coords="252,551,399,965"/>
+<area shape="rect" id="node4" href="$d2/d1c/structgyro__calibration__s.html" title="gyro scaling factors; Vout = (Vin * Vscale) + Voffset " alt="" coords="262,205,389,356"/>
+<area shape="rect" id="node5" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="413,227,525,334"/>
+<area shape="rect" id="node6" href="$d6/d55/class_integrator.html" title="{Integrator\n|&#45; _auto_reset_interval\l&#45; _last_integration_time\l&#45; _last_reset_time\l&#45; _alpha\l&#45; _last_alpha\l&#45; _beta\l&#45; _last_val\l&#45; _last_delta_alpha\l&#45; _coning_comp_on\l|+ Integrator()\l+ ~Integrator()\l+ Integrator()\l+ operator=()\l+ Integrator()\l+ operator=()\land 5 more...\l&#45; _reset()\l}" alt="" coords="549,132,707,429"/>
+<area shape="rect" id="node7" href="$de/d34/structaccel__calibration__s.html" title="accel scaling factors; Vout = Vscale * (Vin + Voffset) " alt="" coords="731,205,864,356"/>
+</map>

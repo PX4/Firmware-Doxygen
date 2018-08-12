@@ -1,0 +1,51 @@
+<map id="orb_publish_auto" name="orb_publish_auto">
+<area shape="rect" id="node2" href="$d8/d1f/classland__detector_1_1_land_detector.html#a7cf78d57f14f48da976c72fe3c5538a8" title="land_detector::LandDetector\l::_cycle" alt="" coords="193,5,380,47"/>
+<area shape="rect" id="node4" href="$d4/d83/class_df_ltc2946_wrapper.html#aaabb2a34a98fbeb166871a08a046f8c3" title="DfLtc2946Wrapper::\l_publish" alt="" coords="217,71,356,112"/>
+<area shape="rect" id="node5" href="$d4/d81/class_q_shell.html#a45dc544f18c3f1e1f45f6bbd5b09e0b6" title="QShell::_send_cmd" alt="" coords="219,137,355,163"/>
+<area shape="rect" id="node7" href="$d1/d44/class_sensors.html#a6db3d73c358cb42faa68117f95eaa448" title="Poll the ADC and update readings to suit. " alt="" coords="223,355,350,382"/>
+<area shape="rect" id="node8" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="493,267,589,294"/>
+<area shape="rect" id="node9" href="$de/dfe/class_v_l53_l_x_x.html#a4305646ce71f83ff3b737bece28620ad" title="VL53LXX::collect" alt="" coords="225,406,348,433"/>
+<area shape="rect" id="node12" href="$de/df6/class_wind_estimator_module.html#a0f33419010318d9c7f836538e489d102" title="WindEstimatorModule\l::cycle" alt="" coords="211,457,362,499"/>
+<area shape="rect" id="node14" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="231,523,342,550"/>
+<area shape="rect" id="node17" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="229,625,344,651"/>
+<area shape="rect" id="node20" href="$d1/d44/class_sensors.html#af7a783c126015ac22eb5de001d6c6680" title="Poll the differential pressure sensor for updated data. " alt="" coords="209,238,364,265"/>
+<area shape="rect" id="node21" href="$dd/dd1/class_simulator.html#a1a78752a0e42cc7012f4bcd474795792" title="Simulator::handle_message" alt="" coords="195,574,378,601"/>
+<area shape="rect" id="node22" href="$da/d89/class_mavlink_receiver.html#a89e6a2902d4cca5901fe90fd0a800bbe" title="MavlinkReceiver::handle\l_message_attitude_quaternion_cov" alt="" coords="173,820,400,861"/>
+<area shape="rect" id="node24" href="$da/d89/class_mavlink_receiver.html#a37666f55ad6181458bca82317caf1459" title="MavlinkReceiver::handle\l_message_local_position\l_ned_cov" alt="" coords="203,885,371,941"/>
+<area shape="rect" id="node25" href="$da/d89/class_mavlink_receiver.html#af99bf01b6ae13dab05c36c0125e179bc" title="MavlinkReceiver::handle\l_message_manual_control" alt="" coords="198,676,375,717"/>
+<area shape="rect" id="node26" href="$da/d89/class_mavlink_receiver.html#a7c6f7fda759616cd6e2c512ada810513" title="MavlinkReceiver::handle\l_message_vision_position\l_estimate" alt="" coords="199,741,374,797"/>
+<area shape="rect" id="node27" href="$d1/dde/class_p_x4_i_o.html#a38084b037d73965204fa3d339f2357da" title="Fetch and publish the PWM servo outputs. " alt="" coords="205,964,368,1005"/>
+<area shape="rect" id="node29" href="$d1/dde/class_p_x4_i_o.html#a01240f13dfb3f9f51095066e25da022e" title="Fetch and publish raw RC input data. " alt="" coords="200,1030,373,1057"/>
+<area shape="rect" id="node30" href="$d4/d81/class_q_shell.html#ae4bc293e455e497596f50688e2f91d0a" title="QShell::main" alt="" coords="238,1081,335,1107"/>
+<area shape="rect" id="node32" href="$d3/dff/class_uavcan_gnss_bridge.html#a4cd3575e4ddf03e6e69155aa6673d0c3" title="UavcanGnssBridge::process_fixx" alt="" coords="178,1249,395,1275"/>
+<area shape="rect" id="node35" href="$d2/d86/classvmount_1_1_output_base.html#a24b79fb099236f19d8d3c660601c52b9" title="Publish _angle_outputs as a mount_orientation message. " alt="" coords="215,1132,358,1173"/>
+<area shape="rect" id="node36" href="$d1/d58/class_g_p_s.html#afa3e0c9d5dcf29eb89f8ede581298a49" title="Publish the gps struct. " alt="" coords="237,1198,336,1225"/>
+<area shape="rect" id="node37" href="$de/d9c/class_ekf2.html#a8c609a205d80a9dc10dcb14ffe09554c" title="Ekf2::publish_attitude" alt="" coords="213,1627,361,1654"/>
+<area shape="rect" id="node38" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="504,1627,579,1654"/>
+<area shape="rect" id="node39" href="$dd/dd1/class_simulator.html#aaefb2e4a163f910d791f836915b668bc" title="Simulator::publish\l_distance_topic" alt="" coords="223,1365,350,1407"/>
+<area shape="rect" id="node40" href="$dd/dd1/class_simulator.html#ad4fcd74778ae05544c8b0cb8d57b4c38" title="Simulator::publish\l_ev_topic" alt="" coords="223,1431,350,1472"/>
+<area shape="rect" id="node41" href="$dd/dd1/class_simulator.html#a971ee42d39c49e8d8f2b8bf203656c00" title="Simulator::publish\l_flow_topic" alt="" coords="223,1496,350,1537"/>
+<area shape="rect" id="node42" href="$dd/dd1/class_simulator.html#af365a1b32abab3f65f16154d17cad1de" title="Simulator::publish\l_sensor_topics" alt="" coords="223,1561,350,1603"/>
+<area shape="rect" id="node43" href="$de/d9c/class_ekf2.html#a7761aa3f0886f2119c302602cc18e7b8" title="Ekf2::publish_wind\l_estimate" alt="" coords="221,1300,353,1341"/>
+<area shape="rect" id="node44" href="$d1/d58/class_g_p_s.html#a88adb8156bd8e9611ad305313d9c07a8" title="Publish the satellite info. " alt="" coords="203,1678,371,1705"/>
+<area shape="rect" id="node45" href="$d0/daf/classsensors_1_1_r_c_update.html#a401c7a5b7279a0f72015662e28df72a7" title="Gather and publish RC input data. " alt="" coords="213,289,360,331"/>
+<area shape="rect" id="node46" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="187,1779,386,1806"/>
+<area shape="rect" id="node47" href="$d3/d25/class_fixedwing_attitude_control.html#a9a2fe5a46e51b61b291b93109b6c22f4" title="FixedwingAttitudeControl::run" alt="" coords="189,1830,384,1857"/>
+<area shape="rect" id="node48" href="$db/d2b/class_attitude_estimator_q.html#a8e0bb94a5396b03d79a39aaee77cd142" title="AttitudeEstimatorQ\l::task_main" alt="" coords="220,1881,353,1923"/>
+<area shape="rect" id="node49" href="$da/d31/class_camera_feedback.html#a232b807d193a28e11fd2c73e35f7440a" title="CameraFeedback::task_main" alt="" coords="190,1947,383,1974"/>
+<area shape="rect" id="node50" href="$dc/de6/classvmount_1_1_output_r_c.html#afcae38c76baaf7f63d2eccc3ff8dd22e" title="Update the output. " alt="" coords="197,1998,376,2025"/>
+<area shape="rect" id="node3" href="$d8/d1f/classland__detector_1_1_land_detector.html#af73d7e979aa3a6ef5221e1ad3daab802" title="land_detector::LandDetector\l::_cycle_trampoline" alt="" coords="448,5,635,47"/>
+<area shape="rect" id="node6" href="$d4/d81/class_q_shell.html#ab95d3543089510c1f29af83d15e726d4" title="QShell::main" alt="" coords="493,137,590,163"/>
+<area shape="rect" id="node10" href="$de/dfe/class_v_l53_l_x_x.html#a16d2b809d50a67ee68e345ec6988aa36" title="VL53LXX::read" alt="" coords="486,355,597,382"/>
+<area shape="rect" id="node11" href="$de/dfe/class_v_l53_l_x_x.html#a9c2b215b950e1147df89d2d232535933" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="483,406,599,433"/>
+<area shape="rect" id="node13" href="$de/df6/class_wind_estimator_module.html#acd4450355b2c716f6a9d2095f85f7a68" title="WindEstimatorModule\l::task_spawn" alt="" coords="466,457,617,499"/>
+<area shape="rect" id="node15" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="453,523,630,550"/>
+<area shape="rect" id="node16" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="493,574,590,601"/>
+<area shape="rect" id="node18" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="450,625,633,651"/>
+<area shape="rect" id="node19" href="$df/d64/class_p_x4_f_m_u.html#a00f750c72c6cc1f0bd156b5de4d9fac9" title="PX4FMU::run" alt="" coords="490,675,593,702"/>
+<area shape="rect" id="node23" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="459,784,624,825"/>
+<area shape="rect" id="node28" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="477,1001,606,1027"/>
+<area shape="rect" id="node31" href="$d4/d81/class_q_shell.html#a3b96b7101bb93ba47d868a6635998a05" title="QShell::~QShell" alt="" coords="483,1081,599,1107"/>
+<area shape="rect" id="node33" href="$d3/dff/class_uavcan_gnss_bridge.html#ae6b976cade652ec4e2810eaa60d74484" title="GNSS fix message will be reported via this callback. " alt="" coords="456,1209,627,1251"/>
+<area shape="rect" id="node34" href="$d3/dff/class_uavcan_gnss_bridge.html#a55aaa3c48f119f9d00eb8ccbac02eee2" title="UavcanGnssBridge::gnss\l_fix2_sub_cb" alt="" coords="456,1275,627,1316"/>
+</map>

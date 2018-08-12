@@ -1,0 +1,27 @@
+var class_battery =
+[
+    [ "Battery", "dc/df2/class_battery.html#a36a6234c583e3b3506f4a77e3eb49989", null ],
+    [ "cell_count", "dc/df2/class_battery.html#a1173757e4aa7b322d024fe99ff4055da", null ],
+    [ "computeScale", "dc/df2/class_battery.html#a86cc6b86a8d8c303cedec5b0d92c41e8", null ],
+    [ "DEFINE_PARAMETERS", "dc/df2/class_battery.html#ab1280552acce7062fd7c1403aba48f26", null ],
+    [ "determineWarning", "dc/df2/class_battery.html#a82b5818fadc040214d7be5624ece7890", null ],
+    [ "empty_cell_voltage", "dc/df2/class_battery.html#ae3de4b91b6ae264904ae6589ce1e9b08", null ],
+    [ "estimateRemaining", "dc/df2/class_battery.html#a34d7f6fbe91611d2112349bd27aa3596", null ],
+    [ "filterCurrent", "dc/df2/class_battery.html#ad334d2a70bc89095799e002869cb493c", null ],
+    [ "filterThrottle", "dc/df2/class_battery.html#a73fa526cd780caa17ad6946a44d9885a", null ],
+    [ "filterVoltage", "dc/df2/class_battery.html#a4c855e8edc749168d53c5bab75c30d18", null ],
+    [ "full_cell_voltage", "dc/df2/class_battery.html#aaf615839517b301b114ef7502ee95991", null ],
+    [ "reset", "dc/df2/class_battery.html#a6ed4b0c9880d58358bf3d768c24e6354", null ],
+    [ "sumDischarged", "dc/df2/class_battery.html#a12790d1c9689e244db13f36407c5750f", null ],
+    [ "updateBatteryStatus", "dc/df2/class_battery.html#ae05f523641daf24845fbdf88ec921d3d", null ],
+    [ "_current_filtered_a", "dc/df2/class_battery.html#ac37b4dc3205cb42ca5dd23927523a67d", null ],
+    [ "_discharged_mah", "dc/df2/class_battery.html#a36a886bb3bdf3cdd92c3c01e06eb9f60", null ],
+    [ "_discharged_mah_loop", "dc/df2/class_battery.html#a0a17bd8fe57f1c7c8368dcece308cd60", null ],
+    [ "_last_timestamp", "dc/df2/class_battery.html#a46dcb45615466e865df489f738f106f9", null ],
+    [ "_remaining", "dc/df2/class_battery.html#a617ca489109b86161114632181ec882e", null ],
+    [ "_remaining_voltage", "dc/df2/class_battery.html#a5dd9c84be2514a4443e7ffdb8c4d75ba", null ],
+    [ "_scale", "dc/df2/class_battery.html#ac99cb43212032ea6773c33067752570b", null ],
+    [ "_throttle_filtered", "dc/df2/class_battery.html#a240104bf097c063f1a962245af486369", null ],
+    [ "_voltage_filtered_v", "dc/df2/class_battery.html#a975d5836ebe11e216bba944da2496b06", null ],
+    [ "_warning", "dc/df2/class_battery.html#a5abc59aff0616ed1d4c116345e69bbca", null ]
+];

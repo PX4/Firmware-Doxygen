@@ -1,0 +1,51 @@
+<map id="MPU9250::ioctl" name="MPU9250::ioctl">
+<area shape="rect" id="node2" href="$df/dd9/class_m_p_u9250.html#a93686ca8b077ca2fc5e81f9c5090627b" title="MPU9250::_set_sample_rate" alt="" coords="631,5,822,32"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1628,755,1667,781"/>
+<area shape="rect" id="node6" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a958d971dfaa0dd65ecb269a303e30a7b" title="Return the cutoff frequency. " alt="" coords="165,973,321,1014"/>
+<area shape="rect" id="node16" href="$df/dd9/class_m_p_u9250.html#aad264083bcac0f15db47c8b0ec5c3f25" title="Reset chip. " alt="" coords="185,443,302,469"/>
+<area shape="rect" id="node22" href="$df/dd9/class_m_p_u9250.html#aca04f3e6b0916037bb34e005717b1f08" title="Set the mpu measurement range. " alt="" coords="655,57,799,98"/>
+<area shape="rect" id="node45" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a5c1390c1bca03d0eb9229ddccfbede24" title="Change filter parameters. " alt="" coords="1124,718,1280,759"/>
+<area shape="rect" id="node46" href="$df/dd9/class_m_p_u9250.html#a2485fa3239d5d585b8768119ef7e3a64" title="Start automatic measurement. " alt="" coords="186,823,301,849"/>
+<area shape="rect" id="node47" href="$df/dd9/class_m_p_u9250.html#a117a8049159359180786726a7abcd9f6" title="Stop automatic measurement. " alt="" coords="415,899,529,925"/>
+<area shape="rect" id="node3" href="$df/dd9/class_m_p_u9250.html#aad574c302a288d9dfa495e473904d4f3" title="Write a register in the mpu, updating _checked_values. " alt="" coords="879,173,1076,200"/>
+<area shape="rect" id="node4" href="$df/dd9/class_m_p_u9250.html#ad1709c24cbe9e442c6f097c855b9bbb8" title="Write a register in the mpu. " alt="" coords="1577,316,1718,343"/>
+<area shape="rect" id="node7" href="$dc/d5d/namespacebmp280.html#a997ff1692ee326fe28fe00a2f1f5c004" title="Reset the driver. " alt="" coords="419,1029,525,1056"/>
+<area shape="rect" id="node8" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="664,1055,789,1081"/>
+<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="657,1139,796,1165"/>
+<area shape="rect" id="node13" href="$d1/daf/class_b_m_p280.html#aa0063410420975514305632659eb7dc7" title="BMP280::ioctl" alt="" coords="675,1004,779,1031"/>
+<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="910,1219,1045,1245"/>
+<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="908,1102,1047,1143"/>
+<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="903,1168,1051,1195"/>
+<area shape="rect" id="node14" href="$d1/daf/class_b_m_p280.html#aa07ba96a45b1c88a0293896df80b15c9" title="BMP280::start_cycle" alt="" coords="905,1000,1049,1027"/>
+<area shape="rect" id="node15" href="$d1/daf/class_b_m_p280.html#ab6e00b5dd8c6d9e0cef9990cef531ec0" title="BMP280::stop_cycle" alt="" coords="906,1051,1049,1077"/>
+<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="697,123,757,149"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1787,468,1912,495"/>
+<area shape="rect" id="node19" href="$df/dd9/class_m_p_u9250.html#a167b38dd4cb9e7db71bf5e32c520d34d" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="397,275,547,301"/>
+<area shape="rect" id="node42" href="$d5/d16/class_m_p_u9250__mag.html#aec7b5654264bfdf2846f94b4887fdd3d" title="MPU9250_mag::ak8963\l_reset" alt="" coords="391,494,553,535"/>
+<area shape="rect" id="node20" href="$df/dd9/class_m_p_u9250.html#ae6781878f2714e8085819dd5d9ef9287" title="MPU9250::is_i2c" alt="" coords="665,341,788,368"/>
+<area shape="rect" id="node21" href="$df/dd9/class_m_p_u9250.html#a7b58f652e557ab85c809393a57d8eba7" title="MPU9250::_set_dlpf\l_filter" alt="" coords="656,225,797,266"/>
+<area shape="rect" id="node23" href="$d5/d16/class_m_p_u9250__mag.html#a3bc4a1e9f946a7ff41b0dd11dd54554f" title="MPU9250_mag::is_passthrough" alt="" coords="623,661,831,688"/>
+<area shape="rect" id="node30" href="$df/dd9/class_m_p_u9250.html#a9e211d7a42a413678b084358a0bdf055" title="Read a register from the mpu. " alt="" coords="1578,392,1717,419"/>
+<area shape="rect" id="node24" href="$df/dd9/class_m_p_u9250.html#ae55bce6cc4d0e75fcebe8a6f41b24daf" title="Measurement self test. " alt="" coords="908,645,1047,672"/>
+<area shape="rect" id="node25" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1788,965,1911,992"/>
+<area shape="rect" id="node26" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="1133,949,1271,976"/>
+<area shape="rect" id="node27" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1378,915,1461,941"/>
+<area shape="rect" id="node28" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1611,1371,1683,1397"/>
+<area shape="rect" id="node29" href="$df/dd9/class_m_p_u9250.html#ab7ffef3c6d49afbaebdb7caa8ce5098d" title="MPU9250::check_registers" alt="" coords="1329,443,1509,469"/>
+<area shape="rect" id="node31" href="$df/dd9/class_m_p_u9250.html#ac6a98f3cdd7d0de404b532d9b6b5b5e8" title="MPU9250::check_duplicate" alt="" coords="1328,1320,1511,1347"/>
+<area shape="rect" id="node32" href="$d5/d16/class_m_p_u9250__mag.html#a8680a969755273d73edba631d7cf32ff" title="MPU9250_mag::_measure" alt="" coords="1559,1067,1736,1093"/>
+<area shape="rect" id="node33" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1813,1041,1886,1068"/>
+<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1784,1145,1915,1186"/>
+<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1805,1240,1893,1267"/>
+<area shape="rect" id="node36" href="$d5/d16/class_m_p_u9250__mag.html#a14f964ed506f7c0d8907b6a46b509fbf" title="MPU9250_mag::measure" alt="" coords="1334,1117,1505,1144"/>
+<area shape="rect" id="node37" href="$d6/d1e/conversions_8c.html#adcfc38898c99b0a7987a8c53de2e37b8" title="Converts a signed 16 bit integer from big endian to little endian. " alt="" coords="1353,696,1486,723"/>
+<area shape="rect" id="node38" href="$df/dd9/class_m_p_u9250.html#a9c745af99b7d4d55d899ae5b016313eb" title="MPU9250::check_null_data" alt="" coords="1328,1371,1511,1397"/>
+<area shape="rect" id="node39" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="1341,747,1497,789"/>
+<area shape="rect" id="node40" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="1368,813,1471,840"/>
+<area shape="rect" id="node41" href="$d5/d99/class_m_p_u9250__gyro.html#a8c75646e9b0b8f340c0a2d3d06687cc6" title="MPU9250_gyro::parent\l_poll_notify" alt="" coords="1569,1203,1725,1245"/>
+<area shape="rect" id="node43" href="$d5/d16/class_m_p_u9250__mag.html#aab10b88fc5d1bbabf250b516da7c331a" title="MPU9250_mag::ak8963\l_setup" alt="" coords="645,494,808,535"/>
+<area shape="rect" id="node44" href="$d5/d16/class_m_p_u9250__mag.html#adc6747d96e400031f52949fabef851f8" title="MPU9250_mag::write_reg" alt="" coords="891,523,1064,549"/>
+<area shape="rect" id="node49" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="421,797,523,824"/>
+<area shape="rect" id="node50" href="$df/dd9/class_m_p_u9250.html#a971325edc6663ed643a8113617f7e7bd" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="369,848,575,875"/>
+<area shape="rect" id="node48" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="685,899,768,925"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="vl53lxx::start_bus" name="vl53lxx::start_bus">
+<area shape="rect" id="node2" href="$de/dfe/class_v_l53_l_x_x.html#a6930c873c60960bd31c11fa6cc39ec40" title="VL53LXX::init" alt="" coords="197,617,300,644"/>
+<area shape="rect" id="node5" href="$de/dfe/class_v_l53_l_x_x.html#a0f5242b3e9bb37934b7af59445fefdf8" title="VL53LXX::ioctl" alt="" coords="194,701,303,728"/>
+<area shape="rect" id="node34" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="407,848,489,875"/>
+<area shape="rect" id="node42" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="209,901,288,928"/>
+<area shape="rect" id="node50" href="$de/dfe/class_v_l53_l_x_x.html#ad795584d27a60a555b6c26b180e34116" title="VL53LXX::VL53LXX" alt="" coords="179,952,319,979"/>
+<area shape="rect" id="node3" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="404,584,492,611"/>
+<area shape="rect" id="node4" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="606,563,731,589"/>
+<area shape="rect" id="node6" href="$de/dfe/class_v_l53_l_x_x.html#a26d07b3cdd75fe0a173505d1dea83161" title="Initialise the automatic measurement state machine and start it. " alt="" coords="393,640,503,667"/>
+<area shape="rect" id="node33" href="$de/dfe/class_v_l53_l_x_x.html#a29cf15228990fa2d49c4077bc291a417" title="Stop the automatic measurement state machine. " alt="" coords="393,701,503,728"/>
+<area shape="rect" id="node7" href="$de/dfe/class_v_l53_l_x_x.html#a1f4fb0a69945fb5d415c33ce66dd5b52" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="577,613,760,640"/>
+<area shape="rect" id="node8" href="$de/dfe/class_v_l53_l_x_x.html#a9c2b215b950e1147df89d2d232535933" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="835,563,951,589"/>
+<area shape="rect" id="node9" href="$de/dfe/class_v_l53_l_x_x.html#a4305646ce71f83ff3b737bece28620ad" title="VL53LXX::collect" alt="" coords="1031,411,1154,437"/>
+<area shape="rect" id="node30" href="$de/dfe/class_v_l53_l_x_x.html#a03a31415eeca9ea4f4186fb753576671" title="VL53LXX::measure" alt="" coords="1025,613,1160,640"/>
+<area shape="rect" id="node10" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1270,259,1309,285"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1227,309,1352,336"/>
+<area shape="rect" id="node12" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="1229,360,1349,387"/>
+<area shape="rect" id="node27" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1248,411,1331,437"/>
+<area shape="rect" id="node28" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1447,664,1529,691"/>
+<area shape="rect" id="node29" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1253,512,1325,539"/>
+<area shape="rect" id="node13" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="1421,208,1555,235"/>
+<area shape="rect" id="node15" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="1447,259,1529,285"/>
+<area shape="rect" id="node16" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="1451,309,1525,336"/>
+<area shape="rect" id="node17" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="1447,360,1529,387"/>
+<area shape="rect" id="node18" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="1431,411,1545,437"/>
+<area shape="rect" id="node19" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="1429,461,1547,488"/>
+<area shape="rect" id="node20" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="1445,512,1531,539"/>
+<area shape="rect" id="node21" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="1444,563,1532,589"/>
+<area shape="rect" id="node22" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="1431,613,1545,640"/>
+<area shape="rect" id="node23" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="1453,5,1523,32"/>
+<area shape="rect" id="node24" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="1437,56,1539,83"/>
+<area shape="rect" id="node25" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="1419,107,1557,133"/>
+<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="1429,157,1547,184"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1605,302,1748,343"/>
+<area shape="rect" id="node31" href="$de/dfe/class_v_l53_l_x_x.html#a425a5e364fd4570f1c0b10619a15da80" title="VL53LXX::readRegister" alt="" coords="1210,588,1369,615"/>
+<area shape="rect" id="node32" href="$de/dfe/class_v_l53_l_x_x.html#a162ee686b9c84cd6456a3ddfa7a1cd46" title="VL53LXX::writeRegister" alt="" coords="1208,639,1371,665"/>
+<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="598,697,739,724"/>
+<area shape="rect" id="node39" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="631,849,706,876"/>
+<area shape="rect" id="node40" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="823,900,962,927"/>
+<area shape="rect" id="node41" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="816,1001,969,1028"/>
+<area shape="rect" id="node36" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="808,664,977,691"/>
+<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="825,765,960,792"/>
+<area shape="rect" id="node38" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="819,715,967,741"/>
+<area shape="rect" id="node43" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="367,1001,529,1028"/>
+<area shape="rect" id="node46" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="637,1103,701,1129"/>
+<area shape="rect" id="node47" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="599,748,738,775"/>
+<area shape="rect" id="node49" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="401,951,495,977"/>
+<area shape="rect" id="node44" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="617,1001,721,1028"/>
+<area shape="rect" id="node45" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="601,1052,737,1079"/>
+<area shape="rect" id="node48" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="823,817,962,858"/>
+</map>

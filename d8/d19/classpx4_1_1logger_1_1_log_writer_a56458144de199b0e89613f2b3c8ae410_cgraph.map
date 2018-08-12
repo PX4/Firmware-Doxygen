@@ -1,0 +1,42 @@
+<map id="px4::logger::LogWriter::init" name="px4::logger::LogWriter::init">
+<area shape="rect" id="node2" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a9026cdb3bbfd601be86e19971deae17d" title="px4::logger::LogWriterMavlink\l::init" alt="" coords="204,427,399,469"/>
+<area shape="rect" id="node3" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a54a9bbe49e57fe2266605c89c1c6d0ac" title="px4::logger::LogWriterFile\l::init" alt="" coords="216,493,387,534"/>
+<area shape="rect" id="node4" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a5be1ea65ed0e914a5ebc619f59d4a1ca" title="start the thread " alt="" coords="216,558,387,599"/>
+<area shape="rect" id="node5" href="$d6/dfb/stubs__posix_8c.html#a0b85ebb1e3aac081a4c0a5e85ae3cbe9" title="pthread_attr_init" alt="" coords="483,439,597,465"/>
+<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#a579e6529f0ce482312a5e77ac61cb4d5" title="pthread_attr_setschedparam" alt="" coords="447,489,633,516"/>
+<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#a812a9a455ae2ef2bb0dca4fff201a281" title="pthread_attr_setstacksize" alt="" coords="454,540,626,567"/>
+<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#ae5d18438d4d20c8a2e42cd2500578d79" title="pthread_create" alt="" coords="486,591,594,617"/>
+<area shape="rect" id="node9" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aa0c466972a55911ef06e63bea6e36559" title="px4::logger::LogWriterFile\l::run_helper" alt="" coords="455,642,625,683"/>
+<area shape="rect" id="node41" href="$d6/dfb/stubs__posix_8c.html#a4bcdbf47c17c7dcc51e9f05f5cb56d81" title="pthread_attr_destroy" alt="" coords="469,708,611,735"/>
+<area shape="rect" id="node10" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a41e3bc5316ca2468b4e3619c9b8b81f4" title="px4::logger::LogWriterFile::run" alt="" coords="681,649,879,676"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="988,157,1036,184"/>
+<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2247,397,2386,424"/>
+<area shape="rect" id="node23" href="$d6/dfb/stubs__posix_8c.html#a907ae104b6dfd8fc12e23e84952aa7ca" title="pthread_cond_wait" alt="" coords="947,649,1077,676"/>
+<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2240,580,2393,607"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="949,700,1075,727"/>
+<area shape="rect" id="node26" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a075e5f364685ae3d91c2fc09edf04637" title="px4::logger::LogWriterFile\l::get_read_ptr" alt="" coords="927,751,1097,793"/>
+<area shape="rect" id="node27" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="971,817,1053,844"/>
+<area shape="rect" id="node28" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ae8a8d1f7d1901704155453471898c392" title="write w/o waiting/blocking " alt="" coords="1365,442,1536,483"/>
+<area shape="rect" id="node37" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="976,868,1048,895"/>
+<area shape="rect" id="node38" href="$d6/dfb/stubs__posix_8c.html#a9ba34c4ff72e21db486eedf77c2a18d0" title="fsync" alt="" coords="985,919,1039,945"/>
+<area shape="rect" id="node39" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a6ac080e0050799848b06fcc742048402" title="px4::logger::LogWriterFile\l::mark_read" alt="" coords="927,511,1097,553"/>
+<area shape="rect" id="node12" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1155,107,1307,133"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1190,157,1273,184"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="1381,208,1520,235"/>
+<area shape="rect" id="node16" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1626,259,1713,285"/>
+<area shape="rect" id="node18" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1411,5,1490,32"/>
+<area shape="rect" id="node19" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1424,56,1477,83"/>
+<area shape="rect" id="node20" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1407,107,1494,133"/>
+<area shape="rect" id="node21" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1409,157,1492,184"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1625,208,1713,235"/>
+<area shape="rect" id="node17" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1618,157,1721,184"/>
+<area shape="rect" id="node29" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aaa9bf86895c5495ccd34d25dbb55bc6a" title="px4::logger::LogWriterFile\l::is_started" alt="" coords="1584,375,1755,417"/>
+<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1609,492,1730,519"/>
+<area shape="rect" id="node36" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a19acdb0803bebcb5c7bb3d0409d72f34" title="Write to the buffer but assuming there is enough space. " alt="" coords="1584,543,1755,585"/>
+<area shape="rect" id="node30" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aab2e869678f72558574377efe21949e7" title="px4::logger::LogWriterFile\l::write_message" alt="" coords="1803,427,1973,469"/>
+<area shape="rect" id="node31" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aa4e03b937b0e70adddaf9eee2dab41e4" title="px4::logger::LogWriterFile\l::unlock" alt="" coords="2021,543,2192,585"/>
+<area shape="rect" id="node32" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a327a2d7285da3ee38df18c4533741916" title="px4::logger::LogWriterFile\l::notify" alt="" coords="2021,361,2192,402"/>
+<area shape="rect" id="node33" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="2077,427,2137,453"/>
+<area shape="rect" id="node34" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ac55359827358061773fea15364377152" title="px4::logger::LogWriterFile\l::lock" alt="" coords="2021,478,2192,519"/>
+<area shape="rect" id="node40" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a84771dafadec2f67c13a8a080b27072a" title="permanently store the ulog file name for the hardfault crash handler, so that it can append crash log..." alt="" coords="1145,442,1317,483"/>
+</map>

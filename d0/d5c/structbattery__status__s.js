@@ -1,0 +1,25 @@
+var structbattery__status__s =
+[
+    [ "_padding0", "d0/d5c/structbattery__status__s.html#ac180451c19a681eaf4960fe38e00ab01", null ],
+    [ "average_current_a", "d0/d5c/structbattery__status__s.html#a3ef7a1b2ee33c4521611816027015e7c", null ],
+    [ "average_time_to_empty", "d0/d5c/structbattery__status__s.html#a4a32a07e7fa29852be66c888b082ed0a", null ],
+    [ "capacity", "d0/d5c/structbattery__status__s.html#ae5b7e841b516116f1e209acdfdb9b2a3", null ],
+    [ "cell_count", "d0/d5c/structbattery__status__s.html#af5731877c2f632933630e37a77e840ff", null ],
+    [ "connected", "d0/d5c/structbattery__status__s.html#ac3f61ed8874877ff6e8c2eaf73b867bb", null ],
+    [ "current_a", "d0/d5c/structbattery__status__s.html#a446b3327cc7afcc85cd58d0a08af72f0", null ],
+    [ "current_filtered_a", "d0/d5c/structbattery__status__s.html#aea418422665e6e58fbb3c5074fcdd533", null ],
+    [ "cycle_count", "d0/d5c/structbattery__status__s.html#ad4d7adeb3527ed4680a8210a34df7a54", null ],
+    [ "discharged_mah", "d0/d5c/structbattery__status__s.html#a7635aaebebffc9164095195bf2313251", null ],
+    [ "is_powering_off", "d0/d5c/structbattery__status__s.html#a2b58ec27728ff4aea2df166728ba2078", null ],
+    [ "priority", "d0/d5c/structbattery__status__s.html#a3ca09d68dd53c7189ef573f45f1e3ccf", null ],
+    [ "remaining", "d0/d5c/structbattery__status__s.html#ad3aeb5ef4a19accb9cb41413138dbde0", null ],
+    [ "run_time_to_empty", "d0/d5c/structbattery__status__s.html#a0c950323611a540f951206769f6a603c", null ],
+    [ "scale", "d0/d5c/structbattery__status__s.html#a42d72a28e5d06db327aee09ccc0b9f88", null ],
+    [ "serial_number", "d0/d5c/structbattery__status__s.html#afd5f2ef7a1bb6956de5f86cf314f5cac", null ],
+    [ "system_source", "d0/d5c/structbattery__status__s.html#a1227045b9ad4939889d8b64d20e2d6c8", null ],
+    [ "temperature", "d0/d5c/structbattery__status__s.html#a899a2759f11e87468361011c78c81195", null ],
+    [ "timestamp", "d0/d5c/structbattery__status__s.html#a3e5df14c2420ce078e5e069f95a9bc37", null ],
+    [ "voltage_filtered_v", "d0/d5c/structbattery__status__s.html#a54fa5c303ebc3d6ef3d3f79a8e12ea84", null ],
+    [ "voltage_v", "d0/d5c/structbattery__status__s.html#a1266ede20f07e509020d033d05e624d7", null ],
+    [ "warning", "d0/d5c/structbattery__status__s.html#a835d994b04cbebd2f056660c4f01dfda", null ]
+];

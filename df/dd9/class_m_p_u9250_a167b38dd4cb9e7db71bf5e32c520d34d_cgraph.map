@@ -1,0 +1,48 @@
+<map id="MPU9250::reset_mpu" name="MPU9250::reset_mpu">
+<area shape="rect" id="node2" href="$df/dd9/class_m_p_u9250.html#a7b58f652e557ab85c809393a57d8eba7" title="MPU9250::_set_dlpf\l_filter" alt="" coords="236,123,377,164"/>
+<area shape="rect" id="node3" href="$df/dd9/class_m_p_u9250.html#aad574c302a288d9dfa495e473904d4f3" title="Write a register in the mpu, updating _checked_values. " alt="" coords="459,109,656,135"/>
+<area shape="rect" id="node4" href="$df/dd9/class_m_p_u9250.html#ad1709c24cbe9e442c6f097c855b9bbb8" title="Write a register in the mpu. " alt="" coords="1139,159,1281,186"/>
+<area shape="rect" id="node5" href="$df/dd9/class_m_p_u9250.html#a93686ca8b077ca2fc5e81f9c5090627b" title="MPU9250::_set_sample_rate" alt="" coords="211,189,402,215"/>
+<area shape="rect" id="node6" href="$df/dd9/class_m_p_u9250.html#ae6781878f2714e8085819dd5d9ef9287" title="MPU9250::is_i2c" alt="" coords="245,413,368,439"/>
+<area shape="rect" id="node7" href="$d5/d16/class_m_p_u9250__mag.html#a3bc4a1e9f946a7ff41b0dd11dd54554f" title="MPU9250_mag::is_passthrough" alt="" coords="203,362,411,389"/>
+<area shape="rect" id="node38" href="$df/dd9/class_m_p_u9250.html#a9e211d7a42a413678b084358a0bdf055" title="Read a register from the mpu. " alt="" coords="1141,370,1279,397"/>
+<area shape="rect" id="node46" href="$df/dd9/class_m_p_u9250.html#aca04f3e6b0916037bb34e005717b1f08" title="Set the mpu measurement range. " alt="" coords="235,5,379,47"/>
+<area shape="rect" id="node47" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="277,463,337,490"/>
+<area shape="rect" id="node8" href="$df/dd9/class_m_p_u9250.html#ae55bce6cc4d0e75fcebe8a6f41b24daf" title="Measurement self test. " alt="" coords="488,657,627,683"/>
+<area shape="rect" id="node9" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1363,986,1485,1013"/>
+<area shape="rect" id="node10" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="704,657,843,683"/>
+<area shape="rect" id="node11" href="$d5/d16/class_m_p_u9250__mag.html#a8680a969755273d73edba631d7cf32ff" title="MPU9250_mag::_measure" alt="" coords="1121,834,1299,861"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2250,687,2375,714"/>
+<area shape="rect" id="node15" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1387,935,1461,962"/>
+<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="2247,988,2378,1029"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1380,767,1468,794"/>
+<area shape="rect" id="node32" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="904,363,1060,404"/>
+<area shape="rect" id="node33" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1191,261,1229,287"/>
+<area shape="rect" id="node34" href="$df/dd9/class_m_p_u9250.html#ac6a98f3cdd7d0de404b532d9b6b5b5e8" title="MPU9250::check_duplicate" alt="" coords="891,581,1073,607"/>
+<area shape="rect" id="node35" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1174,631,1246,658"/>
+<area shape="rect" id="node36" href="$df/dd9/class_m_p_u9250.html#a9c745af99b7d4d55d899ae5b016313eb" title="MPU9250::check_null_data" alt="" coords="891,682,1073,709"/>
+<area shape="rect" id="node37" href="$df/dd9/class_m_p_u9250.html#ab7ffef3c6d49afbaebdb7caa8ce5098d" title="MPU9250::check_registers" alt="" coords="892,530,1072,557"/>
+<area shape="rect" id="node39" href="$d6/d1e/conversions_8c.html#adcfc38898c99b0a7987a8c53de2e37b8" title="Converts a signed 16 bit integer from big endian to little endian. " alt="" coords="915,429,1049,455"/>
+<area shape="rect" id="node40" href="$d5/d16/class_m_p_u9250__mag.html#a14f964ed506f7c0d8907b6a46b509fbf" title="MPU9250_mag::measure" alt="" coords="897,834,1067,861"/>
+<area shape="rect" id="node41" href="$d5/d99/class_m_p_u9250__gyro.html#a8c75646e9b0b8f340c0a2d3d06687cc6" title="MPU9250_gyro::parent\l_poll_notify" alt="" coords="1549,1088,1705,1129"/>
+<area shape="rect" id="node42" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="941,479,1023,506"/>
+<area shape="rect" id="node43" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="931,210,1033,237"/>
+<area shape="rect" id="node12" href="$d5/d16/class_m_p_u9250__mag.html#a7ad28f869048e4eac2f58b96e874a583" title="MPU9250_mag::check\l_duplicate" alt="" coords="1347,819,1501,860"/>
+<area shape="rect" id="node13" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1383,595,1465,622"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="2435,988,2565,1029"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2018,881,2161,923"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1556,793,1699,835"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2241,881,2384,923"/>
+<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2437,889,2563,915"/>
+<area shape="rect" id="node22" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2613,863,2748,890"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2629,914,2733,941"/>
+<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2803,889,2942,915"/>
+<area shape="rect" id="node25" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2796,939,2949,966"/>
+<area shape="rect" id="node27" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1753,815,1940,842"/>
+<area shape="rect" id="node28" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="2002,830,2177,857"/>
+<area shape="rect" id="node31" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1988,764,2191,805"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="2245,830,2380,857"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="2239,779,2387,806"/>
+<area shape="rect" id="node44" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="1149,210,1271,237"/>
+<area shape="rect" id="node45" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1357,210,1491,237"/>
+</map>

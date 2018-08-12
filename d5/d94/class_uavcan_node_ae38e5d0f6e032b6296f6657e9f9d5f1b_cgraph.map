@@ -1,0 +1,33 @@
+<map id="UavcanNode::ioctl" name="UavcanNode::ioctl">
+<area shape="rect" id="node2" href="$d5/d94/class_uavcan_node.html#af442eb446291881f995b9380c5b84b0e" title="UavcanNode::arm_actuators" alt="" coords="184,13,373,39"/>
+<area shape="rect" id="node4" href="$d5/d94/class_uavcan_node.html#ade36a74486ff1d807566935b2e0dea29" title="UavcanNode::control\l_callback" alt="" coords="206,64,351,105"/>
+<area shape="rect" id="node5" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="211,129,347,171"/>
+<area shape="rect" id="node7" href="$d3/df7/class_uavcan_servers.html#a941ef9af47117699d177eb45f4de2b1b" title="UavcanServers::guessIfAll\lDynamicNodesAreAllocated" alt="" coords="185,195,372,236"/>
+<area shape="rect" id="node8" href="$d3/df7/class_uavcan_servers.html#af2ba5288f15306aff9e53610fc09413f" title="UavcanServers::instance" alt="" coords="194,261,363,287"/>
+<area shape="rect" id="node9" href="$d9/dbb/class_mixer_group.html#a7bd735772388a8b1d9f4cc41dd8ec7d1" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="189,311,368,338"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="211,362,346,389"/>
+<area shape="rect" id="node31" href="$d8/d8b/class_uavcan_hardpoint_controller.html#a3230840bb39f13e921a38e5397301b46" title="UavcanHardpointController\l::set_command" alt="" coords="189,413,368,455"/>
+<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="205,479,353,506"/>
+<area shape="rect" id="node3" href="$d1/dfe/class_uavcan_esc_controller.html#af89520e51383295ac66c1cdfe623bd46" title="UavcanEscController\l::arm_all_escs" alt="" coords="436,5,583,47"/>
+<area shape="rect" id="node6" href="$de/d2d/class_mixer.html#a7490fba3e26745dcf8ea90d1286bc013" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="432,137,587,163"/>
+<area shape="rect" id="node10" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="431,261,588,287"/>
+<area shape="rect" id="node11" href="$d8/d40/class_null_mixer.html#a898d2500fcf86c626c17c9080497eb65" title="Factory method. " alt="" coords="439,311,579,338"/>
+<area shape="rect" id="node14" href="$d3/dc4/class_simple_mixer.html#a4db178ad15ab4ff1815f92fccb472bb3" title="Factory method with full external configuration. " alt="" coords="431,421,588,447"/>
+<area shape="rect" id="node21" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="424,202,595,229"/>
+<area shape="rect" id="node28" href="$d3/d18/class_helicopter_mixer.html#aa74c76554b6aecf5e5f5498472764f1f" title="Factory method. " alt="" coords="421,589,597,615"/>
+<area shape="rect" id="node12" href="$d8/d40/class_null_mixer.html#a54bdcbfea2e55f5c43a5211e52fb9da2" title="NullMixer::NullMixer" alt="" coords="665,253,805,279"/>
+<area shape="rect" id="node13" href="$de/d2d/class_mixer.html#ae496f246c8434d0c6d3fcff164e81640" title="Check wether the string is well formed and suitable for parsing. " alt="" coords="673,304,797,345"/>
+<area shape="rect" id="node15" href="$de/d2d/class_mixer.html#af7700fca6686a37e9b84b8028843010a" title="Find next tag and return it (0 is returned if no tag is found) " alt="" coords="672,370,799,397"/>
+<area shape="rect" id="node16" href="$d3/dc4/class_simple_mixer.html#a8a8f623c91b686cedb8ceeb77b09f491" title="SimpleMixer::parse\l_control_scaler" alt="" coords="668,523,803,564"/>
+<area shape="rect" id="node18" href="$de/d2d/class_mixer.html#a2f8fa80f069727fcb9a1abb25e007470" title="Skip a line. " alt="" coords="901,530,1008,557"/>
+<area shape="rect" id="node19" href="$d3/dc4/class_simple_mixer.html#a3748661dfe004123e411d995c673f4fc" title="SimpleMixer::parse\l_output_scaler" alt="" coords="668,640,803,681"/>
+<area shape="rect" id="node20" href="$d3/dc4/class_simple_mixer.html#a0b0ce6973b9dc3c2dea6ee924a480715" title="Constructor. " alt="" coords="648,471,823,498"/>
+<area shape="rect" id="node17" href="$de/d2d/class_mixer.html#a6cf503fd87b4ffe395978376cfd0f3e4" title="Find a tag. " alt="" coords="904,647,1005,674"/>
+<area shape="rect" id="node22" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1306,89,1345,115"/>
+<area shape="rect" id="node23" href="$d5/dd1/class_multirotor_mixer.html#a4d5cdf8a2011732337db808bbc8d48bc" title="MultirotorMixer::Multirotor\lMixer" alt="" coords="650,136,821,177"/>
+<area shape="rect" id="node24" href="$d5/dd1/class_multirotor_mixer.html#a001a6db48e10048b62f840701b64163c" title="MultirotorMixer::actuator\lArmedCallback" alt="" coords="873,201,1036,243"/>
+<area shape="rect" id="node25" href="$d5/dd1/class_multirotor_mixer.html#a4b2b1bf433ca84310d8e479be25cb0c8" title="MultirotorMixer::actuator\lControlsCallback" alt="" coords="873,136,1036,177"/>
+<area shape="rect" id="node26" href="$d5/dd1/class_multirotor_mixer.html#ad3f0c1aa972a5a731d4a392af32111f2" title="MultirotorMixer::mix" alt="" coords="1084,141,1221,167"/>
+<area shape="rect" id="node27" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="1269,141,1381,167"/>
+<area shape="rect" id="node29" href="$d3/d18/class_helicopter_mixer.html#a24f1a82968f6a11e0fa951beba6c0428" title="Constructor. " alt="" coords="645,757,825,799"/>
+</map>

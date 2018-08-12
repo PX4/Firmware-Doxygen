@@ -1,0 +1,12 @@
+<map id="Mavlink" name="Mavlink">
+<area shape="rect" id="node6" href="$d1/df2/class_mavlink_stream.html" title="{MavlinkStream\n|# _interval\l&#45; _last_sent\l&#45; _first_message_sent\l|+ MavlinkStream()\l+ ~MavlinkStream()\l+ MavlinkStream()\l+ operator=()\l+ MavlinkStream()\l+ operator=()\land 10 more...\l# send()\l# update_data()\l}" alt="" coords="535,1481,686,1705"/>
+<area shape="rect" id="node2" href="$d4/d44/struct_mavlink_1_1ping__statistics__s.html" title="{Mavlink::ping_statistics_s\n|+ last_ping_time\l+ last_ping_seq\l+ dropped_packets\l+ last_rtt\l+ mean_rtt\l+ max_rtt\l+ min_rtt\l|}" alt="" coords="5,365,179,531"/>
+<area shape="rect" id="node3" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="203,395,315,501"/>
+<area shape="rect" id="node4" href="$dd/d61/struct_mavlink_1_1mavlink__message__buffer.html" title="{Mavlink::mavlink_message\l_buffer\n|+ write_ptr\l+ read_ptr\l+ size\l+ data\l|}" alt="" coords="339,380,519,516"/>
+<area shape="rect" id="node5" href="$dc/dda/structtelemetry__status__s.html" title="{telemetry_status_s\n|+ timestamp\l+ heartbeat_time\l+ telem_time\l+ rxerrors\l+ fixed\l+ type\land 8 more...\l|}" alt="" coords="544,365,677,531"/>
+<area shape="rect" id="node7" href="$de/dea/class_mavlink_orb_subscription.html" title="{MavlinkOrbSubscription\n|&#45; _instance\l&#45; _fd\l&#45; _published\l&#45; _subscribe_from_beginning\l&#45; _last_pub_check\l|+ MavlinkOrbSubscription()\l+ ~MavlinkOrbSubscription()\l+ update()\l+ update()\l+ update_if_changed()\l+ is_published()\land 4 more...\l&#45; MavlinkOrbSubscription()\l&#45; operator=()\l}" alt="" coords="702,321,890,575"/>
+<area shape="rect" id="node8" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="723,27,869,149"/>
+<area shape="rect" id="node9" href="$dd/dcb/class_mavlink_u_log.html" title="ULog streaming class. " alt="" coords="975,233,1150,663"/>
+<area shape="rect" id="node10" href="$d3/dae/structulog__stream__s.html" title="{ulog_stream_s\n|+ timestamp\l+ sequence\l+ length\l+ first_message_offset\l+ flags\l+ data\l+ _padding0\l|}" alt="" coords="985,5,1141,171"/>
+<area shape="rect" id="node11" href="$d1/dbf/class_mavlink_shell.html" title="{MavlinkShell\n|&#45; _to_shell_fd\l&#45; _from_shell_fd\l&#45; _shell_fds\l&#45; _task\l|+ MavlinkShell()\l+ ~MavlinkShell()\l+ start()\l+ write()\l+ read()\l+ available()\l&#45; MavlinkShell()\l&#45; operator=()\l&#45; shell_start_thread()\l}" alt="" coords="1264,329,1405,567"/>
+</map>

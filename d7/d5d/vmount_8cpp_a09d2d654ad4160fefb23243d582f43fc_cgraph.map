@@ -1,0 +1,51 @@
+<map id="vmount_main" name="vmount_main">
+<area shape="rect" id="node2" href="$dd/d8a/classvmount_1_1_input_base.html#a9ba18ed09f75303ab71e5cf2b134a485" title="report status to stdout " alt="" coords="159,5,299,47"/>
+<area shape="rect" id="node3" href="$d2/d86/classvmount_1_1_output_base.html#acf119b9a3f3a7d137b97486343d2161a" title="report status to stdout " alt="" coords="158,71,301,112"/>
+<area shape="rect" id="node4" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="153,137,305,163"/>
+<area shape="rect" id="node5" href="$d7/d5d/vmount_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="usage" alt="" coords="396,187,453,214"/>
+<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="395,238,455,265"/>
+<area shape="rect" id="node11" href="$d7/d5d/vmount_8cpp.html#a334cb9e6ce2c1b8ba1d8c0cfcdee04e9" title="vmount_thread_main" alt="" coords="158,498,301,525"/>
+<area shape="rect" id="node6" href="$dd/d30/module_8cpp.html#a53dcf1637cabe04fa554ef0e38f266d2" title="Print module documentation (will also be used for online documentation). " alt="" coords="544,267,771,294"/>
+<area shape="rect" id="node7" href="$dd/d30/module_8cpp.html#ac5bfc5f17f7305a0c6e85739cfe5100d" title="print definition for an argument, which does not have the typical &#45;p &lt;val&gt; form, but for example &#39;par..." alt="" coords="549,99,766,126"/>
+<area shape="rect" id="node8" href="$dd/d30/module_8cpp.html#aff1dbaa4bef630dfbdcc72bd0061c75a" title="Print a command with a short description what it does. " alt="" coords="567,151,748,192"/>
+<area shape="rect" id="node9" href="$dd/d30/module_8cpp.html#a06777df5209dd638c8ee6ac49331a50c" title="Print the command name. " alt="" coords="544,217,771,243"/>
+<area shape="rect" id="node12" href="$d7/d5d/vmount_8cpp.html#a0cd3d097cc2f80388685c1c28a4b7d0c" title="get_params" alt="" coords="379,523,470,550"/>
+<area shape="rect" id="node14" href="$d7/d5d/vmount_8cpp.html#a4cc1bcd8d7c5815b297874a5ca8f8ff4" title="update_params" alt="" coords="602,407,713,434"/>
+<area shape="rect" id="node16" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="606,1313,709,1339"/>
+<area shape="rect" id="node21" href="$d2/d86/classvmount_1_1_output_base.html#a64f81a30c7c74a48d7c99629e5c185f7" title="vmount::OutputBase\l::initialize" alt="" coords="353,1147,496,1188"/>
+<area shape="rect" id="node22" href="$dd/d8a/classvmount_1_1_input_base.html#af7b69355fdb9d1ce850ddfc0f024d687" title="Wait for an input update, with a timeout. " alt="" coords="355,575,495,616"/>
+<area shape="rect" id="node27" href="$d2/d86/classvmount_1_1_output_base.html#a22c26bbac19077ad42d7c4c8aa0f4ea4" title="Update the output. " alt="" coords="353,289,496,331"/>
+<area shape="rect" id="node28" href="$d2/d86/classvmount_1_1_output_base.html#a24b79fb099236f19d8d3c660601c52b9" title="Publish _angle_outputs as a mount_orientation message. " alt="" coords="353,803,496,844"/>
+<area shape="rect" id="node47" href="$dc/de6/classvmount_1_1_input_test.html#ac1f1cc0354112ddcc12e3862521dc21e" title="check whether the test finished, and thus the main thread can quit " alt="" coords="357,407,493,448"/>
+<area shape="rect" id="node48" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="859,349,941,375"/>
+<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="863,567,937,594"/>
+<area shape="rect" id="node50" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="841,1277,959,1303"/>
+<area shape="rect" id="node13" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="614,458,701,485"/>
+<area shape="rect" id="node15" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="859,399,941,426"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1047,940,1189,981"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1047,1233,1189,1275"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1489,1117,1632,1159"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1255,1179,1441,1206"/>
+<area shape="rect" id="node23" href="$dd/d8a/classvmount_1_1_input_base.html#a8419f5589946104b946c51eef474dcd4" title="vmount::InputBase::\linitialize" alt="" coords="587,509,727,551"/>
+<area shape="rect" id="node26" href="$dd/d8a/classvmount_1_1_input_base.html#a5c677792d5b9449b49be752165cb2e80" title="vmount::InputBase::\lupdate_impl" alt="" coords="587,575,727,616"/>
+<area shape="rect" id="node24" href="$dd/d8a/classvmount_1_1_input_base.html#aa8fc77212c0bb543c1ba18120b1d1588" title="vmount::InputBase::\lcontrol_data_set_lon_lat" alt="" coords="819,451,981,492"/>
+<area shape="rect" id="node25" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="881,517,919,543"/>
+<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="597,897,717,923"/>
+<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="833,973,967,999"/>
+<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="856,1023,944,1050"/>
+<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="849,1226,951,1253"/>
+<area shape="rect" id="node33" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="831,1074,969,1101"/>
+<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="841,1175,959,1202"/>
+<area shape="rect" id="node36" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="863,669,937,695"/>
+<area shape="rect" id="node38" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="859,618,941,645"/>
+<area shape="rect" id="node41" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="865,1125,935,1151"/>
+<area shape="rect" id="node42" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="859,719,941,746"/>
+<area shape="rect" id="node43" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="841,770,959,797"/>
+<area shape="rect" id="node44" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="857,821,943,847"/>
+<area shape="rect" id="node45" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="843,871,957,898"/>
+<area shape="rect" id="node46" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="843,922,957,949"/>
+<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1047,1168,1189,1209"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1029,618,1207,645"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1047,421,1189,463"/>
+<area shape="rect" id="node40" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1311,429,1385,455"/>
+</map>

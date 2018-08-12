@@ -1,0 +1,10 @@
+<map id="TemperatureCalibration::do_temperature_calibration" name="TemperatureCalibration::do_temperature_calibration">
+<area shape="rect" id="node2" href="$d5/dce/class_temperature_calibration.html#ade82c5dd7e5f8787ffb0fecdfd9ef596" title="Start task. " alt="" coords="240,71,397,112"/>
+<area shape="rect" id="node3" href="$d8/dd0/temperature__calibration_8h.html#a34b406ade258e7d4659d6f4c082e581f" title="start temperature calibration in a new task for one or multiple sensors " alt="" coords="445,78,628,105"/>
+<area shape="rect" id="node4" href="$d4/dc6/structevents_1_1_send_event.html#a0da60ffc84a7d44ec3bdded7cff9c466" title="check for new commands and process them. " alt="" coords="676,71,817,112"/>
+<area shape="rect" id="node5" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="call process_commands() and schedule the next cycle. " alt="" coords="865,71,1007,112"/>
+<area shape="rect" id="node6" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Start background listening for commands. " alt="" coords="1055,5,1196,47"/>
+<area shape="rect" id="node9" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Trampoline for the work queue. " alt="" coords="1055,71,1196,112"/>
+<area shape="rect" id="node7" href="$d4/dc6/structevents_1_1_send_event.html#a716f60497ef234cfb7faead37f08d1df" title="Trampoline for initialisation. " alt="" coords="1244,5,1385,47"/>
+<area shape="rect" id="node8" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Initialize class in the same context as the work queue. " alt="" coords="1433,5,1575,47"/>
+</map>

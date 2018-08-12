@@ -1,0 +1,37 @@
+<map id="build/doxygen/uORB/topics/sensor_combined.h" name="build/doxygen/uORB/topics/sensor_combined.h">
+<area shape="rect" id="node2" href="$d9/d92/camera__trigger_8cpp.html" title="External camera&#45;IMU synchronisation and triggering, and support for camera manipulation using PWM sig..." alt="" coords="5,102,185,143"/>
+<area shape="rect" id="node3" href="$dc/dcb/frsky__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/frsky\l_data.cpp" alt="" coords="210,95,359,151"/>
+<area shape="rect" id="node4" href="$d7/d9b/s_port__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/sPort\l_data.cpp" alt="" coords="384,95,535,151"/>
+<area shape="rect" id="node5" href="$d4/d78/terrain__estimator_8h.html" title="src/lib/terrain_estimation\l/terrain_estimator.h" alt="" coords="559,102,723,143"/>
+<area shape="rect" id="node7" href="$d0/d58/position__estimator__inav__main_8cpp.html" title="src/modules/position\l_estimator_inav/position\l_estimator_inav_main.cpp" alt="" coords="581,199,756,255"/>
+<area shape="rect" id="node8" href="$d6/d52/attitude__estimator__q__main_8cpp.html" title="src/modules/attitude\l_estimator_q/attitude\l_estimator_q_main.cpp" alt="" coords="798,95,955,151"/>
+<area shape="rect" id="node9" href="$d4/d94/baro__calibration_8cpp.html" title="Barometer calibration routine. " alt="" coords="979,102,1145,143"/>
+<area shape="rect" id="node10" href="$d0/d5a/calibration__routines_8cpp.html" title="Calibration routines implementations. " alt="" coords="1169,102,1334,143"/>
+<area shape="rect" id="node11" href="$df/d5e/gyro__calibration_8cpp.html" title="Gyroscope calibration routine. " alt="" coords="1358,102,1523,143"/>
+<area shape="rect" id="node12" href="$de/d14/mag__calibration_8cpp.html" title="Magnetometer calibration routine. " alt="" coords="1547,102,1713,143"/>
+<area shape="rect" id="node13" href="$da/db3/rc__calibration_8cpp.html" title="Remote Control calibration routine. " alt="" coords="1737,102,1902,143"/>
+<area shape="rect" id="node14" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="1927,102,2077,143"/>
+<area shape="rect" id="node15" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="2101,102,2380,143"/>
+<area shape="rect" id="node27" href="$da/dab/mavlink__receiver_8h.html" title="MAVLink receiver thread. " alt="" coords="2404,102,2547,143"/>
+<area shape="rect" id="node30" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="2571,102,2734,143"/>
+<area shape="rect" id="node31" href="$d1/dfb/px4muorb_8cpp.html" title="src/modules/muorb/adsp\l/px4muorb.cpp" alt="" coords="2758,102,2923,143"/>
+<area shape="rect" id="node32" href="$d7/ddc/replay__main_8cpp.html" title="This module reads messages from an ULog file and publishes them. " alt="" coords="2948,102,3080,143"/>
+<area shape="rect" id="node33" href="$dd/d59/voted__sensors__update_8h.html" title="src/modules/sensors\l/voted_sensors_update.h" alt="" coords="3317,102,3485,143"/>
+<area shape="rect" id="node36" href="$d4/da1/qurt_2tests_2muorb_2muorb__test__example_8cpp.html" title="src/platforms/qurt\l/tests/muorb/muorb_test\l_example.cpp" alt="" coords="3509,95,3673,151"/>
+<area shape="rect" id="node6" href="$dc/dac/terrain__estimation_2terrain__estimator_8cpp.html" title="src/lib/terrain_estimation\l/terrain_estimator.cpp" alt="" coords="393,206,557,247"/>
+<area shape="rect" id="node16" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="780,206,1059,247"/>
+<area shape="rect" id="node17" href="$d1/db5/local__position__estimator__main_8cpp.html" title="src/modules/local_position\l_estimator/local_position\l_estimator_main.cpp" alt="" coords="1083,199,1259,255"/>
+<area shape="rect" id="node18" href="$db/d09/local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="1283,206,1470,247"/>
+<area shape="rect" id="node19" href="$d5/d89/flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="1494,206,1681,247"/>
+<area shape="rect" id="node20" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="1705,206,1888,247"/>
+<area shape="rect" id="node21" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="1913,206,2099,247"/>
+<area shape="rect" id="node22" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="2123,199,2302,255"/>
+<area shape="rect" id="node23" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="2326,206,2513,247"/>
+<area shape="rect" id="node24" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="2537,206,2739,247"/>
+<area shape="rect" id="node25" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="2763,206,2958,247"/>
+<area shape="rect" id="node26" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="2983,206,3179,247"/>
+<area shape="rect" id="node28" href="$de/d24/mavlink__main_8cpp.html" title="MAVLink 1.0 protocol implementation. " alt="" coords="3203,206,3345,247"/>
+<area shape="rect" id="node29" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="3369,206,3518,247"/>
+<area shape="rect" id="node34" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="3541,206,3684,247"/>
+<area shape="rect" id="node35" href="$d3/d2f/voted__sensors__update_8cpp.html" title="src/modules/sensors\l/voted_sensors_update.cpp" alt="" coords="3708,206,3891,247"/>
+</map>

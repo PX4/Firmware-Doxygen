@@ -1,0 +1,51 @@
+<map id="orb_priority" name="orb_priority">
+<area shape="rect" id="node2" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a7360066d2a00dc90121e1e90278c4fcd" title="Poll the accelerometer for updated data. " alt="" coords="140,923,340,964"/>
+<area shape="rect" id="node5" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a653f7a53eb74b9af44d3cb5edc60f06b" title="Poll the barometer for updated data. " alt="" coords="140,55,340,96"/>
+<area shape="rect" id="node6" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="170,1140,310,1181"/>
+<area shape="rect" id="node10" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="434,2171,569,2198"/>
+<area shape="rect" id="node11" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a61759b58ec1e2e2e486b04ad8ce32970" title="Poll the gyro for updated data. " alt="" coords="140,319,340,360"/>
+<area shape="rect" id="node12" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="179,1257,301,1283"/>
+<area shape="rect" id="node14" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a0a3d1cf636086965cc10744a90cf324e" title="Poll the magnetometer for updated data. " alt="" coords="140,781,340,823"/>
+<area shape="rect" id="node15" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="180,1089,300,1115"/>
+<area shape="rect" id="node50" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a8bfd6340987229d4da1efdbd07410c3c" title="uORBTest::UnitTest\l::test_multi" alt="" coords="169,1308,311,1349"/>
+<area shape="rect" id="node3" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#ae7348d5ebac84a8ec0277c0c07b611e4" title="read new sensor data " alt="" coords="401,5,601,47"/>
+<area shape="rect" id="node4" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="703,406,799,433"/>
+<area shape="rect" id="node7" href="$d0/db5/accelerometer__calibration_8h.html#ad01f28350f810d176a4ae4bc4e9fa81f" title="do_accel_calibration" alt="" coords="431,2121,571,2147"/>
+<area shape="rect" id="node8" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="663,2146,839,2173"/>
+<area shape="rect" id="node9" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="688,2197,813,2223"/>
+<area shape="rect" id="node13" href="$d4/db8/mag__calibration_8h.html#afc0e4e0619e1f2846eeec88a20aa9b8e" title="do_mag_calibration" alt="" coords="434,2222,569,2249"/>
+<area shape="rect" id="node16" href="$de/dfe/class_v_l53_l_x_x.html#a4305646ce71f83ff3b737bece28620ad" title="VL53LXX::collect" alt="" coords="440,1063,563,1090"/>
+<area shape="rect" id="node17" href="$d1/d58/class_g_p_s.html#afa3e0c9d5dcf29eb89f8ede581298a49" title="Publish the gps struct. " alt="" coords="452,1114,551,1141"/>
+<area shape="rect" id="node18" href="$d1/d58/class_g_p_s.html#a88adb8156bd8e9611ad305313d9c07a8" title="Publish the satellite info. " alt="" coords="417,1165,585,1191"/>
+<area shape="rect" id="node19" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="444,1215,559,1242"/>
+<area shape="rect" id="node20" href="$d1/dde/class_p_x4_i_o.html#a01240f13dfb3f9f51095066e25da022e" title="Fetch and publish raw RC input data. " alt="" coords="415,1266,588,1293"/>
+<area shape="rect" id="node21" href="$d1/dde/class_p_x4_i_o.html#a38084b037d73965204fa3d339f2357da" title="Fetch and publish the PWM servo outputs. " alt="" coords="420,1317,583,1359"/>
+<area shape="rect" id="node22" href="$d4/d81/class_q_shell.html#a45dc544f18c3f1e1f45f6bbd5b09e0b6" title="QShell::_send_cmd" alt="" coords="433,1383,569,1410"/>
+<area shape="rect" id="node23" href="$d4/d81/class_q_shell.html#ae4bc293e455e497596f50688e2f91d0a" title="QShell::main" alt="" coords="453,1434,550,1461"/>
+<area shape="rect" id="node24" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="446,1485,557,1511"/>
+<area shape="rect" id="node25" href="$d2/d86/classvmount_1_1_output_base.html#a24b79fb099236f19d8d3c660601c52b9" title="Publish _angle_outputs as a mount_orientation message. " alt="" coords="430,1536,573,1577"/>
+<area shape="rect" id="node26" href="$dc/de6/classvmount_1_1_output_r_c.html#afcae38c76baaf7f63d2eccc3ff8dd22e" title="Update the output. " alt="" coords="412,1602,591,1629"/>
+<area shape="rect" id="node27" href="$db/d2b/class_attitude_estimator_q.html#a8e0bb94a5396b03d79a39aaee77cd142" title="AttitudeEstimatorQ\l::task_main" alt="" coords="435,1653,568,1695"/>
+<area shape="rect" id="node28" href="$da/d31/class_camera_feedback.html#a232b807d193a28e11fd2c73e35f7440a" title="CameraFeedback::task_main" alt="" coords="405,1719,598,1746"/>
+<area shape="rect" id="node29" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="713,1821,788,1847"/>
+<area shape="rect" id="node30" href="$de/d9c/class_ekf2.html#a8c609a205d80a9dc10dcb14ffe09554c" title="Ekf2::publish_attitude" alt="" coords="427,1821,575,1847"/>
+<area shape="rect" id="node31" href="$de/d9c/class_ekf2.html#a7761aa3f0886f2119c302602cc18e7b8" title="Ekf2::publish_wind\l_estimate" alt="" coords="435,1872,567,1913"/>
+<area shape="rect" id="node32" href="$d3/d25/class_fixedwing_attitude_control.html#a9a2fe5a46e51b61b291b93109b6c22f4" title="FixedwingAttitudeControl::run" alt="" coords="404,1938,599,1965"/>
+<area shape="rect" id="node33" href="$d8/d1f/classland__detector_1_1_land_detector.html#a7cf78d57f14f48da976c72fe3c5538a8" title="land_detector::LandDetector\l::_cycle" alt="" coords="408,1989,595,2031"/>
+<area shape="rect" id="node34" href="$da/d89/class_mavlink_receiver.html#a89e6a2902d4cca5901fe90fd0a800bbe" title="MavlinkReceiver::handle\l_message_attitude_quaternion_cov" alt="" coords="388,2055,615,2096"/>
+<area shape="rect" id="node35" href="$da/d89/class_mavlink_receiver.html#a37666f55ad6181458bca82317caf1459" title="MavlinkReceiver::handle\l_message_local_position\l_ned_cov" alt="" coords="417,122,585,178"/>
+<area shape="rect" id="node36" href="$da/d89/class_mavlink_receiver.html#a7c6f7fda759616cd6e2c512ada810513" title="MavlinkReceiver::handle\l_message_vision_position\l_estimate" alt="" coords="414,202,589,258"/>
+<area shape="rect" id="node37" href="$da/d89/class_mavlink_receiver.html#af99bf01b6ae13dab05c36c0125e179bc" title="MavlinkReceiver::handle\l_message_manual_control" alt="" coords="413,281,590,323"/>
+<area shape="rect" id="node38" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="402,347,601,374"/>
+<area shape="rect" id="node39" href="$d0/daf/classsensors_1_1_r_c_update.html#a401c7a5b7279a0f72015662e28df72a7" title="Gather and publish RC input data. " alt="" coords="428,399,575,440"/>
+<area shape="rect" id="node40" href="$d1/d44/class_sensors.html#af7a783c126015ac22eb5de001d6c6680" title="Poll the differential pressure sensor for updated data. " alt="" coords="424,713,579,739"/>
+<area shape="rect" id="node41" href="$d1/d44/class_sensors.html#a6db3d73c358cb42faa68117f95eaa448" title="Poll the ADC and update readings to suit. " alt="" coords="438,1013,565,1039"/>
+<area shape="rect" id="node42" href="$dd/dd1/class_simulator.html#a1a78752a0e42cc7012f4bcd474795792" title="Simulator::handle_message" alt="" coords="410,465,593,491"/>
+<area shape="rect" id="node43" href="$dd/dd1/class_simulator.html#af365a1b32abab3f65f16154d17cad1de" title="Simulator::publish\l_sensor_topics" alt="" coords="438,516,565,557"/>
+<area shape="rect" id="node44" href="$dd/dd1/class_simulator.html#a971ee42d39c49e8d8f2b8bf203656c00" title="Simulator::publish\l_flow_topic" alt="" coords="438,581,565,623"/>
+<area shape="rect" id="node45" href="$dd/dd1/class_simulator.html#ad4fcd74778ae05544c8b0cb8d57b4c38" title="Simulator::publish\l_ev_topic" alt="" coords="438,647,565,688"/>
+<area shape="rect" id="node46" href="$dd/dd1/class_simulator.html#aaefb2e4a163f910d791f836915b668bc" title="Simulator::publish\l_distance_topic" alt="" coords="438,764,565,805"/>
+<area shape="rect" id="node47" href="$d3/dff/class_uavcan_gnss_bridge.html#a4cd3575e4ddf03e6e69155aa6673d0c3" title="UavcanGnssBridge::process_fixx" alt="" coords="393,830,610,857"/>
+<area shape="rect" id="node48" href="$de/df6/class_wind_estimator_module.html#a0f33419010318d9c7f836538e489d102" title="WindEstimatorModule\l::cycle" alt="" coords="426,881,577,923"/>
+<area shape="rect" id="node49" href="$d4/d83/class_df_ltc2946_wrapper.html#aaabb2a34a98fbeb166871a08a046f8c3" title="DfLtc2946Wrapper::\l_publish" alt="" coords="432,947,571,988"/>
+</map>

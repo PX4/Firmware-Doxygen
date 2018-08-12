@@ -1,0 +1,51 @@
+<map id="RCInput::cycle" name="RCInput::cycle">
+<area shape="rect" id="node2" href="$d9/dd2/crsf_8cpp.html#a86b766a5b7810da79c5a9ac85e7df2be" title="Configure an UART port to be used for CRSF. " alt="" coords="209,5,296,32"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="857,319,895,345"/>
+<area shape="rect" id="node5" href="$d9/dd2/crsf_8cpp.html#a19b978da0b528ac559d1b75fc0abf80a" title="Parse the CRSF protocol and extract RC channel data. " alt="" coords="211,57,294,84"/>
+<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="164,572,341,599"/>
+<area shape="rect" id="node10" href="$d6/daa/sbus_8cpp.html#a6aa55bbe64298bb8bf02cb437b0fae23" title="Parse serial bytes on the S.BUS bus. " alt="" coords="631,584,723,611"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="813,584,939,611"/>
+<area shape="rect" id="node12" href="$d3/d37/dsm_8cpp.html#ab38619ebbecd716b6e0757356d116039" title="dsm_config" alt="" coords="420,673,509,700"/>
+<area shape="rect" id="node14" href="$d3/d37/dsm_8cpp.html#a6f7fa1d6f81b4f1d8f9c97b0264664ad" title="dsm_parse" alt="" coords="209,724,296,751"/>
+<area shape="rect" id="node16" href="$d4/d39/class_r_c_input.html#ae3c75056fd62f59236fe5f28dcf7ffd8" title="RCInput::fill_rc_in" alt="" coords="189,179,316,205"/>
+<area shape="rect" id="node17" href="$d4/d39/class_r_c_input.html#ab21ef197b0b6db04a77e6a7c568f5845" title="RCInput::set_rc_scan\l_state" alt="" coords="389,101,540,142"/>
+<area shape="rect" id="node18" href="$d4/d39/class_r_c_input.html#aaf11f9f8c1face7a3b89c2021e5c0e18" title="RCInput::rc_io_invert" alt="" coords="391,217,538,244"/>
+<area shape="rect" id="node19" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="423,775,506,801"/>
+<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="427,825,502,852"/>
+<area shape="rect" id="node24" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="193,1028,313,1055"/>
+<area shape="rect" id="node38" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="211,1079,294,1105"/>
+<area shape="rect" id="node39" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="211,1129,294,1156"/>
+<area shape="rect" id="node40" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="217,1180,289,1207"/>
+<area shape="rect" id="node41" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="229,1231,276,1257"/>
+<area shape="rect" id="node42" href="$d6/daa/sbus_8cpp.html#a84c2f61a727a48cff2cec629cdde176c" title="sbus_parse" alt="" coords="208,369,297,396"/>
+<area shape="rect" id="node44" href="$df/d25/st24_8cpp.html#a5315a850d1fb29c1c92b40da9cc27f7d" title="Decoder for ST24 protocol. " alt="" coords="205,319,301,345"/>
+<area shape="rect" id="node46" href="$d4/dd7/sumd_8cpp.html#ab8959b0896a37eacc9df7b3e3ccfddb3" title="Decoder for SUMD/SUMH protocol. " alt="" coords="201,1281,304,1308"/>
+<area shape="rect" id="node49" href="$d0/da3/class_c_r_s_f_telemetry.html#a8cd227cc2e9f118ddf0d0bb1cb14db2b" title="Send telemetry data. " alt="" coords="171,1332,335,1359"/>
+<area shape="rect" id="node50" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="223,1383,283,1409"/>
+<area shape="rect" id="node3" href="$d9/dd2/crsf_8cpp.html#af931ac8e000aa71e588a80b74f98cd00" title="Convert from RC to PWM value. " alt="" coords="599,49,754,76"/>
+<area shape="rect" id="node6" href="$d9/dd2/crsf_8cpp.html#a6f0ac810cf076d93d2cca7bd8f3bc9d3" title="parse the current crsf_frame buffer " alt="" coords="403,49,526,76"/>
+<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#a101c81940668de1d5cb2d7c9997a6adc" title="RCInput::RCInput" alt="" coords="401,521,529,548"/>
+<area shape="rect" id="node9" href="$d4/d39/class_r_c_input.html#ab2ef0fb044a6760fea5f02a90b0d533c" title="RCInput::init" alt="" coords="417,572,513,599"/>
+<area shape="rect" id="node13" href="$d3/d37/dsm_8cpp.html#aaf6292c506d3f3601cfa8f34199023b6" title="Attempt to guess if receiving 10 or 11 bit channel values. " alt="" coords="610,717,743,744"/>
+<area shape="rect" id="node15" href="$d3/d37/dsm_8cpp.html#a3a63475bf3d8b4ac19ea396d834312f3" title="Decode the entire dsm frame (all contained channels) " alt="" coords="417,724,513,751"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="605,1122,748,1163"/>
+<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="605,811,748,853"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="588,903,765,929"/>
+<area shape="rect" id="node25" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="397,1180,532,1207"/>
+<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="423,876,506,903"/>
+<area shape="rect" id="node27" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="427,927,502,953"/>
+<area shape="rect" id="node28" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="423,1231,506,1257"/>
+<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="407,1281,522,1308"/>
+<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="405,1332,524,1359"/>
+<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="421,1383,508,1409"/>
+<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="421,1433,509,1460"/>
+<area shape="rect" id="node33" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="407,1484,522,1511"/>
+<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="430,977,499,1004"/>
+<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="413,1028,516,1055"/>
+<area shape="rect" id="node36" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="395,1079,534,1105"/>
+<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="406,1129,523,1156"/>
+<area shape="rect" id="node43" href="$d6/daa/sbus_8cpp.html#a4c5eb104a13c14000bd0f04be1fe2e47" title="sbus_decode" alt="" coords="627,369,726,396"/>
+<area shape="rect" id="node45" href="$df/d25/st24_8cpp.html#a40cdf7197b8430531c99d6397f3b8298" title="CRC8 implementation for ST24 protocol. " alt="" coords="397,268,533,295"/>
+<area shape="rect" id="node47" href="$d4/dd7/sumd_8cpp.html#a08cb8bc6ad5c61a437546cd852b2147c" title="CRC16 implementation for SUMD protocol. " alt="" coords="418,1535,511,1561"/>
+<area shape="rect" id="node48" href="$d4/dd7/sumd_8cpp.html#a86ed4655fbd7b636eb18585f55c11c5e" title="CRC8 implementation for SUMH protocol. " alt="" coords="421,1585,508,1612"/>
+</map>

@@ -1,0 +1,27 @@
+var structestimator__status__s =
+[
+    [ "_padding0", "d3/dca/structestimator__status__s.html#af80554e5bdd97ace9dbd2ccbfa3672da", null ],
+    [ "beta_test_ratio", "d3/dca/structestimator__status__s.html#aa6016a1511d39ba2ba13aabe7f59b99a", null ],
+    [ "control_mode_flags", "d3/dca/structestimator__status__s.html#a31af1e529d73e833524180df7e2e5945", null ],
+    [ "covariances", "d3/dca/structestimator__status__s.html#ae58fb5d20e3fc14ad39f40d3839bd761", null ],
+    [ "filter_fault_flags", "d3/dca/structestimator__status__s.html#a583bf8dc32fa367573d21d75239609b4", null ],
+    [ "gps_check_fail_flags", "d3/dca/structestimator__status__s.html#a3489f76daa2523fd5a70909e51c4910d", null ],
+    [ "hagl_test_ratio", "d3/dca/structestimator__status__s.html#a174253cd37b5b0dc245ce89e36222403", null ],
+    [ "health_flags", "d3/dca/structestimator__status__s.html#a577b32890fb8e660b890eae894afd103", null ],
+    [ "hgt_test_ratio", "d3/dca/structestimator__status__s.html#abcee428713d49aa9abce1e9399b2d1c4", null ],
+    [ "innovation_check_flags", "d3/dca/structestimator__status__s.html#a9d1b7e0a300792f6bab356e712b3b6c9", null ],
+    [ "mag_test_ratio", "d3/dca/structestimator__status__s.html#a408298d4abadc7c8c951a9af50fab59e", null ],
+    [ "n_states", "d3/dca/structestimator__status__s.html#abce571708e18945aebd1159d86954a99", null ],
+    [ "pos_horiz_accuracy", "d3/dca/structestimator__status__s.html#a9b9895cf7602dd70c48e46598a33fb3e", null ],
+    [ "pos_test_ratio", "d3/dca/structestimator__status__s.html#aa95b821a48b7903642e86c6299a2490b", null ],
+    [ "pos_vert_accuracy", "d3/dca/structestimator__status__s.html#a7667371adbb3aa46c2217d36d2062208", null ],
+    [ "pre_flt_fail", "d3/dca/structestimator__status__s.html#a4b95923e4e2794f93d29d4b5823da658", null ],
+    [ "solution_status_flags", "d3/dca/structestimator__status__s.html#aba493b93b1111eaa4736e09a4fbab890", null ],
+    [ "states", "d3/dca/structestimator__status__s.html#aacd5e5cda3b785d3ece843295de70a0f", null ],
+    [ "tas_test_ratio", "d3/dca/structestimator__status__s.html#aeba74cd6e67a4e0395283a2da85546f3", null ],
+    [ "time_slip", "d3/dca/structestimator__status__s.html#a720950be8798391e5d5514db1e5ab49c", null ],
+    [ "timeout_flags", "d3/dca/structestimator__status__s.html#a4a160ce6e27a30dd69a879d2328c472c", null ],
+    [ "timestamp", "d3/dca/structestimator__status__s.html#ace42b8535b4760ae03f6968a05bbb92a", null ],
+    [ "vel_test_ratio", "d3/dca/structestimator__status__s.html#a693f3aa08bd3d11a4bbc7f805ea0d737", null ],
+    [ "vibe", "d3/dca/structestimator__status__s.html#af3e1bbcd9e96214084777e5b00b0e71f", null ]
+];

@@ -1,0 +1,51 @@
+<map id="DataLinkLoss::on_active" name="DataLinkLoss::on_active">
+<area shape="rect" id="node2" href="$d9/d3a/class_data_link_loss.html#a20462b988a5b1115a38caedbbdc071cc" title="Move to next DLL item. " alt="" coords="221,151,399,178"/>
+<area shape="rect" id="node8" href="$da/d7b/class_mission_block.html#a6ecd406f400032b5ea48176bb884eb66" title="Check if mission item has been reached. " alt="" coords="451,1280,622,1321"/>
+<area shape="rect" id="node45" href="$d9/d3a/class_data_link_loss.html#aa14d097c04116795681fb2362431c259" title="Set the DLL item. " alt="" coords="220,537,400,563"/>
+<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="459,5,615,47"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a195ae35247b8133508746e9cbb4ba287" title="Navigator::get_mission\l_result" alt="" coords="459,173,615,215"/>
+<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="1119,303,1273,330"/>
+<area shape="rect" id="node6" href="$da/d7b/class_mission_block.html#af5893cfacfaf5d2b6244963db4b78cc4" title="Reset all reached flags. " alt="" coords="457,239,616,280"/>
+<area shape="rect" id="node7" href="$d0/df9/class_navigator.html#a7ab887dfa8f6543d42ad6564eadd9924" title="Navigator::set_mission\l_result_updated" alt="" coords="903,157,1059,199"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="691,689,826,731"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="696,1119,821,1146"/>
+<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="687,807,830,848"/>
+<area shape="rect" id="node12" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="684,1171,833,1212"/>
+<area shape="rect" id="node13" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="686,559,831,600"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="681,872,837,913"/>
+<area shape="rect" id="node15" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1177,814,1215,841"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a99ffced3ab485575b385454433aa105f" title="Get the altitude acceptance radius. " alt="" coords="905,1120,1058,1161"/>
+<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#aefb68d38e1a80fd6bdc6c810f4f842d1" title="Navigator::get_loiter\l_radius" alt="" coords="689,624,828,665"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="892,865,1071,907"/>
+<area shape="rect" id="node28" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="675,937,842,979"/>
+<area shape="rect" id="node29" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="689,1505,828,1547"/>
+<area shape="rect" id="node30" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="931,1479,1032,1506"/>
+<area shape="rect" id="node31" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="926,1702,1037,1729"/>
+<area shape="rect" id="node33" href="$d0/df9/class_navigator.html#af681e085bd08b6f8bc6500d2b1658565" title="Navigator::get_local\l_position" alt="" coords="689,1571,828,1612"/>
+<area shape="rect" id="node34" href="$d0/df9/class_navigator.html#a2cd0a80c548612fe0bb42036f75e7c28" title="Navigator::get_vtol\l_back_trans_deceleration" alt="" coords="673,1636,844,1677"/>
+<area shape="rect" id="node35" href="$d0/df9/class_navigator.html#a1b5e873902c0edaa60e866334f051be8" title="Navigator::get_vtol\l_reverse_delay" alt="" coords="693,2015,825,2056"/>
+<area shape="rect" id="node37" href="$d0/df9/class_navigator.html#a00b032f282524af141970cd4a91d1c75" title="Navigator::get_yaw\l_threshold" alt="" coords="691,1753,826,1795"/>
+<area shape="rect" id="node38" href="$d0/df9/class_navigator.html#a6a03968e28dcb0f2f5f87e77f9f93b66" title="Navigator::get_yaw\l_timeout" alt="" coords="691,1819,826,1860"/>
+<area shape="rect" id="node39" href="$d0/df9/class_navigator.html#a2eb2d134cd59a4266f854075c9f2a8b9" title="Navigator::set_mission\l_failure" alt="" coords="681,1003,837,1044"/>
+<area shape="rect" id="node40" href="$da/d7b/class_mission_block.html#aa96269ba0a47a789df1d2c7046c0a1dd" title="MissionBlock::get_time\l_inside" alt="" coords="679,1884,838,1925"/>
+<area shape="rect" id="node41" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="685,1440,832,1481"/>
+<area shape="rect" id="node42" href="$d7/d09/geo_8cpp.html#a8cf2ed6d2c6d6ef12853085621d50c24" title="Creates a waypoint from given waypoint, distance and bearing see http://www.movable&#45;type.co.uk/scripts/latlong.html. " alt="" coords="679,1949,838,1991"/>
+<area shape="rect" id="node17" href="$df/d08/commander__helper_8cpp.html#a90a80fd140e5e1feba80ba0c5ef25c7c" title="is_rotary_wing" alt="" coords="1143,1127,1249,1154"/>
+<area shape="rect" id="node18" href="$df/d08/commander__helper_8cpp.html#a11b38c975bd7707de957c1a32b45297a" title="is_multirotor" alt="" coords="1321,1127,1415,1154"/>
+<area shape="rect" id="node20" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="906,683,1057,724"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#aeac4bfdde502928eb5b2ac03f8de5615" title="Get the cruising speed. " alt="" coords="903,435,1059,476"/>
+<area shape="rect" id="node24" href="$d0/df9/class_navigator.html#a74b7532beec44c110e8dd61bbeaa5e53" title="Set the cruising speed. " alt="" coords="903,748,1059,789"/>
+<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#a118e53f014f6d15a14d4a5188eee47c5" title="Reset cruising speed to default values. " alt="" coords="898,565,1065,607"/>
+<area shape="rect" id="node26" href="$d0/df9/class_navigator.html#aadb6e4e2fc72366317916bf4c0672d28" title="Set triplets to invalid. " alt="" coords="901,631,1062,658"/>
+<area shape="rect" id="node27" href="$d0/df9/class_navigator.html#a430adf0c9a74dbeff4ff33f1c34c1117" title="Get the target throttle. " alt="" coords="903,500,1059,541"/>
+<area shape="rect" id="node23" href="$d0/df9/class_navigator.html#a11e8849cec37173aeec7b8dce2a17bc0" title="Navigator::is_planned\l_mission" alt="" coords="1122,435,1270,476"/>
+<area shape="rect" id="node32" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="1141,1829,1251,1855"/>
+<area shape="rect" id="node36" href="$d0/df9/class_navigator.html#ab1cfa04924d74c601b42920d6cdce27b" title="Navigator::force_vtol" alt="" coords="910,2022,1053,2049"/>
+<area shape="rect" id="node43" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="929,1906,1034,1933"/>
+<area shape="rect" id="node44" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="matrix::wrap_2pi" alt="" coords="922,1957,1041,1983"/>
+<area shape="rect" id="node46" href="$d0/df9/class_navigator.html#a2b40f627a15cf45aa69717141c4b2328" title="Setters. " alt="" coords="471,689,603,731"/>
+<area shape="rect" id="node47" href="$da/d7b/class_mission_block.html#abf7e746ff80d9c2a1df6dad353f07eeb" title="Convert a mission item to a position setpoint. " alt="" coords="448,471,625,512"/>
+<area shape="rect" id="node48" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="692,325,825,367"/>
+<area shape="rect" id="node49" href="$d0/df9/class_navigator.html#a02be59300eb6d37c39bd4aa1b948d516" title="Navigator::get_loiter\l_min_alt" alt="" coords="689,391,828,432"/>
+<area shape="rect" id="node50" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="717,457,801,483"/>
+</map>

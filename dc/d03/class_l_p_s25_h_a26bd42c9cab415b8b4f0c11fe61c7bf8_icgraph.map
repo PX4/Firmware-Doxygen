@@ -1,0 +1,15 @@
+<map id="LPS25H::write_reg" name="LPS25H::write_reg">
+<area shape="rect" id="node2" href="$dc/d03/class_l_p_s25_h.html#ac56100e60240e8ec438c571c7452c682" title="Issue a measurement command. " alt="" coords="185,79,315,106"/>
+<area shape="rect" id="node13" href="$dc/d03/class_l_p_s25_h.html#a983293e14c580ec4c457d2645d37932e" title="Reset the device. " alt="" coords="196,28,304,55"/>
+<area shape="rect" id="node3" href="$dc/d03/class_l_p_s25_h.html#a9949c12a0c7431a6cd3ffd5c28324592" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="363,79,473,106"/>
+<area shape="rect" id="node12" href="$dc/d03/class_l_p_s25_h.html#aa27d6889d10944e32adbd715bd3f8a38" title="LPS25H::read" alt="" coords="558,130,662,156"/>
+<area shape="rect" id="node4" href="$dc/d03/class_l_p_s25_h.html#a92dfa3fb19111ed9dbdc2915f86ccca4" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="521,79,699,106"/>
+<area shape="rect" id="node5" href="$dc/d03/class_l_p_s25_h.html#a17a24c4a29a0821ad17794ee884dcfd9" title="Initialise the automatic measurement state machine and start it. " alt="" coords="747,35,852,62"/>
+<area shape="rect" id="node6" href="$dc/d03/class_l_p_s25_h.html#a9ed2ed02a0e076781b828049852a67ef" title="LPS25H::ioctl" alt="" coords="900,35,1003,62"/>
+<area shape="rect" id="node7" href="$d8/d04/namespacelps25h.html#a3b32f17e285a77349a84f2c06268f1c5" title="Reset the driver. " alt="" coords="1221,60,1319,87"/>
+<area shape="rect" id="node9" href="$d8/d04/namespacelps25h.html#a2b235fc73bc7afc3b81791a2e4775e56" title="start driver for a specific bus option " alt="" coords="1051,10,1173,36"/>
+<area shape="rect" id="node11" href="$d8/d04/namespacelps25h.html#accc089fb6426d2bed21ea7513ce0b70f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1067,111,1157,138"/>
+<area shape="rect" id="node8" href="$d5/d75/lps25h_8cpp.html#a9eee50e01fdaf781035a3d9c34d8f66b" title="lps25h_main" alt="" coords="1367,60,1461,87"/>
+<area shape="rect" id="node10" href="$d8/d04/namespacelps25h.html#a973255af2396e30f1a9000cd7ee57aea" title="Start the driver. " alt="" coords="1223,10,1317,36"/>
+<area shape="rect" id="node14" href="$dc/d03/class_l_p_s25_h.html#a5d624b7267cda44c4e9fd8f5656c1972" title="Initialise the driver and make it ready for use. " alt="" coords="370,28,466,55"/>
+</map>

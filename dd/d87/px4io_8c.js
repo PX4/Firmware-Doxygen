@@ -1,0 +1,26 @@
+var px4io_8c =
+[
+    [ "APP_LOAD_ADDRESS", "dd/d87/px4io_8c.html#afff02e2ec9814e8c8d257f3db045fcab", null ],
+    [ "APP_SIZE_MAX", "dd/d87/px4io_8c.html#aac463e9ed8001726c79f9dd09023028a", null ],
+    [ "DEBUG", "dd/d87/px4io_8c.html#ad72dbcf6d0153db1b8d8a58001feed83", null ],
+    [ "NUM_MSG", "dd/d87/px4io_8c.html#accaecfff6769aa8ea7c1707cbaffeed4", null ],
+    [ "calculate_fw_crc", "dd/d87/px4io_8c.html#a24a82e1f711b1cc0384cb4956018c779", null ],
+    [ "check_reboot", "dd/d87/px4io_8c.html#a85a11dcbfa69bcd044a15054bc1c1bd4", null ],
+    [ "heartbeat_blink", "dd/d87/px4io_8c.html#af73613b49b20605ed407450b98b38861", null ],
+    [ "isr_debug", "dd/d87/px4io_8c.html#a1bfce2733e8cd310c4ad79ae0304f583", null ],
+    [ "ring_blink", "dd/d87/px4io_8c.html#a44cf7c0b9f03760522c40abeae2b611f", null ],
+    [ "schedule_reboot", "dd/d87/px4io_8c.html#adb9f3a15fec5538dec2fa1c72cd65a8b", null ],
+    [ "show_debug_messages", "dd/d87/px4io_8c.html#a3fb17b756e61958fcf3c71d3e32512ca", null ],
+    [ "update_mem_usage", "dd/d87/px4io_8c.html#a7cd4035b286f377add1d0731de60e2d6", null ],
+    [ "user_start", "dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626", null ],
+    [ "dt", "dd/d87/px4io_8c.html#a778e38aa889751afffa2dea6b803e67a", null ],
+    [ "last_msg_counter", "dd/d87/px4io_8c.html#a15108148b828b70b30685b36a59b8a5a", null ],
+    [ "msg", "dd/d87/px4io_8c.html#abaa327c5cc17da179a4bfea0de695fbc", null ],
+    [ "msg_counter", "dd/d87/px4io_8c.html#a306f1d5395ce1a5f5fb95c25cfc2ba0c", null ],
+    [ "msg_next_in", "dd/d87/px4io_8c.html#a95c9c4fc3b0bba8ca95116fb1cc49bd2", null ],
+    [ "msg_next_out", "dd/d87/px4io_8c.html#af6314208463f20ed0bb4c39a618f6b81", null ],
+    [ "pwm_limit", "dd/d87/px4io_8c.html#a3dbadd8f93f7d27611c1b9d38bd713ab", null ],
+    [ "reboot_time", "dd/d87/px4io_8c.html#aa0636b186dbcb26a2c90ab5b4c275889", null ],
+    [ "serial_dma_call", "dd/d87/px4io_8c.html#a175528061aeb04cece8730ccce085fe0", null ],
+    [ "system_state", "dd/d87/px4io_8c.html#a75dc2223e47e6a1bd7509f3d074fbf1a", null ]
+];

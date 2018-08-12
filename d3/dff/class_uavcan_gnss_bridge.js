@@ -1,0 +1,28 @@
+var class_uavcan_gnss_bridge =
+[
+    [ "Fix2CbBinder", "d3/dff/class_uavcan_gnss_bridge.html#ad56bef946b85f23a7ae1449ffc2b0a2b", null ],
+    [ "FixCbBinder", "d3/dff/class_uavcan_gnss_bridge.html#a69dfefcd8ecefa5226e16206ef96ba26", null ],
+    [ "TimerCbBinder", "d3/dff/class_uavcan_gnss_bridge.html#ae84d8a947518560c13d7f147946cef0a", null ],
+    [ "UavcanGnssBridge", "d3/dff/class_uavcan_gnss_bridge.html#a6aaa6574fcb0c30c7b57e718ab92370c", null ],
+    [ "~UavcanGnssBridge", "d3/dff/class_uavcan_gnss_bridge.html#a502ca9a6c61faadd4f8d4208b1a2b679", null ],
+    [ "broadcast_from_orb", "d3/dff/class_uavcan_gnss_bridge.html#aa60fadb3d81a859baf84bdb92f01863e", null ],
+    [ "get_name", "d3/dff/class_uavcan_gnss_bridge.html#a5788adcc04d49ed8c47d7ed3e4d21b30", null ],
+    [ "get_num_redundant_channels", "d3/dff/class_uavcan_gnss_bridge.html#ab50890d1883d8c99512d93962f236985", null ],
+    [ "gnss_fix2_sub_cb", "d3/dff/class_uavcan_gnss_bridge.html#a55aaa3c48f119f9d00eb8ccbac02eee2", null ],
+    [ "gnss_fix_sub_cb", "d3/dff/class_uavcan_gnss_bridge.html#ae6b976cade652ec4e2810eaa60d74484", null ],
+    [ "init", "d3/dff/class_uavcan_gnss_bridge.html#a9007597bb0f3e4d1c04d8be8cd5f5cbc", null ],
+    [ "print_status", "d3/dff/class_uavcan_gnss_bridge.html#aa46a1b5668523b2195cf27216a4088f2", null ],
+    [ "process_fixx", "d3/dff/class_uavcan_gnss_bridge.html#a4cd3575e4ddf03e6e69155aa6673d0c3", null ],
+    [ "_node", "d3/dff/class_uavcan_gnss_bridge.html#aac89dfc0dc22547b662a2a7ec40f7c1b", null ],
+    [ "_old_fix_subscriber_active", "d3/dff/class_uavcan_gnss_bridge.html#a4abfacde7ae7299147fa98e5c70456e5", null ],
+    [ "_orb_sub_gnss", "d3/dff/class_uavcan_gnss_bridge.html#a59bcbd1910454e687b6ae328d2fb7ef0", null ],
+    [ "_orb_to_uavcan_pub_timer", "d3/dff/class_uavcan_gnss_bridge.html#a76b6449c32f114d29344fdb1105e2f4f", null ],
+    [ "_pub_fix2", "d3/dff/class_uavcan_gnss_bridge.html#aba527f7f538729db93515642e41b245d", null ],
+    [ "_receiver_node_id", "d3/dff/class_uavcan_gnss_bridge.html#a0a2465a608ae1f3224a7effc38458030", null ],
+    [ "_report_pub", "d3/dff/class_uavcan_gnss_bridge.html#a06ef095c2047bfc0b93bc6909330d6f7", null ],
+    [ "_sub_fix", "d3/dff/class_uavcan_gnss_bridge.html#aa574f4c3b0488b1c8554248ea109c6fc", null ],
+    [ "_sub_fix2", "d3/dff/class_uavcan_gnss_bridge.html#a3b61db8ea0adb642981a614ee1659483", null ],
+    [ "_system_clock_set", "d3/dff/class_uavcan_gnss_bridge.html#ad3b2046663d104668d9ad16df8034139", null ],
+    [ "NAME", "d3/dff/class_uavcan_gnss_bridge.html#a0d20bf92f960e1cdc9f1d45095b17018", null ],
+    [ "ORB_TO_UAVCAN_FREQUENCY_HZ", "d3/dff/class_uavcan_gnss_bridge.html#ad44a8de692be80b572102ef38615b546", null ]
+];

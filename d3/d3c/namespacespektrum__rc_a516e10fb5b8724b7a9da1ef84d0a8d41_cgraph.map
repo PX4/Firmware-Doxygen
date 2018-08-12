@@ -1,0 +1,51 @@
+<map id="spektrum_rc::start" name="spektrum_rc::start">
+<area shape="rect" id="node2" href="$de/d59/class_b_m_a180.html#a9d30b289e69a6b9920a5ebe0a6b55901" title="BMA180::BMA180" alt="" coords="218,5,349,32"/>
+<area shape="rect" id="node3" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac4ddc0aa6a774b85ddd570cc708fe42b" title="DfBebopBusWrapper::\lDfBebopBusWrapper" alt="" coords="207,57,360,98"/>
+<area shape="rect" id="node4" href="$d1/d27/class_df_bebop_range_finder_wrapper.html#a9d726ea8c1ad5f16fece65ef1fa042f8" title="DfBebopRangeFinderWrapper\l::DfBebopRangeFinderWrapper" alt="" coords="181,122,385,163"/>
+<area shape="rect" id="node5" href="$db/de6/class_df_bmp280_wrapper.html#a93dd762c38ba28245cb1252a5cafa02e" title="DfBmp280Wrapper::DfBmp280\lWrapper" alt="" coords="182,187,385,229"/>
+<area shape="rect" id="node6" href="$d8/d40/class_df_i_s_l29501_wrapper.html#af50c275bd5230ba3850b006fd5a9026c" title="DfISL29501Wrapper::\lDfISL29501Wrapper" alt="" coords="209,253,357,294"/>
+<area shape="rect" id="node7" href="$d4/d83/class_df_ltc2946_wrapper.html#a90dc6bfac0293cb425ca573084e0a25a" title="DfLtc2946Wrapper::DfLtc2946\lWrapper" alt="" coords="184,318,383,359"/>
+<area shape="rect" id="node10" href="$d9/dec/class_df_m_s5607_wrapper.html#a734e0370739a1831cbd80ae7644f3d0a" title="DfMS5607Wrapper::DfMS5607\lWrapper" alt="" coords="182,1055,385,1097"/>
+<area shape="rect" id="node11" href="$d4/d4a/class_df_m_s5611_wrapper.html#af80a344746af57446a15bf9d183cb1f5" title="DfMS5611Wrapper::DfMS5611\lWrapper" alt="" coords="182,1121,385,1162"/>
+<area shape="rect" id="node12" href="$dc/d68/class_h_c___s_r04.html#ac7fdad9e052f9b1c19300d633b7027c8" title="HC_SR04::HC_SR04" alt="" coords="208,1187,359,1213"/>
+<area shape="rect" id="node13" href="$dc/d68/class_h_c___s_r04.html#a2c1948c8e753e7c08d29c3c3ad9672ea" title="Initialise the driver and make it ready for use. " alt="" coords="230,552,337,579"/>
+<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="480,493,540,520"/>
+<area shape="rect" id="node18" href="$de/d59/class_b_m_a180.html#ac6cfba124dbbb2f5d14dac886f70d0b5" title="BMA180::init" alt="" coords="235,953,332,980"/>
+<area shape="rect" id="node26" href="$dc/d68/class_h_c___s_r04.html#a12d1e47cbcf13dbae47db83d61b63e75" title="Perform an ioctl operation on the device. " alt="" coords="226,1237,341,1264"/>
+<area shape="rect" id="node28" href="$de/d59/class_b_m_a180.html#a13bfe5adf11084a14224902ce3e57062" title="BMA180::ioctl" alt="" coords="231,1004,335,1031"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="214,1288,353,1315"/>
+<area shape="rect" id="node30" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="434,1364,586,1391"/>
+<area shape="rect" id="node31" href="$df/de8/class_r_g_b_l_e_d.html#ad4691640b37cacdc30d7c1e8e97cf48b" title="RGBLED::RGBLED" alt="" coords="213,1440,353,1467"/>
+<area shape="rect" id="node32" href="$df/de8/class_r_g_b_l_e_d.html#a74afa10502bae4312526faaa39cfa965" title="RGBLED::start" alt="" coords="228,603,339,629"/>
+<area shape="rect" id="node33" href="$d4/d87/class_video_device.html#a089a5fea852bef2078bfcf9b8bc7b16e" title="Start the device. " alt="" coords="218,1491,349,1517"/>
+<area shape="rect" id="node34" href="$d3/d4d/class_syslink.html#a6e982e6562a2a6ef0eaafc84482d4b96" title="Syslink::start" alt="" coords="234,1389,333,1416"/>
+<area shape="rect" id="node35" href="$d4/d83/class_df_ltc2946_wrapper.html#a18f8bc293adc9c9a9434b6984ccf807c" title="DfLtc2946Wrapper::start" alt="" coords="201,653,366,680"/>
+<area shape="rect" id="node36" href="$d6/d61/class_df_bebop_bus_wrapper.html#ae68411f0fe3afb3e86ed6644bc5ab45c" title="Start and initialize the driver. " alt="" coords="207,705,360,746"/>
+<area shape="rect" id="node37" href="$d4/d4a/class_df_m_s5611_wrapper.html#a51007c0bfa2a97abd646152500a8d4fd" title="Start automatic measurement. " alt="" coords="200,1541,367,1568"/>
+<area shape="rect" id="node38" href="$d9/dec/class_df_m_s5607_wrapper.html#a1d0abef0ff52ca93fa2887b697a0bbf0" title="Start automatic measurement. " alt="" coords="200,771,367,797"/>
+<area shape="rect" id="node39" href="$db/de6/class_df_bmp280_wrapper.html#afa29b3109398937f91ac9df7fc542e5a" title="Start automatic measurement. " alt="" coords="200,1592,367,1619"/>
+<area shape="rect" id="node40" href="$d1/d27/class_df_bebop_range_finder_wrapper.html#afffcf39ab6e16b98d91a8ce6ab6da064" title="Start automatic measurement. " alt="" coords="185,822,381,863"/>
+<area shape="rect" id="node41" href="$d8/d40/class_df_i_s_l29501_wrapper.html#a7cf4ac21fc9a61a89afd56f2cef6c08f" title="Start automatic measurement. " alt="" coords="209,887,357,929"/>
+<area shape="rect" id="node42" href="$d7/dac/namespacesdp3x__airspeed.html#af2179c143403fb79bf93bf7832b56bc8" title="Start the driver on a specific bus. " alt="" coords="196,1643,371,1669"/>
+<area shape="rect" id="node43" href="$df/de1/namespacems5525__airspeed.html#a649562c80410f39f5561ec99f12c0fba" title="Start the driver on a specific bus. " alt="" coords="190,1693,377,1720"/>
+<area shape="rect" id="node44" href="$d2/dcb/namespaceets__airspeed.html#ae92d37182dd4d7ecdb1561470c736677" title="Start the driver on a specific bus. " alt="" coords="204,1744,363,1771"/>
+<area shape="rect" id="node45" href="$d9/da5/namespacemeas__airspeed.html#a4928e33fd127390629479ade5a3acda0" title="Start the driver on a specific bus. " alt="" coords="197,1795,369,1821"/>
+<area shape="rect" id="node46" href="$d3/d4d/class_syslink.html#aa51668178db7dcfeb2d91411b57c91ad" title="Syslink::Syslink" alt="" coords="225,1845,341,1872"/>
+<area shape="rect" id="node47" href="$d1/d4d/namespacebebop__flow.html#aabcde4da1f1c49abccddb970703dbcc4" title="bebop_flow::task_main" alt="" coords="205,435,361,461"/>
+<area shape="rect" id="node48" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="205,486,361,527"/>
+<area shape="rect" id="node49" href="$d9/dd1/namespaceuart__esc.html#a29b71bb756bb2b3b5b7e691d09423703" title="task main trampoline function " alt="" coords="213,1897,353,1938"/>
+<area shape="rect" id="node50" href="$d6/dd7/namespacempu9x50.html#a266f357e850120d789f1f0e2300354ce" title="task main trampoline function " alt="" coords="212,1962,355,2003"/>
+<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="459,409,561,436"/>
+<area shape="rect" id="node9" href="$dc/df2/class_battery.html#a6ed4b0c9880d58358bf3d768c24e6354" title="Reset all battery stats and report invalid/nothing. " alt="" coords="459,325,561,352"/>
+<area shape="rect" id="node14" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="466,731,554,757"/>
+<area shape="rect" id="node15" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="443,661,577,688"/>
+<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="433,545,587,586"/>
+<area shape="rect" id="node19" href="$de/d59/class_b_m_a180.html#a66f2b72e595fcd6e90d061230c33e696" title="Fetch measurements from the sensor and update the report ring. " alt="" coords="641,852,772,879"/>
+<area shape="rect" id="node20" href="$de/d59/class_b_m_a180.html#a8f040718e1682ddf0a50f7547b0c88f2" title="Read a register from the BMA180. " alt="" coords="828,903,959,929"/>
+<area shape="rect" id="node21" href="$de/d59/class_b_m_a180.html#a4295722b5a06f3044b7064bd3c24aff4" title="Modify a register in the BMA180. " alt="" coords="635,953,779,980"/>
+<area shape="rect" id="node22" href="$de/d59/class_b_m_a180.html#aa12d0a2808bcc9e99447ed6218d82890" title="Write a register in the BMA180. " alt="" coords="827,1004,960,1031"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="460,611,560,637"/>
+<area shape="rect" id="node24" href="$de/d59/class_b_m_a180.html#a59d18b440fa6fbe59943bad621e85784" title="Set the BMA180 internal lowpass filter frequency. " alt="" coords="433,903,587,929"/>
+<area shape="rect" id="node25" href="$de/d59/class_b_m_a180.html#a0ab1c61f4908427625776453494004ca" title="Set the BMA180 measurement range. " alt="" coords="441,1004,579,1031"/>
+<area shape="rect" id="node27" href="$dc/d68/class_h_c___s_r04.html#a5d3e12d9db212e88a1cf0d9f66ac674c" title="Initialise the automatic measurement state machine and start it. " alt="" coords="452,1237,568,1264"/>
+</map>

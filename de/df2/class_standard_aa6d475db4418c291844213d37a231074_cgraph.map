@@ -1,0 +1,33 @@
+<map id="Standard::update_transition_state" name="Standard::update_transition_state">
+<area shape="rect" id="node2" href="$d7/d6f/class_vtol_attitude_control.html#afecc2a4431eff7aee278fe0e380de955" title="VtolAttitudeControl\l::abort_front_transition" alt="" coords="696,5,848,47"/>
+<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="269,181,381,207"/>
+<area shape="rect" id="node4" href="$dd/df8/classmatrix_1_1_matrix.html#aa1b34844ff0b1b168a71bfaa5735639a" title="matrix::Matrix::copyTo" alt="" coords="249,231,402,258"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="753,71,791,98"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="263,282,388,309"/>
+<area shape="rect" id="node7" href="$d4/d15/class_vtol_type.html#a4c3058921d945bdeca03fcefd38764c4" title="Sets state of a selection of motors, see struct motor_state. " alt="" coords="255,333,395,375"/>
+<area shape="rect" id="node28" href="$d4/d15/class_vtol_type.html#aa0d8effe8396812d460a206a883ce698" title="Update transition state. " alt="" coords="235,115,416,156"/>
+<area shape="rect" id="node8" href="$d4/d15/class_vtol_type.html#aca6cb6e73bf7ae0fb2854c505ed68437" title="Determines if this channel is one selected by VT_FW_MOT_OFFID. " alt="" coords="490,395,622,436"/>
+<area shape="rect" id="node9" href="$d4/d15/class_vtol_type.html#af7839e1eee1a6b0b392ab22286b90171" title="Adjust minimum/maximum pwm values for the output channels. " alt="" coords="482,329,630,371"/>
+<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="733,399,811,426"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="940,337,1015,363"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="937,222,1018,249"/>
+<area shape="rect" id="node11" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="896,526,1059,553"/>
+<area shape="rect" id="node14" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1311,323,1450,350"/>
+<area shape="rect" id="node15" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1304,475,1457,502"/>
+<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1145,475,1209,502"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1108,171,1247,198"/>
+<area shape="rect" id="node21" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="931,450,1024,477"/>
+<area shape="rect" id="node12" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="1109,577,1245,603"/>
+<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1125,526,1229,553"/>
+<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1313,121,1448,147"/>
+<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1311,223,1450,264"/>
+<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1307,171,1455,198"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1140,323,1215,350"/>
+<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1110,425,1245,451"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1107,121,1248,147"/>
+<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1296,70,1465,97"/>
+<area shape="rect" id="node29" href="$d4/d15/class_vtol_type.html#a2ee870bd529e4c9b7fe5f043d0399abf" title="Checks for fixed&#45;wing failsafe condition and issues abort request if needed. " alt="" coords="464,115,648,156"/>
+<area shape="rect" id="node30" href="$d5/dcc/classmatrix_1_1_euler.html#a5acb18c91a269f349cd2449e63e59dae" title="matrix::Euler::theta" alt="" coords="705,122,839,149"/>
+<area shape="rect" id="node31" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="721,173,823,199"/>
+<area shape="rect" id="node32" href="$d5/dcc/classmatrix_1_1_euler.html#a134776bf2b97d2ed41bb00daed9a3214" title="matrix::Euler::phi" alt="" coords="711,223,833,250"/>
+</map>

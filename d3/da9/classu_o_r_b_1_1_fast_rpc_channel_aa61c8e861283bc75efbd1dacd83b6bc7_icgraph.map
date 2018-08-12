@@ -1,0 +1,33 @@
+<map id="uORB::FastRpcChannel::is_subscriber_present" name="uORB::FastRpcChannel::is_subscriber_present">
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#af5f8631a0e81f02cc41028d931834397" title="static method to get the IChannel Implementor. " alt="" coords="217,325,381,367"/>
+<area shape="rect" id="node8" href="$dc/d1c/px4muorb_8hpp.html#a51a88f1d811d78eef070e8f1b5a4c620" title="px4muorb_is_subscriber\l_present" alt="" coords="454,536,617,577"/>
+<area shape="rect" id="node3" href="$dc/d1c/px4muorb_8hpp.html#adc1aaa0910e11c75e2618b845fcec003" title="px4muorb_add_subscriber" alt="" coords="448,383,623,410"/>
+<area shape="rect" id="node11" href="$dc/d1c/px4muorb_8hpp.html#a7c6da42686782f81632be52cbc202207" title="px4muorb_orb_initialize" alt="" coords="456,155,615,182"/>
+<area shape="rect" id="node14" href="$dc/d1c/px4muorb_8hpp.html#a2e632a1c1a24d45aeaa1a66d488145f0" title="px4muorb_receive_bulk_data" alt="" coords="440,278,631,305"/>
+<area shape="rect" id="node17" href="$dc/d1c/px4muorb_8hpp.html#a57a95e107dc50b94632665bbe80baf90" title="px4muorb_receive_msg" alt="" coords="455,333,615,359"/>
+<area shape="rect" id="node19" href="$dc/d1c/px4muorb_8hpp.html#a9c3292e9034945ab353bfb63855c47b8" title="px4muorb_remove_subscriber" alt="" coords="437,91,633,118"/>
+<area shape="rect" id="node22" href="$dc/d1c/px4muorb_8hpp.html#a6a87fd2d01c820113e6ec318c05c98ce" title="px4muorb_send_topic_data" alt="" coords="445,485,626,511"/>
+<area shape="rect" id="node24" href="$dc/d1c/px4muorb_8hpp.html#a052a13c22fb6a22d10eb9a4d480a0b45" title="px4muorb_topic_advertised" alt="" coords="445,218,626,245"/>
+<area shape="rect" id="node27" href="$dc/d1c/px4muorb_8hpp.html#a53345b670ccf3e53836e8e648ff88ec3" title="px4muorb_topic_unadvertised" alt="" coords="438,434,633,461"/>
+<area shape="rect" id="node30" href="$dc/d1c/px4muorb_8hpp.html#a5b700322d2a362420c4d46a5365daf5a" title="px4muorb_unblock_recieve_msg" alt="" coords="429,27,641,54"/>
+<area shape="rect" id="node4" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#af127361b9238689669e4234581a8e9c7" title="px4muorb::KraitRpcWrapper\l::AddSubscriber" alt="" coords="689,397,876,439"/>
+<area shape="rect" id="node5" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#af5852543bd02d26b63fcffa0e2529c21" title="Interface to notify the remote entity of interest of a subscription for a message. " alt="" coords="924,364,1115,405"/>
+<area shape="rect" id="node6" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a6e8db81da8f689e5143064e6b14d4539" title="Static method to check if there is an instance. " alt="" coords="1163,201,1353,243"/>
+<area shape="rect" id="node7" href="$db/d4d/muorb__main_8cpp.html#a22f83891230d95394a51a3bb03af725d" title="muorb_main" alt="" coords="1401,146,1495,173"/>
+<area shape="rect" id="node9" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a2d17c189eaca7bbc4047bbf9e0c448d3" title="px4muorb::KraitRpcWrapper\l::IsSubscriberPresent" alt="" coords="689,593,876,635"/>
+<area shape="rect" id="node10" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a9f03e699626cc593ad8df7a65dab0294" title="Sends the data message over the communication link. " alt="" coords="924,528,1115,569"/>
+<area shape="rect" id="node12" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a2922051fbc54df30fa618ea7b5c16402" title="Initiatizes the rpc channel px4 muorb. " alt="" coords="689,136,876,177"/>
+<area shape="rect" id="node13" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a25dbe51d4f788964c2673aa02bf5bf46" title="constructor. " alt="" coords="924,136,1115,177"/>
+<area shape="rect" id="node15" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a9b6b589fb270f5e80b0ffb91187b318f" title="px4muorb::KraitRpcWrapper\l::ReceiveBulkData" alt="" coords="689,267,876,308"/>
+<area shape="rect" id="node16" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#accecd4dabc63835e6e4ed520bd2534e2" title="uORB::KraitFastRpcChannel\l::fastrpc_recv_thread" alt="" coords="924,267,1115,308"/>
+<area shape="rect" id="node18" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#afc99ae1c42af876a0aba2a69884d3667" title="px4muorb::KraitRpcWrapper\l::ReceiveData" alt="" coords="689,332,876,373"/>
+<area shape="rect" id="node20" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a3c0a3e75a560add13adbfadbbe78586e" title="px4muorb::KraitRpcWrapper\l::RemoveSubscriber" alt="" coords="689,71,876,112"/>
+<area shape="rect" id="node21" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a52b385077cd32a728ebf2c69b5424378" title="Interface to notify the remote entity of removal of a subscription. " alt="" coords="924,71,1115,112"/>
+<area shape="rect" id="node23" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a38748fea7933417656e2fa422647a218" title="px4muorb::KraitRpcWrapper\l::SendData" alt="" coords="689,528,876,569"/>
+<area shape="rect" id="node25" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a379f7f704dec2e315181b9240fcbff81" title="Muorb related functions to pub/sub of orb topic from krait to adsp. " alt="" coords="689,201,876,243"/>
+<area shape="rect" id="node26" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a308cb9d6a21d0545d1db24916831870f" title="Interface to notify the remote entity of a topic being advertised. " alt="" coords="924,201,1115,243"/>
+<area shape="rect" id="node28" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#afeaaada13e6b19af59f15f52129d403a" title="px4muorb::KraitRpcWrapper\l::TopicUnadvertised" alt="" coords="689,463,876,504"/>
+<area shape="rect" id="node29" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a9c86a8fb86510794b03c51b17f1998e1" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="924,447,1115,488"/>
+<area shape="rect" id="node31" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a24f34b20b0de8e514532de4ef25b4eea" title="px4muorb::KraitRpcWrapper\l::UnblockReceiveData" alt="" coords="689,5,876,47"/>
+<area shape="rect" id="node32" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#aef029ee3db9be50250f0602478cb7d52" title="uORB::KraitFastRpcChannel\l::Stop" alt="" coords="924,5,1115,47"/>
+</map>

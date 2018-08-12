@@ -1,0 +1,6 @@
+<map id="GPSDriverAshtech" name="GPSDriverAshtech">
+<area shape="rect" id="node2" href="$d2/d20/class_g_p_s_helper.html" title="{GPSHelper\n|# _callback\l# _callback_user\l# _rate_count_lat_lon\l# _rate_count_vel\l# _rate_lat_lon\l# _rate_vel\l# _interval_rate_start\l|+ GPSHelper()\l+ ~GPSHelper()\l+ configure()\l+ receive()\l+ getPositionUpdateRate()\l+ getVelocityUpdateRate()\l+ resetUpdateRates()\l+ storeUpdateRates()\l+ setSurveyInSpecs()\l# read()\l# write()\l# setBaudrate()\l# surveyInStatus()\l# gotRTCMMessage()\l# setClock()\l}" alt="" coords="5,5,183,376"/>
+<area shape="rect" id="node3" href="$d3/dd6/structvehicle__gps__position__s.html" title="{vehicle_gps_position_s\n|+ timestamp\l+ time_utc_usec\l+ lat\l+ lon\l+ alt\l+ alt_ellipsoid\land 19 more...\l|}" alt="" coords="207,108,365,273"/>
+<area shape="rect" id="node4" href="$d5/d0b/structsatellite__info__s.html" title="{satellite_info_s\n|+ timestamp\l+ count\l+ svid\l+ used\l+ elevation\l+ azimuth\l+ snr\l+ _padding0\l|}" alt="" coords="389,101,498,281"/>
+<area shape="rect" id="node5" href="$d0/d7a/class_r_t_c_m_parsing.html" title="{RTCMParsing\n|&#45; _buffer\l&#45; _buffer_len\l&#45; _pos\l&#45; _message_length\l|+ RTCMParsing()\l+ ~RTCMParsing()\l+ reset()\l+ addByte()\l+ message()\l+ messageLength()\l}" alt="" coords="523,93,657,288"/>
+</map>

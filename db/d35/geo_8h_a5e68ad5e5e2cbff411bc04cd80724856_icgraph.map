@@ -1,0 +1,31 @@
+<map id="get_distance_to_point_global_wgs84" name="get_distance_to_point_global_wgs84">
+<area shape="rect" id="node2" href="$d0/df9/class_navigator.html#a34945eedcd82eda8a50bd1890c0d09cc" title="Check nearby traffic for potential collisions. " alt="" coords="867,779,1028,806"/>
+<area shape="rect" id="node4" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="220,425,356,451"/>
+<area shape="rect" id="node21" href="$db/dad/class_mission.html#a722fc381a1112e7599fb1a13bb707945" title="Return the index of the closest offboard mission item to the current global position. " alt="" coords="1097,115,1251,156"/>
+<area shape="rect" id="node24" href="$da/d7b/class_mission_block.html#a6ecd406f400032b5ea48176bb884eb66" title="Check if mission item has been reached. " alt="" coords="203,620,373,661"/>
+<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1723,442,1827,469"/>
+<area shape="rect" id="node5" href="$d7/dbe/class_geofence.html#a39dc1f54930821f1e7d0b488590605ca" title="implementation of updateFence(), but without locking " alt="" coords="421,450,589,477"/>
+<area shape="rect" id="node12" href="$d7/dbe/class_geofence.html#aa8dd3c6149afaae4694495e8eb831520" title="Return whether the system obeys the geofence. " alt="" coords="445,349,566,375"/>
+<area shape="rect" id="node6" href="$d7/dbe/class_geofence.html#a6a4f90550a9337ee92bf0242c5af3ffb" title="Geofence::Geofence" alt="" coords="653,501,796,527"/>
+<area shape="rect" id="node7" href="$d7/dbe/class_geofence.html#aca06deb406baea3fe51e018bf6a2f910" title="update the geofence from dataman. " alt="" coords="644,551,805,578"/>
+<area shape="rect" id="node11" href="$d7/dbe/class_geofence.html#ad04469e1fc121106b04be1492d00c158" title="Check if a point passes the Geofence test. " alt="" coords="637,450,812,477"/>
+<area shape="rect" id="node8" href="$d7/dbe/class_geofence.html#a9f6a2ec731abb95f297168dbfbcce200" title="Load a single inclusion polygon, replacing any already existing polygons. " alt="" coords="1093,526,1255,553"/>
+<area shape="rect" id="node10" href="$d7/dbe/class_geofence.html#a861a0b8a8e12423188e3140e09bafc3c" title="Geofence::clearDm" alt="" coords="880,501,1015,527"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#ac9cc242bdb4465932f88217671686813" title="Load fence from file. " alt="" coords="1323,544,1472,585"/>
+<area shape="rect" id="node13" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="637,333,812,375"/>
+<area shape="rect" id="node14" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="860,333,1035,375"/>
+<area shape="rect" id="node15" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="1093,333,1255,375"/>
+<area shape="rect" id="node20" href="$d0/d52/class_mission_feasibility_checker.html#a493b33a16340dab677935932844b9fe3" title="MissionFeasibilityChecker\l::MissionFeasibilityChecker" alt="" coords="1083,268,1265,309"/>
+<area shape="rect" id="node16" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="1531,377,1673,403"/>
+<area shape="rect" id="node17" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="1537,311,1667,338"/>
+<area shape="rect" id="node18" href="$db/dad/class_mission.html#af0f2816fb1303ccc94827f7f7f2d2b99" title="Update offboard mission topic. " alt="" coords="1313,275,1481,316"/>
+<area shape="rect" id="node19" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="1529,216,1675,257"/>
+<area shape="rect" id="node22" href="$db/dad/class_mission.html#a3561ffcb7a9229e67b0ff553f4853ea3" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="1321,173,1473,199"/>
+<area shape="rect" id="node23" href="$db/dad/class_mission.html#a6f21d148124ca9c56513e0962f99f1a6" title="Mission::set_closest\l_item_as_current" alt="" coords="1326,5,1469,47"/>
+<area shape="rect" id="node25" href="$d9/d3a/class_data_link_loss.html#a8477f26e5eaae5758a225745417f7f6c" title="This function is called while the mode is active. " alt="" coords="422,754,589,781"/>
+<area shape="rect" id="node26" href="$d9/d75/class_engine_failure.html#af733ac517fb2e86d89e117c0637652e8" title="This function is called while the mode is active. " alt="" coords="423,805,588,831"/>
+<area shape="rect" id="node27" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="425,501,586,527"/>
+<area shape="rect" id="node28" href="$d7/dc4/class_r_c_loss.html#a533b999d196a106153d9068b23f5538f" title="This function is called while the mode is active. " alt="" coords="438,551,573,578"/>
+<area shape="rect" id="node29" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="450,602,561,629"/>
+<area shape="rect" id="node30" href="$d8/d13/class_takeoff.html#a222d4e276bc3b82aca68af486cf9297f" title="This function is called while the mode is active. " alt="" coords="440,703,571,730"/>
+</map>

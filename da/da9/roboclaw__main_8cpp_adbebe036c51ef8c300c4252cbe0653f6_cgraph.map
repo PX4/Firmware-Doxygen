@@ -1,0 +1,22 @@
+<map id="roboclaw_thread_main" name="roboclaw_thread_main">
+<area shape="rect" id="node2" href="$d2/dba/class_robo_claw.html#adb9a7afdec8e9714c7f5cac2cbd35e0f" title="main update loop that updates RoboClaw motor dutycycle based on actuator publication ..." alt="" coords="205,188,336,215"/>
+<area shape="rect" id="node3" href="$dc/d50/classu_o_r_b_1_1_subscription_base.html#ac538dc66545d607afe3bf1548873eba2" title="Check if there is a new update. " alt="" coords="402,86,570,127"/>
+<area shape="rect" id="node16" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a1f7f1bd26da7cc8d23bbbb1a278f742f" title="Create an update function that uses the embedded struct. " alt="" coords="417,151,555,193"/>
+<area shape="rect" id="node17" href="$d2/dba/class_robo_claw.html#a912bf0fc6daeefafc0b8ba5ccf0effe1" title="set the duty cycle of a motor, rev/sec " alt="" coords="384,217,588,244"/>
+<area shape="rect" id="node21" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="404,268,568,295"/>
+<area shape="rect" id="node4" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="688,93,771,120"/>
+<area shape="rect" id="node5" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="878,45,1021,86"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1076,107,1219,149"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1076,42,1219,83"/>
+<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1267,49,1393,76"/>
+<area shape="rect" id="node8" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1441,5,1576,32"/>
+<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1457,56,1561,83"/>
+<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1631,56,1770,83"/>
+<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1624,107,1777,133"/>
+<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1293,115,1367,141"/>
+<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1471,107,1546,133"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1441,157,1576,184"/>
+<area shape="rect" id="node18" href="$d2/dba/class_robo_claw.html#a40b7ef38e9c29944546731efb5d37c2e" title="RoboClaw::_sendCommand" alt="" coords="636,217,823,244"/>
+<area shape="rect" id="node19" href="$d2/dba/class_robo_claw.html#a9c4547b4cdfce0dac346ac1fe8105443" title="RoboClaw::_sumBytes" alt="" coords="871,184,1028,211"/>
+<area shape="rect" id="node20" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="924,235,975,261"/>
+</map>

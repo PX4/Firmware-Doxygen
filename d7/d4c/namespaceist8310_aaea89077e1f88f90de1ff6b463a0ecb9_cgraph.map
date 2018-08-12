@@ -1,0 +1,51 @@
+<map id="ist8310::test" name="ist8310::test">
+<area shape="rect" id="node2" href="$d7/d4c/namespaceist8310.html#aaacd407b66d51aabf7de503578646ab4" title="find a bus structure for a busid " alt="" coords="148,145,269,172"/>
+<area shape="rect" id="node3" href="$db/df0/class_i_s_t8310.html#a8bdc728c012f51bdaef63e3ca69b8593" title="IST8310::ioctl" alt="" coords="157,196,260,223"/>
+<area shape="rect" id="node6" href="$db/df0/class_i_s_t8310.html#a9892af4d4971ff7e3307444c81165abb" title="IST8310::read" alt="" coords="722,348,826,375"/>
+<area shape="rect" id="node4" href="$db/df0/class_i_s_t8310.html#a7a7cadc5f87639d0b3d80ae8b6046069" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="317,247,445,273"/>
+<area shape="rect" id="node45" href="$db/df0/class_i_s_t8310.html#ab25353c135f243bc2b7df30c40eb01c5" title="Reset the device. " alt="" coords="528,5,636,32"/>
+<area shape="rect" id="node46" href="$db/df0/class_i_s_t8310.html#a73e4254b9963059d9825a87ec496f9d2" title="Place the device in self test mode. " alt="" coords="1055,95,1201,121"/>
+<area shape="rect" id="node47" href="$db/df0/class_i_s_t8310.html#a2dd32cd681c3c71863f625696c8da309" title="Initialise the automatic measurement state machine and start it. " alt="" coords="329,145,434,172"/>
+<area shape="rect" id="node50" href="$db/df0/class_i_s_t8310.html#ae19c4d20fa0d85afeb8a7d35da671bf1" title="Stop the automatic measurement state machine. " alt="" coords="329,196,433,223"/>
+<area shape="rect" id="node5" href="$db/df0/class_i_s_t8310.html#ae30c91f5adee6c0a062a3ac4e6b8ec11" title="Check the current scale calibration. " alt="" coords="506,247,658,273"/>
+<area shape="rect" id="node7" href="$db/df0/class_i_s_t8310.html#ae609ef037deee4a823131d9a83295a9a" title="Collect the result of the most recent measurement. " alt="" coords="883,348,1001,375"/>
+<area shape="rect" id="node43" href="$db/df0/class_i_s_t8310.html#a67da94c38e6570326f10ce3ce6dfb68d" title="Issue a measurement command. " alt="" coords="877,145,1007,172"/>
+<area shape="rect" id="node44" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="912,399,972,425"/>
+<area shape="rect" id="node8" href="$db/df0/class_i_s_t8310.html#a62084c4b343b3e2cb5a53de467f3e938" title="check the sensor configuration. " alt="" coords="1055,449,1201,476"/>
+<area shape="rect" id="node9" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1279,171,1362,197"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2185,731,2310,757"/>
+<area shape="rect" id="node14" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="1061,551,1195,577"/>
+<area shape="rect" id="node38" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1277,624,1365,651"/>
+<area shape="rect" id="node39" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1087,247,1169,273"/>
+<area shape="rect" id="node40" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1092,297,1164,324"/>
+<area shape="rect" id="node41" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1067,348,1189,375"/>
+<area shape="rect" id="node42" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1091,399,1165,425"/>
+<area shape="rect" id="node10" href="$db/df0/class_i_s_t8310.html#a4ecb419229b47f2a2673fd27249937d4" title="Read a register. " alt="" coords="1256,337,1385,364"/>
+<area shape="rect" id="node11" href="$db/df0/class_i_s_t8310.html#a34f05def78bfbfcdc7781473913b9d5e" title="Write a register. " alt="" coords="1255,44,1387,71"/>
+<area shape="rect" id="node12" href="$db/df0/class_i_s_t8310.html#a058bf67958d74e828a9690374d2c8d28" title="Write to a register block. " alt="" coords="1480,21,1587,48"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1955,574,2098,615"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1249,389,1392,430"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2176,545,2319,586"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2380,552,2507,579"/>
+<area shape="rect" id="node19" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1467,345,1599,372"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1440,396,1627,423"/>
+<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1989,109,2064,136"/>
+<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1986,211,2067,237"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1462,675,1605,717"/>
+<area shape="rect" id="node21" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1687,472,1865,499"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="2208,337,2287,364"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1700,239,1852,281"/>
+<area shape="rect" id="node31" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1675,174,1877,215"/>
+<area shape="rect" id="node32" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1703,305,1849,346"/>
+<area shape="rect" id="node33" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1752,371,1800,397"/>
+<area shape="rect" id="node23" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2374,185,2513,212"/>
+<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2367,287,2520,313"/>
+<area shape="rect" id="node27" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="2210,185,2285,212"/>
+<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="2180,84,2315,111"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="2177,236,2318,263"/>
+<area shape="rect" id="node35" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1683,679,1869,705"/>
+<area shape="rect" id="node36" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1939,705,2114,732"/>
+<area shape="rect" id="node37" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1925,639,2128,681"/>
+<area shape="rect" id="node48" href="$db/df0/class_i_s_t8310.html#a3315d9768512f98fbf02df5582f5353d" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="493,145,671,172"/>
+<area shape="rect" id="node49" href="$db/df0/class_i_s_t8310.html#a16b8a742195334040d4c397a668485e5" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="719,145,829,172"/>
+</map>

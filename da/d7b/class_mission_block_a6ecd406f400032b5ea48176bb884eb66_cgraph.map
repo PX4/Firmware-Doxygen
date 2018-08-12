@@ -1,0 +1,40 @@
+<map id="MissionBlock::is_mission_item_reached" name="MissionBlock::is_mission_item_reached">
+<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="727,238,766,265"/>
+<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="443,56,621,98"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a99ffced3ab485575b385454433aa105f" title="Get the altitude acceptance radius. " alt="" coords="455,551,609,592"/>
+<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="669,613,824,640"/>
+<area shape="rect" id="node8" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="240,782,379,823"/>
+<area shape="rect" id="node9" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="481,757,583,784"/>
+<area shape="rect" id="node10" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="477,828,587,854"/>
+<area shape="rect" id="node12" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="236,716,383,758"/>
+<area shape="rect" id="node13" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="235,964,384,1006"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="237,1030,382,1071"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="238,1095,381,1136"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="242,1160,377,1202"/>
+<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#af681e085bd08b6f8bc6500d2b1658565" title="Navigator::get_local\l_position" alt="" coords="240,1226,379,1267"/>
+<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#aefb68d38e1a80fd6bdc6c810f4f842d1" title="Navigator::get_loiter\l_radius" alt="" coords="240,322,379,363"/>
+<area shape="rect" id="node26" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="231,1291,387,1332"/>
+<area shape="rect" id="node27" href="$da/d7b/class_mission_block.html#aa96269ba0a47a789df1d2c7046c0a1dd" title="MissionBlock::get_time\l_inside" alt="" coords="230,1356,389,1398"/>
+<area shape="rect" id="node28" href="$d0/df9/class_navigator.html#a2cd0a80c548612fe0bb42036f75e7c28" title="Navigator::get_vtol\l_back_trans_deceleration" alt="" coords="224,1422,395,1463"/>
+<area shape="rect" id="node29" href="$d0/df9/class_navigator.html#a1b5e873902c0edaa60e866334f051be8" title="Navigator::get_vtol\l_reverse_delay" alt="" coords="243,1487,375,1528"/>
+<area shape="rect" id="node31" href="$d0/df9/class_navigator.html#a00b032f282524af141970cd4a91d1c75" title="Navigator::get_yaw\l_threshold" alt="" coords="242,1552,377,1594"/>
+<area shape="rect" id="node32" href="$d0/df9/class_navigator.html#a6a03968e28dcb0f2f5f87e77f9f93b66" title="Navigator::get_yaw\l_timeout" alt="" coords="242,1618,377,1659"/>
+<area shape="rect" id="node33" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="247,1684,372,1710"/>
+<area shape="rect" id="node34" href="$d0/df9/class_navigator.html#a2eb2d134cd59a4266f854075c9f2a8b9" title="Navigator::set_mission\l_failure" alt="" coords="231,1735,387,1776"/>
+<area shape="rect" id="node36" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="226,1800,393,1842"/>
+<area shape="rect" id="node37" href="$d7/d09/geo_8cpp.html#a8cf2ed6d2c6d6ef12853085621d50c24" title="Creates a waypoint from given waypoint, distance and bearing see http://www.movable&#45;type.co.uk/scripts/latlong.html. " alt="" coords="230,899,389,940"/>
+<area shape="rect" id="node6" href="$df/d08/commander__helper_8cpp.html#a90a80fd140e5e1feba80ba0c5ef25c7c" title="is_rotary_wing" alt="" coords="693,558,800,585"/>
+<area shape="rect" id="node7" href="$df/d08/commander__helper_8cpp.html#a11b38c975bd7707de957c1a32b45297a" title="is_multirotor" alt="" coords="872,558,965,585"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="691,878,802,905"/>
+<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="457,355,607,396"/>
+<area shape="rect" id="node20" href="$d0/df9/class_navigator.html#aeac4bfdde502928eb5b2ac03f8de5615" title="Get the cruising speed. " alt="" coords="454,486,610,527"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a74b7532beec44c110e8dd61bbeaa5e53" title="Set the cruising speed. " alt="" coords="454,420,610,462"/>
+<area shape="rect" id="node23" href="$d0/df9/class_navigator.html#a118e53f014f6d15a14d4a5188eee47c5" title="Reset cruising speed to default values. " alt="" coords="449,122,615,163"/>
+<area shape="rect" id="node24" href="$d0/df9/class_navigator.html#aadb6e4e2fc72366317916bf4c0672d28" title="Set triplets to invalid. " alt="" coords="451,188,613,214"/>
+<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#a430adf0c9a74dbeff4ff33f1c34c1117" title="Get the target throttle. " alt="" coords="454,290,610,331"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a11e8849cec37173aeec7b8dce2a17bc0" title="Navigator::is_planned\l_mission" alt="" coords="673,486,821,527"/>
+<area shape="rect" id="node30" href="$d0/df9/class_navigator.html#ab1cfa04924d74c601b42920d6cdce27b" title="Navigator::force_vtol" alt="" coords="461,1494,603,1521"/>
+<area shape="rect" id="node35" href="$d0/df9/class_navigator.html#a7ab887dfa8f6543d42ad6564eadd9924" title="Navigator::set_mission\l_result_updated" alt="" coords="454,1735,610,1776"/>
+<area shape="rect" id="node38" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="479,878,585,905"/>
+<area shape="rect" id="node39" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="matrix::wrap_2pi" alt="" coords="473,929,591,956"/>
+</map>

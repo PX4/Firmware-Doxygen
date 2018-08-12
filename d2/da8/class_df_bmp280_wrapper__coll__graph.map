@@ -1,0 +1,12 @@
+<map id="DfBmp280Wrapper" name="DfBmp280Wrapper">
+<area shape="rect" id="node2" href="$d1/daf/class_b_m_p280.html" title="{BMP280\n|&#45; _running\l&#45; _curr_ctrl\l&#45; _work\l&#45; _report_ticks\l&#45; _max_mesure_ticks\l&#45; _reports\land 6 more...\l|+ BMP280()\l+ ~BMP280()\l+ init()\l+ read()\l+ ioctl()\l+ print_info()\l&#45; start_cycle()\l&#45; stop_cycle()\l&#45; cycle()\l&#45; measure()\l&#45; collect()\l&#45; cycle_trampoline()\l}" alt="" coords="441,1167,587,1493"/>
+<area shape="rect" id="node3" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="183,660,365,1075"/>
+<area shape="rect" id="node4" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="83,329,217,597"/>
+<area shape="rect" id="node5" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="65,189,235,267"/>
+<area shape="rect" id="node6" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="45,5,255,127"/>
+<area shape="rect" id="node7" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="241,425,393,502"/>
+<area shape="rect" id="node8" href="$d5/dd1/structbmp280_1_1fcalibration__s.html" title="{bmp280::fcalibration_s\n|+ t1\l+ t2\l+ t3\l+ p1\l+ p2\l+ p3\land 6 more...\l|}" alt="" coords="5,785,159,950"/>
+<area shape="rect" id="node9" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="718,814,830,921"/>
+<area shape="rect" id="node10" href="$d9/d1d/structbmp280_1_1calibration__s.html" title="{bmp280::calibration_s\n|+ t1\l+ t2\l+ t3\l+ p1\l+ p2\l+ p3\land 6 more...\l|}" alt="" coords="390,785,539,950"/>
+<area shape="rect" id="node11" href="$de/dbc/classbmp280_1_1_i_b_m_p280.html" title="{bmp280::IBMP280\n||+ ~IBMP280()\l+ is_external()\l+ init()\l+ get_reg()\l+ set_reg()\l+ get_data()\l+ get_calibration()\l}" alt="" coords="563,785,694,950"/>
+</map>

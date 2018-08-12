@@ -1,0 +1,51 @@
+<map id="ToneAlarm::frequency_to_divisor" name="ToneAlarm::frequency_to_divisor">
+<area shape="rect" id="node2" href="$d8/d98/circuit__breaker_8cpp.html#a0eb495f286c64c70c007505210ec5df4" title="circuit_breaker_enabled" alt="" coords="642,360,801,387"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="945,419,983,445"/>
+<area shape="rect" id="node4" href="$d7/d21/class_tunes.html#a069558a233a2e62863c9d75e20914c05" title="Tunes::get_maximum\l_update_interval" alt="" coords="205,309,353,350"/>
+<area shape="rect" id="node5" href="$d7/d21/class_tunes.html#a924140ddf4b710f12fc8e750d3b9976e" title="Get next note in the current tune, which has been provided by either set_control or play_string..." alt="" coords="205,175,353,201"/>
+<area shape="rect" id="node13" href="$d4/df0/class_tone_alarm.html#af526872d49f6a9d3164bb8e123236b01" title="ToneAlarm::next_note" alt="" coords="204,656,355,683"/>
+<area shape="rect" id="node14" href="$d4/df0/class_tone_alarm.html#a95cc9bab490bf3b77e19a918ef4acbdb" title="ToneAlarm::stop_note" alt="" coords="416,461,567,488"/>
+<area shape="rect" id="node16" href="$d4/df0/class_tone_alarm.html#addf61ec3d0d5c438d3b4eb6f787f76c9" title="ToneAlarm::next_trampoline" alt="" coords="629,625,814,652"/>
+<area shape="rect" id="node22" href="$d4/df0/class_tone_alarm.html#affc8d802084b0d7595e70427da42f345" title="ToneAlarm::start_note" alt="" coords="416,411,567,437"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="238,1195,321,1221"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="242,1043,317,1069"/>
+<area shape="rect" id="node38" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="228,1144,331,1171"/>
+<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="221,1093,338,1120"/>
+<area shape="rect" id="node49" href="$d7/d21/class_tunes.html#a14ad95268d74d3fc1749b3fb4e4305a5" title="Set tune to be played using the message. " alt="" coords="214,257,345,284"/>
+<area shape="rect" id="node50" href="$de/de9/drivers_2stm32_2tone__alarm_2tone__alarm_8cpp.html#a29b49524e106c710e7e7a7d8b3a3cf17" title="tone_alarm_usage" alt="" coords="215,1245,343,1272"/>
+<area shape="rect" id="node6" href="$d7/d21/class_tunes.html#a2ddfde08e9db5c2fe195189c037bd8cc" title="Find the next character in the string, discard any whitespace. " alt="" coords="660,157,783,184"/>
+<area shape="rect" id="node7" href="$d7/d21/class_tunes.html#accb32723d53f2e514e54791ecf6c5ec2" title="Extract a number from the string, consuming all the digit characters. " alt="" coords="421,157,562,184"/>
+<area shape="rect" id="node8" href="$d7/d21/class_tunes.html#ae2a7abcafcf15f6b35ff05aaaa7a0ae2" title="Calculate the duration in microseconds of a rest corresponding to a given note length. " alt="" coords="421,259,562,285"/>
+<area shape="rect" id="node9" href="$d7/d21/class_tunes.html#a771dea6fb6a5a46feca413edaff75929" title="Consume dot characters from the string. " alt="" coords="430,208,553,235"/>
+<area shape="rect" id="node10" href="$d7/d21/class_tunes.html#a0083083b3f2dd2a0e8cc2717974d40d9" title="Calculate the duration in microseconds of play and silence for a note given the current tempo..." alt="" coords="419,5,563,32"/>
+<area shape="rect" id="node11" href="$d7/d21/class_tunes.html#a24c1b0f4143ae48ccaf4e20e72550a16" title="Convert note to frequency. " alt="" coords="635,81,808,108"/>
+<area shape="rect" id="node12" href="$d7/d21/class_tunes.html#abf3aec9d877ce0345595638dc42a7233" title="Reset the tune parameters. " alt="" coords="444,309,539,336"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="673,512,770,539"/>
+<area shape="rect" id="node17" href="$d4/df0/class_tone_alarm.html#adcc58f82eba0290ffbb68d868d7e8bd9" title="ToneAlarm::next_char" alt="" coords="646,789,797,816"/>
+<area shape="rect" id="node18" href="$d4/df0/class_tone_alarm.html#a6b177223734a4959ea485561a5715391" title="ToneAlarm::next_number" alt="" coords="407,789,575,816"/>
+<area shape="rect" id="node19" href="$d4/df0/class_tone_alarm.html#a9d59e4e968c3b5bd28f37fc5bb4334b1" title="ToneAlarm::rest_duration" alt="" coords="407,739,575,765"/>
+<area shape="rect" id="node20" href="$d4/df0/class_tone_alarm.html#a70747395f2de55c6a8d2cffe8854db8f" title="ToneAlarm::next_dots" alt="" coords="416,891,567,917"/>
+<area shape="rect" id="node21" href="$d4/df0/class_tone_alarm.html#aacf106db707b119389b7efcca9bc0351" title="ToneAlarm::note_duration" alt="" coords="406,840,577,867"/>
+<area shape="rect" id="node24" href="$d4/df0/class_tone_alarm.html#a3a8c115d44be141094ee943ff79bf675" title="ToneAlarm::start_tune" alt="" coords="416,563,567,589"/>
+<area shape="rect" id="node23" href="$d4/df0/class_tone_alarm.html#ae4cd5bf5b599bcc8471cf8530c649a9d" title="ToneAlarm::note_to\l_divisor" alt="" coords="653,411,789,453"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="680,563,763,589"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="420,1145,563,1186"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="893,1513,1035,1554"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="893,1149,1035,1190"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1113,1156,1240,1183"/>
+<area shape="rect" id="node31" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1139,1455,1214,1481"/>
+<area shape="rect" id="node32" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1318,1279,1393,1305"/>
+<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1288,1455,1423,1481"/>
+<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="403,1043,580,1069"/>
+<area shape="rect" id="node36" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="684,1043,759,1069"/>
+<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="897,981,1031,1008"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="420,1247,563,1289"/>
+<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="628,1287,815,1313"/>
+<area shape="rect" id="node41" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="875,1345,1053,1372"/>
+<area shape="rect" id="node42" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1137,1400,1216,1427"/>
+<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="888,1447,1040,1489"/>
+<area shape="rect" id="node45" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="863,1214,1065,1255"/>
+<area shape="rect" id="node46" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="891,1279,1037,1321"/>
+<area shape="rect" id="node44" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1136,1279,1217,1305"/>
+<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="893,1083,1035,1125"/>
+</map>

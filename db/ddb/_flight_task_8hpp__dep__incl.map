@@ -1,0 +1,31 @@
+<map id="src/lib/FlightTasks/tasks/FlightTask/FlightTask.hpp" name="src/lib/FlightTasks/tasks/FlightTask/FlightTask.hpp">
+<area shape="rect" id="node2" href="$de/d23/_flight_tasks_8hpp.html" title="src/lib/FlightTasks\l/FlightTasks.hpp" alt="" coords="176,102,305,143"/>
+<area shape="rect" id="node5" href="$d0/d2b/_flight_task_auto_8hpp.html" title="Map from global triplet to local quadruple. " alt="" coords="572,102,779,143"/>
+<area shape="rect" id="node13" href="$d7/dda/_flight_task_8cpp.html" title="src/lib/FlightTasks\l/tasks/FlightTask/FlightTask.cpp" alt="" coords="803,102,1017,143"/>
+<area shape="rect" id="node14" href="$d9/da0/_flight_task_manual_8hpp.html" title="Linear and exponential map from stick inputs to range &#45;1 and 1. " alt="" coords="1041,102,1277,143"/>
+<area shape="rect" id="node29" href="$dc/d11/_flight_task_offboard_8hpp.html" title="src/lib/FlightTasks\l/tasks/Offboard/FlightTask\lOffboard.hpp" alt="" coords="1407,95,1584,151"/>
+<area shape="rect" id="node3" href="$d0/da6/_flight_tasks_8cpp.html" title="src/lib/FlightTasks\l/FlightTasks.cpp" alt="" coords="5,206,135,247"/>
+<area shape="rect" id="node4" href="$dd/d8c/mc__pos__control__main_8cpp.html" title="Multicopter position controller. " alt="" coords="159,199,323,255"/>
+<area shape="rect" id="node6" href="$dd/d08/_flight_task_auto_8cpp.html" title="src/lib/FlightTasks\l/tasks/Auto/FlightTaskAuto.cpp" alt="" coords="347,206,553,247"/>
+<area shape="rect" id="node7" href="$d3/d58/_flight_task_auto_follow_me_8hpp.html" title="Flight task for autonomous, gps driven follow&#45;me mode. " alt="" coords="578,199,773,255"/>
+<area shape="rect" id="node9" href="$de/dc9/_flight_task_auto_mapper_8hpp.html" title="Abstract Flight task which generates local setpoints based on the triplet type. " alt="" coords="797,199,994,255"/>
+<area shape="rect" id="node8" href="$d1/d29/_flight_task_auto_follow_me_8cpp.html" title="src/lib/FlightTasks\l/tasks/AutoFollowMe\l/FlightTaskAutoFollowMe.cpp" alt="" coords="578,303,773,359"/>
+<area shape="rect" id="node10" href="$de/dd7/_flight_task_auto_line_8hpp.html" title="Flight task for autonomous, gps driven mode. " alt="" coords="801,303,979,359"/>
+<area shape="rect" id="node12" href="$d7/d29/_flight_task_auto_mapper_8cpp.html" title="src/lib/FlightTasks\l/tasks/AutoMapper/FlightTask\lAutoMapper.cpp" alt="" coords="1003,303,1201,359"/>
+<area shape="rect" id="node11" href="$d1/d4e/_flight_task_auto_line_8cpp.html" title="src/lib/FlightTasks\l/tasks/AutoLine/FlightTask\lAutoLine.cpp" alt="" coords="801,407,979,463"/>
+<area shape="rect" id="node15" href="$d3/d2e/_flight_task_manual_8cpp.html" title="src/lib/FlightTasks\l/tasks/Manual/FlightTaskManual.cpp" alt="" coords="1019,206,1255,247"/>
+<area shape="rect" id="node16" href="$d0/df1/_flight_task_manual_stabilized_8hpp.html" title="src/lib/FlightTasks\l/tasks/ManualStabilized\l/FlightTaskManualStabilized.hpp" alt="" coords="1278,199,1489,255"/>
+<area shape="rect" id="node17" href="$dc/dc0/_flight_task_manual_altitude_8hpp.html" title="src/lib/FlightTasks\l/tasks/ManualAltitude\l/FlightTaskManualAltitude.hpp" alt="" coords="1267,303,1465,359"/>
+<area shape="rect" id="node28" href="$dc/d17/_flight_task_manual_stabilized_8cpp.html" title="src/lib/FlightTasks\l/tasks/ManualStabilized\l/FlightTaskManualStabilized.cpp" alt="" coords="1489,303,1699,359"/>
+<area shape="rect" id="node18" href="$d4/dc9/_flight_task_manual_altitude_8cpp.html" title="src/lib/FlightTasks\l/tasks/ManualAltitude\l/FlightTaskManualAltitude.cpp" alt="" coords="1021,407,1220,463"/>
+<area shape="rect" id="node19" href="$de/df1/_flight_task_manual_altitude_smooth_8hpp.html" title="src/lib/FlightTasks\l/tasks/ManualAltitudeSmooth\l/FlightTaskManualAltitudeSmooth.hpp" alt="" coords="1245,407,1487,463"/>
+<area shape="rect" id="node23" href="$d6/d5b/_flight_task_manual_position_8hpp.html" title="Flight task for manual position controlled mode. " alt="" coords="1628,407,1829,463"/>
+<area shape="rect" id="node20" href="$db/d35/_flight_task_manual_altitude_smooth_8cpp.html" title="src/lib/FlightTasks\l/tasks/ManualAltitudeSmooth\l/FlightTaskManualAltitudeSmooth.cpp" alt="" coords="995,511,1238,567"/>
+<area shape="rect" id="node21" href="$dd/de3/_flight_task_orbit_8hpp.html" title="Flight task for orbiting in a circle around a target position. " alt="" coords="1262,518,1470,559"/>
+<area shape="rect" id="node22" href="$dc/d7a/_flight_task_orbit_8cpp.html" title="src/lib/FlightTasks\l/tasks/Orbit/FlightTaskOrbit.cpp" alt="" coords="1262,622,1470,663"/>
+<area shape="rect" id="node24" href="$dc/d32/_flight_task_manual_position_8cpp.html" title="src/lib/FlightTasks\l/tasks/ManualPosition\l/FlightTaskManualPosition.cpp" alt="" coords="1495,511,1696,567"/>
+<area shape="rect" id="node25" href="$dd/d10/_flight_task_manual_position_smooth_8hpp.html" title="src/lib/FlightTasks\l/tasks/ManualPositionSmooth\l/FlightTaskManualPositionSmooth.hpp" alt="" coords="1720,511,1967,567"/>
+<area shape="rect" id="node27" href="$d3/d36/_flight_task_sport_8hpp.html" title="Manual controlled position with maximum speed and no smoothing. " alt="" coords="1991,518,2205,559"/>
+<area shape="rect" id="node26" href="$db/dab/_flight_task_manual_position_smooth_8cpp.html" title="src/lib/FlightTasks\l/tasks/ManualPositionSmooth\l/FlightTaskManualPositionSmooth.cpp" alt="" coords="1720,615,1967,671"/>
+<area shape="rect" id="node30" href="$d7/da5/_flight_task_offboard_8cpp.html" title="src/lib/FlightTasks\l/tasks/Offboard/FlightTask\lOffboard.cpp" alt="" coords="1513,199,1691,255"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="PX4_MAIN" name="PX4_MAIN">
+<area shape="rect" id="node2" href="$d5/d47/namespacepx4.html#aeecd53611796f751264e3f90bb3e25a4" title="px4::init" alt="" coords="183,267,251,293"/>
+<area shape="rect" id="node5" href="$d1/de8/class_v_c_dev_example.html#a823729719003bfbeedb2ded65fb30938" title="VCDevExample::main" alt="" coords="141,368,293,395"/>
+<area shape="rect" id="node3" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="373,216,461,243"/>
+<area shape="rect" id="node4" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="541,216,667,243"/>
+<area shape="rect" id="node6" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="565,267,643,293"/>
+<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="567,368,641,395"/>
+<area shape="rect" id="node21" href="$d0/d4f/vcdevtest__example_8cpp.html#ad8f91d865b74aeb43967fe8a7c663598" title="test_pub_block" alt="" coords="362,368,473,395"/>
+<area shape="rect" id="node22" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="341,419,493,445"/>
+<area shape="rect" id="node23" href="$d0/d4f/vcdevtest__example_8cpp.html#adb907661d8bb50dceeafeacfbc90f940" title="writer_main" alt="" coords="373,469,462,496"/>
+<area shape="rect" id="node24" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="563,499,645,525"/>
+<area shape="rect" id="node7" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="715,56,877,83"/>
+<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1150,183,1289,209"/>
+<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1143,233,1296,260"/>
+<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="978,208,1042,235"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="727,267,865,293"/>
+<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="749,317,843,344"/>
+<area shape="rect" id="node8" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="942,5,1078,32"/>
+<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="958,56,1062,83"/>
+<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="943,325,1077,352"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="941,259,1079,301"/>
+<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="936,376,1084,403"/>
+<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="759,499,833,525"/>
+<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="729,368,863,395"/>
+<area shape="rect" id="node27" href="$da/dc9/posix_2cdev__platform_8cpp.html#a878b6d068f7a5b5237fdd844fa47acc8" title="px4_write" alt="" coords="565,549,643,576"/>
+<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="725,423,867,449"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="925,427,1095,453"/>
+<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#a082bca749e995839a2fe025bc165f8a3" title="Perform a write to the device. " alt="" coords="727,680,865,707"/>
+</map>

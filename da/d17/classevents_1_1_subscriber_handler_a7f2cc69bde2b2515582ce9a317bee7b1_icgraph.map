@@ -1,0 +1,9 @@
+<map id="events::SubscriberHandler::get_vehicle_status_flags_sub" name="events::SubscriberHandler::get_vehicle_status_flags_sub">
+<area shape="rect" id="node2" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a8aaf43e77ed1f2d81f94909002c179be" title="check for topic updates " alt="" coords="256,5,451,47"/>
+<area shape="rect" id="node3" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a9538b93eb3a14e08c31e1b272d1e70b8" title="regularily called to handle state updates " alt="" coords="499,5,693,47"/>
+<area shape="rect" id="node4" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="call process_commands() and schedule the next cycle. " alt="" coords="741,5,883,47"/>
+<area shape="rect" id="node5" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Trampoline for the work queue. " alt="" coords="931,5,1072,47"/>
+<area shape="rect" id="node6" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Start background listening for commands. " alt="" coords="931,71,1072,112"/>
+<area shape="rect" id="node7" href="$d4/dc6/structevents_1_1_send_event.html#a716f60497ef234cfb7faead37f08d1df" title="Trampoline for initialisation. " alt="" coords="1120,71,1261,112"/>
+<area shape="rect" id="node8" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Initialize class in the same context as the work queue. " alt="" coords="1309,71,1451,112"/>
+</map>

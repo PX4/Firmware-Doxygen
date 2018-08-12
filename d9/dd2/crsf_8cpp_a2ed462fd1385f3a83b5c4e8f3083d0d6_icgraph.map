@@ -1,0 +1,23 @@
+<map id="crc8_dvb_s2" name="crc8_dvb_s2">
+<area shape="rect" id="node2" href="$d9/dd2/crsf_8cpp.html#aab14eaa1bbea8904e8d69a209243d6ad" title="crc8_dvb_s2_buf" alt="" coords="149,166,271,193"/>
+<area shape="rect" id="node18" href="$d9/dd2/crsf_8cpp.html#ae4fc4d987830353c889a5ccfcfd7b95d" title="crsf_frame_CRC" alt="" coords="149,235,271,262"/>
+<area shape="rect" id="node3" href="$d9/dd2/crsf_8cpp.html#a65770904fdf203916c835507541e2446" title="write_frame_crc" alt="" coords="323,130,437,157"/>
+<area shape="rect" id="node4" href="$d9/ddf/crsf_8h.html#a134bde0b918bd74e75ca723e01889a78" title="Send telemetry battery information. " alt="" coords="503,5,643,47"/>
+<area shape="rect" id="node12" href="$d9/ddf/crsf_8h.html#aba14c3d1e3928f2951cf4ac375d03f83" title="Send telemetry GPS information. " alt="" coords="489,71,657,98"/>
+<area shape="rect" id="node14" href="$d9/ddf/crsf_8h.html#a32d45afb8bb88c343c41403502936375" title="Send telemetry Attitude information. " alt="" coords="503,123,643,164"/>
+<area shape="rect" id="node16" href="$d9/ddf/crsf_8h.html#ae3b75a9b9b0caf66f83b73bec5bfaaeb" title="Send telemetry Flight Mode information. " alt="" coords="503,188,643,229"/>
+<area shape="rect" id="node5" href="$d0/da3/class_c_r_s_f_telemetry.html#a291dd664fb2f821fa855735ca1494563" title="CRSFTelemetry::send\l_battery" alt="" coords="719,5,873,47"/>
+<area shape="rect" id="node6" href="$d0/da3/class_c_r_s_f_telemetry.html#a8cd227cc2e9f118ddf0d0bb1cb14db2b" title="Send telemetry data. " alt="" coords="935,130,1099,157"/>
+<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="1147,193,1257,219"/>
+<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="1305,193,1483,219"/>
+<area shape="rect" id="node11" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="1345,243,1443,270"/>
+<area shape="rect" id="node9" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="1531,193,1680,219"/>
+<area shape="rect" id="node10" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="1728,193,1915,219"/>
+<area shape="rect" id="node13" href="$d0/da3/class_c_r_s_f_telemetry.html#a1a43efaf0777d7821ebbdf2f8ec51046" title="CRSFTelemetry::send_gps" alt="" coords="705,71,887,98"/>
+<area shape="rect" id="node15" href="$d0/da3/class_c_r_s_f_telemetry.html#ae60b3713b4ecebab6748b5ed612197a6" title="CRSFTelemetry::send\l_attitude" alt="" coords="719,123,873,164"/>
+<area shape="rect" id="node17" href="$d0/da3/class_c_r_s_f_telemetry.html#ac9f030b9b009c365f1bcff8e765dd4b6" title="CRSFTelemetry::send\l_flight_mode" alt="" coords="719,188,873,229"/>
+<area shape="rect" id="node19" href="$d9/dd2/crsf_8cpp.html#a6f0ac810cf076d93d2cca7bd8f3bc9d3" title="parse the current crsf_frame buffer " alt="" coords="319,245,441,271"/>
+<area shape="rect" id="node20" href="$d9/ddf/crsf_8h.html#a3ba9872a34453d4728c9f39ff225abb5" title="Parse the CRSF protocol and extract RC channel data. " alt="" coords="532,254,615,281"/>
+<area shape="rect" id="node21" href="$d5/d45/class_r_c_test.html#ad92adf914cbd3859baa03e0796030fb1" title="RCTest::crsfTest" alt="" coords="734,305,858,331"/>
+<area shape="rect" id="node22" href="$d5/d45/class_r_c_test.html#a24dc132b139993401308a4876b9b1afa" title="Override to run your unit tests. " alt="" coords="951,305,1082,331"/>
+</map>

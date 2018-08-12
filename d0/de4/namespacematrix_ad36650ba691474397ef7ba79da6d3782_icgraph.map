@@ -1,0 +1,51 @@
+<map id="matrix::wrap_pi" name="matrix::wrap_pi">
+<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#a6208d517ae36af0264e68ee89e93b114" title="Computes and sets heading a 2D vector. " alt="" coords="176,130,351,171"/>
+<area shape="rect" id="node3" href="$d1/dd0/class_flight_task_auto_line.html#a86edb77a2d8f5ad58515d979b9106ce5" title="Generate velocity and position setpoints for following line along xy. " alt="" coords="184,195,343,237"/>
+<area shape="rect" id="node4" href="$d5/d82/class_e_c_l___wheel_controller.html#ab50519e518c7cdf68b2f1ea0206a3dd4" title="ECL_WheelController\l::control_attitude" alt="" coords="189,261,337,302"/>
+<area shape="rect" id="node6" href="$dc/d66/class_ekf.html#af644f0431ec8322a6e6bc2dfb7cdff3d" title="Ekf::fuseHeading" alt="" coords="202,327,325,353"/>
+<area shape="rect" id="node10" href="$db/d35/geo_8h.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="194,581,333,622"/>
+<area shape="rect" id="node17" href="$db/d35/geo_8h.html#abeff6a5ec4736d7cb89258a0d26560d1" title="get_distance_to_arc" alt="" coords="439,173,577,200"/>
+<area shape="rect" id="node18" href="$db/d35/geo_8h.html#a8461e04a8672b957285ced1e58cad478" title="get_distance_to_line" alt="" coords="437,224,579,251"/>
+<area shape="rect" id="node20" href="$db/dad/class_mission.html#ad8efa954967af11e3183bc0af6d52eca" title="Updates the heading of the vehicle. " alt="" coords="437,341,579,382"/>
+<area shape="rect" id="node23" href="$da/d7b/class_mission_block.html#a6ecd406f400032b5ea48176bb884eb66" title="Check if mission item has been reached. " alt="" coords="423,406,593,447"/>
+<area shape="rect" id="node28" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="658,609,819,636"/>
+<area shape="rect" id="node38" href="$d7/d3a/class_matrix_test.html#ad5f3008e935246d7764c508982aebb4a" title="MatrixTest::helperTests" alt="" coords="183,740,343,767"/>
+<area shape="rect" id="node39" href="$d4/dec/helper_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="238,791,289,817"/>
+<area shape="rect" id="node40" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a0b85d2795cd09a2d17fb90aa0980dd23" title="The current target bearing. " alt="" coords="427,1054,589,1095"/>
+<area shape="rect" id="node41" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a7567fdc1eb3b4bdaf0d8d6ef2ec509ab" title="Navigate on a fixed bearing. " alt="" coords="427,989,589,1030"/>
+<area shape="rect" id="node42" href="$d1/d69/class_mavlink_mission_manager.html#a0b43e1be4f4a23e95bdbc70e9626ec6d" title="Parse mavlink MISSION_ITEM message to get mission_item_s. " alt="" coords="164,943,363,985"/>
+<area shape="rect" id="node44" href="$d1/d58/class_g_p_s.html#a52498a258feaecacc37c22365971b6c5" title="GPS::run" alt="" coords="225,1009,301,1036"/>
+<area shape="rect" id="node46" href="$d5/d0f/classmatrix_1_1_quaternion.html#a7a39f10c1be184323eb5866e4907d335" title="Rotation vector from quaternion XXX DEPRECATED, use AxisAngle class. " alt="" coords="199,1061,328,1102"/>
+<area shape="rect" id="node49" href="$db/d2b/class_attitude_estimator_q.html#aae666619f856c8def390dbc1a98cb9ba" title="AttitudeEstimatorQ\l::update" alt="" coords="197,1126,330,1167"/>
+<area shape="rect" id="node50" href="$de/df2/class_standard.html#a6f4b65c091e9b635d836fe1dffaae48b" title="Update multicopter state. " alt="" coords="190,1191,337,1233"/>
+<area shape="rect" id="node5" href="$d3/d25/class_fixedwing_attitude_control.html#a9a2fe5a46e51b61b291b93109b6c22f4" title="FixedwingAttitudeControl::run" alt="" coords="411,5,605,32"/>
+<area shape="rect" id="node7" href="$dc/d66/class_ekf.html#a4a504cfcfe76af40520e2f6abbcfccd3" title="Ekf::controlExternalVision\lFusion" alt="" coords="421,57,595,98"/>
+<area shape="rect" id="node9" href="$dc/d66/class_ekf.html#af7b13c3328aee801c57df71e99b3d2a2" title="Ekf::controlMagFusion" alt="" coords="431,123,585,149"/>
+<area shape="rect" id="node8" href="$dc/d66/class_ekf.html#a709c2a511002736cd376c265c244eace" title="Ekf::controlFusionModes" alt="" coords="655,93,822,120"/>
+<area shape="rect" id="node11" href="$d2/d86/classvmount_1_1_output_base.html#a63ca320abfe9fe7e2e54be97a3bb1335" title="check if vehicle position changed and update the setpoint angles if in gps mode " alt="" coords="421,471,595,513"/>
+<area shape="rect" id="node12" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#ab3839711a8ad6fc60c813a5df8515093" title="build_gps_response" alt="" coords="439,639,577,665"/>
+<area shape="rect" id="node13" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="653,930,824,971"/>
+<area shape="rect" id="node16" href="$db/d35/geo_8h.html#a713e1c07bb04347540b8c98af7bb6a37" title="Creates a new waypoint C on the line of two given waypoints (A, B) at certain distance from waypoint ..." alt="" coords="433,871,583,913"/>
+<area shape="rect" id="node30" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab402b69cd3a6053795e90d83a84c0da3" title="Navigate on an orbit around a loiter waypoint. " alt="" coords="427,741,589,782"/>
+<area shape="rect" id="node34" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a4812a285e3309e23e33f86f5cb86cf78" title="Navigate between two waypoints. " alt="" coords="427,806,589,847"/>
+<area shape="rect" id="node36" href="$db/dad/class_mission.html#a0f8f3ea8f7e1b4342278c137a5f4d256" title="Create mission item to align towards next waypoint. " alt="" coords="445,275,571,317"/>
+<area shape="rect" id="node37" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="447,537,569,564"/>
+<area shape="rect" id="node14" href="$d9/d31/class_fixedwing_position_control.html#ad90bcc3a1e81fdd41fd6d8b8ec462529" title="FixedwingPositionControl\l::control_position" alt="" coords="881,930,1051,971"/>
+<area shape="rect" id="node15" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="1108,1076,1304,1103"/>
+<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#a34945eedcd82eda8a50bd1890c0d09cc" title="Check nearby traffic for potential collisions. " alt="" coords="658,188,819,215"/>
+<area shape="rect" id="node21" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="666,239,811,281"/>
+<area shape="rect" id="node22" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="673,305,804,332"/>
+<area shape="rect" id="node24" href="$d8/d13/class_takeoff.html#a222d4e276bc3b82aca68af486cf9297f" title="This function is called while the mode is active. " alt="" coords="673,407,804,433"/>
+<area shape="rect" id="node25" href="$d9/d75/class_engine_failure.html#af733ac517fb2e86d89e117c0637652e8" title="This function is called while the mode is active. " alt="" coords="656,457,821,484"/>
+<area shape="rect" id="node26" href="$d7/dc4/class_r_c_loss.html#a533b999d196a106153d9068b23f5538f" title="This function is called while the mode is active. " alt="" coords="671,508,806,535"/>
+<area shape="rect" id="node27" href="$d9/d3a/class_data_link_loss.html#a8477f26e5eaae5758a225745417f7f6c" title="This function is called while the mode is active. " alt="" coords="655,356,822,383"/>
+<area shape="rect" id="node29" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="683,559,794,585"/>
+<area shape="rect" id="node31" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19" title="Returns true if following a circle (loiter) " alt="" coords="657,813,820,854"/>
+<area shape="rect" id="node32" href="$d7/d8c/class_ground_rover_position_control.html#a4f2f86b3be874fbb7928271fa49aa511" title="Control position. " alt="" coords="872,813,1060,854"/>
+<area shape="rect" id="node33" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="1112,911,1300,953"/>
+<area shape="rect" id="node35" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="653,995,824,1037"/>
+<area shape="rect" id="node43" href="$d1/d69/class_mavlink_mission_manager.html#a3cc251b5c79a7a80c4f2521f0971a566" title="MavlinkMissionManager\l::handle_mission_item_both" alt="" coords="416,1119,600,1161"/>
+<area shape="rect" id="node45" href="$d1/d58/class_g_p_s.html#a4a3aa97cd5091de0d8ccec36ff8a0707" title="task spawn trampoline for the secondary GPS " alt="" coords="437,1185,579,1226"/>
+<area shape="rect" id="node47" href="$d9/d0a/attitude_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="483,1301,533,1328"/>
+<area shape="rect" id="node48" href="$d7/d3a/class_matrix_test.html#a1e8a2ae6c70329c9d9a6459beda83146" title="MatrixTest::attitudeTests" alt="" coords="424,1251,592,1277"/>
+</map>

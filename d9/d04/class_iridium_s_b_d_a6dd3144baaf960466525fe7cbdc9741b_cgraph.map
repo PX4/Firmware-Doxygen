@@ -1,0 +1,51 @@
+<map id="IridiumSBD::main_loop" name="IridiumSBD::main_loop">
+<area shape="rect" id="node2" href="$d9/d04/class_iridium_s_b_d.html#a54b728cf36529c0ddb641c69cae6dc47" title="IridiumSBD::csq_loop" alt="" coords="222,1716,371,1743"/>
+<area shape="rect" id="node3" href="$d9/d04/class_iridium_s_b_d.html#abf5bc1e986efa858f207cb7c9cb651f2" title="IridiumSBD::read_at\l_command" alt="" coords="909,1831,1049,1873"/>
+<area shape="rect" id="node9" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="253,405,341,432"/>
+<area shape="rect" id="node11" href="$d9/d04/class_iridium_s_b_d.html#a03f335365055097adcf6acabff121224" title="IridiumSBD::open_uart" alt="" coords="219,212,374,239"/>
+<area shape="rect" id="node16" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="253,888,340,915"/>
+<area shape="rect" id="node17" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="255,939,338,965"/>
+<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#a7454d249ed94ad5d5e57ba1529d7a7f2" title="pthread_mutex_init" alt="" coords="231,989,363,1016"/>
+<area shape="rect" id="node19" href="$d9/d04/class_iridium_s_b_d.html#a6e61f78e48e329c0b94fb28955607d1c" title="IridiumSBD::publish\l_iridium_status" alt="" coords="227,822,366,863"/>
+<area shape="rect" id="node35" href="$d9/d04/class_iridium_s_b_d.html#ace803bbf3423bf87f4a661a49eeec31a" title="IridiumSBD::publish\l_subsystem_status" alt="" coords="227,739,366,781"/>
+<area shape="rect" id="node37" href="$d9/d04/class_iridium_s_b_d.html#a1e7f70dfc967c8f2ac65767a61ed51b5" title="IridiumSBD::sbdsession_loop" alt="" coords="648,2084,843,2111"/>
+<area shape="rect" id="node38" href="$d9/d04/class_iridium_s_b_d.html#abfcf8da764ba044a3d77bc460f661f25" title="IridiumSBD::standby_loop" alt="" coords="209,1399,384,1425"/>
+<area shape="rect" id="node42" href="$d9/d04/class_iridium_s_b_d.html#a072a63e324ee9d7f531a4cc9b83949f9" title="IridiumSBD::write_at" alt="" coords="908,1453,1051,1480"/>
+<area shape="rect" id="node49" href="$d9/d04/class_iridium_s_b_d.html#a9557aba95d8eb82e7e469f2797b69cac" title="IridiumSBD::test_loop" alt="" coords="670,939,821,965"/>
+<area shape="rect" id="node50" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="267,2135,327,2161"/>
+<area shape="rect" id="node4" href="$d9/d04/class_iridium_s_b_d.html#a9bf6a2383544e478ea80f23b7342c3eb" title="IridiumSBD::read_at" alt="" coords="1117,2013,1257,2040"/>
+<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="1307,2053,1437,2080"/>
+<area shape="rect" id="node6" href="$d9/d04/class_iridium_s_b_d.html#a428f0761b398ad33b8321315a46e1eae" title="IridiumSBD::read" alt="" coords="1311,2003,1433,2029"/>
+<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1493,1729,1631,1756"/>
+<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1485,2003,1639,2029"/>
+<area shape="rect" id="node10" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="453,123,579,149"/>
+<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="447,68,585,95"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="678,5,813,32"/>
+<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="676,57,815,98"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="671,123,819,149"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1309,1015,1435,1041"/>
+<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="466,779,566,805"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="472,829,560,856"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="674,771,817,813"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="674,538,817,579"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="908,771,1051,813"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="908,706,1051,747"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1116,706,1259,747"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="908,225,1051,266"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="908,290,1051,331"/>
+<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="908,355,1051,397"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="908,421,1051,462"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="891,487,1068,513"/>
+<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="908,538,1051,579"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="894,604,1065,631"/>
+<area shape="rect" id="node36" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="445,728,587,755"/>
+<area shape="rect" id="node39" href="$d9/d04/class_iridium_s_b_d.html#a356a320d842d4b23e0eb1f4f44932b7d" title="IridiumSBD::write" alt="" coords="1125,1565,1250,1592"/>
+<area shape="rect" id="node40" href="$d9/d04/class_iridium_s_b_d.html#a3df92c829b41adc5df92bb168625c9c5" title="IridiumSBD::start_test" alt="" coords="440,1481,592,1508"/>
+<area shape="rect" id="node43" href="$d9/d04/class_iridium_s_b_d.html#ae0f386288f0431da1dedacabfef0703f" title="IridiumSBD::write_tx_buf" alt="" coords="432,1679,600,1705"/>
+<area shape="rect" id="node44" href="$d9/d04/class_iridium_s_b_d.html#a00e426677c67ecb330a73afd625713f1" title="IridiumSBD::clear_mo\l_buffer" alt="" coords="670,1446,821,1487"/>
+<area shape="rect" id="node45" href="$d9/d04/class_iridium_s_b_d.html#ad5522293011b54e92bb5519d4e4d9cf7" title="IridiumSBD::start_sbd\l_session" alt="" coords="441,1227,591,1269"/>
+<area shape="rect" id="node46" href="$d9/d04/class_iridium_s_b_d.html#a52ef5277ac93cc48f062be9d48344b8a" title="IridiumSBD::start_csq" alt="" coords="441,1359,591,1385"/>
+<area shape="rect" id="node47" href="$d9/d04/class_iridium_s_b_d.html#a80a0e618cd2bd1c2ebf0bfd355edf6c4" title="IridiumSBD::read_rx_buf" alt="" coords="433,1932,599,1959"/>
+<area shape="rect" id="node41" href="$d9/d04/class_iridium_s_b_d.html#adaf97cd439365ed8a40b7709c5ad5afb" title="IridiumSBD::is_modem\l_ready" alt="" coords="667,1511,824,1553"/>
+<area shape="rect" id="node48" href="$d9/d04/class_iridium_s_b_d.html#a1f3e4ae2e0f67f83cbc8ef04ea38f1e5" title="IridiumSBD::read_at_msg" alt="" coords="659,2185,831,2212"/>
+</map>

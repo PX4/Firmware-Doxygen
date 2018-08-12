@@ -1,0 +1,40 @@
+<map id="perf_set_elapsed" name="perf_set_elapsed">
+<area shape="rect" id="node2" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="209,31,332,57"/>
+<area shape="rect" id="node4" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="213,107,328,133"/>
+<area shape="rect" id="node14" href="$dd/dd1/class_simulator.html#a1a78752a0e42cc7012f4bcd474795792" title="Simulator::handle_message" alt="" coords="179,164,362,191"/>
+<area shape="rect" id="node15" href="$d1/dde/class_p_x4_i_o.html#a87c6d20b85048636ff90b68f19f91e50" title="Send controls for one group to IO. " alt="" coords="195,215,346,257"/>
+<area shape="rect" id="node18" href="$d7/d56/class_p_w_m_sim.html#aed1047e5bd8fbe7d9f4688ada2639001" title="PWMSim::run" alt="" coords="219,281,323,308"/>
+<area shape="rect" id="node19" href="$d5/d94/class_uavcan_node.html#aa5f18742853ca1adad2e98067f0806d7" title="UavcanNode::run" alt="" coords="209,336,333,363"/>
+<area shape="rect" id="node28" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="182,412,359,439"/>
+<area shape="rect" id="node35" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="175,512,367,539"/>
+<area shape="rect" id="node3" href="$d2/da9/class_t_a_p___e_s_c.html#a24c08fd964d11944b1f351dbb5723dd5" title="TAP_ESC::run" alt="" coords="459,5,569,32"/>
+<area shape="rect" id="node5" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="423,107,605,133"/>
+<area shape="rect" id="node13" href="$df/d64/class_p_x4_f_m_u.html#a00f750c72c6cc1f0bd156b5de4d9fac9" title="PX4FMU::run" alt="" coords="463,157,565,184"/>
+<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="661,56,828,83"/>
+<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#a622e54b376f05bfd26ec16cbbe2889bf" title="PX4FMU::task_spawn" alt="" coords="1323,107,1477,133"/>
+<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="879,56,1057,83"/>
+<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="1120,56,1263,83"/>
+<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="1346,56,1454,83"/>
+<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="1525,56,1632,83"/>
+<area shape="rect" id="node11" href="$df/d64/class_p_x4_f_m_u.html#a2be5e5695b54ad07a8e905b64992a46d" title="PX4FMU::custom_command" alt="" coords="1680,81,1871,108"/>
+<area shape="rect" id="node16" href="$d1/dde/class_p_x4_i_o.html#a13a7232c61281a84cdd5163ca7e32518" title="Send all controls to IO. " alt="" coords="439,209,589,250"/>
+<area shape="rect" id="node17" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="680,216,809,243"/>
+<area shape="rect" id="node20" href="$d5/d94/class_uavcan_node.html#a13ed0c01582208064184373b44ea6d6d" title="UavcanNode::start" alt="" coords="448,340,580,367"/>
+<area shape="rect" id="node26" href="$d5/d94/class_uavcan_node.html#aa89be231fb3bb5fb6329b5dea28b866c" title="UavcanNode::attachITxQueue\lInjector" alt="" coords="415,391,613,433"/>
+<area shape="rect" id="node27" href="$d0/dfe/class_restart_request_handler.html#ae2957db559b8494d1afb2f1fcb29cea3" title="RestartRequestHandler\l::handleRestartRequest" alt="" coords="434,274,594,315"/>
+<area shape="rect" id="node21" href="$dc/d91/uavcan__module_8hpp.html#a7c10586500dfc2bf6419399affc8e1a9" title="uavcan_main" alt="" coords="695,277,794,304"/>
+<area shape="rect" id="node23" href="$d1/dfc/uavcannode__main_8cpp.html#aa5d73b47d975f5ba7be1925d14c02c63" title="uavcannode_start" alt="" coords="682,340,807,367"/>
+<area shape="rect" id="node22" href="$d7/de6/uavcan__main_8cpp.html#a5abe0071a53c95b01791701e62cc1e07" title="print_usage" alt="" coords="923,277,1013,304"/>
+<area shape="rect" id="node24" href="$d1/dfc/uavcannode__main_8cpp.html#a5abe0071a53c95b01791701e62cc1e07" title="print_usage" alt="" coords="923,403,1013,429"/>
+<area shape="rect" id="node25" href="$d1/dfc/uavcannode__main_8cpp.html#a829e28ad70ccffca620793d7da2e2df6" title="uavcannode_main" alt="" coords="1128,340,1255,367"/>
+<area shape="rect" id="node29" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="443,457,585,498"/>
+<area shape="rect" id="node30" href="$d0/db0/namespacelinux__pwm__out.html#a15fd89cbae6f918aee78e46d9d018a7b" title="linux_pwm_out::start" alt="" coords="673,453,816,480"/>
+<area shape="rect" id="node33" href="$de/d9c/class_ekf2.html#a8ad1745bc2cc2c53ac1c48c2ec2e172e" title="Ekf2::set_replay_mode" alt="" coords="667,504,823,531"/>
+<area shape="rect" id="node31" href="$da/dd6/linux__pwm__out_8cpp.html#a412407ab462307bbeb3e9198bc9872ce" title="linux_pwm_out_main" alt="" coords="896,453,1040,480"/>
+<area shape="rect" id="node32" href="$d0/db0/namespacelinux__pwm__out.html#a3eab6d177df998cc3a3fe0664f591369" title="linux_pwm_out::usage" alt="" coords="1115,453,1267,480"/>
+<area shape="rect" id="node34" href="$de/d9c/class_ekf2.html#a0c2ca6006a7790b7b1ed1a5ca7d1de3d" title="Ekf2::instantiate" alt="" coords="909,504,1027,531"/>
+<area shape="rect" id="node36" href="$d3/d92/namespacesnapdragon__pwm.html#a2ba69ca6582c4546ff158d57c18fec22" title="snapdragon_pwm::task\l_main_trampoline" alt="" coords="435,534,593,575"/>
+<area shape="rect" id="node37" href="$d3/d92/namespacesnapdragon__pwm.html#a4ded7b1adaa7c042a7feec376941cc2f" title="snapdragon_pwm::start" alt="" coords="665,555,824,581"/>
+<area shape="rect" id="node38" href="$d8/dad/snapdragon__pwm__out_8cpp.html#a21dce0265a43d504f07e3c24e3302e83" title="snapdragon_pwm_out_main" alt="" coords="876,555,1060,581"/>
+<area shape="rect" id="node39" href="$d3/d92/namespacesnapdragon__pwm.html#a8d24f1d491d98e86370e41289f812007" title="snapdragon_pwm::usage" alt="" coords="1108,555,1275,581"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Integrator::_reset" name="Integrator::_reset">
+<area shape="rect" id="node2" href="$d6/d55/class_integrator.html#a8943d78049033cde41d94ecfcfc8a170" title="Get the current integral and reset the integrator if needed. " alt="" coords="175,1230,277,1257"/>
+<area shape="rect" id="node3" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="175,1281,277,1307"/>
+<area shape="rect" id="node4" href="$d8/db8/class_a_d_i_s16448.html#a6bf03658298f1137f5e15fa7921a5c09" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="337,171,484,198"/>
+<area shape="rect" id="node12" href="$d8/de0/class_a_d_i_s16477.html#ab4cabdb6a745b81db63ad1bff49c8cf7" title="ADIS16477::publish\l_accel" alt="" coords="341,368,480,409"/>
+<area shape="rect" id="node14" href="$d8/de0/class_a_d_i_s16477.html#a620c17ab45fdb7ed955242decb3f6cd7" title="ADIS16477::publish_gyro" alt="" coords="325,449,496,475"/>
+<area shape="rect" id="node15" href="$d2/d34/class_b_m_i055__accel.html#ac362d079edf5896e2370325932bf576e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="329,529,492,555"/>
+<area shape="rect" id="node20" href="$d7/d07/class_b_m_i055__gyro.html#a4f3db255e14576ecd002aed271c8f3ec" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="332,747,489,774"/>
+<area shape="rect" id="node25" href="$df/d9d/class_b_m_i160.html#a73c594edaf8f617904ad5907fa2eac33" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="348,975,473,1002"/>
+<area shape="rect" id="node31" href="$df/d3b/class_f_x_a_s21002_c.html#ab9d78d3c80768c5c4eda82e1427f6d98" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="331,1175,491,1202"/>
+<area shape="rect" id="node35" href="$db/d27/class_f_x_o_s8701_c_q.html#ab6b6bd9cebddecaa1732c34ba2f8fe03" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="329,1255,493,1282"/>
+<area shape="rect" id="node39" href="$de/dc0/class_l3_g_d20.html#a443a2de5bcb8c6fe473b0abeb66319c2" title="Fetch measurements from the sensor and update the report ring. " alt="" coords="347,1306,475,1333"/>
+<area shape="rect" id="node43" href="$d6/dd5/class_l_s_m303_d.html#a9e12ef7f12febb7f4d8e900e848b3dbd" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="341,1357,480,1383"/>
+<area shape="rect" id="node45" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="341,1407,480,1434"/>
+<area shape="rect" id="node46" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="341,1458,480,1485"/>
+<area shape="rect" id="node47" href="$d6/d55/class_integrator.html#a3e90de0afccfcec99ebdfaa8af3256ff" title="Put an item into the integral but provide an interval instead of a timestamp. " alt="" coords="343,1509,478,1551"/>
+<area shape="rect" id="node48" href="$da/d7e/class_g_y_r_o_s_i_m.html#a7fa7591e3e3e61bc96e09b53cc3724cd" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="335,1575,486,1602"/>
+<area shape="rect" id="node49" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="335,1627,486,1668"/>
+<area shape="rect" id="node50" href="$df/d4c/class_df_mpu9250_wrapper.html#a731b19d90418d3ec545122f2d097040e" title="DfMpu9250Wrapper::\l_publish" alt="" coords="337,1692,484,1733"/>
+<area shape="rect" id="node5" href="$df/d56/struct_a_d_i_s16448_1_1_a_d_i_s_report.html#a95385ce98bad534131a02899dd841801" title="ADIS16448::ADISReport\l::ADISReport" alt="" coords="787,88,955,129"/>
+<area shape="rect" id="node6" href="$d8/db8/class_a_d_i_s16448.html#a66e6999e46301abe4a1ecabf467409ed" title="ADIS16448::gyro_read" alt="" coords="564,41,719,67"/>
+<area shape="rect" id="node7" href="$d8/db8/class_a_d_i_s16448.html#ae5539bb23371afbb4adc88331b562174" title="ADIS16448::init" alt="" coords="584,91,699,118"/>
+<area shape="rect" id="node8" href="$d8/db8/class_a_d_i_s16448.html#a10b11b77436a99f1a3df8ed5ac33e173" title="ADIS16448::mag_read" alt="" coords="564,142,719,169"/>
+<area shape="rect" id="node9" href="$d8/db8/class_a_d_i_s16448.html#aceea7501fea8aa6b27134126dea1e0be" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="568,193,715,235"/>
+<area shape="rect" id="node10" href="$d8/db8/class_a_d_i_s16448.html#ae89126788abd0599b232f58073914928" title="ADIS16448::read" alt="" coords="580,259,703,286"/>
+<area shape="rect" id="node11" href="$d8/db8/class_a_d_i_s16448.html#a7cad5a6396ea8218d23831a20f898f9e" title="Measurement self test. " alt="" coords="568,310,715,337"/>
+<area shape="rect" id="node13" href="$d8/de0/class_a_d_i_s16477.html#aae8de66adfe0f85a742da8628de284c8" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="568,361,715,387"/>
+<area shape="rect" id="node16" href="$d2/d34/class_b_m_i055__accel.html#af8dcfeb17e4175b560b7b456528b755b" title="BMI055_accel::init" alt="" coords="576,411,707,438"/>
+<area shape="rect" id="node17" href="$d2/d34/class_b_m_i055__accel.html#a3ada8e84158f80206e59b819cb945995" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="560,463,723,504"/>
+<area shape="rect" id="node18" href="$d2/d34/class_b_m_i055__accel.html#a90c8f7698bc91b29c708674683d00859" title="BMI055_accel::read" alt="" coords="572,529,711,555"/>
+<area shape="rect" id="node19" href="$d2/d34/class_b_m_i055__accel.html#af7791b5330c2e9b7fd964ec2420fd155" title="Measurement self test. " alt="" coords="560,579,723,606"/>
+<area shape="rect" id="node21" href="$d7/d07/class_b_m_i055__gyro.html#a800a1772bcf8fc4bef5157362f78e58f" title="BMI055_gyro::init" alt="" coords="579,630,703,657"/>
+<area shape="rect" id="node22" href="$d7/d07/class_b_m_i055__gyro.html#a31cdfc0d76f39813b9ad6fa7dbc5884c" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="563,681,720,723"/>
+<area shape="rect" id="node23" href="$d7/d07/class_b_m_i055__gyro.html#a8b835dd6de960687c35a6cf45d039c01" title="BMI055_gyro::read" alt="" coords="575,747,707,774"/>
+<area shape="rect" id="node24" href="$d7/d07/class_b_m_i055__gyro.html#a87d62368b9b1bb5bae341039b546c5d1" title="Measurement self test. " alt="" coords="563,798,720,825"/>
+<area shape="rect" id="node26" href="$df/d9d/class_b_m_i160.html#ab12be33dd780e70690bd6be48d332597" title="BMI160::gyro_read" alt="" coords="575,849,707,875"/>
+<area shape="rect" id="node27" href="$df/d9d/class_b_m_i160.html#a2bf157c226ff912157b46080ed61b1a7" title="BMI160::init" alt="" coords="595,899,687,926"/>
+<area shape="rect" id="node28" href="$df/d9d/class_b_m_i160.html#adbb87fe8aa27be8b49e63f4f231ccf36" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="545,950,737,977"/>
+<area shape="rect" id="node29" href="$df/d9d/class_b_m_i160.html#aa459b141953b2146d23cff7c19c162db" title="BMI160::read" alt="" coords="591,1001,691,1027"/>
+<area shape="rect" id="node30" href="$df/d9d/class_b_m_i160.html#a61d5c769956b53b6f6ec96c60c47df78" title="Measurement self test. " alt="" coords="579,1051,704,1078"/>
+<area shape="rect" id="node32" href="$df/d3b/class_f_x_a_s21002_c.html#a56c6b2a8a48c2780fdffa4ec48d709a1" title="FXAS21002C::init" alt="" coords="578,1102,705,1129"/>
+<area shape="rect" id="node33" href="$df/d3b/class_f_x_a_s21002_c.html#af92c2dfccd3c1cc7219e6dadbb64a2cc" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="561,1153,721,1195"/>
+<area shape="rect" id="node34" href="$df/d3b/class_f_x_a_s21002_c.html#a3aa906c5df3b753a67e872f6fe8b3367" title="FXAS21002C::read" alt="" coords="574,1219,709,1246"/>
+<area shape="rect" id="node36" href="$db/d27/class_f_x_o_s8701_c_q.html#a84d7a1b2c731f53cfeaeafea9d4d79e5" title="FXOS8701CQ::init" alt="" coords="576,1270,707,1297"/>
+<area shape="rect" id="node37" href="$db/d27/class_f_x_o_s8701_c_q.html#a62032defed8f63f3247543f1eea54ecf" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="559,1321,723,1363"/>
+<area shape="rect" id="node38" href="$db/d27/class_f_x_o_s8701_c_q.html#aca0e377ea34dc732ae4421a04e8babcf" title="FXOS8701CQ::read" alt="" coords="572,1387,711,1414"/>
+<area shape="rect" id="node40" href="$de/dc0/class_l3_g_d20.html#af95dab780439f0cc80056dc5f8ed5043" title="L3GD20::init" alt="" coords="594,1438,689,1465"/>
+<area shape="rect" id="node41" href="$de/dc0/class_l3_g_d20.html#a747d9c811ae00c9c8d34840a130fb35e" title="L3GD20::read" alt="" coords="590,1489,693,1515"/>
+<area shape="rect" id="node42" href="$de/dc0/class_l3_g_d20.html#ab811b4486b901b82baaac9b720812de5" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="544,1539,739,1566"/>
+<area shape="rect" id="node44" href="$d6/dd5/class_l_s_m303_d.html#ab0db9cf05f9c20ab1b6edffc66e6cd14" title="LSM303D::init" alt="" coords="589,1590,694,1617"/>
+</map>

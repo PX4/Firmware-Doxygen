@@ -1,0 +1,51 @@
+<map id="FixedwingPositionControl::tecs_update_pitch_throttle" name="FixedwingPositionControl::tecs_update_pitch_throttle">
+<area shape="rect" id="node2" href="$df/de7/test__sensors_8c.html#a7e59b8ff2e9eb4aba115d1a9fe3ff438" title="baro" alt="" coords="313,107,360,133"/>
+<area shape="rect" id="node7" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="767,660,879,687"/>
+<area shape="rect" id="node8" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="804,1007,843,1033"/>
+<area shape="rect" id="node9" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="255,1231,419,1257"/>
+<area shape="rect" id="node10" href="$d1/d1f/class_t_e_c_s.html#a1dfc0c8e29880d611ce4149701bcb5cb" title="TECS::hgt_rate_setpoint" alt="" coords="253,1281,420,1308"/>
+<area shape="rect" id="node11" href="$d1/d1f/class_t_e_c_s.html#a539bcd8336e9cf2141df49f2e3553c76" title="TECS::hgt_setpoint_adj" alt="" coords="256,1332,417,1359"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="274,1383,399,1409"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="276,1433,397,1460"/>
+<area shape="rect" id="node14" href="$d0/d58/position__estimator__inav__main_8cpp.html#a9788a89a1fa912669102bc6049a9ed9b" title="max" alt="" coords="800,1253,847,1280"/>
+<area shape="rect" id="node15" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="287,336,387,363"/>
+<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="295,441,378,468"/>
+<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="299,285,374,312"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="293,391,381,417"/>
+<area shape="rect" id="node24" href="$d1/d1f/class_t_e_c_s.html#a9cbb494361ca3e8b6111b251f2b419ae" title="TECS::pitch_integ_state" alt="" coords="254,1484,419,1511"/>
+<area shape="rect" id="node25" href="$d1/d1f/class_t_e_c_s.html#a6a2cc48df5201b3cd43e88eb35f9d3bc" title="TECS::reset_state" alt="" coords="271,1535,402,1561"/>
+<area shape="rect" id="node26" href="$d1/d1f/class_t_e_c_s.html#abe3fcf5bc5f3b4c9025619fb3299f649" title="TECS::SEB_error" alt="" coords="273,1585,400,1612"/>
+<area shape="rect" id="node27" href="$d1/d1f/class_t_e_c_s.html#a7bc03c559ab034ba62b1a8855af72073" title="TECS::SEB_rate_error" alt="" coords="259,1636,414,1663"/>
+<area shape="rect" id="node28" href="$d1/d1f/class_t_e_c_s.html#a9823126daa119eb29fbcc40f6be61953" title="TECS::set_detect_underspeed\l_enabled" alt="" coords="236,1687,437,1729"/>
+<area shape="rect" id="node29" href="$d1/d1f/class_t_e_c_s.html#ac6962e13c64e447661d0cd504a243e6d" title="TECS::speed_derivative" alt="" coords="255,1753,419,1780"/>
+<area shape="rect" id="node30" href="$d1/d1f/class_t_e_c_s.html#ac09a33c53bbad0888adc35788bea8556" title="TECS::STE_error" alt="" coords="274,1804,399,1831"/>
+<area shape="rect" id="node31" href="$d1/d1f/class_t_e_c_s.html#a794690694675172ea63b2ea346eba32b" title="TECS::STE_rate_error" alt="" coords="259,1855,414,1881"/>
+<area shape="rect" id="node32" href="$d1/d1f/class_t_e_c_s.html#a185b45ebbd023bfcd1558e5a5a59d864" title="TECS::TAS_rate_setpoint" alt="" coords="249,1905,424,1932"/>
+<area shape="rect" id="node33" href="$d1/d1f/class_t_e_c_s.html#a689059bbd58161e1eeff65576fcff07c" title="TECS::TAS_setpoint_adj" alt="" coords="252,1956,421,1983"/>
+<area shape="rect" id="node34" href="$d1/d1f/class_t_e_c_s.html#ab37c9aacd591be3f1bab8658b365933f" title="TECS::tas_state" alt="" coords="277,2007,397,2033"/>
+<area shape="rect" id="node35" href="$d1/d1f/class_t_e_c_s.html#a8e4d5ae8a5bb5880a8f45ca4e76ad55b" title="TECS::tecs_mode" alt="" coords="271,2057,402,2084"/>
+<area shape="rect" id="node36" href="$d1/d1f/class_t_e_c_s.html#a13a78d5db1a21c823da7443932d37e70" title="TECS::throttle_integ\l_state" alt="" coords="266,2109,407,2150"/>
+<area shape="rect" id="node37" href="$d1/d1f/class_t_e_c_s.html#a031b65916f13dc73541b9bbfd181743d" title="TECS::timestamp" alt="" coords="273,2175,400,2201"/>
+<area shape="rect" id="node38" href="$d1/d1f/class_t_e_c_s.html#a6aeedcf79e4323b84da462c9e6616be8" title="Update the control loop calculations. " alt="" coords="267,911,407,953"/>
+<area shape="rect" id="node48" href="$d1/d1f/class_t_e_c_s.html#aab6412a9450a4430487b7b1cffa7c38f" title="Updates the following vehicle kineamtic state estimates: Vertical position, velocity and acceleration..." alt="" coords="509,543,663,585"/>
+<area shape="rect" id="node49" href="$d1/d1f/class_t_e_c_s.html#a6818e31793fe7235feabd61348c093a1" title="TECS::vert_pos_state" alt="" coords="261,2225,413,2252"/>
+<area shape="rect" id="node50" href="$d1/d1f/class_t_e_c_s.html#a2dc166bc0bc6528f75b448e2b4c92a87" title="TECS::vert_vel_state" alt="" coords="263,2276,411,2303"/>
+<area shape="rect" id="node3" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="545,5,627,32"/>
+<area shape="rect" id="node4" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="547,56,625,83"/>
+<area shape="rect" id="node5" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="960,183,1035,209"/>
+<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="556,107,616,133"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="515,325,657,366"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="515,259,657,301"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="752,314,895,355"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="735,208,912,235"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="752,407,895,449"/>
+<area shape="rect" id="node39" href="$d1/d1f/class_t_e_c_s.html#a3c9071e0e57efc5e8570212f629bab17" title="Initialize the controller. " alt="" coords="505,660,667,687"/>
+<area shape="rect" id="node40" href="$d1/d1f/class_t_e_c_s.html#ad80df2b3b140f116e244b619687f5033" title="Update the airspeed internal state using a second order complementary filter. " alt="" coords="509,1191,663,1233"/>
+<area shape="rect" id="node41" href="$d1/d1f/class_t_e_c_s.html#a4732c2d116797890c55e3c6d11663b2d" title="Calculate specific total energy rate limits. " alt="" coords="487,893,685,920"/>
+<area shape="rect" id="node42" href="$d1/d1f/class_t_e_c_s.html#a77bfca668f7e22596ff8c3bf624a4eb7" title="Detect if the system is not capable of maintaining airspeed. " alt="" coords="495,944,677,971"/>
+<area shape="rect" id="node43" href="$d1/d1f/class_t_e_c_s.html#a744cffdf8757b70e4051f05afa078922" title="Detect an uncommanded descent. " alt="" coords="485,1061,687,1102"/>
+<area shape="rect" id="node44" href="$d1/d1f/class_t_e_c_s.html#af1b423dec94a3bee2c7951e2c20fc9a8" title="Update the desired airspeed. " alt="" coords="509,711,663,753"/>
+<area shape="rect" id="node45" href="$d1/d1f/class_t_e_c_s.html#a52d4b31866f3a53e2d1fb2c08324a8c0" title="Update the desired height. " alt="" coords="509,1126,663,1167"/>
+<area shape="rect" id="node46" href="$d1/d1f/class_t_e_c_s.html#a9df3e59fc5b1e294c7aa3f3c21c48f1b" title="Update specific energy. " alt="" coords="507,995,665,1037"/>
+<area shape="rect" id="node47" href="$d1/d1f/class_t_e_c_s.html#aa46d349335c601e995746ea03306526b" title="Update throttle setpoint. " alt="" coords="507,777,665,818"/>
+</map>

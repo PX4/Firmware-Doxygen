@@ -1,0 +1,8 @@
+<map id="kinetis_boardinitialize" name="kinetis_boardinitialize">
+<area shape="rect" id="node2" href="$d0/d7a/esc35-v1_2led_8c.html#a14ce19cd6180f85123c3093884443de2" title="board_autoled_initialize" alt="" coords="200,5,357,32"/>
+<area shape="rect" id="node4" href="$d3/dd0/board__gpio__init_8c.html#a9bf42b680ad389f87661d89a4bd177b3" title="board_gpio_init" alt="" coords="224,56,333,83"/>
+<area shape="rect" id="node5" href="$da/dd9/auav-x21_2init_8c.html#a0d1f67dfcff84f6537854cc1fb599357" title="board_on_reset" alt="" coords="223,107,334,133"/>
+<area shape="rect" id="node6" href="$da/d45/nxphlite-v3_2board__config_8h.html#a63c0cbeac150b79e91f67a1a5c853b7a" title="nxphlite_timer_initialize" alt="" coords="200,157,357,184"/>
+<area shape="rect" id="node7" href="$db/d24/nxphlite-v3_2init_8c.html#a57c0c0b4d0ab5093158602420d2038ab" title="up_rtc_getdatetime" alt="" coords="212,208,345,235"/>
+<area shape="rect" id="node3" href="$da/def/aerocore2_2led_8c.html#a0cc0bc29c523ad33c74e9b50baf905c5" title="Ideally we&#39;d be able to get these from up_internal.h, but since we want to be able to disable the Nut..." alt="" coords="405,5,468,32"/>
+</map>

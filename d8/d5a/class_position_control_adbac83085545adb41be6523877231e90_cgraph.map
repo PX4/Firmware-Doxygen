@@ -1,0 +1,36 @@
+<map id="PositionControl::generateThrustYawSetpoint" name="PositionControl::generateThrustYawSetpoint">
+<area shape="rect" id="node2" href="$d8/d5a/class_position_control.html#a97e0d61b3061782667ead8c77429e3af" title="maps set&#45;points to internal member set&#45;points " alt="" coords="229,70,399,111"/>
+<area shape="rect" id="node5" href="$d1/d71/classmatrix_1_1_vector.html#adfde6b53c2c967f684dd5571d847781e" title="matrix::Vector::length" alt="" coords="687,157,834,184"/>
+<area shape="rect" id="node10" href="$d8/d5a/class_position_control.html#a344630cfe29f6359d43b36e72e3b97d4" title="applies the P&#45;position&#45;controller " alt="" coords="229,278,399,319"/>
+<area shape="rect" id="node33" href="$d3/d87/classmatrix_1_1_vector3.html#a3137bf85900a4a03fbc40e6be1a2acf2" title="matrix::Vector3::normalized" alt="" coords="223,428,405,455"/>
+<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="483,184,595,211"/>
+<area shape="rect" id="node4" href="$d5/d30/namespace_control_math.html#a93d382fefe8734cbbfef3a1e2222e50a" title="Outputs the sum of two vectors but respecting the limits and priority. " alt="" coords="453,79,625,105"/>
+<area shape="rect" id="node6" href="$d0/d58/position__estimator__inav__main_8cpp.html#a9788a89a1fa912669102bc6049a9ed9b" title="max" alt="" coords="737,5,784,32"/>
+<area shape="rect" id="node7" href="$d1/d71/classmatrix_1_1_vector.html#a8cbb2d42da6488e74e0596b0e14bd825" title="matrix::Vector::normalized" alt="" coords="673,56,848,83"/>
+<area shape="rect" id="node8" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="741,311,780,337"/>
+<area shape="rect" id="node9" href="$d1/d71/classmatrix_1_1_vector.html#a93e0572c7a71bef0508953d4ad018fa3" title="matrix::Vector::dot" alt="" coords="695,107,826,133"/>
+<area shape="rect" id="node11" href="$df/de7/test__sensors_8c.html#a46c6cfc357986e1d96d9afba27ad8829" title="mag" alt="" coords="516,437,563,464"/>
+<area shape="rect" id="node31" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="499,285,579,312"/>
+<area shape="rect" id="node32" href="$dd/d47/namespacemath.html#a170c8bc1488f2665d663d8234e3356a6" title="math::sign" alt="" coords="498,336,581,363"/>
+<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="937,463,1018,489"/>
+<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="721,361,800,388"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="940,564,1015,591"/>
+<area shape="rect" id="node30" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="731,412,791,439"/>
+<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1107,615,1248,641"/>
+<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1140,513,1215,540"/>
+<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1311,311,1450,337"/>
+<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1304,412,1457,439"/>
+<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1313,615,1448,641"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1296,665,1465,692"/>
+<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1307,564,1455,591"/>
+<area shape="rect" id="node21" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="896,260,1059,287"/>
+<area shape="rect" id="node24" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1145,311,1209,337"/>
+<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1108,564,1247,591"/>
+<area shape="rect" id="node27" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="931,361,1024,388"/>
+<area shape="rect" id="node22" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="1109,209,1245,236"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1125,260,1229,287"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1311,498,1450,539"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1110,665,1245,692"/>
+<area shape="rect" id="node34" href="$d3/d87/classmatrix_1_1_vector3.html#a79e6f82cac6c4ccd541c6765170fe1b7" title="Override vector ops so Vector3 type is returned. " alt="" coords="469,513,609,540"/>
+<area shape="rect" id="node35" href="$d3/d87/classmatrix_1_1_vector3.html#a5bf7b3a10b322246ed2b4db2e80b2ff6" title="matrix::Vector3::Vector3" alt="" coords="679,564,843,591"/>
+</map>

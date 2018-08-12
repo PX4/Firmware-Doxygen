@@ -1,0 +1,33 @@
+<map id="src/drivers/drv_baro.h" name="src/drivers/drv_baro.h">
+<area shape="rect" id="node2" href="$dc/da6/bmp280_8cpp.html" title="Driver for the BMP280 barometric pressure sensor connected via I2C TODO or SPI. " alt="" coords="155,87,302,129"/>
+<area shape="rect" id="node3" href="$d0/d7e/_l_p_s22_h_b_8hpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.hpp" alt="" coords="327,87,485,129"/>
+<area shape="rect" id="node8" href="$d5/d75/lps25h_8cpp.html" title="Driver for the LPS25H barometer connected via I2C or SPI. " alt="" coords="509,87,655,129"/>
+<area shape="rect" id="node9" href="$db/dac/mpl3115a2_8cpp.html" title="FIXME!: This is stubberd out driver for the NXP MPL3115A2 it has bogus code in it and is just being u..." alt="" coords="679,87,861,129"/>
+<area shape="rect" id="node10" href="$d6/d17/ms5611_8cpp.html" title="Driver for the MS5611 and MS6507 barometric pressure sensor connected via I2C or SPI. " alt="" coords="885,87,1031,129"/>
+<area shape="rect" id="node11" href="$d4/d94/baro__calibration_8cpp.html" title="Barometer calibration routine. " alt="" coords="1055,87,1221,129"/>
+<area shape="rect" id="node12" href="$d7/d24/_preflight_check_8cpp.html" title="Preflight check for main system components. " alt="" coords="1245,87,1410,129"/>
+<area shape="rect" id="node13" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="1434,87,1583,129"/>
+<area shape="rect" id="node14" href="$dd/d59/voted__sensors__update_8h.html" title="src/modules/sensors\l/voted_sensors_update.h" alt="" coords="1607,87,1775,129"/>
+<area shape="rect" id="node17" href="$dc/dba/simulator_2barosim_2baro_8cpp.html" title="src/modules/simulator\l/barosim/baro.cpp" alt="" coords="1273,184,1424,225"/>
+<area shape="rect" id="node18" href="$d3/d9e/simulator_8h.html" title="A device simulator. " alt="" coords="1851,87,2001,129"/>
+<area shape="rect" id="node26" href="$d3/d35/baro_8hpp.html" title="src/modules/uavcan\l/sensors/baro.hpp" alt="" coords="2026,87,2165,129"/>
+<area shape="rect" id="node29" href="$d3/d30/df__bmp280__wrapper_8cpp.html" title="Lightweight driver to access the BMP280 of the DriverFramework. " alt="" coords="2189,80,2375,136"/>
+<area shape="rect" id="node30" href="$da/d05/df__ms5607__wrapper_8cpp.html" title="Lightweight driver to access the MS5607 of the DriverFramework. " alt="" coords="2399,80,2586,136"/>
+<area shape="rect" id="node31" href="$d4/d7c/df__ms5611__wrapper_8cpp.html" title="Lightweight driver to access the MS5611 of the DriverFramework. " alt="" coords="2610,80,2797,136"/>
+<area shape="rect" id="node32" href="$df/de7/test__sensors_8c.html" title="Tests the onboard sensors. " alt="" coords="2821,87,2973,129"/>
+<area shape="rect" id="node4" href="$d4/dbd/_l_p_s22_h_b_8cpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.cpp" alt="" coords="5,184,164,225"/>
+<area shape="rect" id="node5" href="$d9/de1/_l_p_s22_h_b___i2_c_8cpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB_I2C.cpp" alt="" coords="189,184,375,225"/>
+<area shape="rect" id="node6" href="$d0/d68/lps22hb__main_8cpp.html" title="src/drivers/barometer\l/lps22hb/lps22hb_main.cpp" alt="" coords="400,184,580,225"/>
+<area shape="rect" id="node7" href="$d3/d5f/_l_p_s22_h_b___s_p_i_8cpp.html" title="SPI interface for LPS22HB. " alt="" coords="605,184,791,225"/>
+<area shape="rect" id="node15" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="900,184,1043,225"/>
+<area shape="rect" id="node16" href="$d3/d2f/voted__sensors__update_8cpp.html" title="src/modules/sensors\l/voted_sensors_update.cpp" alt="" coords="1067,184,1249,225"/>
+<area shape="rect" id="node19" href="$de/d76/accelsim_8cpp.html" title="Driver for a simulated accelerometer / magnetometer. " alt="" coords="1448,184,1607,225"/>
+<area shape="rect" id="node20" href="$d3/dd5/airspeedsim_8cpp.html" title="src/modules/simulator\l/airspeedsim/airspeedsim.cpp" alt="" coords="1631,184,1826,225"/>
+<area shape="rect" id="node21" href="$de/d29/gpssim_8cpp.html" title="Simulated GPS driver. " alt="" coords="1851,184,2001,225"/>
+<area shape="rect" id="node22" href="$db/d47/ubx__sim_8cpp.html" title="src/modules/simulator\l/gpssim/ubx_sim.cpp" alt="" coords="2025,184,2176,225"/>
+<area shape="rect" id="node23" href="$d0/d91/gyrosim_8cpp.html" title="Driver for the simulated gyro. " alt="" coords="2200,184,2351,225"/>
+<area shape="rect" id="node24" href="$da/d56/simulator_8cpp.html" title="A device simulator. " alt="" coords="2375,184,2525,225"/>
+<area shape="rect" id="node25" href="$dd/d94/simulator__mavlink_8cpp.html" title="src/modules/simulator\l/simulator_mavlink.cpp" alt="" coords="2549,184,2705,225"/>
+<area shape="rect" id="node27" href="$dc/d96/uavcan_2sensors_2baro_8cpp.html" title="src/modules/uavcan\l/sensors/baro.cpp" alt="" coords="2730,184,2869,225"/>
+<area shape="rect" id="node28" href="$d5/d8a/sensor__bridge_8cpp.html" title="src/modules/uavcan\l/sensors/sensor_bridge.cpp" alt="" coords="2893,184,3076,225"/>
+</map>

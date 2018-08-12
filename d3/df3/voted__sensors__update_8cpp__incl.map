@@ -1,0 +1,41 @@
+<map id="src/modules/sensors/voted_sensors_update.cpp" name="src/modules/sensors/voted_sensors_update.cpp">
+<area shape="rect" id="node2" href="$dd/d59/voted__sensors__update_8h.html" title="voted_sensors_update.h" alt="" coords="2165,95,2329,121"/>
+<area shape="rect" id="node47" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="1674,95,1837,121"/>
+<area shape="rect" id="node48" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="3236,177,3379,203"/>
+<area shape="rect" id="node50" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="2103,355,2203,382"/>
+<area shape="rect" id="node3" href="$d6/d3b/parameters_8h.html" title="defines the list of parameters that are used within the sensors module " alt="" coords="2270,177,2369,203"/>
+<area shape="rect" id="node16" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="807,177,939,203"/>
+<area shape="rect" id="node19" href="$d5/df5/drv__gyro_8h.html" title="Gyroscope driver interface. " alt="" coords="420,177,547,203"/>
+<area shape="rect" id="node21" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="571,177,697,203"/>
+<area shape="rect" id="node23" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="268,177,395,203"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="996,266,1112,293"/>
+<area shape="rect" id="node29" href="$d7/dd3/data__validator_8h.html" title="A data validation class to identify anomalies in data streams. " alt="" coords="3475,348,3593,389"/>
+<area shape="rect" id="node31" href="$dc/ddd/data__validator__group_8h.html" title="A data validation group to identify anomalies in data streams. " alt="" coords="3386,259,3543,300"/>
+<area shape="rect" id="node32" href="$de/dd3/sensor__combined_8h.html" title="uORB/topics/sensor\l_combined.h" alt="" coords="1844,259,1984,300"/>
+<area shape="rect" id="node33" href="$db/d8d/sensor__preflight_8h.html" title="uORB/topics/sensor\l_preflight.h" alt="" coords="1611,169,1751,211"/>
+<area shape="rect" id="node34" href="$df/da8/sensor__correction_8h.html" title="uORB/topics/sensor\l_correction.h" alt="" coords="1775,169,1915,211"/>
+<area shape="rect" id="node35" href="$d9/d4f/sensor__selection_8h.html" title="uORB/topics/sensor\l_selection.h" alt="" coords="1939,169,2079,211"/>
+<area shape="rect" id="node36" href="$d7/d94/vehicle__air__data_8h.html" title="uORB/topics/vehicle\l_air_data.h" alt="" coords="2103,169,2245,211"/>
+<area shape="rect" id="node37" href="$df/d1d/vehicle__magnetometer_8h.html" title="uORB/topics/vehicle\l_magnetometer.h" alt="" coords="2393,169,2536,211"/>
+<area shape="rect" id="node38" href="$dc/d50/subsystem__info_8h.html" title="uORB/topics/subsystem\l_info.h" alt="" coords="2678,169,2843,211"/>
+<area shape="rect" id="node40" href="$d1/d63/temperature__compensation_8h.html" title="Sensor correction methods. " alt="" coords="2969,177,3160,203"/>
+<area shape="rect" id="node46" href="$d1/d27/modules_2sensors_2common_8h.html" title="common.h" alt="" coords="2798,266,2881,293"/>
+<area shape="rect" id="node4" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="2414,266,2510,293"/>
+<area shape="rect" id="node5" href="$dd/d56/drv__rc__input_8h.html" title="R/C input interface. " alt="" coords="774,266,921,293"/>
+<area shape="rect" id="node11" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1939,355,2078,382"/>
+<area shape="rect" id="node14" href="$de/d40/rc__parameter__map_8h.html" title="uORB/topics/rc_parameter\l_map.h" alt="" coords="2212,259,2389,300"/>
+<area shape="rect" id="node8" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="535,355,639,382"/>
+<area shape="rect" id="node9" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="5,437,108,464"/>
+<area shape="rect" id="node15" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1806,355,1915,382"/>
+<area shape="rect" id="node17" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="196,266,293,293"/>
+<area shape="rect" id="node18" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="1628,259,1768,300"/>
+<area shape="rect" id="node20" href="$d6/d90/sensor__gyro_8h.html" title="uORB/topics/sensor\l_gyro.h" alt="" coords="1300,259,1440,300"/>
+<area shape="rect" id="node22" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="1464,259,1604,300"/>
+<area shape="rect" id="node24" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="1136,259,1276,300"/>
+<area shape="rect" id="node27" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1243,355,1329,382"/>
+<area shape="rect" id="node41" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="3153,266,3269,293"/>
+<area shape="rect" id="node42" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="3322,355,3450,382"/>
+<area shape="rect" id="node43" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="3215,355,3298,382"/>
+<area shape="rect" id="node44" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="2957,355,3081,382"/>
+<area shape="rect" id="node45" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="3106,355,3191,382"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="UavcanMagnetometerBridge" name="UavcanMagnetometerBridge">
+<area shape="rect" id="node2" href="$de/d4e/class_uavcan_c_dev_sensor_bridge_base.html" title="This is the base class for redundant sensors with an independent ORB topic per each redundancy channe..." alt="" coords="359,1137,596,1317"/>
+<area shape="rect" id="node3" href="$de/d34/class_i_uavcan_sensor_bridge.html" title="A sensor bridge class must implement this interface. " alt="" coords="15,792,230,943"/>
+<area shape="rect" id="node5" href="$df/db4/class_list_node.html" title="{ListNode\&lt; IUavcanSensorBridge * \&gt;\n||+ ListNode()\l+ ListNode()\l+ ListNode()\l+ ~ListNode()\l+ operator=()\l+ operator=()\l+ setSibling()\l+ getSibling()\l}" alt="" coords="5,1137,240,1317"/>
+<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="254,660,437,1075"/>
+<area shape="rect" id="node7" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="236,329,369,597"/>
+<area shape="rect" id="node8" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="218,189,387,267"/>
+<area shape="rect" id="node9" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="197,5,408,127"/>
+<area shape="rect" id="node10" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="393,425,545,502"/>
+<area shape="rect" id="node11" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="461,807,606,928"/>
+<area shape="rect" id="node12" href="$d8/da0/struct_uavcan_c_dev_sensor_bridge_base_1_1_channel.html" title="{UavcanCDevSensorBridgeBase\l::Channel\n|+ node_id\l+ orb_advert\l+ class_instance\l+ orb_instance\l|}" alt="" coords="630,799,839,935"/>
+<area shape="rect" id="node13" href="$d1/d13/structmag__calibration__s.html" title="mag scaling factors; Vout = (Vin * Vscale) + Voffset " alt="" coords="621,1152,747,1303"/>
+</map>

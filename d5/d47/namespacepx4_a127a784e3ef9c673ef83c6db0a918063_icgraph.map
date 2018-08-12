@@ -1,0 +1,22 @@
+<map id="px4::get_time_micros" name="px4::get_time_micros">
+<area shape="rect" id="node2" href="$d3/d7e/classpx4_1_1_mavlink.html#a845bfb48fe937f6fc6a74d52fb306dbf" title="Handle SET_ATTITUDE_TARGET mavlink messages. " alt="" coords="219,5,388,47"/>
+<area shape="rect" id="node5" href="$d3/d7e/classpx4_1_1_mavlink.html#aa179c7a33a633558ddfa194e23c7ec8d" title="Handle SET_POSITION_TARGET_LOCAL_NED mavlink messages. " alt="" coords="218,70,389,126"/>
+<area shape="rect" id="node6" href="$d8/da2/class_attitude_estimator.html#a17ebfeb59b65da6e78476cbdd063413b" title="AttitudeEstimator::\lImuCallback" alt="" coords="238,149,369,191"/>
+<area shape="rect" id="node9" href="$de/d5d/class_manual_input.html#a509e0afcc60546dfba83121483ac202e" title="Takes ROS joystick message and converts/publishes to px4 manual control setpoint topic. " alt="" coords="217,281,390,307"/>
+<area shape="rect" id="node11" href="$da/df6/class_demo_offboard_attitude_setpoints.html#ad020031757083ea3b22fc4dc3db52e33" title="DemoOffboardAttitudeSetpoints\l::main" alt="" coords="200,332,407,373"/>
+<area shape="rect" id="node14" href="$d3/dc6/class_commander.html#a770391f0c7e237475a8e1027389f5d0c" title="Based on manual control input the status will be set. " alt="" coords="211,397,396,439"/>
+<area shape="rect" id="node16" href="$d8/da2/class_attitude_estimator.html#ae4c3c0f0bf2e8694cbfde1c99fa36d11" title="AttitudeEstimator::\lModelStatesCallback" alt="" coords="230,215,377,256"/>
+<area shape="rect" id="node17" href="$df/d3d/class_position_estimator.html#aeec86f7aaa2e3091ec29f5a2f3d451a7" title="PositionEstimator::\lModelStatesCallback" alt="" coords="230,528,377,569"/>
+<area shape="rect" id="node19" href="$d3/dc6/class_commander.html#ac5ac7721a00f0fb0fdf85a13e55919e7" title="Stores the offboard control mode. " alt="" coords="207,463,400,504"/>
+<area shape="rect" id="node20" href="$d3/d7e/classpx4_1_1_mavlink.html#aad77dddc6bf5ec5f1b5f6abd2f4180f2" title="Simulates output of attitude data from the FCU Equivalent to the mavlink stream ATTITUDE_QUATERNION. " alt="" coords="207,593,399,635"/>
+<area shape="rect" id="node21" href="$d3/d7e/classpx4_1_1_mavlink.html#ad905f661abffc241a5e270f8fe719298" title="Simulates output of local position data from the FCU Equivalent to the mavlink stream LOCAL_POSITION_..." alt="" coords="214,659,393,700"/>
+<area shape="rect" id="node3" href="$d3/d7e/classpx4_1_1_mavlink.html#a222047a400203b7b74ecf829181f754b" title="Handle incoming mavlink messages ant publish them to ROS (&quot;Mavlink Receiver&quot;) " alt="" coords="479,49,653,75"/>
+<area shape="rect" id="node4" href="$d3/d7e/classpx4_1_1_mavlink.html#ab807497a09c90419f684a657c91c4dec" title="px4::Mavlink::Mavlink" alt="" coords="725,49,875,75"/>
+<area shape="rect" id="node7" href="$d8/da2/class_attitude_estimator.html#adfc41d87201fa67627f74f844b7a4611" title="AttitudeEstimator::\lAttitudeEstimator" alt="" coords="501,149,631,191"/>
+<area shape="rect" id="node8" href="$d8/da2/class_attitude_estimator.html#aa3ae4ffbbb232e4f2bab98654b24c7cd" title="AttitudeEstimator::\l~AttitudeEstimator" alt="" coords="501,215,631,256"/>
+<area shape="rect" id="node10" href="$de/d5d/class_manual_input.html#ad3651fb300a45e3ad1deb46baecd8ad1" title="ManualInput::~ManualInput" alt="" coords="476,281,656,307"/>
+<area shape="rect" id="node12" href="$d5/d33/demo__offboard__attitude__setpoints_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="541,335,591,362"/>
+<area shape="rect" id="node13" href="$da/df6/class_demo_offboard_attitude_setpoints.html#afbb024f6a9641f697ec499a16ed77802" title="DemoOffboardAttitudeSetpoints\l::~DemoOffboardAttitudeSetpoints" alt="" coords="455,387,677,428"/>
+<area shape="rect" id="node15" href="$d3/dc6/class_commander.html#af16b5b1c2b22e5158ce822d1b9180b10" title="Commander::~Commander" alt="" coords="476,462,656,489"/>
+<area shape="rect" id="node18" href="$df/d3d/class_position_estimator.html#ae7f10c229d55e7d78178c60252971ce9" title="PositionEstimator::\l~PositionEstimator" alt="" coords="499,528,633,569"/>
+</map>

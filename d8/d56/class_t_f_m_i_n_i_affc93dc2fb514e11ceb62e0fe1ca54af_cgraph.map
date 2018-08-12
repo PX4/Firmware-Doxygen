@@ -1,0 +1,33 @@
+<map id="TFMINI::cycle_trampoline" name="TFMINI::cycle_trampoline">
+<area shape="rect" id="node2" href="$d8/d56/class_t_f_m_i_n_i.html#a55e2ea5d275a9ec29ca6bdd1bf682b1e" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="227,631,333,657"/>
+<area shape="rect" id="node3" href="$d8/d56/class_t_f_m_i_n_i.html#ad84428a299daf0435ade5e64db908f13" title="TFMINI::collect" alt="" coords="381,327,495,353"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1435,276,1561,303"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1205,631,1344,657"/>
+<area shape="rect" id="node32" href="$d8/d56/class_t_f_m_i_n_i.html#ab5cfe0cfa65d6270385b6edcdac8ba4c" title="Initialise the automatic measurement state machine and start it. " alt="" coords="387,681,489,708"/>
+<area shape="rect" id="node4" href="$d8/d56/class_t_f_m_i_n_i.html#a9a50551404e0745a24f1e3c2b0d088d1" title="TFMINI::get_maximum\l_distance" alt="" coords="543,145,700,186"/>
+<area shape="rect" id="node5" href="$d8/d56/class_t_f_m_i_n_i.html#a5decdacb2a7cf8e133f63900cd34ed97" title="TFMINI::get_minimum\l_distance" alt="" coords="545,210,698,251"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="561,377,682,404"/>
+<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="577,580,665,607"/>
+<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1433,369,1563,410"/>
+<area shape="rect" id="node24" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="580,428,663,455"/>
+<area shape="rect" id="node25" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="580,479,663,505"/>
+<area shape="rect" id="node26" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="585,529,657,556"/>
+<area shape="rect" id="node27" href="$d8/d56/class_t_f_m_i_n_i.html#ab7d99c5e05cb38281c893b4f4610c41b" title="Perform a read from the device. " alt="" coords="571,43,671,69"/>
+<area shape="rect" id="node29" href="$d0/dfe/tfmini__parser_8cpp.html#a6021b0fd88732a6bbff403f7034f1e73" title="tfmini_parser" alt="" coords="573,93,670,120"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1203,565,1346,606"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="748,498,891,539"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1427,577,1569,618"/>
+<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1622,584,1749,611"/>
+<area shape="rect" id="node12" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1799,559,1933,585"/>
+<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1814,609,1918,636"/>
+<area shape="rect" id="node14" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1989,584,2127,611"/>
+<area shape="rect" id="node15" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1981,635,2135,661"/>
+<area shape="rect" id="node17" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="939,504,1125,531"/>
+<area shape="rect" id="node18" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1187,500,1362,527"/>
+<area shape="rect" id="node23" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1173,434,1376,475"/>
+<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1431,475,1565,501"/>
+<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1424,525,1572,552"/>
+<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1620,369,1751,410"/>
+<area shape="rect" id="node28" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="789,43,849,69"/>
+<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1429,642,1567,683"/>
+</map>

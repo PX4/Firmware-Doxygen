@@ -1,0 +1,28 @@
+<map id="up_pwm_servo_set_rate_group_update" name="up_pwm_servo_set_rate_group_update">
+<area shape="rect" id="node2" href="$d4/d28/registers_8c.html#a1a7174a1a8b4c33aedb348f76c2ae2ae" title="pwm_configure_rates" alt="" coords="227,168,374,195"/>
+<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="217,308,384,335"/>
+<area shape="rect" id="node3" href="$d4/d28/registers_8c.html#acb76ce9506a2d7ebd08998a39fba7358" title="registers_set_one" alt="" coords="463,107,588,133"/>
+<area shape="rect" id="node4" href="$d4/d28/registers_8c.html#a79ff516383f902f7c580f60972f88484" title="Register space. " alt="" coords="701,107,799,133"/>
+<area shape="rect" id="node5" href="$df/d19/modules_2px4iofirmware_2i2c_8c.html#a6e0c3d6111e056066c95e34dfd9a0114" title="i2c_rx_complete" alt="" coords="912,107,1029,133"/>
+<area shape="rect" id="node7" href="$d8/d90/serial_8c.html#a7a47545978c88c7e8b180736034a49ef" title="rx_handle_packet" alt="" coords="909,56,1033,83"/>
+<area shape="rect" id="node6" href="$df/d19/modules_2px4iofirmware_2i2c_8c.html#a472799252680873b5cdfba8541bb89ec" title="i2c_interrupt" alt="" coords="1153,107,1246,133"/>
+<area shape="rect" id="node8" href="$d8/d90/serial_8c.html#a9ea429bf8993556bd90658d40f5b875e" title="rx_dma_callback" alt="" coords="1139,56,1259,83"/>
+<area shape="rect" id="node9" href="$d8/d90/serial_8c.html#a4f42595963508e10e538baddbf85204a" title="serial_interrupt" alt="" coords="1587,5,1693,32"/>
+<area shape="rect" id="node11" href="$d8/d90/serial_8c.html#ab490e77cf58b14849740525ba5dc47ef" title="dma_reset" alt="" coords="1385,56,1468,83"/>
+<area shape="rect" id="node10" href="$d8/d90/serial_8c.html#a86489e4b72e9a378e39ebc48b6c95ece" title="FMU communications. " alt="" coords="1813,31,1909,57"/>
+<area shape="rect" id="node13" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="667,279,833,305"/>
+<area shape="rect" id="node20" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="1128,259,1271,285"/>
+<area shape="rect" id="node23" href="$df/d64/class_p_x4_f_m_u.html#aeebfe30eb18fd0e59b98e7da4aa84544" title="PX4FMU::set_pwm_alt_rate" alt="" coords="432,461,619,488"/>
+<area shape="rect" id="node26" href="$df/d64/class_p_x4_f_m_u.html#aa81b9bf772edd0161a69d7128a81a966" title="PX4FMU::set_pwm_alt\l_channels" alt="" coords="446,395,605,437"/>
+<area shape="rect" id="node27" href="$df/d64/class_p_x4_f_m_u.html#a8cfa12dc982c977be9d0f9e00642d92c" title="PX4FMU::update_pwm\l_out_state" alt="" coords="446,330,605,371"/>
+<area shape="rect" id="node14" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="913,411,1028,437"/>
+<area shape="rect" id="node19" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="881,259,1060,285"/>
+<area shape="rect" id="node15" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="1108,360,1291,387"/>
+<area shape="rect" id="node18" href="$df/d64/class_p_x4_f_m_u.html#a00f750c72c6cc1f0bd156b5de4d9fac9" title="PX4FMU::run" alt="" coords="1148,411,1251,437"/>
+<area shape="rect" id="node16" href="$df/d64/class_p_x4_f_m_u.html#a622e54b376f05bfd26ec16cbbe2889bf" title="PX4FMU::task_spawn" alt="" coords="1563,360,1717,387"/>
+<area shape="rect" id="node17" href="$df/d64/class_p_x4_f_m_u.html#a2be5e5695b54ad07a8e905b64992a46d" title="PX4FMU::custom_command" alt="" coords="1765,360,1956,387"/>
+<area shape="rect" id="node21" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="1373,284,1481,311"/>
+<area shape="rect" id="node22" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="1587,297,1693,324"/>
+<area shape="rect" id="node24" href="$df/d64/class_p_x4_f_m_u.html#afaf6d3dbe9e8b90780abc3cdb53ffd83" title="PX4FMU::get_mode" alt="" coords="679,461,821,488"/>
+<area shape="rect" id="node25" href="$df/d64/class_p_x4_f_m_u.html#ae9c7f7c1c52a03cf6a1229f4b0fc475b" title="change the FMU mode of the running module " alt="" coords="1339,436,1515,463"/>
+</map>

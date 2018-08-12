@@ -1,0 +1,44 @@
+<map id="src/modules/mc_att_control/mc_att_control.hpp" name="src/modules/mc_att_control/mc_att_control.hpp">
+<area shape="rect" id="node2" href="$d9/dc3/lib_2mixer_2mixer_8h.html" title="lib/mixer/mixer.h" alt="" coords="149,102,267,129"/>
+<area shape="rect" id="node3" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="5,259,101,285"/>
+<area shape="rect" id="node5" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="630,259,733,285"/>
+<area shape="rect" id="node9" href="$d0/d28/_low_pass_filter2p_8hpp.html" title="mathlib/math/filter\l/LowPassFilter2p.hpp" alt="" coords="1777,95,1925,136"/>
+<area shape="rect" id="node10" href="$d4/d78/math_8hpp.html" title="matrix/matrix/math.hpp" alt="" coords="1949,102,2105,129"/>
+<area shape="rect" id="node22" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="419,184,549,211"/>
+<area shape="rect" id="node23" href="$d7/dc9/px4__module_8h.html" title="px4_module.h" alt="" coords="875,102,978,129"/>
+<area shape="rect" id="node27" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="964,184,1057,211"/>
+<area shape="rect" id="node29" href="$d5/dd2/px4__module__params_8h.html" title="C++ base class for modules/classes using configuration parameters. " alt="" coords="2129,102,2282,129"/>
+<area shape="rect" id="node32" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="1226,102,1318,129"/>
+<area shape="rect" id="node36" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="2306,95,2454,136"/>
+<area shape="rect" id="node37" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="2477,95,2619,136"/>
+<area shape="rect" id="node38" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="2642,95,2785,136"/>
+<area shape="rect" id="node39" href="$d0/d6d/multirotor__motor__limits_8h.html" title="uORB/topics/multirotor\l_motor_limits.h" alt="" coords="2809,95,2964,136"/>
+<area shape="rect" id="node40" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="2989,95,3147,136"/>
+<area shape="rect" id="node41" href="$d8/d9d/rate__ctrl__status_8h.html" title="uORB/topics/rate_ctrl\l_status.h" alt="" coords="3171,95,3319,136"/>
+<area shape="rect" id="node42" href="$de/d05/sensor__bias_8h.html" title="uORB/topics/sensor\l_bias.h" alt="" coords="3343,95,3483,136"/>
+<area shape="rect" id="node43" href="$df/da8/sensor__correction_8h.html" title="uORB/topics/sensor\l_correction.h" alt="" coords="3507,95,3647,136"/>
+<area shape="rect" id="node44" href="$d6/d90/sensor__gyro_8h.html" title="uORB/topics/sensor\l_gyro.h" alt="" coords="3671,95,3811,136"/>
+<area shape="rect" id="node45" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="3835,95,3978,136"/>
+<area shape="rect" id="node46" href="$df/dd2/vehicle__attitude__setpoint_8h.html" title="uORB/topics/vehicle\l_attitude_setpoint.h" alt="" coords="4002,95,4145,136"/>
+<area shape="rect" id="node47" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="4169,95,4311,136"/>
+<area shape="rect" id="node48" href="$dc/dd6/vehicle__rates__setpoint_8h.html" title="uORB/topics/vehicle\l_rates_setpoint.h" alt="" coords="4335,95,4478,136"/>
+<area shape="rect" id="node49" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="4502,95,4645,136"/>
+<area shape="rect" id="node50" href="$d8/ddd/vehicle__land__detected_8h.html" title="uORB/topics/vehicle\l_land_detected.h" alt="" coords="4669,95,4811,136"/>
+<area shape="rect" id="node4" href="$d5/d7b/drv__mixer_8h.html" title="Mixer ioctl interfaces. " alt="" coords="211,184,344,211"/>
+<area shape="rect" id="node8" href="$d1/d63/mixer__load_8h.html" title="mixer_load.h" alt="" coords="91,184,187,211"/>
+<area shape="rect" id="node6" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="726,333,805,360"/>
+<area shape="rect" id="node11" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="2617,184,2745,211"/>
+<area shape="rect" id="node12" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="2769,184,2852,211"/>
+<area shape="rect" id="node13" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="1551,184,1675,211"/>
+<area shape="rect" id="node14" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="1700,184,1785,211"/>
+<area shape="rect" id="node15" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="1810,184,1902,211"/>
+<area shape="rect" id="node16" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="1926,184,2018,211"/>
+<area shape="rect" id="node17" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2043,184,2120,211"/>
+<area shape="rect" id="node18" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="2144,184,2219,211"/>
+<area shape="rect" id="node19" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="2243,184,2327,211"/>
+<area shape="rect" id="node20" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2351,184,2462,211"/>
+<area shape="rect" id="node21" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="2487,184,2593,211"/>
+<area shape="rect" id="node28" href="$de/d37/px4__macros_8h.html" title="A set of useful macros for enhanced runtime and compile time error detection and warning suppression..." alt="" coords="574,184,738,211"/>
+<area shape="rect" id="node30" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="2877,184,3009,211"/>
+<area shape="rect" id="node31" href="$de/de9/px4__param_8h.html" title="C++ Parameter class. " alt="" coords="3033,184,3130,211"/>
+</map>

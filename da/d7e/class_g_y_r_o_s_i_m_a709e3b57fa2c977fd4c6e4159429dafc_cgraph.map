@@ -1,0 +1,51 @@
+<map id="GYROSIM::init" name="GYROSIM::init">
+<area shape="rect" id="node2" href="$da/d7e/class_g_y_r_o_s_i_m.html#a7fa7591e3e3e61bc96e09b53cc3724cd" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="164,157,315,184"/>
+<area shape="rect" id="node20" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="390,879,478,905"/>
+<area shape="rect" id="node22" href="$d5/d94/class_g_y_r_o_s_i_m__gyro.html#a53779ab5b76536b147c30f0cb24b680a" title="GYROSIM_gyro::init" alt="" coords="168,828,311,855"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="172,777,307,804"/>
+<area shape="rect" id="node48" href="$da/d7e/class_g_y_r_o_s_i_m.html#abaf02aa179700bd832d417464c38e528" title="Reset chip. " alt="" coords="178,929,301,956"/>
+<area shape="rect" id="node49" href="$da/d7e/class_g_y_r_o_s_i_m.html#a45baf0601ea46a45e8e275c3f58c96c0" title="GYROSIM::start" alt="" coords="180,980,299,1007"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1270,197,1395,224"/>
+<area shape="rect" id="node4" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="390,317,478,344"/>
+<area shape="rect" id="node11" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="393,5,475,32"/>
+<area shape="rect" id="node12" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="398,56,470,83"/>
+<area shape="rect" id="node13" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="383,208,485,235"/>
+<area shape="rect" id="node17" href="$da/d7e/class_g_y_r_o_s_i_m.html#ab603d274f643c5c38fee4fdeee96c232" title="GYROSIM::transfer" alt="" coords="365,107,503,133"/>
+<area shape="rect" id="node5" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1055,390,1197,431"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="575,310,718,351"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1261,430,1404,471"/>
+<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1465,437,1592,464"/>
+<area shape="rect" id="node9" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="796,317,983,344"/>
+<area shape="rect" id="node10" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1039,277,1213,304"/>
+<area shape="rect" id="node14" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="627,259,666,285"/>
+<area shape="rect" id="node15" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="586,208,707,235"/>
+<area shape="rect" id="node16" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="822,208,957,235"/>
+<area shape="rect" id="node18" href="$dd/dd1/class_simulator.html#ae67d0f6411c211e34984f10dc1e33bc5" title="Simulator::getInstance" alt="" coords="570,56,723,83"/>
+<area shape="rect" id="node19" href="$dd/dd1/class_simulator.html#a78f91f9c7e69d672bbdb4379ea8a063f" title="Simulator::getMPUReport" alt="" coords="561,107,733,133"/>
+<area shape="rect" id="node21" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="584,929,709,956"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="363,770,505,811"/>
+<area shape="rect" id="node25" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="581,828,713,855"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="553,685,740,712"/>
+<area shape="rect" id="node32" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1089,879,1163,905"/>
+<area shape="rect" id="node35" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1085,803,1167,829"/>
+<area shape="rect" id="node27" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="800,660,979,687"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1087,693,1165,720"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="813,762,965,803"/>
+<area shape="rect" id="node37" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="788,529,991,570"/>
+<area shape="rect" id="node38" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="816,594,963,635"/>
+<area shape="rect" id="node39" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="865,980,913,1007"/>
+<area shape="rect" id="node29" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1459,828,1598,855"/>
+<area shape="rect" id="node30" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1452,727,1605,753"/>
+<area shape="rect" id="node33" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1295,879,1370,905"/>
+<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1265,929,1400,956"/>
+<area shape="rect" id="node36" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1262,777,1403,804"/>
+<area shape="rect" id="node40" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1050,980,1202,1007"/>
+<area shape="rect" id="node41" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1085,1081,1167,1108"/>
+<area shape="rect" id="node42" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="1263,980,1402,1007"/>
+<area shape="rect" id="node43" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1485,1005,1572,1032"/>
+<area shape="rect" id="node44" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1293,1081,1372,1108"/>
+<area shape="rect" id="node45" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1306,1132,1359,1159"/>
+<area shape="rect" id="node46" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1289,1183,1376,1209"/>
+<area shape="rect" id="node47" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1291,1233,1374,1260"/>
+<area shape="rect" id="node50" href="$d6/d47/dataman_8cpp.html#acc7baf226fbd7801b4118c7a009ff257" title="stop" alt="" coords="411,1031,457,1057"/>
+</map>

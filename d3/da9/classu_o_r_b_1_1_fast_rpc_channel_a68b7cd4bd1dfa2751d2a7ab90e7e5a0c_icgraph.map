@@ -1,0 +1,19 @@
+<map id="uORB::FastRpcChannel::GetRxHandler" name="uORB::FastRpcChannel::GetRxHandler">
+<area shape="rect" id="node2" href="$dc/d1c/px4muorb_8hpp.html#adc1aaa0910e11c75e2618b845fcec003" title="px4muorb_add_subscriber" alt="" coords="228,25,403,51"/>
+<area shape="rect" id="node7" href="$dc/d1c/px4muorb_8hpp.html#a9c3292e9034945ab353bfb63855c47b8" title="px4muorb_remove_subscriber" alt="" coords="217,86,413,113"/>
+<area shape="rect" id="node10" href="$dc/d1c/px4muorb_8hpp.html#a6a87fd2d01c820113e6ec318c05c98ce" title="px4muorb_send_topic_data" alt="" coords="225,143,406,170"/>
+<area shape="rect" id="node13" href="$dc/d1c/px4muorb_8hpp.html#a052a13c22fb6a22d10eb9a4d480a0b45" title="px4muorb_topic_advertised" alt="" coords="225,201,406,227"/>
+<area shape="rect" id="node16" href="$dc/d1c/px4muorb_8hpp.html#a53345b670ccf3e53836e8e648ff88ec3" title="px4muorb_topic_unadvertised" alt="" coords="218,266,413,293"/>
+<area shape="rect" id="node3" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#af127361b9238689669e4234581a8e9c7" title="px4muorb::KraitRpcWrapper\l::AddSubscriber" alt="" coords="461,5,648,47"/>
+<area shape="rect" id="node4" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#af5852543bd02d26b63fcffa0e2529c21" title="Interface to notify the remote entity of interest of a subscription for a message. " alt="" coords="696,5,887,47"/>
+<area shape="rect" id="node5" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a6e8db81da8f689e5143064e6b14d4539" title="Static method to check if there is an instance. " alt="" coords="935,136,1125,177"/>
+<area shape="rect" id="node6" href="$db/d4d/muorb__main_8cpp.html#a22f83891230d95394a51a3bb03af725d" title="muorb_main" alt="" coords="1173,143,1267,170"/>
+<area shape="rect" id="node8" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a3c0a3e75a560add13adbfadbbe78586e" title="px4muorb::KraitRpcWrapper\l::RemoveSubscriber" alt="" coords="461,71,648,112"/>
+<area shape="rect" id="node9" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a52b385077cd32a728ebf2c69b5424378" title="Interface to notify the remote entity of removal of a subscription. " alt="" coords="696,71,887,112"/>
+<area shape="rect" id="node11" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a38748fea7933417656e2fa422647a218" title="px4muorb::KraitRpcWrapper\l::SendData" alt="" coords="461,136,648,177"/>
+<area shape="rect" id="node12" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a9f03e699626cc593ad8df7a65dab0294" title="Sends the data message over the communication link. " alt="" coords="696,136,887,177"/>
+<area shape="rect" id="node14" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a379f7f704dec2e315181b9240fcbff81" title="Muorb related functions to pub/sub of orb topic from krait to adsp. " alt="" coords="461,201,648,243"/>
+<area shape="rect" id="node15" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a308cb9d6a21d0545d1db24916831870f" title="Interface to notify the remote entity of a topic being advertised. " alt="" coords="696,201,887,243"/>
+<area shape="rect" id="node17" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#afeaaada13e6b19af59f15f52129d403a" title="px4muorb::KraitRpcWrapper\l::TopicUnadvertised" alt="" coords="461,267,648,308"/>
+<area shape="rect" id="node18" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a9c86a8fb86510794b03c51b17f1998e1" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="696,267,887,308"/>
+</map>

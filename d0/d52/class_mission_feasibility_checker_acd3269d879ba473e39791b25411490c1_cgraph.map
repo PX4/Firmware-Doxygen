@@ -1,0 +1,26 @@
+<map id="MissionFeasibilityChecker::checkFixedWingLanding" name="MissionFeasibilityChecker::checkFixedWingLanding">
+<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="277,152,349,179"/>
+<area shape="rect" id="node12" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="466,237,613,278"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a00cbed688be4151ecc0614b889c6802a" title="Getters. " alt="" coords="236,367,389,409"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="235,433,391,474"/>
+<area shape="rect" id="node16" href="$d1/d36/class_landingslope.html#a91d82d5a8f9bc17ac382d07c6e620823" title="Landingslope::getLanding\lSlopeAbsoluteAltitude" alt="" coords="228,498,397,539"/>
+<area shape="rect" id="node18" href="$d1/d36/class_landingslope.html#a8a3052648c16d34fec59ab8269c716c5" title="Landingslope::getLanding\lSlopeWPDistance" alt="" coords="228,302,397,343"/>
+<area shape="rect" id="node25" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="246,563,379,605"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="714,56,839,83"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="456,115,623,157"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="499,181,580,208"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="927,5,1015,32"/>
+<area shape="rect" id="node5" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="928,107,1015,133"/>
+<area shape="rect" id="node6" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="928,56,1015,83"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="920,157,1023,184"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="711,107,843,133"/>
+<area shape="rect" id="node10" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="734,208,819,235"/>
+<area shape="rect" id="node13" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="726,259,827,285"/>
+<area shape="rect" id="node17" href="$d1/d36/class_landingslope.html#a26ff44d0c7965ce39f2b7b92dcf453ba" title="Landingslope::getLanding\lSlopeRelativeAltitude" alt="" coords="455,498,624,539"/>
+<area shape="rect" id="node19" href="$d1/d36/class_landingslope.html#ae9fa267742481e232aba3f53538edde0" title="Landingslope::getFlareCurve\lRelativeAltitudeSave" alt="" coords="445,302,633,343"/>
+<area shape="rect" id="node22" href="$d1/d36/class_landingslope.html#a70cc1db8969ac60a6c7a202c16ad52f4" title="Landingslope::horizontal\l_slope_displacement" alt="" coords="458,367,621,409"/>
+<area shape="rect" id="node23" href="$d1/d36/class_landingslope.html#a4b967587f47cecf39153d99394bf1137" title="Landingslope::update" alt="" coords="467,433,612,460"/>
+<area shape="rect" id="node20" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="757,309,796,336"/>
+<area shape="rect" id="node21" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="735,360,819,387"/>
+<area shape="rect" id="node24" href="$d1/d36/class_landingslope.html#a7a737d97a775f25fb8ee20486e850975" title="Landingslope::calculateSlope\lValues" alt="" coords="681,426,872,467"/>
+</map>

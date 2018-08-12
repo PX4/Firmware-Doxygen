@@ -1,0 +1,12 @@
+<map id="TemperatureCalibration::publish_led_control" name="TemperatureCalibration::publish_led_control">
+<area shape="rect" id="node2" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="211,71,368,112"/>
+<area shape="rect" id="node3" href="$d5/dce/class_temperature_calibration.html#ae260fba51c37cca23e825e81bc31d1bf" title="TemperatureCalibration\l::do_temperature_calibration" alt="" coords="416,71,603,112"/>
+<area shape="rect" id="node4" href="$d5/dce/class_temperature_calibration.html#ade82c5dd7e5f8787ffb0fecdfd9ef596" title="Start task. " alt="" coords="651,71,808,112"/>
+<area shape="rect" id="node5" href="$d8/dd0/temperature__calibration_8h.html#a34b406ade258e7d4659d6f4c082e581f" title="start temperature calibration in a new task for one or multiple sensors " alt="" coords="856,78,1039,105"/>
+<area shape="rect" id="node6" href="$d4/dc6/structevents_1_1_send_event.html#a0da60ffc84a7d44ec3bdded7cff9c466" title="check for new commands and process them. " alt="" coords="1087,71,1228,112"/>
+<area shape="rect" id="node7" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="call process_commands() and schedule the next cycle. " alt="" coords="1276,71,1417,112"/>
+<area shape="rect" id="node8" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Start background listening for commands. " alt="" coords="1465,5,1607,47"/>
+<area shape="rect" id="node11" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Trampoline for the work queue. " alt="" coords="1465,71,1607,112"/>
+<area shape="rect" id="node9" href="$d4/dc6/structevents_1_1_send_event.html#a716f60497ef234cfb7faead37f08d1df" title="Trampoline for initialisation. " alt="" coords="1655,5,1796,47"/>
+<area shape="rect" id="node10" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Initialize class in the same context as the work queue. " alt="" coords="1844,5,1985,47"/>
+</map>

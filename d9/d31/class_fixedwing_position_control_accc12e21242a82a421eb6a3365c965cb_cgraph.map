@@ -1,0 +1,51 @@
+<map id="FixedwingPositionControl::vehicle_status_poll" name="FixedwingPositionControl::vehicle_status_poll">
+<area shape="rect" id="node2" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="268,166,351,193"/>
+<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="272,78,347,105"/>
+<area shape="rect" id="node11" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="266,217,353,243"/>
+<area shape="rect" id="node12" href="$d9/d31/class_fixedwing_position_control.html#a9fcb348a9e7a6a55c69e017810573a48" title="Update our local parameter cache. " alt="" coords="224,1167,395,1208"/>
+<area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="967,321,1109,363"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="472,129,615,171"/>
+<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1157,321,1300,363"/>
+<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1348,329,1475,355"/>
+<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="768,137,843,163"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="455,78,632,105"/>
+<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="768,78,843,105"/>
+<area shape="rect" id="node13" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="786,997,825,1023"/>
+<area shape="rect" id="node14" href="$d1/d36/class_landingslope.html#ac91d88c92d86cebd74b6ebfa8cfea576" title="Landingslope::flare\l_length" alt="" coords="478,569,609,611"/>
+<area shape="rect" id="node15" href="$d9/d31/class_fixedwing_position_control.html#aba793051dfe6473008cea0fda475f311" title="FixedwingPositionControl\l::fw_pos_ctrl_status_publish" alt="" coords="449,504,637,545"/>
+<area shape="rect" id="node19" href="$d1/d36/class_landingslope.html#a70cc1db8969ac60a6c7a202c16ad52f4" title="Landingslope::horizontal\l_slope_displacement" alt="" coords="462,700,625,741"/>
+<area shape="rect" id="node20" href="$d1/d36/class_landingslope.html#afe2a20650d29d59aaaf2b2eb8c629fe8" title="Landingslope::landing\l_slope_angle_rad" alt="" coords="470,765,617,807"/>
+<area shape="rect" id="node21" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="502,831,585,858"/>
+<area shape="rect" id="node22" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="493,882,594,909"/>
+<area shape="rect" id="node23" href="$d1/d1f/class_t_e_c_s.html#a4527886406ab0e44091ee0e421f78e46" title="TECS::set_height_comp\l_filter_omega" alt="" coords="461,933,626,975"/>
+<area shape="rect" id="node24" href="$d1/d1f/class_t_e_c_s.html#ac499cfa2a09b421b0ccddcd95b3091cc" title="TECS::set_heightrate_ff" alt="" coords="462,999,625,1026"/>
+<area shape="rect" id="node25" href="$d1/d1f/class_t_e_c_s.html#a25214559e3773e097ed775a508b8b36d" title="TECS::set_heightrate_p" alt="" coords="462,1050,625,1077"/>
+<area shape="rect" id="node26" href="$d1/d1f/class_t_e_c_s.html#a709a5b083eaacb5d790af5e201396c6c" title="TECS::set_indicated\l_airspeed_max" alt="" coords="472,1101,615,1143"/>
+<area shape="rect" id="node27" href="$d1/d1f/class_t_e_c_s.html#a79dd77063f79575c1b71bd85f92d3932" title="TECS::set_indicated\l_airspeed_min" alt="" coords="472,1167,615,1208"/>
+<area shape="rect" id="node28" href="$d1/d1f/class_t_e_c_s.html#af9cf81adb1c48ea06d9cded649bfeac1" title="TECS::set_integrator_gain" alt="" coords="455,1233,631,1259"/>
+<area shape="rect" id="node29" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a2a25fd4f58af2b9b0f696081a1f47201" title="Set the L1 damping factor. " alt="" coords="462,1284,625,1325"/>
+<area shape="rect" id="node30" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab449fa4dc6e9feb1fd69eef9215559ee" title="Set the L1 period. " alt="" coords="462,635,625,676"/>
+<area shape="rect" id="node31" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#aed61ea14a1fbc6298c8dea6f2fcd9152" title="Set the maximum roll angle output in radians. " alt="" coords="462,1401,625,1443"/>
+<area shape="rect" id="node32" href="$d1/d1f/class_t_e_c_s.html#a868422818eca1c903b3d7f27fc9dbb16" title="TECS::set_max_climb_rate" alt="" coords="452,1467,635,1494"/>
+<area shape="rect" id="node33" href="$d1/d1f/class_t_e_c_s.html#a3e7ddbd7d97fcec4eac9d54ac546ae94" title="TECS::set_max_sink_rate" alt="" coords="455,1518,631,1545"/>
+<area shape="rect" id="node34" href="$d1/d1f/class_t_e_c_s.html#a61217e6d9bfdc3c966b97d3009b78e0c" title="TECS::set_min_sink_rate" alt="" coords="457,1569,629,1595"/>
+<area shape="rect" id="node35" href="$d1/d1f/class_t_e_c_s.html#a36009b6fa0d9581c764660b749161d3c" title="TECS::set_pitch_damping" alt="" coords="456,1619,631,1646"/>
+<area shape="rect" id="node36" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a72bbf96a27349e4e96246eaa7197c07a" title="Set roll angle slew rate. " alt="" coords="462,1671,625,1712"/>
+<area shape="rect" id="node37" href="$d1/d1f/class_t_e_c_s.html#a838f80e6fd6cc4280b6eddee27ca1d58" title="TECS::set_roll_throttle\l_compensation" alt="" coords="466,1736,621,1777"/>
+<area shape="rect" id="node38" href="$d1/d1f/class_t_e_c_s.html#a980415283586e5c63cac69b99f5408bc" title="TECS::set_speed_comp\l_filter_omega" alt="" coords="461,1801,626,1843"/>
+<area shape="rect" id="node39" href="$d1/d1f/class_t_e_c_s.html#a162b3674376ffa1c49fff27144c51344" title="TECS::set_speed_weight" alt="" coords="458,1867,629,1894"/>
+<area shape="rect" id="node40" href="$d1/d1f/class_t_e_c_s.html#a5b515697bac1cffd9c8d87e3d77145b5" title="TECS::set_speedrate_p" alt="" coords="462,1918,625,1945"/>
+<area shape="rect" id="node41" href="$d1/d1f/class_t_e_c_s.html#a4f532d7f481f251e862adedb00018e95" title="TECS::set_throttle_damp" alt="" coords="458,1969,629,1995"/>
+<area shape="rect" id="node42" href="$d1/d1f/class_t_e_c_s.html#a675385b3146c5603b1915fbe916d5721" title="TECS::set_throttle\l_slewrate" alt="" coords="478,2020,609,2061"/>
+<area shape="rect" id="node43" href="$d1/d1f/class_t_e_c_s.html#a39600560c4ec5b37a57f4622e3a3f8a2" title="TECS::set_time_const" alt="" coords="466,2086,621,2113"/>
+<area shape="rect" id="node44" href="$d1/d1f/class_t_e_c_s.html#ab9dfc1f3f943916190f887657972cc01" title="TECS::set_time_const\l_throt" alt="" coords="466,297,621,339"/>
+<area shape="rect" id="node45" href="$d1/d1f/class_t_e_c_s.html#abb96ff701ffd6fa29ca78979580e3303" title="TECS::set_vertical\l_accel_limit" alt="" coords="477,363,610,404"/>
+<area shape="rect" id="node46" href="$d1/d36/class_landingslope.html#a4b967587f47cecf39153d99394bf1137" title="Landingslope::update" alt="" coords="471,246,616,273"/>
+<area shape="rect" id="node48" href="$db/db3/class_module_params.html#acf08d1a67a584f7b6e0feaa9182bede1" title="Call this whenever the module gets a parameter change notification. " alt="" coords="443,453,644,479"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="743,562,868,589"/>
+<area shape="rect" id="node17" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="755,461,855,487"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="761,511,849,538"/>
+<area shape="rect" id="node47" href="$d1/d36/class_landingslope.html#a7a737d97a775f25fb8ee20486e850975" title="Landingslope::calculateSlope\lValues" alt="" coords="710,247,901,288"/>
+<area shape="rect" id="node49" href="$df/db4/class_list_node.html#a39f4f8a789ee9684a10a4289f964f4dc" title="ListNode::getSibling" alt="" coords="736,410,875,437"/>
+<area shape="rect" id="node50" href="$db/db3/class_module_params.html#a2048201c06a6cc6602ab20a53e7d75cb" title="The implementation for this is generated with the macro DEFINE_PARAMETERS() " alt="" coords="692,359,919,386"/>
+</map>

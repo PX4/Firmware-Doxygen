@@ -1,0 +1,47 @@
+var tinybson_8h =
+[
+    [ "bson_node_s", "db/d70/structbson__node__s.html", "db/d70/structbson__node__s" ],
+    [ "bson_decoder_s", "de/d97/structbson__decoder__s.html", "de/d97/structbson__decoder__s" ],
+    [ "bson_encoder_s", "d7/db2/structbson__encoder__s.html", "d7/db2/structbson__encoder__s" ],
+    [ "BSON_BUF_INCREMENT", "d1/de1/tinybson_8h.html#abe42b02a1f1bad6be4f48a9c4de3639b", null ],
+    [ "BSON_MAXNAME", "d1/de1/tinybson_8h.html#ae354bcf0aa8a427af337d40f2afd3133", null ],
+    [ "bson_binary_subtype_t", "d1/de1/tinybson_8h.html#a0ae01f297620c1415bf366aada41bd45", null ],
+    [ "bson_decoder_callback", "d1/de1/tinybson_8h.html#a4ac34efdb2e6f528bc2c1ecab6b52ba4", null ],
+    [ "bson_decoder_t", "d1/de1/tinybson_8h.html#a5b982ce72b559f2a61b29234e1745fad", null ],
+    [ "bson_encoder_t", "d1/de1/tinybson_8h.html#a5eaae13d819ac356134065c79715283f", null ],
+    [ "bson_node_t", "d1/de1/tinybson_8h.html#a6775f885059c67735a40b964212805fb", null ],
+    [ "bson_binary_subtype", "d1/de1/tinybson_8h.html#ab69c9ec1c9cdabbb2db338e58a6e55fe", [
+      [ "BSON_BIN_BINARY", "d1/de1/tinybson_8h.html#ab69c9ec1c9cdabbb2db338e58a6e55feac44f3837024f227d2df028bd4ccd0c80", null ],
+      [ "BSON_BIN_USER", "d1/de1/tinybson_8h.html#ab69c9ec1c9cdabbb2db338e58a6e55feac7ac545dfdb7742abaf246fcc081b3e8", null ]
+    ] ],
+    [ "bson_type_t", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78de", [
+      [ "BSON_EOO", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78dea9f61aabc2dc9955aa3574dd46588b879", null ],
+      [ "BSON_DOUBLE", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78dea302ac3dacea5d87f22bcbd2e94ea4b69", null ],
+      [ "BSON_STRING", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78dea1fab58ca0d6be1152b70522c07b3d3d2", null ],
+      [ "BSON_OBJECT", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78dea070c51183de4ba246b8ded07a75c3df5", null ],
+      [ "BSON_ARRAY", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78dea7c181d05951c92c9aac7a3c45d1a5290", null ],
+      [ "BSON_BINDATA", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deaf38ace19c4f326a21130220d6653fba5", null ],
+      [ "BSON_UNDEFINED", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deaae5d398856c35f8949ade196edde961e", null ],
+      [ "BSON_BOOL", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78dea577d27af09765aabba4a4d651d8aa1c2", null ],
+      [ "BSON_DATE", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deae7c62b3e7f9cbfa2023c7d18c3904282", null ],
+      [ "BSON_NULL", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deaddb291a0dd2ed0553dc5451197c085c1", null ],
+      [ "BSON_INT32", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deafa9bb05c9fecd471fba068dceb3e8284", null ],
+      [ "BSON_INT64", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deace401a98c30e7cc8cddaab52d6ca10c5", null ]
+    ] ],
+    [ "bson_decoder_copy_data", "d1/de1/tinybson_8h.html#a140ff8966437271f4a2c46e7b4fbd1c2", null ],
+    [ "bson_decoder_data_pending", "d1/de1/tinybson_8h.html#accb8406061e5af9ae211b241c6981fff", null ],
+    [ "bson_decoder_init_buf", "d1/de1/tinybson_8h.html#ad2557e4c580a2737ae4007e361c40f53", null ],
+    [ "bson_decoder_init_file", "d1/de1/tinybson_8h.html#a94a7f75af0cda56284a2326b55dde030", null ],
+    [ "bson_decoder_next", "d1/de1/tinybson_8h.html#a11f02a789222a4ba1b5b7f9093db7680", null ],
+    [ "bson_encoder_append_binary", "d1/de1/tinybson_8h.html#a8e7daed098473f1a517eb5d9d3a6aac4", null ],
+    [ "bson_encoder_append_bool", "d1/de1/tinybson_8h.html#a01f4afcc793321869ab0ee04ccc84611", null ],
+    [ "bson_encoder_append_double", "d1/de1/tinybson_8h.html#ae780250c669d15eb728636d8c6cda700", null ],
+    [ "bson_encoder_append_int", "d1/de1/tinybson_8h.html#acd183eb3e4e78d4dc673362acb78b5cb", null ],
+    [ "bson_encoder_append_string", "d1/de1/tinybson_8h.html#af385cf22373488bb048e51535cc0d76f", null ],
+    [ "bson_encoder_buf_data", "d1/de1/tinybson_8h.html#aa4641d58b4ac4dd46d3bc28b3ebfe7c8", null ],
+    [ "bson_encoder_buf_size", "d1/de1/tinybson_8h.html#a52adf13f40e195e0eee6931da80da934", null ],
+    [ "bson_encoder_fini", "d1/de1/tinybson_8h.html#a7b1729c0b245bd8cb8809c34a7d86a10", null ],
+    [ "bson_encoder_init_buf", "d1/de1/tinybson_8h.html#a8bde48161a6ee04f682096ad05991bbb", null ],
+    [ "bson_encoder_init_buf_file", "d1/de1/tinybson_8h.html#a32ff17659dd60b9c65ff5cd464d07e19", null ],
+    [ "bson_encoder_init_file", "d1/de1/tinybson_8h.html#a97fac1acf602f6b628a71d9ff061940c", null ]
+];

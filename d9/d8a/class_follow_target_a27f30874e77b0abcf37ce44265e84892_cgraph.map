@@ -1,0 +1,51 @@
+<map id="FollowTarget::on_active" name="FollowTarget::on_active">
+<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="934,1571,973,1598"/>
+<area shape="rect" id="node3" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="465,224,603,265"/>
+<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="693,399,794,426"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="688,231,799,258"/>
+<area shape="rect" id="node6" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="671,1389,816,1430"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="471,1688,597,1715"/>
+<area shape="rect" id="node8" href="$da/d7b/class_mission_block.html#a6ecd406f400032b5ea48176bb884eb66" title="Check if mission item has been reached. " alt="" coords="221,1092,391,1133"/>
+<area shape="rect" id="node28" href="$d1/d71/classmatrix_1_1_vector.html#adfde6b53c2c967f684dd5571d847781e" title="matrix::Vector::length" alt="" coords="233,2054,379,2080"/>
+<area shape="rect" id="node29" href="$d7/d09/geo_8cpp.html#a0233fe4ad7352b7918faeaf7aa5d8818" title="Initializes the map transformation given by the argument and sets the timestamp to now..." alt="" coords="239,774,373,800"/>
+<area shape="rect" id="node31" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="228,147,384,174"/>
+<area shape="rect" id="node34" href="$d7/d09/geo_8cpp.html#ae2c95a4f45ade7c0c2eae9a670f2740f" title="Transforms a point in the local azimuthal equidistant plane to the geographic coordinate system using..." alt="" coords="223,458,389,484"/>
+<area shape="rect" id="node35" href="$d3/d87/classmatrix_1_1_vector3.html#a3137bf85900a4a03fbc40e6be1a2acf2" title="matrix::Vector3::normalized" alt="" coords="215,2104,397,2131"/>
+<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="265,2210,347,2236"/>
+<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="269,2155,343,2182"/>
+<area shape="rect" id="node42" href="$d9/d8a/class_follow_target.html#a8ceb0d56b243da12ab62778e110b2678" title="FollowTarget::reset\l_target_validity" alt="" coords="239,2261,373,2302"/>
+<area shape="rect" id="node45" href="$d9/d8a/class_follow_target.html#a0b4bb48c7ca936a8929305f2daf9cfb0" title="Set follow_target item. " alt="" coords="452,1572,616,1613"/>
+<area shape="rect" id="node46" href="$d9/d8a/class_follow_target.html#aad4ecc76e837e67e4227b3cd8784af69" title="FollowTarget::target\l_position_valid" alt="" coords="237,2326,375,2368"/>
+<area shape="rect" id="node47" href="$d9/d8a/class_follow_target.html#a1331085af31ebe2f649a9aef00f3075c" title="FollowTarget::target\l_velocity_valid" alt="" coords="237,2392,375,2433"/>
+<area shape="rect" id="node48" href="$d9/d8a/class_follow_target.html#a7e12d935348f3c0775fdce905efaa417" title="FollowTarget::update\l_position_sp" alt="" coords="234,1805,378,1846"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="676,1742,811,1784"/>
+<area shape="rect" id="node10" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="1091,1107,1245,1134"/>
+<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="672,1900,815,1941"/>
+<area shape="rect" id="node12" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="459,1353,609,1394"/>
+<area shape="rect" id="node13" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="456,1740,612,1781"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a99ffced3ab485575b385454433aa105f" title="Get the altitude acceptance radius. " alt="" coords="877,1100,1030,1141"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#aefb68d38e1a80fd6bdc6c810f4f842d1" title="Navigator::get_loiter\l_radius" alt="" coords="674,1454,813,1496"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="864,1454,1043,1496"/>
+<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="451,1805,617,1846"/>
+<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#af681e085bd08b6f8bc6500d2b1658565" title="Navigator::get_local\l_position" alt="" coords="465,692,603,733"/>
+<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#a2cd0a80c548612fe0bb42036f75e7c28" title="Navigator::get_vtol\l_back_trans_deceleration" alt="" coords="449,961,619,1002"/>
+<area shape="rect" id="node20" href="$d0/df9/class_navigator.html#a1b5e873902c0edaa60e866334f051be8" title="Navigator::get_vtol\l_reverse_delay" alt="" coords="468,1026,600,1068"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a00b032f282524af141970cd4a91d1c75" title="Navigator::get_yaw\l_threshold" alt="" coords="467,1092,601,1133"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a6a03968e28dcb0f2f5f87e77f9f93b66" title="Navigator::get_yaw\l_timeout" alt="" coords="467,1157,601,1198"/>
+<area shape="rect" id="node23" href="$d0/df9/class_navigator.html#a2eb2d134cd59a4266f854075c9f2a8b9" title="Navigator::set_mission\l_failure" alt="" coords="456,1222,612,1264"/>
+<area shape="rect" id="node24" href="$da/d7b/class_mission_block.html#aa96269ba0a47a789df1d2c7046c0a1dd" title="MissionBlock::get_time\l_inside" alt="" coords="455,1288,613,1329"/>
+<area shape="rect" id="node25" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="461,509,607,550"/>
+<area shape="rect" id="node26" href="$d7/d09/geo_8cpp.html#a8cf2ed6d2c6d6ef12853085621d50c24" title="Creates a waypoint from given waypoint, distance and bearing see http://www.movable&#45;type.co.uk/scripts/latlong.html. " alt="" coords="455,626,613,668"/>
+<area shape="rect" id="node27" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="691,546,796,572"/>
+<area shape="rect" id="node30" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="467,392,601,433"/>
+<area shape="rect" id="node32" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="478,71,590,98"/>
+<area shape="rect" id="node33" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="449,172,619,199"/>
+<area shape="rect" id="node36" href="$d3/d87/classmatrix_1_1_vector3.html#a79e6f82cac6c4ccd541c6765170fe1b7" title="Override vector ops so Vector3 type is returned. " alt="" coords="464,2104,604,2131"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="463,2206,605,2248"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="463,2272,605,2313"/>
+<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="445,2155,623,2182"/>
+<area shape="rect" id="node43" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="467,2338,601,2364"/>
+<area shape="rect" id="node44" href="$da/d7b/class_mission_block.html#af5893cfacfaf5d2b6244963db4b78cc4" title="Reset all reached flags. " alt="" coords="455,2389,613,2430"/>
+<area shape="rect" id="node49" href="$da/d7b/class_mission_block.html#a8cb90e6258e8c99a0c4d1738308b8233" title="General function used to adjust the mission item based on vehicle specific limitations. " alt="" coords="457,1988,611,2029"/>
+<area shape="rect" id="node50" href="$da/d7b/class_mission_block.html#abf7e746ff80d9c2a1df6dad353f07eeb" title="Convert a mission item to a position setpoint. " alt="" coords="445,1870,623,1912"/>
+</map>

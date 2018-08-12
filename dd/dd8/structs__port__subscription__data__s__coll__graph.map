@@ -1,0 +1,9 @@
+<map id="s_port_subscription_data_s" name="s_port_subscription_data_s">
+<area shape="rect" id="node2" href="$da/dcb/structvehicle__global__position__s.html" title="{vehicle_global_position_s\n|+ timestamp\l+ lat\l+ lon\l+ alt\l+ delta_alt\l+ vel_n\land 10 more...\l|}" alt="" coords="5,27,176,193"/>
+<area shape="rect" id="node3" href="$d3/dd6/structvehicle__gps__position__s.html" title="{vehicle_gps_position_s\n|+ timestamp\l+ time_utc_usec\l+ lat\l+ lon\l+ alt\l+ alt_ellipsoid\land 19 more...\l|}" alt="" coords="200,27,357,193"/>
+<area shape="rect" id="node4" href="$d8/db9/structsensor__combined__s.html" title="{sensor_combined_s\n|+ timestamp\l+ gyro_rad\l+ gyro_integral_dt\l+ accelerometer_timestamp\l_relative\l+ accelerometer_m_s2\l+ accelerometer_integral_dt\l+ _padding0\l|}" alt="" coords="381,20,565,200"/>
+<area shape="rect" id="node5" href="$d0/d5c/structbattery__status__s.html" title="{battery_status_s\n|+ timestamp\l+ voltage_v\l+ voltage_filtered_v\l+ current_a\l+ current_filtered_a\l+ average_current_a\land 16 more...\l|}" alt="" coords="589,27,731,193"/>
+<area shape="rect" id="node6" href="$d4/d36/structvehicle__local__position__s.html" title="{vehicle_local_position_s\n|+ timestamp\l+ ref_timestamp\l+ ref_lat\l+ ref_lon\l+ x\l+ y\land 36 more...\l|}" alt="" coords="755,27,917,193"/>
+<area shape="rect" id="node7" href="$d8/dee/structvehicle__status__s.html" title="{vehicle_status_s\n|+ timestamp\l+ onboard_control_sensors\l_present\l+ onboard_control_sensors\l_enabled\l+ onboard_control_sensors\l_health\l+ nav_state\l+ arming_state\land 18 more...\l|}" alt="" coords="941,5,1120,215"/>
+<area shape="rect" id="node8" href="$de/d7b/structvehicle__air__data__s.html" title="{vehicle_air_data_s\n|+ timestamp\l+ baro_alt_meter\l+ baro_temp_celcius\l+ baro_pressure_pa\l+ rho\l|}" alt="" coords="1145,42,1287,178"/>
+</map>

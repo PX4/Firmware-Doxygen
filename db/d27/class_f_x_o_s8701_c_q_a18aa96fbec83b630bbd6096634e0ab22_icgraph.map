@@ -1,0 +1,22 @@
+<map id="FXOS8701CQ::write_reg" name="FXOS8701CQ::write_reg">
+<area shape="rect" id="node2" href="$db/d27/class_f_x_o_s8701_c_q.html#aff4be9e88c19ef06deb13b0eb90d76f0" title="check key registers for correct values " alt="" coords="228,109,435,135"/>
+<area shape="rect" id="node15" href="$db/d27/class_f_x_o_s8701_c_q.html#a1acafc0cc3bf1ef4f4492f95a0a305d0" title="deliberately trigger an error " alt="" coords="495,302,665,329"/>
+<area shape="rect" id="node17" href="$db/d27/class_f_x_o_s8701_c_q.html#aa6dd2ac39e89cb8a6abc5eaff0755e11" title="Write a register in the FXOS8701C, updating _checked_values. " alt="" coords="220,189,443,215"/>
+<area shape="rect" id="node3" href="$db/d27/class_f_x_o_s8701_c_q.html#ab6b6bd9cebddecaa1732c34ba2f8fe03" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="498,65,662,91"/>
+<area shape="rect" id="node4" href="$db/d27/class_f_x_o_s8701_c_q.html#a84d7a1b2c731f53cfeaeafea9d4d79e5" title="FXOS8701CQ::init" alt="" coords="1147,106,1277,133"/>
+<area shape="rect" id="node7" href="$db/d27/class_f_x_o_s8701_c_q.html#a62032defed8f63f3247543f1eea54ecf" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="721,28,885,69"/>
+<area shape="rect" id="node14" href="$db/d27/class_f_x_o_s8701_c_q.html#aca0e377ea34dc732ae4421a04e8babcf" title="FXOS8701CQ::read" alt="" coords="733,94,872,121"/>
+<area shape="rect" id="node5" href="$dd/d38/namespacefxos8701cq.html#af1083744722ff59f6f271098b04454b4" title="Start the driver. " alt="" coords="1566,106,1689,133"/>
+<area shape="rect" id="node6" href="$df/dc2/fxos8701cq_8cpp.html#abb6795591a4bc49ca6455a6a087d8fcc" title="fxos8701cq_main" alt="" coords="1905,182,2029,209"/>
+<area shape="rect" id="node8" href="$db/d27/class_f_x_o_s8701_c_q.html#ad6aba2bf1f1d3911f05701076506c924" title="Start automatic measurement. " alt="" coords="937,106,1077,133"/>
+<area shape="rect" id="node9" href="$db/d27/class_f_x_o_s8701_c_q.html#a5dc4a51b71a66cb35f9179c29e9031f7" title="FXOS8701CQ::ioctl" alt="" coords="1143,207,1281,234"/>
+<area shape="rect" id="node10" href="$db/d27/class_f_x_o_s8701_c_q.html#a13ae8e2b03f0bf7c924cc4ac11cad1a4" title="FXOS8701CQ::mag_ioctl" alt="" coords="1127,157,1297,183"/>
+<area shape="rect" id="node11" href="$db/d23/class_f_x_o_s8701_c_q__mag.html#a43c0b90480252608c9dda68a5403d7df" title="FXOS8701CQ_mag::ioctl" alt="" coords="1345,157,1516,183"/>
+<area shape="rect" id="node12" href="$dd/d38/namespacefxos8701cq.html#afe3a68cfa922375cce5904bd7b05e2e2" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1739,207,1857,234"/>
+<area shape="rect" id="node13" href="$dd/d38/namespacefxos8701cq.html#aaa2d45cc311826d361c9fc1010dc42ab" title="Reset the driver. " alt="" coords="1564,157,1691,183"/>
+<area shape="rect" id="node16" href="$dd/d38/namespacefxos8701cq.html#a049ea226ba47e4319af90740c94b3a28" title="trigger an error " alt="" coords="1355,306,1507,333"/>
+<area shape="rect" id="node18" href="$db/d27/class_f_x_o_s8701_c_q.html#a1fdfd2b95d269cc2ef0a1034ec8dddf3" title="Modify a register in the FXOS8701C. " alt="" coords="491,203,669,230"/>
+<area shape="rect" id="node20" href="$db/d27/class_f_x_o_s8701_c_q.html#a38008fa0c43b5d222d37f85d2ad3b820" title="Reset chip. " alt="" coords="936,157,1079,183"/>
+<area shape="rect" id="node19" href="$db/d27/class_f_x_o_s8701_c_q.html#a9e0b00946ea218a213f99ecfa1b061b7" title="Set the FXOS8701C accel measurement range. " alt="" coords="717,261,888,303"/>
+<area shape="rect" id="node21" href="$db/d27/class_f_x_o_s8701_c_q.html#ad54349e58e625e55a9d684fb458ff185" title="Set the FXOS8701C internal accel and mag sampling frequency. " alt="" coords="717,196,888,237"/>
+</map>

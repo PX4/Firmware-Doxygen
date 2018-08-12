@@ -1,0 +1,51 @@
+<map id="hmc5883_main" name="hmc5883_main">
+<area shape="rect" id="node2" href="$d5/dad/class_h_m_c5883.html#af62280e6a08c2f18962e9c7e18941938" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="340,739,479,765"/>
+<area shape="rect" id="node32" href="$d2/dd2/namespacehmc5883.html#a908535d4673436b75edbfb6a4eba7030" title="Automatic scale calibration. " alt="" coords="343,891,475,917"/>
+<area shape="rect" id="node40" href="$d2/dd2/namespacehmc5883.html#add4e5e0a7d58b4d58aaad91342d18f0e" title="Print a little info about the driver. " alt="" coords="357,1043,461,1069"/>
+<area shape="rect" id="node43" href="$d2/dd2/namespacehmc5883.html#a7835bbc0621ef79f05183a9f24933a91" title="Reset the driver. " alt="" coords="353,840,465,867"/>
+<area shape="rect" id="node44" href="$d2/dd2/namespacehmc5883.html#a36740b13ab71387a9d606ad38fcc7d25" title="Start the driver. " alt="" coords="169,992,278,1019"/>
+<area shape="rect" id="node47" href="$d2/dd2/namespacehmc5883.html#ae8c35eef2e991558f91d28b52db27540" title="Stop the driver. " alt="" coords="169,637,277,664"/>
+<area shape="rect" id="node48" href="$d2/dd2/namespacehmc5883.html#a0e482c094e232bcd863f3874218547f1" title="enable/disable temperature compensation " alt="" coords="331,941,488,968"/>
+<area shape="rect" id="node49" href="$d2/dd2/namespacehmc5883.html#acf19e9e5e0944644e1594bf04d41971e" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="357,789,462,816"/>
+<area shape="rect" id="node50" href="$d2/dd2/namespacehmc5883.html#a7c9fdd1619c028dda978fbbcdc398790" title="Prints info about the driver argument usage. " alt="" coords="164,1093,283,1120"/>
+<area shape="rect" id="node3" href="$d5/dad/class_h_m_c5883.html#afe7634b15765ccc24fa3248f49f8bd6d" title="HMC5883::ioctl" alt="" coords="561,739,674,765"/>
+<area shape="rect" id="node9" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1251,789,1289,816"/>
+<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="552,427,683,453"/>
+<area shape="rect" id="node19" href="$d5/dad/class_h_m_c5883.html#aa039c9b8bce1d17d7b7ade4e947f9b33" title="HMC5883::read" alt="" coords="560,237,675,264"/>
+<area shape="rect" id="node31" href="$d5/dad/class_h_m_c5883.html#a6d98d26b5ebb191f2947f313199018d5" title="Check the current scale calibration. " alt="" coords="536,789,699,816"/>
+<area shape="rect" id="node4" href="$d5/dad/class_h_m_c5883.html#aa1c526efdb13f2495353d0a61802502f" title="Stop the automatic measurement state machine. " alt="" coords="774,485,889,512"/>
+<area shape="rect" id="node5" href="$d5/dad/class_h_m_c5883.html#a950b9f8dcc129a3c2fe31898ca4e2dae" title="Initialise the automatic measurement state machine and start it. " alt="" coords="774,688,889,715"/>
+<area shape="rect" id="node7" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="772,739,891,765"/>
+<area shape="rect" id="node8" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="984,637,1131,664"/>
+<area shape="rect" id="node13" href="$d5/dad/class_h_m_c5883.html#a72f96fab429f29a8660ddaac5f97cc83" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="968,587,1147,613"/>
+<area shape="rect" id="node14" href="$d5/dad/class_h_m_c5883.html#a9f6a2b974feee741d57b82542dd5c376" title="enable hmc5983 temperature compensation " alt="" coords="966,521,1149,562"/>
+<area shape="rect" id="node6" href="$d5/dad/class_h_m_c5883.html#a682125ac270c159056296e6114b726df" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="964,688,1151,715"/>
+<area shape="rect" id="node10" href="$d5/dad/class_h_m_c5883.html#aadf85bdd284aaadc929fcac0e08c2fb3" title="Write a register. " alt="" coords="1199,528,1341,555"/>
+<area shape="rect" id="node11" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1229,288,1311,315"/>
+<area shape="rect" id="node12" href="$d5/dad/class_h_m_c5883.html#a9d5489645f22162a84da1229c5ff0c6d" title="Read a register. " alt="" coords="1201,583,1339,609"/>
+<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="762,354,901,395"/>
+<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="766,419,897,461"/>
+<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="755,289,908,330"/>
+<area shape="rect" id="node20" href="$d5/dad/class_h_m_c5883.html#acf2f888edd9226f2c6ecc4981560363c" title="Issue a measurement command. " alt="" coords="988,48,1127,75"/>
+<area shape="rect" id="node21" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="801,237,861,264"/>
+<area shape="rect" id="node22" href="$d5/dad/class_h_m_c5883.html#aa274541257c488a9b67e239737e73034" title="Collect the result of the most recent measurement. " alt="" coords="768,187,895,213"/>
+<area shape="rect" id="node23" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1016,469,1099,496"/>
+<area shape="rect" id="node24" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="995,149,1120,176"/>
+<area shape="rect" id="node25" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="996,200,1119,227"/>
+<area shape="rect" id="node26" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1021,251,1094,277"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1013,301,1101,328"/>
+<area shape="rect" id="node28" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="990,352,1125,379"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="992,403,1123,445"/>
+<area shape="rect" id="node30" href="$d5/dad/class_h_m_c5883.html#ad7c9c72a363a9e47dca7dc6aebe440ad" title="check the sensor range. " alt="" coords="976,99,1139,125"/>
+<area shape="rect" id="node33" href="$d2/dd2/namespacehmc5883.html#ab5153d706ecc0aedea3bba29156e05ce" title="find a bus structure for a busid " alt="" coords="551,941,683,968"/>
+<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="548,891,687,917"/>
+<area shape="rect" id="node38" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="547,992,688,1019"/>
+<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="764,1008,899,1035"/>
+<area shape="rect" id="node36" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="762,891,901,933"/>
+<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="757,957,905,984"/>
+<area shape="rect" id="node39" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="747,1059,916,1085"/>
+<area shape="rect" id="node41" href="$d5/dad/class_h_m_c5883.html#a808969d321f34b122a924bfbe536b39e" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="546,1144,689,1171"/>
+<area shape="rect" id="node42" href="$dd/d78/perf__counter_8c.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="768,1160,895,1187"/>
+<area shape="rect" id="node45" href="$d2/dd2/namespacehmc5883.html#ac8c2746e5f357283d28bf62efa03a4e9" title="start driver for a specific bus option " alt="" coords="341,992,478,1019"/>
+<area shape="rect" id="node46" href="$d5/dad/class_h_m_c5883.html#a0be29dc44e0b3da5d1f0cff302d09dcb" title="HMC5883::HMC5883" alt="" coords="543,1076,691,1103"/>
+</map>

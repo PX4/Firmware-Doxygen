@@ -1,0 +1,37 @@
+<map id="UavcanEsc::start" name="UavcanEsc::start">
+<area shape="rect" id="node2" href="$d9/dc3/class_uavcan_esc.html#aae43385913d0cbc5546d4b832780ad16" title="UavcanEsc::init" alt="" coords="203,203,318,229"/>
+<area shape="rect" id="node17" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="185,597,337,624"/>
+<area shape="rect" id="node18" href="$d9/dc3/class_uavcan_esc.html#ac631eda8b8247e3210e721fd8bbc2be5" title="UavcanEsc::run" alt="" coords="203,648,319,675"/>
+<area shape="rect" id="node35" href="$d9/dc3/class_uavcan_esc.html#a266274046f9e0345d71b62b99a731203" title="UavcanEsc::UavcanEsc" alt="" coords="177,811,344,837"/>
+<area shape="rect" id="node3" href="$d9/dc3/class_uavcan_esc.html#a796d005dcc6308f370cd604556c70f70" title="UavcanEsc::cb_beginfirmware\l_update" alt="" coords="392,141,592,182"/>
+<area shape="rect" id="node11" href="$d9/dc3/class_uavcan_esc.html#a786548f78897b7a9db129d73078764eb" title="UavcanEsc::fill_node_info" alt="" coords="405,232,579,259"/>
+<area shape="rect" id="node15" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="448,48,536,75"/>
+<area shape="rect" id="node4" href="$da/d60/boot__app__shared_8c.html#aba701c81c7bb5ddd1ea59f0160e85dcd" title="bootloader_app_shared\l_write" alt="" coords="640,57,796,98"/>
+<area shape="rect" id="node8" href="$dc/d61/uavcanesc__main_8cpp.html#a36488eba6a200d2fdc3c0d91cd1cc293" title="cb_reboot" alt="" coords="679,123,757,149"/>
+<area shape="rect" id="node10" href="$d6/d53/modules_2uavcanesc_2led_8cpp.html#a52d3e3cf761c064681d082183516e904" title="rgb_led" alt="" coords="686,173,750,200"/>
+<area shape="rect" id="node5" href="$da/d60/boot__app__shared_8c.html#ae63185b9fe9f1ec2b23a0eab0c739ee3" title="calulate_signature" alt="" coords="857,17,984,44"/>
+<area shape="rect" id="node7" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="895,68,946,95"/>
+<area shape="rect" id="node6" href="$d8/d13/crc_8c.html#ad87f30b63f3d0517139326fb89eb82e6" title="crc64_add_word" alt="" coords="1045,17,1163,44"/>
+<area shape="rect" id="node9" href="$da/d65/px4__tasks_8h.html#a582217d56f2542b506a770d840da3c5c" title="Reboots the board (without waiting for clean shutdown). " alt="" coords="859,123,982,149"/>
+<area shape="rect" id="node12" href="$d6/df6/board__common_8h.html#a42e6780351af1b68466a54e199244a51" title="board_get_mfguid" alt="" coords="655,291,781,317"/>
+<area shape="rect" id="node14" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="643,225,793,266"/>
+<area shape="rect" id="node13" href="$dc/ddc/kinetis_2board__identity_8c.html#a4c8de8daee2516d5243e7a1a2787709d" title="board_get_uuid" alt="" coords="865,291,976,317"/>
+<area shape="rect" id="node16" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="655,5,781,32"/>
+<area shape="rect" id="node19" href="$d9/dc3/class_uavcan_esc.html#a27194d0e1f19d6178d7abf6b8e0b52c3" title="add a fd to poll list, returning index into _poll_fds[] " alt="" coords="410,648,574,675"/>
+<area shape="rect" id="node20" href="$d9/dc3/class_uavcan_esc.html#a6f450cb8e7ab2a99dae874d464f4157b" title="UavcanEsc::get_node" alt="" coords="417,807,567,833"/>
+<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="851,781,990,808"/>
+<area shape="rect" id="node23" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="844,832,997,859"/>
+<area shape="rect" id="node24" href="$d9/dc3/class_uavcan_esc.html#a16106186b092453a16b795a0ccbbcdbd" title="UavcanEsc::teardown" alt="" coords="643,756,793,783"/>
+<area shape="rect" id="node25" href="$d6/d4d/uavcanesc_2indication__controller_8cpp.html#af56aa90c1905a7c6533f02b1a0f0b7f1" title="init_indication_controller" alt="" coords="411,395,573,421"/>
+<area shape="rect" id="node26" href="$d9/dc3/class_uavcan_esc.html#acae591e7fa2d9dfbfbe0f420a2e4385d" title="UavcanEsc::node_spin_once" alt="" coords="396,445,588,472"/>
+<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="423,496,561,523"/>
+<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="427,592,557,619"/>
+<area shape="rect" id="node21" href="$d9/dc3/class_uavcan_esc.html#a03c656d2694ba2744b2317c9f57677fe" title="UavcanEsc::print_info" alt="" coords="643,807,793,833"/>
+<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="651,392,785,419"/>
+<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="649,443,787,485"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="644,341,792,368"/>
+<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="649,574,787,615"/>
+<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="653,639,783,681"/>
+<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="641,509,795,550"/>
+<area shape="rect" id="node36" href="$d6/dfb/stubs__posix_8c.html#a7454d249ed94ad5d5e57ba1529d7a7f2" title="pthread_mutex_init" alt="" coords="426,908,558,935"/>
+</map>

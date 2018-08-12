@@ -1,0 +1,51 @@
+<map id="px4::logger::Logger::initialize_load_output" name="px4::logger::Logger::initialize_load_output">
+<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1965,421,2091,447"/>
+<area shape="rect" id="node3" href="$d3/de0/print__load__nuttx_8c.html#ab213ca6b0cfd05f55c53d8099c0c51f8" title="init_print_load_s" alt="" coords="217,522,333,549"/>
+<area shape="rect" id="node4" href="$d3/de0/print__load__nuttx_8c.html#a3d425127a84431ea5def16c6246a6677" title="Print load to a buffer, and call cb after each written line (buffer will not include &#39; &#39;) ..." alt="" coords="215,573,334,599"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a37dfb72c80d4e6b9698b19bcb05084d6" title="callback for print_load_buffer() to print the process load " alt="" coords="204,332,345,373"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#abc77eb15aa77b10765c2603a0d44e0ff" title="px4::logger::Logger\l::write_info_multiple" alt="" coords="393,232,532,273"/>
+<area shape="rect" id="node7" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae10eaee85ef26391dc3a249582877661" title="px4::logger::LogWriter\l::lock" alt="" coords="982,29,1133,71"/>
+<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac86db42b9da1cb2b7bf7ea92d1782274" title="Write exactly one ulog message to the logger and handle dropouts. " alt="" coords="580,287,713,328"/>
+<area shape="rect" id="node50" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a508107fb7c37d46f50405b71e5100317" title="px4::logger::LogWriter\l::unlock" alt="" coords="761,149,912,191"/>
+<area shape="rect" id="node8" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ac55359827358061773fea15364377152" title="px4::logger::LogWriterFile\l::lock" alt="" coords="1700,5,1871,47"/>
+<area shape="rect" id="node9" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2383,53,2522,79"/>
+<area shape="rect" id="node11" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ac2593d6cbf51a596331a9fd0009e9d78" title="Write a single ulog message (including header). " alt="" coords="761,371,912,412"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1967,370,2089,397"/>
+<area shape="rect" id="node12" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aab2e869678f72558574377efe21949e7" title="px4::logger::LogWriterFile\l::write_message" alt="" coords="1457,180,1628,221"/>
+<area shape="rect" id="node21" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a715caf561d7426e6d75b47ea69c26b8b" title="px4::logger::LogWriterMavlink\l::write_message" alt="" coords="960,565,1155,607"/>
+<area shape="rect" id="node13" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ae8a8d1f7d1901704155453471898c392" title="write w/o waiting/blocking " alt="" coords="1700,239,1871,280"/>
+<area shape="rect" id="node17" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aa4e03b937b0e70adddaf9eee2dab41e4" title="px4::logger::LogWriterFile\l::unlock" alt="" coords="1700,71,1871,112"/>
+<area shape="rect" id="node19" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a327a2d7285da3ee38df18c4533741916" title="px4::logger::LogWriterFile\l::notify" alt="" coords="1700,304,1871,345"/>
+<area shape="rect" id="node20" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="2215,137,2275,163"/>
+<area shape="rect" id="node14" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aaa9bf86895c5495ccd34d25dbb55bc6a" title="px4::logger::LogWriterFile\l::is_started" alt="" coords="1943,188,2113,229"/>
+<area shape="rect" id="node16" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a19acdb0803bebcb5c7bb3d0409d72f34" title="Write to the buffer but assuming there is enough space. " alt="" coords="1943,253,2113,295"/>
+<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2376,134,2529,161"/>
+<area shape="rect" id="node22" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a05e9f4bf61d442b239b29c988538abdb" title="px4::logger::LogWriterMavlink\l::is_started" alt="" coords="1203,624,1397,665"/>
+<area shape="rect" id="node24" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a9198b429adaaa9df6ba778ffed5a44ba" title="publish message, wait for ack if needed &amp; reset message " alt="" coords="1688,565,1883,607"/>
+<area shape="rect" id="node49" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="1260,522,1340,549"/>
+<area shape="rect" id="node23" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#ad98bea03afa190941133b7ea37c5ac07" title="px4::logger::LogWriterMavlink\l::set_need_reliable_transfer" alt="" coords="1445,624,1640,665"/>
+<area shape="rect" id="node25" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="1957,639,2099,666"/>
+<area shape="rect" id="node42" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1984,690,2072,717"/>
+<area shape="rect" id="node43" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="1993,471,2063,498"/>
+<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1991,589,2065,615"/>
+<area shape="rect" id="node48" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a35bca730eef6b144418144edee4262df" title="px4::logger::LogWriterMavlink\l::stop_log" alt="" coords="1931,523,2125,564"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2173,592,2316,633"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="2173,663,2316,704"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2381,236,2524,277"/>
+<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="2381,469,2524,511"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="2589,469,2732,511"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="2381,535,2524,576"/>
+<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="2381,600,2524,641"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="2381,665,2524,707"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="2381,731,2524,772"/>
+<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="2364,302,2541,329"/>
+<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="2381,796,2524,837"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="2367,862,2538,889"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="2381,913,2524,955"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="2381,979,2524,1020"/>
+<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="2381,1044,2524,1085"/>
+<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="2381,404,2524,445"/>
+<area shape="rect" id="node44" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="2207,187,2282,214"/>
+<area shape="rect" id="node45" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="2179,426,2310,453"/>
+<area shape="rect" id="node46" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="2198,477,2291,503"/>
+</map>

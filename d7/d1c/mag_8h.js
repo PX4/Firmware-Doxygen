@@ -1,0 +1,26 @@
+var mag_8h =
+[
+    [ "ak8963_regs", "dc/d15/structak8963__regs.html", "dc/d15/structak8963__regs" ],
+    [ "MPU9250_mag", "d5/d16/class_m_p_u9250__mag.html", "d5/d16/class_m_p_u9250__mag" ],
+    [ "AK8963_14BIT_ADC", "d7/d1c/mag_8h.html#a6990f1e4970399161bb391f92db12145", null ],
+    [ "AK8963_16BIT_ADC", "d7/d1c/mag_8h.html#a3d5b690d8c9ef66a11770b38b411e8ff", null ],
+    [ "AK8963_CONTINUOUS_MODE1", "d7/d1c/mag_8h.html#a009f6a0fbd037f08963a207cb20631e7", null ],
+    [ "AK8963_CONTINUOUS_MODE2", "d7/d1c/mag_8h.html#ad46eee9fd7f6a46f24f94af019b069b9", null ],
+    [ "AK8963_DEVICE_ID", "d7/d1c/mag_8h.html#a4deb6c5e0d7bc57985babeb8ace8ed28", null ],
+    [ "AK8963_FUZE_MODE", "d7/d1c/mag_8h.html#a58eed3ab7499680c5aada6e6a2c2245c", null ],
+    [ "AK8963_I2C_ADDR", "d7/d1c/mag_8h.html#a7a41b329a5b3fb069ebdb48a9b814fff", null ],
+    [ "AK8963_POWERDOWN_MODE", "d7/d1c/mag_8h.html#a0b2abbdb093737620617933ce313e156", null ],
+    [ "AK8963_RESET", "d7/d1c/mag_8h.html#a17bdbc7ebb26419aea1374e8b4690b20", null ],
+    [ "AK8963_SELFTEST_MODE", "d7/d1c/mag_8h.html#a23c9a53961c490e961d5941525e8efa3", null ],
+    [ "AK8963_SINGLE_MEAS_MODE", "d7/d1c/mag_8h.html#a1d9cf21fef0b3741a2c8fbe4850daf7c", null ],
+    [ "AK8963REG_ASAX", "d7/d1c/mag_8h.html#a47a10569a0c99e45909e7ec326a2f632", null ],
+    [ "AK8963REG_CNTL1", "d7/d1c/mag_8h.html#a17cd5f57ac65bff5b5d94ce035504db9", null ],
+    [ "AK8963REG_CNTL2", "d7/d1c/mag_8h.html#a20207a65c62a5a36426baabf85c3e890", null ],
+    [ "AK8963REG_HXL", "d7/d1c/mag_8h.html#ade375bd5b56f862e0f388264381e1c3a", null ],
+    [ "AK8963REG_ST1", "d7/d1c/mag_8h.html#a3dfc87304589f9c49e92398ee7c2bb15", null ],
+    [ "AK8963REG_WIA", "d7/d1c/mag_8h.html#af731fcb9c7c7ae64e559ca8f16774ac5", null ],
+    [ "MPU9250_AK8963_SAMPLE_RATE", "d7/d1c/mag_8h.html#aa432b0f741d3b073fb13afdcd757c298", null ],
+    [ "MPU9250_MAG_RANGE_GA", "d7/d1c/mag_8h.html#a15e92044b4874f3c4e0bc7cc08e19aec", null ],
+    [ "MPU9250_mag_constructor", "d7/d1c/mag_8h.html#a4c14bf9ed172491de3e59e391bb3045f", null ],
+    [ "AK8963_I2C_interface", "d7/d1c/mag_8h.html#a5e3f231499d31b92afd4ec808e2760f2", null ]
+];

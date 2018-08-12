@@ -1,0 +1,51 @@
+<map id="df_bmp280_wrapper_main" name="df_bmp280_wrapper_main">
+<area shape="rect" id="node2" href="$d5/ded/namespacedf__bmp280__wrapper.html#a85ee95adf6b6dd838df9ad05f6fe48d3" title="Print a little info about the driver. " alt="" coords="230,265,398,291"/>
+<area shape="rect" id="node3" href="$d5/ded/namespacedf__bmp280__wrapper.html#ad9b55e45815d137f66c4629db9b6e4ef" title="Attempt to start driver on all available I2C busses. " alt="" coords="241,316,387,357"/>
+<area shape="rect" id="node47" href="$d5/ded/namespacedf__bmp280__wrapper.html#a3d25833e47ca04ddbda14a9ab3c10805" title="Stop the driver. " alt="" coords="228,382,400,409"/>
+<area shape="rect" id="node50" href="$d5/ded/namespacedf__bmp280__wrapper.html#a19d38a41ebae6df6c0721f46c3cb8baf" title="Prints info about the driver argument usage. " alt="" coords="241,433,387,475"/>
+<area shape="rect" id="node4" href="$db/de6/class_df_bmp280_wrapper.html#a93dd762c38ba28245cb1252a5cafa02e" title="DfBmp280Wrapper::DfBmp280\lWrapper" alt="" coords="448,316,651,357"/>
+<area shape="rect" id="node5" href="$db/de6/class_df_bmp280_wrapper.html#afa29b3109398937f91ac9df7fc542e5a" title="Start automatic measurement. " alt="" coords="466,265,633,291"/>
+<area shape="rect" id="node6" href="$d1/daf/class_b_m_p280.html#a19cb357451895c41f211837684d90f84" title="Initialise the driver and make it ready for use. " alt="" coords="699,298,796,325"/>
+<area shape="rect" id="node36" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1591,459,1639,486"/>
+<area shape="rect" id="node7" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="891,130,979,157"/>
+<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="858,181,1011,223"/>
+<area shape="rect" id="node13" href="$de/dbc/classbmp280_1_1_i_b_m_p280.html#a4594553214a1594f4d4975c49788860c" title="bmp280::IBMP280::set_reg" alt="" coords="1077,155,1258,182"/>
+<area shape="rect" id="node14" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="905,450,965,477"/>
+<area shape="rect" id="node15" href="$de/dbc/classbmp280_1_1_i_b_m_p280.html#aa7ea97f76d1aeeeedcc9e6931aa59b72" title="bmp280::IBMP280::get_reg" alt="" coords="844,501,1025,527"/>
+<area shape="rect" id="node16" href="$de/dbc/classbmp280_1_1_i_b_m_p280.html#ad35f4ba52fafe9bc0239eed303fed58b" title="bmp280::IBMP280::get\l_calibration" alt="" coords="857,552,1013,593"/>
+<area shape="rect" id="node17" href="$d1/daf/class_b_m_p280.html#a3d6b3add57d1f1e6b0951df5ea342637" title="BMP280::measure" alt="" coords="869,298,1000,325"/>
+<area shape="rect" id="node22" href="$d1/daf/class_b_m_p280.html#aa459a57ffbe6ca906f53555e016ec4e7" title="BMP280::collect" alt="" coords="875,349,994,375"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="867,399,1002,426"/>
+<area shape="rect" id="node46" href="$de/dbc/classbmp280_1_1_i_b_m_p280.html#a2b556ae3ea694da51f720f4ffb696c54" title="bmp280::IBMP280::is\l_external" alt="" coords="861,64,1009,105"/>
+<area shape="rect" id="node8" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="1105,54,1230,81"/>
+<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1115,105,1219,131"/>
+<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1333,130,1472,157"/>
+<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1326,79,1479,106"/>
+<area shape="rect" id="node18" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1126,206,1209,233"/>
+<area shape="rect" id="node19" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1126,257,1209,283"/>
+<area shape="rect" id="node20" href="$dd/d78/perf__counter_8c.html#a6d3e31559fa1530eb17e6273ae9fffb4" title="Cancel a performance event. " alt="" coords="1123,307,1212,334"/>
+<area shape="rect" id="node21" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1131,358,1203,385"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1105,526,1230,553"/>
+<area shape="rect" id="node24" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1106,577,1229,603"/>
+<area shape="rect" id="node25" href="$de/dbc/classbmp280_1_1_i_b_m_p280.html#a16773562e3b883cf14128ca53e15899f" title="bmp280::IBMP280::get_data" alt="" coords="1073,409,1261,435"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1123,694,1211,721"/>
+<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1102,460,1233,501"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1331,748,1474,789"/>
+<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1331,683,1474,724"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1544,593,1687,635"/>
+<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1337,460,1468,501"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1096,628,1239,669"/>
+<area shape="rect" id="node34" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1337,581,1469,607"/>
+<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1309,530,1496,557"/>
+<area shape="rect" id="node45" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1365,631,1440,658"/>
+<area shape="rect" id="node37" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1735,434,1887,461"/>
+<area shape="rect" id="node38" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1769,485,1852,511"/>
+<area shape="rect" id="node39" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="1935,409,2073,435"/>
+<area shape="rect" id="node40" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="2121,383,2208,410"/>
+<area shape="rect" id="node41" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1965,459,2043,486"/>
+<area shape="rect" id="node42" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1977,510,2031,537"/>
+<area shape="rect" id="node43" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1961,561,2047,587"/>
+<area shape="rect" id="node44" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1963,611,2045,638"/>
+<area shape="rect" id="node48" href="$db/de6/class_df_bmp280_wrapper.html#a76687de36de63e990c0af173a481be68" title="Stop automatic measurement. " alt="" coords="466,382,633,409"/>
+<area shape="rect" id="node49" href="$d6/d47/dataman_8cpp.html#acc7baf226fbd7801b4118c7a009ff257" title="stop" alt="" coords="724,382,771,409"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="MPU6000::is_i2c" name="MPU6000::is_i2c">
+<area shape="rect" id="node2" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="459,431,597,457"/>
+<area shape="rect" id="node9" href="$d5/d19/class_m_p_u6000.html#a70789039cc750778ac57b6d9180c3195" title="Read a register from the MPU6000. " alt="" coords="919,785,1057,812"/>
+<area shape="rect" id="node10" href="$d5/d19/class_m_p_u6000.html#a01cf9bdd2aeb79a0f1af424299e9b7f5" title="Write a register in the MPU6000. " alt="" coords="917,861,1059,888"/>
+<area shape="rect" id="node37" href="$d5/d19/class_m_p_u6000.html#a69a40e8f3dabebd1ca28f3ba861ee15f" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="176,671,381,697"/>
+<area shape="rect" id="node38" href="$d5/d19/class_m_p_u6000.html#a3b72f9b57d8adf1972d3e1656392bccf" title="Modify a register in the MPU6000. " alt="" coords="689,836,841,863"/>
+<area shape="rect" id="node39" href="$d5/d19/class_m_p_u6000.html#a129b1669c0bbe000ed00c045843557b0" title="MPU6000::read_reg16" alt="" coords="203,937,355,964"/>
+<area shape="rect" id="node40" href="$d5/d19/class_m_p_u6000.html#a7ab75a027c6d2bb045faf87eebedb3cd" title="Set the MPU6000 measurement range. " alt="" coords="207,1039,351,1081"/>
+<area shape="rect" id="node41" href="$d5/d19/class_m_p_u6000.html#acf314e5c0ecadec602704bc75da45379" title="Write a register in the MPU6000, updating _checked_values. " alt="" coords="429,887,627,913"/>
+<area shape="rect" id="node3" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="947,445,1029,472"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1618,436,1743,463"/>
+<area shape="rect" id="node5" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="723,380,806,407"/>
+<area shape="rect" id="node6" href="$d5/d19/class_m_p_u6000.html#a5f296518f21c4554674a0e2e2f3394cf" title="MPU6000::check_registers" alt="" coords="675,684,855,711"/>
+<area shape="rect" id="node7" href="$d5/d19/class_m_p_u6000.html#ac22dbda479dff300fd2f58fb41ec059c" title="is_icm_device " alt="" coords="903,735,1073,761"/>
+<area shape="rect" id="node11" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="729,481,801,508"/>
+<area shape="rect" id="node12" href="$d6/d1e/conversions_8c.html#adcfc38898c99b0a7987a8c53de2e37b8" title="Converts a signed 16 bit integer from big endian to little endian. " alt="" coords="698,532,831,559"/>
+<area shape="rect" id="node13" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="703,583,826,609"/>
+<area shape="rect" id="node14" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="728,633,801,660"/>
+<area shape="rect" id="node15" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="687,107,843,149"/>
+<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="969,56,1007,83"/>
+<area shape="rect" id="node17" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="713,5,816,32"/>
+<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1615,194,1746,235"/>
+<area shape="rect" id="node22" href="$d7/d54/class_m_p_u6000__gyro.html#a6c62644637eecb3c07a4129618e1d253" title="MPU6000_gyro::parent\l_poll_notify" alt="" coords="1137,143,1293,185"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="721,279,809,305"/>
+<area shape="rect" id="node8" href="$d5/d19/class_m_p_u6000.html#ade297213f2fbbeeb3550ee76c18beeac" title="is_mpu_device " alt="" coords="1127,888,1302,915"/>
+<area shape="rect" id="node18" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="927,5,1049,32"/>
+<area shape="rect" id="node19" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1147,5,1282,32"/>
+<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1803,194,1933,235"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1386,370,1529,411"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="917,275,1059,317"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1609,370,1752,411"/>
+<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1805,377,1931,404"/>
+<area shape="rect" id="node27" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1981,352,2116,379"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1997,403,2101,429"/>
+<area shape="rect" id="node29" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2171,377,2310,404"/>
+<area shape="rect" id="node30" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2164,428,2317,455"/>
+<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1121,287,1308,313"/>
+<area shape="rect" id="node33" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1370,319,1545,345"/>
+<area shape="rect" id="node36" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1356,253,1559,294"/>
+<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1613,319,1748,345"/>
+<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1607,268,1755,295"/>
+</map>

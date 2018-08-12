@@ -1,0 +1,35 @@
+<map id="src/modules/gnd_att_control/GroundRoverAttitudeControl.cpp" name="src/modules/gnd_att_control/GroundRoverAttitudeControl.cpp">
+<area shape="rect" id="node2" href="$d3/d8c/_ground_rover_attitude_control_8hpp.html" title="GroundRoverAttitudeControl.hpp" alt="" coords="1125,109,1336,136"/>
+<area shape="rect" id="node3" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="5,191,101,218"/>
+<area shape="rect" id="node4" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="137,273,239,300"/>
+<area shape="rect" id="node11" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="781,273,875,300"/>
+<area shape="rect" id="node13" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="331,191,423,218"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="2101,191,2217,218"/>
+<area shape="rect" id="node25" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="2815,191,2931,218"/>
+<area shape="rect" id="node39" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1527,273,1665,300"/>
+<area shape="rect" id="node40" href="$da/df0/pid_8h.html" title="Definition of generic PID controller. " alt="" coords="2143,348,2214,375"/>
+<area shape="rect" id="node41" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="176,191,307,218"/>
+<area shape="rect" id="node42" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="1826,184,1974,225"/>
+<area shape="rect" id="node43" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1343,273,1452,300"/>
+<area shape="rect" id="node44" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="645,184,787,225"/>
+<area shape="rect" id="node45" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="810,184,953,225"/>
+<area shape="rect" id="node46" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="977,184,1135,225"/>
+<area shape="rect" id="node47" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="1159,184,1302,225"/>
+<area shape="rect" id="node48" href="$df/dd2/vehicle__attitude__setpoint_8h.html" title="uORB/topics/vehicle\l_attitude_setpoint.h" alt="" coords="1326,184,1469,225"/>
+<area shape="rect" id="node49" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="1493,184,1635,225"/>
+<area shape="rect" id="node50" href="$dc/dd6/vehicle__rates__setpoint_8h.html" title="uORB/topics/vehicle\l_rates_setpoint.h" alt="" coords="1659,184,1802,225"/>
+<area shape="rect" id="node5" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="154,348,233,375"/>
+<area shape="rect" id="node18" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="393,273,479,300"/>
+<area shape="rect" id="node21" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1879,273,1966,300"/>
+<area shape="rect" id="node26" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="3464,273,3592,300"/>
+<area shape="rect" id="node29" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="2292,273,2375,300"/>
+<area shape="rect" id="node30" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="2398,273,2522,300"/>
+<area shape="rect" id="node31" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="2547,273,2632,300"/>
+<area shape="rect" id="node32" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="2657,273,2749,300"/>
+<area shape="rect" id="node33" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="2773,273,2865,300"/>
+<area shape="rect" id="node34" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2889,273,2967,300"/>
+<area shape="rect" id="node35" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="2991,273,3065,300"/>
+<area shape="rect" id="node36" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="3090,273,3174,300"/>
+<area shape="rect" id="node37" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="3198,273,3309,300"/>
+<area shape="rect" id="node38" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="3333,273,3440,300"/>
+</map>

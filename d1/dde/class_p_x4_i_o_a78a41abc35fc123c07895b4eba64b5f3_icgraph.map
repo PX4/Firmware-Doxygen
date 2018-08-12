@@ -1,0 +1,23 @@
+<map id="PX4IO::io_reg_get" name="PX4IO::io_reg_get">
+<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#a85db0292370b5380301fa2c1422486c8" title="Detect if a PX4IO is connected. " alt="" coords="412,7,517,34"/>
+<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="870,311,957,338"/>
+<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a4bf0243f97fa2911c50360783112ca31" title="Fetch RC inputs from IO. " alt="" coords="183,624,333,665"/>
+<area shape="rect" id="node10" href="$d1/dde/class_p_x4_i_o.html#af4f72301ac94392b7e3e1ae734989667" title="Fetch status and alarms from IO. " alt="" coords="614,463,761,490"/>
+<area shape="rect" id="node11" href="$d1/dde/class_p_x4_i_o.html#a38084b037d73965204fa3d339f2357da" title="Fetch and publish the PWM servo outputs. " alt="" coords="383,682,546,724"/>
+<area shape="rect" id="node12" href="$d1/dde/class_p_x4_i_o.html#ac4527fa9292ebe1900f0992b16d9fee0" title="read a register " alt="" coords="193,428,323,455"/>
+<area shape="rect" id="node13" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="183,348,333,375"/>
+<area shape="rect" id="node18" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="397,108,533,135"/>
+<area shape="rect" id="node19" href="$d1/dde/class_p_x4_i_o.html#a37995636f5b1dacc47fa338963f38c9b" title="IO Control handler. " alt="" coords="641,108,734,135"/>
+<area shape="rect" id="node21" href="$d1/dde/class_p_x4_i_o.html#aac7b9556eef5abb6fff69a791e1c3a86" title="Push RC channel configuration to IO. " alt="" coords="605,580,769,607"/>
+<area shape="rect" id="node22" href="$d1/dde/class_p_x4_i_o.html#a5f43407295337806319a6db14ff8fd70" title="Print IO status. " alt="" coords="189,740,327,767"/>
+<area shape="rect" id="node3" href="$de/dfe/px4io_8cpp.html#ab5e695dd74013984141ba0a62efe22fa" title="px4io_main" alt="" coords="643,7,731,34"/>
+<area shape="rect" id="node4" href="$d1/dde/class_p_x4_i_o.html#aa3518cfa9b8427a799fe364479aeefa3" title="Set the update rate for actuator outputs from FMU to IO. " alt="" coords="832,58,995,84"/>
+<area shape="rect" id="node6" href="$d1/dde/class_p_x4_i_o.html#a99c74f789dc80ee9a7affdd823bae5b7" title="Initialize the PX4IO class. " alt="" coords="1069,311,1156,338"/>
+<area shape="rect" id="node8" href="$d1/dde/class_p_x4_i_o.html#a01240f13dfb3f9f51095066e25da022e" title="Fetch and publish raw RC input data. " alt="" coords="827,631,1000,658"/>
+<area shape="rect" id="node9" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="1048,522,1177,548"/>
+<area shape="rect" id="node14" href="$d1/dde/class_p_x4_i_o.html#acc9f77b9afa6a440b379c0cee93cd93f" title="Update IO&#39;s arming&#45;related state. " alt="" coords="838,514,989,556"/>
+<area shape="rect" id="node15" href="$d1/dde/class_p_x4_i_o.html#a74cb890a6900e694628206508712f623" title="Disable RC input handling. " alt="" coords="392,312,537,353"/>
+<area shape="rect" id="node17" href="$d1/dde/class_p_x4_i_o.html#aa0019dbf5dc3358f1c7bd9b7d9ab51a9" title="Handle a status update from IO. " alt="" coords="381,428,548,455"/>
+<area shape="rect" id="node16" href="$d1/dde/class_p_x4_i_o.html#a8194579120b9bd1afa57bdde73cb4b14" title="Disable RC input handling. " alt="" coords="596,362,779,388"/>
+<area shape="rect" id="node20" href="$d1/dde/class_p_x4_i_o.html#ab0f88576afa5981275587ab1c4ee974a" title="Handle issuing dsm bind ioctl to px4io. " alt="" coords="835,184,991,211"/>
+</map>

@@ -1,0 +1,25 @@
+var classvmount_1_1_output_base =
+[
+    [ "OutputBase", "d2/d86/classvmount_1_1_output_base.html#a302d17b42b18547fbf2dd5ab4b9c2fdf", null ],
+    [ "~OutputBase", "d2/d86/classvmount_1_1_output_base.html#a67948cb7d71b10bdd117ee76299a35db", null ],
+    [ "_calculate_output_angles", "d2/d86/classvmount_1_1_output_base.html#a4fedba3a144307aeff64787fc80bc370", null ],
+    [ "_calculate_pitch", "d2/d86/classvmount_1_1_output_base.html#ad6de3e549ffb50a96b63010956b01bf9", null ],
+    [ "_get_vehicle_attitude_sub", "d2/d86/classvmount_1_1_output_base.html#aa4ba0482ffd20515ae273793be2cb62b", null ],
+    [ "_handle_position_update", "d2/d86/classvmount_1_1_output_base.html#a63ca320abfe9fe7e2e54be97a3bb1335", null ],
+    [ "_set_angle_setpoints", "d2/d86/classvmount_1_1_output_base.html#aaa943a9994aae7562f1f4772af47d2cc", null ],
+    [ "initialize", "d2/d86/classvmount_1_1_output_base.html#a64f81a30c7c74a48d7c99629e5c185f7", null ],
+    [ "print_status", "d2/d86/classvmount_1_1_output_base.html#acf119b9a3f3a7d137b97486343d2161a", null ],
+    [ "publish", "d2/d86/classvmount_1_1_output_base.html#a24b79fb099236f19d8d3c660601c52b9", null ],
+    [ "update", "d2/d86/classvmount_1_1_output_base.html#a22c26bbac19077ad42d7c4c8aa0f4ea4", null ],
+    [ "_angle_outputs", "d2/d86/classvmount_1_1_output_base.html#acdab2c19a6f59ed6204a897e9a99c768", null ],
+    [ "_angle_setpoints", "d2/d86/classvmount_1_1_output_base.html#a525741e2ecd5c543d69aeff804e2b4c2", null ],
+    [ "_angle_speeds", "d2/d86/classvmount_1_1_output_base.html#a48103d258773a2abe9093be00a843f45", null ],
+    [ "_config", "d2/d86/classvmount_1_1_output_base.html#a8027c5a71eee3f28b1cb2030d9cf619e", null ],
+    [ "_cur_control_data", "d2/d86/classvmount_1_1_output_base.html#a7a1fb249ab6528265611fd38d2deb857", null ],
+    [ "_last_update", "d2/d86/classvmount_1_1_output_base.html#a148a077730f7973262913106acd880b4", null ],
+    [ "_mount_orientation_pub", "d2/d86/classvmount_1_1_output_base.html#ada258ae9e95b26bbec6101dd765171cb", null ],
+    [ "_projection_reference", "d2/d86/classvmount_1_1_output_base.html#ac0b21d149e04a445fcbda01a7ee324cd", null ],
+    [ "_stabilize", "d2/d86/classvmount_1_1_output_base.html#a5aaebb077846b823720b88c1fb51a976", null ],
+    [ "_vehicle_attitude_sub", "d2/d86/classvmount_1_1_output_base.html#a049d22b81220d421676119dedd1411fe", null ],
+    [ "_vehicle_global_position_sub", "d2/d86/classvmount_1_1_output_base.html#a58a68b4829f6e1e991eae86047aeb597", null ]
+];

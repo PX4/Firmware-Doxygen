@@ -1,0 +1,51 @@
+<map id="map_projection_project" name="map_projection_project">
+<area shape="rect" id="node2" href="$d2/d86/classvmount_1_1_output_base.html#ad6de3e549ffb50a96b63010956b01bf9" title="vmount::OutputBase\l::_calculate_pitch" alt="" coords="241,49,383,91"/>
+<area shape="rect" id="node7" href="$d8/d0b/class_flight_task_auto.html#a6ba395901628042b73583f6657e489bc" title="Checks and sets triplets. " alt="" coords="225,115,399,156"/>
+<area shape="rect" id="node8" href="$dc/d66/class_ekf.html#a73247d24a445f6e6c9e1baa7f55b5cb2" title="Ekf::gps_is_good" alt="" coords="251,181,373,207"/>
+<area shape="rect" id="node10" href="$d5/d01/class_block_local_position_estimator.html#a787f861d062f04e9a29412d7684a1eaa" title="BlockLocalPositionEstimator\l::gpsCorrect" alt="" coords="217,232,407,273"/>
+<area shape="rect" id="node13" href="$d3/dc6/class_commander.html#a228a3bb17659b7a44a845e304da1191a" title="Commander::handle_command" alt="" coords="211,298,413,325"/>
+<area shape="rect" id="node15" href="$dd/dd1/class_simulator.html#a1a78752a0e42cc7012f4bcd474795792" title="Simulator::handle_message" alt="" coords="221,349,403,375"/>
+<area shape="rect" id="node16" href="$da/d89/class_mavlink_receiver.html#a20e5061a848da7005cb01777ab79eb79" title="MavlinkReceiver::handle\l_message_hil_state_quaternion" alt="" coords="209,400,415,441"/>
+<area shape="rect" id="node23" href="$d7/dbe/class_geofence.html#a1ce8999e183228080ae6b4e9be3e8b5a" title="Check if a single point is within a circle. " alt="" coords="235,466,389,493"/>
+<area shape="rect" id="node39" href="$db/d35/geo_8h.html#a7599b7a785ea6ce25465f09df2046796" title="Transforms a point in the geographic coordinate system to the local azimuthal equidistant plane using..." alt="" coords="237,517,387,559"/>
+<area shape="rect" id="node42" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="231,583,393,610"/>
+<area shape="rect" id="node43" href="$d0/d58/position__estimator__inav__main_8cpp.html#acf822e9bb4a008a2a53118ccbdf951b6" title="position_estimator\l_inav_thread_main" alt="" coords="247,635,377,676"/>
+<area shape="rect" id="node45" href="$d5/d73/class_estimator_interface.html#aa5a782de16fc8451ee7473f614725046" title="EstimatorInterface\l::setGpsData" alt="" coords="247,700,377,741"/>
+<area shape="rect" id="node48" href="$dd/dd4/class_prec_land.html#af102e3ea17700924dd250ae7c6d4ea3f" title="PrecLand::slewrate" alt="" coords="745,765,879,791"/>
+<area shape="rect" id="node3" href="$d2/d86/classvmount_1_1_output_base.html#a63ca320abfe9fe7e2e54be97a3bb1335" title="check if vehicle position changed and update the setpoint angles if in gps mode " alt="" coords="471,49,644,91"/>
+<area shape="rect" id="node4" href="$d2/d86/classvmount_1_1_output_base.html#aaa943a9994aae7562f1f4772af47d2cc" title="set angle setpoints, speeds &amp; stabilize flags " alt="" coords="735,49,889,91"/>
+<area shape="rect" id="node5" href="$d8/db5/classvmount_1_1_output_mavlink.html#a54444810002c7cdb0a2b5fec407c14c7" title="Update the output. " alt="" coords="983,5,1140,47"/>
+<area shape="rect" id="node6" href="$dc/de6/classvmount_1_1_output_r_c.html#afcae38c76baaf7f63d2eccc3ff8dd22e" title="Update the output. " alt="" coords="972,101,1151,127"/>
+<area shape="rect" id="node9" href="$dc/d66/class_ekf.html#ad8c1750dd0b234d148b359666de971e8" title="Ekf::collect_gps" alt="" coords="499,181,615,207"/>
+<area shape="rect" id="node11" href="$d5/d01/class_block_local_position_estimator.html#ad15c4f6a9868f57abfc5b78f4e2165d9" title="BlockLocalPositionEstimator\l::update" alt="" coords="463,232,652,273"/>
+<area shape="rect" id="node12" href="$dc/d09/class_local_position_estimator_module.html#a6e620e76d8f8c8d6a87fe2246c30bde9" title="LocalPositionEstimatorModule::run" alt="" coords="700,239,924,266"/>
+<area shape="rect" id="node14" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="498,298,617,325"/>
+<area shape="rect" id="node17" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="475,400,640,441"/>
+<area shape="rect" id="node18" href="$da/d89/class_mavlink_receiver.html#abf05ea2b60baafd446100f897f9274ab" title="Receive data from UART. " alt="" coords="727,400,897,441"/>
+<area shape="rect" id="node19" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="985,400,1138,441"/>
+<area shape="rect" id="node20" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1201,400,1371,441"/>
+<area shape="rect" id="node21" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1441,407,1576,434"/>
+<area shape="rect" id="node22" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1664,407,1807,434"/>
+<area shape="rect" id="node24" href="$d7/dbe/class_geofence.html#ad04469e1fc121106b04be1492d00c158" title="Check if a point passes the Geofence test. " alt="" coords="470,466,645,493"/>
+<area shape="rect" id="node25" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="744,517,880,543"/>
+<area shape="rect" id="node26" href="$d7/dbe/class_geofence.html#a39dc1f54930821f1e7d0b488590605ca" title="implementation of updateFence(), but without locking " alt="" coords="977,491,1145,518"/>
+<area shape="rect" id="node33" href="$d7/dbe/class_geofence.html#aa8dd3c6149afaae4694495e8eb831520" title="Return whether the system obeys the geofence. " alt="" coords="1001,569,1122,595"/>
+<area shape="rect" id="node27" href="$d7/dbe/class_geofence.html#a6a4f90550a9337ee92bf0242c5af3ffb" title="Geofence::Geofence" alt="" coords="1215,467,1357,494"/>
+<area shape="rect" id="node28" href="$d7/dbe/class_geofence.html#aca06deb406baea3fe51e018bf6a2f910" title="update the geofence from dataman. " alt="" coords="1205,518,1367,545"/>
+<area shape="rect" id="node29" href="$d7/dbe/class_geofence.html#a9f6a2ec731abb95f297168dbfbcce200" title="Load a single inclusion polygon, replacing any already existing polygons. " alt="" coords="1655,514,1816,541"/>
+<area shape="rect" id="node32" href="$d7/dbe/class_geofence.html#a861a0b8a8e12423188e3140e09bafc3c" title="Geofence::clearDm" alt="" coords="1441,518,1576,545"/>
+<area shape="rect" id="node30" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1897,569,2001,595"/>
+<area shape="rect" id="node31" href="$d0/df9/class_navigator.html#ac9cc242bdb4465932f88217671686813" title="Load fence from file. " alt="" coords="1875,503,2024,544"/>
+<area shape="rect" id="node34" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="1199,620,1373,661"/>
+<area shape="rect" id="node35" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="1421,620,1596,661"/>
+<area shape="rect" id="node36" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="1654,620,1817,661"/>
+<area shape="rect" id="node38" href="$d0/d52/class_mission_feasibility_checker.html#a493b33a16340dab677935932844b9fe3" title="MissionFeasibilityChecker\l::MissionFeasibilityChecker" alt="" coords="1644,685,1827,727"/>
+<area shape="rect" id="node37" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="1884,689,2015,715"/>
+<area shape="rect" id="node40" href="$db/d35/geo_8h.html#a189032e49591f0ce0e1a6049e8446262" title="Convert from global position coordinates to local position coordinates using the global reference..." alt="" coords="489,525,626,567"/>
+<area shape="rect" id="node41" href="$d2/d7a/class_flight_task_orbit.html#af94ed3b9b866ea59246d08cdd3561531" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="707,568,917,609"/>
+<area shape="rect" id="node44" href="$d0/d58/position__estimator__inav__main_8cpp.html#ad30a31aecbb0b3fe8c1aa84282cdbbcd" title="The position_estimator_inav_thread only briefly exists to start the background job. " alt="" coords="493,599,621,640"/>
+<area shape="rect" id="node46" href="$d5/de4/base_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="532,665,583,691"/>
+<area shape="rect" id="node47" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="520,715,595,742"/>
+<area shape="rect" id="node49" href="$dd/dd4/class_prec_land.html#aadd0dbc9029a9b6b35e46b1a44acc8bf" title="PrecLand::run_state\l_horizontal_approach" alt="" coords="1213,745,1359,787"/>
+<area shape="rect" id="node50" href="$dd/dd4/class_prec_land.html#a0f4d8c775373884e2d3280bf8de29558" title="This function is called while the mode is active. " alt="" coords="1438,751,1579,778"/>
+</map>

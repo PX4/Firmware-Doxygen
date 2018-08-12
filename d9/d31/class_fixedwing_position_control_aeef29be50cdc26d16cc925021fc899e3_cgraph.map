@@ -1,0 +1,23 @@
+<map id="FixedwingPositionControl::airspeed_poll" name="FixedwingPositionControl::airspeed_poll">
+<area shape="rect" id="node2" href="$d1/d1f/class_t_e_c_s.html#abd929268aff820c70915fc332c8a0d60" title="Set the airspeed enable state. " alt="" coords="226,401,386,428"/>
+<area shape="rect" id="node10" href="$d0/d58/position__estimator__inav__main_8cpp.html#a9788a89a1fa912669102bc6049a9ed9b" title="max" alt="" coords="931,470,977,497"/>
+<area shape="rect" id="node20" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="224,832,388,858"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="243,882,369,909"/>
+<area shape="rect" id="node22" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a1f7f1bd26da7cc8d23bbbb1a278f742f" title="Create an update function that uses the embedded struct. " alt="" coords="237,934,375,975"/>
+<area shape="rect" id="node3" href="$d1/d1f/class_t_e_c_s.html#aab6412a9450a4430487b7b1cffa7c38f" title="Updates the following vehicle kineamtic state estimates: Vertical position, velocity and acceleration..." alt="" coords="648,168,801,210"/>
+<area shape="rect" id="node7" href="$d1/d1f/class_t_e_c_s.html#a6aeedcf79e4323b84da462c9e6616be8" title="Update the control loop calculations. " alt="" coords="436,394,576,435"/>
+<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="898,176,1010,202"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="935,420,973,446"/>
+<area shape="rect" id="node6" href="$d1/d1f/class_t_e_c_s.html#aecdf93951f7e0e7d056383826debfcf6" title="Get the current airspeed status. " alt="" coords="873,267,1035,308"/>
+<area shape="rect" id="node8" href="$d1/d1f/class_t_e_c_s.html#a3c9071e0e57efc5e8570212f629bab17" title="Initialize the controller. " alt="" coords="643,52,806,78"/>
+<area shape="rect" id="node9" href="$d1/d1f/class_t_e_c_s.html#ad80df2b3b140f116e244b619687f5033" title="Update the airspeed internal state using a second order complementary filter. " alt="" coords="647,299,802,340"/>
+<area shape="rect" id="node11" href="$d1/d1f/class_t_e_c_s.html#a4732c2d116797890c55e3c6d11663b2d" title="Calculate specific total energy rate limits. " alt="" coords="625,430,824,457"/>
+<area shape="rect" id="node12" href="$d1/d1f/class_t_e_c_s.html#a77bfca668f7e22596ff8c3bf624a4eb7" title="Detect if the system is not capable of maintaining airspeed. " alt="" coords="633,730,816,757"/>
+<area shape="rect" id="node13" href="$d1/d1f/class_t_e_c_s.html#a744cffdf8757b70e4051f05afa078922" title="Detect an uncommanded descent. " alt="" coords="624,482,825,523"/>
+<area shape="rect" id="node14" href="$d1/d1f/class_t_e_c_s.html#af1b423dec94a3bee2c7951e2c20fc9a8" title="Update the desired airspeed. " alt="" coords="647,103,802,144"/>
+<area shape="rect" id="node15" href="$d1/d1f/class_t_e_c_s.html#a52d4b31866f3a53e2d1fb2c08324a8c0" title="Update the desired height. " alt="" coords="647,664,802,706"/>
+<area shape="rect" id="node16" href="$d1/d1f/class_t_e_c_s.html#a9df3e59fc5b1e294c7aa3f3c21c48f1b" title="Update specific energy. " alt="" coords="645,599,804,640"/>
+<area shape="rect" id="node17" href="$d1/d1f/class_t_e_c_s.html#aa46d349335c601e995746ea03306526b" title="Update throttle setpoint. " alt="" coords="645,234,804,275"/>
+<area shape="rect" id="node18" href="$d1/d1f/class_t_e_c_s.html#a1f75a0a5bda6c6708b8f02b01ec68da5" title="Update the pitch setpoint. " alt="" coords="651,364,798,406"/>
+<area shape="rect" id="node19" href="$d0/d58/position__estimator__inav__main_8cpp.html#ab72387a3954ae834958e94d34cf610ea" title="min" alt="" coords="933,369,975,396"/>
+</map>

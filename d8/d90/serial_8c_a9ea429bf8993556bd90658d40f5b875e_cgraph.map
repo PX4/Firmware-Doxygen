@@ -1,0 +1,37 @@
+<map id="rx_dma_callback" name="rx_dma_callback">
+<area shape="rect" id="node2" href="$d2/d5e/protocol_8h.html#abe83ee7cb08ded2374a1a97e0279e07b" title="crc_packet" alt="" coords="351,313,437,340"/>
+<area shape="rect" id="node3" href="$d8/d90/serial_8c.html#ab490e77cf58b14849740525ba5dc47ef" title="dma_reset" alt="" coords="194,668,277,694"/>
+<area shape="rect" id="node4" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="713,566,795,593"/>
+<area shape="rect" id="node5" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="718,617,790,644"/>
+<area shape="rect" id="node6" href="$d8/d90/serial_8c.html#a7a47545978c88c7e8b180736034a49ef" title="rx_handle_packet" alt="" coords="173,414,297,441"/>
+<area shape="rect" id="node7" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="353,364,435,390"/>
+<area shape="rect" id="node8" href="$d8/d05/px4io_8h.html#a79ff516383f902f7c580f60972f88484" title="Register space. " alt="" coords="345,414,443,441"/>
+<area shape="rect" id="node34" href="$d8/d05/px4io_8h.html#a5b6feca2565b29aec20b8b25d7c7083e" title="registers_get" alt="" coords="345,465,443,492"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="909,160,1034,186"/>
+<area shape="rect" id="node10" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a3b26101148510641898ef9875be36e67" title="mixer_handle_text" alt="" coords="491,110,619,137"/>
+<area shape="rect" id="node13" href="$d4/d28/registers_8c.html#acb76ce9506a2d7ebd08998a39fba7358" title="registers_set_one" alt="" coords="492,262,617,289"/>
+<area shape="rect" id="node32" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="496,414,613,441"/>
+<area shape="rect" id="node11" href="$dd/d87/px4io_8c.html#a1bfce2733e8cd310c4ad79ae0304f583" title="send a debug message to the console " alt="" coords="715,110,793,137"/>
+<area shape="rect" id="node12" href="$d9/dbb/class_mixer_group.html#afb9ab70e8cc93f2cdb4b6409cb4a66ee" title="Remove all the mixers from the group. " alt="" coords="691,60,817,86"/>
+<area shape="rect" id="node14" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a39986b40678dad1e1758554fda15002c" title="mixer_set_failsafe" alt="" coords="690,313,818,340"/>
+<area shape="rect" id="node24" href="$d4/d28/registers_8c.html#a1a7174a1a8b4c33aedb348f76c2ae2ae" title="pwm_configure_rates" alt="" coords="681,364,827,390"/>
+<area shape="rect" id="node30" href="$d6/daa/sbus_8cpp.html#af6161f310503db0603426d3e9cc3a141" title="sbus1_set_output_rate_hz" alt="" coords="667,161,841,188"/>
+<area shape="rect" id="node31" href="$dd/d87/px4io_8c.html#adb9f3a15fec5538dec2fa1c72cd65a8b" title="schedule a reboot in time_delta_usec microseconds " alt="" coords="695,212,813,238"/>
+<area shape="rect" id="node15" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a43e725d165db6bf11a8afcc09b008b76" title="mixer_mix_threadsafe" alt="" coords="896,210,1047,237"/>
+<area shape="rect" id="node20" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="898,262,1045,303"/>
+<area shape="rect" id="node22" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to pwm. " alt="" coords="894,327,1049,368"/>
+<area shape="rect" id="node16" href="$d9/dbb/class_mixer_group.html#a7311c864d9bbd9a3583eb58b4c490a68" title="Get the saturation status. " alt="" coords="1107,203,1286,244"/>
+<area shape="rect" id="node18" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="1137,152,1256,178"/>
+<area shape="rect" id="node17" href="$de/d2d/class_mixer.html#a0489d4761ca014a0269fa975811c0066" title="Get the saturation status. " alt="" coords="1340,203,1484,244"/>
+<area shape="rect" id="node19" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="1371,152,1453,178"/>
+<area shape="rect" id="node21" href="$de/d2d/class_mixer.html#a3da8895824ce8c7653cfd5b7eb17d3e1" title="Empty method, only implemented for MultirotorMixer and MixerGroup class. " alt="" coords="1123,268,1270,310"/>
+<area shape="rect" id="node23" href="$de/d2d/class_mixer.html#a40abfb73fb20c6cbe15a29978081a44e" title="Mixer::set_thrust_factor" alt="" coords="1117,334,1277,361"/>
+<area shape="rect" id="node25" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="889,458,1053,499"/>
+<area shape="rect" id="node28" href="$d0/dbb/drv__pwm__output_8h.html#aace3976c339490fde77b5691afb34fcc" title="Set the update rate for a given rate group. " alt="" coords="889,392,1053,434"/>
+<area shape="rect" id="node26" href="$df/d04/kinetis_2drv__io__timer_8c.html#aad3a035250ee099bc93058614b0c0991" title="io_timer_get_group" alt="" coords="1131,457,1263,484"/>
+<area shape="rect" id="node27" href="$df/d04/kinetis_2drv__io__timer_8c.html#aa05b59458783481df45d51f51d8eb30f" title="io_timer_get_mode_channels" alt="" coords="1101,508,1292,534"/>
+<area shape="rect" id="node29" href="$df/d04/kinetis_2drv__io__timer_8c.html#ac0ff22c1218384d5e8d2a1edd783e8eb" title="io_timer_set_rate" alt="" coords="1135,400,1258,426"/>
+<area shape="rect" id="node33" href="$df/d04/kinetis_2drv__io__timer_8c.html#a42d48f771aa64e81484875298f360dfc" title="io_timer_trigger" alt="" coords="699,414,809,441"/>
+<area shape="rect" id="node35" href="$de/d01/adc_8c.html#adb8e4695bf43be882f16f075e9b6ba8c" title="adc_measure" alt="" coords="505,516,605,542"/>
+<area shape="rect" id="node36" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="693,516,815,542"/>
+</map>

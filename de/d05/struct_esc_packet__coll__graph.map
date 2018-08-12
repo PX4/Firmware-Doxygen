@@ -1,0 +1,7 @@
+<map id="EscPacket" name="EscPacket">
+<area shape="rect" id="node2" href="$d7/d30/struct_info_request.html" title="{InfoRequest\n|+ channelID\l+ requestInfoType\l|}" alt="" coords="5,233,133,325"/>
+<area shape="rect" id="node3" href="$d8/d07/struct_config_info_basic_request.html" title="{ConfigInfoBasicRequest\n|+ maxChannelInUse\l+ channelMapTable\l+ monitorMsgType\l+ controlMode\l+ minChannelValue\l+ maxChannelValue\l|}" alt="" coords="169,5,333,156"/>
+<area shape="rect" id="node6" href="$df/d34/struct_config_info_basic_response.html" title="{ConfigInfoBasicResponse\n|+ channelID\l|}" alt="" coords="330,241,505,318"/>
+<area shape="rect" id="node4" href="$d9/d91/struct_run_req.html" title="{RunReq\n|+ rpm_flags\l|}" alt="" coords="529,241,620,318"/>
+<area shape="rect" id="node5" href="$d5/de2/struct_run_info_repsonse.html" title="{RunInfoRepsonse\n|+ channelID\l+ ESCStatus\l+ speed\l+ current\l|}" alt="" coords="645,219,771,340"/>
+</map>

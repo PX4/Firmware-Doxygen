@@ -1,0 +1,21 @@
+<map id="FlightTasks::switchTask" name="FlightTasks::switchTask">
+<area shape="rect" id="node2" href="$dc/d0c/class_flight_tasks.html#a6f4b8d71cc701c06d71a25874b9ef31d" title="FlightTasks::_initTask" alt="" coords="252,36,403,63"/>
+<area shape="rect" id="node3" href="$da/dbc/class_flight_task.html#ac12e077bda3e2e96ffd2a4027b6ba71d" title="Call once on the event where you switch to the task. " alt="" coords="511,104,648,131"/>
+<area shape="rect" id="node9" href="$d2/df1/class_subscription_array.html#a72075952b02dd8edb6a17b1a449bf21e" title="update all subscriptions " alt="" coords="261,189,394,230"/>
+<area shape="rect" id="node11" href="$da/dbc/class_flight_task.html#acee81b36d5209c7d4abf4b06c1e2f556" title="Initialize the uORB subscriptions using an array. " alt="" coords="219,255,436,281"/>
+<area shape="rect" id="node14" href="$da/dbc/class_flight_task.html#ac0cf5331e942bf582c3ba4fd81ea62f9" title="Call before activate() or update() to initialize time and input data. " alt="" coords="238,87,417,113"/>
+<area shape="rect" id="node20" href="$da/dbc/class_flight_task.html#a5bb8931beaa09925e3223c018fa70d2b" title="FlightTask::~FlightTask" alt="" coords="247,305,407,332"/>
+<area shape="rect" id="node4" href="$da/dbc/class_flight_task.html#a46347ff9c49771017f76291832e07f0d" title="Reset all setpoints to NAN. " alt="" coords="723,111,905,137"/>
+<area shape="rect" id="node5" href="$da/dbc/class_flight_task.html#a1b7eb2b27c8c892ccf742241f0059760" title="Set constraints to default values. " alt="" coords="953,67,1179,93"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="732,161,896,188"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="751,5,877,32"/>
+<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="1409,121,1511,148"/>
+<area shape="rect" id="node10" href="$d6/d30/classu_o_r_b_1_1_subscription_node.html#a86672b6911740114151d65e60b0af850" title="Like update(), but does not check first if there is data available. " alt="" coords="495,221,664,262"/>
+<area shape="rect" id="node12" href="$d2/df1/class_subscription_array.html#a0d694a2eb71c4ed2aebe1968f1f7c176" title="Get a subscription. " alt="" coords="504,287,655,313"/>
+<area shape="rect" id="node13" href="$d2/df1/class_subscription_array.html#a982a41fb92325090d6e15b783c71d5e2" title="SubscriptionArray::\lresizeSubscriptions" alt="" coords="746,279,882,321"/>
+<area shape="rect" id="node15" href="$da/dbc/class_flight_task.html#a9f321fac68454f9080d5925772121217" title="FlightTask::_evaluateVehicle\lLocalPosition" alt="" coords="484,155,675,197"/>
+<area shape="rect" id="node19" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="539,53,619,80"/>
+<area shape="rect" id="node16" href="$d7/d09/geo_8cpp.html#a98adc506d799f265ba54500d0afac998" title="Initialize the global mapping between global position (spherical) and local position (NED)..." alt="" coords="733,212,895,239"/>
+<area shape="rect" id="node17" href="$d7/d09/geo_8cpp.html#a2f52a1c310e562a170d2ab2b4f53e5e3" title="Initializes the global map transformation. " alt="" coords="979,165,1153,192"/>
+<area shape="rect" id="node18" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="1227,146,1361,187"/>
+</map>

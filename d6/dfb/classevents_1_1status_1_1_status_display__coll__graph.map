@@ -1,0 +1,9 @@
+<map id="events::status::StatusDisplay" name="events::status::StatusDisplay">
+<area shape="rect" id="node2" href="$da/d93/structled__control__s.html" title="{led_control_s\n|+ timestamp\l+ led_mask\l+ color\l+ mode\l+ num_blinks\l+ priority\l+ _padding0\l|}" alt="" coords="5,42,105,207"/>
+<area shape="rect" id="node3" href="$d7/dbb/structcpuload__s.html" title="{cpuload_s\n|+ timestamp\l+ load\l+ ram_usage\l|}" alt="" coords="130,71,229,178"/>
+<area shape="rect" id="node4" href="$da/d17/classevents_1_1_subscriber_handler.html" title="Contains a list of uORB subscriptions and maintains their update state. " alt="" coords="253,5,453,244"/>
+<area shape="rect" id="node5" href="$d1/d4b/structvehicle__status__flags__s.html" title="{vehicle_status_flags_s\n|+ timestamp\l+ condition_calibration\l_enabled\l+ condition_system_sensors\l_initialized\l+ condition_system_hotplug\l_timeout\l+ condition_system_returned\l_to_home\l+ condition_auto_mission\l_available\land 23 more...\l|}" alt="" coords="477,5,668,244"/>
+<area shape="rect" id="node6" href="$d0/d5c/structbattery__status__s.html" title="{battery_status_s\n|+ timestamp\l+ voltage_v\l+ voltage_filtered_v\l+ current_a\l+ current_filtered_a\l+ average_current_a\land 16 more...\l|}" alt="" coords="693,42,834,207"/>
+<area shape="rect" id="node7" href="$d8/dee/structvehicle__status__s.html" title="{vehicle_status_s\n|+ timestamp\l+ onboard_control_sensors\l_present\l+ onboard_control_sensors\l_enabled\l+ onboard_control_sensors\l_health\l+ nav_state\l+ arming_state\land 18 more...\l|}" alt="" coords="858,20,1037,229"/>
+<area shape="rect" id="node8" href="$db/db4/structvehicle__attitude__s.html" title="{vehicle_attitude_s\n|+ timestamp\l+ rollspeed\l+ pitchspeed\l+ yawspeed\l+ q\l+ delta_q_reset\l+ quat_reset_counter\l+ _padding0\l|}" alt="" coords="1061,35,1207,215"/>
+</map>

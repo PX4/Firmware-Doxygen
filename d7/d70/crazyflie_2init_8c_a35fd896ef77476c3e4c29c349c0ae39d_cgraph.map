@@ -1,0 +1,41 @@
+<map id="board_app_initialize" name="board_app_initialize">
+<area shape="rect" id="node2" href="$d9/d71/drv__board__led_8h.html#a1006574f9ce59310c265bf9ce9a0b38a" title="drv_led_start" alt="" coords="223,68,320,95"/>
+<area shape="rect" id="node8" href="$db/d3e/hardfault__log_8h.html#af9a0c7409ec509e10ebab01300c64899" title="hardfault_check_status" alt="" coords="193,220,350,247"/>
+<area shape="rect" id="node13" href="$db/d3e/hardfault__log_8h.html#ab54bf1cc546647fd516ea6d1c9c66a15" title="hardfault_increment\l_reboot" alt="" coords="401,597,537,638"/>
+<area shape="rect" id="node16" href="$db/d3e/hardfault__log_8h.html#ada247fcdd8fd22d5dc3f8fc14220e02f" title="hardfault_rearm" alt="" coords="413,372,525,399"/>
+<area shape="rect" id="node17" href="$db/d3e/hardfault__log_8h.html#a22d95faf049d99779e41db485d5b2ba9" title="hardfault_write" alt="" coords="218,296,325,323"/>
+<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="220,448,323,475"/>
+<area shape="rect" id="node36" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="241,499,302,525"/>
+<area shape="rect" id="node37" href="$d1/d3d/aerocore2_2init_8c.html#a051724a3dd62335291d698ff09ab262b" title="led_off" alt="" coords="241,549,302,576"/>
+<area shape="rect" id="node38" href="$d9/da5/param_8c.html#ad5595e001c1cc6f7e7ae12439436aa4c" title="Initialize the param backend. " alt="" coords="230,600,313,627"/>
+<area shape="rect" id="node39" href="$d7/db2/av-x-v1_2board__config_8h.html#a8761b0b52bf3783d6c968dcb1e417a40" title="stm32_spi_bus_initialize" alt="" coords="189,651,353,677"/>
+<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a46fb32db2412d39005fccc9f366dd017" title="Convert a timespec to absolute time. " alt="" coords="219,701,323,728"/>
+<area shape="rect" id="node3" href="$d3/dbe/class_l_e_d.html#a979c15b97f7c7bc41e683e3f5ffa97e5" title="LED::LED" alt="" coords="428,68,511,95"/>
+<area shape="rect" id="node4" href="$d3/dbe/class_l_e_d.html#a0bfdb61ef0172fdf397b4eb9c5ed402f" title="Initialise the driver and make it ready for use. " alt="" coords="634,43,707,69"/>
+<area shape="rect" id="node5" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="823,5,911,32"/>
+<area shape="rect" id="node7" href="$d0/df0/lib_2drivers_2led_2led_8cpp.html#a41ee2d97fec589c6c6e1375b2e375aed" title="Ideally we&#39;d be able to get these from up_internal.h, but since we want to be able to disable the Nut..." alt="" coords="836,56,899,83"/>
+<area shape="rect" id="node6" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="991,5,1116,32"/>
+<area shape="rect" id="node9" href="$d8/d6f/hardfault__log_8c.html#a5961b7d0d02e18725970b1767fb2bcba" title="hardfault_get_desc" alt="" coords="403,271,535,297"/>
+<area shape="rect" id="node10" href="$d8/d6f/hardfault__log_8c.html#a6ee0e23edbc394712ad5d3306b25f5fb" title="identify" alt="" coords="639,195,703,221"/>
+<area shape="rect" id="node11" href="$d8/d6f/hardfault__log_8c.html#a1b902ea78b384c3b723f5b521e7f6b94" title="format_fault_time" alt="" coords="992,321,1115,348"/>
+<area shape="rect" id="node12" href="$d8/d6f/hardfault__log_8c.html#abf9911c37b137dd0001897bc806c9dbc" title="hardfault_rearm" alt="" coords="413,220,525,247"/>
+<area shape="rect" id="node14" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="1176,752,1223,779"/>
+<area shape="rect" id="node15" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="1028,473,1079,500"/>
+<area shape="rect" id="node18" href="$d8/d6f/hardfault__log_8c.html#af409f6f50ee6b6c0164b89d6cdf9997e" title="hardfault_dowrite" alt="" coords="409,436,530,463"/>
+<area shape="rect" id="node19" href="$dc/d5d/namespacebmp280.html#a93191cc5092a30d015afd545e9d9890d" title="Print a little info about the driver. " alt="" coords="622,600,719,627"/>
+<area shape="rect" id="node20" href="$d8/d6f/hardfault__log_8c.html#a6159c262cdcab21c1db888ff3f62ac44" title="write_dump_header" alt="" coords="603,347,738,373"/>
+<area shape="rect" id="node22" href="$d8/d6f/hardfault__log_8c.html#ac048a249e3cd55446caa7932f1e95e83" title="write_intterupt_stack" alt="" coords="599,448,742,475"/>
+<area shape="rect" id="node25" href="$d8/d6f/hardfault__log_8c.html#a79fbc4a0b4b5bb509582815c1896bf8e" title="write_user_stack" alt="" coords="610,397,731,424"/>
+<area shape="rect" id="node26" href="$d8/d6f/hardfault__log_8c.html#a9187872abb37b22639e5e66edecde2fb" title="write_dump_info" alt="" coords="809,271,926,297"/>
+<area shape="rect" id="node29" href="$d8/d6f/hardfault__log_8c.html#a078c7ee4fdc7fd85000d230d0351b73a" title="write_registers_info" alt="" coords="603,499,738,525"/>
+<area shape="rect" id="node31" href="$d8/d6f/hardfault__log_8c.html#abf6bcf30645652101630113c6a3a6208" title="write_interrupt_stack_info" alt="" coords="585,549,756,576"/>
+<area shape="rect" id="node33" href="$d8/d6f/hardfault__log_8c.html#ad0d4520ec0005b49ffd192d636cdb40a" title="write_user_stack_info" alt="" coords="596,651,745,677"/>
+<area shape="rect" id="node34" href="$d8/d6f/hardfault__log_8c.html#ac79b2f331deeeb5c4e420b3a4f5f7800" title="write_dump_footer" alt="" coords="606,296,735,323"/>
+<area shape="rect" id="node21" href="$d8/d6f/hardfault__log_8c.html#a3e1302edabba3b50f3ceec1c795140bb" title="write_dump_time" alt="" coords="807,333,928,360"/>
+<area shape="rect" id="node23" href="$d8/d6f/hardfault__log_8c.html#ae0eed11a56e42ff30e6499aa665ac88a" title="write_stack" alt="" coords="823,423,912,449"/>
+<area shape="rect" id="node24" href="$d8/d6f/hardfault__log_8c.html#a5c46b4e5e674eaab6e6642a1f3847b26" title="read_stack" alt="" coords="1010,423,1097,449"/>
+<area shape="rect" id="node27" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="979,205,1128,246"/>
+<area shape="rect" id="node28" href="$d2/d0b/version_8c.html#a0cb6b90f4ebff6157957b19a677fddc8" title="get the build URI (used for crash logging) " alt="" coords="1004,271,1103,297"/>
+<area shape="rect" id="node30" href="$d8/d6f/hardfault__log_8c.html#a91659a4e36f5650e640435ddaa75de64" title="write_registers" alt="" coords="814,524,921,551"/>
+<area shape="rect" id="node32" href="$d8/d6f/hardfault__log_8c.html#ae65e6fb3ba5738137e845b30a0a351a2" title="write_stack_detail" alt="" coords="804,575,931,601"/>
+</map>

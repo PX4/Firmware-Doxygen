@@ -1,0 +1,25 @@
+<map id="md25Sine" name="md25Sine">
+<area shape="rect" id="node2" href="$d7/d58/class_m_d25.html#acfeb8b1794745f863d4d6c8ce4ce66a3" title="MD25::getRevolutions1" alt="" coords="368,259,527,285"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="162,56,287,83"/>
+<area shape="rect" id="node4" href="$d7/d58/class_m_d25.html#acd78d8edd7b9d0d6343124f27af53c32" title="read data from i2c " alt="" coords="165,5,284,32"/>
+<area shape="rect" id="node6" href="$d7/d58/class_m_d25.html#a935d2d5e6c1ff26143f863afe99100b9" title="resets the encoders " alt="" coords="150,157,299,184"/>
+<area shape="rect" id="node8" href="$d7/d58/class_m_d25.html#a53e6cea2aa67eb2e5cb27e20f94d267d" title="set motor 1 speed " alt="" coords="145,259,305,285"/>
+<area shape="rect" id="node10" href="$d7/d58/class_m_d25.html#a789cbb599d147bd003f9113f3084b60c" title="enable/disable speed regulation " alt="" coords="133,208,316,235"/>
+<area shape="rect" id="node11" href="$d7/d58/class_m_d25.html#a4b4f7faabb7a0c2683dece299202d329" title="set the timeout for the motors enable/disable timeout (motor stop) after 2 sec of no i2c messages ..." alt="" coords="159,107,290,133"/>
+<area shape="rect" id="node12" href="$d7/d58/class_m_d25.html#a583e2b04c6d8ae794ade5a0a2f2fed75" title="print status " alt="" coords="174,436,275,463"/>
+<area shape="rect" id="node23" href="$d3/de9/classu_o_r_b_1_1_publication.html#a45db6f4c131b43ceb3ec64d860c5b06e" title="Create an update function that uses the embedded struct. " alt="" coords="155,487,294,529"/>
+<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="195,553,255,580"/>
+<area shape="rect" id="node5" href="$d7/d58/class_m_d25.html#a5b918449305fe2f516a43124a549b971" title="MD25::_uint8ToNorm" alt="" coords="374,5,521,32"/>
+<area shape="rect" id="node7" href="$d7/d58/class_m_d25.html#a99c2342408bac53bef6fe41533787edf" title="MD25::_writeUint8" alt="" coords="382,157,513,184"/>
+<area shape="rect" id="node9" href="$d7/d58/class_m_d25.html#a60f2611e97fe89b18f7a6a49935008a6" title="MD25::_normToUint8" alt="" coords="374,208,521,235"/>
+<area shape="rect" id="node13" href="$d7/d58/class_m_d25.html#ab7463db3cfec974e32abe4860c493e7f" title="MD25::getVersion" alt="" coords="384,512,511,539"/>
+<area shape="rect" id="node14" href="$d7/d58/class_m_d25.html#a66842926da79574047a09022b6245136" title="MD25::getMotor1Speed" alt="" coords="367,563,527,589"/>
+<area shape="rect" id="node15" href="$d7/d58/class_m_d25.html#af11764e9ccc677cb1721728e2a146508" title="MD25::getMotor2Speed" alt="" coords="367,613,527,640"/>
+<area shape="rect" id="node16" href="$d7/d58/class_m_d25.html#a9a472e506b1d74706faa2d4c37628f14" title="MD25::getRevolutions2" alt="" coords="368,664,527,691"/>
+<area shape="rect" id="node17" href="$d7/d58/class_m_d25.html#a8430e221b94e5995c9e0dd1cc4c1eb59" title="MD25::getBatteryVolts" alt="" coords="370,715,525,741"/>
+<area shape="rect" id="node18" href="$d7/d58/class_m_d25.html#a20e6fb9ffdf404453fb79626c451f48e" title="MD25::getMotor1Current" alt="" coords="364,765,531,792"/>
+<area shape="rect" id="node19" href="$d7/d58/class_m_d25.html#a59cd5a811ae8f93b2c38a8120549e1a6" title="MD25::getMotor2Current" alt="" coords="364,309,531,336"/>
+<area shape="rect" id="node20" href="$d7/d58/class_m_d25.html#a287efd7dae28717dad3e82dd4c52d39b" title="MD25::getMotorAccel" alt="" coords="373,360,522,387"/>
+<area shape="rect" id="node21" href="$d7/d58/class_m_d25.html#ac9430f98dc703b6b8075d654b748a964" title="MD25::getMode" alt="" coords="390,411,505,437"/>
+<area shape="rect" id="node22" href="$d7/d58/class_m_d25.html#aeb151bfa5af2dd8abf0ec225a9f3390c" title="MD25::getCommand" alt="" coords="376,461,519,488"/>
+</map>

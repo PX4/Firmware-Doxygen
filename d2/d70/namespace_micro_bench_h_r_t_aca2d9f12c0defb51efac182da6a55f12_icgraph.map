@@ -1,0 +1,21 @@
+<map id="MicroBenchHRT::lock" name="MicroBenchHRT::lock">
+<area shape="rect" id="node2" href="$d1/d29/class_virtual_can_iface.html#a61eae57ca60afe032bce33f29be6d2f3" title="Note that RX queue overwrites oldest items when overflowed. " alt="" coords="204,5,399,32"/>
+<area shape="rect" id="node3" href="$d1/d29/class_virtual_can_iface.html#ad37df6f309e19237d81ea7cb0080fe9d" title="Call this from the main thread only. " alt="" coords="220,57,383,98"/>
+<area shape="rect" id="node4" href="$d1/d29/class_virtual_can_iface.html#ae6d0e0ea515921c91f59651be663522a" title="Call this from the sub&#45;node thread only. " alt="" coords="217,122,386,163"/>
+<area shape="rect" id="node5" href="$d8/de7/class_m_k.html#a1ea687fc2159fd16fc840b48773602cb" title="MK::pwm_ioctl" alt="" coords="247,188,356,215"/>
+<area shape="rect" id="node7" href="$d1/d29/class_virtual_can_iface.html#aa0019570de64206ff167e7954a852b62" title="VirtualCanIface::receive" alt="" coords="220,239,383,265"/>
+<area shape="rect" id="node8" href="$d3/df7/class_uavcan_servers.html#a6c443712b288a4dfc98ea47af36921f6" title="UavcanServers::run" alt="" coords="232,289,371,316"/>
+<area shape="rect" id="node20" href="$d1/d29/class_virtual_can_iface.html#acefab39e54d254817bee573f89cbf433" title="VirtualCanIface::send" alt="" coords="227,340,375,367"/>
+<area shape="rect" id="node6" href="$d8/de7/class_m_k.html#a6260d558e7b3321b891b1906ecba0901" title="MK::ioctl" alt="" coords="483,188,557,215"/>
+<area shape="rect" id="node9" href="$d3/df7/class_uavcan_servers.html#a9a445e4c7b5cf6ba6a357805a90f55bf" title="UavcanServers::start" alt="" coords="447,289,593,316"/>
+<area shape="rect" id="node10" href="$d5/d94/class_uavcan_node.html#a5eef4e9ca2e3786ffc34e5856c0dca66" title="UavcanNode::start_fw\l_server" alt="" coords="641,282,795,323"/>
+<area shape="rect" id="node11" href="$d5/d94/class_uavcan_node.html#aa89be231fb3bb5fb6329b5dea28b866c" title="UavcanNode::attachITxQueue\lInjector" alt="" coords="1015,249,1213,290"/>
+<area shape="rect" id="node12" href="$d5/d94/class_uavcan_node.html#aa5f18742853ca1adad2e98067f0806d7" title="UavcanNode::run" alt="" coords="843,317,967,344"/>
+<area shape="rect" id="node13" href="$d0/dfe/class_restart_request_handler.html#ae2957db559b8494d1afb2f1fcb29cea3" title="RestartRequestHandler\l::handleRestartRequest" alt="" coords="1034,314,1194,355"/>
+<area shape="rect" id="node14" href="$d5/d94/class_uavcan_node.html#a13ed0c01582208064184373b44ea6d6d" title="UavcanNode::start" alt="" coords="1048,380,1180,407"/>
+<area shape="rect" id="node15" href="$dc/d91/uavcan__module_8hpp.html#a7c10586500dfc2bf6419399affc8e1a9" title="uavcan_main" alt="" coords="1275,339,1373,365"/>
+<area shape="rect" id="node17" href="$d1/dfc/uavcannode__main_8cpp.html#aa5d73b47d975f5ba7be1925d14c02c63" title="uavcannode_start" alt="" coords="1261,420,1387,447"/>
+<area shape="rect" id="node16" href="$d7/de6/uavcan__main_8cpp.html#a5abe0071a53c95b01791701e62cc1e07" title="print_usage" alt="" coords="1435,339,1524,365"/>
+<area shape="rect" id="node18" href="$d1/dfc/uavcannode__main_8cpp.html#a5abe0071a53c95b01791701e62cc1e07" title="print_usage" alt="" coords="1435,389,1524,416"/>
+<area shape="rect" id="node19" href="$d1/dfc/uavcannode__main_8cpp.html#a829e28ad70ccffca620793d7da2e2df6" title="uavcannode_main" alt="" coords="1572,452,1699,479"/>
+</map>

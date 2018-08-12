@@ -1,0 +1,26 @@
+var classu_o_r_b_1_1_manager =
+[
+    [ "Manager", "d3/da9/classu_o_r_b_1_1_manager.html#a276b86112a087ac22cd1120a06c1efba", null ],
+    [ "~Manager", "d3/da9/classu_o_r_b_1_1_manager.html#a61c4a650b914ae57322b50043bf11dd8", null ],
+    [ "get_device_master", "d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4", null ],
+    [ "get_instance", "d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5", null ],
+    [ "initialize", "d3/da9/classu_o_r_b_1_1_manager.html#abb160fdd7ba0fe448ffa7f654a796267", null ],
+    [ "node_advertise", "d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640", null ],
+    [ "node_open", "d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719", null ],
+    [ "orb_advertise", "d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f", null ],
+    [ "orb_advertise_multi", "d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d", null ],
+    [ "orb_check", "d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7", null ],
+    [ "orb_copy", "d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90", null ],
+    [ "orb_exists", "d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f", null ],
+    [ "orb_get_interval", "d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963", null ],
+    [ "orb_priority", "d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8", null ],
+    [ "orb_publish", "d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447", null ],
+    [ "orb_set_interval", "d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56", null ],
+    [ "orb_stat", "d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4", null ],
+    [ "orb_subscribe", "d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb", null ],
+    [ "orb_subscribe_multi", "d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe", null ],
+    [ "orb_unadvertise", "d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824", null ],
+    [ "orb_unsubscribe", "d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81", null ],
+    [ "_device_master", "d3/da9/classu_o_r_b_1_1_manager.html#a6f97f18502f949ce99908fab98d968fd", null ],
+    [ "_Instance", "d3/da9/classu_o_r_b_1_1_manager.html#a0c242b04076341baf19222f981f1bb4c", null ]
+];

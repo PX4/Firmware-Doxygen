@@ -1,0 +1,7 @@
+<map id="RGBLED" name="RGBLED">
+<area shape="rect" id="node4" href="$d9/def/class_led_controller.html" title="class LedController Handles the led_control topic: blinking, priorities and state updates..." alt="" coords="271,373,486,671"/>
+<area shape="rect" id="node5" href="$d9/dfe/struct_led_controller_1_1_per_led_data.html" title="{LedController::PerLedData\n|+ current_blinking_time\l|+ set()\l+ apply_next_state()\l}" alt="" coords="291,219,467,311"/>
+<area shape="rect" id="node6" href="$d8/d70/struct_led_controller_1_1_per_priority_data.html" title="{LedController::PerPriorityData\n|+ color\l+ mode\l+ blink_times_left\l|}" alt="" coords="178,27,374,134"/>
+<area shape="rect" id="node7" href="$db/db9/struct_led_controller_1_1_next_state.html" title="{LedController::NextState\n|+ color\l+ mode\l+ num_blinks\l+ priority\l|+ set()\l+ reset()\l+ is_valid()\l}" alt="" coords="398,5,565,156"/>
+<area shape="rect" id="node8" href="$d8/dbf/class_linux_g_p_i_o.html" title="{LinuxGPIO\n|&#45; _pin\l&#45; _fd\l|+ LinuxGPIO()\l+ ~LinuxGPIO()\l+ exportPin()\l+ unexportPin()\l+ setDirection()\l+ readValue()\l+ writeValue()\l}" alt="" coords="511,432,625,612"/>
+</map>

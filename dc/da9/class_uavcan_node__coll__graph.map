@@ -1,0 +1,23 @@
+<map id="UavcanNode" name="UavcanNode">
+<area shape="rect" id="node2" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="186,807,369,1221"/>
+<area shape="rect" id="node3" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="44,439,177,707"/>
+<area shape="rect" id="node4" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="26,233,195,311"/>
+<area shape="rect" id="node5" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="5,5,216,127"/>
+<area shape="rect" id="node6" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="201,535,353,612"/>
+<area shape="rect" id="node7" href="$d7/d44/structuavcan__node_1_1_allocator.html" title="{uavcan_node::Allocator\n|+ CapacitySoftLimit\l+ CapacityHardLimit\l|+ Allocator()\l+ ~Allocator()\l}" alt="" coords="393,961,551,1067"/>
+<area shape="rect" id="node9" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="575,953,721,1075"/>
+<area shape="rect" id="node10" href="$d2/da9/structactuator__outputs__s.html" title="{actuator_outputs_s\n|+ timestamp\l+ noutputs\l+ output\l+ _padding0\l|}" alt="" coords="745,953,879,1075"/>
+<area shape="rect" id="node11" href="$d1/dfb/structtest__motor__s.html" title="{test_motor_s\n|+ timestamp\l+ motor_number\l+ value\l|}" alt="" coords="903,961,1020,1067"/>
+<area shape="rect" id="node12" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="1052,520,1164,627"/>
+<area shape="rect" id="node19" href="$d1/dfe/class_uavcan_esc_controller.html" title="{UavcanEscController\n|&#45; _armed\l&#45; _run_at_idle_throttle\l_when_armed\l&#45; _esc_status_pub\l&#45; _actuator_outputs_pub\l&#45; _prev_cmd_pub\l&#45; _node\land 5 more...\l&#45; MAX_RATE_HZ\l&#45; ESC_STATUS_UPDATE_RATE_HZ\l&#45; UAVCAN_COMMAND_TRANSFER\l_PRIORITY\l|+ UavcanEscController()\l+ ~UavcanEscController()\l+ init()\l+ update_outputs()\l+ arm_all_escs()\l+ arm_single_esc()\l+ enable_idle_throttle\l_when_armed()\l&#45; esc_status_sub_cb()\l&#45; orb_pub_timer_cb()\l}" alt="" coords="1225,829,1473,1199"/>
+<area shape="rect" id="node13" href="$d9/dbb/class_mixer_group.html" title="Group of mixers, built up from single mixers and processed in order when mixing. " alt="" coords="1497,917,1663,1111"/>
+<area shape="rect" id="node14" href="$de/d2d/class_mixer.html" title="Abstract class defining a mixer mixing zero or more inputs to one or more outputs. " alt="" coords="1469,417,1656,729"/>
+<area shape="rect" id="node15" href="$d1/d34/class_list.html" title="{List\&lt; IUavcanSensorBridge * \&gt;\n||}" alt="" coords="1688,975,1891,1053"/>
+<area shape="rect" id="node16" href="$d0/d54/structactuator__armed__s.html" title="{actuator_armed_s\n|+ timestamp\l+ armed_time_ms\l+ armed\l+ prearmed\l+ ready_to_arm\l+ lockdown\land 5 more...\l|}" alt="" coords="1915,931,2042,1097"/>
+<area shape="rect" id="node17" href="$de/d27/structactuator__controls__s.html" title="{actuator_controls_s\n|+ timestamp\l+ timestamp_sample\l+ control\l|}" alt="" coords="2067,961,2211,1067"/>
+<area shape="rect" id="node18" href="$d2/d2d/class_i_tx_queue_injector.html" title="This interface defines one method that will be called by the main node thread periodically in order t..." alt="" coords="2235,968,2389,1060"/>
+<area shape="rect" id="node20" href="$d7/d79/structesc__status__s.html" title="{esc_status_s\n|+ timestamp\l+ counter\l+ esc_count\l+ esc_connectiontype\l+ _padding0\l|}" alt="" coords="1274,505,1425,641"/>
+<area shape="rect" id="node21" href="$da/dc3/structesc__report__s.html" title="{esc_report_s\n|+ timestamp\l+ esc_errorcount\l+ esc_rpm\l+ esc_voltage\l+ esc_current\l+ esc_temperature\land 7 more...\l|}" alt="" coords="1284,189,1415,355"/>
+<area shape="rect" id="node22" href="$d8/d8b/class_uavcan_hardpoint_controller.html" title="The UavcanHardpointController class. " alt="" coords="2414,909,2621,1119"/>
+<area shape="rect" id="node23" href="$de/d03/structactuator__direct__s.html" title="{actuator_direct_s\n|+ timestamp\l+ nvalues\l+ values\l+ _padding0\l|}" alt="" coords="2645,953,2768,1075"/>
+</map>
