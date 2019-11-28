@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['lsm303d',['LSM303D',['../d9/dfa/class_l_s_m303_d__mag.html#a0e80dfa90d0df00dcca256632a638c54',1,'LSM303D_mag']]],
-  ['lsm303d_5fmag',['LSM303D_mag',['../d6/dd5/class_l_s_m303_d.html#ac7813994f8dcd806e326c05fe1cd64ec',1,'LSM303D']]]
+  ['manager',['Manager',['../dd/d9d/classu_o_r_b_1_1_device_master.html#ac7c1906a5bb7b0e69f9dcffc0c178300',1,'uORB::DeviceMaster']]],
+  ['uavcannode',['UavcanNode',['../de/d1e/class_uavcan_mixing_interface.html#aead119cdc12bd0dcbbc802042dc7f331',1,'UavcanMixingInterface']]]
 ];

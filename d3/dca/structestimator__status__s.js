@@ -1,6 +1,5 @@
 var structestimator__status__s =
 [
-    [ "_padding0", "d3/dca/structestimator__status__s.html#af80554e5bdd97ace9dbd2ccbfa3672da", null ],
     [ "beta_test_ratio", "d3/dca/structestimator__status__s.html#aa6016a1511d39ba2ba13aabe7f59b99a", null ],
     [ "control_mode_flags", "d3/dca/structestimator__status__s.html#a31af1e529d73e833524180df7e2e5945", null ],
     [ "covariances", "d3/dca/structestimator__status__s.html#ae58fb5d20e3fc14ad39f40d3839bd761", null ],
@@ -15,7 +14,11 @@ var structestimator__status__s =
     [ "pos_horiz_accuracy", "d3/dca/structestimator__status__s.html#a9b9895cf7602dd70c48e46598a33fb3e", null ],
     [ "pos_test_ratio", "d3/dca/structestimator__status__s.html#aa95b821a48b7903642e86c6299a2490b", null ],
     [ "pos_vert_accuracy", "d3/dca/structestimator__status__s.html#a7667371adbb3aa46c2217d36d2062208", null ],
-    [ "pre_flt_fail", "d3/dca/structestimator__status__s.html#a4b95923e4e2794f93d29d4b5823da658", null ],
+    [ "pre_flt_fail_innov_heading", "d3/dca/structestimator__status__s.html#a1c58f190f69ccb4dbefc78fc7b468e05", null ],
+    [ "pre_flt_fail_innov_height", "d3/dca/structestimator__status__s.html#ae32f3fab04ba7c78b567ad72a336bb3d", null ],
+    [ "pre_flt_fail_innov_vel_horiz", "d3/dca/structestimator__status__s.html#a7562a5e140b79c7f82915bf8a7107ef0", null ],
+    [ "pre_flt_fail_innov_vel_vert", "d3/dca/structestimator__status__s.html#a16aa63549afda841cd40f9aa65eb7070", null ],
+    [ "pre_flt_fail_mag_field_disturbed", "d3/dca/structestimator__status__s.html#a69fbd97545444a0de9125375e055af08", null ],
     [ "solution_status_flags", "d3/dca/structestimator__status__s.html#aba493b93b1111eaa4736e09a4fbab890", null ],
     [ "states", "d3/dca/structestimator__status__s.html#aacd5e5cda3b785d3ece843295de70a0f", null ],
     [ "tas_test_ratio", "d3/dca/structestimator__status__s.html#aeba74cd6e67a4e0395283a2da85546f3", null ],

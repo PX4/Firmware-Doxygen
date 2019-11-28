@@ -1,25 +1,35 @@
 <map id="orb_topics_count" name="orb_topics_count">
-<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8eaed9d8aeaec2280c30dc1c0de0e1a3" title="Add a topic to be logged. " alt="" coords="185,408,318,449"/>
-<area shape="rect" id="node12" href="$de/dec/classpx4_1_1_replay.html#a6028297289426483caac32fcce09cc52" title="px4::Replay::findTopic" alt="" coords="175,715,328,742"/>
-<area shape="rect" id="node21" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a09cd7ed49196278bd41909cdbb3789ee" title="px4::logger::Logger\l::Logger" alt="" coords="185,473,318,515"/>
-<area shape="rect" id="node22" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ae3da77cc33cea95cab42e341c21f7a6e" title="px4::logger::Logger\l::write_formats" alt="" coords="185,71,318,112"/>
-<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acd25f6ea939129583926184596f92847" title="px4::logger::Logger\l::add_default_topics" alt="" coords="397,440,536,481"/>
-<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac92289258199c9ffeffc9f68ac469944" title="px4::logger::Logger\l::add_high_rate_topics" alt="" coords="390,505,543,547"/>
-<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a28530b2e00e82ffe123df31558cd53ef" title="px4::logger::Logger\l::add_debug_topics" alt="" coords="399,571,534,612"/>
-<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aa95fb3dd835d471c6f15c9048648c23b" title="px4::logger::Logger\l::add_estimator_replay\l_topics" alt="" coords="389,635,544,691"/>
-<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ad16c585a130e47ed8255c6fa42983c07" title="px4::logger::Logger\l::add_thermal_calibration\l_topics" alt="" coords="383,135,550,191"/>
-<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ab6be25ba725691050e0daa72a6dfa4cc" title="px4::logger::Logger\l::add_sensor_comparison\l_topics" alt="" coords="381,215,552,271"/>
-<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a802c25d66b5d52ca71b8cb34fd6837f0" title="px4::logger::Logger\l::add_system_identification\l_topics" alt="" coords="376,295,557,351"/>
-<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acd74593292c362fbcf06f4a1e2e8297f" title="Parse a file containing a list of uORB topics to log, calling add_topic for each. ..." alt="" coords="391,375,542,416"/>
-<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="620,346,779,373"/>
-<area shape="rect" id="node13" href="$de/dec/classpx4_1_1_replay.html#abd544f3f376b854795c5202a7c5cc98b" title="px4::Replay::readAndAddSubscription" alt="" coords="1075,741,1317,767"/>
-<area shape="rect" id="node18" href="$de/dec/classpx4_1_1_replay.html#aded37fe61327f1eaa576ddde08633cea" title="get the size of a type that is not an array " alt="" coords="383,766,550,793"/>
-<area shape="rect" id="node14" href="$de/dec/classpx4_1_1_replay.html#a2da8be3cba2cd599137f16ccbcaddcab" title="Find next data message for this subscription, starting with the stored file offset. " alt="" coords="1365,741,1572,767"/>
-<area shape="rect" id="node16" href="$de/dec/classpx4_1_1_replay.html#aafeb98ce197e42cf1b2c69302c7821fe" title="px4::Replay::run" alt="" coords="1667,799,1786,826"/>
-<area shape="rect" id="node15" href="$de/dec/classpx4_1_1_replay.html#a3228ae048b7cabf6950b05cf692f13ef" title="called when a new subscription is added " alt="" coords="1633,668,1820,709"/>
-<area shape="rect" id="node17" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a1cd29ce6f5829e2d2b8c38c1b398d590" title="find the next message for a subscription that matches a given timestamp and publish it ..." alt="" coords="1620,733,1833,775"/>
-<area shape="rect" id="node19" href="$de/dec/classpx4_1_1_replay.html#a5f0fc035f733386b7f2702b8db5e214a" title="get the size of a type that can be an array " alt="" coords="605,766,793,793"/>
-<area shape="rect" id="node20" href="$de/dec/classpx4_1_1_replay.html#a876e88dc1714a627002fa0899bc2c709" title="Find the offset &amp; field size in bytes for a given field name. " alt="" coords="841,766,1027,793"/>
-<area shape="rect" id="node23" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="400,5,533,47"/>
-<area shape="rect" id="node24" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="400,71,533,112"/>
+<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#af9125b47397c30a9b4cf4d990d95b3d0" title="Add a topic to be logged. " alt="" coords="185,482,318,523"/>
+<area shape="rect" id="node17" href="$de/dec/classpx4_1_1_replay.html#a6028297289426483caac32fcce09cc52" title="px4::Replay::findTopic" alt="" coords="175,748,328,775"/>
+<area shape="rect" id="node28" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acce517361539d9b9d0025cf207d52d09" title="px4::logger::Logger\l::Logger" alt="" coords="185,799,318,841"/>
+<area shape="rect" id="node29" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a79b31aa687c9c8cbd5c543b2c8cf5f95" title="px4::logger::Logger\l::write_format" alt="" coords="185,241,318,282"/>
+<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a881a811a6e9e4155e5a668f87c32693a" title="px4::logger::Logger\l::add_topic_multi" alt="" coords="403,642,536,683"/>
+<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acd25f6ea939129583926184596f92847" title="px4::logger::Logger\l::add_default_topics" alt="" coords="635,517,774,558"/>
+<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aa95fb3dd835d471c6f15c9048648c23b" title="px4::logger::Logger\l::add_estimator_replay\l_topics" alt="" coords="627,743,782,799"/>
+<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac92289258199c9ffeffc9f68ac469944" title="px4::logger::Logger\l::add_high_rate_topics" alt="" coords="393,298,546,339"/>
+<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a28530b2e00e82ffe123df31558cd53ef" title="px4::logger::Logger\l::add_debug_topics" alt="" coords="402,445,537,486"/>
+<area shape="rect" id="node12" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aec16424c083f5164e11a2c9f4ce68891" title="px4::logger::Logger\l::add_vision_and_avoidance\l_topics" alt="" coords="376,511,563,567"/>
+<area shape="rect" id="node13" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a802c25d66b5d52ca71b8cb34fd6837f0" title="px4::logger::Logger\l::add_system_identification\l_topics" alt="" coords="379,364,560,420"/>
+<area shape="rect" id="node14" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acd74593292c362fbcf06f4a1e2e8297f" title="Parse a file containing a list of uORB topics to log, calling add_topic for each. ..." alt="" coords="864,203,1015,245"/>
+<area shape="rect" id="node15" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a9c67f1238d5ae1cafaa155944b0ae1cf" title="Add a topic to be logged for the mission log (it&#39;s also added to the full log). " alt="" coords="635,247,774,289"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ad16c585a130e47ed8255c6fa42983c07" title="px4::logger::Logger\l::add_thermal_calibration\l_topics" alt="" coords="621,583,788,639"/>
+<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ab6be25ba725691050e0daa72a6dfa4cc" title="px4::logger::Logger\l::add_sensor_comparison\l_topics" alt="" coords="619,663,790,719"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a7ad3b3f6dd8edececf4e8c3478a1d590" title="Add topic subscriptions based on the _sdlog_profile_handle parameter. " alt="" coords="867,451,1011,507"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="1122,181,1281,208"/>
+<area shape="rect" id="node16" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a32aa8cd54145076da721b77ed3c97393" title="Add topic subscriptions based on the configured mission log type. " alt="" coords="873,269,1006,325"/>
+<area shape="rect" id="node18" href="$de/dec/classpx4_1_1_replay.html#abd544f3f376b854795c5202a7c5cc98b" title="px4::Replay::readAndAddSubscription" alt="" coords="1080,848,1323,875"/>
+<area shape="rect" id="node25" href="$de/dec/classpx4_1_1_replay.html#aded37fe61327f1eaa576ddde08633cea" title="get the size of a type that is not an array " alt="" coords="386,873,553,900"/>
+<area shape="rect" id="node19" href="$de/dec/classpx4_1_1_replay.html#a2da8be3cba2cd599137f16ccbcaddcab" title="Find next data message for this subscription, starting with the stored file offset. " alt="" coords="1371,848,1577,875"/>
+<area shape="rect" id="node20" href="$de/dec/classpx4_1_1_replay.html#aafeb98ce197e42cf1b2c69302c7821fe" title="px4::Replay::run" alt="" coords="1673,789,1791,816"/>
+<area shape="rect" id="node21" href="$de/dec/classpx4_1_1_replay.html#a3228ae048b7cabf6950b05cf692f13ef" title="called when a new subscription is added " alt="" coords="1639,906,1825,947"/>
+<area shape="rect" id="node22" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a1cd29ce6f5829e2d2b8c38c1b398d590" title="find the next message for a subscription that matches a given timestamp and publish it ..." alt="" coords="1625,841,1839,882"/>
+<area shape="rect" id="node23" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a0629624a7d48c52c0b784a78dfb113a1" title="px4::ReplayEkf2::publish\lEkf2Topics" alt="" coords="1887,841,2055,882"/>
+<area shape="rect" id="node24" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a8cef9aa380ec51a2cf9d630fa203d897" title="handle ekf2 topic publication in ekf2 replay mode " alt="" coords="2103,841,2300,882"/>
+<area shape="rect" id="node26" href="$de/dec/classpx4_1_1_replay.html#a5f0fc035f733386b7f2702b8db5e214a" title="get the size of a type that can be an array " alt="" coords="611,873,799,900"/>
+<area shape="rect" id="node27" href="$de/dec/classpx4_1_1_replay.html#a876e88dc1714a627002fa0899bc2c709" title="Find the offset &amp; field size in bytes for a given field name. " alt="" coords="847,873,1032,900"/>
+<area shape="rect" id="node30" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a9ea70708d9327d67b9085ec3aa47d3ac" title="px4::logger::Logger\l::write_formats" alt="" coords="403,101,536,142"/>
+<area shape="rect" id="node31" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="638,101,771,142"/>
+<area shape="rect" id="node33" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="638,23,771,65"/>
+<area shape="rect" id="node32" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="871,86,1007,127"/>
+<area shape="rect" id="node34" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="849,5,1029,61"/>
 </map>

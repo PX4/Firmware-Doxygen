@@ -1,14 +1,14 @@
 <map id="HMC5883::init" name="HMC5883::init">
-<area shape="rect" id="node2" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="193,5,281,32"/>
-<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="160,57,313,98"/>
-<area shape="rect" id="node8" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="177,123,296,149"/>
-<area shape="rect" id="node3" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="372,5,497,32"/>
-<area shape="rect" id="node5" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="383,64,487,91"/>
-<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="563,17,702,44"/>
-<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="556,68,709,95"/>
-<area shape="rect" id="node9" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="361,171,508,197"/>
-<area shape="rect" id="node10" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="613,120,652,147"/>
-<area shape="rect" id="node11" href="$d5/dad/class_h_m_c5883.html#aadf85bdd284aaadc929fcac0e08c2fb3" title="Write a register. " alt="" coords="561,171,704,197"/>
-<area shape="rect" id="node12" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="591,221,674,248"/>
-<area shape="rect" id="node13" href="$d5/dad/class_h_m_c5883.html#a9d5489645f22162a84da1229c5ff0c6d" title="Read a register. " alt="" coords="563,272,702,299"/>
+<area shape="rect" id="node2" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="163,5,299,47"/>
+<area shape="rect" id="node3" href="$d8/d26/classcdev_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="160,71,303,112"/>
+<area shape="rect" id="node5" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="172,137,291,163"/>
+<area shape="rect" id="node4" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="372,78,476,105"/>
+<area shape="rect" id="node6" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="351,183,497,210"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="597,133,636,159"/>
+<area shape="rect" id="node10" href="$d5/dad/class_h_m_c5883.html#aadf85bdd284aaadc929fcac0e08c2fb3" title="Write a register. " alt="" coords="545,183,688,210"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="575,234,658,261"/>
+<area shape="rect" id="node13" href="$d5/dad/class_h_m_c5883.html#a9d5489645f22162a84da1229c5ff0c6d" title="Read a register. " alt="" coords="547,285,686,311"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="757,133,840,159"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="909,133,996,159"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="736,234,861,261"/>
 </map>

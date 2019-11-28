@@ -1,51 +1,51 @@
 <map id="src/modules/uORB/Publication.hpp" name="src/modules/uORB/Publication.hpp">
-<area shape="rect" id="node2" href="$da/d85/md25_8cpp.html" title="Driver for MD25 I2C Motor Driver. " alt="" coords="5,87,185,114"/>
-<area shape="rect" id="node3" href="$d9/d0b/_robo_claw_8cpp.html" title="RoboClaw Motor Driver. " alt="" coords="210,80,349,121"/>
-<area shape="rect" id="node4" href="$d3/d25/_block_8hpp.html" title="Controller library code. " alt="" coords="1733,80,1852,121"/>
-<area shape="rect" id="node5" href="$d2/ddd/_block_8cpp.html" title="Controller library code. " alt="" coords="239,259,357,300"/>
-<area shape="rect" id="node13" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="2170,527,2335,568"/>
-<area shape="rect" id="node15" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="3209,527,3488,568"/>
-<area shape="rect" id="node44" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="3387,80,3537,121"/>
-<area shape="rect" id="node45" href="$da/d3e/_publication_8cpp.html" title="src/modules/uORB/Publication.cpp" alt="" coords="3562,87,3789,114"/>
-<area shape="rect" id="node46" href="$d7/def/px4__publisher_8h.html" title="PX4 Publisher API, implements publishing of messages from a nodehandle. " alt="" coords="3813,87,4007,114"/>
-<area shape="rect" id="node6" href="$d0/ddd/_block_param_8hpp.html" title="Controller library code. " alt="" coords="1655,169,1813,211"/>
-<area shape="rect" id="node8" href="$dd/de1/_block_delay_8hpp.html" title="src/lib/controllib\l/BlockDelay.hpp" alt="" coords="381,259,500,300"/>
-<area shape="rect" id="node27" href="$de/d3d/_block_low_pass_8hpp.html" title="src/lib/controllib\l/BlockLowPass.hpp" alt="" coords="575,259,714,300"/>
-<area shape="rect" id="node28" href="$d3/d8d/_block_derivative_8hpp.html" title="src/lib/controllib\l/BlockDerivative.hpp" alt="" coords="681,348,824,389"/>
-<area shape="rect" id="node29" href="$dc/db5/_block_high_pass_8hpp.html" title="src/lib/controllib\l/BlockHighPass.hpp" alt="" coords="789,259,930,300"/>
-<area shape="rect" id="node30" href="$d6/de8/_block_limit_sym_8hpp.html" title="src/lib/controllib\l/BlockLimitSym.hpp" alt="" coords="1005,259,1143,300"/>
-<area shape="rect" id="node31" href="$d0/db1/_block_integral_8hpp.html" title="src/lib/controllib\l/BlockIntegral.hpp" alt="" coords="1115,348,1241,389"/>
-<area shape="rect" id="node32" href="$db/dcb/_block_integral_trap_8hpp.html" title="src/lib/controllib\l/BlockIntegralTrap.hpp" alt="" coords="1219,259,1372,300"/>
-<area shape="rect" id="node33" href="$d0/dbc/_block_limit_8hpp.html" title="src/lib/controllib\l/BlockLimit.hpp" alt="" coords="1396,259,1509,300"/>
-<area shape="rect" id="node34" href="$d5/d5b/_block_low_pass2_8hpp.html" title="src/lib/controllib\l/BlockLowPass2.hpp" alt="" coords="1716,259,1861,300"/>
-<area shape="rect" id="node35" href="$d5/d8b/_block_low_pass_vector_8hpp.html" title="src/lib/controllib\l/BlockLowPassVector.hpp" alt="" coords="1886,259,2062,300"/>
-<area shape="rect" id="node36" href="$dc/d2c/_block_output_8hpp.html" title="src/lib/controllib\l/BlockOutput.hpp" alt="" coords="2086,259,2209,300"/>
-<area shape="rect" id="node37" href="$df/d17/_block_p_d_8hpp.html" title="src/lib/controllib\l/BlockPD.hpp" alt="" coords="2233,259,2347,300"/>
-<area shape="rect" id="node38" href="$d1/d7f/_block_p_8hpp.html" title="src/lib/controllib\l/BlockP.hpp" alt="" coords="2371,259,2484,300"/>
-<area shape="rect" id="node39" href="$db/df6/_block_p_i_d_8hpp.html" title="src/lib/controllib\l/BlockPID.hpp" alt="" coords="2508,259,2621,300"/>
-<area shape="rect" id="node40" href="$db/d5f/_block_p_i_8hpp.html" title="src/lib/controllib\l/BlockPI.hpp" alt="" coords="2645,259,2759,300"/>
-<area shape="rect" id="node41" href="$d5/d5f/_block_rand_gauss_8hpp.html" title="src/lib/controllib\l/BlockRandGauss.hpp" alt="" coords="2783,259,2936,300"/>
-<area shape="rect" id="node42" href="$df/db7/_block_rand_uniform_8hpp.html" title="src/lib/controllib\l/BlockRandUniform.hpp" alt="" coords="2960,259,3121,300"/>
-<area shape="rect" id="node43" href="$d1/d2b/_block_stats_8hpp.html" title="src/lib/controllib\l/BlockStats.hpp" alt="" coords="3146,259,3261,300"/>
-<area shape="rect" id="node7" href="$d7/dc4/_block_param_8cpp.html" title="Controller library code. " alt="" coords="1534,259,1691,300"/>
-<area shape="rect" id="node9" href="$df/def/blocks_8hpp.html" title="Controller library code. " alt="" coords="1917,437,2031,479"/>
-<area shape="rect" id="node10" href="$d8/d13/_block_derivative_8cpp.html" title="src/lib/controllib\l/BlockDerivative.cpp" alt="" coords="1687,527,1829,568"/>
-<area shape="rect" id="node11" href="$d8/d60/_block_high_pass_8cpp.html" title="src/lib/controllib\l/BlockHighPass.cpp" alt="" coords="1853,527,1994,568"/>
-<area shape="rect" id="node12" href="$da/da4/_block_integral_8cpp.html" title="src/lib/controllib\l/BlockIntegral.cpp" alt="" coords="2019,527,2145,568"/>
-<area shape="rect" id="node14" href="$da/d73/_commander_8cpp.html" title="src/modules/commander\l/Commander.cpp" alt="" coords="2067,623,2233,665"/>
-<area shape="rect" id="node16" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="3965,623,4244,665"/>
-<area shape="rect" id="node17" href="$d1/db5/local__position__estimator__main_8cpp.html" title="src/modules/local_position\l_estimator/local_position\l_estimator_main.cpp" alt="" coords="4269,616,4445,672"/>
-<area shape="rect" id="node18" href="$db/d09/local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="4469,623,4655,665"/>
-<area shape="rect" id="node19" href="$d5/d89/flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="2257,623,2443,665"/>
-<area shape="rect" id="node20" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="2468,623,2651,665"/>
-<area shape="rect" id="node21" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="2675,623,2862,665"/>
-<area shape="rect" id="node22" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="2886,616,3065,672"/>
-<area shape="rect" id="node23" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="3089,623,3275,665"/>
-<area shape="rect" id="node24" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="3300,623,3501,665"/>
-<area shape="rect" id="node25" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="3526,623,3721,665"/>
-<area shape="rect" id="node26" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="3745,623,3941,665"/>
-<area shape="rect" id="node47" href="$db/d00/px4__nodehandle_8h.html" title="PX4 Middleware Wrapper Node Handle. " alt="" coords="3907,177,4113,203"/>
-<area shape="rect" id="node50" href="$d9/d1a/px4__publisher_8cpp.html" title="PX4 Middleware Wrapper for Publisher. " alt="" coords="3737,169,3883,211"/>
-<area shape="rect" id="node48" href="$d3/dc0/px4__subscriber_8h.html" title="PX4 Subscriber API, implements subscribing to messages from a nodehandle. " alt="" coords="3909,266,4111,293"/>
-<area shape="rect" id="node49" href="$d0/d7a/px4__nodehandle_8cpp.html" title="PX4 Middleware Wrapper Nodehandle. " alt="" coords="4135,259,4280,300"/>
+<area shape="rect" id="node2" href="$db/d33/adc_8cpp.html" title="Driver for an ADC. " alt="" coords="5,95,164,121"/>
+<area shape="rect" id="node3" href="$d6/dd4/camera__capture_8hpp.html" title="src/drivers/camera\l_capture/camera_capture.hpp" alt="" coords="189,87,383,129"/>
+<area shape="rect" id="node5" href="$df/d26/dshot_8cpp.html" title="src/drivers/dshot/dshot.cpp" alt="" coords="317,199,497,225"/>
+<area shape="rect" id="node6" href="$de/d74/fmu_8cpp.html" title="Driver/configurator for the PX4 FMU. " alt="" coords="522,191,653,233"/>
+<area shape="rect" id="node7" href="$de/dfe/px4io_8cpp.html" title="Driver for the PX4IO board. " alt="" coords="843,95,1022,121"/>
+<area shape="rect" id="node8" href="$d9/d0b/_robo_claw_8cpp.html" title="RoboClaw Motor Driver. " alt="" coords="1046,87,1185,129"/>
+<area shape="rect" id="node9" href="$db/d28/_safety_button_8hpp.html" title="src/drivers/safety\l_button/SafetyButton.hpp" alt="" coords="1209,87,1379,129"/>
+<area shape="rect" id="node11" href="$d1/dc6/_iridium_s_b_d_8h.html" title="src/drivers/telemetry\l/iridiumsbd/IridiumSBD.h" alt="" coords="1404,87,1571,129"/>
+<area shape="rect" id="node13" href="$d3/dc1/uavcan__servers_8hpp.html" title="Defines basic functionality of UAVCAN node. " alt="" coords="676,87,819,129"/>
+<area shape="rect" id="node16" href="$d8/dfe/_collision_prevention_8hpp.html" title="src/lib/collision_prevention\l/CollisionPrevention.hpp" alt="" coords="1595,87,1769,129"/>
+<area shape="rect" id="node20" href="$dd/de3/_flight_task_orbit_8hpp.html" title="Flight task for orbiting in a circle around a target position. " alt="" coords="1794,87,2002,129"/>
+<area shape="rect" id="node21" href="$d8/d46/_obstacle_avoidance_8hpp.html" title="This class is used to inject the setpoints of an obstacle avoidance system into the FlightTasks..." alt="" coords="2027,87,2265,129"/>
+<area shape="rect" id="node22" href="$dd/dbe/mixer__module_8hpp.html" title="src/lib/mixer_module\l/mixer_module.hpp" alt="" coords="509,87,652,129"/>
+<area shape="rect" id="node23" href="$d3/ded/airspeed__selector__main_8cpp.html" title="src/modules/airspeed\l_selector/airspeed_selector\l_main.cpp" alt="" coords="2290,80,2471,136"/>
+<area shape="rect" id="node24" href="$d6/d52/attitude__estimator__q__main_8cpp.html" title="src/modules/attitude\l_estimator_q/attitude\l_estimator_q_main.cpp" alt="" coords="2495,80,2653,136"/>
+<area shape="rect" id="node25" href="$d6/d9d/battery__status_8cpp.html" title="src/modules/battery\l_status/battery_status.cpp" alt="" coords="2677,87,2855,129"/>
+<area shape="rect" id="node26" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="2879,87,3045,129"/>
+<area shape="rect" id="node27" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="3069,87,3220,129"/>
+<area shape="rect" id="node28" href="$d8/df3/_fixedwing_attitude_control_8hpp.html" title="src/modules/fw_att\l_control/FixedwingAttitude\lControl.hpp" alt="" coords="3245,80,3421,136"/>
+<area shape="rect" id="node29" href="$dc/dee/_fixedwing_position_control_8hpp.html" title="src/modules/fw_pos\l_control_l1/FixedwingPosition\lControl.hpp" alt="" coords="3445,80,3639,136"/>
+<area shape="rect" id="node30" href="$d7/d37/_land_detector_8h.html" title="Land detector interface for multicopter, fixedwing and VTOL implementations. " alt="" coords="3664,87,3839,129"/>
+<area shape="rect" id="node31" href="$d4/d94/_landing_target_estimator_8h.html" title="src/modules/landing\l_target_estimator/LandingTarget\lEstimator.h" alt="" coords="3863,80,4072,136"/>
+<area shape="rect" id="node32" href="$dd/dcc/load__mon_8cpp.html" title="src/modules/load_mon\l/load_mon.cpp" alt="" coords="4096,87,4249,129"/>
+<area shape="rect" id="node33" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="4273,87,4552,129"/>
+<area shape="rect" id="node34" href="$d3/da1/mavlink__ulog_8h.html" title="ULog data streaming via MAVLink. " alt="" coords="4576,87,4719,129"/>
+<area shape="rect" id="node35" href="$d9/de6/mavlink__mission_8h.html" title="Implementation of the MAVLink mission protocol. " alt="" coords="4795,87,4937,129"/>
+<area shape="rect" id="node36" href="$da/dab/mavlink__receiver_8h.html" title="MAVLink receiver thread. " alt="" coords="4795,191,4937,233"/>
+<area shape="rect" id="node37" href="$dd/d8d/mavlink__parameters_8h.html" title="Mavlink parameters manager definition. " alt="" coords="4962,87,5117,129"/>
+<area shape="rect" id="node38" href="$d1/d72/mc__att__control_8hpp.html" title="src/modules/mc_att\l_control/mc_att_control.hpp" alt="" coords="5141,87,5324,129"/>
+<area shape="rect" id="node39" href="$dd/d8c/mc__pos__control__main_8cpp.html" title="Multicopter position controller. " alt="" coords="5348,80,5512,136"/>
+<area shape="rect" id="node40" href="$dc/de9/_multicopter_rate_control_8hpp.html" title="src/modules/mc_rate\l_control/MulticopterRateControl.hpp" alt="" coords="5536,87,5767,129"/>
+<area shape="rect" id="node41" href="$dd/dce/modules_2muorb_2test_2muorb__test__example_8cpp.html" title="src/modules/muorb/test\l/muorb_test_example.cpp" alt="" coords="5791,87,5963,129"/>
+<area shape="rect" id="node42" href="$d5/d0d/mission__block_8h.html" title="Helper class to use mission items. " alt="" coords="5987,87,6137,129"/>
+<area shape="rect" id="node43" href="$d8/d8b/gpsfailure_8h.html" title="Helper class for Data Link Loss Mode according to the OBC rules. " alt="" coords="6043,191,6193,233"/>
+<area shape="rect" id="node44" href="$d2/dd4/rc__update_8h.html" title="src/modules/rc_update\l/rc_update.h" alt="" coords="6213,87,6367,129"/>
+<area shape="rect" id="node45" href="$db/d04/_rover_position_control_8hpp.html" title="src/modules/rover_pos\l_control/RoverPositionControl.hpp" alt="" coords="6391,87,6613,129"/>
+<area shape="rect" id="node46" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="6849,191,6992,233"/>
+<area shape="rect" id="node47" href="$dd/d59/voted__sensors__update_8h.html" title="src/modules/sensors\l/voted_sensors_update.h" alt="" coords="6898,87,7066,129"/>
+<area shape="rect" id="node48" href="$d2/d74/_vehicle_acceleration_8hpp.html" title="src/modules/sensors\l/vehicle_acceleration\l/VehicleAcceleration.hpp" alt="" coords="7091,80,7257,136"/>
+<area shape="rect" id="node49" href="$d7/ddc/_vehicle_angular_velocity_8hpp.html" title="src/modules/sensors\l/vehicle_angular_velocity\l/VehicleAngularVelocity.hpp" alt="" coords="6637,80,6823,136"/>
+<area shape="rect" id="node50" href="$d2/daf/vtol__att__control__main_8h.html" title="src/modules/vtol_att\l_control/vtol_att_control\l_main.h" alt="" coords="7281,80,7443,136"/>
+<area shape="rect" id="node4" href="$d9/dc5/camera__capture_8cpp.html" title="Online and offline geotagging from camera feedback. " alt="" coords="98,191,293,233"/>
+<area shape="rect" id="node10" href="$d9/d87/_safety_button_8cpp.html" title="src/drivers/safety\l_button/SafetyButton.cpp" alt="" coords="1194,191,1365,233"/>
+<area shape="rect" id="node12" href="$d5/d77/_iridium_s_b_d_8cpp.html" title="src/drivers/telemetry\l/iridiumsbd/IridiumSBD.cpp" alt="" coords="1389,191,1570,233"/>
+<area shape="rect" id="node14" href="$d5/d80/uavcan__main_8hpp.html" title="Defines basic functinality of UAVCAN node. " alt="" coords="677,191,807,233"/>
+<area shape="rect" id="node15" href="$d4/d4b/uavcan__servers_8cpp.html" title="Implements basic functionality of UAVCAN node. " alt="" coords="721,288,864,329"/>
+<area shape="rect" id="node17" href="$d1/d2b/_collision_prevention_8cpp.html" title="CollisionPrevention controller. " alt="" coords="1595,191,1769,233"/>
+<area shape="rect" id="node18" href="$db/dc6/_collision_prevention_test_8cpp.html" title="src/lib/collision_prevention\l/CollisionPreventionTest.cpp" alt="" coords="1794,191,1983,233"/>
+<area shape="rect" id="node19" href="$d6/d5b/_flight_task_manual_position_8hpp.html" title="Flight task for manual position controlled mode. " alt="" coords="2008,184,2209,240"/>
 </map>

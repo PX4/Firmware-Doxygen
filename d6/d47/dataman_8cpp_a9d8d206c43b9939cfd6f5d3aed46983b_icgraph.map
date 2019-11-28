@@ -1,51 +1,46 @@
 <map id="dm_write" name="dm_write">
-<area shape="rect" id="node2" href="$d1/d69/class_mavlink_mission_manager.html#a3cc251b5c79a7a80c4f2521f0971a566" title="MavlinkMissionManager\l::handle_mission_item_both" alt="" coords="360,577,544,619"/>
-<area shape="rect" id="node21" href="$d7/dbe/class_geofence.html#a9f6a2ec731abb95f297168dbfbcce200" title="Load a single inclusion polygon, replacing any already existing polygons. " alt="" coords="139,71,301,98"/>
-<area shape="rect" id="node24" href="$d3/dc6/class_commander.html#af1dc603ce8ac5c165ffbf71cc57f850f" title="Commander::mission_init" alt="" coords="135,190,305,217"/>
-<area shape="rect" id="node26" href="$db/dad/class_mission.html#aee5a4533d9566a086f24133a89ac293e" title="Read current (offset == 0) or a specific (offset &gt; 0) mission item from the dataman and watch out for..." alt="" coords="128,425,312,451"/>
-<area shape="rect" id="node38" href="$db/dad/class_mission.html#a7f410937084a02056293c52acdb93a98" title="Reset offboard mission. " alt="" coords="599,123,758,164"/>
-<area shape="rect" id="node40" href="$db/dad/class_mission.html#a858dcaca4d0da1a4394081efdc00c3d0" title="Save current offboard mission state to dataman. " alt="" coords="141,351,299,392"/>
-<area shape="rect" id="node43" href="$d2/d91/test__dataman_8c.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="179,475,261,502"/>
-<area shape="rect" id="node45" href="$d1/d69/class_mavlink_mission_manager.html#ad39599d7e28fed6164cfd559c017af08" title="Publish mission topic to notify navigator about changes. " alt="" coords="139,708,301,749"/>
-<area shape="rect" id="node49" href="$d1/d69/class_mavlink_mission_manager.html#ac2b65cbc1110a3605d9cf0361276a2b6" title="store the geofence count to dataman " alt="" coords="136,643,304,684"/>
-<area shape="rect" id="node50" href="$d1/d69/class_mavlink_mission_manager.html#a58a188959a59162d272985976d42cb23" title="store the safepoint count to dataman " alt="" coords="136,577,304,619"/>
-<area shape="rect" id="node3" href="$d1/d69/class_mavlink_mission_manager.html#a8c3328cc22d09da209c52a8272ed6e31" title="MavlinkMissionManager\l::handle_mission_item" alt="" coords="597,592,760,633"/>
-<area shape="rect" id="node20" href="$d1/d69/class_mavlink_mission_manager.html#a64afcaef5dca35d8cacf2d25acc48212" title="MavlinkMissionManager\l::handle_mission_item_int" alt="" coords="592,527,765,568"/>
-<area shape="rect" id="node4" href="$d1/d69/class_mavlink_mission_manager.html#a0b0f096d150e9f63debafa47e121bb09" title="MavlinkMissionManager\l::handle_message" alt="" coords="815,651,978,692"/>
-<area shape="rect" id="node5" href="$da/d89/class_mavlink_receiver.html#abf05ea2b60baafd446100f897f9274ab" title="Receive data from UART. " alt="" coords="1028,651,1197,692"/>
-<area shape="rect" id="node6" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1251,651,1404,692"/>
-<area shape="rect" id="node7" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1457,651,1627,692"/>
-<area shape="rect" id="node8" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1675,658,1809,685"/>
-<area shape="rect" id="node9" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1857,658,2000,685"/>
-<area shape="rect" id="node10" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="2063,629,2165,655"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#af06ea4dffa8d7b911690a99456a4814a" title="Mavlink::broadcast\l_enabled" alt="" coords="2048,680,2180,721"/>
-<area shape="rect" id="node11" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="mavlink app start / stop handling function " alt="" coords="2502,629,2605,655"/>
-<area shape="rect" id="node13" href="$df/d1f/class_mavlink.html#aacd190d885c0a9f521f0d7d0673f2b6f" title="Flush the transmit buffer and send one MAVLink packet. " alt="" coords="2246,753,2395,779"/>
-<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#afcac36b1b581d47b7181374d35edbd54" title="Set the boot complete flag on all instances. " alt="" coords="2228,687,2413,714"/>
-<area shape="rect" id="node14" href="$de/d24/mavlink__main_8cpp.html#a646c2f3486de3d8574422fc4ef1940a2" title="mavlink_end_uart_send" alt="" coords="2474,811,2633,838"/>
-<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#a3aa1fb0ca3f0d77b10a8954618a51abb" title="Get the manual input generation mode. " alt="" coords="2472,745,2635,787"/>
-<area shape="rect" id="node16" href="$da/d89/class_mavlink_receiver.html#af99bf01b6ae13dab05c36c0125e179bc" title="MavlinkReceiver::handle\l_message_manual_control" alt="" coords="2697,745,2874,787"/>
-<area shape="rect" id="node18" href="$df/d61/class_mavlink_parameters_manager.html#acd8734b77582ad7626f5230c1707e04c" title="send a single param if a PARAM_REQUEST_LIST is in progress " alt="" coords="2461,680,2645,721"/>
-<area shape="rect" id="node19" href="$df/d61/class_mavlink_parameters_manager.html#a3a6dff51ef5aba4f3dda19610510a45d" title="Handle any open param send transfer. " alt="" coords="2693,680,2877,721"/>
-<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1490,265,1594,291"/>
-<area shape="rect" id="node23" href="$d0/df9/class_navigator.html#ac9cc242bdb4465932f88217671686813" title="Load fence from file. " alt="" coords="377,5,527,47"/>
-<area shape="rect" id="node25" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="393,190,511,217"/>
-<area shape="rect" id="node27" href="$db/dad/class_mission.html#a6b3fe219353902ac3e927381a195b00a" title="Read the current and the next mission item. " alt="" coords="367,409,537,451"/>
-<area shape="rect" id="node37" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="824,349,969,391"/>
-<area shape="rect" id="node28" href="$db/dad/class_mission.html#a2f25f09d8e1688237be7a0abb28d542a" title="Set new mission items. " alt="" coords="606,253,751,295"/>
-<area shape="rect" id="node29" href="$db/dad/class_mission.html#a3561ffcb7a9229e67b0ff553f4853ea3" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="821,298,973,325"/>
-<area shape="rect" id="node30" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="831,181,962,207"/>
-<area shape="rect" id="node31" href="$db/dad/class_mission.html#ae9f26d718c3f24b86b1ee8fc19a45c35" title="Mission::set_current\l_offboard_mission_index" alt="" coords="813,232,980,273"/>
-<area shape="rect" id="node32" href="$db/dad/class_mission.html#a0d0bfe31ec4e43f1de757a81f2b40598" title="Mission::land_start" alt="" coords="1047,265,1179,291"/>
-<area shape="rect" id="node33" href="$d0/df9/class_navigator.html#a0a39ebe10ae1314fe8378c1d98481160" title="Navigator::start_mission\l_landing" alt="" coords="1245,367,1409,408"/>
-<area shape="rect" id="node34" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="1481,374,1603,401"/>
-<area shape="rect" id="node35" href="$d8/d7e/class_r_t_l.html#a08d3ece18df6bf8f59cbd73c05aceafe" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="1676,399,1808,426"/>
-<area shape="rect" id="node36" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="1687,349,1797,375"/>
-<area shape="rect" id="node39" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="826,130,967,157"/>
-<area shape="rect" id="node41" href="$db/dad/class_mission.html#a5a6db7f3f28dcba943af76ffe74546da" title="Set the current offboard mission item. " alt="" coords="372,292,532,333"/>
-<area shape="rect" id="node42" href="$db/dad/class_mission.html#af0f2816fb1303ccc94827f7f7f2d2b99" title="Update offboard mission topic. " alt="" coords="595,188,763,229"/>
-<area shape="rect" id="node44" href="$d5/d69/tests__main_8h.html#afc1b31371802a0a50a530fd78923a05d" title="test_dataman" alt="" coords="401,526,503,553"/>
-<area shape="rect" id="node46" href="$d1/d69/class_mavlink_mission_manager.html#a3861969422931980a14ee8a11c0d0354" title="MavlinkMissionManager\l::handle_mission_set\l_current" alt="" coords="597,759,760,815"/>
-<area shape="rect" id="node47" href="$d1/d69/class_mavlink_mission_manager.html#a4973e172a2b1aa2614c6b55d54760c20" title="MavlinkMissionManager\l::handle_mission_count" alt="" coords="371,708,533,749"/>
-<area shape="rect" id="node48" href="$d1/d69/class_mavlink_mission_manager.html#a987f325014822a471b7f2190e62a46d5" title="MavlinkMissionManager\l::handle_mission_clear_all" alt="" coords="365,643,539,684"/>
+<area shape="rect" id="node2" href="$d1/d69/class_mavlink_mission_manager.html#a3cc251b5c79a7a80c4f2521f0971a566" title="MavlinkMissionManager\l::handle_mission_item_both" alt="" coords="360,56,544,97"/>
+<area shape="rect" id="node13" href="$d7/dbe/class_geofence.html#a9f6a2ec731abb95f297168dbfbcce200" title="Load a single inclusion polygon, replacing any already existing polygons. " alt="" coords="139,370,301,397"/>
+<area shape="rect" id="node16" href="$d3/dc6/class_commander.html#af1dc603ce8ac5c165ffbf71cc57f850f" title="Commander::mission_init" alt="" coords="135,706,305,733"/>
+<area shape="rect" id="node18" href="$db/dad/class_mission.html#aee5a4533d9566a086f24133a89ac293e" title="Read current (offset == 0) or a specific (offset &gt; 0) mission item from the dataman and watch out for..." alt="" coords="128,429,312,455"/>
+<area shape="rect" id="node33" href="$db/dad/class_mission.html#a2b7fcee1d3f0f896bf24854571afb76c" title="Reset mission. " alt="" coords="601,690,757,717"/>
+<area shape="rect" id="node35" href="$db/dad/class_mission.html#ac119815548db9afb0a79440b62cc7295" title="Save current mission state to dataman. " alt="" coords="143,531,297,572"/>
+<area shape="rect" id="node38" href="$d2/d91/test__dataman_8c.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="179,757,261,783"/>
+<area shape="rect" id="node40" href="$d1/d69/class_mavlink_mission_manager.html#ad39599d7e28fed6164cfd559c017af08" title="Publish mission topic to notify navigator about changes. " alt="" coords="139,245,301,287"/>
+<area shape="rect" id="node44" href="$d1/d69/class_mavlink_mission_manager.html#ac2b65cbc1110a3605d9cf0361276a2b6" title="store the geofence count to dataman " alt="" coords="136,180,304,221"/>
+<area shape="rect" id="node45" href="$d1/d69/class_mavlink_mission_manager.html#a58a188959a59162d272985976d42cb23" title="store the safepoint count to dataman " alt="" coords="136,115,304,156"/>
+<area shape="rect" id="node3" href="$d1/d69/class_mavlink_mission_manager.html#a8c3328cc22d09da209c52a8272ed6e31" title="MavlinkMissionManager\l::handle_mission_item" alt="" coords="597,71,760,112"/>
+<area shape="rect" id="node12" href="$d1/d69/class_mavlink_mission_manager.html#a64afcaef5dca35d8cacf2d25acc48212" title="MavlinkMissionManager\l::handle_mission_item_int" alt="" coords="592,5,765,47"/>
+<area shape="rect" id="node4" href="$d1/d69/class_mavlink_mission_manager.html#a0b0f096d150e9f63debafa47e121bb09" title="MavlinkMissionManager\l::handle_message" alt="" coords="813,129,976,171"/>
+<area shape="rect" id="node5" href="$da/d89/class_mavlink_receiver.html#a2a2904ed386bbb6a4ff3528527006a58" title="Receive data from UART/UDP. " alt="" coords="1027,137,1177,163"/>
+<area shape="rect" id="node6" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1241,129,1394,171"/>
+<area shape="rect" id="node7" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1455,129,1624,171"/>
+<area shape="rect" id="node8" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1672,137,1807,163"/>
+<area shape="rect" id="node9" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1855,137,1997,163"/>
+<area shape="rect" id="node10" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="2045,137,2147,163"/>
+<area shape="rect" id="node11" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="Mavlink app start / stop handling function. " alt="" coords="2195,137,2297,163"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1487,395,1591,422"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#ac9cc242bdb4465932f88217671686813" title="Load fence from file. " alt="" coords="377,304,527,345"/>
+<area shape="rect" id="node17" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="393,706,511,733"/>
+<area shape="rect" id="node19" href="$db/dad/class_mission.html#a6b3fe219353902ac3e927381a195b00a" title="Read the current and the next mission item. " alt="" coords="367,421,537,463"/>
+<area shape="rect" id="node29" href="$db/dad/class_mission.html#a33116a4afecc113b67d233f14de287ff" title="Mission::get_landing_alt" alt="" coords="813,538,976,565"/>
+<area shape="rect" id="node20" href="$db/dad/class_mission.html#a2f25f09d8e1688237be7a0abb28d542a" title="Set new mission items. " alt="" coords="606,371,751,412"/>
+<area shape="rect" id="node21" href="$db/dad/class_mission.html#a3561ffcb7a9229e67b0ff553f4853ea3" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="819,370,971,397"/>
+<area shape="rect" id="node22" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="829,639,960,666"/>
+<area shape="rect" id="node23" href="$db/dad/class_mission.html#ae6c818eff59e74f3d610e9ed14b51864" title="Mission::set_current\l_mission_index" alt="" coords="825,421,965,463"/>
+<area shape="rect" id="node24" href="$db/dad/class_mission.html#a0d0bfe31ec4e43f1de757a81f2b40598" title="Mission::land_start" alt="" coords="1036,429,1168,455"/>
+<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#a0a39ebe10ae1314fe8378c1d98481160" title="Navigator::start_mission\l_landing" alt="" coords="1235,472,1399,513"/>
+<area shape="rect" id="node26" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="1478,479,1601,506"/>
+<area shape="rect" id="node27" href="$d8/d7e/class_r_t_l.html#a08d3ece18df6bf8f59cbd73c05aceafe" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="1673,505,1805,531"/>
+<area shape="rect" id="node28" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="1684,454,1795,481"/>
+<area shape="rect" id="node30" href="$d0/df9/class_navigator.html#a8e3be5708b076504322f33b7ef49f8a6" title="Navigator::get_mission\l_landing_alt" alt="" coords="1024,531,1180,572"/>
+<area shape="rect" id="node31" href="$d8/d7e/class_r_t_l.html#afa1df82479ac4da9c9d4f3d14798de22" title="RTL::find_RTL_destination" alt="" coords="1228,538,1407,565"/>
+<area shape="rect" id="node32" href="$d8/d7e/class_r_t_l.html#a70662870a113a01441428953874548e2" title="This function is called while the mode is inactive. " alt="" coords="1479,538,1600,565"/>
+<area shape="rect" id="node34" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="824,690,965,717"/>
+<area shape="rect" id="node36" href="$db/dad/class_mission.html#a31e680db5d2c427b6ca71bfdcc8db6fc" title="Set the current mission item. " alt="" coords="382,589,522,631"/>
+<area shape="rect" id="node37" href="$db/dad/class_mission.html#aa717a0c8f848c0feaff1307664e749e6" title="Update mission topic. " alt="" coords="595,639,762,666"/>
+<area shape="rect" id="node39" href="$d5/d69/tests__main_8h.html#afc1b31371802a0a50a530fd78923a05d" title="test_dataman" alt="" coords="401,757,503,783"/>
+<area shape="rect" id="node41" href="$d1/d69/class_mavlink_mission_manager.html#a3861969422931980a14ee8a11c0d0354" title="MavlinkMissionManager\l::handle_mission_set\l_current" alt="" coords="597,238,760,294"/>
+<area shape="rect" id="node42" href="$d1/d69/class_mavlink_mission_manager.html#a4973e172a2b1aa2614c6b55d54760c20" title="MavlinkMissionManager\l::handle_mission_count" alt="" coords="371,187,533,228"/>
+<area shape="rect" id="node43" href="$d1/d69/class_mavlink_mission_manager.html#a987f325014822a471b7f2190e62a46d5" title="MavlinkMissionManager\l::handle_mission_clear_all" alt="" coords="365,121,539,163"/>
 </map>

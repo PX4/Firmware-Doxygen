@@ -1,12 +1,57 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$dd/df8/classmatrix_1_1_matrix.html" title="matrix::Matrix\&lt; Type,\l M, 1 \&gt;" alt="" coords="5,90,152,131"/>
-<area shape="rect" id="node2" href="$d1/d71/classmatrix_1_1_vector.html" title="matrix::Vector\&lt; Type, M \&gt;" alt="" coords="200,21,376,48"/>
-<area shape="rect" id="node3" href="$d1/d71/classmatrix_1_1_vector.html" title="matrix::Vector\&lt; Type, 2 \&gt;" alt="" coords="202,72,374,99"/>
-<area shape="rect" id="node5" href="$d1/d71/classmatrix_1_1_vector.html" title="matrix::Vector\&lt; Type, 3 \&gt;" alt="" coords="202,123,374,149"/>
-<area shape="rect" id="node9" href="$d1/d71/classmatrix_1_1_vector.html" title="matrix::Vector\&lt; Type, 4 \&gt;" alt="" coords="202,203,374,229"/>
-<area shape="rect" id="node4" href="$df/d02/classmatrix_1_1_vector2.html" title="matrix::Vector2\&lt; Type \&gt;" alt="" coords="424,5,588,32"/>
-<area shape="rect" id="node6" href="$df/d79/classmatrix_1_1_axis_angle.html" title="AxisAngle class. " alt="" coords="439,57,573,98"/>
-<area shape="rect" id="node7" href="$d5/dcc/classmatrix_1_1_euler.html" title="Euler angles class. " alt="" coords="431,123,581,149"/>
-<area shape="rect" id="node8" href="$d3/d87/classmatrix_1_1_vector3.html" title="matrix::Vector3\&lt; Type \&gt;" alt="" coords="424,173,588,200"/>
-<area shape="rect" id="node10" href="$d5/d0f/classmatrix_1_1_quaternion.html" title="Quaternion class. " alt="" coords="441,225,571,266"/>
+<area shape="rect" id="node1" href="$df/db4/class_list_node.html" title="ListNode\&lt; MavlinkStream *\&gt;" alt="" coords="5,1378,196,1405"/>
+<area shape="rect" id="node2" href="$d1/df2/class_mavlink_stream.html" title="MavlinkStream" alt="" coords="244,1378,353,1405"/>
+<area shape="rect" id="node3" href="$de/d59/class_mavlink_stream_actuator_control_target.html" title="MavlinkStreamActuatorControl\lTarget\&lt; N \&gt;" alt="" coords="429,5,629,47"/>
+<area shape="rect" id="node4" href="$db/de4/class_mavlink_stream_a_d_s_b_vehicle.html" title="MavlinkStreamADSBVehicle" alt="" coords="434,71,623,98"/>
+<area shape="rect" id="node5" href="$d8/d7f/class_mavlink_stream_altitude.html" title="MavlinkStreamAltitude" alt="" coords="452,122,605,149"/>
+<area shape="rect" id="node6" href="$d2/dc2/class_mavlink_stream_attitude.html" title="MavlinkStreamAttitude" alt="" coords="451,173,606,199"/>
+<area shape="rect" id="node7" href="$de/d78/class_mavlink_stream_attitude_quaternion.html" title="MavlinkStreamAttitudeQuaternion" alt="" coords="420,223,637,250"/>
+<area shape="rect" id="node8" href="$d8/dec/class_mavlink_stream_attitude_target.html" title="MavlinkStreamAttitudeTarget" alt="" coords="433,274,624,301"/>
+<area shape="rect" id="node9" href="$d9/da3/class_mavlink_stream_att_pos_mocap.html" title="MavlinkStreamAttPosMocap" alt="" coords="435,325,623,351"/>
+<area shape="rect" id="node10" href="$db/d2f/class_mavlink_stream_battery_status.html" title="MavlinkStreamBatteryStatus" alt="" coords="434,375,623,402"/>
+<area shape="rect" id="node11" href="$df/d71/class_mavlink_stream_camera_capture.html" title="MavlinkStreamCameraCapture" alt="" coords="428,426,629,453"/>
+<area shape="rect" id="node12" href="$dd/dbd/class_mavlink_stream_camera_image_captured.html" title="MavlinkStreamCameraImage\lCaptured" alt="" coords="433,477,624,519"/>
+<area shape="rect" id="node13" href="$d8/d69/class_mavlink_stream_camera_trigger.html" title="MavlinkStreamCameraTrigger" alt="" coords="431,543,626,570"/>
+<area shape="rect" id="node14" href="$d1/db5/class_mavlink_stream_collision.html" title="MavlinkStreamCollision" alt="" coords="449,594,608,621"/>
+<area shape="rect" id="node15" href="$d9/d9b/class_mavlink_stream_command_long.html" title="MavlinkStreamCommandLong" alt="" coords="430,645,627,671"/>
+<area shape="rect" id="node16" href="$d9/dd8/class_mavlink_stream_debug.html" title="MavlinkStreamDebug" alt="" coords="455,695,602,722"/>
+<area shape="rect" id="node17" href="$d9/db4/class_mavlink_stream_debug_float_array.html" title="MavlinkStreamDebugFloatArray" alt="" coords="425,746,632,773"/>
+<area shape="rect" id="node18" href="$d7/dcc/class_mavlink_stream_debug_vect.html" title="MavlinkStreamDebugVect" alt="" coords="441,797,616,823"/>
+<area shape="rect" id="node19" href="$df/d6f/class_mavlink_stream_distance_sensor.html" title="MavlinkStreamDistanceSensor" alt="" coords="427,847,630,874"/>
+<area shape="rect" id="node20" href="$d1/d36/class_mavlink_stream_estimator_status.html" title="MavlinkStreamEstimatorStatus" alt="" coords="427,898,630,925"/>
+<area shape="rect" id="node21" href="$d1/d6e/class_mavlink_stream_extended_sys_state.html" title="MavlinkStreamExtendedSys\lState" alt="" coords="435,949,622,991"/>
+<area shape="rect" id="node22" href="$db/dbc/class_mavlink_stream_global_position_int.html" title="MavlinkStreamGlobalPositionInt" alt="" coords="425,1015,633,1042"/>
+<area shape="rect" id="node23" href="$db/dd3/class_mavlink_stream_g_p_s2_raw.html" title="MavlinkStreamGPS2Raw" alt="" coords="443,1066,614,1093"/>
+<area shape="rect" id="node24" href="$d1/d41/class_mavlink_stream_g_p_s_raw_int.html" title="MavlinkStreamGPSRawInt" alt="" coords="439,1117,618,1143"/>
+<area shape="rect" id="node25" href="$dd/d73/class_mavlink_stream_ground_truth.html" title="MavlinkStreamGroundTruth" alt="" coords="438,1167,619,1194"/>
+<area shape="rect" id="node26" href="$d2/d22/class_mavlink_stream_heartbeat.html" title="MavlinkStreamHeartbeat" alt="" coords="445,1218,612,1245"/>
+<area shape="rect" id="node27" href="$d9/d2e/class_mavlink_stream_high_latency2.html" title="MavlinkStreamHighLatency2" alt="" coords="434,1269,623,1295"/>
+<area shape="rect" id="node28" href="$d2/d2a/class_mavlink_stream_highres_i_m_u.html" title="MavlinkStreamHighresIMU" alt="" coords="439,1319,618,1346"/>
+<area shape="rect" id="node29" href="$d3/dae/class_mavlink_stream_h_i_l_actuator_controls.html" title="MavlinkStreamHILActuator\lControls" alt="" coords="439,1371,618,1412"/>
+<area shape="rect" id="node30" href="$d6/df6/class_mavlink_stream_home_position.html" title="MavlinkStreamHomePosition" alt="" coords="433,1437,624,1463"/>
+<area shape="rect" id="node31" href="$d4/d09/class_mavlink_stream_local_position_n_e_d.html" title="MavlinkStreamLocalPositionNED" alt="" coords="421,1487,637,1514"/>
+<area shape="rect" id="node32" href="$d4/dc5/class_mavlink_stream_local_position_setpoint.html" title="MavlinkStreamLocalPosition\lSetpoint" alt="" coords="435,1539,622,1580"/>
+<area shape="rect" id="node33" href="$d7/d57/class_mavlink_stream_manual_control.html" title="MavlinkStreamManualControl" alt="" coords="432,1605,625,1631"/>
+<area shape="rect" id="node34" href="$df/d9f/class_mavlink_stream_mount_orientation.html" title="MavlinkStreamMountOrientation" alt="" coords="425,1655,633,1682"/>
+<area shape="rect" id="node35" href="$db/daf/class_mavlink_stream_named_value_float.html" title="MavlinkStreamNamedValueFloat" alt="" coords="422,1706,635,1733"/>
+<area shape="rect" id="node36" href="$d1/d39/class_mavlink_stream_nav_controller_output.html" title="MavlinkStreamNavController\lOutput" alt="" coords="434,1757,623,1799"/>
+<area shape="rect" id="node37" href="$dd/d89/class_mavlink_stream_obstacle_distance.html" title="MavlinkStreamObstacleDistance" alt="" coords="422,1823,635,1850"/>
+<area shape="rect" id="node38" href="$d8/dad/class_mavlink_stream_odometry.html" title="MavlinkStreamOdometry" alt="" coords="445,1874,612,1901"/>
+<area shape="rect" id="node39" href="$d6/dba/class_mavlink_stream_optical_flow_rad.html" title="MavlinkStreamOpticalFlowRad" alt="" coords="427,1925,630,1951"/>
+<area shape="rect" id="node40" href="$df/d77/class_mavlink_stream_orbit_status.html" title="MavlinkStreamOrbitStatus" alt="" coords="441,1975,616,2002"/>
+<area shape="rect" id="node41" href="$d9/d76/class_mavlink_stream_ping.html" title="MavlinkStreamPing" alt="" coords="461,2026,596,2053"/>
+<area shape="rect" id="node42" href="$d2/db5/class_mavlink_stream_position_target_global_int.html" title="MavlinkStreamPositionTarget\lGlobalInt" alt="" coords="432,2077,625,2119"/>
+<area shape="rect" id="node43" href="$df/d6b/class_mavlink_stream_r_c_channels.html" title="MavlinkStreamRCChannels" alt="" coords="437,2143,621,2170"/>
+<area shape="rect" id="node44" href="$d1/d2e/class_mavlink_stream_scaled_i_m_u.html" title="MavlinkStreamScaledIMU" alt="" coords="441,2194,616,2221"/>
+<area shape="rect" id="node45" href="$de/d88/class_mavlink_stream_scaled_i_m_u2.html" title="MavlinkStreamScaledIMU2" alt="" coords="438,2245,619,2271"/>
+<area shape="rect" id="node46" href="$dc/d11/class_mavlink_stream_scaled_i_m_u3.html" title="MavlinkStreamScaledIMU3" alt="" coords="438,2295,619,2322"/>
+<area shape="rect" id="node47" href="$dd/d49/class_mavlink_stream_servo_output_raw.html" title="MavlinkStreamServoOutput\lRaw\&lt; N \&gt;" alt="" coords="437,2347,620,2388"/>
+<area shape="rect" id="node48" href="$dd/d64/class_mavlink_stream_statustext.html" title="MavlinkStreamStatustext" alt="" coords="444,2413,613,2439"/>
+<area shape="rect" id="node49" href="$d0/d79/class_mavlink_stream_sys_status.html" title="MavlinkStreamSysStatus" alt="" coords="443,2463,614,2490"/>
+<area shape="rect" id="node50" href="$dd/d52/class_mavlink_stream_system_time.html" title="MavlinkStreamSystemTime" alt="" coords="437,2514,620,2541"/>
+<area shape="rect" id="node51" href="$d1/daa/class_mavlink_stream_timesync.html" title="MavlinkStreamTimesync" alt="" coords="445,2565,612,2591"/>
+<area shape="rect" id="node52" href="$d6/db2/class_mavlink_stream_trajectory_representation_waypoints.html" title="MavlinkStreamTrajectoryRepresentation\lWaypoints" alt="" coords="401,2616,656,2657"/>
+<area shape="rect" id="node53" href="$d0/d73/class_mavlink_stream_u_t_m_global_position.html" title="MavlinkStreamUTMGlobalPosition" alt="" coords="417,2682,640,2709"/>
+<area shape="rect" id="node54" href="$d2/d32/class_mavlink_stream_v_f_r_h_u_d.html" title="MavlinkStreamVFRHUD" alt="" coords="445,2733,612,2759"/>
+<area shape="rect" id="node55" href="$d1/d6e/class_mavlink_stream_wind.html" title="MavlinkStreamWind" alt="" coords="459,2783,598,2810"/>
 </map>

@@ -1,14 +1,10 @@
 <map id="SRF02::measure" name="SRF02::measure">
-<area shape="rect" id="node2" href="$d8/dad/class_s_r_f02.html#a6add12b637f17b6fb19aeed54e2353c5" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="175,56,277,83"/>
-<area shape="rect" id="node11" href="$d8/dad/class_s_r_f02.html#a5093c174a1cf2a82e55a3019781227b2" title="SRF02::init" alt="" coords="366,5,454,32"/>
-<area shape="rect" id="node12" href="$d8/dad/class_s_r_f02.html#a8b830037f573f8e588075cb97400f0ae" title="SRF02::probe" alt="" coords="175,107,277,133"/>
-<area shape="rect" id="node13" href="$d8/dad/class_s_r_f02.html#a4084c03c74ed912c7afba350c7e75d08" title="SRF02::read" alt="" coords="543,151,639,177"/>
-<area shape="rect" id="node3" href="$d8/dad/class_s_r_f02.html#a68ff86a8591c98b7787cae36a7252d5d" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="325,107,495,133"/>
-<area shape="rect" id="node4" href="$d8/dad/class_s_r_f02.html#ae8f959d9700ca0bb08736a2e2f2d37bd" title="Initialise the automatic measurement state machine and start it. " alt="" coords="543,75,640,101"/>
-<area shape="rect" id="node5" href="$d8/dad/class_s_r_f02.html#add33f2a1c1070ecb551245be436b076d" title="SRF02::ioctl" alt="" coords="688,75,783,101"/>
-<area shape="rect" id="node6" href="$d5/d4c/namespacesrf02.html#a4f321332475fe474385977c8f02ceca9" title="Reset the driver. " alt="" coords="992,75,1080,101"/>
-<area shape="rect" id="node8" href="$d5/d4c/namespacesrf02.html#a63345764ca357b261b9454628a1feb34" title="Start the driver on a specific bus. " alt="" coords="831,19,944,45"/>
-<area shape="rect" id="node10" href="$d5/d4c/namespacesrf02.html#a08f942ceb42c5bc4499c1cbdb73250af" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="847,125,928,152"/>
-<area shape="rect" id="node7" href="$d8/d1c/srf02_8cpp.html#a89c9affa127a4b73e001df36bd166670" title="srf02_main" alt="" coords="1128,49,1215,76"/>
-<area shape="rect" id="node9" href="$d5/d4c/namespacesrf02.html#a729afe67758249873385ba3aa8d1ca64" title="Attempt to start driver on all available I2C busses. " alt="" coords="993,24,1079,51"/>
+<area shape="rect" id="node2" href="$d8/dad/class_s_r_f02.html#aa5833a73ca5cbe3d1173936a4237078c" title="SRF02::init" alt="" coords="182,5,270,32"/>
+<area shape="rect" id="node6" href="$d8/dad/class_s_r_f02.html#aff6d5d18a9106ae4c5c9928c2822c18f" title="SRF02::probe" alt="" coords="175,56,277,83"/>
+<area shape="rect" id="node7" href="$d8/dad/class_s_r_f02.html#a8cdb6f02be7fbc00e8cbc0aa3c84fb59" title="SRF02::read" alt="" coords="334,107,430,133"/>
+<area shape="rect" id="node9" href="$d8/dad/class_s_r_f02.html#adab2a4ff4db665e5fa41b345dadcb9aa" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="179,157,273,184"/>
+<area shape="rect" id="node3" href="$d5/d4c/namespacesrf02.html#a63345764ca357b261b9454628a1feb34" title="Start the driver on a specific bus. " alt="" coords="325,5,439,32"/>
+<area shape="rect" id="node4" href="$d5/d4c/namespacesrf02.html#a729afe67758249873385ba3aa8d1ca64" title="Attempt to start driver on all available I2C busses. " alt="" coords="487,5,572,32"/>
+<area shape="rect" id="node5" href="$d8/d1c/srf02_8cpp.html#a372a7a1ab7aa416721150ccde1471713" title="Driver &#39;main&#39; command. " alt="" coords="620,56,707,83"/>
+<area shape="rect" id="node8" href="$d5/d4c/namespacesrf02.html#a08f942ceb42c5bc4499c1cbdb73250af" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="489,107,570,133"/>
 </map>

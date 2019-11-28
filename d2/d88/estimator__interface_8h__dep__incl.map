@@ -1,6 +1,6 @@
 <map id="src/lib/ecl/EKF/estimator_interface.h" name="src/lib/ecl/EKF/estimator_interface.h">
-<area shape="rect" id="node2" href="$de/d14/ekf_8h.html" title="Class for core functions for ekf attitude and position estimator. " alt="" coords="1187,102,1329,129"/>
-<area shape="rect" id="node17" href="$dc/d5a/estimator__interface_8cpp.html" title="Definition of base class for attitude estimators. " alt="" coords="1353,95,1520,136"/>
+<area shape="rect" id="node2" href="$de/d14/ekf_8h.html" title="Class for core functions for ekf attitude and position estimator. " alt="" coords="1671,102,1813,129"/>
+<area shape="rect" id="node23" href="$dc/d5a/estimator__interface_8cpp.html" title="Definition of base class for attitude estimators. " alt="" coords="1837,95,2004,136"/>
 <area shape="rect" id="node3" href="$d6/db6/airspeed__fusion_8cpp.html" title="airspeed fusion methods. " alt="" coords="5,184,167,225"/>
 <area shape="rect" id="node4" href="$d0/d92/control_8cpp.html" title="Control functions for ekf attitude and position estimator. " alt="" coords="191,191,367,218"/>
 <area shape="rect" id="node5" href="$d5/d38/covariance_8cpp.html" title="Contains functions for initialising, predicting and updating the state covariance matrix..." alt="" coords="391,191,591,218"/>
@@ -8,11 +8,17 @@
 <area shape="rect" id="node7" href="$dd/d7a/ekf_8cpp.html" title="Core functions for ekf attitude and position estimator. " alt="" coords="778,191,933,218"/>
 <area shape="rect" id="node8" href="$dd/d5c/ekf__helper_8cpp.html" title="Definition of ekf helper functions. " alt="" coords="957,184,1087,225"/>
 <area shape="rect" id="node9" href="$d5/ddc/gps__checks_8cpp.html" title="Perform pre&#45;flight and in&#45;flight GPS quality checks. " alt="" coords="1111,184,1245,225"/>
-<area shape="rect" id="node10" href="$d7/d21/mag__fusion_8cpp.html" title="src/lib/ecl/EKF/mag\l_fusion.cpp" alt="" coords="1269,184,1407,225"/>
-<area shape="rect" id="node11" href="$d9/d01/optflow__fusion_8cpp.html" title="src/lib/ecl/EKF/optflow\l_fusion.cpp" alt="" coords="1431,184,1586,225"/>
-<area shape="rect" id="node12" href="$d8/d93/sideslip__fusion_8cpp.html" title="sideslip fusion methods. " alt="" coords="1611,184,1767,225"/>
-<area shape="rect" id="node13" href="$da/d47/ecl_2_e_k_f_2terrain__estimator_8cpp.html" title="src/lib/ecl/EKF/terrain\l_estimator.cpp" alt="" coords="1791,184,1939,225"/>
-<area shape="rect" id="node14" href="$d5/de4/base_8cpp.html" title="Tests for the estimator base class. " alt="" coords="1962,184,2103,225"/>
-<area shape="rect" id="node15" href="$de/daf/vel__pos__fusion_8cpp.html" title="Function for fusing gps and baro measurements/. " alt="" coords="2127,184,2256,225"/>
-<area shape="rect" id="node16" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="2280,184,2431,225"/>
+<area shape="rect" id="node10" href="$d3/de9/gps__yaw__fusion_8cpp.html" title="Definition of functions required to use yaw obtained from GPS dual antenna measurements. " alt="" coords="1269,184,1402,225"/>
+<area shape="rect" id="node11" href="$d8/dbf/mag__control_8cpp.html" title="Control functions for ekf magnetic field fusion. " alt="" coords="1427,184,1564,225"/>
+<area shape="rect" id="node12" href="$d7/d21/mag__fusion_8cpp.html" title="src/lib/ecl/EKF/mag\l_fusion.cpp" alt="" coords="1588,184,1725,225"/>
+<area shape="rect" id="node13" href="$d9/d01/optflow__fusion_8cpp.html" title="src/lib/ecl/EKF/optflow\l_fusion.cpp" alt="" coords="1750,184,1905,225"/>
+<area shape="rect" id="node14" href="$d5/d95/range__finder__checks_8cpp.html" title="Perform checks on range finder data in order to evaluate validity. " alt="" coords="1929,184,2073,225"/>
+<area shape="rect" id="node15" href="$d8/d93/sideslip__fusion_8cpp.html" title="sideslip fusion methods. " alt="" coords="2097,184,2253,225"/>
+<area shape="rect" id="node16" href="$da/d47/ecl_2_e_k_f_2terrain__estimator_8cpp.html" title="src/lib/ecl/EKF/terrain\l_estimator.cpp" alt="" coords="2277,184,2425,225"/>
+<area shape="rect" id="node17" href="$de/daf/vel__pos__fusion_8cpp.html" title="Function for fusing gps and baro measurements/. " alt="" coords="2449,184,2579,225"/>
+<area shape="rect" id="node18" href="$dd/db0/test___e_k_f__basics_8cpp.html" title="src/lib/ecl/test/test\l_EKF_basics.cpp" alt="" coords="2603,184,2734,225"/>
+<area shape="rect" id="node19" href="$da/d3b/test___e_k_f__imu_sampling_8cpp.html" title="src/lib/ecl/test/test\l_EKF_imuSampling.cpp" alt="" coords="2758,184,2921,225"/>
+<area shape="rect" id="node20" href="$db/d92/test___e_k_f__ringbuffer_8cpp.html" title="src/lib/ecl/test/test\l_EKF_ringbuffer.cpp" alt="" coords="2945,184,3086,225"/>
+<area shape="rect" id="node21" href="$d9/d06/test___e_k_f__sampling_8cpp.html" title="src/lib/ecl/test/test\l_EKF_sampling.cpp" alt="" coords="3110,184,3249,225"/>
+<area shape="rect" id="node22" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="3273,184,3424,225"/>
 </map>

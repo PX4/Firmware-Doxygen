@@ -1,51 +1,51 @@
 <map id="MavlinkParametersManager::handle_message" name="MavlinkParametersManager::handle_message">
 <area shape="rect" id="node2" href="$df/d61/class_mavlink_parameters_manager.html#ad5c8a826afe1b3d6353c0da1cbed85e9" title="Enqueue one uavcan parameter reqest. " alt="" coords="255,5,439,47"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="327,71,366,98"/>
-<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#a194a3b8f53d8f45849ad522c7f273215" title="Mavlink::get_channel" alt="" coords="514,79,659,106"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="284,391,409,418"/>
-<area shape="rect" id="node6" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="537,594,637,621"/>
-<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="747,467,835,494"/>
-<area shape="rect" id="node34" href="$d9/da5/param_8c.html#ac0601e3f73102de00ad0323095461627" title="Return the actually used number of parameters. " alt="" coords="521,130,653,157"/>
-<area shape="rect" id="node35" href="$d9/da5/param_8c.html#a852ffa178804f2bd785fe1e5820709d4" title="Look up a parameter by name. " alt="" coords="258,610,435,637"/>
-<area shape="rect" id="node36" href="$d9/da5/param_8c.html#a2af22f0f15b7aceb9ff85bf0b19df41b" title="Look up an used parameter by index. " alt="" coords="270,661,423,687"/>
-<area shape="rect" id="node37" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="545,333,628,359"/>
-<area shape="rect" id="node38" href="$d9/da5/param_8c.html#a2a7bdb2622020d10ac2a7633317192a4" title="Generate the hash of all parameters and their values. " alt="" coords="279,711,414,738"/>
-<area shape="rect" id="node39" href="$d9/da5/param_8c.html#a126ed3d305f2dd3cd9880f11ee2922a0" title="Set the value of a parameter. " alt="" coords="305,762,388,789"/>
-<area shape="rect" id="node40" href="$d9/da5/param_8c.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="541,383,632,410"/>
-<area shape="rect" id="node41" href="$df/d61/class_mavlink_parameters_manager.html#a07214754e58d3ff89e8cf7f689e16ec7" title="Request the next uavcan parameter. " alt="" coords="237,493,456,535"/>
-<area shape="rect" id="node43" href="$df/d61/class_mavlink_parameters_manager.html#af7e96dbcf37c9b52cccd83df15e9a797" title="MavlinkParametersManager\l::send_param" alt="" coords="255,224,439,265"/>
-<area shape="rect" id="node50" href="$df/d1f/class_mavlink.html#a208e567f12ee97cd35979f86c3809184" title="Send a status text with loglevel INFO. " alt="" coords="249,813,445,839"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1633,583,1776,624"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="719,1013,862,1055"/>
-<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1824,793,1967,835"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2015,801,2141,827"/>
-<area shape="rect" id="node11" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="929,889,1072,931"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1137,1021,1324,1047"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1403,1151,1555,1192"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1159,624,1302,665"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="929,772,1072,813"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="929,1072,1072,1113"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="929,955,1072,996"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1407,804,1550,845"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="912,721,1089,747"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1159,1369,1302,1411"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1393,1435,1564,1462"/>
-<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1159,1108,1302,1149"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1159,1487,1302,1528"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1407,1268,1550,1309"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="929,1305,1072,1347"/>
-<area shape="rect" id="node12" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1165,846,1297,873"/>
-<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1667,1305,1742,1331"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1664,1074,1745,1101"/>
-<area shape="rect" id="node14" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1389,1049,1568,1075"/>
-<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1385,623,1572,650"/>
-<area shape="rect" id="node21" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1372,727,1585,754"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1193,694,1268,721"/>
-<area shape="rect" id="node42" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="515,543,658,570"/>
-<area shape="rect" id="node44" href="$df/d1f/class_mavlink.html#a2d450930bd605c13ed783a1d02b42e13" title="Get the free space in the transmit buffer. " alt="" coords="504,282,669,309"/>
-<area shape="rect" id="node48" href="$d9/da5/param_8c.html#a91ea9ea1c49a3e4bf8e7de12c1434160" title="Look up the index of an used parameter. " alt="" coords="509,181,665,207"/>
-<area shape="rect" id="node49" href="$d9/da5/param_8c.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="538,231,635,258"/>
-<area shape="rect" id="node45" href="$df/d1f/class_mavlink.html#a61ea072650f5b804542c35c5cc509173" title="Enable / disable hardware flow control. " alt="" coords="719,275,863,316"/>
-<area shape="rect" id="node46" href="$df/d1f/class_mavlink.html#a474006ce18119a292b0819abbb038180" title="Mavlink::get_protocol" alt="" coords="717,341,864,367"/>
-<area shape="rect" id="node47" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="730,223,851,250"/>
+<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a685f6edd65eead49486f2af05325e178" title="Mavlink::get_channel" alt="" coords="519,1075,664,1102"/>
+<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#a74d9f1398b8bc49f76153f8abb3c2691" title="Mavlink::hash_check\l_enabled" alt="" coords="274,1464,419,1505"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="950,239,1075,266"/>
+<area shape="rect" id="node8" href="$d5/d33/param_8h.html#a211abdae368b449ee206d0adeb2a7036" title="Return the actually used number of parameters. " alt="" coords="525,1455,657,1482"/>
+<area shape="rect" id="node10" href="$d5/d33/param_8h.html#a2d6a6579a27b5473005725aea63679c5" title="Look up a parameter by name. " alt="" coords="258,873,435,899"/>
+<area shape="rect" id="node17" href="$d5/d33/param_8h.html#a441d16e106c9c2006addf3ab8c4608c3" title="Look up an used parameter by index. " alt="" coords="270,1413,423,1439"/>
+<area shape="rect" id="node20" href="$d5/d33/param_8h.html#a1b3c43194264ca6e2c3a787e822003ea" title="Generate the hash of all parameters and their values. " alt="" coords="524,1126,659,1153"/>
+<area shape="rect" id="node32" href="$d5/d33/param_8h.html#a26cb63b426af831903dcb1193002cf48" title="Set the value of a parameter. " alt="" coords="305,657,388,683"/>
+<area shape="rect" id="node40" href="$d5/d33/param_8h.html#a67c031ecddf3189149d20d7ef6295748" title="Obtain the type of a parameter. " alt="" coords="546,1405,637,1431"/>
+<area shape="rect" id="node41" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="277,1529,416,1571"/>
+<area shape="rect" id="node42" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="504,1639,679,1680"/>
+<area shape="rect" id="node43" href="$df/d61/class_mavlink_parameters_manager.html#a07214754e58d3ff89e8cf7f689e16ec7" title="Request the next uavcan parameter. " alt="" coords="237,1595,456,1636"/>
+<area shape="rect" id="node44" href="$df/d61/class_mavlink_parameters_manager.html#af7e96dbcf37c9b52cccd83df15e9a797" title="MavlinkParametersManager\l::send_param" alt="" coords="255,1245,439,1287"/>
+<area shape="rect" id="node50" href="$df/d1f/class_mavlink.html#a208e567f12ee97cd35979f86c3809184" title="Send a status text with loglevel INFO. " alt="" coords="249,1711,445,1738"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="791,949,829,975"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="971,1050,1054,1077"/>
+<area shape="rect" id="node9" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1340,1286,1491,1313"/>
+<area shape="rect" id="node11" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="524,746,659,773"/>
+<area shape="rect" id="node12" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="727,898,893,925"/>
+<area shape="rect" id="node15" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="769,645,851,671"/>
+<area shape="rect" id="node16" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="774,695,846,722"/>
+<area shape="rect" id="node13" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a7a74545fb539a29ccb58c34cfdd73e6e" title="Look up the index of a parameter. " alt="" coords="952,999,1073,1026"/>
+<area shape="rect" id="node14" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1154,1101,1270,1127"/>
+<area shape="rect" id="node18" href="$d9/db5/parameters__shmem_8cpp.html#a96dd784b4955aa23c9ef222afce869ab" title="Look up a parameter by index. " alt="" coords="532,1573,651,1599"/>
+<area shape="rect" id="node19" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="735,1573,885,1599"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="739,847,881,874"/>
+<area shape="rect" id="node26" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a4dee48d55897e44506441ae70fd95478" title="Obtain the volatile state of a parameter. " alt="" coords="951,1202,1074,1229"/>
+<area shape="rect" id="node27" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="744,999,876,1026"/>
+<area shape="rect" id="node28" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="964,1151,1061,1178"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="765,797,855,823"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="737,1050,883,1077"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a49073ceb611b9756d500b9d6d6679b2c" title="Wether a parameter is in use in the system. " alt="" coords="763,1253,857,1279"/>
+<area shape="rect" id="node22" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1139,847,1285,874"/>
+<area shape="rect" id="node23" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="941,358,1084,385"/>
+<area shape="rect" id="node25" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="967,797,1058,823"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1132,241,1292,267"/>
+<area shape="rect" id="node33" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="525,493,657,519"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="730,173,890,199"/>
+<area shape="rect" id="node35" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="751,493,869,519"/>
+<area shape="rect" id="node36" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="739,275,881,316"/>
+<area shape="rect" id="node37" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="746,341,874,367"/>
+<area shape="rect" id="node38" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="742,391,878,418"/>
+<area shape="rect" id="node39" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="739,442,881,469"/>
+<area shape="rect" id="node45" href="$df/d1f/class_mavlink.html#a2d450930bd605c13ed783a1d02b42e13" title="Get the free space in the transmit buffer. " alt="" coords="509,1354,674,1381"/>
+<area shape="rect" id="node47" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="550,898,633,925"/>
+<area shape="rect" id="node48" href="$d5/d33/param_8h.html#a678df1779d25ac8fbf4540c6b2802562" title="Look up the index of an used parameter. " alt="" coords="513,1253,669,1279"/>
+<area shape="rect" id="node49" href="$d5/d33/param_8h.html#a41afda73b490911d29d6eb7c4e89a58d" title="Obtain the name of a parameter. " alt="" coords="964,1278,1061,1305"/>
+<area shape="rect" id="node46" href="$df/d1f/class_mavlink.html#a61ea072650f5b804542c35c5cc509173" title="Enable / disable hardware flow control. " alt="" coords="738,1355,882,1396"/>
 </map>

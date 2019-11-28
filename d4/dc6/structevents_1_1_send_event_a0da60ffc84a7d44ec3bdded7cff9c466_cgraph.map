@@ -1,51 +1,51 @@
 <map id="events::SendEvent::process_commands" name="events::SendEvent::process_commands">
-<area shape="rect" id="node2" href="$df/de7/test__sensors_8c.html#ac1266d7ace90667fc0e56fac4969b4f0" title="accel" alt="" coords="941,242,994,269"/>
-<area shape="rect" id="node23" href="$d4/dc6/structevents_1_1_send_event.html#a91fd60303315ccc0400fef38a246eff0" title="return an ACK to a vehicle_command " alt="" coords="218,712,359,754"/>
-<area shape="rect" id="node41" href="$df/de7/test__sensors_8c.html#a7e59b8ff2e9eb4aba115d1a9fe3ff438" title="baro" alt="" coords="944,344,991,370"/>
-<area shape="rect" id="node42" href="$da/d17/classevents_1_1_subscriber_handler.html#a8d3a9a59d232fa390a752aff6aaeffae" title="events::SubscriberHandler\l::get_vehicle_command_sub" alt="" coords="195,778,383,819"/>
-<area shape="rect" id="node43" href="$df/de7/test__sensors_8c.html#a78feae888b23b1cb63e35f9f90e92e1e" title="gyro" alt="" coords="944,293,991,320"/>
-<area shape="rect" id="node44" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="476,661,551,688"/>
-<area shape="rect" id="node45" href="$d9/d9c/task_8cpp.html#a34b406ade258e7d4659d6f4c082e581f" title="start temperature calibration in a new task for one or multiple sensors " alt="" coords="197,940,380,966"/>
-<area shape="rect" id="node50" href="$da/d17/classevents_1_1_subscriber_handler.html#ae5839314987ed788fb4982574b7a0eac" title="events::SubscriberHandler\l::vehicle_command_updated" alt="" coords="195,991,383,1032"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1156,192,1195,218"/>
-<area shape="rect" id="node4" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1135,464,1216,490"/>
-<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1136,293,1215,320"/>
-<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1138,372,1213,398"/>
-<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1145,242,1205,269"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1305,424,1447,450"/>
-<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1339,476,1413,502"/>
-<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1730,106,1869,133"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1723,208,1876,234"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1505,426,1675,453"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1523,325,1657,352"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1516,376,1664,402"/>
-<area shape="rect" id="node13" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="1295,157,1457,184"/>
-<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1558,56,1622,82"/>
-<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1307,270,1445,297"/>
-<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1329,321,1423,348"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1538,106,1642,133"/>
-<area shape="rect" id="node15" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="1522,157,1658,184"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1521,259,1659,300"/>
-<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1309,372,1443,398"/>
-<area shape="rect" id="node24" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="451,817,576,844"/>
-<area shape="rect" id="node25" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="442,716,585,742"/>
-<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="469,766,557,793"/>
-<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="666,759,809,800"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="666,694,809,735"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="896,1072,1039,1114"/>
-<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="896,694,1039,735"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1104,752,1247,794"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="896,811,1039,852"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="896,876,1039,918"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="896,942,1039,983"/>
-<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="896,563,1039,604"/>
-<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="879,394,1056,421"/>
-<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="896,1007,1039,1048"/>
-<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="882,512,1053,538"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="896,446,1039,487"/>
-<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="896,628,1039,670"/>
-<area shape="rect" id="node46" href="$d5/dce/class_temperature_calibration.html#ade82c5dd7e5f8787ffb0fecdfd9ef596" title="Start task. " alt="" coords="435,1028,592,1070"/>
-<area shape="rect" id="node49" href="$d5/dce/class_temperature_calibration.html#a5daa8e50cc48af675281f4d6ad346d3f" title="Constructor. " alt="" coords="431,1094,596,1135"/>
-<area shape="rect" id="node47" href="$d5/dce/class_temperature_calibration.html#ae260fba51c37cca23e825e81bc31d1bf" title="TemperatureCalibration\l::do_temperature_calibration" alt="" coords="644,1190,831,1231"/>
-<area shape="rect" id="node48" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="661,1256,813,1282"/>
+<area shape="rect" id="node2" href="$d4/dc6/structevents_1_1_send_event.html#a91fd60303315ccc0400fef38a246eff0" title="Returns an ACK to a vehicle_command. " alt="" coords="667,1231,808,1273"/>
+<area shape="rect" id="node4" href="$da/d17/classevents_1_1_subscriber_handler.html#a268057bec8b3855dfcce9d1fd3137d14" title="events::SubscriberHandler\l::get_vehicle_command_sub" alt="" coords="195,767,383,809"/>
+<area shape="rect" id="node5" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1140,107,1215,133"/>
+<area shape="rect" id="node12" href="$d9/d9c/task_8cpp.html#a34b406ade258e7d4659d6f4c082e581f" title="start temperature calibration in a new task for one or multiple sensors " alt="" coords="197,833,380,860"/>
+<area shape="rect" id="node50" href="$da/d17/classevents_1_1_subscriber_handler.html#a27cf50c924ce8041f349062f0c3f4d01" title="events::SubscriberHandler\l::vehicle_command_updated" alt="" coords="195,943,383,985"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1747,1481,1873,1508"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1546,201,1689,242"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1319,5,1496,32"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1739,201,1881,242"/>
+<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1580,5,1655,32"/>
+<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1773,56,1847,83"/>
+<area shape="rect" id="node11" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="1747,5,1873,32"/>
+<area shape="rect" id="node13" href="$d5/dce/class_temperature_calibration.html#ade82c5dd7e5f8787ffb0fecdfd9ef596" title="Start task. " alt="" coords="435,761,592,802"/>
+<area shape="rect" id="node49" href="$d5/dce/class_temperature_calibration.html#a5daa8e50cc48af675281f4d6ad346d3f" title="Constructor. " alt="" coords="431,826,596,867"/>
+<area shape="rect" id="node14" href="$d5/dce/class_temperature_calibration.html#ae260fba51c37cca23e825e81bc31d1bf" title="TemperatureCalibration\l::do_temperature_calibration" alt="" coords="644,761,831,802"/>
+<area shape="rect" id="node15" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="879,761,1036,802"/>
+<area shape="rect" id="node16" href="$d2/daa/class_temperature_calibration_base.html#a49cc5a529db614be763874e0d2bc32fb" title="do final fitting &amp; write the parameters. " alt="" coords="1084,1001,1271,1042"/>
+<area shape="rect" id="node17" href="$d9/d97/u_o_r_b_8cpp.html#a10876a56e0054909b8e40fedd8baa624" title="Get the number of published instances of a topic group. " alt="" coords="1118,208,1237,235"/>
+<area shape="rect" id="node19" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="1108,435,1247,461"/>
+<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="1119,317,1236,344"/>
+<area shape="rect" id="node23" href="$d5/d33/param_8h.html#a4740c2be9c9e4aefe8d69c4c9db3d209" title="Enable/disable the param autosaving. " alt="" coords="1325,544,1489,571"/>
+<area shape="rect" id="node26" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="1134,1185,1221,1212"/>
+<area shape="rect" id="node30" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="1136,949,1219,976"/>
+<area shape="rect" id="node40" href="$d5/d33/param_8h.html#ab06a0e7c50f2ca170c058bd3147b4688" title="Notify the system about parameter changes. " alt="" coords="1101,1507,1254,1533"/>
+<area shape="rect" id="node42" href="$d5/d33/param_8h.html#aac114d47fe21936442ef251b4af6e81d" title="Save parameters to the default file. " alt="" coords="1108,709,1247,736"/>
+<area shape="rect" id="node45" href="$d5/dce/class_temperature_calibration.html#ad539884f3c76fdcedf530271965b27b5" title="TemperatureCalibration\l::publish_led_control" alt="" coords="1329,1558,1486,1599"/>
+<area shape="rect" id="node46" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="1372,56,1443,83"/>
+<area shape="rect" id="node47" href="$d2/daa/class_temperature_calibration_base.html#a4bc8520906a8778cfaf8ac0c6f492988" title="reset all driver&#45;level calibration parameters " alt="" coords="1084,761,1271,802"/>
+<area shape="rect" id="node48" href="$d2/daa/class_temperature_calibration_base.html#ac12351df20eae7d50968bafeff7668ca" title="check &amp; update new sensor data. " alt="" coords="1084,826,1271,867"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="1366,157,1449,184"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1336,427,1479,469"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1336,310,1479,351"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1553,595,1681,621"/>
+<area shape="rect" id="node25" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="1546,544,1689,571"/>
+<area shape="rect" id="node27" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="1340,1304,1475,1331"/>
+<area shape="rect" id="node28" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1576,1228,1659,1255"/>
+<area shape="rect" id="node29" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1581,1279,1653,1305"/>
+<area shape="rect" id="node31" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1598,949,1637,976"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1752,1101,1868,1128"/>
+<area shape="rect" id="node33" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1546,705,1689,732"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1551,768,1683,795"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1569,1025,1666,1052"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1341,1051,1473,1077"/>
+<area shape="rect" id="node37" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1572,1127,1663,1153"/>
+<area shape="rect" id="node38" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1573,844,1662,871"/>
+<area shape="rect" id="node39" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="1544,897,1691,924"/>
+<area shape="rect" id="node41" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="1327,1507,1487,1533"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a6a623630c18c0cbe4c4ae055b60e19bc" title="flash_param_save" alt="" coords="1553,648,1681,675"/>
+<area shape="rect" id="node44" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9684c9aefbfb9f1addd8fd14b4776555" title="Export changed parameters to a file. " alt="" coords="1357,747,1458,773"/>
 </map>

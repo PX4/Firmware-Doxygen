@@ -8,20 +8,14 @@ var classcontrol_1_1_block =
     [ "getName", "da/d87/classcontrol_1_1_block.html#a1ba16c14fc7d2af81a7342e754db9644", null ],
     [ "getParams", "da/d87/classcontrol_1_1_block.html#aacb612fbccc6c0e4ad90f9c9f54baa0b", null ],
     [ "getParent", "da/d87/classcontrol_1_1_block.html#ac063575902527aec028fce66048a0a95", null ],
-    [ "getPublications", "da/d87/classcontrol_1_1_block.html#a82c12e3db1914dc0b01ff7ba837a3129", null ],
-    [ "getSubscriptions", "da/d87/classcontrol_1_1_block.html#a962067c843a4bdda9aab28f720c56365", null ],
     [ "operator=", "da/d87/classcontrol_1_1_block.html#a6f32656f592610b13a36f72c219c0ee6", null ],
     [ "operator=", "da/d87/classcontrol_1_1_block.html#a9de9537bafc5e472bda19ce0c5f240ca", null ],
     [ "setDt", "da/d87/classcontrol_1_1_block.html#a5cc3bbbe08336d41b29a4ca997a34676", null ],
     [ "updateParams", "da/d87/classcontrol_1_1_block.html#ac8d95034ea7a6aa09718ecd237b273ca", null ],
     [ "updateParamsSubclass", "da/d87/classcontrol_1_1_block.html#a4389126a69f5153d631ea5a9594a3c17", null ],
-    [ "updatePublications", "da/d87/classcontrol_1_1_block.html#af009e61934acf7152d5762b8b785d83b", null ],
-    [ "updateSubscriptions", "da/d87/classcontrol_1_1_block.html#ab8ab5d9514c7ca3953424c5ae7645d5b", null ],
     [ "BlockParamBase", "da/d87/classcontrol_1_1_block.html#a96dd2ee7e2dd438a7a2907bfac2bdbef", null ],
     [ "_dt", "da/d87/classcontrol_1_1_block.html#a91956175150ccae41d7f9922b8ef2a14", null ],
     [ "_name", "da/d87/classcontrol_1_1_block.html#a9d545c9394af82a8c98765d36988d439", null ],
     [ "_params", "da/d87/classcontrol_1_1_block.html#a3e5b45f8c6b336df046c6bbbf4d7ba79", null ],
-    [ "_parent", "da/d87/classcontrol_1_1_block.html#a48edaffb8eb894b70cfc2c85c3581979", null ],
-    [ "_publications", "da/d87/classcontrol_1_1_block.html#a3093b3df5e2945d9d2ccbbc8f3936715", null ],
-    [ "_subscriptions", "da/d87/classcontrol_1_1_block.html#acbbce7898a89b5c96083b36516fd41a9", null ]
+    [ "_parent", "da/d87/classcontrol_1_1_block.html#a48edaffb8eb894b70cfc2c85c3581979", null ]
 ];

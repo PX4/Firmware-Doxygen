@@ -1,6 +1,7 @@
 var class_mathlib_test =
 [
     [ "run_tests", "d0/d09/class_mathlib_test.html#a04830b727cb00cfdbc31c2b689bb2874", null ],
+    [ "testFinite", "d0/d09/class_mathlib_test.html#a1dae50962a17149525b5e0363b3b0b4e", null ],
     [ "testMatrix10x10", "d0/d09/class_mathlib_test.html#a79a333cafbd8b51aa0a19934e04ca287", null ],
     [ "testMatrix3x3", "d0/d09/class_mathlib_test.html#a5464a97bbc821a01714dab7459978001", null ],
     [ "testMatrixNonsymmetric", "d0/d09/class_mathlib_test.html#a24162ab92726521abaa1b40da5d7005b", null ],

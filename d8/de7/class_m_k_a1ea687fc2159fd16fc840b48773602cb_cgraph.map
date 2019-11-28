@@ -1,33 +1,32 @@
 <map id="MK::pwm_ioctl" name="MK::pwm_ioctl">
-<area shape="rect" id="node2" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="399,229,556,255"/>
-<area shape="rect" id="node3" href="$d3/dc4/class_simple_mixer.html#ab191e02e844721ff723b79413d82f90e" title="Check that the mixer configuration as loaded is sensible. " alt="" coords="183,178,321,205"/>
-<area shape="rect" id="node5" href="$d8/de7/class_m_k.html#a84c1b546a033071703b886b07b55b12c" title="MK::control_callback" alt="" coords="180,279,324,306"/>
-<area shape="rect" id="node6" href="$d9/dbb/class_mixer_group.html#a7bd735772388a8b1d9f4cc41dd8ec7d1" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="163,330,341,357"/>
-<area shape="rect" id="node26" href="$d2/d70/namespace_micro_bench_h_r_t.html#aca2d9f12c0defb51efac182da6a55f12" title="MicroBenchHRT::lock" alt="" coords="177,381,327,407"/>
-<area shape="rect" id="node27" href="$d8/de7/class_m_k.html#a574f9da9fc9ad5117c47dfad3941b422" title="MK::mk_servo_arm" alt="" coords="184,431,320,458"/>
-<area shape="rect" id="node28" href="$d8/de7/class_m_k.html#a081cda8fcdb3ea39dcfb1dd37390bd7c" title="MK::mk_servo_set" alt="" coords="186,482,318,509"/>
-<area shape="rect" id="node29" href="$d8/de7/class_m_k.html#af18fbe235a7fed9e830e18698dba28a7" title="MK::scaling" alt="" coords="207,533,297,559"/>
-<area shape="rect" id="node30" href="$d8/de7/class_m_k.html#ae74cad77d82a1b88f6c4686c49f246ff" title="MK::set_rc_max_value" alt="" coords="174,583,330,610"/>
-<area shape="rect" id="node31" href="$d8/de7/class_m_k.html#a848697da0ff07cafa4b7c190e08b91ba" title="MK::set_rc_min_value" alt="" coords="176,634,328,661"/>
-<area shape="rect" id="node32" href="$d2/d70/namespace_micro_bench_h_r_t.html#ac6bf27b1e2346f606a10e520ea86cb7f" title="MicroBenchHRT::unlock" alt="" coords="169,685,335,711"/>
-<area shape="rect" id="node4" href="$de/d2d/class_mixer.html#a11251e4c91b83d1c0781a1842619394c" title="Validate a scaler. " alt="" coords="410,178,545,205"/>
-<area shape="rect" id="node7" href="$d8/d40/class_null_mixer.html#a898d2500fcf86c626c17c9080497eb65" title="Factory method. " alt="" coords="407,414,547,441"/>
-<area shape="rect" id="node10" href="$d3/dc4/class_simple_mixer.html#a4db178ad15ab4ff1815f92fccb472bb3" title="Factory method with full external configuration. " alt="" coords="399,582,556,609"/>
-<area shape="rect" id="node17" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="392,279,563,306"/>
-<area shape="rect" id="node24" href="$d3/d18/class_helicopter_mixer.html#aa74c76554b6aecf5e5f5498472764f1f" title="Factory method. " alt="" coords="389,330,565,357"/>
-<area shape="rect" id="node8" href="$de/d2d/class_mixer.html#ae496f246c8434d0c6d3fcff164e81640" title="Check wether the string is well formed and suitable for parsing. " alt="" coords="641,407,765,448"/>
-<area shape="rect" id="node9" href="$d8/d40/class_null_mixer.html#a54bdcbfea2e55f5c43a5211e52fb9da2" title="NullMixer::NullMixer" alt="" coords="633,473,773,499"/>
-<area shape="rect" id="node11" href="$de/d2d/class_mixer.html#a2f8fa80f069727fcb9a1abb25e007470" title="Skip a line. " alt="" coords="869,523,976,550"/>
-<area shape="rect" id="node12" href="$de/d2d/class_mixer.html#af7700fca6686a37e9b84b8028843010a" title="Find next tag and return it (0 is returned if no tag is found) " alt="" coords="640,757,767,783"/>
-<area shape="rect" id="node13" href="$d3/dc4/class_simple_mixer.html#a3748661dfe004123e411d995c673f4fc" title="SimpleMixer::parse\l_output_scaler" alt="" coords="636,640,771,681"/>
-<area shape="rect" id="node15" href="$d3/dc4/class_simple_mixer.html#a8a8f623c91b686cedb8ceeb77b09f491" title="SimpleMixer::parse\l_control_scaler" alt="" coords="636,575,771,616"/>
-<area shape="rect" id="node16" href="$d3/dc4/class_simple_mixer.html#a0b0ce6973b9dc3c2dea6ee924a480715" title="Constructor. " alt="" coords="616,706,791,733"/>
-<area shape="rect" id="node14" href="$de/d2d/class_mixer.html#a6cf503fd87b4ffe395978376cfd0f3e4" title="Find a tag. " alt="" coords="872,582,973,609"/>
-<area shape="rect" id="node18" href="$d5/dd1/class_multirotor_mixer.html#a4d5cdf8a2011732337db808bbc8d48bc" title="MultirotorMixer::Multirotor\lMixer" alt="" coords="618,71,789,112"/>
-<area shape="rect" id="node22" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1274,118,1313,145"/>
-<area shape="rect" id="node19" href="$d5/dd1/class_multirotor_mixer.html#a4b2b1bf433ca84310d8e479be25cb0c8" title="MultirotorMixer::actuator\lControlsCallback" alt="" coords="841,5,1004,47"/>
-<area shape="rect" id="node23" href="$d5/dd1/class_multirotor_mixer.html#a001a6db48e10048b62f840701b64163c" title="MultirotorMixer::actuator\lArmedCallback" alt="" coords="841,71,1004,112"/>
-<area shape="rect" id="node20" href="$d5/dd1/class_multirotor_mixer.html#ad3f0c1aa972a5a731d4a392af32111f2" title="MultirotorMixer::mix" alt="" coords="1052,31,1189,58"/>
-<area shape="rect" id="node21" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="1237,31,1349,58"/>
-<area shape="rect" id="node25" href="$d3/d18/class_helicopter_mixer.html#a24f1a82968f6a11e0fa951beba6c0428" title="Constructor. " alt="" coords="613,239,793,280"/>
+<area shape="rect" id="node2" href="$d8/de7/class_m_k.html#a84c1b546a033071703b886b07b55b12c" title="MK::control_callback" alt="" coords="180,327,324,353"/>
+<area shape="rect" id="node3" href="$d9/dbb/class_mixer_group.html#a5f745eabec06661908cbbfa7c656d0a6" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="163,377,341,404"/>
+<area shape="rect" id="node25" href="$d2/d70/namespace_micro_bench_h_r_t.html#aca2d9f12c0defb51efac182da6a55f12" title="MicroBenchHRT::lock" alt="" coords="177,428,327,455"/>
+<area shape="rect" id="node26" href="$d8/de7/class_m_k.html#a574f9da9fc9ad5117c47dfad3941b422" title="MK::mk_servo_arm" alt="" coords="184,479,320,505"/>
+<area shape="rect" id="node27" href="$d8/de7/class_m_k.html#a081cda8fcdb3ea39dcfb1dd37390bd7c" title="MK::mk_servo_set" alt="" coords="186,529,318,556"/>
+<area shape="rect" id="node28" href="$d8/de7/class_m_k.html#af18fbe235a7fed9e830e18698dba28a7" title="MK::scaling" alt="" coords="207,580,297,607"/>
+<area shape="rect" id="node29" href="$d8/de7/class_m_k.html#ae74cad77d82a1b88f6c4686c49f246ff" title="MK::set_rc_max_value" alt="" coords="174,631,330,657"/>
+<area shape="rect" id="node30" href="$d8/de7/class_m_k.html#a848697da0ff07cafa4b7c190e08b91ba" title="MK::set_rc_min_value" alt="" coords="176,681,328,708"/>
+<area shape="rect" id="node31" href="$d2/d70/namespace_micro_bench_h_r_t.html#ac6bf27b1e2346f606a10e520ea86cb7f" title="MicroBenchHRT::unlock" alt="" coords="169,732,335,759"/>
+<area shape="rect" id="node4" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="399,188,556,215"/>
+<area shape="rect" id="node5" href="$d8/d40/class_null_mixer.html#a898d2500fcf86c626c17c9080497eb65" title="Factory method. " alt="" coords="407,633,547,660"/>
+<area shape="rect" id="node11" href="$d3/d18/class_helicopter_mixer.html#aa74c76554b6aecf5e5f5498472764f1f" title="Factory method. " alt="" coords="389,377,565,404"/>
+<area shape="rect" id="node15" href="$d3/dc4/class_simple_mixer.html#a4db178ad15ab4ff1815f92fccb472bb3" title="Factory method with full external configuration. " alt="" coords="399,239,556,265"/>
+<area shape="rect" id="node20" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="392,524,563,551"/>
+<area shape="rect" id="node6" href="$de/d2d/class_mixer.html#ae496f246c8434d0c6d3fcff164e81640" title="Check wether the string is well formed and suitable for parsing. " alt="" coords="641,458,765,499"/>
+<area shape="rect" id="node7" href="$d8/d40/class_null_mixer.html#a54bdcbfea2e55f5c43a5211e52fb9da2" title="NullMixer::NullMixer" alt="" coords="633,692,773,719"/>
+<area shape="rect" id="node8" href="$d8/d40/class_null_mixer.html#ad2b1b06a394143bbbe0446e9b8e6b0bf" title="NullMixer::~NullMixer" alt="" coords="841,667,989,693"/>
+<area shape="rect" id="node9" href="$d8/d40/class_null_mixer.html#ada87b5d36990f434d40d4df783f69a67" title="NullMixer::operator=" alt="" coords="845,717,985,744"/>
+<area shape="rect" id="node10" href="$d8/d40/class_null_mixer.html#a5bcd6ddb3e11d29e328858ad898175b9" title="Perform the mixing function. " alt="" coords="862,768,969,795"/>
+<area shape="rect" id="node12" href="$de/d2d/class_mixer.html#a6cf503fd87b4ffe395978376cfd0f3e4" title="Find a tag. " alt="" coords="865,129,966,156"/>
+<area shape="rect" id="node13" href="$d3/d18/class_helicopter_mixer.html#a29ae987fad0abc3a34095e76fc7c6ef9" title="Constructor. " alt="" coords="613,341,793,382"/>
+<area shape="rect" id="node14" href="$de/d2d/class_mixer.html#a2f8fa80f069727fcb9a1abb25e007470" title="Skip a line. " alt="" coords="862,289,969,316"/>
+<area shape="rect" id="node16" href="$de/d2d/class_mixer.html#af7700fca6686a37e9b84b8028843010a" title="Find next tag and return it (0 is returned if no tag is found) " alt="" coords="640,188,767,215"/>
+<area shape="rect" id="node17" href="$d3/dc4/class_simple_mixer.html#a3748661dfe004123e411d995c673f4fc" title="SimpleMixer::parse\l_output_scaler" alt="" coords="636,122,771,163"/>
+<area shape="rect" id="node18" href="$d3/dc4/class_simple_mixer.html#a8a8f623c91b686cedb8ceeb77b09f491" title="SimpleMixer::parse\l_control_scaler" alt="" coords="636,57,771,98"/>
+<area shape="rect" id="node19" href="$d3/dc4/class_simple_mixer.html#a0b0ce6973b9dc3c2dea6ee924a480715" title="Constructor. " alt="" coords="616,5,791,32"/>
+<area shape="rect" id="node21" href="$d5/dd1/class_multirotor_mixer.html#a08611626d8940bdf3b5c1a623b96d408" title="Constructor. " alt="" coords="618,575,789,617"/>
+<area shape="rect" id="node22" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="684,641,723,668"/>
+<area shape="rect" id="node23" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="874,616,957,643"/>
+<area shape="rect" id="node24" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1037,616,1124,643"/>
 </map>

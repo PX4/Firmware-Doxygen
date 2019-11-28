@@ -1,19 +1,23 @@
 <map id="Mission::set_closest_item_as_current" name="Mission::set_closest_item_as_current">
-<area shape="rect" id="node2" href="$db/dad/class_mission.html#a722fc381a1112e7599fb1a13bb707945" title="Return the index of the closest offboard mission item to the current global position. " alt="" coords="196,326,351,367"/>
-<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="454,157,526,184"/>
-<area shape="rect" id="node13" href="$da/d7b/class_mission_block.html#ab1ec02b6ac5b533b1d2981f87067c739" title="MissionBlock::get_absolute\l_altitude_for_item" alt="" coords="399,209,581,250"/>
-<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="641,267,784,309"/>
-<area shape="rect" id="node15" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="415,326,565,367"/>
-<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="417,391,563,433"/>
-<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="413,457,567,484"/>
-<area shape="rect" id="node18" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="423,509,557,550"/>
-<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="847,56,973,83"/>
-<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="629,150,796,191"/>
-<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="672,216,753,243"/>
-<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1031,107,1119,133"/>
-<area shape="rect" id="node6" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1032,56,1119,83"/>
-<area shape="rect" id="node7" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1032,5,1119,32"/>
-<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1024,157,1127,184"/>
-<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="844,157,976,184"/>
-<area shape="rect" id="node11" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="867,208,953,235"/>
+<area shape="rect" id="node2" href="$db/dad/class_mission.html#a1d4672f10e0cc4b54664e3b141daec19" title="Return the index of the closest mission item to the current global position. " alt="" coords="196,426,351,468"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="454,190,526,216"/>
+<area shape="rect" id="node13" href="$da/d7b/class_mission_block.html#a2c7cca2725589876053fee7474d77517" title="MissionBlock::get_absolute\l_altitude_for_item" alt="" coords="399,309,581,350"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Getters. " alt="" coords="641,317,784,358"/>
+<area shape="rect" id="node15" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="415,426,565,468"/>
+<area shape="rect" id="node20" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="417,492,563,533"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="413,558,567,584"/>
+<area shape="rect" id="node22" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="423,609,557,650"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="847,124,973,151"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="629,26,796,68"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="672,164,753,191"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="671,215,754,242"/>
+<area shape="rect" id="node12" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="677,266,749,292"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1031,23,1119,50"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1024,74,1127,100"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="844,23,976,50"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="847,240,973,267"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="663,484,762,511"/>
+<area shape="rect" id="node17" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="669,383,756,410"/>
+<area shape="rect" id="node18" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="869,383,951,410"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="669,434,757,460"/>
 </map>

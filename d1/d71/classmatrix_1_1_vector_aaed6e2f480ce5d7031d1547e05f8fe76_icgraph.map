@@ -1,0 +1,27 @@
+<map id="matrix::Vector::normalized" name="matrix::Vector::normalized">
+<area shape="rect" id="node2" href="$da/d83/class_flight_task_manual_position.html#aef8e02cab92b57236fe310a02398ddcc" title="scales sticks to velocity in z " alt="" coords="228,39,400,80"/>
+<area shape="rect" id="node4" href="$d0/d4b/class_manual_smoothing_x_y.html#a4a41b40988014ed3b951475bc2dddcac" title="Limits the velocity setpoint change. " alt="" coords="238,136,390,177"/>
+<area shape="rect" id="node9" href="$d5/d30/namespace_control_math.html#a93d382fefe8734cbbfef3a1e2222e50a" title="Outputs the sum of two vectors but respecting the limits and priority. " alt="" coords="228,261,400,287"/>
+<area shape="rect" id="node12" href="$d9/d0a/attitude_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="289,315,339,342"/>
+<area shape="rect" id="node13" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a4812a285e3309e23e33f86f5cb86cf78" title="Navigate between two waypoints. " alt="" coords="233,371,395,412"/>
+<area shape="rect" id="node22" href="$dd/dd4/class_prec_land.html#af102e3ea17700924dd250ae7c6d4ea3f" title="PrecLand::slewrate" alt="" coords="247,437,381,463"/>
+<area shape="rect" id="node26" href="$db/dc6/_collision_prevention_test_8cpp.html#a365441ecbaa605b9f45ab3f18eb77021" title="TEST_F" alt="" coords="279,487,349,514"/>
+<area shape="rect" id="node3" href="$da/d83/class_flight_task_manual_position.html#a4a6b240320d94deaca158a5ce4d986e4" title="Sets an external yaw handler which can be used to implement a different yaw control strategy..." alt="" coords="448,5,620,47"/>
+<area shape="rect" id="node5" href="$d0/d4b/class_manual_smoothing_x_y.html#a9ac657e7d3f11c2da1f74d15c1f8ecb0" title="ManualSmoothingXY::\loverwriteJerkMin" alt="" coords="458,136,610,177"/>
+<area shape="rect" id="node6" href="$d0/d4b/class_manual_smoothing_x_y.html#aab3c7195e2098609e52078b5ee61ce06" title="Smoothing of velocity setpoint horizontally based on flight direction. " alt="" coords="458,71,610,112"/>
+<area shape="rect" id="node7" href="$d2/da3/class_flight_task_manual_position_smooth.html#a6bfa78892647fa049eaeb3b9040b650c" title="updates all setpoints " alt="" coords="895,71,1071,112"/>
+<area shape="rect" id="node8" href="$d0/d4b/class_manual_smoothing_x_y.html#a16b85d7af767308bcb78ef48d3c7b07d" title="Maximum velocity is required to detect user intention. " alt="" coords="681,100,833,141"/>
+<area shape="rect" id="node10" href="$d8/d5a/class_position_control.html#a97e0d61b3061782667ead8c77429e3af" title="PositionControl::_position\lController" alt="" coords="449,253,619,295"/>
+<area shape="rect" id="node11" href="$d8/df1/_control_math_test_8cpp.html#a19b47f524d47c944fa14aff7084c8e1a" title="TEST" alt="" coords="506,202,562,229"/>
+<area shape="rect" id="node14" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19" title="Returns true if following a circle (loiter) " alt="" coords="453,488,615,529"/>
+<area shape="rect" id="node16" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="897,372,1068,413"/>
+<area shape="rect" id="node17" href="$d9/d31/class_fixedwing_position_control.html#a4b6c09ae04794bb21ea7b0705313390b" title="FixedwingPositionControl\l::control_position" alt="" coords="1119,496,1289,537"/>
+<area shape="rect" id="node19" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="897,437,1068,479"/>
+<area shape="rect" id="node20" href="$d6/db2/class_rover_position_control.html#ae739efccc037fff57e0cbbd61feff46f" title="Control position. " alt="" coords="461,371,607,412"/>
+<area shape="rect" id="node15" href="$d9/d31/class_fixedwing_position_control.html#a2706f73f0117f43380a5b6d196e52ac0" title="FixedwingPositionControl\l::calculate_target_airspeed" alt="" coords="668,488,847,529"/>
+<area shape="rect" id="node18" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="1337,503,1540,530"/>
+<area shape="rect" id="node21" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="671,378,843,405"/>
+<area shape="rect" id="node23" href="$dd/dd4/class_prec_land.html#aadd0dbc9029a9b6b35e46b1a44acc8bf" title="PrecLand::run_state\l_horizontal_approach" alt="" coords="461,656,607,697"/>
+<area shape="rect" id="node24" href="$dd/dd4/class_prec_land.html#a0f4d8c775373884e2d3280bf8de29558" title="This function is called while the mode is active. " alt="" coords="687,663,828,690"/>
+<area shape="rect" id="node25" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="917,663,1048,690"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="set_health_flags" name="set_health_flags">
+<area shape="rect" id="node2" href="$d1/d2f/class_pre_flight_check.html#a5416b55eca6324798d226c24d4bd6a0a" title="PreFlightCheck::accelerometer\lCheck" alt="" coords="171,5,373,47"/>
+<area shape="rect" id="node3" href="$d1/d2f/class_pre_flight_check.html#af5d478a19b7a62dd4c2ebe22de766fcc" title="PreFlightCheck::airspeed\lCheck" alt="" coords="187,71,357,112"/>
+<area shape="rect" id="node4" href="$d1/d2f/class_pre_flight_check.html#a3cc38a72e1f9c613031fba18671deef0" title="PreFlightCheck::baroCheck" alt="" coords="181,137,363,163"/>
+<area shape="rect" id="node5" href="$d1/d2f/class_pre_flight_check.html#ab662147a8942dc0466822355483fa1d2" title="PreFlightCheck::ekf2Check" alt="" coords="181,187,363,214"/>
+<area shape="rect" id="node6" href="$d1/d2f/class_pre_flight_check.html#a3934cb69be325481973ce1031343aa0a" title="PreFlightCheck::gyroCheck" alt="" coords="181,238,363,265"/>
+<area shape="rect" id="node7" href="$d1/d2f/class_pre_flight_check.html#a8e660a977b1142907115ff37854ef901" title="PreFlightCheck::magnometer\lCheck" alt="" coords="176,289,368,331"/>
+<area shape="rect" id="node8" href="$d1/d2f/class_pre_flight_check.html#a88f071f37f2ccaccb6446f0815edf87d" title="Runs a preflight check on all sensors to see if they are properly calibrated and healthy. " alt="" coords="189,609,355,651"/>
+<area shape="rect" id="node11" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1169,574,1288,601"/>
+<area shape="rect" id="node20" href="$d4/d79/_health_flags_8h.html#a7473f8ce7686f32763799b3b393d475f" title="set_health_flags_healthy" alt="" coords="189,477,355,503"/>
+<area shape="rect" id="node24" href="$d4/d79/_health_flags_8h.html#a5e4b7755bd406163fec617e1fa35f212" title="set_health_flags_present\l_healthy" alt="" coords="189,407,355,448"/>
+<area shape="rect" id="node9" href="$d3/dc6/class_commander.html#a31c2d7d8ee9793a82b291658016a3f29" title="Commander::preflight\l_check" alt="" coords="706,609,853,651"/>
+<area shape="rect" id="node13" href="$d2/de8/state__machine__helper_8h.html#a2b895abaf68d67706c496ebf55e42b1f" title="arming_state_transition" alt="" coords="452,701,609,727"/>
+<area shape="rect" id="node10" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="957,675,1083,702"/>
+<area shape="rect" id="node12" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="932,625,1108,651"/>
+<area shape="rect" id="node14" href="$da/d73/_commander_8cpp.html#a833c26251f1b78620a2670faf5f35f59" title="shutdown_if_allowed" alt="" coords="708,515,851,542"/>
+<area shape="rect" id="node16" href="$da/d73/_commander_8cpp.html#a9bcf71d6d1ab4bae79c67bf3d388e1b1" title="arm_disarm" alt="" coords="734,726,825,753"/>
+<area shape="rect" id="node18" href="$d7/dd5/class_state_machine_helper_test.html#ab18f6a91cac168f6088affc3b93f04b5" title="StateMachineHelperTest\l::armingStateTransitionTest" alt="" coords="688,803,871,844"/>
+<area shape="rect" id="node15" href="$d3/dc6/class_commander.html#a9b78915ca8fd29db59f48e678e932a0b" title="Commander::battery\l_status_check" alt="" coords="949,508,1091,549"/>
+<area shape="rect" id="node17" href="$d3/dc6/class_commander.html#a92e07914c36f1325d54f9b4112702503" title="Commander::handle_command" alt="" coords="919,726,1121,753"/>
+<area shape="rect" id="node19" href="$d7/dd5/class_state_machine_helper_test.html#a59b9a9df48864083b498284819a8cef6" title="Override to run your unit tests. " alt="" coords="937,828,1103,869"/>
+<area shape="rect" id="node21" href="$d1/d2f/class_pre_flight_check.html#a443b2e1275eb4482bdfb545cc3a3e1e9" title="PreFlightCheck::imuConsistency\lCheck" alt="" coords="423,472,638,513"/>
+<area shape="rect" id="node22" href="$d1/d2f/class_pre_flight_check.html#a12eb46d2d2bae6c1e019babf829f76f0" title="PreFlightCheck::magConsistency\lCheck" alt="" coords="421,537,640,579"/>
+<area shape="rect" id="node23" href="$d3/dc6/class_commander.html#a800e1be6a8f20efff3869495f08dde3a" title="Commander::estimator\l_check" alt="" coords="453,407,608,448"/>
+</map>

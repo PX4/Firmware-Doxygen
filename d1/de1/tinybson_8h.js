@@ -24,7 +24,7 @@ var tinybson_8h =
       [ "BSON_UNDEFINED", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deaae5d398856c35f8949ade196edde961e", null ],
       [ "BSON_BOOL", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78dea577d27af09765aabba4a4d651d8aa1c2", null ],
       [ "BSON_DATE", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deae7c62b3e7f9cbfa2023c7d18c3904282", null ],
-      [ "BSON_NULL", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deaddb291a0dd2ed0553dc5451197c085c1", null ],
+      [ "BSON_nullptr", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deab1e43480c98ae8a10ba901d1115427e4", null ],
       [ "BSON_INT32", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deafa9bb05c9fecd471fba068dceb3e8284", null ],
       [ "BSON_INT64", "d1/de1/tinybson_8h.html#acdb2fcef9af72d96a645c1092e7b78deace401a98c30e7cc8cddaab52d6ca10c5", null ]
     ] ],

@@ -1,0 +1,16 @@
+<map id="uavcan_kinetis::CanInitHelper&lt; RxQueueCapacity &gt;" name="uavcan_kinetis::CanInitHelper&lt; RxQueueCapacity &gt;">
+<area shape="rect" id="node2" href="$d3/db9/classuavcan__kinetis_1_1_can_driver.html" title="CAN driver, incorporates all available CAN ifaces. " alt="" coords="569,1255,745,1464"/>
+<area shape="rect" id="node5" href="$de/d13/classuavcan__kinetis_1_1_bus_event.html" title="All bus events are reported as POLLIN. " alt="" coords="570,549,745,700"/>
+<area shape="rect" id="node6" href="$da/dcd/classuavcan__kinetis_1_1_can_iface.html" title="Single CAN iface. " alt="" coords="394,807,609,1192"/>
+<area shape="rect" id="node8" href="$d7/dff/structuavcan__kinetis_1_1_can_iface_1_1_tx_item.html" title="{uavcan_kinetis::CanIface\l::TxItem\n|+ deadline\l+ frame\l+ pending\l+ loopback\l+ abort_on_error\l|+ TxItem()\l}" alt="" coords="5,549,176,700"/>
+<area shape="rect" id="node9" href="$de/db8/classuavcan__kinetis_1_1_can_iface_1_1_rx_queue.html" title="{uavcan_kinetis::CanIface\l::RxQueue\n|&#45; capacity_\l&#45; in_\l&#45; out_\l&#45; len_\l&#45; overflow_cnt_\l|+ RxQueue()\l+ push()\l+ pop()\l+ reset()\l+ getLength()\l+ getOverflowCount()\l&#45; registerOverflow()\l}" alt="" coords="828,505,999,744"/>
+<area shape="rect" id="node10" href="$d1/d4a/structuavcan__kinetis_1_1_can_rx_item.html" title="RX queue item. " alt="" coords="900,299,1084,406"/>
+<area shape="rect" id="node11" href="$d6/d8a/structuavcan__kinetis_1_1flexcan_1_1_can_type.html" title="{uavcan_kinetis::flexcan\l::CanType\n|+ MCR\l+ CTRL1\l+ TIMER\l+ Reserved0\l+ RXMGMASK\l+ RX14MASK\land 17 more...\l|}" alt="" coords="303,535,462,715"/>
+<area shape="rect" id="node12" href="$d3/de7/unionuavcan__kinetis_1_1flexcan_1_1_filter_type.html" title="{uavcan_kinetis::flexcan\l::FilterType\n|+ w\l+ res\l+ ext\l+ @43\l+ ress\l+ std\land 5 more...\l|}" alt="" coords="98,263,257,443"/>
+<area shape="rect" id="node13" href="$d8/d12/structuavcan__kinetis_1_1flexcan_1_1_rx_fi_fo_type.html" title="{uavcan_kinetis::flexcan\l::RxFiFoType\n||}" alt="" coords="463,307,622,399"/>
+<area shape="rect" id="node14" href="$db/dac/unionuavcan__kinetis_1_1flexcan_1_1_i_d_type.html" title="{uavcan_kinetis::flexcan\l::IDType\n|+ w\l+ ext\l+ resex\l+ @39\l+ res\l+ std\l+ resstd\l+ @41\l|}" alt="" coords="463,5,622,200"/>
+<area shape="rect" id="node17" href="$d9/dbc/structuavcan__kinetis_1_1flexcan_1_1_message_buffer_type.html" title="{uavcan_kinetis::flexcan\l::MessageBufferType\n||}" alt="" coords="281,307,439,399"/>
+<area shape="rect" id="node15" href="$d5/d5b/unionuavcan__kinetis_1_1flexcan_1_1_data_type.html" title="{uavcan_kinetis::flexcan\l::DataType\n|+ l\l+ h\l+ b3\l+ b2\l+ b1\l+ b0\land 5 more...\l|}" alt="" coords="98,13,257,193"/>
+<area shape="rect" id="node16" href="$d1/d43/unionuavcan__kinetis_1_1flexcan_1_1_f_i_f_ocs_type.html" title="{uavcan_kinetis::flexcan\l::FIFOcsType\n|+ cs\l+ time_stamp\l+ dlc\l+ rtr\l+ ide\l+ srr\l+ res\l+ @37\l|}" alt="" coords="646,5,805,200"/>
+<area shape="rect" id="node18" href="$d1/dd5/unionuavcan__kinetis_1_1flexcan_1_1_m_bcs_type.html" title="{uavcan_kinetis::flexcan\l::MBcsType\n|+ w\l+ time_stamp\l+ dlc\l+ rtr\l+ ide\l+ srr\land 4 more...\l|}" alt="" coords="281,13,439,193"/>
+</map>

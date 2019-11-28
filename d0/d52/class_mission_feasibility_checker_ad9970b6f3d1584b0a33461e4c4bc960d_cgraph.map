@@ -1,0 +1,30 @@
+<map id="MissionFeasibilityChecker::checkFixedwing" name="MissionFeasibilityChecker::checkFixedwing">
+<area shape="rect" id="node2" href="$d0/d52/class_mission_feasibility_checker.html#acd3269d879ba473e39791b25411490c1" title="MissionFeasibilityChecker\l::checkFixedWingLanding" alt="" coords="228,369,403,411"/>
+<area shape="rect" id="node25" href="$d0/d52/class_mission_feasibility_checker.html#aadd293300066f3618a637a12f13ab92a" title="MissionFeasibilityChecker\l::checkTakeoff" alt="" coords="228,195,403,236"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="499,202,571,229"/>
+<area shape="rect" id="node13" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="457,304,613,345"/>
+<area shape="rect" id="node14" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="469,605,602,647"/>
+<area shape="rect" id="node15" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="462,540,609,581"/>
+<area shape="rect" id="node21" href="$d1/d36/class_landingslope.html#a3321156bab0110d60528ee6d6c8e4fdf" title="Landingslope::getLanding\lSlopeAbsoluteAltitude" alt="" coords="451,369,620,411"/>
+<area shape="rect" id="node23" href="$d1/d36/class_landingslope.html#a80ae3e92630dd2a911fd7c9441008982" title="Landingslope::getLanding\lSlopeWPDistance" alt="" coords="451,435,620,476"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="889,259,1014,286"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="669,197,836,239"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="712,146,793,173"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="711,95,794,122"/>
+<area shape="rect" id="node12" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="717,45,789,71"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1073,209,1161,235"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1065,259,1168,286"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="885,209,1017,235"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="889,70,1014,97"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="703,598,802,625"/>
+<area shape="rect" id="node17" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="709,547,796,574"/>
+<area shape="rect" id="node18" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="910,522,993,549"/>
+<area shape="rect" id="node19" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="702,649,803,675"/>
+<area shape="rect" id="node20" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="709,699,797,726"/>
+<area shape="rect" id="node22" href="$d1/d36/class_landingslope.html#a26ff44d0c7965ce39f2b7b92dcf453ba" title="Landingslope::getLanding\lSlopeRelativeAltitude" alt="" coords="668,365,837,407"/>
+<area shape="rect" id="node24" href="$d1/d36/class_landingslope.html#a70cc1db8969ac60a6c7a202c16ad52f4" title="Landingslope::horizontal\l_slope_displacement" alt="" coords="671,431,834,472"/>
+<area shape="rect" id="node26" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="460,71,611,112"/>
+<area shape="rect" id="node27" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="516,253,555,279"/>
+<area shape="rect" id="node28" href="$d0/df9/class_navigator.html#a8184c82ab55e1343d9b2ae672341d3b0" title="Navigator::get_takeoff\l_required" alt="" coords="460,136,611,177"/>
+<area shape="rect" id="node29" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="468,5,603,47"/>
+</map>

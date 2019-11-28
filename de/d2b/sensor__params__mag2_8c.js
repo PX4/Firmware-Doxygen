@@ -8,5 +8,5 @@ var sensor__params__mag2_8c =
     [ "PARAM_DEFINE_FLOAT", "de/d2b/sensor__params__mag2_8c.html#a0e185b5132ec46dbea27a92b4b9c5811", null ],
     [ "PARAM_DEFINE_INT32", "de/d2b/sensor__params__mag2_8c.html#afcad6d9fb321fd7b4028ec1b1b33b6c9", null ],
     [ "PARAM_DEFINE_INT32", "de/d2b/sensor__params__mag2_8c.html#aacd5e8c5e4302bb26f9366623973b020", null ],
-    [ "PARAM_DEFINE_INT32", "de/d2b/sensor__params__mag2_8c.html#a8acd545364403183f6de11b098af870e", null ]
+    [ "PARAM_DEFINE_INT32", "de/d2b/sensor__params__mag2_8c.html#a76c07c3843835c8a20f52084bda00ff2", null ]
 ];

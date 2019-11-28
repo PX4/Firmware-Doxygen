@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['mag2cbbinder',['Mag2CbBinder',['../d2/d84/class_uavcan_magnetometer_bridge.html#a55a048ee6fa260732508f57d498af34c',1,'UavcanMagnetometerBridge']]],
   ['magcbbinder',['MagCbBinder',['../d2/d84/class_uavcan_magnetometer_bridge.html#abeb846961455f9fb0cf53c99e016be30',1,'UavcanMagnetometerBridge']]],
   ['main_5fstate_5ft',['main_state_t',['../db/dd6/u_o_r_b_8h.html#a2f52ae536a2c0afd5c4e45e87c7cb522',1,'uORB.h']]],
   ['matrix21',['Matrix21',['../df/d02/classmatrix_1_1_vector2.html#a75ceee3db85c60ababd8ddd529e92da5',1,'matrix::Vector2']]],
@@ -7,13 +8,12 @@ var searchData=
   ['matrix3f',['Matrix3f',['../d0/de4/namespacematrix.html#a80a5f9fe31b1c894f358415d32faf40e',1,'matrix']]],
   ['matrix41',['Matrix41',['../d5/d0f/classmatrix_1_1_quaternion.html#acc35a9e7996031bdecb8d19fbce0a4ad',1,'matrix::Quaternion']]],
   ['matrixm1',['MatrixM1',['../d1/d71/classmatrix_1_1_vector.html#af4b88ea62574d5212f33ba97c7a4c1ec',1,'matrix::Vector']]],
-  ['mfguid_5ft',['mfguid_t',['../d6/df6/board__common_8h.html#af412c425f62b930796b3bcf1d4a91a92',1,'board_common.h']]],
-  ['mode_5ft',['mode_t',['../d0/dbe/namespacedevice.html#a0fcee8ccb57badccfc40f79d8b5e37c1',1,'device']]],
+  ['mode_5ft',['mode_t',['../db/d95/namespacecdev.html#ae0f321e6fa1dc48a528751f4afa59d9f',1,'cdev']]],
   ['mpl3115a2_5fconstructor',['MPL3115A2_constructor',['../d6/d0c/mpl3115a2_8h.html#a93535cb65d76680dfff0a3c3020c3710',1,'mpl3115a2.h']]],
   ['mpl3115a2_5fdata_5ft',['MPL3115A2_data_t',['../d6/d0c/mpl3115a2_8h.html#aba468b76324b2385c04f233881685baa',1,'mpl3115a2.h']]],
-  ['mpu6000_5fconstructor',['MPU6000_constructor',['../d1/d68/mpu6000_8h.html#a4a87cb62953eb0601480667a24bb22c4',1,'mpu6000.h']]],
-  ['mpu9250_5fconstructor',['MPU9250_constructor',['../db/d35/mpu9250_8h.html#a5be62aa4b3ff29ba3492ca5ca4584ec5',1,'mpu9250.h']]],
-  ['mpu9250_5fmag_5fconstructor',['MPU9250_mag_constructor',['../d7/d1c/mag_8h.html#a4c14bf9ed172491de3e59e391bb3045f',1,'mag.h']]],
+  ['mpu6000_5fconstructor',['MPU6000_constructor',['../d1/df6/_m_p_u6000_8hpp.html#a4a87cb62953eb0601480667a24bb22c4',1,'MPU6000.hpp']]],
+  ['mpu9250_5fconstructor',['MPU9250_constructor',['../db/d35/mpu9250_8h.html#a0a1e9eb4e7ebab986bf60d202662b715',1,'mpu9250.h']]],
+  ['mpu9250_5fmag_5fconstructor',['MPU9250_mag_constructor',['../de/d63/_m_p_u9250__mag_8h.html#a4c14bf9ed172491de3e59e391bb3045f',1,'MPU9250_mag.h']]],
   ['ms5611_5fconstructor',['MS5611_constructor',['../d3/d79/ms5611_8h.html#a0ad9433b741a61e59f463de64c5dca60',1,'ms5611.h']]],
-  ['multirotorgeometryunderlyingtype',['MultirotorGeometryUnderlyingType',['../d9/dc3/lib_2mixer_2mixer_8h.html#a9ad8400c2ff7fbee5a325e1f679eb7ef',1,'mixer.h']]]
+  ['multirotorgeometryunderlyingtype',['MultirotorGeometryUnderlyingType',['../d4/db1/_multirotor_mixer_8hpp.html#a2627ce09171a139b77587f03cbfda2ff',1,'MultirotorMixer.hpp']]]
 ];

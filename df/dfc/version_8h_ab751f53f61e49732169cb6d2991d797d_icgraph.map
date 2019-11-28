@@ -1,9 +1,11 @@
 <map id="px4_os_name" name="px4_os_name">
 <area shape="rect" id="node2" href="$df/dfc/version_8h.html#ac35bb2fd94f5d8b7b3bebeb1e54a2321" title="get the board HW revision " alt="" coords="156,5,315,32"/>
-<area shape="rect" id="node3" href="$d4/d9b/ver_8c.html#a4b346a510f04a4e5463db2141bb46ce8" title="ver_main" alt="" coords="392,17,467,44"/>
-<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac0af196c7ee13d419fc7e43bb826e4a2" title="px4::logger::Logger\l::write_version" alt="" coords="169,107,302,149"/>
-<area shape="rect" id="node4" href="$d4/d9b/ver_8c.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="595,17,652,44"/>
-<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="363,94,496,135"/>
-<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="363,159,496,201"/>
-<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="544,133,703,160"/>
+<area shape="rect" id="node3" href="$d4/d9b/ver_8c.html#a4b346a510f04a4e5463db2141bb46ce8" title="ver_main" alt="" coords="392,5,467,32"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#adabb1202e3004811712411172155abb4" title="px4::logger::Logger\l::write_version" alt="" coords="169,107,302,149"/>
+<area shape="rect" id="node4" href="$d4/d9b/ver_8c.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="605,5,663,32"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="363,107,496,149"/>
+<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="363,177,496,218"/>
+<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="772,115,931,141"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="566,107,702,149"/>
+<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="544,173,724,229"/>
 </map>

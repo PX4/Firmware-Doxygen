@@ -1,9 +1,11 @@
 <map id="sensors::TemperatureCompensation::set_sensor_id" name="sensors::TemperatureCompensation::set_sensor_id">
 <area shape="rect" id="node2" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a4865806cbaabc780cf85bacd377e628c" title="sensors::TemperatureCompensation\l::set_sensor_id_accel" alt="" coords="287,5,520,47"/>
-<area shape="rect" id="node7" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a8a27a1541cf0046605adf868487038c0" title="sensors::TemperatureCompensation\l::set_sensor_id_baro" alt="" coords="287,71,520,112"/>
-<area shape="rect" id="node8" href="$d3/ded/classsensors_1_1_temperature_compensation.html#af01ba5436dbee473d0675187003b25a6" title="supply information which device_id matches a specific uORB topic_instance (needed if a system has mul..." alt="" coords="287,136,520,177"/>
-<area shape="rect" id="node3" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a7aac51c899b41717c6ac83823c668a53" title="call this whenever parameters got updated. " alt="" coords="568,71,768,112"/>
-<area shape="rect" id="node4" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="816,71,959,112"/>
-<area shape="rect" id="node5" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="1007,71,1143,112"/>
-<area shape="rect" id="node6" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="1191,78,1287,105"/>
+<area shape="rect" id="node9" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a8a27a1541cf0046605adf868487038c0" title="sensors::TemperatureCompensation\l::set_sensor_id_baro" alt="" coords="287,71,520,112"/>
+<area shape="rect" id="node10" href="$d3/ded/classsensors_1_1_temperature_compensation.html#af01ba5436dbee473d0675187003b25a6" title="supply information which device_id matches a specific uORB topic_instance (needed if a system has mul..." alt="" coords="287,136,520,177"/>
+<area shape="rect" id="node3" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a9a5599d2a2d7347ac04edc72f97250ff" title="call this whenever parameters got updated. " alt="" coords="568,71,768,112"/>
+<area shape="rect" id="node4" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="845,37,987,79"/>
+<area shape="rect" id="node7" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#af224ca20d335a068aca2208d780ed82d" title="Poll the magnetometer for updated data. " alt="" coords="816,103,1016,144"/>
+<area shape="rect" id="node5" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="1096,37,1232,79"/>
+<area shape="rect" id="node6" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="1312,78,1408,105"/>
+<area shape="rect" id="node8" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a4caa48d90624549d9557a56e67259926" title="read new sensor data " alt="" coords="1064,103,1264,144"/>
 </map>

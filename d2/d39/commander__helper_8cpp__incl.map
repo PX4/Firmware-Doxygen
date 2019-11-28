@@ -1,23 +1,17 @@
 <map id="src/modules/commander/commander_helper.cpp" name="src/modules/commander/commander_helper.cpp">
-<area shape="rect" id="node2" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="275,273,378,300"/>
-<area shape="rect" id="node9" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="413,191,505,218"/>
-<area shape="rect" id="node20" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1319,348,1428,375"/>
-<area shape="rect" id="node21" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="682,184,825,225"/>
-<area shape="rect" id="node22" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="1990,95,2138,136"/>
-<area shape="rect" id="node23" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="1031,184,1174,225"/>
-<area shape="rect" id="node24" href="$dc/df9/led__control_8h.html" title="uORB/topics/led_control.h" alt="" coords="1542,273,1717,300"/>
-<area shape="rect" id="node25" href="$db/dc9/tune__control_8h.html" title="uORB/topics/tune_control.h" alt="" coords="1913,191,2095,218"/>
-<area shape="rect" id="node26" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="91,273,199,300"/>
-<area shape="rect" id="node29" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="943,348,1081,375"/>
-<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="2222,273,2338,300"/>
-<area shape="rect" id="node34" href="$d9/d25/drv__tone__alarm_8h.html" title="Driver for the PX4 audio alarm port, /dev/tone_alarm. " alt="" coords="1668,102,1833,129"/>
-<area shape="rect" id="node37" href="$d0/dbe/commander__helper_8h.html" title="Commander helper functions definitions. " alt="" coords="1031,102,1174,129"/>
-<area shape="rect" id="node3" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="270,348,349,375"/>
-<area shape="rect" id="node10" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="700,348,793,375"/>
-<area shape="rect" id="node16" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="531,273,618,300"/>
-<area shape="rect" id="node31" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="2374,348,2461,375"/>
-<area shape="rect" id="node36" href="$dd/d63/tune__definition_8h.html" title="lib/tunes/tune_definition.h" alt="" coords="1667,191,1837,218"/>
-<area shape="rect" id="node38" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="1301,184,1449,225"/>
-<area shape="rect" id="node39" href="$d6/dee/drv__led_8h.html" title="Led device API to control the external LED(s) via uORB interface. " alt="" coords="1473,191,1591,218"/>
-<area shape="rect" id="node41" href="$d9/d71/drv__board__led_8h.html" title="LED driver API to control the onboard LED(s) via ioctl() interface. " alt="" coords="849,191,1007,218"/>
+<area shape="rect" id="node11" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="836,363,945,389"/>
+<area shape="rect" id="node13" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="867,184,1010,225"/>
+<area shape="rect" id="node14" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="929,273,1077,315"/>
+<area shape="rect" id="node15" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="701,184,843,225"/>
+<area shape="rect" id="node16" href="$dc/df9/led__control_8h.html" title="uORB/topics/led_control.h" alt="" coords="627,281,802,307"/>
+<area shape="rect" id="node17" href="$db/dc9/tune__control_8h.html" title="uORB/topics/tune_control.h" alt="" coords="1281,191,1463,218"/>
+<area shape="rect" id="node18" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2307,102,2415,129"/>
+<area shape="rect" id="node23" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1576,363,1715,389"/>
+<area shape="rect" id="node24" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1542,191,1658,218"/>
+<area shape="rect" id="node29" href="$d9/d25/drv__tone__alarm_8h.html" title="Driver for the PX4 audio alarm port, /dev/tone_alarm. " alt="" coords="1248,102,1413,129"/>
+<area shape="rect" id="node32" href="$d0/dbe/commander__helper_8h.html" title="Commander helper functions definitions. " alt="" coords="482,102,625,129"/>
+<area shape="rect" id="node30" href="$dd/d63/tune__definition_8h.html" title="lib/tunes/tune_definition.h" alt="" coords="1085,191,1256,218"/>
+<area shape="rect" id="node33" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="273,273,421,315"/>
+<area shape="rect" id="node34" href="$d6/dee/drv__led_8h.html" title="Led device API to control the external LED(s) via uORB interface. " alt="" coords="497,191,615,218"/>
+<area shape="rect" id="node36" href="$d9/d71/drv__board__led_8h.html" title="LED driver API to control the onboard LED(s) via ioctl() interface. " alt="" coords="193,191,351,218"/>
 </map>

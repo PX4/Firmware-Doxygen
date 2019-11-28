@@ -9,5 +9,6 @@ var circuit__breaker_8h =
     [ "CBRK_SUPPLY_CHK_KEY", "d2/dd4/circuit__breaker_8h.html#a9290a1a2713a56f14a172ef688225210", null ],
     [ "CBRK_USB_CHK_KEY", "d2/dd4/circuit__breaker_8h.html#af35d5fdcf430edeb6a2e622154c0ef9d", null ],
     [ "CBRK_VELPOSERR_KEY", "d2/dd4/circuit__breaker_8h.html#a284617a00775c5d76d47a455d94d8af9", null ],
-    [ "circuit_breaker_enabled", "d2/dd4/circuit__breaker_8h.html#abaa7b5984b8eb459a7cc63853a88f7e2", null ]
+    [ "circuit_breaker_enabled", "d2/dd4/circuit__breaker_8h.html#abaa7b5984b8eb459a7cc63853a88f7e2", null ],
+    [ "circuit_breaker_enabled_by_val", "d2/dd4/circuit__breaker_8h.html#a488cefd8199e95127f917113296abe9a", null ]
 ];

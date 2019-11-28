@@ -1,5 +1,6 @@
 <map id="UavcanEscController" name="UavcanEscController">
-<area shape="rect" id="node2" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="5,248,117,355"/>
-<area shape="rect" id="node3" href="$d7/d79/structesc__status__s.html" title="{esc_status_s\n|+ timestamp\l+ counter\l+ esc_count\l+ esc_connectiontype\l+ _padding0\l|}" alt="" coords="154,233,305,369"/>
-<area shape="rect" id="node4" href="$da/dc3/structesc__report__s.html" title="{esc_report_s\n|+ timestamp\l+ esc_errorcount\l+ esc_rpm\l+ esc_voltage\l+ esc_current\l+ esc_temperature\land 7 more...\l|}" alt="" coords="164,5,295,171"/>
+<area shape="rect" id="node2" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html" title="{uORB::PublicationMulti\l\&lt; esc_status_s \&gt;\n|# _handle\l# _priority\l|+ PublicationMulti()\l+ ~PublicationMulti()\l+ publish()\l}" alt="" coords="5,270,164,406"/>
+<area shape="rect" id="node3" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="12,42,157,163"/>
+<area shape="rect" id="node4" href="$d7/d79/structesc__status__s.html" title="{esc_status_s\n|+ timestamp\l+ counter\l+ esc_count\l+ esc_connectiontype\l+ esc_online_flags\l+ _padding0\l|}" alt="" coords="188,263,339,413"/>
+<area shape="rect" id="node5" href="$da/dc3/structesc__report__s.html" title="{esc_report_s\n|+ timestamp\l+ esc_errorcount\l+ esc_rpm\l+ esc_voltage\l+ esc_current\l+ esc_temperature\l+ esc_address\l+ esc_state\l+ _padding0\l|}" alt="" coords="198,5,329,200"/>
 </map>

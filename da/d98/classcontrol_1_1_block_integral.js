@@ -1,7 +1,7 @@
 var classcontrol_1_1_block_integral =
 [
     [ "BlockIntegral", "da/d98/classcontrol_1_1_block_integral.html#a827825f34c787c036699bdb338df299f", null ],
-    [ "~BlockIntegral", "da/d98/classcontrol_1_1_block_integral.html#ab7dadec0487ef13d35049c0997ed5c85", null ],
+    [ "~BlockIntegral", "da/d98/classcontrol_1_1_block_integral.html#ae1452fa5105dd08a23eea180d42bf35a", null ],
     [ "getMax", "da/d98/classcontrol_1_1_block_integral.html#abbd8d36f953cea0879a3497bdd0af21c", null ],
     [ "getY", "da/d98/classcontrol_1_1_block_integral.html#ad175550378345ec13643f3bc6b930ce2", null ],
     [ "setY", "da/d98/classcontrol_1_1_block_integral.html#a09e3b41df9e0d3b851bd499bc0a2996d", null ],

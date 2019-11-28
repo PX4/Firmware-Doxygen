@@ -1,23 +1,4 @@
 <map id="TERARANGER::print_info" name="TERARANGER::print_info">
-<area shape="rect" id="node2" href="$da/dc8/namespaceteraranger.html#a1268a822fba627ac7b20816159964b97" title="Print a little info about the driver. " alt="" coords="231,173,340,200"/>
-<area shape="rect" id="node3" href="$d7/db0/teraranger_8cpp.html#aa26955b1a618f73984ca846a01e65da4" title="teraranger_main" alt="" coords="388,173,503,200"/>
-<area shape="rect" id="node4" href="$d7/db0/teraranger_8cpp.html#adfca4aaacc388b67c87559babec7bbb7" title="crc8" alt="" coords="551,173,597,200"/>
-<area shape="rect" id="node5" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#abe294b0787a8af5750b9a385070a18b7" title="TERARANGER::collect" alt="" coords="645,144,808,171"/>
-<area shape="rect" id="node15" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a4b98db7852f57caf3c2c88ff74fe2ec7" title="px4::bst::BST::send\l_packet" alt="" coords="657,195,796,237"/>
-<area shape="rect" id="node6" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a601a9ae835bf8cc0e3a1f10f7ee1ca12" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="856,144,1011,171"/>
-<area shape="rect" id="node14" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#ab1814c7317d7a8716be9ec3157b766fc" title="TERARANGER::read" alt="" coords="1095,93,1245,120"/>
-<area shape="rect" id="node7" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#ac86628f358c37ead91cd46556b25bfd2" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="1059,144,1281,171"/>
-<area shape="rect" id="node8" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a7a96d3ac7d0ce8e8a0e56f0b42ae8aac" title="Initialise the automatic measurement state machine and start it. " alt="" coords="1329,144,1480,171"/>
-<area shape="rect" id="node9" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a7336a604030727e3cc608a7771803cc2" title="TERARANGER::ioctl" alt="" coords="1528,144,1676,171"/>
-<area shape="rect" id="node10" href="$da/dc8/namespaceteraranger.html#aa98f7ec79fc236ed2008a4817cc07ba5" title="Reset the driver. " alt="" coords="1737,144,1854,171"/>
-<area shape="rect" id="node11" href="$da/dc8/namespaceteraranger.html#af2b09c2f35bdaaf510c9ce5be3ada61a" title="Start the driver on a specific bus. " alt="" coords="1724,312,1867,339"/>
-<area shape="rect" id="node13" href="$da/dc8/namespaceteraranger.html#a523c45ae06a2ea07f6296a21ff3835c6" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1740,93,1851,120"/>
-<area shape="rect" id="node12" href="$da/dc8/namespaceteraranger.html#a79a5c17bbe81130a545ed8903e2186c7" title="Attempt to start driver on all available I2C busses. " alt="" coords="1915,337,2029,364"/>
-<area shape="rect" id="node16" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#aceadf311908d901a7da807cad6950fd9" title="px4::bst::BST::probe" alt="" coords="862,203,1005,229"/>
-<area shape="rect" id="node17" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a65ce990aa49256b1f415396fa80bddec" title="px4::bst::BST::cycle" alt="" coords="862,253,1005,280"/>
-<area shape="rect" id="node18" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a4091bee8d9087018d0b21938bd6ef382" title="px4::bst::BST::cycle\l_trampoline" alt="" coords="1099,246,1241,287"/>
-<area shape="rect" id="node19" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a078527b7be3a0c23c837832de2a68405" title="px4::bst::BST::start" alt="" coords="1336,253,1473,280"/>
-<area shape="rect" id="node20" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#ad8b113c7ff5f5e4bfa89c9eb7df49d4a" title="px4::bst::BST::start\l_trampoline" alt="" coords="1533,246,1671,287"/>
-<area shape="rect" id="node21" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#ab3118eb7234400ae4ef98d9af632ff43" title="px4::bst::BST::init" alt="" coords="1731,253,1859,280"/>
-<area shape="rect" id="node22" href="$df/dae/bst_8cpp.html#a90f7503d61c90189317c62c5db76d3ec" title="bst_main" alt="" coords="1935,253,2009,280"/>
+<area shape="rect" id="node2" href="$da/dc8/namespaceteraranger.html#a449ea4fd954e29e4262131caa3124ea5" title="Print the driver status. " alt="" coords="231,5,355,32"/>
+<area shape="rect" id="node3" href="$d7/db0/teraranger_8cpp.html#a9de6cc2318cf655f22265e2d07c41dba" title="Driver &#39;main&#39; command. " alt="" coords="403,5,517,32"/>
 </map>

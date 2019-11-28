@@ -1,0 +1,51 @@
+<map id="MulticopterAttitudeControl::Run" name="MulticopterAttitudeControl::Run">
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="1070,356,1182,383"/>
+<area shape="rect" id="node3" href="$d9/d0c/class_multicopter_attitude_control.html#a5cdb410d4601bb24ebed927788237717" title="Attitude controller. " alt="" coords="267,610,440,651"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1107,639,1145,665"/>
+<area shape="rect" id="node14" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="528,1166,667,1207"/>
+<area shape="rect" id="node15" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="793,1349,931,1390"/>
+<area shape="rect" id="node21" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="793,1227,931,1269"/>
+<area shape="rect" id="node24" href="$d9/d0c/class_multicopter_attitude_control.html#ad9cd99568233a87506af5d669fa18f80" title="Generate &amp; publish an attitude setpoint from stick inputs. " alt="" coords="506,602,689,643"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1063,1005,1189,1032"/>
+<area shape="rect" id="node34" href="$d9/d0c/class_multicopter_attitude_control.html#a72315657f11582aefd1777046ee6b036" title="initialize some vectors/matrices from parameters " alt="" coords="267,378,440,419"/>
+<area shape="rect" id="node37" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="821,1031,903,1057"/>
+<area shape="rect" id="node38" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="826,1081,898,1108"/>
+<area shape="rect" id="node39" href="$d9/d0c/class_multicopter_attitude_control.html#a75cdd0f36b9fcb7f1683ece78092504e" title="MulticopterAttitudeControl\l::publish_rates_setpoint" alt="" coords="267,897,440,938"/>
+<area shape="rect" id="node41" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a42885c3adf9615ae6516728e295c589b" title="uORB::SubscriptionCallback\l::unregisterCallback" alt="" coords="259,1498,448,1539"/>
+<area shape="rect" id="node45" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#ac9198cc23c666df10af2a8fb3f809508" title="Copy the struct if updated. " alt="" coords="263,1283,444,1325"/>
+<area shape="rect" id="node48" href="$d9/d0c/class_multicopter_attitude_control.html#ac59e4e1e86ae18e388c468b3631726dc" title="MulticopterAttitudeControl\l::vehicle_status_poll" alt="" coords="267,1031,440,1073"/>
+<area shape="rect" id="node4" href="$d9/d57/class_attitude_control.html#aac180ba23a01fc3d0c4fe158ff706fac" title="Run one control loop cycle calculation. " alt="" coords="784,247,940,273"/>
+<area shape="rect" id="node5" href="$d5/d0f/classmatrix_1_1_quaternion.html#a5bd26d30a6b2b84d0a072c6a1a6e5abd" title="Corresponding body z&#45;axis to an attitude quaternion / last orthogonal unit basis vector. " alt="" coords="1061,57,1191,98"/>
+<area shape="rect" id="node6" href="$dd/df8/classmatrix_1_1_matrix.html#ab5da1a35f0384913634db9515865d474" title="matrix::Matrix::emult" alt="" coords="1055,123,1197,149"/>
+<area shape="rect" id="node10" href="$d5/d0f/classmatrix_1_1_quaternion.html#ad1ca735637489bb4236dadd56015b843" title="Imaginary components of quaternion. " alt="" coords="1061,174,1191,215"/>
+<area shape="rect" id="node11" href="$d5/d0f/classmatrix_1_1_quaternion.html#a927139e64c756ccec9a55c3047dd047d" title="Invert quaternion. " alt="" coords="1061,239,1191,281"/>
+<area shape="rect" id="node12" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="1042,305,1210,332"/>
+<area shape="rect" id="node13" href="$dd/d47/namespacemath.html#a4934517a579458a694be9f675a27cb45" title="math::signNoZero" alt="" coords="1063,5,1189,32"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1321,639,1403,665"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1497,639,1584,665"/>
+<area shape="rect" id="node16" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="1057,1318,1195,1359"/>
+<area shape="rect" id="node20" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1025,1383,1227,1425"/>
+<area shape="rect" id="node17" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="1293,1298,1431,1339"/>
+<area shape="rect" id="node18" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="1284,1363,1440,1405"/>
+<area shape="rect" id="node19" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="1293,1439,1431,1481"/>
+<area shape="rect" id="node22" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1039,1235,1213,1261"/>
+<area shape="rect" id="node23" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1275,1227,1449,1269"/>
+<area shape="rect" id="node25" href="$dd/df8/classmatrix_1_1_matrix.html#a46af950c7f4bdbba51525788362f1d85" title="matrix::Matrix::copyTo" alt="" coords="785,508,939,535"/>
+<area shape="rect" id="node27" href="$d1/d71/classmatrix_1_1_vector.html#a100f3b10c5572ccd38edc745d99ef98d" title="matrix::Vector::norm" alt="" coords="791,559,933,585"/>
+<area shape="rect" id="node28" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="802,828,922,855"/>
+<area shape="rect" id="node31" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="811,407,913,433"/>
+<area shape="rect" id="node32" href="$d9/d0c/class_multicopter_attitude_control.html#a8ef1500c956dca6e44019669855e9250" title="MulticopterAttitudeControl\l::throttle_curve" alt="" coords="775,661,949,702"/>
+<area shape="rect" id="node33" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="807,457,917,484"/>
+<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="1059,853,1193,880"/>
+<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="1085,803,1167,829"/>
+<area shape="rect" id="node35" href="$d9/d57/class_attitude_control.html#a4948e214e9722e08ce52dc799978d67c" title="Set proportional attitude control gain. " alt="" coords="747,356,977,383"/>
+<area shape="rect" id="node36" href="$d9/d57/class_attitude_control.html#ac3d0e5d227e086eddbae4a46f8866d68" title="Set hard limit for output rate setpoints. " alt="" coords="516,239,679,281"/>
+<area shape="rect" id="node40" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="528,897,667,938"/>
+<area shape="rect" id="node42" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acfefc1961589348321e83851139512ce" title="uORB::Subscription\l::get_node" alt="" coords="528,1466,667,1507"/>
+<area shape="rect" id="node43" href="$d0/d18/classu_o_r_b_1_1_device_node.html#aaaafc67863a203c52647a8dab4f48f2e" title="uORB::DeviceNode::unregister\l_callback" alt="" coords="496,1597,699,1638"/>
+<area shape="rect" id="node44" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a66f5f5f9f7217f855f54fbcd48e69c52" title="uORB::SubscriptionCallback\l::call" alt="" coords="503,1531,692,1573"/>
+<area shape="rect" id="node46" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#aa1c12b83d65604e306b919a2c224e32e" title="Check if there is a new update. " alt="" coords="507,1349,688,1390"/>
+<area shape="rect" id="node47" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#a25125ed09772665d3b4b4e6978fb3e1c" title="Copy the struct. " alt="" coords="507,1283,688,1325"/>
+<area shape="rect" id="node49" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="556,1064,639,1091"/>
+<area shape="rect" id="node50" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="554,1013,641,1040"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="MPU9250_mag::ak8963_setup" name="MPU9250_mag::ak8963_setup">
+<area shape="rect" id="node2" href="$d5/d16/class_m_p_u9250__mag.html#a05d7848f18ffd4fa8ce8eb348106695f" title="MPU9250_mag::ak8963\l_check_id" alt="" coords="216,421,379,462"/>
+<area shape="rect" id="node5" href="$d5/d16/class_m_p_u9250__mag.html#adea1751a0228dde6dbf8dcec6a3caa9c" title="MPU9250_mag::set_passthrough" alt="" coords="919,299,1135,325"/>
+<area shape="rect" id="node6" href="$df/dd9/class_m_p_u9250.html#ad1709c24cbe9e442c6f097c855b9bbb8" title="Write a register in the mpu. " alt="" coords="1205,223,1347,249"/>
+<area shape="rect" id="node10" href="$d5/d16/class_m_p_u9250__mag.html#af8883d49dda86c44a059a284d6c35f70" title="MPU9250_mag::ak8963\l_read_adjustments" alt="" coords="216,525,379,566"/>
+<area shape="rect" id="node22" href="$d5/d16/class_m_p_u9250__mag.html#adc6747d96e400031f52949fabef851f8" title="MPU9250_mag::write_reg" alt="" coords="427,349,600,376"/>
+<area shape="rect" id="node24" href="$d5/d16/class_m_p_u9250__mag.html#a9156db865ad78a6dd9e718424afce215" title="MPU9250_mag::ak8963\l_setup_master_i2c" alt="" coords="432,131,595,173"/>
+<area shape="rect" id="node25" href="$df/dd9/class_m_p_u9250.html#aaaca4e35cd5cb4c50127073217af0bd0" title="Modify a checked register in the mpu. " alt="" coords="655,181,863,208"/>
+<area shape="rect" id="node28" href="$df/dd9/class_m_p_u9250.html#a50b91655e63f68a9fa3d989a5f75f051" title="Modify a register in the mpu. " alt="" coords="683,131,835,157"/>
+<area shape="rect" id="node3" href="$d5/d16/class_m_p_u9250__mag.html#ad71c13a5e0b2ea6c3aa9a2faf11bc487" title="MPU9250_mag::read_reg" alt="" coords="428,476,599,503"/>
+<area shape="rect" id="node4" href="$d5/d16/class_m_p_u9250__mag.html#ae46a0f0911a434547ce139050e0e245e" title="MPU9250_mag::passthrough_read" alt="" coords="648,425,871,452"/>
+<area shape="rect" id="node9" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="1205,476,1347,503"/>
+<area shape="rect" id="node8" href="$d5/d16/class_m_p_u9250__mag.html#af6d0217b27c0a1b0be69979fe77e0e30" title="MPU9250_mag::read_block" alt="" coords="935,451,1118,477"/>
+<area shape="rect" id="node7" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="1417,299,1563,325"/>
+<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="494,745,533,772"/>
+<area shape="rect" id="node14" href="$df/d71/class_p_x4_magnetometer.html#a196ce6b0191d430775e90dd537e408b8" title="PX4Magnetometer::set\l_sensitivity" alt="" coords="435,603,591,645"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="718,825,801,852"/>
+<area shape="rect" id="node13" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="983,825,1070,852"/>
+<area shape="rect" id="node15" href="$df/d71/class_p_x4_magnetometer.html#a4c4f95cfec9c4b4b0515bfd8475f3f3a" title="PX4Magnetometer::update" alt="" coords="671,669,848,696"/>
+<area shape="rect" id="node21" href="$df/d71/class_p_x4_magnetometer.html#a983368af8034f0c6a50ce79aba548663" title="PX4Magnetometer::print\l_status" alt="" coords="678,603,841,645"/>
+<area shape="rect" id="node16" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="921,607,1133,633"/>
+<area shape="rect" id="node17" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="990,775,1063,801"/>
+<area shape="rect" id="node18" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="947,657,1106,684"/>
+<area shape="rect" id="node20" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#a42d8c47f80211bac32dfdf1792609a83" title="uORB::PublicationMultiData\l::update" alt="" coords="933,709,1120,750"/>
+<area shape="rect" id="node19" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1183,657,1369,684"/>
+<area shape="rect" id="node23" href="$d5/d16/class_m_p_u9250__mag.html#aaba06f81d78e4bbd63af7bafc27fd86e" title="MPU9250_mag::passthrough\l_write" alt="" coords="664,233,855,274"/>
+<area shape="rect" id="node26" href="$df/dd9/class_m_p_u9250.html#a9e211d7a42a413678b084358a0bdf055" title="Read a register from the mpu. " alt="" coords="957,147,1096,173"/>
+<area shape="rect" id="node27" href="$df/dd9/class_m_p_u9250.html#aad574c302a288d9dfa495e473904d4f3" title="Write a register in the mpu, updating _checked_values. " alt="" coords="928,197,1125,224"/>
+</map>

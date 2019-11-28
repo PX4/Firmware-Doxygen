@@ -1,18 +1,17 @@
-<map id="src/modules/uavcan/uavcan_servers.hpp" name="src/modules/uavcan/uavcan_servers.hpp">
-<area shape="rect" id="node4" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="366,206,522,233"/>
-<area shape="rect" id="node25" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="5,512,136,539"/>
-<area shape="rect" id="node42" href="$dc/d91/uavcan__module_8hpp.html" title="uavcan_module.hpp" alt="" coords="369,109,508,136"/>
-<area shape="rect" id="node43" href="$d0/d9d/uavcan__virtual__can__driver_8hpp.html" title="uavcan_virtual_can\l_driver.hpp" alt="" coords="3347,102,3482,143"/>
-<area shape="rect" id="node5" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="493,363,581,389"/>
-<area shape="rect" id="node23" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="578,288,659,315"/>
-<area shape="rect" id="node6" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="861,437,957,464"/>
-<area shape="rect" id="node7" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="745,437,837,464"/>
-<area shape="rect" id="node18" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="311,437,449,464"/>
-<area shape="rect" id="node8" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="351,587,454,613"/>
-<area shape="rect" id="node11" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="683,512,776,539"/>
-<area shape="rect" id="node16" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="1379,512,1466,539"/>
-<area shape="rect" id="node9" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="363,661,442,688"/>
-<area shape="rect" id="node20" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="331,512,429,539"/>
-<area shape="rect" id="node21" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="555,512,659,539"/>
-<area shape="rect" id="node24" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="657,363,821,389"/>
+<map id="src/drivers/uavcan/uavcan_servers.hpp" name="src/drivers/uavcan/uavcan_servers.hpp">
+<area shape="rect" id="node3" href="$df/d79/uavcan__driver_8hpp.html" title="uavcan_driver.hpp" alt="" coords="1243,109,1371,136"/>
+<area shape="rect" id="node4" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="163,295,336,322"/>
+<area shape="rect" id="node13" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="663,467,811,493"/>
+<area shape="rect" id="node14" href="$dc/de7/_publication_8hpp.html" title="uORB/Publication.hpp" alt="" coords="1067,109,1218,136"/>
+<area shape="rect" id="node20" href="$de/d61/_publication_queued_8hpp.html" title="uORB/PublicationQueued.hpp" alt="" coords="847,109,1043,136"/>
+<area shape="rect" id="node21" href="$df/d84/uavcan__parameter__value_8h.html" title="uORB/topics/uavcan\l_parameter_value.h" alt="" coords="629,102,771,143"/>
+<area shape="rect" id="node22" href="$db/d2e/vehicle__command__ack_8h.html" title="uORB/topics/vehicle\l_command_ack.h" alt="" coords="462,102,605,143"/>
+<area shape="rect" id="node39" href="$dc/d91/uavcan__module_8hpp.html" title="uavcan_module.hpp" alt="" coords="248,109,387,136"/>
+<area shape="rect" id="node41" href="$d0/d9d/uavcan__virtual__can__driver_8hpp.html" title="uavcan_virtual_can\l_driver.hpp" alt="" coords="1497,102,1631,143"/>
+<area shape="rect" id="node6" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="184,385,323,411"/>
+<area shape="rect" id="node9" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="242,467,339,493"/>
+<area shape="rect" id="node11" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="484,467,588,493"/>
+<area shape="rect" id="node15" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="958,206,1066,233"/>
+<area shape="rect" id="node19" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="645,206,755,233"/>
+<area shape="rect" id="node40" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="179,206,335,233"/>
 </map>

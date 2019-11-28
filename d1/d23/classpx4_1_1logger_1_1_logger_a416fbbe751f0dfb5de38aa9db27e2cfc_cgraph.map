@@ -1,0 +1,51 @@
+<map id="px4::logger::Logger::write_parameters" name="px4::logger::Logger::write_parameters">
+<area shape="rect" id="node2" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae10eaee85ef26391dc3a249582877661" title="px4::logger::LogWriter\l::lock" alt="" coords="187,5,337,47"/>
+<area shape="rect" id="node4" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a28404b4d453b3c5383bef5491aba5471" title="px4::logger::LogWriter\l::notify" alt="" coords="187,71,337,112"/>
+<area shape="rect" id="node6" href="$d5/d33/param_8h.html#a5db0a03d71b22ef1fee779618c3fd218" title="Return the total number of parameters. " alt="" coords="826,137,923,163"/>
+<area shape="rect" id="node8" href="$d5/d33/param_8h.html#a9c1329f79bf8904382bd00072ba448cf" title="Look up a parameter by index. " alt="" coords="203,187,321,214"/>
+<area shape="rect" id="node9" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="221,770,303,797"/>
+<area shape="rect" id="node43" href="$d5/d33/param_8h.html#a41afda73b490911d29d6eb7c4e89a58d" title="Obtain the name of a parameter. " alt="" coords="213,238,311,265"/>
+<area shape="rect" id="node44" href="$d5/d33/param_8h.html#a67c031ecddf3189149d20d7ef6295748" title="Obtain the type of a parameter. " alt="" coords="217,289,307,315"/>
+<area shape="rect" id="node45" href="$d5/d33/param_8h.html#a8d313444dc6a8974ce67a0eee4bf2189" title="Wether a parameter is in use in the system. " alt="" coords="215,339,309,366"/>
+<area shape="rect" id="node47" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a508107fb7c37d46f50405b71e5100317" title="px4::logger::LogWriter\l::unlock" alt="" coords="187,1293,337,1335"/>
+<area shape="rect" id="node49" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1742d5670c991116aa814d5db570f0cc" title="Write exactly one ulog message to the logger and handle dropouts. " alt="" coords="609,1572,742,1613"/>
+<area shape="rect" id="node3" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ac55359827358061773fea15364377152" title="px4::logger::LogWriterFile\l::lock" alt="" coords="385,5,556,47"/>
+<area shape="rect" id="node5" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a327a2d7285da3ee38df18c4533741916" title="px4::logger::LogWriterFile\l::notify" alt="" coords="385,71,556,112"/>
+<area shape="rect" id="node7" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1007,187,1158,214"/>
+<area shape="rect" id="node10" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="656,694,695,721"/>
+<area shape="rect" id="node12" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1025,821,1141,847"/>
+<area shape="rect" id="node14" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="399,542,542,569"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="405,745,537,771"/>
+<area shape="rect" id="node20" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="627,745,724,771"/>
+<area shape="rect" id="node21" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="405,1090,537,1117"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="829,897,920,923"/>
+<area shape="rect" id="node39" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="634,1470,717,1497"/>
+<area shape="rect" id="node40" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="639,1521,711,1547"/>
+<area shape="rect" id="node41" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="426,441,515,467"/>
+<area shape="rect" id="node42" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="397,795,544,822"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="833,694,916,721"/>
+<area shape="rect" id="node13" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1211,821,1361,847"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="817,339,933,366"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="801,567,948,594"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="604,542,747,569"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="630,441,721,467"/>
+<area shape="rect" id="node22" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="795,1419,955,1446"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="616,1369,735,1395"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1003,1267,1163,1294"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="803,1267,946,1294"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="604,1217,747,1243"/>
+<area shape="rect" id="node34" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="604,999,747,1040"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="611,1065,739,1091"/>
+<area shape="rect" id="node36" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="607,1115,743,1142"/>
+<area shape="rect" id="node37" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="631,846,720,873"/>
+<area shape="rect" id="node38" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="604,1166,747,1193"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1020,1521,1145,1547"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="814,1369,935,1395"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="1034,1318,1131,1345"/>
+<area shape="rect" id="node27" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="1041,1369,1124,1395"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="1031,1419,1134,1446"/>
+<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1031,1470,1134,1497"/>
+<area shape="rect" id="node46" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a7a74545fb539a29ccb58c34cfdd73e6e" title="Look up the index of a parameter. " alt="" coords="410,339,531,366"/>
+<area shape="rect" id="node48" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aa4e03b937b0e70adddaf9eee2dab41e4" title="px4::logger::LogWriterFile\l::unlock" alt="" coords="385,1293,556,1335"/>
+<area shape="rect" id="node50" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af979624205da69c1b164b3cfdb30376e" title="Write a single ulog message (including header). " alt="" coords="799,1572,950,1613"/>
+</map>

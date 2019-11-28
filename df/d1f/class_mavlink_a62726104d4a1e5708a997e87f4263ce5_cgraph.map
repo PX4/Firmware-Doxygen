@@ -1,14 +1,20 @@
 <map id="Mavlink::send_bytes" name="Mavlink::send_bytes">
-<area shape="rect" id="node2" href="$df/d1f/class_mavlink.html#ae2b7a731ed5f81243932716d5b984881" title="Count transmitted bytes. " alt="" coords="203,5,361,32"/>
-<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a6030186f61f8593ab74288e9a8c6a0ec" title="Count a transmission error. " alt="" coords="212,56,352,83"/>
-<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a0ac057f44c23df9187ade0f1a57e67de" title="Count bytes not transmitted because of errors. " alt="" coords="196,107,368,133"/>
-<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#a2d450930bd605c13ed783a1d02b42e13" title="Get the free space in the transmit buffer. " alt="" coords="199,157,365,184"/>
-<area shape="rect" id="node8" href="$df/d1f/class_mavlink.html#a474006ce18119a292b0819abbb038180" title="Mavlink::get_protocol" alt="" coords="427,208,573,235"/>
-<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="219,259,345,285"/>
-<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a4a775bd09b746cc56f26c3b7b2438e12" title="Mavlink::should_transmit" alt="" coords="199,309,365,336"/>
-<area shape="rect" id="node13" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="257,360,307,387"/>
-<area shape="rect" id="node4" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="459,40,541,67"/>
-<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#a61ea072650f5b804542c35c5cc509173" title="Enable / disable hardware flow control. " alt="" coords="428,91,572,133"/>
-<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="439,157,561,184"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#a1c7d9b0bcbd0ba099fe6ef7958e4f527" title="Mavlink::message_buffer\l_write" alt="" coords="416,302,584,343"/>
+<area shape="rect" id="node2" href="$df/d1f/class_mavlink.html#ae2b7a731ed5f81243932716d5b984881" title="Count transmitted bytes. " alt="" coords="203,183,361,209"/>
+<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a0ac057f44c23df9187ade0f1a57e67de" title="Count bytes not transmitted because of errors. " alt="" coords="196,233,368,260"/>
+<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#a2d450930bd605c13ed783a1d02b42e13" title="Get the free space in the transmit buffer. " alt="" coords="199,284,365,311"/>
+<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#aec8d15f58a1fca8faf7b9dd70ad5b8d7" title="Mavlink::get_protocol" alt="" coords="416,335,563,361"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="631,512,757,539"/>
+<area shape="rect" id="node19" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="257,436,307,463"/>
+<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a61ea072650f5b804542c35c5cc509173" title="Enable / disable hardware flow control. " alt="" coords="417,218,561,259"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="429,284,550,311"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="645,56,743,83"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="653,107,735,133"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="643,157,745,184"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="643,208,745,235"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="650,259,738,285"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="655,309,733,336"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="653,360,735,387"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="611,411,777,437"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="663,461,725,488"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="613,5,775,32"/>
 </map>

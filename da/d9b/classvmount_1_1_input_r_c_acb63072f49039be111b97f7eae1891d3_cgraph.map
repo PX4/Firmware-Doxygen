@@ -1,24 +1,19 @@
 <map id="vmount::InputRC::update_impl" name="vmount::InputRC::update_impl">
-<area shape="rect" id="node2" href="$da/d9b/classvmount_1_1_input_r_c.html#a822b8ad1cbe6f80f579d7f5b87f716de" title="vmount::InputRC::_read\l_control_data_from_subscription" alt="" coords="253,85,464,127"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="323,231,394,258"/>
-<area shape="rect" id="node3" href="$da/d9b/classvmount_1_1_input_r_c.html#aac0a72dbebdd8b5ce2327059bcdff194" title="vmount::InputRC::_get\l_aux_value" alt="" coords="512,115,667,156"/>
-<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="570,63,609,90"/>
-<area shape="rect" id="node5" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="552,13,627,39"/>
-<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="732,5,875,47"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="715,71,892,98"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="940,5,1083,47"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1135,17,1261,43"/>
-<area shape="rect" id="node9" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1313,67,1448,94"/>
-<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1329,17,1433,43"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1503,30,1642,57"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1496,93,1649,119"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="974,71,1049,98"/>
-<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1343,118,1418,145"/>
-<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1131,67,1265,94"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="524,282,655,309"/>
-<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="543,181,636,207"/>
-<area shape="rect" id="node23" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="559,231,619,258"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="738,275,869,316"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="727,144,880,185"/>
-<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="734,209,873,251"/>
+<area shape="rect" id="node2" href="$da/d9b/classvmount_1_1_input_r_c.html#a822b8ad1cbe6f80f579d7f5b87f716de" title="vmount::InputRC::_read\l_control_data_from_subscription" alt="" coords="253,99,464,140"/>
+<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="323,190,394,217"/>
+<area shape="rect" id="node3" href="$da/d9b/classvmount_1_1_input_r_c.html#aac0a72dbebdd8b5ce2327059bcdff194" title="vmount::InputRC::_get\l_aux_value" alt="" coords="512,5,667,47"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="570,71,609,98"/>
+<area shape="rect" id="node7" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="552,122,627,149"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="762,22,845,49"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="968,22,1055,49"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="732,73,875,115"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="715,139,892,166"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="940,73,1083,115"/>
+<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="974,139,1049,166"/>
+<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1156,190,1231,217"/>
+<area shape="rect" id="node13" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="1131,139,1256,166"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="529,270,649,297"/>
+<area shape="rect" id="node16" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="725,241,881,267"/>
+<area shape="rect" id="node17" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="732,292,875,333"/>
+<area shape="rect" id="node18" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="725,357,881,399"/>
 </map>

@@ -1,51 +1,34 @@
 <map id="Mission::do_abort_landing" name="Mission::do_abort_landing">
-<area shape="rect" id="node2" href="$da/d7b/class_mission_block.html#ab1ec02b6ac5b533b1d2981f87067c739" title="MissionBlock::get_absolute\l_altitude_for_item" alt="" coords="227,77,409,118"/>
-<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="651,336,829,377"/>
-<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="457,237,603,278"/>
-<area shape="rect" id="node6" href="$db/dad/class_mission.html#a600181cb024499ab4273c3455c6b45aa" title="Mission::get_land_start\l_index" alt="" coords="239,208,397,249"/>
-<area shape="rect" id="node7" href="$d0/df9/class_navigator.html#a02be59300eb6d37c39bd4aa1b948d516" title="Navigator::get_loiter\l_min_alt" alt="" coords="461,302,599,344"/>
-<area shape="rect" id="node8" href="$d0/df9/class_navigator.html#aefb68d38e1a80fd6bdc6c810f4f842d1" title="Navigator::get_loiter\l_radius" alt="" coords="461,586,599,628"/>
-<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="240,376,396,417"/>
-<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="240,441,396,482"/>
-<area shape="rect" id="node23" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="488,652,572,679"/>
-<area shape="rect" id="node24" href="$da/d7b/class_mission_block.html#a8cb90e6258e8c99a0c4d1738308b8233" title="General function used to adjust the mission item based on vehicle specific limitations. " alt="" coords="241,142,395,184"/>
-<area shape="rect" id="node26" href="$da/d7b/class_mission_block.html#abf7e746ff80d9c2a1df6dad353f07eeb" title="Convert a mission item to a position setpoint. " alt="" coords="229,506,407,548"/>
-<area shape="rect" id="node28" href="$d0/df9/class_navigator.html#aa0008ff5b06fc82b3d3707b0779ea01b" title="Navigator::publish\l_vehicle_cmd" alt="" coords="255,888,381,929"/>
-<area shape="rect" id="node50" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="235,953,401,994"/>
-<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="459,106,601,148"/>
-<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="665,597,815,638"/>
-<area shape="rect" id="node10" href="$d0/df9/class_navigator.html#a99ffced3ab485575b385454433aa105f" title="Get the altitude acceptance radius. " alt="" coords="663,466,817,508"/>
-<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#aeac4bfdde502928eb5b2ac03f8de5615" title="Get the cruising speed. " alt="" coords="662,532,818,573"/>
-<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="947,695,985,722"/>
-<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#a74b7532beec44c110e8dd61bbeaa5e53" title="Set the cruising speed. " alt="" coords="662,662,818,704"/>
-<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#a118e53f014f6d15a14d4a5188eee47c5" title="Reset cruising speed to default values. " alt="" coords="657,728,823,769"/>
-<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#aadb6e4e2fc72366317916bf4c0672d28" title="Set triplets to invalid. " alt="" coords="659,844,821,871"/>
-<area shape="rect" id="node20" href="$d0/df9/class_navigator.html#a430adf0c9a74dbeff4ff33f1c34c1117" title="Get the target throttle. " alt="" coords="662,401,818,442"/>
-<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="889,354,1043,380"/>
-<area shape="rect" id="node12" href="$df/d08/commander__helper_8cpp.html#a90a80fd140e5e1feba80ba0c5ef25c7c" title="is_rotary_wing" alt="" coords="913,474,1019,500"/>
-<area shape="rect" id="node13" href="$df/d08/commander__helper_8cpp.html#a11b38c975bd7707de957c1a32b45297a" title="is_multirotor" alt="" coords="1127,474,1221,500"/>
-<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#a11e8849cec37173aeec7b8dce2a17bc0" title="Navigator::is_planned\l_mission" alt="" coords="892,532,1040,573"/>
-<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="463,172,597,213"/>
-<area shape="rect" id="node27" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="463,521,597,562"/>
-<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="467,946,593,972"/>
-<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="922,1822,1010,1848"/>
-<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="459,895,601,922"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1528,1690,1671,1732"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1103,1690,1245,1732"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1719,1690,1861,1732"/>
-<area shape="rect" id="node34" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1293,1698,1480,1724"/>
-<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="669,1312,811,1353"/>
-<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="895,1690,1037,1732"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="895,1756,1037,1797"/>
-<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="895,946,1037,988"/>
-<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="895,1012,1037,1053"/>
-<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="895,1077,1037,1118"/>
-<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="877,1143,1055,1170"/>
-<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="895,1194,1037,1236"/>
-<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="881,1260,1051,1287"/>
-<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="895,1312,1037,1353"/>
-<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="895,1377,1037,1418"/>
-<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="895,1442,1037,1484"/>
-<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="895,1508,1037,1549"/>
-<area shape="rect" id="node49" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="890,1573,1042,1614"/>
+<area shape="rect" id="node2" href="$da/d7b/class_mission_block.html#a2c7cca2725589876053fee7474d77517" title="MissionBlock::get_absolute\l_altitude_for_item" alt="" coords="452,763,635,804"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="683,48,861,89"/>
+<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="471,193,616,235"/>
+<area shape="rect" id="node6" href="$db/dad/class_mission.html#a82bf6039f8a535b9493e5a372d4b4562" title="Mission::get_land_start\l_index" alt="" coords="237,252,394,293"/>
+<area shape="rect" id="node7" href="$d0/df9/class_navigator.html#a81cac92a12f8e6212611549676d2ec90" title="Navigator::get_loiter\l_min_alt" alt="" coords="474,259,613,300"/>
+<area shape="rect" id="node8" href="$d0/df9/class_navigator.html#aefb68d38e1a80fd6bdc6c810f4f842d1" title="Navigator::get_loiter\l_radius" alt="" coords="474,376,613,417"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="925,23,1081,64"/>
+<area shape="rect" id="node24" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="237,471,393,512"/>
+<area shape="rect" id="node25" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="501,325,585,351"/>
+<area shape="rect" id="node26" href="$da/d7b/class_mission_block.html#a8cb90e6258e8c99a0c4d1738308b8233" title="General function used to adjust the mission item based on vehicle specific limitations. " alt="" coords="239,821,392,863"/>
+<area shape="rect" id="node28" href="$da/d7b/class_mission_block.html#abf7e746ff80d9c2a1df6dad353f07eeb" title="Convert a mission item to a position setpoint. " alt="" coords="227,540,404,581"/>
+<area shape="rect" id="node31" href="$d0/df9/class_navigator.html#aa0008ff5b06fc82b3d3707b0779ea01b" title="Navigator::publish\l_vehicle_cmd" alt="" coords="252,887,379,928"/>
+<area shape="rect" id="node33" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="232,952,399,993"/>
+<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Getters. " alt="" coords="701,763,843,804"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="697,464,847,505"/>
+<area shape="rect" id="node10" href="$d0/df9/class_navigator.html#ae191bbfacd7ad2a0f90dee6083a27833" title="Get the default altitude acceptance radius (i.e. " alt="" coords="909,172,1096,213"/>
+<area shape="rect" id="node13" href="$d0/df9/class_navigator.html#a99ffced3ab485575b385454433aa105f" title="Get the altitude acceptance radius. " alt="" coords="695,113,849,155"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#aeac4bfdde502928eb5b2ac03f8de5615" title="Get the cruising speed. " alt="" coords="694,529,850,571"/>
+<area shape="rect" id="node17" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="983,379,1022,406"/>
+<area shape="rect" id="node20" href="$d0/df9/class_navigator.html#a74b7532beec44c110e8dd61bbeaa5e53" title="Set the cruising speed. " alt="" coords="694,281,850,323"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a118e53f014f6d15a14d4a5188eee47c5" title="Reset cruising speed to default values. " alt="" coords="689,347,855,388"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#aadb6e4e2fc72366317916bf4c0672d28" title="Set triplets to invalid. " alt="" coords="691,413,853,439"/>
+<area shape="rect" id="node23" href="$d0/df9/class_navigator.html#a430adf0c9a74dbeff4ff33f1c34c1117" title="Get the target throttle. " alt="" coords="694,595,850,636"/>
+<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="1163,205,1317,231"/>
+<area shape="rect" id="node12" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="1144,154,1336,181"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#aca8c3a06f58e11663e5b17ac32763d12" title="Navigator::is_planned\l_mission" alt="" coords="929,529,1077,571"/>
+<area shape="rect" id="node18" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1199,379,1281,406"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1384,379,1471,406"/>
+<area shape="rect" id="node27" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="476,828,611,869"/>
+<area shape="rect" id="node29" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="477,544,610,585"/>
+<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="481,894,606,921"/>
+<area shape="rect" id="node32" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="456,996,631,1037"/>
 </map>

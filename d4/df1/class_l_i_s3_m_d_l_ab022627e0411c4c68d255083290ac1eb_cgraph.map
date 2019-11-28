@@ -1,14 +1,12 @@
 <map id="LIS3MDL::init" name="LIS3MDL::init">
-<area shape="rect" id="node2" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="189,5,277,32"/>
-<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="156,57,309,98"/>
-<area shape="rect" id="node8" href="$d4/df1/class_l_i_s3_m_d_l.html#a3007cfc9b50253ac0e16ca54ea6090d5" title="Resets the device. " alt="" coords="175,123,290,149"/>
-<area shape="rect" id="node3" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="369,5,495,32"/>
-<area shape="rect" id="node5" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="380,64,484,91"/>
-<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="562,20,701,47"/>
-<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="555,71,708,97"/>
-<area shape="rect" id="node9" href="$d4/df1/class_l_i_s3_m_d_l.html#a317d0ea8acbc0994d6e2267293711649" title="Configures the device with default register values. " alt="" coords="357,115,507,157"/>
-<area shape="rect" id="node11" href="$d4/df1/class_l_i_s3_m_d_l.html#a45b33da9ef047fd12f8dd22a59f94b02" title="Sets the sensor internal range to handle at least the argument in Gauss. " alt="" coords="361,181,503,208"/>
-<area shape="rect" id="node10" href="$d4/df1/class_l_i_s3_m_d_l.html#a6911f88651146683e05bf5b6c0d242e3" title="Writes a register. " alt="" coords="562,127,701,153"/>
-<area shape="rect" id="node12" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="590,179,673,205"/>
-<area shape="rect" id="node13" href="$d4/df1/class_l_i_s3_m_d_l.html#a0987d5f6d767c628e8e88c2b4fab30fd" title="Reads a register. " alt="" coords="564,229,699,256"/>
+<area shape="rect" id="node2" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="159,5,295,47"/>
+<area shape="rect" id="node3" href="$d8/d26/classcdev_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="156,71,299,112"/>
+<area shape="rect" id="node5" href="$d4/df1/class_l_i_s3_m_d_l.html#a3007cfc9b50253ac0e16ca54ea6090d5" title="Resets the device. " alt="" coords="170,137,285,163"/>
+<area shape="rect" id="node4" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="369,78,473,105"/>
+<area shape="rect" id="node6" href="$d4/df1/class_l_i_s3_m_d_l.html#a317d0ea8acbc0994d6e2267293711649" title="Configures the device with default register values. " alt="" coords="347,129,496,171"/>
+<area shape="rect" id="node8" href="$d4/df1/class_l_i_s3_m_d_l.html#a45b33da9ef047fd12f8dd22a59f94b02" title="Sets the sensor internal range to handle at least the argument in Gauss. " alt="" coords="350,195,493,222"/>
+<area shape="rect" id="node7" href="$d4/df1/class_l_i_s3_m_d_l.html#a6911f88651146683e05bf5b6c0d242e3" title="Writes a register. " alt="" coords="544,138,683,165"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="572,193,655,219"/>
+<area shape="rect" id="node11" href="$d4/df1/class_l_i_s3_m_d_l.html#a0987d5f6d767c628e8e88c2b4fab30fd" title="Reads a register. " alt="" coords="546,243,681,270"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="731,193,856,219"/>
 </map>

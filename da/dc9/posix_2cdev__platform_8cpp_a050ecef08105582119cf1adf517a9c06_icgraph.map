@@ -1,0 +1,51 @@
+<map id="px4_close" name="px4_close">
+<area shape="rect" id="node2" href="$d4/d15/class_vtol_type.html#af7839e1eee1a6b0b392ab22286b90171" title="Adjust minimum/maximum pwm values for the output channels. " alt="" coords="146,53,294,94"/>
+<area shape="rect" id="node6" href="$d8/d15/blinkm_8cpp.html#a778639390cc24f093776cd3f02e364eb" title="blinkm_main" alt="" coords="173,123,267,149"/>
+<area shape="rect" id="node7" href="$d2/dd2/namespacehmc5883.html#aa87486b215ec4ccecc3b99d64f81014c" title="Automatic scale calibration. " alt="" coords="154,224,286,251"/>
+<area shape="rect" id="node10" href="$d7/da9/calibration__routines_8h.html#acdad53be697f37d7a6082152b0be508b" title="Perform calibration sequence which require a rest orientation detection prior to calibration. " alt="" coords="135,427,305,453"/>
+<area shape="rect" id="node11" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="366,326,506,367"/>
+<area shape="rect" id="node12" href="$d0/db5/accelerometer__calibration_8h.html#ad01f28350f810d176a4ae4bc4e9fa81f" title="do_accel_calibration" alt="" coords="597,491,737,517"/>
+<area shape="rect" id="node14" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="815,592,991,619"/>
+<area shape="rect" id="node16" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="375,503,497,529"/>
+<area shape="rect" id="node17" href="$d4/db8/mag__calibration_8h.html#afc0e4e0619e1f2846eeec88a20aa9b8e" title="do_mag_calibration" alt="" coords="599,541,734,568"/>
+<area shape="rect" id="node18" href="$d2/de1/class_p_g_a460.html#a71a7887e10c2cd11a61704ed03002bb0" title="Closes the serial port. " alt="" coords="146,781,294,808"/>
+<area shape="rect" id="node20" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="587,592,746,619"/>
+<area shape="rect" id="node21" href="$d1/d14/esc__calibration_8h.html#a076fa55d1c50ba98926631180977e012" title="do_esc_calibration" alt="" coords="601,643,732,669"/>
+<area shape="rect" id="node22" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="599,440,734,467"/>
+<area shape="rect" id="node23" href="$da/d89/class_mavlink_receiver.html#ac9ef0baa0b3103aed0ec308b735f2182" title="MavlinkReceiver::handle\l_message_play_tune" alt="" coords="137,833,303,874"/>
+<area shape="rect" id="node25" href="$d4/d15/class_vtol_type.html#a0606e7b02d5a3fb17f8c6f2192c469d1" title="Initialise. " alt="" coords="171,899,269,925"/>
+<area shape="rect" id="node27" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="141,477,299,504"/>
+<area shape="rect" id="node28" href="$de/dc4/class_c_dev_example.html#afe93ad0cba24da4ebffb2afbbe968ab7" title="CDevExample::main" alt="" coords="365,975,507,1001"/>
+<area shape="rect" id="node31" href="$dd/db4/motor__ramp_8cpp.html#af8799b77aaea038fdb8d8c879585cc51" title="Mainloop of motor_ramp. " alt="" coords="135,1051,305,1077"/>
+<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="149,1102,291,1143"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="149,1167,291,1209"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="149,1233,291,1274"/>
+<area shape="rect" id="node35" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="152,1298,288,1339"/>
+<area shape="rect" id="node36" href="$d5/d4c/namespacesrf02.html#a4f321332475fe474385977c8f02ceca9" title="Reset the driver. " alt="" coords="176,1364,264,1391"/>
+<area shape="rect" id="node37" href="$da/d92/namespacesf1xx.html#a72944ec37396078507375bab2b323bd1" title="Reset the driver. " alt="" coords="175,1415,265,1441"/>
+<area shape="rect" id="node38" href="$dc/d1e/namespacelsm303agr.html#ae6c8cc17b4d1364d4b5ddafd4f846a33" title="Start the driver. " alt="" coords="162,1465,278,1492"/>
+<area shape="rect" id="node39" href="$d9/d4a/namespacelps22hb.html#a4cad24392c439abdbfdfc13d80b913e2" title="start driver for a specific bus option " alt="" coords="155,1516,285,1543"/>
+<area shape="rect" id="node40" href="$d2/dd2/namespacehmc5883.html#a9f041ee6bfe94f0bdab77775032fe89b" title="start driver for a specific bus option " alt="" coords="151,1567,289,1593"/>
+<area shape="rect" id="node41" href="$d3/dc7/namespacems5611.html#a8a691e8704946d1a3536ea47550128d3" title="Start the driver. " alt="" coords="155,1617,285,1644"/>
+<area shape="rect" id="node42" href="$d5/d4c/namespacesrf02.html#a63345764ca357b261b9454628a1feb34" title="Start the driver on a specific bus. " alt="" coords="163,1668,277,1695"/>
+<area shape="rect" id="node43" href="$da/d92/namespacesf1xx.html#a8d8b606ddf67b13374b9fab973665327" title="Start the driver on a specific bus. " alt="" coords="162,1719,278,1745"/>
+<area shape="rect" id="node44" href="$d2/dd2/namespacehmc5883.html#a8f7a14aaef85102245a7c834b5a601e3" title="enable/disable temperature compensation " alt="" coords="141,173,299,200"/>
+<area shape="rect" id="node45" href="$da/d92/namespacesf1xx.html#a59f3b4d39170a9e9a544b3cb059c70e6" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="178,1769,262,1796"/>
+<area shape="rect" id="node46" href="$da/dee/namespacevl53lxx.html#a11f808f55cd0df517636891fb378a869" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="173,1820,267,1847"/>
+<area shape="rect" id="node47" href="$d5/d69/tests__main_8h.html#a03b0ee636394755411f8ebbc45da3c74" title="test_adc" alt="" coords="184,1871,256,1897"/>
+<area shape="rect" id="node48" href="$d5/d69/tests__main_8h.html#ad18a571dbd1f3fc494fa88c8d4c7f88f" title="test_file" alt="" coords="186,1921,254,1948"/>
+<area shape="rect" id="node49" href="$d5/d69/tests__main_8h.html#a34a5686c19ff6286efcb37a4b6c341bc" title="test_mount" alt="" coords="177,1972,263,1999"/>
+<area shape="rect" id="node50" href="$db/d83/cdevtest__example_8cpp.html#adb907661d8bb50dceeafeacfbc90f940" title="writer_main" alt="" coords="175,1000,265,1027"/>
+<area shape="rect" id="node3" href="$d4/d15/class_vtol_type.html#a367043e4c812cfa87a92d4b8c1e881e8" title="Sets mc motor minimum pwm to VT_IDLE_PWM_MC which ensures that they are spinning in mc mode..." alt="" coords="360,5,512,32"/>
+<area shape="rect" id="node4" href="$d4/d15/class_vtol_type.html#aed4104618cc718c2c0cec44a48438f94" title="Sets mc motor minimum pwm to PWM_MIN which ensures that the motors stop spinning on zero throttle in ..." alt="" coords="362,56,510,83"/>
+<area shape="rect" id="node5" href="$d4/d15/class_vtol_type.html#a4c3058921d945bdeca03fcefd38764c4" title="Sets state of a selection of motors, see struct motor_state. " alt="" coords="366,107,506,149"/>
+<area shape="rect" id="node8" href="$de/dbe/hmc5883__main_8cpp.html#a456cca7d4e656cd485c42ed3f7ac49c2" title="hmc5883_main" alt="" coords="381,173,491,200"/>
+<area shape="rect" id="node9" href="$de/d50/lis3mdl__main_8cpp.html#a5a1a250829c9ac5a02805549f24e87af" title="Driver &#39;main&#39; command. " alt="" coords="387,224,485,251"/>
+<area shape="rect" id="node13" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="840,541,965,568"/>
+<area shape="rect" id="node15" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1039,592,1157,619"/>
+<area shape="rect" id="node19" href="$d2/de1/class_p_g_a460.html#a899ed440e901f63d72bd6f17b337e221" title="PGA460::run" alt="" coords="387,781,485,808"/>
+<area shape="rect" id="node24" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="353,833,519,874"/>
+<area shape="rect" id="node26" href="$d7/d6f/class_vtol_attitude_control.html#aa326f07b63d1734be23c2ee108516da3" title="VtolAttitudeControl::Run" alt="" coords="354,899,518,925"/>
+<area shape="rect" id="node29" href="$de/dc4/class_c_dev_example.html#a067d93337ed0303aaec4a819cc8a7a00" title="CDevExample::CDevExample" alt="" coords="567,949,767,976"/>
+<area shape="rect" id="node30" href="$da/dc6/cdevtest__main_8cpp.html#a94ca890af8f39e59ea1dcbdd000d16cc" title="PX4_MAIN" alt="" coords="623,1000,711,1027"/>
+</map>

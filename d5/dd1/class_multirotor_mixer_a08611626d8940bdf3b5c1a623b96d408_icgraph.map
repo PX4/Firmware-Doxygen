@@ -1,0 +1,39 @@
+<map id="MultirotorMixer::MultirotorMixer" name="MultirotorMixer::MultirotorMixer">
+<area shape="rect" id="node2" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="224,78,395,105"/>
+<area shape="rect" id="node3" href="$d9/dd1/namespaceuart__esc.html#aafc3729cf48d1737e5387853ccb70e73" title="uart_esc::initialize\l_mixer" alt="" coords="469,5,595,47"/>
+<area shape="rect" id="node8" href="$d3/d92/namespacesnapdragon__pwm.html#a93b6b0bb882ce58ce034393bacc74d61" title="snapdragon_pwm::initialize\l_mixer" alt="" coords="443,71,621,112"/>
+<area shape="rect" id="node14" href="$d9/dbb/class_mixer_group.html#a5f745eabec06661908cbbfa7c656d0a6" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="443,289,621,315"/>
+<area shape="rect" id="node4" href="$d9/dd1/namespaceuart__esc.html#aee518e4183b269a2432ea9184a93b957" title="uart_esc thread primary entry point " alt="" coords="695,13,835,39"/>
+<area shape="rect" id="node5" href="$d9/dd1/namespaceuart__esc.html#a29b71bb756bb2b3b5b7e691d09423703" title="task main trampoline function " alt="" coords="945,5,1085,47"/>
+<area shape="rect" id="node6" href="$d9/dd1/namespaceuart__esc.html#a7414266b22e73024e9dbbbd65776f404" title="Attempt to start driver on all available I2C busses. " alt="" coords="1205,13,1311,39"/>
+<area shape="rect" id="node7" href="$d3/d92/spektrum__rc_8cpp.html#a1fabcdf34c69dadf4f3f51b77f485286" title="spektrum_rc_main" alt="" coords="1425,13,1555,39"/>
+<area shape="rect" id="node9" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="669,78,861,105"/>
+<area shape="rect" id="node10" href="$d3/d92/namespacesnapdragon__pwm.html#a2ba69ca6582c4546ff158d57c18fec22" title="snapdragon_pwm::task\l_main_trampoline" alt="" coords="937,71,1094,112"/>
+<area shape="rect" id="node11" href="$d3/d92/namespacesnapdragon__pwm.html#a4ded7b1adaa7c042a7feec376941cc2f" title="snapdragon_pwm::start" alt="" coords="1179,78,1337,105"/>
+<area shape="rect" id="node12" href="$d8/dad/snapdragon__pwm__out_8cpp.html#a21dce0265a43d504f07e3c24e3302e83" title="snapdragon_pwm_out_main" alt="" coords="1398,78,1582,105"/>
+<area shape="rect" id="node13" href="$d3/d92/namespacesnapdragon__pwm.html#a8d24f1d491d98e86370e41289f812007" title="snapdragon_pwm::usage" alt="" coords="1633,78,1800,105"/>
+<area shape="rect" id="node15" href="$d9/dbb/class_mixer_group.html#a60d004c35b31da2b677b6a433fa07540" title="Count the mixers in the group. " alt="" coords="701,179,830,206"/>
+<area shape="rect" id="node16" href="$d0/db0/namespacelinux__pwm__out.html#a83d0434bdab40f1bc6fc21c6fc5df515" title="linux_pwm_out::initialize\l_mixer" alt="" coords="933,149,1097,191"/>
+<area shape="rect" id="node22" href="$d9/dd5/class_mixer_test.html#ac5cc3c7d39acd2e2854957ec2aafa70f" title="MixerTest::load_mixer" alt="" coords="940,223,1091,250"/>
+<area shape="rect" id="node23" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a66595c5ccff4635ad57a9a620ee54ae5" title="df_bebop_bus_wrapper\l::initialize_mixers" alt="" coords="687,281,843,323"/>
+<area shape="rect" id="node27" href="$d2/da9/class_t_a_p___e_s_c.html#ac6bce7e538cf813a25147f552fcf832e" title="Perform an ioctl operation on the device. " alt="" coords="708,347,823,374"/>
+<area shape="rect" id="node28" href="$da/d43/class_mixing_output.html#a0a87c51bcfefeccb877f19019cece342" title="MixingOutput::loadMixer" alt="" coords="684,398,847,425"/>
+<area shape="rect" id="node34" href="$d8/d05/px4io_8h.html#a10b6b903aa091e91ca155b186b06c0b6" title="mixer_handle_text_create\l_mixer" alt="" coords="680,449,851,491"/>
+<area shape="rect" id="node37" href="$d8/de7/class_m_k.html#a1ea687fc2159fd16fc840b48773602cb" title="MK::pwm_ioctl" alt="" coords="711,515,820,542"/>
+<area shape="rect" id="node17" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="1169,157,1347,183"/>
+<area shape="rect" id="node18" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="1419,149,1561,191"/>
+<area shape="rect" id="node19" href="$d0/db0/namespacelinux__pwm__out.html#a15fd89cbae6f918aee78e46d9d018a7b" title="linux_pwm_out::start" alt="" coords="1645,157,1788,183"/>
+<area shape="rect" id="node20" href="$da/dd6/linux__pwm__out_8cpp.html#a412407ab462307bbeb3e9198bc9872ce" title="linux_pwm_out_main" alt="" coords="1848,157,1992,183"/>
+<area shape="rect" id="node21" href="$d0/db0/namespacelinux__pwm__out.html#a3eab6d177df998cc3a3fe0664f591369" title="linux_pwm_out::usage" alt="" coords="2040,157,2192,183"/>
+<area shape="rect" id="node24" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="937,281,1093,323"/>
+<area shape="rect" id="node25" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a7615c7915d99b5c00fbb62b071635766" title="Attempt to start driver on all available I2C busses. " alt="" coords="1180,281,1336,323"/>
+<area shape="rect" id="node26" href="$d4/dbd/df__bebop__bus__wrapper_8cpp.html#ae001605c030ad2265b6eb3b758e32163" title="df_bebop_bus_wrapper_main" alt="" coords="1395,289,1585,315"/>
+<area shape="rect" id="node29" href="$da/d43/class_mixing_output.html#a7025b0c0e15973dfc2a01f34dd2bb0f0" title="MixingOutput::handleCommands" alt="" coords="909,398,1121,425"/>
+<area shape="rect" id="node30" href="$da/d43/class_mixing_output.html#a8261225a75b45289c2384fcf6b3bc469" title="Call this regularly from Run(). " alt="" coords="1185,398,1331,425"/>
+<area shape="rect" id="node31" href="$d7/d56/class_p_w_m_sim.html#a9d514dc16b6d5e0128d8eb0d2c59d83f" title="PWMSim::Run" alt="" coords="1435,347,1545,374"/>
+<area shape="rect" id="node32" href="$d9/d95/class_d_shot_output.html#a9afbb119ec319b88b6b3c38b8ae47a92" title="DShotOutput::Run" alt="" coords="1425,398,1555,425"/>
+<area shape="rect" id="node33" href="$df/d64/class_p_x4_f_m_u.html#ac655d0cfa5ca7a90ce6c1043bf04822f" title="PX4FMU::Run" alt="" coords="1436,449,1544,475"/>
+<area shape="rect" id="node35" href="$d8/d05/px4io_8h.html#ae4335b0132a371f64a91cbc19cb518e4" title="mixer_tick" alt="" coords="974,457,1057,483"/>
+<area shape="rect" id="node36" href="$dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626" title="user_start" alt="" coords="1218,457,1298,483"/>
+<area shape="rect" id="node38" href="$d8/de7/class_m_k.html#a6260d558e7b3321b891b1906ecba0901" title="MK::ioctl" alt="" coords="978,515,1053,542"/>
+</map>

@@ -1,6 +1,6 @@
 var structmanual__control__setpoint__s =
 [
-    [ "_padding0", "de/de6/structmanual__control__setpoint__s.html#ae936da3a6cab81daad49055ea6d36ca8", null ],
+    [ "_padding0", "de/de6/structmanual__control__setpoint__s.html#aa33356bd5915ff44f170d9d3f343c697", null ],
     [ "acro_switch", "de/de6/structmanual__control__setpoint__s.html#ab15c816845decd002c45d1b5b4791c75", null ],
     [ "arm_switch", "de/de6/structmanual__control__setpoint__s.html#a8e666483c56f26571b30d63ebcd83f4d", null ],
     [ "aux1", "de/de6/structmanual__control__setpoint__s.html#ab9d0e8abc8a08db51cbfbd522f0bc344", null ],
@@ -8,13 +8,14 @@ var structmanual__control__setpoint__s =
     [ "aux3", "de/de6/structmanual__control__setpoint__s.html#a57f930cd8148514ee9f42f74dfd4b8a4", null ],
     [ "aux4", "de/de6/structmanual__control__setpoint__s.html#a62718e1831dcab42a455d7e46b1bf0a4", null ],
     [ "aux5", "de/de6/structmanual__control__setpoint__s.html#a9f312379efbba0aad4cd9b4f999488d5", null ],
+    [ "aux6", "de/de6/structmanual__control__setpoint__s.html#a931264b54e6a7e1a04c2f99e9e062f20", null ],
     [ "data_source", "de/de6/structmanual__control__setpoint__s.html#a4f23f3915b92ee5394cdbe7d0733ffa6", null ],
     [ "flaps", "de/de6/structmanual__control__setpoint__s.html#aee7be69c97e6daec962fd152a4233d80", null ],
     [ "gear_switch", "de/de6/structmanual__control__setpoint__s.html#ae0af43e5bdc2ac89599f8315e464f681", null ],
     [ "kill_switch", "de/de6/structmanual__control__setpoint__s.html#aba20d37bdb280289f4cd154a3ada5bb2", null ],
     [ "loiter_switch", "de/de6/structmanual__control__setpoint__s.html#a8a3174a9dbd2ed822ef1ead8b3b2adaa", null ],
     [ "man_switch", "de/de6/structmanual__control__setpoint__s.html#acdfd913506bc016506720168c4d1b2f6", null ],
-    [ "mode_slot", "de/de6/structmanual__control__setpoint__s.html#a9339a419787f7d88202a7c05a1092551", null ],
+    [ "mode_slot", "de/de6/structmanual__control__setpoint__s.html#abf6e76dfbcd5efe5c1e31ed97b916e5a", null ],
     [ "mode_switch", "de/de6/structmanual__control__setpoint__s.html#aeffc7f6be61085d94cf3944d488ae58d", null ],
     [ "offboard_switch", "de/de6/structmanual__control__setpoint__s.html#a1691b2b3d7a262531bab73303f08a413", null ],
     [ "posctl_switch", "de/de6/structmanual__control__setpoint__s.html#ab22df60b54970e3a5bb8ca8b52b004af", null ],

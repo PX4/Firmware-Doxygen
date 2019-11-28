@@ -1,18 +1,22 @@
 <map id="Geofence::insideCircle" name="Geofence::insideCircle">
-<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="250,144,322,171"/>
-<area shape="rect" id="node12" href="$d7/d09/geo_8cpp.html#a0233fe4ad7352b7918faeaf7aa5d8818" title="Initializes the map transformation given by the argument and sets the timestamp to now..." alt="" coords="219,355,353,381"/>
-<area shape="rect" id="node15" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="412,224,583,251"/>
-<area shape="rect" id="node16" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="208,275,364,301"/>
-<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="634,56,759,83"/>
-<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="414,107,581,149"/>
-<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="457,173,538,200"/>
-<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="818,56,906,83"/>
-<area shape="rect" id="node5" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="819,107,905,133"/>
-<area shape="rect" id="node6" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="819,5,905,32"/>
-<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="811,157,913,184"/>
-<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="631,157,763,184"/>
-<area shape="rect" id="node10" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="654,107,739,133"/>
-<area shape="rect" id="node13" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="430,377,565,418"/>
-<area shape="rect" id="node14" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="646,329,747,356"/>
-<area shape="rect" id="node17" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="441,325,553,352"/>
+<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="239,136,311,163"/>
+<area shape="rect" id="node12" href="$d7/d09/geo_8cpp.html#a0233fe4ad7352b7918faeaf7aa5d8818" title="Initializes the map transformation given by the argument and sets the timestamp to now..." alt="" coords="208,363,343,389"/>
+<area shape="rect" id="node17" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="605,579,776,605"/>
+<area shape="rect" id="node18" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="396,427,552,453"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="628,224,753,251"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="391,158,557,199"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="433,56,515,83"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="433,107,515,133"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="438,5,510,32"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="831,173,919,200"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="824,123,927,149"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="625,123,757,149"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="628,13,753,40"/>
+<area shape="rect" id="node13" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="407,330,541,371"/>
+<area shape="rect" id="node14" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="647,325,734,352"/>
+<area shape="rect" id="node15" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="834,325,917,352"/>
+<area shape="rect" id="node16" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="640,376,741,403"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a86262fad1a82743f455537b64e00fc2e" title="matrix::acos" alt="" coords="643,477,738,504"/>
+<area shape="rect" id="node21" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="635,528,747,555"/>
+<area shape="rect" id="node20" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="831,477,919,504"/>
 </map>

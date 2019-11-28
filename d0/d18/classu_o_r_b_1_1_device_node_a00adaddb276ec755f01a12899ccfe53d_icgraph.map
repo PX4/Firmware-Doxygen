@@ -1,7 +1,51 @@
 <map id="uORB::DeviceNode::appears_updated" name="uORB::DeviceNode::appears_updated">
-<area shape="rect" id="node2" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a929fd1e2984a7b04c014f4729abf8c8f" title="IOCTL control for the subscriber. " alt="" coords="245,5,416,32"/>
-<area shape="rect" id="node3" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a23eb20d3535580f511aad40a66f08f93" title="Internal implementation of poll_notify. " alt="" coords="247,57,414,98"/>
-<area shape="rect" id="node6" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae67fe265d9405278dde191e8b12d081c" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="247,122,414,163"/>
-<area shape="rect" id="node4" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a96ecaee3f71270f247ecf838af94128c" title="uORB::DeviceNode::set\l_priority" alt="" coords="464,90,628,131"/>
-<area shape="rect" id="node5" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#afce9e85ef809e3b06bb150223d5016bb" title="Perform an ioctl operation on the device. " alt="" coords="676,90,823,131"/>
+<area shape="rect" id="node2" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a3f05b62db80b290d62e75918baf371fb" title="IOCTL control for the subscriber. " alt="" coords="245,98,416,125"/>
+<area shape="rect" id="node3" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a39a6d3f661b6bb593b2f14a960f11b87" title="Internal implementation of poll_notify. " alt="" coords="247,149,414,191"/>
+<area shape="rect" id="node50" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a907b384e902e9252d5c11825e776b254" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="247,215,414,256"/>
+<area shape="rect" id="node4" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a96ecaee3f71270f247ecf838af94128c" title="uORB::DeviceNode::set\l_priority" alt="" coords="464,183,628,224"/>
+<area shape="rect" id="node5" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a722d86a2e0c4b133a64f3fe835c98d4e" title="uORB::DeviceMaster\l::advertise" alt="" coords="676,183,823,224"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="871,183,1023,224"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1071,215,1257,242"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="1496,208,1639,249"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1305,99,1448,140"/>
+<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1305,267,1448,308"/>
+<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1305,332,1448,373"/>
+<area shape="rect" id="node9" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="1691,71,1825,98"/>
+<area shape="rect" id="node13" href="$db/dd6/u_o_r_b_8h.html#aed3e419c14dc98a09884a96fb3b4975b" title="orb_advertise_multi\l_queue" alt="" coords="1500,123,1635,164"/>
+<area shape="rect" id="node10" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="1913,5,2067,47"/>
+<area shape="rect" id="node11" href="$de/dec/classpx4_1_1_replay.html#ae6cd9533bdb7f030a553f75d719399a3" title="publish an orb topic " alt="" coords="1903,71,2077,98"/>
+<area shape="rect" id="node12" href="$d8/de7/class_m_k.html#ad13b541644dbd5cf29587f580537a8e0" title="MK::task_main" alt="" coords="1935,122,2045,149"/>
+<area shape="rect" id="node15" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="1708,826,1808,853"/>
+<area shape="rect" id="node45" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="1687,169,1829,195"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="1910,1130,2070,1157"/>
+<area shape="rect" id="node17" href="$d0/d45/class_b_a_t_t___s_m_b_u_s.html#ac05e2098a73330dc07e906adbd536e57" title="BATT_SMBUS::BATT_SMBUS" alt="" coords="1886,1181,2094,1207"/>
+<area shape="rect" id="node18" href="$dc/d86/class_camera_trigger.html#a411b94222981a429df75cae512b02b47" title="Constructor. " alt="" coords="1889,1231,2091,1258"/>
+<area shape="rect" id="node19" href="$d1/d78/class_p_x4_f_l_o_w.html#a2f05ba066d011f6dabd82362b69e3f71" title="PX4FLOW::collect" alt="" coords="1925,1282,2055,1309"/>
+<area shape="rect" id="node20" href="$d3/de0/class_muorb_test_example.html#a72bc5988dfea86bfe367c9aeb6be7eba" title="MuorbTestExample::DefaultTest" alt="" coords="1885,1333,2095,1359"/>
+<area shape="rect" id="node21" href="$df/d64/class_p_x4_f_m_u.html#a7583752832ccb36376b764b15274fd9f" title="PX4FMU::fake" alt="" coords="1935,1383,2045,1410"/>
+<area shape="rect" id="node22" href="$d2/da9/class_t_a_p___e_s_c.html#afb50b959b4ca3467d5e4fa7676e9459e" title="TAP_ESC::init" alt="" coords="1936,442,2044,469"/>
+<area shape="rect" id="node23" href="$d4/dc6/classlinux__sbus_1_1_rc_input.html#ac12a9f03c7238ee6b2a0c2bb34f99513" title="linux_sbus::RcInput\l::init" alt="" coords="1921,1435,2059,1476"/>
+<area shape="rect" id="node24" href="$de/d59/class_b_m_a180.html#ac6cfba124dbbb2f5d14dac886f70d0b5" title="BMA180::init" alt="" coords="1941,1501,2039,1527"/>
+<area shape="rect" id="node25" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a526bb55f48fbcf03e2ecc1129322d77f" title="uORBTest::UnitTest\l::latency_test" alt="" coords="1919,1552,2061,1593"/>
+<area shape="rect" id="node26" href="$d5/de1/class_v_o_x_l_p_m.html#ab15a13cfb85e57338a9220cfd6c60249" title="VOXLPM::measure" alt="" coords="1923,1618,2057,1645"/>
+<area shape="rect" id="node27" href="$d3/dc6/class_commander.html#af1dc603ce8ac5c165ffbf71cc57f850f" title="Commander::mission_init" alt="" coords="1905,493,2075,519"/>
+<area shape="rect" id="node28" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="2151,1081,2269,1107"/>
+<area shape="rect" id="node29" href="$d3/de0/class_muorb_test_example.html#a8cf9c2a7e0d1346a4dc4011791f08497" title="MuorbTestExample::PingPongTest" alt="" coords="1877,173,2103,199"/>
+<area shape="rect" id="node30" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="1910,543,2070,599"/>
+<area shape="rect" id="node31" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#ada79e8efac4f23b12edacfb20529bf86" title="publish_gam_message" alt="" coords="1913,623,2067,650"/>
+<area shape="rect" id="node32" href="$d7/d28/class_sih.html#a177102f443fd1dcbf870062b1ec5a3b4" title="Sih::publish_sih" alt="" coords="1933,674,2047,701"/>
+<area shape="rect" id="node33" href="$d3/d25/class_fixedwing_attitude_control.html#a8be520564b6f5eb9a0a007fbbaa11184" title="FixedwingAttitudeControl::Run" alt="" coords="1890,725,2090,751"/>
+<area shape="rect" id="node34" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="1889,775,2091,802"/>
+<area shape="rect" id="node35" href="$d2/de1/class_p_g_a460.html#a899ed440e901f63d72bd6f17b337e221" title="PGA460::run" alt="" coords="1941,826,2039,853"/>
+<area shape="rect" id="node36" href="$d7/d28/class_sih.html#aeae8ae0a634fc15b031e8c72784e2b88" title="Sih::send_gps" alt="" coords="1937,877,2043,903"/>
+<area shape="rect" id="node37" href="$d3/d3c/namespacespektrum__rc.html#adbc95ce3e5c0c68753e572707b0e4105" title="spektrum_rc::task_main" alt="" coords="1909,927,2071,954"/>
+<area shape="rect" id="node38" href="$dc/d67/namespacerc__receiver.html#a3226461a7d4ea0cede66db86b44686fe" title="mpu9x50 measurement thread primary entry point " alt="" coords="1913,223,2067,250"/>
+<area shape="rect" id="node39" href="$d9/dd1/namespaceuart__esc.html#aee518e4183b269a2432ea9184a93b957" title="uart_esc thread primary entry point " alt="" coords="1920,274,2060,301"/>
+<area shape="rect" id="node40" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="1901,325,2079,351"/>
+<area shape="rect" id="node41" href="$d3/df2/class_g_p_s_s_i_m.html#ab42a0aa037c42c0a84d0ecc31d7b93d2" title="Worker task: main GPS thread that configures the GPS and parses incoming data, always running..." alt="" coords="1919,978,2061,1005"/>
+<area shape="rect" id="node42" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="1894,1029,2086,1055"/>
+<area shape="rect" id="node43" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="1912,376,2068,417"/>
+<area shape="rect" id="node44" href="$db/dc6/_collision_prevention_test_8cpp.html#a4b10284dac8ec9453771a6cd1f168c5f" title="TEST_F" alt="" coords="1955,1079,2025,1106"/>
+<area shape="rect" id="node47" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="1707,274,1809,301"/>
+<area shape="rect" id="node49" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="1498,339,1637,366"/>
 </map>

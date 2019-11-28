@@ -1,28 +1,34 @@
 <map id="src/drivers/imu/mpu9250/mpu9250.cpp" name="src/drivers/imu/mpu9250/mpu9250.cpp">
-<area shape="rect" id="node2" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="5,95,101,121"/>
-<area shape="rect" id="node3" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="214,177,314,203"/>
-<area shape="rect" id="node17" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1213,259,1344,285"/>
-<area shape="rect" id="node22" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2317,95,2425,121"/>
-<area shape="rect" id="node23" href="$da/dd6/conversions_8h.html" title="Definition of commonly used conversions. " alt="" coords="621,177,784,203"/>
-<area shape="rect" id="node25" href="$de/d37/px4__macros_8h.html" title="A set of useful macros for enhanced runtime and compile time error detection and warning suppression..." alt="" coords="3061,95,3225,121"/>
-<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="403,177,519,203"/>
-<area shape="rect" id="node33" href="$da/d87/spi_8h.html" title="Base class for devices connected via SPI. " alt="" coords="3486,95,3621,121"/>
-<area shape="rect" id="node35" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="1434,259,1606,285"/>
-<area shape="rect" id="node36" href="$de/d1c/integrator_8h.html" title="A resettable integrator. " alt="" coords="1529,177,1701,203"/>
-<area shape="rect" id="node39" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="1057,259,1189,285"/>
-<area shape="rect" id="node44" href="$d5/df5/drv__gyro_8h.html" title="Gyroscope driver interface. " alt="" coords="755,259,882,285"/>
-<area shape="rect" id="node45" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="906,259,1033,285"/>
-<area shape="rect" id="node46" href="$d0/d28/_low_pass_filter2p_8hpp.html" title="mathlib/math/filter\l/LowPassFilter2p.hpp" alt="" coords="1910,169,2058,211"/>
-<area shape="rect" id="node47" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="1725,177,1885,203"/>
-<area shape="rect" id="node48" href="$d7/d1c/mag_8h.html" title="mag.h" alt="" coords="1163,177,1221,203"/>
-<area shape="rect" id="node49" href="$d6/d6c/drivers_2imu_2mpu9250_2gyro_8h.html" title="gyro.h" alt="" coords="2081,177,2140,203"/>
-<area shape="rect" id="node50" href="$db/d35/mpu9250_8h.html" title="mpu9250.h" alt="" coords="1266,95,1353,121"/>
-<area shape="rect" id="node18" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1282,423,1385,449"/>
-<area shape="rect" id="node19" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="1613,497,1691,524"/>
-<area shape="rect" id="node31" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="427,341,514,367"/>
-<area shape="rect" id="node34" href="$d3/d41/posix_2_s_p_i_8hpp.html" title="posix/SPI.hpp" alt="" coords="3501,177,3605,203"/>
-<area shape="rect" id="node38" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="1630,259,1746,285"/>
-<area shape="rect" id="node41" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="971,341,1069,367"/>
-<area shape="rect" id="node42" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="792,341,896,367"/>
-<area shape="rect" id="node43" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="1093,333,1233,375"/>
+<area shape="rect" id="node2" href="$db/d35/mpu9250_8h.html" title="mpu9250.h" alt="" coords="2315,95,2401,121"/>
+<area shape="rect" id="node3" href="$d2/d54/_p_x4_accelerometer_8hpp.html" title="lib/drivers/accelerometer\l/PX4Accelerometer.hpp" alt="" coords="509,273,673,315"/>
+<area shape="rect" id="node34" href="$df/dc3/_p_x4_gyroscope_8hpp.html" title="lib/drivers/gyroscope\l/PX4Gyroscope.hpp" alt="" coords="1113,273,1256,315"/>
+<area shape="rect" id="node38" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="2761,541,2878,568"/>
+<area shape="rect" id="node41" href="$da/dd6/conversions_8h.html" title="Definition of commonly used conversions. " alt="" coords="2856,184,3036,211"/>
+<area shape="rect" id="node43" href="$de/d37/px4__macros_8h.html" title="A set of useful macros for enhanced runtime and compile time error detection and warning suppression..." alt="" coords="2599,184,2781,211"/>
+<area shape="rect" id="node45" href="$de/d63/_m_p_u9250__mag_8h.html" title="MPU9250_mag.h" alt="" coords="2029,184,2151,211"/>
+<area shape="rect" id="node4" href="$de/d1c/integrator_8h.html" title="A resettable integrator. " alt="" coords="715,370,887,397"/>
+<area shape="rect" id="node10" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="5,370,137,397"/>
+<area shape="rect" id="node18" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="213,452,353,493"/>
+<area shape="rect" id="node19" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1286,541,1395,568"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="871,541,987,568"/>
+<area shape="rect" id="node24" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="1811,370,1942,397"/>
+<area shape="rect" id="node28" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="911,370,1071,397"/>
+<area shape="rect" id="node30" href="$d5/da5/_low_pass_filter2p_vector3f_8hpp.html" title="A class to implement a second order low pass filter on a Vector3f Based on LowPassFilter2p.hpp by Leonard Hall LeonardTHall@gmail.com " alt="" coords="493,363,690,404"/>
+<area shape="rect" id="node32" href="$d3/dfb/_publication_multi_8hpp.html" title="uORB/PublicationMulti.hpp" alt="" coords="1247,370,1426,397"/>
+<area shape="rect" id="node6" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="515,459,631,486"/>
+<area shape="rect" id="node7" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1055,541,1183,568"/>
+<area shape="rect" id="node9" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="501,541,644,568"/>
+<area shape="rect" id="node13" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="1812,459,1909,486"/>
+<area shape="rect" id="node16" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1785,623,1889,650"/>
+<area shape="rect" id="node15" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="1827,541,1923,568"/>
+<area shape="rect" id="node27" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="1471,541,1635,568"/>
+<area shape="rect" id="node33" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1159,459,1267,486"/>
+<area shape="rect" id="node35" href="$d5/df5/drv__gyro_8h.html" title="Gyroscope driver interface. " alt="" coords="1660,370,1787,397"/>
+<area shape="rect" id="node36" href="$d6/d90/sensor__gyro_8h.html" title="uORB/topics/sensor\l_gyro.h" alt="" coords="1444,452,1584,493"/>
+<area shape="rect" id="node37" href="$d9/d18/sensor__gyro__control_8h.html" title="uORB/topics/sensor\l_gyro_control.h" alt="" coords="995,452,1135,493"/>
+<area shape="rect" id="node46" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="2537,623,2667,650"/>
+<area shape="rect" id="node47" href="$d3/d07/_p_x4_magnetometer_8hpp.html" title="lib/drivers/magnetometer\l/PX4Magnetometer.hpp" alt="" coords="1666,273,1831,315"/>
+<area shape="rect" id="node50" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="2117,370,2290,397"/>
+<area shape="rect" id="node48" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="2480,370,2607,397"/>
+<area shape="rect" id="node49" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="2393,452,2533,493"/>
 </map>

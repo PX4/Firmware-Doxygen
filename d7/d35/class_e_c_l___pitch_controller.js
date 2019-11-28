@@ -1,10 +1,10 @@
 var class_e_c_l___pitch_controller =
 [
-    [ "ECL_PitchController", "d7/d35/class_e_c_l___pitch_controller.html#a8ad6bd932983c16bbf798d8b8f94f75f", null ],
+    [ "ECL_PitchController", "d7/d35/class_e_c_l___pitch_controller.html#a0dc0461ce7cfdbb2169e95072146f14e", null ],
     [ "~ECL_PitchController", "d7/d35/class_e_c_l___pitch_controller.html#a94e38329165575f252b537922aaa5e8b", null ],
-    [ "control_attitude", "d7/d35/class_e_c_l___pitch_controller.html#a420cba4ea3829323b7609d9de99c5129", null ],
-    [ "control_bodyrate", "d7/d35/class_e_c_l___pitch_controller.html#a61a8c68bc4695ff543e893938728171f", null ],
-    [ "control_euler_rate", "d7/d35/class_e_c_l___pitch_controller.html#a5416956938beb51705956e080eb061b2", null ],
+    [ "control_attitude", "d7/d35/class_e_c_l___pitch_controller.html#a5dc1c6cdf30327f38ea5e83665d64809", null ],
+    [ "control_bodyrate", "d7/d35/class_e_c_l___pitch_controller.html#a964fe99420ac1915c29376932414c072", null ],
+    [ "control_euler_rate", "d7/d35/class_e_c_l___pitch_controller.html#afb101cd267875485eec4ca4a22f2a0f8", null ],
     [ "set_bodyrate_setpoint", "d7/d35/class_e_c_l___pitch_controller.html#ab9e43ee1004f4b8c485be78b986ea0b5", null ],
     [ "set_max_rate_neg", "d7/d35/class_e_c_l___pitch_controller.html#a7c2f54d281540527d03151e2a42aa9b0", null ],
     [ "set_max_rate_pos", "d7/d35/class_e_c_l___pitch_controller.html#aecd2b8f1b4a4aff816aed8b70b22ea16", null ],

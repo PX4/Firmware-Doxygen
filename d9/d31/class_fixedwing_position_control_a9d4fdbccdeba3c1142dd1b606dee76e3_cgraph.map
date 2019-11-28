@@ -1,3 +1,51 @@
 <map id="FixedwingPositionControl::task_spawn" name="FixedwingPositionControl::task_spawn">
-<area shape="rect" id="node2" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="224,13,376,39"/>
+<area shape="rect" id="node2" href="$d9/d31/class_fixedwing_position_control.html#a903d5f213fea0a5d5e24fee43aebb7cd" title="FixedwingPositionControl\l::FixedwingPositionControl" alt="" coords="224,90,403,131"/>
+<area shape="rect" id="node18" href="$d9/d31/class_fixedwing_position_control.html#a577797e3ff0db4f2fa3aa83354b024f3" title="FixedwingPositionControl\l::init" alt="" coords="228,925,399,966"/>
+<area shape="rect" id="node3" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="502,5,589,32"/>
+<area shape="rect" id="node5" href="$d6/dd7/namespacempu9x50.html#a97862226042971029cb680cf60ebe629" title="update all parameters " alt="" coords="471,122,619,163"/>
+<area shape="rect" id="node17" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#a12e68cbb4d69d82ec586aa2bbc8e9672" title="Set the interval in milliseconds. " alt="" coords="455,57,636,98"/>
+<area shape="rect" id="node4" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="702,5,837,32"/>
+<area shape="rect" id="node6" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="728,503,811,529"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1139,705,1177,732"/>
+<area shape="rect" id="node9" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1255,452,1371,479"/>
+<area shape="rect" id="node10" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="909,705,1051,732"/>
+<area shape="rect" id="node11" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="914,300,1046,327"/>
+<area shape="rect" id="node12" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1109,427,1207,453"/>
+<area shape="rect" id="node13" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="914,604,1046,631"/>
+<area shape="rect" id="node14" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1113,477,1203,504"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="935,503,1025,529"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="907,553,1053,580"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1271,705,1354,732"/>
+<area shape="rect" id="node19" href="$d9/d31/class_fixedwing_position_control.html#aa61e3f2cd93486424394305a23416fab" title="FixedwingPositionControl\l::landing_status_publish" alt="" coords="460,807,631,849"/>
+<area shape="rect" id="node25" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="495,873,596,900"/>
+<area shape="rect" id="node26" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a1c8b2b68441e61d7c460efe94617b3c4" title="uORB::SubscriptionCallback\l::registerCallback" alt="" coords="451,925,640,966"/>
+<area shape="rect" id="node27" href="$d1/d1f/class_t_e_c_s.html#a4527886406ab0e44091ee0e421f78e46" title="TECS::set_height_comp\l_filter_omega" alt="" coords="463,990,628,1031"/>
+<area shape="rect" id="node28" href="$d1/d1f/class_t_e_c_s.html#ac499cfa2a09b421b0ccddcd95b3091cc" title="TECS::set_heightrate_ff" alt="" coords="464,1056,627,1083"/>
+<area shape="rect" id="node29" href="$d1/d1f/class_t_e_c_s.html#a25214559e3773e097ed775a508b8b36d" title="TECS::set_heightrate_p" alt="" coords="464,1107,627,1133"/>
+<area shape="rect" id="node30" href="$d1/d1f/class_t_e_c_s.html#a709a5b083eaacb5d790af5e201396c6c" title="TECS::set_indicated\l_airspeed_max" alt="" coords="474,1158,617,1199"/>
+<area shape="rect" id="node31" href="$d1/d1f/class_t_e_c_s.html#a79dd77063f79575c1b71bd85f92d3932" title="TECS::set_indicated\l_airspeed_min" alt="" coords="474,1223,617,1265"/>
+<area shape="rect" id="node32" href="$d1/d1f/class_t_e_c_s.html#af9cf81adb1c48ea06d9cded649bfeac1" title="TECS::set_integrator_gain" alt="" coords="457,1289,633,1316"/>
+<area shape="rect" id="node33" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a2a25fd4f58af2b9b0f696081a1f47201" title="Set the L1 damping factor. " alt="" coords="464,1341,627,1382"/>
+<area shape="rect" id="node34" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab449fa4dc6e9feb1fd69eef9215559ee" title="Set the L1 period. " alt="" coords="899,1103,1061,1145"/>
+<area shape="rect" id="node35" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#aed61ea14a1fbc6298c8dea6f2fcd9152" title="Set the maximum roll angle output in radians. " alt="" coords="464,1458,627,1499"/>
+<area shape="rect" id="node36" href="$d1/d1f/class_t_e_c_s.html#a868422818eca1c903b3d7f27fc9dbb16" title="TECS::set_max_climb_rate" alt="" coords="454,1524,637,1551"/>
+<area shape="rect" id="node37" href="$d1/d1f/class_t_e_c_s.html#a3e7ddbd7d97fcec4eac9d54ac546ae94" title="TECS::set_max_sink_rate" alt="" coords="457,1575,633,1601"/>
+<area shape="rect" id="node38" href="$d1/d1f/class_t_e_c_s.html#a61217e6d9bfdc3c966b97d3009b78e0c" title="TECS::set_min_sink_rate" alt="" coords="459,1625,631,1652"/>
+<area shape="rect" id="node39" href="$d1/d1f/class_t_e_c_s.html#a36009b6fa0d9581c764660b749161d3c" title="TECS::set_pitch_damping" alt="" coords="458,1676,633,1703"/>
+<area shape="rect" id="node40" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a72bbf96a27349e4e96246eaa7197c07a" title="Set roll angle slew rate. " alt="" coords="464,1727,627,1769"/>
+<area shape="rect" id="node41" href="$d1/d1f/class_t_e_c_s.html#a838f80e6fd6cc4280b6eddee27ca1d58" title="TECS::set_roll_throttle\l_compensation" alt="" coords="468,1793,623,1834"/>
+<area shape="rect" id="node42" href="$d1/d1f/class_t_e_c_s.html#a980415283586e5c63cac69b99f5408bc" title="TECS::set_speed_comp\l_filter_omega" alt="" coords="463,187,628,229"/>
+<area shape="rect" id="node43" href="$d1/d1f/class_t_e_c_s.html#a162b3674376ffa1c49fff27144c51344" title="TECS::set_speed_weight" alt="" coords="460,253,631,280"/>
+<area shape="rect" id="node44" href="$d1/d1f/class_t_e_c_s.html#a5b515697bac1cffd9c8d87e3d77145b5" title="TECS::set_speedrate_p" alt="" coords="464,304,627,331"/>
+<area shape="rect" id="node45" href="$d1/d1f/class_t_e_c_s.html#a4f532d7f481f251e862adedb00018e95" title="TECS::set_throttle_damp" alt="" coords="460,355,631,381"/>
+<area shape="rect" id="node46" href="$d1/d1f/class_t_e_c_s.html#a675385b3146c5603b1915fbe916d5721" title="TECS::set_throttle\l_slewrate" alt="" coords="480,406,611,447"/>
+<area shape="rect" id="node47" href="$d1/d1f/class_t_e_c_s.html#a39600560c4ec5b37a57f4622e3a3f8a2" title="TECS::set_time_const" alt="" coords="468,472,623,499"/>
+<area shape="rect" id="node48" href="$d1/d1f/class_t_e_c_s.html#ab9dfc1f3f943916190f887657972cc01" title="TECS::set_time_const\l_throt" alt="" coords="468,523,623,565"/>
+<area shape="rect" id="node49" href="$d1/d1f/class_t_e_c_s.html#abb96ff701ffd6fa29ca78979580e3303" title="TECS::set_vertical\l_accel_limit" alt="" coords="479,589,612,630"/>
+<area shape="rect" id="node50" href="$d1/d36/class_landingslope.html#a4b967587f47cecf39153d99394bf1137" title="Landingslope::update" alt="" coords="473,655,618,681"/>
+<area shape="rect" id="node20" href="$d1/d36/class_landingslope.html#ac91d88c92d86cebd74b6ebfa8cfea576" title="Landingslope::flare\l_length" alt="" coords="704,938,835,979"/>
+<area shape="rect" id="node21" href="$d1/d36/class_landingslope.html#a70cc1db8969ac60a6c7a202c16ad52f4" title="Landingslope::horizontal\l_slope_displacement" alt="" coords="688,1003,851,1045"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="707,1069,832,1096"/>
+<area shape="rect" id="node23" href="$d1/d36/class_landingslope.html#afe2a20650d29d59aaaf2b2eb8c629fe8" title="Landingslope::landing\l_slope_angle_rad" alt="" coords="696,807,843,849"/>
+<area shape="rect" id="node24" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="700,873,839,914"/>
 </map>

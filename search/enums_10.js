@@ -1,9 +1,22 @@
 var searchData=
 [
-  ['targetmode',['TargetMode',['../d3/d6e/classlanding__target__estimator_1_1_landing_target_estimator.html#a2f7d854742f3eaa77b583cb5d103f0ef',1,'landing_target_estimator::LandingTargetEstimator']]],
-  ['tfmini_5fparse_5fstate',['TFMINI_PARSE_STATE',['../db/d77/tfmini__parser_8h.html#ad4421c9e6688cda014801cff1bec84f2',1,'tfmini_parser.h']]],
-  ['transition_5fresult_5ft',['transition_result_t',['../d2/de8/state__machine__helper_8h.html#a73234ac9dad928080b85a4f2977694ed',1,'state_machine_helper.h']]],
-  ['trigger_5fmode_5ft',['trigger_mode_t',['../d9/d92/camera__trigger_8cpp.html#a21fc07d8301b003b4a8338d7fe3daac6',1,'camera_trigger.cpp']]],
-  ['tuneid',['TuneID',['../dd/d63/tune__definition_8h.html#a47669c0cd7246c00e6942fcea2c407bc',1,'tune_definition.h']]],
-  ['type',['Type',['../d4/d80/structvmount_1_1_control_data.html#aed3904b5be14bd0f123442d7a60b4832',1,'vmount::ControlData']]]
+  ['satcom_5fread_5fstatus',['satcom_read_status',['../d1/dc6/_iridium_s_b_d_8h.html#a552633d30c452d9078a139be6609d7e1',1,'IridiumSBD.h']]],
+  ['satcom_5fresult_5fcode',['satcom_result_code',['../d1/dc6/_iridium_s_b_d_8h.html#a83fbf865318410de11288df816088971',1,'IridiumSBD.h']]],
+  ['satcom_5fstate',['satcom_state',['../d1/dc6/_iridium_s_b_d_8h.html#af2d93401c768ced91070edf814f5cfcd',1,'IridiumSBD.h']]],
+  ['satcom_5fstatus',['satcom_status',['../d1/dc6/_iridium_s_b_d_8h.html#a1caeaaf404bfb6010d6c0f9aca276c88',1,'IridiumSBD.h']]],
+  ['satcom_5fuart_5fstatus',['satcom_uart_status',['../d1/dc6/_iridium_s_b_d_8h.html#af337637a7ae165c07f634bac0897b34f',1,'IridiumSBD.h']]],
+  ['sbf_5fdecode_5fstate_5ft',['sbf_decode_state_t',['../db/d06/sbf_8h.html#af5c4de9ad53d7be2b04987302461a1b3',1,'sbf.h']]],
+  ['sbus2_5fdecode_5fstate',['SBUS2_DECODE_STATE',['../d6/daa/sbus_8cpp.html#ae420b94ef2879e21265951b11727d279',1,'sbus.cpp']]],
+  ['schedulingpolicy',['SchedulingPolicy',['../da/d43/class_mixing_output.html#ab8faae8e6e5ab3ec588d8d0f53d57a84',1,'MixingOutput']]],
+  ['scriptid',['ScriptID',['../d8/d7e/class_blink_m.html#ae6ba08c1abbaf36ec18933d0048c7240',1,'BlinkM']]],
+  ['sdlogprofilemask',['SDLogProfileMask',['../da/d4f/namespacepx4_1_1logger.html#a6771fb02139bcb9cb1e4f8606d293a42',1,'px4::logger']]],
+  ['sensor_5ft',['sensor_t',['../d5/d01/class_block_local_position_estimator.html#a2010320b51fe9f47bfffeb347e8c6a0b',1,'BlockLocalPositionEstimator']]],
+  ['sensor_5ftype',['sensor_type',['../d1/db0/bmi055__main_8cpp.html#a6ceb3ea24264a6faa4f32351cb58d41a',1,'sensor_type():&#160;bmi055_main.cpp'],['../d4/d4a/bmi088__main_8cpp.html#a6ceb3ea24264a6faa4f32351cb58d41a',1,'sensor_type():&#160;bmi088_main.cpp']]],
+  ['sf0x_5fparse_5fstate',['SF0X_PARSE_STATE',['../db/d8d/sf0x__parser_8h.html#a3e1938361cf4ffc2c6326d9bb62b79e0',1,'sf0x_parser.h']]],
+  ['spi_5fmode_5fe',['spi_mode_e',['../dd/d1c/qurt_2_s_p_i_8hpp.html#a0cb467f85c0d7ce489b861ee7bb20e9a',1,'SPI.hpp']]],
+  ['st24_5fdecode_5fstate',['ST24_DECODE_STATE',['../d6/d6f/st24_8h.html#ad1351532dec36aff6c3197a71361c159',1,'st24.h']]],
+  ['st24_5fpacket_5ftype',['ST24_PACKET_TYPE',['../d6/d6f/st24_8h.html#ae5037cac1647abab542359f7e5c28e8c',1,'st24.h']]],
+  ['state',['State',['../d0/d2b/_flight_task_auto_8hpp.html#a5d74787dedbc4e11c1ab15bf487e61f8',1,'FlightTaskAuto.hpp']]],
+  ['statusmask',['StatusMask',['../da/d17/classevents_1_1_subscriber_handler.html#a0d7898b3da02a8e0518be8b66e01d622',1,'events::SubscriberHandler']]],
+  ['sumd_5fdecode_5fstate',['SUMD_DECODE_STATE',['../d4/dd7/sumd_8cpp.html#a44ca0d0f848277a7080d25feac7fbef2',1,'sumd.cpp']]]
 ];

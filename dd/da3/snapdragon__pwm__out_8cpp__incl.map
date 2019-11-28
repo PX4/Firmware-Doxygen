@@ -1,22 +1,27 @@
 <map id="src/drivers/snapdragon_pwm_out/snapdragon_pwm_out.cpp" name="src/drivers/snapdragon_pwm_out/snapdragon_pwm_out.cpp">
-<area shape="rect" id="node3" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="1004,199,1097,225"/>
-<area shape="rect" id="node5" href="$d8/d37/px4__getopt_8h.html" title="Thread safe version of getopt. " alt="" coords="204,117,302,143"/>
-<area shape="rect" id="node6" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="1022,117,1114,143"/>
-<area shape="rect" id="node21" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="242,199,352,225"/>
-<area shape="rect" id="node22" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="32,109,180,151"/>
-<area shape="rect" id="node23" href="$df/d1d/actuator__outputs_8h.html" title="uORB/topics/actuator\l_outputs.h" alt="" coords="667,109,815,151"/>
-<area shape="rect" id="node24" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="326,109,474,151"/>
-<area shape="rect" id="node25" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="839,109,998,151"/>
-<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1256,117,1372,143"/>
-<area shape="rect" id="node30" href="$d5/d7b/drv__mixer_8h.html" title="Mixer ioctl interfaces. " alt="" coords="1912,199,2045,225"/>
-<area shape="rect" id="node32" href="$d9/dc3/lib_2mixer_2mixer_8h.html" title="mixer/mixer.h" alt="" coords="2016,117,2117,143"/>
-<area shape="rect" id="node34" href="$d1/d63/mixer__load_8h.html" title="mixer_load.h" alt="" coords="2120,199,2216,225"/>
-<area shape="rect" id="node36" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="841,199,980,225"/>
-<area shape="rect" id="node37" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1757,199,1888,225"/>
-<area shape="rect" id="node38" href="$de/d7f/pwm__limit_8h.html" title="pwm_limit/pwm_limit.h" alt="" coords="1477,199,1632,225"/>
-<area shape="rect" id="node7" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1771,273,1874,300"/>
-<area shape="rect" id="node17" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="376,199,463,225"/>
-<area shape="rect" id="node8" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="1783,348,1862,375"/>
-<area shape="rect" id="node27" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1172,199,1259,225"/>
-<area shape="rect" id="node33" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="2081,273,2177,300"/>
+<area shape="rect" id="node9" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="925,117,1084,143"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="568,474,684,501"/>
+<area shape="rect" id="node36" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="1573,199,1721,240"/>
+<area shape="rect" id="node37" href="$df/d1d/actuator__outputs_8h.html" title="uORB/topics/actuator\l_outputs.h" alt="" coords="1696,377,1844,419"/>
+<area shape="rect" id="node38" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="1797,199,1945,240"/>
+<area shape="rect" id="node39" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="1848,288,2007,329"/>
+<area shape="rect" id="node40" href="$d5/d7b/drv__mixer_8h.html" title="Mixer ioctl interfaces. " alt="" coords="1243,474,1377,501"/>
+<area shape="rect" id="node41" href="$d4/db1/_multirotor_mixer_8hpp.html" title="lib/mixer/MultirotorMixer\l/MultirotorMixer.hpp" alt="" coords="411,109,572,151"/>
+<area shape="rect" id="node44" href="$d0/d68/_mixer_group_8hpp.html" title="lib/mixer/MixerGroup.hpp" alt="" coords="596,117,763,143"/>
+<area shape="rect" id="node45" href="$d1/d63/mixer__load_8h.html" title="lib/mixer/mixer_load.h" alt="" coords="1247,206,1397,233"/>
+<area shape="rect" id="node46" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1838,474,1993,501"/>
+<area shape="rect" id="node47" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1416,474,1564,501"/>
+<area shape="rect" id="node48" href="$da/d89/output__limit_8h.html" title="Library for output limiting (PWM for example) " alt="" coords="2017,467,2163,508"/>
+<area shape="rect" id="node10" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1603,474,1713,501"/>
+<area shape="rect" id="node14" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="uORBDeviceNode.hpp" alt="" coords="853,206,1007,233"/>
+<area shape="rect" id="node32" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="uORBManager.hpp" alt="" coords="567,206,701,233"/>
+<area shape="rect" id="node35" href="$d9/d38/u_o_r_b_utils_8hpp.html" title="uORBUtils.hpp" alt="" coords="429,206,540,233"/>
+<area shape="rect" id="node15" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="533,385,669,411"/>
+<area shape="rect" id="node26" href="$d5/d10/u_o_r_b_device_master_8hpp.html" title="uORBDeviceMaster.hpp" alt="" coords="773,295,937,322"/>
+<area shape="rect" id="node27" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="376,385,508,411"/>
+<area shape="rect" id="node28" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="1191,295,1322,322"/>
+<area shape="rect" id="node16" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="810,474,957,501"/>
+<area shape="rect" id="node18" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="220,474,328,501"/>
+<area shape="rect" id="node30" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="1075,385,1239,411"/>
+<area shape="rect" id="node42" href="$d4/de5/_mixer_8hpp.html" title="Generic, programmable, procedural control signal mixers. " alt="" coords="99,206,249,233"/>
 </map>

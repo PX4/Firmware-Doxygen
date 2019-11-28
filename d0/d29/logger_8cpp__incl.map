@@ -1,35 +1,27 @@
 <map id="src/modules/logger/logger.cpp" name="src/modules/logger/logger.cpp">
-<area shape="rect" id="node2" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="510,273,606,300"/>
-<area shape="rect" id="node3" href="$d1/d8c/logger_8h.html" title="logger.h" alt="" coords="868,102,936,129"/>
-<area shape="rect" id="node8" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="643,348,721,375"/>
-<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="2617,191,2733,218"/>
-<area shape="rect" id="node20" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="311,191,469,218"/>
-<area shape="rect" id="node21" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1953,273,2062,300"/>
-<area shape="rect" id="node25" href="$df/dfc/version_8h.html" title="Tools for system version detection. " alt="" coords="493,191,615,218"/>
-<area shape="rect" id="node30" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="1123,273,1217,300"/>
-<area shape="rect" id="node32" href="$da/df0/modules_2logger_2messages_8h.html" title="messages.h" alt="" coords="2771,102,2865,129"/>
-<area shape="rect" id="node33" href="$d9/da3/watchdog_8h.html" title="watchdog.h" alt="" coords="2607,102,2696,129"/>
-<area shape="rect" id="node37" href="$d8/d9f/u_o_r_b_topics_8h.html" title="uORB/uORBTopics.h" alt="" coords="2393,191,2541,218"/>
-<area shape="rect" id="node38" href="$d1/d88/log__message_8h.html" title="uORB/topics/log_message.h" alt="" coords="1626,191,1815,218"/>
-<area shape="rect" id="node39" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="1840,184,1999,225"/>
-<area shape="rect" id="node40" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="2023,184,2165,225"/>
-<area shape="rect" id="node41" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="1883,95,2025,136"/>
-<area shape="rect" id="node42" href="$db/d2e/vehicle__command__ack_8h.html" title="uORB/topics/vehicle\l_command_ack.h" alt="" coords="2049,95,2192,136"/>
-<area shape="rect" id="node43" href="$d5/d99/px4__includes_8h.html" title="Includes headers depending on the build target. " alt="" coords="3174,102,3283,129"/>
-<area shape="rect" id="node44" href="$d8/d37/px4__getopt_8h.html" title="Thread safe version of getopt. " alt="" coords="3308,102,3405,129"/>
-<area shape="rect" id="node45" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="1343,191,1435,218"/>
-<area shape="rect" id="node46" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="2205,273,2292,300"/>
-<area shape="rect" id="node47" href="$dd/d3d/px4__shutdown_8h.html" title="Power&#45;related API. " alt="" coords="1201,191,1318,218"/>
-<area shape="rect" id="node48" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="2217,102,2379,129"/>
-<area shape="rect" id="node49" href="$d1/dc9/definitions_8hpp.html" title="replay/definitions.hpp" alt="" coords="3429,102,3575,129"/>
-<area shape="rect" id="node4" href="$dc/d10/log__writer_8h.html" title="log_writer.h" alt="" coords="857,191,947,218"/>
-<area shape="rect" id="node5" href="$db/d63/array_8h.html" title="array.h" alt="" coords="224,191,287,218"/>
-<area shape="rect" id="node7" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="631,273,733,300"/>
-<area shape="rect" id="node26" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="910,273,1049,300"/>
-<area shape="rect" id="node27" href="$de/d6c/printload_8h.html" title="Print the current system load. " alt="" coords="639,191,781,218"/>
-<area shape="rect" id="node28" href="$d7/dc9/px4__module_8h.html" title="px4_module.h" alt="" coords="1023,191,1125,218"/>
-<area shape="rect" id="node31" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="1459,184,1601,225"/>
-<area shape="rect" id="node17" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="2639,273,2725,300"/>
-<area shape="rect" id="node22" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="353,273,485,300"/>
-<area shape="rect" id="node23" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="169,273,277,300"/>
+<area shape="rect" id="node4" href="$d1/d8c/logger_8h.html" title="logger.h" alt="" coords="1262,102,1330,129"/>
+<area shape="rect" id="node6" href="$da/df0/modules_2logger_2messages_8h.html" title="messages.h" alt="" coords="407,191,500,218"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="215,191,331,218"/>
+<area shape="rect" id="node20" href="$df/dfc/version_8h.html" title="Tools for system version detection. " alt="" coords="525,191,646,218"/>
+<area shape="rect" id="node30" href="$d9/da3/watchdog_8h.html" title="watchdog.h" alt="" coords="263,102,353,129"/>
+<area shape="rect" id="node35" href="$de/d61/_publication_queued_8hpp.html" title="uORB/PublicationQueued.hpp" alt="" coords="2434,102,2630,129"/>
+<area shape="rect" id="node38" href="$d8/d9f/u_o_r_b_topics_8h.html" title="uORB/uORBTopics.h" alt="" coords="1955,191,2103,218"/>
+<area shape="rect" id="node39" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="2074,273,2233,315"/>
+<area shape="rect" id="node40" href="$db/d2e/vehicle__command__ack_8h.html" title="uORB/topics/vehicle\l_command_ack.h" alt="" coords="2230,184,2373,225"/>
+<area shape="rect" id="node41" href="$da/d34/_limits_8hpp.html" title="Limiting / constrain helper functions. " alt="" coords="3713,102,3874,129"/>
+<area shape="rect" id="node49" href="$d2/d58/src_2lib_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="819,281,981,307"/>
+<area shape="rect" id="node50" href="$d1/dc9/definitions_8hpp.html" title="replay/definitions.hpp" alt="" coords="3898,102,4043,129"/>
+<area shape="rect" id="node5" href="$dc/d10/log__writer_8h.html" title="log_writer.h" alt="" coords="889,191,978,218"/>
+<area shape="rect" id="node7" href="$db/d5e/_array_8hpp.html" title="containers/Array.hpp" alt="" coords="2449,191,2591,218"/>
+<area shape="rect" id="node9" href="$d8/d3c/util_8h.html" title="util.h" alt="" coords="1829,191,1880,218"/>
+<area shape="rect" id="node21" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="376,370,515,397"/>
+<area shape="rect" id="node22" href="$de/d6c/printload_8h.html" title="Print the current system load. " alt="" coords="722,191,865,218"/>
+<area shape="rect" id="node24" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="1655,281,1814,307"/>
+<area shape="rect" id="node25" href="$d5/d0a/_subscription_interval_8hpp.html" title="uORB/SubscriptionInterval.hpp" alt="" coords="1603,191,1805,218"/>
+<area shape="rect" id="node26" href="$d1/d88/log__message_8h.html" title="uORB/topics/log_message.h" alt="" coords="1340,281,1529,307"/>
+<area shape="rect" id="node27" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="1006,273,1149,315"/>
+<area shape="rect" id="node28" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="1173,273,1315,315"/>
+<area shape="rect" id="node29" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="1385,184,1527,225"/>
+<area shape="rect" id="node11" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1537,370,1647,397"/>
+<area shape="rect" id="node36" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2718,191,2826,218"/>
 </map>

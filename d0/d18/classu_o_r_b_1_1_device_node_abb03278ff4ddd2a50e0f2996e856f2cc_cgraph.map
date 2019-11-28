@@ -1,12 +1,7 @@
 <map id="uORB::DeviceNode::add_internal_subscriber" name="uORB::DeviceNode::add_internal_subscriber">
 <area shape="rect" id="node2" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a2fdcab300f1c9ccf8c43858493ca9358" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="220,5,423,47"/>
 <area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="250,71,393,112"/>
-<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="254,137,389,163"/>
-<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="247,187,395,214"/>
+<area shape="rect" id="node5" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="259,137,383,163"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="252,187,391,214"/>
 <area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="471,71,613,112"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="661,78,788,105"/>
-<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="836,53,971,79"/>
-<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="851,103,955,130"/>
-<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1026,78,1165,105"/>
-<area shape="rect" id="node9" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1019,129,1172,155"/>
 </map>

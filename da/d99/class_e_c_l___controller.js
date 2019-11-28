@@ -1,7 +1,7 @@
 var class_e_c_l___controller =
 [
-    [ "ECL_Controller", "da/d99/class_e_c_l___controller.html#ade0f27a80de6875e45fd9986b56b1cdd", null ],
-    [ "~ECL_Controller", "da/d99/class_e_c_l___controller.html#aa38430360b76f12414e7e7a521fd36d9", null ],
+    [ "ECL_Controller", "da/d99/class_e_c_l___controller.html#aa5af7f12afd0afdec7aebf8083ce1a0b", null ],
+    [ "~ECL_Controller", "da/d99/class_e_c_l___controller.html#af43683358b942e7b1f06be4cde3fad01", null ],
     [ "constrain_airspeed", "da/d99/class_e_c_l___controller.html#af3a4191cd7f8da18ce0215ae1daa5c58", null ],
     [ "control_attitude", "da/d99/class_e_c_l___controller.html#afa1aa3cb68de5deefc5a4c102884355c", null ],
     [ "control_bodyrate", "da/d99/class_e_c_l___controller.html#a3d104e106480191b8c1beaffba1cc6ce", null ],

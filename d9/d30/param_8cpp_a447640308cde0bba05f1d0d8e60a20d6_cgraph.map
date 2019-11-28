@@ -1,7 +1,51 @@
 <map id="do_reset_nostart" name="do_reset_nostart">
-<area shape="rect" id="node2" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="205,5,292,32"/>
-<area shape="rect" id="node3" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="207,56,290,83"/>
-<area shape="rect" id="node4" href="$d9/da5/param_8c.html#aab3a3324b8f2b8a6d4d33583024ea7cc" title="Reset all parameters to their default values. " alt="" coords="191,107,306,133"/>
-<area shape="rect" id="node5" href="$d9/da5/param_8c.html#ac579e1a9910cc9e997cceeefbbf51d05" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="172,157,325,184"/>
-<area shape="rect" id="node6" href="$d9/da5/param_8c.html#a126ed3d305f2dd3cd9880f11ee2922a0" title="Set the value of a parameter. " alt="" coords="207,208,290,235"/>
+<area shape="rect" id="node2" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="205,1039,292,1066"/>
+<area shape="rect" id="node11" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="207,643,290,670"/>
+<area shape="rect" id="node40" href="$d5/d33/param_8h.html#aba23d08f1756d0ab3e8cbd610abaf6af" title="Reset all parameters to their default values. " alt="" coords="191,1318,306,1345"/>
+<area shape="rect" id="node46" href="$d5/d33/param_8h.html#ab6c1c91bd7dcb9fc540805e112e22d9a" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="172,1470,325,1497"/>
+<area shape="rect" id="node49" href="$d5/d33/param_8h.html#a26cb63b426af831903dcb1193002cf48" title="Set the value of a parameter. " alt="" coords="207,1191,290,1218"/>
+<area shape="rect" id="node3" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="387,938,522,965"/>
+<area shape="rect" id="node4" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1197,1039,1348,1066"/>
+<area shape="rect" id="node5" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="584,989,751,1015"/>
+<area shape="rect" id="node8" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="626,837,709,863"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="631,786,703,813"/>
+<area shape="rect" id="node6" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a7a74545fb539a29ccb58c34cfdd73e6e" title="Look up the index of a parameter. " alt="" coords="809,989,931,1015"/>
+<area shape="rect" id="node7" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1011,1191,1127,1218"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="807,811,933,838"/>
+<area shape="rect" id="node12" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="648,618,687,645"/>
+<area shape="rect" id="node15" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1011,137,1127,163"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="596,1141,739,1167"/>
+<area shape="rect" id="node22" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="389,162,521,189"/>
+<area shape="rect" id="node23" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="619,10,716,37"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="389,517,521,543"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="825,213,915,239"/>
+<area shape="rect" id="node38" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="623,1090,712,1117"/>
+<area shape="rect" id="node39" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="381,669,528,695"/>
+<area shape="rect" id="node13" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="829,618,911,645"/>
+<area shape="rect" id="node14" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1026,618,1113,645"/>
+<area shape="rect" id="node16" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1197,137,1348,163"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="996,1090,1143,1117"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="799,1242,941,1269"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="825,1191,915,1218"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="989,1318,1149,1345"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="587,669,747,695"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="608,466,727,493"/>
+<area shape="rect" id="node29" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="989,542,1149,569"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="799,517,941,543"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="596,415,739,442"/>
+<area shape="rect" id="node33" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="596,720,739,761"/>
+<area shape="rect" id="node34" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="603,314,731,341"/>
+<area shape="rect" id="node35" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="599,887,735,914"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="623,162,712,189"/>
+<area shape="rect" id="node37" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="596,365,739,391"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="820,714,920,741"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="826,938,914,965"/>
+<area shape="rect" id="node41" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a759202dec4546bd981d796584f740bbd" title="param_reset_all_internal" alt="" coords="373,1394,536,1421"/>
+<area shape="rect" id="node42" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="587,1039,747,1066"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="608,1394,727,1421"/>
+<area shape="rect" id="node44" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="603,1445,731,1471"/>
+<area shape="rect" id="node45" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="596,1495,739,1522"/>
+<area shape="rect" id="node47" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="406,1698,503,1725"/>
+<area shape="rect" id="node48" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a44d25292a66f5521372edb465e668038" title="Reset a parameter to its default value. " alt="" coords="407,1470,502,1497"/>
+<area shape="rect" id="node50" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="389,1191,521,1218"/>
 </map>

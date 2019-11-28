@@ -1,9 +1,7 @@
 <map id="mpl3115a2::mpl3115a2_bus_option" name="mpl3115a2::mpl3115a2_bus_option">
-<area shape="rect" id="node2" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="296,329,429,597"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="142,660,325,1075"/>
-<area shape="rect" id="node3" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="278,189,447,267"/>
-<area shape="rect" id="node4" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="257,5,468,127"/>
-<area shape="rect" id="node5" href="$d8/d33/class_m_p_l3115_a2.html" title="{MPL3115A2\n|# _interface\l# _work\l# _measure_ticks\l# _reports\l# _collect_phase\l# _P\land 4 more...\l|+ MPL3115A2()\l+ ~MPL3115A2()\l+ init()\l+ read()\l+ ioctl()\l+ print_info()\l# start_cycle()\l# stop_cycle()\l# cycle()\l# measure()\l# collect()\l# cycle_trampoline()\l}" alt="" coords="164,1167,303,1493"/>
-<area shape="rect" id="node7" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="120,425,272,502"/>
-<area shape="rect" id="node8" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="5,814,117,921"/>
+<area shape="rect" id="node2" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="5,204,177,457"/>
+<area shape="rect" id="node3" href="$d8/d33/class_m_p_l3115_a2.html" title="{MPL3115A2\n|# _measure_interval\l# _reports\l# _collect_phase\l# _P\l# _T\l# _baro_topic\l# _orb_class_instance\l# _class_instance\l|+ MPL3115A2()\l+ ~MPL3115A2()\l+ init()\l+ read()\l+ ioctl()\l+ print_info()\l# start()\l# stop()\l# Run()\l# measure()\l# collect()\l}" alt="" coords="250,608,402,935"/>
+<area shape="rect" id="node4" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="201,145,384,516"/>
+<area shape="rect" id="node5" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="221,5,364,83"/>
+<area shape="rect" id="node7" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="573,277,685,384"/>
 </map>

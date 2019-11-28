@@ -1,7 +1,0 @@
-<map id="ACCELSIM_mag" name="ACCELSIM_mag">
-<area shape="rect" id="node3" href="$de/d74/class_a_c_c_e_l_s_i_m.html" title="{ACCELSIM\n|&#45; _accel_reports\l&#45; _mag_reports\l&#45; _accel_range_m_s2\l&#45; _accel_range_scale\l&#45; _accel_samplerate\l&#45; _accel_onchip_filter\l_bandwith\land 12 more...\l|+ ACCELSIM()\l+ ~ACCELSIM()\l+ init()\l+ devRead()\l+ devIOCTL()\l+ print_registers()\l# mag_read()\l# mag_ioctl()\l# transfer()\l&#45; start()\l&#45; stop()\l&#45; _measure()\l&#45; mag_measure()\l&#45; accel_set_range()\l&#45; mag_set_range()\l&#45; accel_set_driver_lowpass\l_filter()\l&#45; ACCELSIM()\l&#45; operator=()\l}" alt="" coords="254,492,434,936"/>
-<area shape="rect" id="node4" href="$de/dfc/classmath_1_1_low_pass_filter2p.html" title="{math::LowPassFilter2p\n|&#45; _cutoff_freq\l&#45; _a1\l&#45; _a2\l&#45; _b0\l&#45; _b1\l&#45; _b2\l&#45; _delay_element_1\l&#45; _delay_element_2\l|+ LowPassFilter2p()\l+ set_cutoff_frequency()\l+ apply()\l+ get_cutoff_freq()\l+ reset()\l}" alt="" coords="262,132,426,371"/>
-<area shape="rect" id="node5" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="451,198,563,305"/>
-<area shape="rect" id="node6" href="$d1/d13/structmag__calibration__s.html" title="mag scaling factors; Vout = (Vin * Vscale) + Voffset " alt="" coords="587,176,714,327"/>
-<area shape="rect" id="node7" href="$de/d34/structaccel__calibration__s.html" title="accel scaling factors; Vout = Vscale * (Vin + Voffset) " alt="" coords="739,176,872,327"/>
-</map>

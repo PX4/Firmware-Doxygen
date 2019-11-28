@@ -1,26 +1,14 @@
 <map id="PX4FMU::capture_ioctl" name="PX4FMU::capture_ioctl">
-<area shape="rect" id="node2" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="219,296,353,323"/>
-<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a14ec7f47e6be4f509c4a28c6cf1b35fd" title="PX4FMU::set_mode" alt="" coords="215,347,357,373"/>
-<area shape="rect" id="node4" href="$dc/d5d/drv__input__capture_8h.html#ab86ba2023ce7e2c504afa11874b1acc7" title="up_input_capture_set" alt="" coords="409,335,555,361"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="212,975,360,1001"/>
-<area shape="rect" id="node19" href="$dc/d5d/drv__input__capture_8h.html#aacd6c3071bb2563eff11bcb6cd6aa878" title="up_input_capture_get\l_callback" alt="" coords="614,855,761,897"/>
-<area shape="rect" id="node20" href="$dc/d5d/drv__input__capture_8h.html#ad52e79b19080b1ae9efcfbc15bc18e02" title="up_input_capture_get\l_filter" alt="" coords="614,921,761,962"/>
-<area shape="rect" id="node21" href="$dc/d5d/drv__input__capture_8h.html#af5fed677232688f7bba921a771674099" title="up_input_capture_get\l_stats" alt="" coords="409,542,555,583"/>
-<area shape="rect" id="node22" href="$dc/d5d/drv__input__capture_8h.html#a66379a81406a892e5c7eeb3e7fb7dd32" title="up_input_capture_get\l_trigger" alt="" coords="614,725,761,766"/>
-<area shape="rect" id="node23" href="$dc/d5d/drv__input__capture_8h.html#a7306a37e4c820793b84006f7d8ec6e77" title="up_input_capture_set\l_callback" alt="" coords="614,529,761,570"/>
-<area shape="rect" id="node24" href="$dc/d5d/drv__input__capture_8h.html#a3c5eef4154d6daa0b01f37d059b907e5" title="up_input_capture_set\l_filter" alt="" coords="614,790,761,831"/>
-<area shape="rect" id="node25" href="$dc/d5d/drv__input__capture_8h.html#a99d902765aa5bdc01470b61ce20221a0" title="up_input_capture_set\l_trigger" alt="" coords="614,986,761,1027"/>
-<area shape="rect" id="node16" href="$d0/dbb/drv__pwm__output_8h.html#a53f946d554caa8bfbfe13782395de840" title="De&#45;initialise the PWM servo outputs. " alt="" coords="408,132,556,159"/>
-<area shape="rect" id="node5" href="$de/d39/kinetis_2drv__input__capture_8c.html#a6256f92a47b52f2ec418d1a2fe2a9403" title="input_capture_bind" alt="" coords="845,309,976,336"/>
-<area shape="rect" id="node6" href="$de/d39/kinetis_2drv__input__capture_8c.html#a704bf3381f147c3af24e9073caaeb86e" title="input_capture_chan\l_handler" alt="" coords="620,411,755,453"/>
-<area shape="rect" id="node7" href="$de/d39/kinetis_2drv__input__capture_8c.html#afa345846ae6d28bef7d907064f1cf544" title="input_capture_unbind" alt="" coords="615,309,760,336"/>
-<area shape="rect" id="node8" href="$df/d04/kinetis_2drv__io__timer_8c.html#a343379143ce0393538db2d45ecc62937" title="io_timer_channel_init" alt="" coords="615,56,759,83"/>
-<area shape="rect" id="node9" href="$df/d04/kinetis_2drv__io__timer_8c.html#af4ccab9ca17f8ab3707ce27720c598b1" title="io_timer_free_channel" alt="" coords="613,107,762,133"/>
-<area shape="rect" id="node10" href="$df/d04/kinetis_2drv__io__timer_8c.html#a8652ddbf6db397a7600db2712eea5b44" title="io_timer_is_channel_free" alt="" coords="604,157,771,184"/>
-<area shape="rect" id="node11" href="$df/d04/kinetis_2drv__io__timer_8c.html#a8d131a07acda51dc5e4f5422f845e9fe" title="io_timer_set_enable" alt="" coords="841,107,980,133"/>
-<area shape="rect" id="node12" href="$df/d04/kinetis_2drv__io__timer_8c.html#ac36040b08c9f34faaecdd736f7143eeb" title="io_timer_validate_channel\l_index" alt="" coords="825,693,997,734"/>
-<area shape="rect" id="node13" href="$de/d39/kinetis_2drv__input__capture_8c.html#a47c70f63eea8d206f9b15aa094d7a600" title="up_input_capture_set\l_filter" alt="" coords="614,659,761,701"/>
-<area shape="rect" id="node15" href="$de/d39/kinetis_2drv__input__capture_8c.html#a7f7332dc71fa0f6a71bbdc9b4bca24e2" title="up_input_capture_set\l_trigger" alt="" coords="614,594,761,635"/>
-<area shape="rect" id="node14" href="$df/d04/kinetis_2drv__io__timer_8c.html#a36f50c3e99f425107d1bb6523dff98a2" title="io_timer_get_channel_mode" alt="" coords="819,779,1003,805"/>
-<area shape="rect" id="node17" href="$d6/d33/kinetis_2drv__pwm__servo_8c.html#ab38515819ca4025104e5497a199ad931" title="Arm or disarm servo outputs. " alt="" coords="618,5,757,32"/>
+<area shape="rect" id="node2" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="223,5,347,32"/>
+<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a14ec7f47e6be4f509c4a28c6cf1b35fd" title="PX4FMU::set_mode" alt="" coords="215,107,356,133"/>
+<area shape="rect" id="node4" href="$dc/d5d/drv__input__capture_8h.html#ab86ba2023ce7e2c504afa11874b1acc7" title="up_input_capture_set" alt="" coords="407,56,554,83"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="216,157,355,184"/>
+<area shape="rect" id="node7" href="$dc/d5d/drv__input__capture_8h.html#aacd6c3071bb2563eff11bcb6cd6aa878" title="up_input_capture_get\l_callback" alt="" coords="212,209,359,250"/>
+<area shape="rect" id="node8" href="$dc/d5d/drv__input__capture_8h.html#ad52e79b19080b1ae9efcfbc15bc18e02" title="up_input_capture_get\l_filter" alt="" coords="212,274,359,315"/>
+<area shape="rect" id="node9" href="$dc/d5d/drv__input__capture_8h.html#af5fed677232688f7bba921a771674099" title="up_input_capture_get\l_stats" alt="" coords="212,339,359,381"/>
+<area shape="rect" id="node10" href="$dc/d5d/drv__input__capture_8h.html#a66379a81406a892e5c7eeb3e7fb7dd32" title="up_input_capture_get\l_trigger" alt="" coords="212,405,359,446"/>
+<area shape="rect" id="node11" href="$dc/d5d/drv__input__capture_8h.html#a7306a37e4c820793b84006f7d8ec6e77" title="up_input_capture_set\l_callback" alt="" coords="212,470,359,511"/>
+<area shape="rect" id="node12" href="$dc/d5d/drv__input__capture_8h.html#a3c5eef4154d6daa0b01f37d059b907e5" title="up_input_capture_set\l_filter" alt="" coords="212,535,359,577"/>
+<area shape="rect" id="node13" href="$dc/d5d/drv__input__capture_8h.html#a99d902765aa5bdc01470b61ce20221a0" title="up_input_capture_set\l_trigger" alt="" coords="212,601,359,642"/>
+<area shape="rect" id="node5" href="$d0/dbb/drv__pwm__output_8h.html#a53f946d554caa8bfbfe13782395de840" title="De&#45;initialise the PWM servo outputs. " alt="" coords="407,107,555,133"/>
 </map>

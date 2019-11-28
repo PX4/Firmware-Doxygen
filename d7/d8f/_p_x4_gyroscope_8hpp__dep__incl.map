@@ -1,0 +1,51 @@
+<map id="src/lib/drivers/gyroscope/PX4Gyroscope.hpp" name="src/lib/drivers/gyroscope/PX4Gyroscope.hpp">
+<area shape="rect" id="node2" href="$d6/dea/_a_d_i_s16448_8h.html" title="src/drivers/imu/adis16448\l/ADIS16448.h" alt="" coords="200,95,371,136"/>
+<area shape="rect" id="node5" href="$d7/d43/_a_d_i_s16477_8hpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.hpp" alt="" coords="589,95,760,136"/>
+<area shape="rect" id="node8" href="$d4/d35/_a_d_i_s16497_8hpp.html" title="src/drivers/imu/adis16497\l/ADIS16497.hpp" alt="" coords="979,95,1149,136"/>
+<area shape="rect" id="node11" href="$dc/d1f/_b_m_i055__gyro_8hpp.html" title="src/drivers/imu/bmi055\l/BMI055_gyro.hpp" alt="" coords="1352,95,1507,136"/>
+<area shape="rect" id="node14" href="$d9/d64/_b_m_i088__gyro_8hpp.html" title="src/drivers/imu/bmi088\l/BMI088_gyro.hpp" alt="" coords="1709,95,1864,136"/>
+<area shape="rect" id="node17" href="$d5/d87/bmi160_8hpp.html" title="src/drivers/imu/bmi160\l/bmi160.hpp" alt="" coords="2067,95,2221,136"/>
+<area shape="rect" id="node20" href="$d8/d26/_f_x_a_s21002_c_8hpp.html" title="Driver for the NXP FXAS21002C 3&#45;Axis Digital Angular Rate Gyroscope connected via SPI..." alt="" coords="2448,95,2627,136"/>
+<area shape="rect" id="node23" href="$d1/dde/icm20948_8h.html" title="src/drivers/imu/icm20948\l/icm20948.h" alt="" coords="2939,95,3107,136"/>
+<area shape="rect" id="node30" href="$d3/dca/l3gd20_8cpp.html" title="Driver for the ST L3GD20 MEMS and L3GD20H mems gyros connected via SPI. " alt="" coords="3131,95,3282,136"/>
+<area shape="rect" id="node31" href="$d1/df6/_m_p_u6000_8hpp.html" title="src/drivers/imu/mpu6000\l/MPU6000.hpp" alt="" coords="3992,95,4157,136"/>
+<area shape="rect" id="node36" href="$db/d35/mpu9250_8h.html" title="src/drivers/imu/mpu9250\l/mpu9250.h" alt="" coords="4844,95,5009,136"/>
+<area shape="rect" id="node43" href="$d3/dbc/_p_x4_gyroscope_8cpp.html" title="src/lib/drivers/gyroscope\l/PX4Gyroscope.cpp" alt="" coords="5034,95,5198,136"/>
+<area shape="rect" id="node44" href="$d8/d9f/sih_8hpp.html" title="src/modules/sih/sih.hpp" alt="" coords="5412,102,5572,129"/>
+<area shape="rect" id="node46" href="$d3/d9e/simulator_8h.html" title="This module interfaces via MAVLink to a software in the loop simulator (SITL) such as jMAVSim or Gaze..." alt="" coords="6055,95,6206,136"/>
+<area shape="rect" id="node3" href="$dc/d86/_a_d_i_s16448_8cpp.html" title="Driver for the Analog device ADIS16448 connected via SPI. " alt="" coords="5,184,176,225"/>
+<area shape="rect" id="node4" href="$dd/d0b/adis16448__main_8cpp.html" title="src/drivers/imu/adis16448\l/adis16448_main.cpp" alt="" coords="200,184,371,225"/>
+<area shape="rect" id="node6" href="$d9/d08/_a_d_i_s16477_8cpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.cpp" alt="" coords="395,184,565,225"/>
+<area shape="rect" id="node7" href="$de/df3/adis16477__main_8cpp.html" title="src/drivers/imu/adis16477\l/adis16477_main.cpp" alt="" coords="589,184,760,225"/>
+<area shape="rect" id="node9" href="$d7/dd7/_a_d_i_s16497_8cpp.html" title="src/drivers/imu/adis16497\l/ADIS16497.cpp" alt="" coords="784,184,955,225"/>
+<area shape="rect" id="node10" href="$d8/dbb/adis16497__main_8cpp.html" title="src/drivers/imu/adis16497\l/adis16497_main.cpp" alt="" coords="979,184,1149,225"/>
+<area shape="rect" id="node12" href="$d7/d56/_b_m_i055__gyro_8cpp.html" title="src/drivers/imu/bmi055\l/BMI055_gyro.cpp" alt="" coords="1173,184,1328,225"/>
+<area shape="rect" id="node13" href="$d1/db0/bmi055__main_8cpp.html" title="src/drivers/imu/bmi055\l/bmi055_main.cpp" alt="" coords="1352,184,1507,225"/>
+<area shape="rect" id="node15" href="$d6/d62/_b_m_i088__gyro_8cpp.html" title="src/drivers/imu/bmi088\l/BMI088_gyro.cpp" alt="" coords="1531,184,1685,225"/>
+<area shape="rect" id="node16" href="$d4/d4a/bmi088__main_8cpp.html" title="src/drivers/imu/bmi088\l/bmi088_main.cpp" alt="" coords="1709,184,1864,225"/>
+<area shape="rect" id="node18" href="$db/dc7/bmi160_8cpp.html" title="src/drivers/imu/bmi160\l/bmi160.cpp" alt="" coords="1888,184,2043,225"/>
+<area shape="rect" id="node19" href="$db/d05/bmi160__main_8cpp.html" title="src/drivers/imu/bmi160\l/bmi160_main.cpp" alt="" coords="2067,184,2221,225"/>
+<area shape="rect" id="node21" href="$d4/d0f/_f_x_a_s21002_c_8cpp.html" title="src/drivers/imu/fxas21002c\l/FXAS21002C.cpp" alt="" coords="2245,184,2424,225"/>
+<area shape="rect" id="node22" href="$d5/d96/fxas21002c__main_8cpp.html" title="src/drivers/imu/fxas21002c\l/fxas21002c_main.cpp" alt="" coords="2448,184,2627,225"/>
+<area shape="rect" id="node24" href="$d2/d5c/icm20948_8cpp.html" title="Driver for the Invensense ICM20948 connected via I2C or SPI. " alt="" coords="2651,184,2819,225"/>
+<area shape="rect" id="node25" href="$de/d30/icm20948__i2c_8cpp.html" title="I2C interface for ICM20948. " alt="" coords="2843,184,3011,225"/>
+<area shape="rect" id="node26" href="$d7/d0b/_i_c_m20948__mag_8cpp.html" title="src/drivers/imu/icm20948\l/ICM20948_mag.cpp" alt="" coords="3035,184,3203,225"/>
+<area shape="rect" id="node27" href="$d2/d25/icm20948__main_8cpp.html" title="src/drivers/imu/icm20948\l/icm20948_main.cpp" alt="" coords="3227,184,3395,225"/>
+<area shape="rect" id="node28" href="$d0/de2/icm20948__spi_8cpp.html" title="Driver for the Invensense ICM20948 connected via SPI. " alt="" coords="3419,184,3587,225"/>
+<area shape="rect" id="node29" href="$df/d74/mag__i2c_8cpp.html" title="I2C interface for AK09916. " alt="" coords="3611,184,3779,225"/>
+<area shape="rect" id="node32" href="$de/d0d/_m_p_u6000_8cpp.html" title="Driver for the Invensense MPU6000, MPU6050, ICM20608, and ICM20602 connected via SPI or I2C..." alt="" coords="3803,184,3968,225"/>
+<area shape="rect" id="node33" href="$d6/d78/_m_p_u6000___i2_c_8cpp.html" title="I2C interface for MPU6000 /MPU6050. " alt="" coords="3992,184,4157,225"/>
+<area shape="rect" id="node34" href="$df/dcc/mpu6000__main_8cpp.html" title="src/drivers/imu/mpu6000\l/mpu6000_main.cpp" alt="" coords="4181,184,4347,225"/>
+<area shape="rect" id="node35" href="$d7/dc1/_m_p_u6000___s_p_i_8cpp.html" title="Driver for the Invensense MPU6000 connected via SPI. " alt="" coords="4371,184,4536,225"/>
+<area shape="rect" id="node37" href="$d2/d38/_a_k8963___i2_c_8cpp.html" title="src/drivers/imu/mpu9250\l/AK8963_I2C.cpp" alt="" coords="4560,184,4725,225"/>
+<area shape="rect" id="node38" href="$d8/d71/mpu9250_8cpp.html" title="Driver for the Invensense MPU9250 connected via I2C or SPI. " alt="" coords="4749,184,4915,225"/>
+<area shape="rect" id="node39" href="$dc/df6/mpu9250__i2c_8cpp.html" title="I2C interface for MPU9250. " alt="" coords="4939,184,5104,225"/>
+<area shape="rect" id="node40" href="$d0/d39/_m_p_u9250__mag_8cpp.html" title="src/drivers/imu/mpu9250\l/MPU9250_mag.cpp" alt="" coords="5128,184,5293,225"/>
+<area shape="rect" id="node41" href="$d9/dc0/mpu9250__main_8cpp.html" title="src/drivers/imu/mpu9250\l/mpu9250_main.cpp" alt="" coords="5317,184,5483,225"/>
+<area shape="rect" id="node42" href="$d0/d15/mpu9250__spi_8cpp.html" title="Driver for the Invensense MPU9250 connected via SPI. " alt="" coords="5507,184,5672,225"/>
+<area shape="rect" id="node45" href="$d9/db0/sih_8cpp.html" title="Simulator in Hardware. " alt="" coords="5696,191,5856,218"/>
+<area shape="rect" id="node47" href="$de/d29/gpssim_8cpp.html" title="Simulated GPS driver. " alt="" coords="5881,184,6031,225"/>
+<area shape="rect" id="node48" href="$db/d47/ubx__sim_8cpp.html" title="src/modules/simulator\l/gpssim/ubx_sim.cpp" alt="" coords="6055,184,6206,225"/>
+<area shape="rect" id="node49" href="$da/d56/simulator_8cpp.html" title="This module interfaces via MAVLink to a software in the loop simulator (SITL) such as jMAVSim or Gaze..." alt="" coords="6230,184,6381,225"/>
+<area shape="rect" id="node50" href="$dd/d94/simulator__mavlink_8cpp.html" title="src/modules/simulator\l/simulator_mavlink.cpp" alt="" coords="6405,184,6561,225"/>
+</map>

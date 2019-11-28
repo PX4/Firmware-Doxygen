@@ -37,9 +37,11 @@ var rotation_8h =
       [ "ROTATION_PITCH_9_YAW_180", "d6/dfe/rotation_8h.html#a4940d1dc528122726d2c8c475657e1a9a907d7dbee57054dd6d17e58438b5dae2", null ],
       [ "ROTATION_PITCH_45", "d6/dfe/rotation_8h.html#a4940d1dc528122726d2c8c475657e1a9a97d4d289eef223f0592c8ebaeb61daa5", null ],
       [ "ROTATION_PITCH_315", "d6/dfe/rotation_8h.html#a4940d1dc528122726d2c8c475657e1a9a55991e9734bff15a4527f4117f80b856", null ],
+      [ "ROTATION_ROLL_90_YAW_270", "d6/dfe/rotation_8h.html#a4940d1dc528122726d2c8c475657e1a9a4be55696f5a11e2749bfa43b1913bb21", null ],
       [ "ROTATION_MAX", "d6/dfe/rotation_8h.html#a4940d1dc528122726d2c8c475657e1a9a7d975b37ef4e97054b94edc07a4b5243", null ]
     ] ],
     [ "get_rot_matrix", "d6/dfe/rotation_8h.html#a84c0b599a5a1540d49a8ecae6cfed266", null ],
+    [ "get_rot_quaternion", "d6/dfe/rotation_8h.html#a1cef3745b4bfcdae166bde7fd7ef804c", null ],
     [ "rotate_3f", "d6/dfe/rotation_8h.html#aa3c61ff4ad576f10e9c754189b1e5757", null ],
     [ "rot_lookup", "d6/dfe/rotation_8h.html#a7172b1ad4dd1a71c2b49d2ab79567c52", null ]
 ];

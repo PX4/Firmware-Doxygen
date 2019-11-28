@@ -8,8 +8,6 @@ var class_l_i_s3_m_d_l =
     [ "check_offset", "d4/df1/class_l_i_s3_m_d_l.html#a9a8f3d714daacf89c0d65f9517f2f4a7", null ],
     [ "check_scale", "d4/df1/class_l_i_s3_m_d_l.html#a87f13ddf47652aabefce2406ff9acfdf", null ],
     [ "collect", "d4/df1/class_l_i_s3_m_d_l.html#a4f9991a60bec3e89c424a4c526f22a04", null ],
-    [ "cycle", "d4/df1/class_l_i_s3_m_d_l.html#abc976f937b431e89d76c2b610fb1cec8", null ],
-    [ "cycle_trampoline", "d4/df1/class_l_i_s3_m_d_l.html#a3cadf8aae06181cb7565516380c3c2d4", null ],
     [ "init", "d4/df1/class_l_i_s3_m_d_l.html#ab022627e0411c4c68d255083290ac1eb", null ],
     [ "ioctl", "d4/df1/class_l_i_s3_m_d_l.html#a968958961a68b4ebc91259b50e6a91a2", null ],
     [ "measure", "d4/df1/class_l_i_s3_m_d_l.html#a7877310c671cc294fd7c01e7f5594c79", null ],
@@ -18,6 +16,7 @@ var class_l_i_s3_m_d_l =
     [ "read", "d4/df1/class_l_i_s3_m_d_l.html#a2d3dc1393f41ca032f1d72fb00ab7f4e", null ],
     [ "read_reg", "d4/df1/class_l_i_s3_m_d_l.html#a0987d5f6d767c628e8e88c2b4fab30fd", null ],
     [ "reset", "d4/df1/class_l_i_s3_m_d_l.html#a3007cfc9b50253ac0e16ca54ea6090d5", null ],
+    [ "Run", "d4/df1/class_l_i_s3_m_d_l.html#a71538cc466ad82bab8afd83701580878", null ],
     [ "set_default_register_values", "d4/df1/class_l_i_s3_m_d_l.html#a317d0ea8acbc0994d6e2267293711649", null ],
     [ "set_excitement", "d4/df1/class_l_i_s3_m_d_l.html#ad942e1306e6fc507cd8f170b8fdfec63", null ],
     [ "set_range", "d4/df1/class_l_i_s3_m_d_l.html#a45b33da9ef047fd12f8dd22a59f94b02", null ],
@@ -37,7 +36,7 @@ var class_l_i_s3_m_d_l =
     [ "_continuous_mode_set", "d4/df1/class_l_i_s3_m_d_l.html#afb783f77ef797380f8a2d4c0c9aca8cf", null ],
     [ "_interface", "d4/df1/class_l_i_s3_m_d_l.html#a8df9e9fa82138471c03bc586e7c8bcdc", null ],
     [ "_mag_topic", "d4/df1/class_l_i_s3_m_d_l.html#a8d40d8471da62c9e6886aa9ab500f738", null ],
-    [ "_measure_ticks", "d4/df1/class_l_i_s3_m_d_l.html#a1da6c3ba02eaa0a2dfb34576a459b5f6", null ],
+    [ "_measure_interval", "d4/df1/class_l_i_s3_m_d_l.html#a757b5ddaf5b47a525a9428f7ec4d67ec", null ],
     [ "_mode", "d4/df1/class_l_i_s3_m_d_l.html#af20b77e2c76621615fddfe92c4cff6bb", null ],
     [ "_orb_class_instance", "d4/df1/class_l_i_s3_m_d_l.html#aa2cb19f0859b6af134f4d72619103df1", null ],
     [ "_range_bits", "d4/df1/class_l_i_s3_m_d_l.html#a521802308a9c88d49501a0469c8a77c2", null ],
@@ -49,6 +48,5 @@ var class_l_i_s3_m_d_l =
     [ "_sample_perf", "d4/df1/class_l_i_s3_m_d_l.html#ab249385350e974e1be2afa98953fd4b1", null ],
     [ "_scale", "d4/df1/class_l_i_s3_m_d_l.html#a956854bdc374d8c4c6b03e9b92040e79", null ],
     [ "_temperature_counter", "d4/df1/class_l_i_s3_m_d_l.html#add31899285570645a3210511b6128809", null ],
-    [ "_temperature_error_count", "d4/df1/class_l_i_s3_m_d_l.html#a134122183399f939f8f095c57972c557", null ],
-    [ "_work", "d4/df1/class_l_i_s3_m_d_l.html#a2b6be6543c0720c075e83b0cdc6a5a9a", null ]
+    [ "_temperature_error_count", "d4/df1/class_l_i_s3_m_d_l.html#a134122183399f939f8f095c57972c557", null ]
 ];

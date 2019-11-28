@@ -1,51 +1,10 @@
 <map id="MavlinkReceiver::handle_message_manual_control" name="MavlinkReceiver::handle_message_manual_control">
-<area shape="rect" id="node2" href="$da/d89/class_mavlink_receiver.html#a4e231f93058112308fe65bd068eeabdb" title="Decode a switch position from a bitfield and state. " alt="" coords="231,91,400,133"/>
-<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a3375cf78f6f2abd7775710417b1bd640" title="Mavlink::get_instance_id" alt="" coords="232,157,399,184"/>
-<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#a3aa1fb0ca3f0d77b10a8954618a51abb" title="Get the manual input generation mode. " alt="" coords="234,593,397,634"/>
-<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="671,5,797,32"/>
-<area shape="rect" id="node23" href="$df/d1f/class_mavlink.html#a8337348a61d9b05f5d9074c88f6b8548" title="Get the MAVLink system id. " alt="" coords="235,659,395,685"/>
-<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="265,956,365,983"/>
-<area shape="rect" id="node36" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="479,1268,567,1295"/>
-<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="255,1369,375,1396"/>
-<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a695f9d69a4d0f138f10c673a64b15206" title="This is the beginning of a MAVLINK_START_UART_SEND/MAVLINK_END_UART_SEND transaction. " alt="" coords="452,731,593,757"/>
-<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#a62726104d4a1e5708a997e87f4263ce5" title="Send bytes out on the link. " alt="" coords="451,259,594,285"/>
-<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#aacd190d885c0a9f521f0d7d0673f2b6f" title="Flush the transmit buffer and send one MAVLink packet. " alt="" coords="448,600,597,627"/>
-<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="665,811,803,837"/>
-<area shape="rect" id="node8" href="$df/d1f/class_mavlink.html#ae2b7a731ed5f81243932716d5b984881" title="Count transmitted bytes. " alt="" coords="655,208,813,235"/>
-<area shape="rect" id="node9" href="$df/d1f/class_mavlink.html#a6030186f61f8593ab74288e9a8c6a0ec" title="Count a transmission error. " alt="" coords="664,259,804,285"/>
-<area shape="rect" id="node10" href="$df/d1f/class_mavlink.html#a0ac057f44c23df9187ade0f1a57e67de" title="Count bytes not transmitted because of errors. " alt="" coords="648,309,820,336"/>
-<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a2d450930bd605c13ed783a1d02b42e13" title="Get the free space in the transmit buffer. " alt="" coords="871,440,1036,467"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#a474006ce18119a292b0819abbb038180" title="Mavlink::get_protocol" alt="" coords="1084,360,1231,387"/>
-<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#a4a775bd09b746cc56f26c3b7b2438e12" title="Mavlink::should_transmit" alt="" coords="651,107,817,133"/>
-<area shape="rect" id="node16" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="709,157,759,184"/>
-<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1097,549,1218,576"/>
-<area shape="rect" id="node18" href="$df/d1f/class_mavlink.html#af06ea4dffa8d7b911690a99456a4814a" title="Mavlink::broadcast\l_enabled" alt="" coords="668,462,800,503"/>
-<area shape="rect" id="node19" href="$df/d1f/class_mavlink.html#abb93147daa3a061ad943859b6db3e638" title="Mavlink::find_broadcast\l_address" alt="" coords="654,527,814,569"/>
-<area shape="rect" id="node20" href="$df/d1f/class_mavlink.html#a345c798dc5852a9fa4adc871ce394b4a" title="Mavlink::get_client\l_source_initialized" alt="" coords="669,593,799,634"/>
-<area shape="rect" id="node21" href="$df/d1f/class_mavlink.html#ac7e6401c33a6cfb7222da5211e57c66e" title="Get the receive status of this MAVLink link. " alt="" coords="657,709,811,736"/>
-<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="657,760,811,787"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="663,1410,805,1451"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="451,949,594,990"/>
-<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="882,1410,1025,1451"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="663,979,805,1021"/>
-<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="882,1162,1025,1203"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="663,862,805,903"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="663,1162,805,1203"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="663,1227,805,1269"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="663,1293,805,1334"/>
-<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="645,1111,823,1137"/>
-<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="663,1045,805,1086"/>
-<area shape="rect" id="node38" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="455,1015,590,1041"/>
-<area shape="rect" id="node39" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="481,1065,564,1092"/>
-<area shape="rect" id="node40" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="485,1116,560,1143"/>
-<area shape="rect" id="node41" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="481,1471,564,1497"/>
-<area shape="rect" id="node42" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="465,1521,580,1548"/>
-<area shape="rect" id="node43" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="463,1572,582,1599"/>
-<area shape="rect" id="node44" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="479,1623,566,1649"/>
-<area shape="rect" id="node45" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="479,1724,567,1751"/>
-<area shape="rect" id="node46" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="465,1673,580,1700"/>
-<area shape="rect" id="node47" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="488,1420,557,1447"/>
-<area shape="rect" id="node48" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="471,1167,574,1193"/>
-<area shape="rect" id="node49" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="453,1217,592,1244"/>
-<area shape="rect" id="node50" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="464,1319,581,1345"/>
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="259,5,371,32"/>
+<area shape="rect" id="node3" href="$da/d89/class_mavlink_receiver.html#a4e231f93058112308fe65bd068eeabdb" title="Decode a switch position from a bitfield and state. " alt="" coords="231,57,400,98"/>
+<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#a12725460bdd450afe0cea421255d7829" title="Mavlink::get_instance_id" alt="" coords="232,123,399,149"/>
+<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#a3aa1fb0ca3f0d77b10a8954618a51abb" title="Get the manual input generation mode. " alt="" coords="234,174,397,215"/>
+<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#ade21d9954e437c88eaf1df40c47bda17" title="Get the MAVLink system id. " alt="" coords="235,240,395,267"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="253,291,378,317"/>
+<area shape="rect" id="node9" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="236,342,395,383"/>
+<area shape="rect" id="node5" href="$d4/da3/namespacetap__esc__common.html#afb3b264b0e5134fdc308ca6339b46e7f" title="Enables/disables flow control for open UART device. " alt="" coords="448,115,619,157"/>
 </map>

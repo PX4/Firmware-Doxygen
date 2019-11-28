@@ -1,31 +1,24 @@
 <map id="src/modules/mavlink/mavlink_log_handler.cpp" name="src/modules/mavlink/mavlink_log_handler.cpp">
-<area shape="rect" id="node2" href="$da/dd1/mavlink__log__handler_8h.html" title="mavlink_log_handler.h" alt="" coords="163,266,314,293"/>
-<area shape="rect" id="node14" href="$d2/d69/mavlink__main_8h.html" title="MAVLink 2.0 protocol interface definition. " alt="" coords="1393,95,1506,121"/>
-<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="382,355,498,382"/>
-<area shape="rect" id="node13" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="402,437,489,464"/>
-<area shape="rect" id="node15" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="2133,437,2225,464"/>
-<area shape="rect" id="node27" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="2061,177,2217,203"/>
-<area shape="rect" id="node30" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1359,437,1497,464"/>
-<area shape="rect" id="node31" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="2385,437,2516,464"/>
-<area shape="rect" id="node33" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="1021,266,1184,293"/>
-<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="873,437,983,464"/>
-<area shape="rect" id="node35" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="2541,437,2713,464"/>
-<area shape="rect" id="node37" href="$db/d02/build_2doxygen_2u_o_r_b_2topics_2mission_8h.html" title="uORB/topics/mission.h" alt="" coords="1223,266,1380,293"/>
-<area shape="rect" id="node38" href="$df/d0e/mission__result_8h.html" title="uORB/topics/mission\l_result.h" alt="" coords="488,259,635,300"/>
-<area shape="rect" id="node39" href="$d9/d33/telemetry__status_8h.html" title="uORB/topics/telemetry\l_status.h" alt="" coords="787,169,941,211"/>
-<area shape="rect" id="node40" href="$df/d96/mavlink__bridge__header_8h.html" title="mavlink_bridge_header.h" alt="" coords="1827,355,1994,382"/>
-<area shape="rect" id="node42" href="$d8/d69/mavlink__orb__subscription_8h.html" title="uORB subscription definition. " alt="" coords="659,266,839,293"/>
-<area shape="rect" id="node44" href="$d8/d99/mavlink__stream_8h.html" title="Mavlink messages stream definition. " alt="" coords="339,266,464,293"/>
-<area shape="rect" id="node45" href="$d2/df1/mavlink__messages_8h.html" title="MAVLink 1.0 message formatters definition. " alt="" coords="382,177,527,203"/>
-<area shape="rect" id="node46" href="$d0/d76/mavlink__shell_8h.html" title="A shell to be used via MAVLink. " alt="" coords="2249,437,2361,464"/>
-<area shape="rect" id="node47" href="$d3/da1/mavlink__ulog_8h.html" title="ULog data streaming via MAVLink. " alt="" coords="1429,266,1539,293"/>
-<area shape="rect" id="node16" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="2229,512,2331,539"/>
-<area shape="rect" id="node19" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="2060,512,2153,539"/>
-<area shape="rect" id="node23" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="1697,512,1783,539"/>
-<area shape="rect" id="node17" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="2239,587,2318,613"/>
-<area shape="rect" id="node28" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="2069,355,2157,382"/>
-<area shape="rect" id="node29" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="2135,266,2217,293"/>
-<area shape="rect" id="node43" href="$d9/d92/utlist_8h.html" title="systemlib/uthash/utlist.h" alt="" coords="625,355,789,382"/>
-<area shape="rect" id="node48" href="$d1/da2/ulog__stream_8h.html" title="uORB/topics/ulog_stream.h" alt="" coords="1263,355,1446,382"/>
-<area shape="rect" id="node49" href="$d9/dca/ulog__stream__ack_8h.html" title="uORB/topics/ulog_stream\l_ack.h" alt="" coords="1067,348,1239,389"/>
+<area shape="rect" id="node2" href="$da/dd1/mavlink__log__handler_8h.html" title="mavlink_log_handler.h" alt="" coords="61,177,211,203"/>
+<area shape="rect" id="node15" href="$d2/d69/mavlink__main_8h.html" title="MAVLink 2.0 protocol interface definition. " alt="" coords="2454,95,2567,121"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="934,266,1050,293"/>
+<area shape="rect" id="node18" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="4326,177,4482,203"/>
+<area shape="rect" id="node26" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="2455,266,2587,293"/>
+<area shape="rect" id="node28" href="$dd/d52/drivers_2device_2ringbuffer_8h.html" title="drivers/device/ringbuffer.h" alt="" coords="766,177,938,203"/>
+<area shape="rect" id="node31" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="3955,177,4093,203"/>
+<area shape="rect" id="node32" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="3427,177,3557,203"/>
+<area shape="rect" id="node38" href="$d2/d58/src_2lib_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="2152,177,2315,203"/>
+<area shape="rect" id="node39" href="$d9/d92/utlist_8h.html" title="systemlib/uthash/utlist.h" alt="" coords="2339,177,2503,203"/>
+<area shape="rect" id="node40" href="$de/d61/_publication_queued_8hpp.html" title="uORB/PublicationQueued.hpp" alt="" coords="3633,177,3829,203"/>
+<area shape="rect" id="node41" href="$d1/d88/build_2doxygen_2u_o_r_b_2topics_2mavlink__log_8h.html" title="uORB/topics/mavlink\l_log.h" alt="" coords="2528,169,2675,211"/>
+<area shape="rect" id="node42" href="$df/d0e/mission__result_8h.html" title="uORB/topics/mission\l_result.h" alt="" coords="2699,169,2845,211"/>
+<area shape="rect" id="node43" href="$d9/dc0/radio__status_8h.html" title="uORB/topics/radio_status.h" alt="" coords="2870,177,3053,203"/>
+<area shape="rect" id="node44" href="$d9/d33/telemetry__status_8h.html" title="uORB/topics/telemetry\l_status.h" alt="" coords="3077,169,3232,211"/>
+<area shape="rect" id="node45" href="$d8/d98/mavlink__command__sender_8h.html" title="Mavlink commands sender with support for retransmission. " alt="" coords="554,177,742,203"/>
+<area shape="rect" id="node46" href="$d2/df1/mavlink__messages_8h.html" title="MAVLink 1.0 message formatters definition. " alt="" coords="3257,177,3402,203"/>
+<area shape="rect" id="node47" href="$d8/d69/mavlink__orb__subscription_8h.html" title="uORB subscription definition. " alt="" coords="1097,177,1277,203"/>
+<area shape="rect" id="node48" href="$d0/d76/mavlink__shell_8h.html" title="A shell to be used via MAVLink. " alt="" coords="1301,177,1413,203"/>
+<area shape="rect" id="node49" href="$d3/da1/mavlink__ulog_8h.html" title="ULog data streaming via MAVLink. " alt="" coords="963,177,1072,203"/>
+<area shape="rect" id="node19" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="4305,355,4393,382"/>
+<area shape="rect" id="node22" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="CDev.hpp" alt="" coords="4301,266,4382,293"/>
 </map>

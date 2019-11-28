@@ -1,51 +1,51 @@
 <map id="px4_poll" name="px4_poll">
-<area shape="rect" id="node2" href="$d7/da9/calibration__routines_8h.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="150,223,309,250"/>
-<area shape="rect" id="node3" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="395,122,553,148"/>
-<area shape="rect" id="node4" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="613,71,789,98"/>
-<area shape="rect" id="node7" href="$df/d5e/gyro__calibration_8cpp.html#aa965e14493ef6d7bf8afe4d455e871e2" title="gyro_calibration_worker" alt="" coords="395,248,553,275"/>
-<area shape="rect" id="node8" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="395,312,553,339"/>
-<area shape="rect" id="node9" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="168,375,291,402"/>
-<area shape="rect" id="node11" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="172,426,287,452"/>
-<area shape="rect" id="node13" href="$d7/da9/calibration__routines_8h.html#abc2b2c61fa1a92d22bc1fc7d24ea5bfc" title="Wait for vehicle to become still and detect it&#39;s orientation. " alt="" coords="167,172,292,199"/>
-<area shape="rect" id="node14" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="406,20,542,47"/>
-<area shape="rect" id="node15" href="$d1/de8/class_v_c_dev_example.html#a741024bf19aeea962f30c5e1c4deb9e5" title="VCDevExample::do_poll" alt="" coords="147,476,312,503"/>
-<area shape="rect" id="node16" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a8cef9aa380ec51a2cf9d630fa203d897" title="handle ekf2 topic publication in ekf2 replay mode " alt="" coords="131,528,328,569"/>
-<area shape="rect" id="node17" href="$d4/d81/class_q_shell.html#ae4bc293e455e497596f50688e2f91d0a" title="QShell::main" alt="" coords="181,594,278,620"/>
-<area shape="rect" id="node18" href="$d0/d58/position__estimator__inav__main_8cpp.html#acf822e9bb4a008a2a53118ccbdf951b6" title="position_estimator\l_inav_thread_main" alt="" coords="164,645,295,686"/>
-<area shape="rect" id="node19" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a9198b429adaaa9df6ba778ffed5a44ba" title="publish message, wait for ack if needed &amp; reset message " alt="" coords="132,710,327,752"/>
-<area shape="rect" id="node20" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abb514aef37c3ad8c88e795fb4c4eca08" title="uORBTest::UnitTest\l::pubsublatency_main" alt="" coords="155,776,304,817"/>
-<area shape="rect" id="node21" href="$dd/dcd/accelerometer__calibration_8cpp.html#ae1a24453cf152fcbca41cd25accb5872" title="read_accelerometer_avg" alt="" coords="147,842,311,868"/>
-<area shape="rect" id="node22" href="$d7/d56/class_p_w_m_sim.html#aed1047e5bd8fbe7d9f4688ada2639001" title="PWMSim::run" alt="" coords="177,892,281,919"/>
-<area shape="rect" id="node23" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="130,943,329,970"/>
-<area shape="rect" id="node24" href="$d3/d25/class_fixedwing_attitude_control.html#a9a2fe5a46e51b61b291b93109b6c22f4" title="FixedwingAttitudeControl::run" alt="" coords="132,994,327,1020"/>
-<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="177,1044,281,1071"/>
-<area shape="rect" id="node26" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="192,1095,267,1122"/>
-<area shape="rect" id="node27" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="150,1146,309,1172"/>
-<area shape="rect" id="node28" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="131,1196,327,1223"/>
-<area shape="rect" id="node29" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="181,1247,277,1274"/>
-<area shape="rect" id="node30" href="$dd/dd1/class_simulator.html#a922cba32fc7bfc7af53902c0ef5a89aa" title="Simulator::send" alt="" coords="173,1298,286,1324"/>
-<area shape="rect" id="node31" href="$da/d13/classpx4_1_1_node_handle.html#a13a85a4668dea69b410ef47d77e3eafb" title="Keeps calling callbacks for incoming messages, returns when module is terminated. ..." alt="" coords="152,1348,307,1375"/>
-<area shape="rect" id="node32" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="151,1400,308,1441"/>
-<area shape="rect" id="node33" href="$db/d2b/class_attitude_estimator_q.html#a8e0bb94a5396b03d79a39aaee77cd142" title="AttitudeEstimatorQ\l::task_main" alt="" coords="163,1465,296,1506"/>
-<area shape="rect" id="node34" href="$d9/dd1/namespaceuart__esc.html#aee518e4183b269a2432ea9184a93b957" title="uart_esc thread primary entry point " alt="" coords="159,1531,299,1558"/>
-<area shape="rect" id="node35" href="$da/d31/class_camera_feedback.html#a232b807d193a28e11fd2c73e35f7440a" title="CameraFeedback::task_main" alt="" coords="133,1582,326,1608"/>
-<area shape="rect" id="node36" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="141,1632,318,1659"/>
-<area shape="rect" id="node37" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="133,1683,325,1710"/>
-<area shape="rect" id="node38" href="$de/dbb/class_ground_rover_attitude_control.html#a0ed57947e501e36f2a9330af3ba7ab0d" title="GroundRoverAttitudeControl\l::task_main" alt="" coords="136,1734,323,1776"/>
-<area shape="rect" id="node39" href="$d3/d4d/class_syslink.html#ad48197f365d94be31b2fbaaa5aaa1e08" title="Syslink::task_main" alt="" coords="163,1800,296,1827"/>
-<area shape="rect" id="node40" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="135,1852,323,1893"/>
-<area shape="rect" id="node41" href="$d7/d6f/class_vtol_attitude_control.html#a9a78efe22d8ffead8a0e8d112e621792" title="VtolAttitudeControl\l::task_main" alt="" coords="163,1917,295,1958"/>
-<area shape="rect" id="node42" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="142,1982,317,2024"/>
-<area shape="rect" id="node43" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="151,2048,307,2089"/>
-<area shape="rect" id="node44" href="$d7/db7/namespacell40ls.html#aacc3afde3ca5a3d5ffabbf3b248dc73f" title="Performs some basic functional tests on the driver; make sure we can collect data from the sensor in ..." alt="" coords="188,2114,271,2140"/>
-<area shape="rect" id="node45" href="$de/d96/namespacetfmini.html#adbb96bab4b35e5b45611139116523886" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="187,2164,271,2191"/>
-<area shape="rect" id="node46" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a3e8d1a1e4272b71dedb8ba6ee6fe879d" title="uORBTest::UnitTest\l::test_queue_poll_notify" alt="" coords="149,2216,309,2257"/>
-<area shape="rect" id="node47" href="$d5/d01/class_block_local_position_estimator.html#ad15c4f6a9868f57abfc5b78f4e2165d9" title="BlockLocalPositionEstimator\l::update" alt="" coords="135,2281,324,2322"/>
-<area shape="rect" id="node48" href="$d5/de4/classvmount_1_1_input_mavlink_r_o_i.html#adf2beb4ba1993e1044722b92168491c3" title="vmount::InputMavlinkROI\l::update_impl" alt="" coords="144,2346,315,2388"/>
-<area shape="rect" id="node49" href="$da/d9b/classvmount_1_1_input_r_c.html#acb63072f49039be111b97f7eae1891d3" title="vmount::InputRC::update_impl" alt="" coords="129,2412,329,2439"/>
-<area shape="rect" id="node50" href="$d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#a9b849c087e3d150539b244ce13631aa6" title="vmount::InputMavlinkCmdMount\l::update_impl" alt="" coords="124,2464,335,2505"/>
-<area shape="rect" id="node6" href="$d7/da9/calibration__routines_8h.html#acdad53be697f37d7a6082152b0be508b" title="Perform calibration sequence which require a rest orientation detection prior to calibration. " alt="" coords="389,172,559,199"/>
-<area shape="rect" id="node5" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="837,71,956,98"/>
-<area shape="rect" id="node10" href="$d2/da9/class_t_a_p___e_s_c.html#a24c08fd964d11944b1f351dbb5723dd5" title="TAP_ESC::run" alt="" coords="419,375,529,402"/>
-<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="383,426,565,452"/>
+<area shape="rect" id="node2" href="$d5/dad/class_h_m_c5883.html#a0e8d3ef1fc25ddc809fa7e0ec02885ff" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="160,5,299,32"/>
+<area shape="rect" id="node4" href="$d7/da9/calibration__routines_8h.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="150,208,309,235"/>
+<area shape="rect" id="node5" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="625,208,784,235"/>
+<area shape="rect" id="node7" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="832,183,1008,209"/>
+<area shape="rect" id="node11" href="$df/d5e/gyro__calibration_8cpp.html#aa965e14493ef6d7bf8afe4d455e871e2" title="gyro_calibration_worker" alt="" coords="401,107,559,133"/>
+<area shape="rect" id="node13" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="401,259,559,285"/>
+<area shape="rect" id="node14" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="168,411,291,437"/>
+<area shape="rect" id="node16" href="$d7/da9/calibration__routines_8h.html#abc2b2c61fa1a92d22bc1fc7d24ea5bfc" title="Wait for vehicle to become still and detect it&#39;s orientation. " alt="" coords="167,157,292,184"/>
+<area shape="rect" id="node17" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="637,56,773,83"/>
+<area shape="rect" id="node18" href="$de/dc4/class_c_dev_example.html#a47236e4ebb1a6126497c1a287e648510" title="CDevExample::do_poll" alt="" coords="151,461,307,488"/>
+<area shape="rect" id="node19" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a8cef9aa380ec51a2cf9d630fa203d897" title="handle ekf2 topic publication in ekf2 replay mode " alt="" coords="131,513,328,554"/>
+<area shape="rect" id="node20" href="$d4/d81/class_q_shell.html#ae4bc293e455e497596f50688e2f91d0a" title="QShell::main" alt="" coords="181,579,278,605"/>
+<area shape="rect" id="node22" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a9198b429adaaa9df6ba778ffed5a44ba" title="publish message, wait for ack if needed &amp; reset message " alt="" coords="132,630,327,671"/>
+<area shape="rect" id="node26" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abb514aef37c3ad8c88e795fb4c4eca08" title="uORBTest::UnitTest\l::pubsublatency_main" alt="" coords="155,695,304,737"/>
+<area shape="rect" id="node28" href="$dd/dcd/accelerometer__calibration_8cpp.html#ae1a24453cf152fcbca41cd25accb5872" title="read_accelerometer_avg" alt="" coords="147,761,311,788"/>
+<area shape="rect" id="node30" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="143,812,315,839"/>
+<area shape="rect" id="node31" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="181,863,277,889"/>
+<area shape="rect" id="node32" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="177,913,281,940"/>
+<area shape="rect" id="node33" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="150,964,309,991"/>
+<area shape="rect" id="node34" href="$dd/dd1/class_simulator.html#a922cba32fc7bfc7af53902c0ef5a89aa" title="Simulator::send" alt="" coords="173,1015,286,1041"/>
+<area shape="rect" id="node35" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="151,1066,308,1107"/>
+<area shape="rect" id="node37" href="$da/d31/class_camera_feedback.html#a232b807d193a28e11fd2c73e35f7440a" title="CameraFeedback::task_main" alt="" coords="133,1132,326,1159"/>
+<area shape="rect" id="node39" href="$d9/dd1/namespaceuart__esc.html#aee518e4183b269a2432ea9184a93b957" title="uart_esc thread primary entry point " alt="" coords="159,1183,299,1209"/>
+<area shape="rect" id="node41" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="141,1233,318,1260"/>
+<area shape="rect" id="node43" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="133,1284,325,1311"/>
+<area shape="rect" id="node45" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="151,1335,307,1377"/>
+<area shape="rect" id="node47" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a3e8d1a1e4272b71dedb8ba6ee6fe879d" title="uORBTest::UnitTest\l::test_queue_poll_notify" alt="" coords="149,1401,309,1442"/>
+<area shape="rect" id="node48" href="$d5/de4/classvmount_1_1_input_mavlink_r_o_i.html#adf2beb4ba1993e1044722b92168491c3" title="vmount::InputMavlinkROI\l::update_impl" alt="" coords="144,1466,315,1507"/>
+<area shape="rect" id="node49" href="$da/d9b/classvmount_1_1_input_r_c.html#acb63072f49039be111b97f7eae1891d3" title="vmount::InputRC::update_impl" alt="" coords="129,1532,329,1559"/>
+<area shape="rect" id="node50" href="$d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#a9b849c087e3d150539b244ce13631aa6" title="vmount::InputMavlinkCmdMount\l::update_impl" alt="" coords="124,1583,335,1625"/>
+<area shape="rect" id="node3" href="$d5/dad/class_h_m_c5883.html#a3c5540b877b825b7d2cb1969e0131e7f" title="Perform an ioctl operation on the device. " alt="" coords="423,5,537,32"/>
+<area shape="rect" id="node9" href="$d7/da9/calibration__routines_8h.html#acdad53be697f37d7a6082152b0be508b" title="Perform calibration sequence which require a rest orientation detection prior to calibration. " alt="" coords="395,157,565,184"/>
+<area shape="rect" id="node6" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="857,107,983,133"/>
+<area shape="rect" id="node8" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1056,183,1175,209"/>
+<area shape="rect" id="node10" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="643,157,766,184"/>
+<area shape="rect" id="node12" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="637,107,772,133"/>
+<area shape="rect" id="node15" href="$d2/da9/class_t_a_p___e_s_c.html#a24c08fd964d11944b1f351dbb5723dd5" title="TAP_ESC::run" alt="" coords="425,411,535,437"/>
+<area shape="rect" id="node21" href="$d4/d81/class_q_shell.html#a3b96b7101bb93ba47d868a6635998a05" title="QShell::~QShell" alt="" coords="422,488,538,515"/>
+<area shape="rect" id="node23" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a715caf561d7426e6d75b47ea69c26b8b" title="px4::logger::LogWriterMavlink\l::write_message" alt="" coords="383,539,577,581"/>
+<area shape="rect" id="node24" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#ad98bea03afa190941133b7ea37c5ac07" title="px4::logger::LogWriterMavlink\l::set_need_reliable_transfer" alt="" coords="383,605,577,646"/>
+<area shape="rect" id="node25" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a0d002ef0e5210c2d39f24b0ff9a11dda" title="px4::logger::LogWriterMavlink\l::need_reliable_transfer" alt="" coords="383,670,577,711"/>
+<area shape="rect" id="node27" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a736a81d1dffdf001a010b504511b78aa" title="uORBTest::UnitTest\l::pubsubtest_threadEntry" alt="" coords="396,735,564,777"/>
+<area shape="rect" id="node29" href="$dd/dcd/accelerometer__calibration_8cpp.html#a56ecc4b4b9306a3db15fa650f986a15c" title="accel_calibration_worker" alt="" coords="397,801,563,828"/>
+<area shape="rect" id="node36" href="$d5/dce/class_temperature_calibration.html#ae260fba51c37cca23e825e81bc31d1bf" title="TemperatureCalibration\l::do_temperature_calibration" alt="" coords="387,1037,573,1078"/>
+<area shape="rect" id="node38" href="$da/d31/class_camera_feedback.html#ace369b76d2102fe3809bf48fd4a10d0f" title="Shim for calling task_main from task_create. " alt="" coords="401,1102,559,1143"/>
+<area shape="rect" id="node40" href="$d9/dd1/namespaceuart__esc.html#a29b71bb756bb2b3b5b7e691d09423703" title="task main trampoline function " alt="" coords="410,1167,550,1209"/>
+<area shape="rect" id="node42" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="409,1233,551,1274"/>
+<area shape="rect" id="node44" href="$d3/d92/namespacesnapdragon__pwm.html#a2ba69ca6582c4546ff158d57c18fec22" title="snapdragon_pwm::task\l_main_trampoline" alt="" coords="401,1298,559,1339"/>
+<area shape="rect" id="node46" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a7615c7915d99b5c00fbb62b071635766" title="Attempt to start driver on all available I2C busses. " alt="" coords="402,1363,558,1405"/>
 </map>

@@ -1,41 +1,39 @@
-<map id="src/lib/FlightTasks/tasks/ManualPositionSmooth/FlightTaskManualPositionSmooth.hpp" name="src/lib/FlightTasks/tasks/ManualPositionSmooth/FlightTaskManualPositionSmooth.hpp">
-<area shape="rect" id="node2" href="$d6/d5b/_flight_task_manual_position_8hpp.html" title="Flight task for manual position controlled mode. " alt="" coords="1181,109,1378,136"/>
-<area shape="rect" id="node49" href="$d0/dd2/_manual_smoothing_x_y_8hpp.html" title="ManualSmoothingXY.hpp" alt="" coords="1545,415,1715,442"/>
-<area shape="rect" id="node50" href="$df/db3/_manual_smoothing_z_8hpp.html" title="ManualSmoothingZ.hpp" alt="" coords="1699,184,1857,211"/>
-<area shape="rect" id="node3" href="$dc/dc0/_flight_task_manual_altitude_8hpp.html" title="FlightTaskManualAltitude.hpp" alt="" coords="1114,184,1309,211"/>
-<area shape="rect" id="node4" href="$d0/df1/_flight_task_manual_stabilized_8hpp.html" title="FlightTaskManualStabilized.hpp" alt="" coords="1000,259,1207,285"/>
-<area shape="rect" id="node5" href="$d9/da0/_flight_task_manual_8hpp.html" title="Linear and exponential map from stick inputs to range &#45;1 and 1. " alt="" coords="975,333,1125,360"/>
-<area shape="rect" id="node6" href="$dc/dd0/_flight_task_8hpp.html" title="Abstract base class for different advanced flight tasks like orbit, follow me, ... " alt="" coords="996,415,1104,442"/>
-<area shape="rect" id="node48" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="496,408,639,449"/>
-<area shape="rect" id="node7" href="$d5/dd2/px4__module__params_8h.html" title="C++ base class for modules/classes using configuration parameters. " alt="" coords="1719,505,1872,531"/>
-<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="97,594,213,621"/>
-<area shape="rect" id="node18" href="$d4/d78/math_8hpp.html" title="matrix/matrix/math.hpp" alt="" coords="1539,505,1695,531"/>
-<area shape="rect" id="node36" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="793,594,952,621"/>
-<area shape="rect" id="node40" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="449,497,592,539"/>
-<area shape="rect" id="node41" href="$d2/def/vehicle__local__position__setpoint_8h.html" title="uORB/topics/vehicle\l_local_position_setpoint.h" alt="" coords="783,497,955,539"/>
-<area shape="rect" id="node42" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="979,497,1121,539"/>
-<area shape="rect" id="node43" href="$d8/def/vehicle__constraints_8h.html" title="uORB/topics/vehicle\l_constraints.h" alt="" coords="1145,497,1288,539"/>
-<area shape="rect" id="node44" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="616,497,759,539"/>
-<area shape="rect" id="node45" href="$d3/dea/vehicle__trajectory__waypoint_8h.html" title="uORB/topics/vehicle\l_trajectory_waypoint.h" alt="" coords="272,497,425,539"/>
-<area shape="rect" id="node47" href="$d8/db8/_subscription_array_8hpp.html" title="Simple array that contains a dynamic amount of Subscription&lt;T&gt; instances. " alt="" coords="1364,505,1515,531"/>
-<area shape="rect" id="node8" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="1164,683,1296,710"/>
-<area shape="rect" id="node9" href="$de/de9/px4__param_8h.html" title="C++ Parameter class. " alt="" coords="2404,594,2501,621"/>
-<area shape="rect" id="node10" href="$d6/d6a/px4__param__macros_8h.html" title="Helper macros used by px4_param.h. " alt="" coords="2285,683,2431,710"/>
-<area shape="rect" id="node16" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="5,683,92,710"/>
-<area shape="rect" id="node19" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1286,594,1414,621"/>
-<area shape="rect" id="node23" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="1781,594,1863,621"/>
-<area shape="rect" id="node26" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="1887,594,2011,621"/>
-<area shape="rect" id="node28" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="1438,594,1523,621"/>
-<area shape="rect" id="node29" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="1548,594,1640,621"/>
-<area shape="rect" id="node30" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="1664,594,1756,621"/>
-<area shape="rect" id="node31" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="977,594,1054,621"/>
-<area shape="rect" id="node32" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="1078,594,1153,621"/>
-<area shape="rect" id="node33" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="1177,594,1261,621"/>
-<area shape="rect" id="node34" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2087,594,2197,621"/>
-<area shape="rect" id="node35" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="2222,594,2329,621"/>
-<area shape="rect" id="node27" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="2024,683,2167,710"/>
-<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="498,683,607,710"/>
-<area shape="rect" id="node38" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="883,683,991,710"/>
-<area shape="rect" id="node39" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="756,683,859,710"/>
-<area shape="rect" id="node46" href="$d7/d85/trajectory__waypoint_8h.html" title="uORB/topics/trajectory\l_waypoint.h" alt="" coords="361,587,515,628"/>
+<map id="src/lib/flight_tasks/tasks/ManualPositionSmooth/FlightTaskManualPositionSmooth.hpp" name="src/lib/flight_tasks/tasks/ManualPositionSmooth/FlightTaskManualPositionSmooth.hpp">
+<area shape="rect" id="node2" href="$d6/d5b/_flight_task_manual_position_8hpp.html" title="Flight task for manual position controlled mode. " alt="" coords="2365,109,2563,136"/>
+<area shape="rect" id="node49" href="$d0/dd2/_manual_smoothing_x_y_8hpp.html" title="ManualSmoothingXY.hpp" alt="" coords="2670,191,2839,218"/>
+<area shape="rect" id="node50" href="$df/db3/_manual_smoothing_z_8hpp.html" title="ManualSmoothingZ.hpp" alt="" coords="2795,109,2954,136"/>
+<area shape="rect" id="node3" href="$d8/dfe/_collision_prevention_8hpp.html" title="lib/collision_prevention\l/CollisionPrevention.hpp" alt="" coords="1345,184,1508,225"/>
+<area shape="rect" id="node46" href="$dc/dc0/_flight_task_manual_altitude_8hpp.html" title="FlightTaskManualAltitude.hpp" alt="" coords="2367,191,2561,218"/>
+<area shape="rect" id="node5" href="$dd/d20/px4__custom__mode_8h.html" title="PX4 custom flight modes. " alt="" coords="5,273,171,315"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1418,370,1534,397"/>
+<area shape="rect" id="node15" href="$d4/d78/math_8hpp.html" title="matrix/matrix/math.hpp" alt="" coords="2662,281,2818,307"/>
+<area shape="rect" id="node33" href="$d2/d58/src_2lib_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="195,281,357,307"/>
+<area shape="rect" id="node36" href="$dc/de7/_publication_8hpp.html" title="uORB/Publication.hpp" alt="" coords="1014,281,1165,307"/>
+<area shape="rect" id="node38" href="$de/d61/_publication_queued_8hpp.html" title="uORB/PublicationQueued.hpp" alt="" coords="794,281,990,307"/>
+<area shape="rect" id="node39" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="382,281,541,307"/>
+<area shape="rect" id="node40" href="$d0/dcd/collision__constraints_8h.html" title="uORB/topics/collision\l_constraints.h" alt="" coords="1522,273,1670,315"/>
+<area shape="rect" id="node41" href="$db/db6/distance__sensor_8h.html" title="uORB/topics/distance\l_sensor.h" alt="" coords="1694,273,1845,315"/>
+<area shape="rect" id="node42" href="$d1/d88/build_2doxygen_2u_o_r_b_2topics_2mavlink__log_8h.html" title="uORB/topics/mavlink\l_log.h" alt="" coords="1869,273,2016,315"/>
+<area shape="rect" id="node43" href="$d8/df6/obstacle__distance_8h.html" title="uORB/topics/obstacle\l_distance.h" alt="" coords="2041,273,2191,315"/>
+<area shape="rect" id="node44" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="1189,273,1331,315"/>
+<area shape="rect" id="node45" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="1355,273,1498,315"/>
+<area shape="rect" id="node16" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="2380,370,2508,397"/>
+<area shape="rect" id="node17" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="2533,370,2675,397"/>
+<area shape="rect" id="node18" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="2700,370,2783,397"/>
+<area shape="rect" id="node19" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="2807,370,2931,397"/>
+<area shape="rect" id="node20" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="2955,370,3031,397"/>
+<area shape="rect" id="node21" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="3056,370,3141,397"/>
+<area shape="rect" id="node22" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="3166,370,3258,397"/>
+<area shape="rect" id="node23" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="3282,370,3374,397"/>
+<area shape="rect" id="node24" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="3399,370,3476,397"/>
+<area shape="rect" id="node25" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="3500,370,3575,397"/>
+<area shape="rect" id="node26" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="1558,370,1642,397"/>
+<area shape="rect" id="node27" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1666,370,1777,397"/>
+<area shape="rect" id="node28" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="1801,370,1908,397"/>
+<area shape="rect" id="node29" href="$d9/d19/_least_squares_solver_8hpp.html" title="Least Squares Solver using QR householder decomposition. " alt="" coords="1933,370,2097,397"/>
+<area shape="rect" id="node30" href="$d5/dd8/_dual_8hpp.html" title="This is a dual number type for calculating automatic derivatives. " alt="" coords="2121,370,2196,397"/>
+<area shape="rect" id="node31" href="$d0/d67/_pseudo_inverse_8hpp.html" title="Implementation of matrix pseudo inverse. " alt="" coords="2221,370,2355,397"/>
+<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1244,370,1353,397"/>
+<area shape="rect" id="node47" href="$d9/da0/_flight_task_manual_8hpp.html" title="Linear and exponential map from stick inputs to range &#45;1 and 1. " alt="" coords="2487,281,2638,307"/>
+<area shape="rect" id="node48" href="$d7/df9/home__position_8h.html" title="uORB/topics/home_position.h" alt="" coords="2267,281,2463,307"/>
 </map>

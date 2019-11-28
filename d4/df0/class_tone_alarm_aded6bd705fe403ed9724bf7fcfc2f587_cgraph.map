@@ -1,0 +1,51 @@
+<map id="ToneAlarm::Run" name="ToneAlarm::Run">
+<area shape="rect" id="node2" href="$d4/df0/class_tone_alarm.html#af526872d49f6a9d3164bb8e123236b01" title="Parses the next note out of the string and plays it. " alt="" coords="171,722,321,749"/>
+<area shape="rect" id="node3" href="$d7/d21/class_tunes.html#a069558a233a2e62863c9d75e20914c05" title="Tunes::get_maximum\l_update_interval" alt="" coords="374,645,522,687"/>
+<area shape="rect" id="node16" href="$d7/d21/class_tunes.html#a5a7d84429f0f428bf13afc8900b8fe59" title="Get next note in the current tune, which has been provided by either set_control or play_string..." alt="" coords="374,722,522,749"/>
+<area shape="rect" id="node17" href="$d4/df0/class_tone_alarm.html#ab4930f540abe2e40b552355f21673ab3" title="Updates the uORB topics for local subscribers. " alt="" coords="369,965,527,991"/>
+<area shape="rect" id="node29" href="$d4/df0/class_tone_alarm.html#af24027cd453cf0838612a621650c9669" title="Starts playing the note. " alt="" coords="373,370,523,397"/>
+<area shape="rect" id="node49" href="$d4/df0/class_tone_alarm.html#a95cc9bab490bf3b77e19a918ef4acbdb" title="Stops playing the current note and makes the player &#39;safe&#39;. " alt="" coords="373,1085,523,1111"/>
+<area shape="rect" id="node4" href="$d7/d21/class_tunes.html#abb41f3c6cb7e9170715fcb9366ff5ca5" title="Convert note to frequency. " alt="" coords="575,631,748,658"/>
+<area shape="rect" id="node8" href="$d7/d21/class_tunes.html#ab92919eb2cbadd6f917dbc3e8046e62b" title="Calculate the duration in microseconds of play and silence for a note given the current tempo..." alt="" coords="589,733,733,759"/>
+<area shape="rect" id="node9" href="$d7/d21/class_tunes.html#a00eb65e79b622fdd4c350e57c5c02954" title="Calculate the duration in microseconds of a rest corresponding to a given note length. " alt="" coords="591,783,732,810"/>
+<area shape="rect" id="node10" href="$d7/d21/class_tunes.html#a2ddfde08e9db5c2fe195189c037bd8cc" title="Find the next character in the string, discard any whitespace. " alt="" coords="822,751,945,778"/>
+<area shape="rect" id="node11" href="$d7/d21/class_tunes.html#accb32723d53f2e514e54791ecf6c5ec2" title="Extract a number from the string, consuming all the digit characters. " alt="" coords="591,834,732,861"/>
+<area shape="rect" id="node12" href="$d7/d21/class_tunes.html#a771dea6fb6a5a46feca413edaff75929" title="Consume dot characters from the string. " alt="" coords="600,682,723,709"/>
+<area shape="rect" id="node13" href="$d7/d21/class_tunes.html#abf3aec9d877ce0345595638dc42a7233" title="Reset the tune parameters. " alt="" coords="836,530,931,557"/>
+<area shape="rect" id="node14" href="$d7/d21/class_tunes.html#a6208e01abecdcc6f7dbf35604fc38aa6" title="Tunes::tune_end" alt="" coords="602,581,721,607"/>
+<area shape="rect" id="node15" href="$d7/d21/class_tunes.html#ad1f8d27f9354d5393ad3d061662e27c8" title="Tunes::tune_error" alt="" coords="599,479,723,506"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1305,581,1344,607"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1515,581,1598,607"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1737,581,1824,607"/>
+<area shape="rect" id="node18" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="592,1052,731,1093"/>
+<area shape="rect" id="node27" href="$d7/d21/class_tunes.html#a14ad95268d74d3fc1749b3fb4e4305a5" title="Set tune to be played using the message. " alt="" coords="596,935,727,962"/>
+<area shape="rect" id="node28" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="592,987,731,1028"/>
+<area shape="rect" id="node19" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="814,989,953,1031"/>
+<area shape="rect" id="node25" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="796,1093,971,1119"/>
+<area shape="rect" id="node20" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="1037,1055,1175,1096"/>
+<area shape="rect" id="node21" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="1028,924,1184,965"/>
+<area shape="rect" id="node22" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="1037,989,1175,1031"/>
+<area shape="rect" id="node23" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1255,956,1394,997"/>
+<area shape="rect" id="node24" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1456,911,1657,952"/>
+<area shape="rect" id="node26" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1019,1120,1193,1161"/>
+<area shape="rect" id="node30" href="$d8/d98/circuit__breaker_8cpp.html#a0eb495f286c64c70c007505210ec5df4" title="circuit_breaker_enabled" alt="" coords="582,311,741,338"/>
+<area shape="rect" id="node48" href="$dc/d43/namespace_tone_alarm_interface.html#afe1f47d5ccc77680ccf032a7a411ae32" title="Starts playing the note. " alt="" coords="593,363,729,404"/>
+<area shape="rect" id="node31" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="840,142,927,169"/>
+<area shape="rect" id="node37" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="842,319,925,346"/>
+<area shape="rect" id="node32" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="1039,23,1173,50"/>
+<area shape="rect" id="node33" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1481,49,1632,75"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="1241,23,1408,50"/>
+<area shape="rect" id="node35" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1283,74,1366,101"/>
+<area shape="rect" id="node36" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1289,226,1361,253"/>
+<area shape="rect" id="node38" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1499,429,1615,455"/>
+<area shape="rect" id="node40" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1035,125,1177,151"/>
+<area shape="rect" id="node42" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1040,327,1172,354"/>
+<area shape="rect" id="node43" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1276,353,1373,379"/>
+<area shape="rect" id="node44" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1040,378,1172,405"/>
+<area shape="rect" id="node45" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1279,454,1370,481"/>
+<area shape="rect" id="node46" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1061,175,1151,202"/>
+<area shape="rect" id="node47" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="1033,429,1179,455"/>
+<area shape="rect" id="node39" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1705,429,1856,455"/>
+<area shape="rect" id="node41" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1267,125,1383,151"/>
+<area shape="rect" id="node50" href="$dc/d43/namespace_tone_alarm_interface.html#abc13bce2aa957f56c7470df92d34c1a6" title="Stops playing the current note and makes the player &#39;safe&#39;. " alt="" coords="593,1117,729,1159"/>
+</map>

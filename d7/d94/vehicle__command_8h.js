@@ -26,6 +26,7 @@ var vehicle__command_8h =
     [ "VEHICLE_COMMAND_VEHICLE_CMD_DO_JUMP", "d7/d94/vehicle__command_8h.html#a5e9c5cdc6885b9f7a2c9108fe5b2edc3", null ],
     [ "VEHICLE_COMMAND_VEHICLE_CMD_DO_LAND_START", "d7/d94/vehicle__command_8h.html#a9e6e31e07d17d1ce01b011278e02f12b", null ],
     [ "VEHICLE_COMMAND_VEHICLE_CMD_DO_LAST", "d7/d94/vehicle__command_8h.html#a50dba1fa32f3c708388a8ffd115c0117", null ],
+    [ "VEHICLE_COMMAND_VEHICLE_CMD_DO_MOTOR_TEST", "d7/d94/vehicle__command_8h.html#a121dee76943f6e918e2fceb04ec06886", null ],
     [ "VEHICLE_COMMAND_VEHICLE_CMD_DO_MOUNT_CONFIGURE", "d7/d94/vehicle__command_8h.html#a560f42b7f52f1c851af6905e05bf84a9", null ],
     [ "VEHICLE_COMMAND_VEHICLE_CMD_DO_MOUNT_CONTROL", "d7/d94/vehicle__command_8h.html#a72654540b300ff1c7a958887a83d56e9", null ],
     [ "VEHICLE_COMMAND_VEHICLE_CMD_DO_MOUNT_CONTROL_QUAT", "d7/d94/vehicle__command_8h.html#a126a70573a1e0b00b11d20946931939b", null ],

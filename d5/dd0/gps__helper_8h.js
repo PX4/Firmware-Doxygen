@@ -12,5 +12,11 @@ var gps__helper_8h =
       [ "gotRTCMMessage", "d5/dd0/gps__helper_8h.html#a4713f5db2608e0a1503c01905b1097b3a453a87369b50a2559051f4bac0a47b4f", null ],
       [ "surveyInStatus", "d5/dd0/gps__helper_8h.html#a4713f5db2608e0a1503c01905b1097b3a919c0b21c680129c45a56802b7723a96", null ],
       [ "setClock", "d5/dd0/gps__helper_8h.html#a4713f5db2608e0a1503c01905b1097b3a9b5841bd7abe9ff940ba0992e5564b3c", null ]
+    ] ],
+    [ "GPSRestartType", "d5/dd0/gps__helper_8h.html#a7a8106bae3c2f076fd3dbc823d0c7f85", [
+      [ "None", "d5/dd0/gps__helper_8h.html#a7a8106bae3c2f076fd3dbc823d0c7f85a6adf97f83acf6453d4a6a4b1070f3754", null ],
+      [ "Hot", "d5/dd0/gps__helper_8h.html#a7a8106bae3c2f076fd3dbc823d0c7f85a4194726ee334e1085d93e002837b73f0", null ],
+      [ "Warm", "d5/dd0/gps__helper_8h.html#a7a8106bae3c2f076fd3dbc823d0c7f85a18297117d3d251afceed9ecbe797c849", null ],
+      [ "Cold", "d5/dd0/gps__helper_8h.html#a7a8106bae3c2f076fd3dbc823d0c7f85a1a3c2e99e572ec71d3820d0363d90742", null ]
     ] ]
 ];

@@ -1,0 +1,41 @@
+<map id="PX4Accelerometer::set_sample_rate" name="PX4Accelerometer::set_sample_rate">
+<area shape="rect" id="node2" href="$d6/dd5/class_l_s_m303_d.html#a171677a1939ed7c4d73be3e8be59a01f" title="Set the LSM303D internal accel sampling frequency. " alt="" coords="235,5,379,47"/>
+<area shape="rect" id="node7" href="$d8/de0/class_a_d_i_s16477.html#a03b184cd4e84ca09bba95fb9b073c93f" title="ADIS16477::ADIS16477" alt="" coords="225,71,389,98"/>
+<area shape="rect" id="node8" href="$d7/d43/class_a_d_i_s16497.html#a2c839d21dcda5822bd67aac89fcd64dc" title="ADIS16497::ADIS16497" alt="" coords="225,122,389,149"/>
+<area shape="rect" id="node9" href="$df/d9d/class_b_m_i160.html#a958945385e92afa71494687bca4c5e0a" title="BMI160::BMI160" alt="" coords="247,173,367,199"/>
+<area shape="rect" id="node10" href="$d8/db8/class_a_d_i_s16448.html#a77167ff40524b0b4643467503f55c6f8" title="Set sample rate (approximate) &#45; 1kHz to 5Hz. " alt="" coords="211,223,404,250"/>
+<area shape="rect" id="node13" href="$db/def/class_p_x4_accelerometer.html#aae188e31a6b5919ff82025f3c8600142" title="PX4Accelerometer::set\l_temperature" alt="" coords="229,423,386,464"/>
+<area shape="rect" id="node3" href="$d6/dd5/class_l_s_m303_d.html#a5f1f4db34131f350507192dbe4dd46b2" title="LSM303D::reset" alt="" coords="504,13,621,39"/>
+<area shape="rect" id="node4" href="$d6/dd5/class_l_s_m303_d.html#a0f48892381aa5a928264d370302e97c2" title="LSM303D::init" alt="" coords="737,13,843,39"/>
+<area shape="rect" id="node5" href="$de/d88/namespacelsm303d.html#a2316166d8e80b3eef8f72ec316f82f61" title="Start the driver. " alt="" coords="911,13,1017,39"/>
+<area shape="rect" id="node6" href="$d0/d47/lsm303d__main_8cpp.html#a58648fe66ec5f4a40bea62b2c0c466b3" title="lsm303d_main" alt="" coords="1074,13,1181,39"/>
+<area shape="rect" id="node11" href="$d8/db8/class_a_d_i_s16448.html#acf8ccc9e967f799b8129c5bed4c8d9ac" title="Resets the chip and measurements ranges. " alt="" coords="499,89,626,115"/>
+<area shape="rect" id="node12" href="$d8/db8/class_a_d_i_s16448.html#a9331d4d37c69889ad474344b81d6672d" title="ADIS16448::probe" alt="" coords="725,75,855,102"/>
+<area shape="rect" id="node14" href="$d8/db8/class_a_d_i_s16448.html#a6bf03658298f1137f5e15fa7921a5c09" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="489,177,636,203"/>
+<area shape="rect" id="node19" href="$d8/de0/class_a_d_i_s16477.html#aae8de66adfe0f85a742da8628de284c8" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="489,227,636,254"/>
+<area shape="rect" id="node21" href="$d7/d43/class_a_d_i_s16497.html#afa11625b7b72eca58093071c9d5e53c5" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="489,278,636,305"/>
+<area shape="rect" id="node23" href="$d2/d34/class_b_m_i055__accel.html#ac362d079edf5896e2370325932bf576e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="481,329,644,355"/>
+<area shape="rect" id="node25" href="$d1/da1/class_b_m_i088__accel.html#a1042a3ddf5531666f55d31547723c88e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="481,379,644,406"/>
+<area shape="rect" id="node27" href="$df/d9d/class_b_m_i160.html#a73c594edaf8f617904ad5907fa2eac33" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="500,430,625,457"/>
+<area shape="rect" id="node29" href="$db/d27/class_f_x_o_s8701_c_q.html#a613a5145bf1abdec678b18728704df6d" title="FXOS8701CQ::Run" alt="" coords="493,481,632,507"/>
+<area shape="rect" id="node30" href="$da/d2e/class_i_c_m20948.html#a0fa8a88dd60f823e58901a30759c036e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="493,531,633,558"/>
+<area shape="rect" id="node32" href="$d6/dd5/class_l_s_m303_d.html#a4d75415f141e636f6bc2cfd55bf44634" title="Fetch mag measurements from the sensor and update the report ring. " alt="" coords="452,582,673,609"/>
+<area shape="rect" id="node34" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="493,633,632,659"/>
+<area shape="rect" id="node36" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="493,683,632,710"/>
+<area shape="rect" id="node38" href="$d7/d28/class_sih.html#a2a4e25760195cdd49239c8c0704ee18d" title="Sih::send_IMU" alt="" coords="508,734,617,761"/>
+<area shape="rect" id="node15" href="$d8/db8/class_a_d_i_s16448.html#ae5539bb23371afbb4adc88331b562174" title="ADIS16448::init" alt="" coords="733,126,847,153"/>
+<area shape="rect" id="node18" href="$d8/db8/class_a_d_i_s16448.html#a6d53becf5edb296babe5c41b777a40f2" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="729,177,851,203"/>
+<area shape="rect" id="node16" href="$d4/dc6/namespaceadis16448.html#ae7937575dbf2a50d9409474ade733c7b" title="adis16448::start" alt="" coords="907,126,1021,153"/>
+<area shape="rect" id="node17" href="$dd/d0b/adis16448__main_8cpp.html#a7325a0caca0b01043f6827796555c498" title="adis16448_main" alt="" coords="1069,126,1185,153"/>
+<area shape="rect" id="node20" href="$d8/de0/class_a_d_i_s16477.html#a009dacaffe33bde85adb3fa898a38ea8" title="ADIS16477::Run" alt="" coords="729,227,851,254"/>
+<area shape="rect" id="node22" href="$d7/d43/class_a_d_i_s16497.html#a61a20797d9710d2d629f609d56905339" title="ADIS16497::Run" alt="" coords="729,278,851,305"/>
+<area shape="rect" id="node24" href="$d2/d34/class_b_m_i055__accel.html#a2db60285e7501b3e09837e414819b338" title="BMI055_accel::Run" alt="" coords="721,329,859,355"/>
+<area shape="rect" id="node26" href="$d1/da1/class_b_m_i088__accel.html#ac53d05faf4d081f4c661da52de9a2a06" title="BMI088_accel::Run" alt="" coords="721,379,859,406"/>
+<area shape="rect" id="node28" href="$df/d9d/class_b_m_i160.html#aa42d35d6206620e245de54221fc9ee7d" title="BMI160::Run" alt="" coords="741,430,839,457"/>
+<area shape="rect" id="node31" href="$da/d2e/class_i_c_m20948.html#a9a2792028b35b8f611b7351c6dfc00a7" title="ICM20948::Run" alt="" coords="733,531,847,558"/>
+<area shape="rect" id="node33" href="$d6/dd5/class_l_s_m303_d.html#ae9486400c921b4900adcc3dde692f74a" title="LSM303D::Run" alt="" coords="734,582,846,609"/>
+<area shape="rect" id="node35" href="$d5/d19/class_m_p_u6000.html#a9922ab5434fe1c134dd8eef8c9322669" title="MPU6000::Run" alt="" coords="734,633,846,659"/>
+<area shape="rect" id="node37" href="$df/dd9/class_m_p_u9250.html#a7266eb702b753e6066218f41eda3f201" title="MPU9250::Run" alt="" coords="734,683,846,710"/>
+<area shape="rect" id="node39" href="$d7/d28/class_sih.html#ae9c730a3bcefba814a268e9ce715834e" title="Sih::inner_loop" alt="" coords="736,734,844,761"/>
+<area shape="rect" id="node40" href="$d7/d28/class_sih.html#a50305f3a277e16908d0866e1e3f33a1f" title="Sih::run" alt="" coords="931,734,997,761"/>
+</map>

@@ -1,37 +1,51 @@
 <map id="build/doxygen/uORB/topics/home_position.h" name="build/doxygen/uORB/topics/home_position.h">
-<area shape="rect" id="node2" href="$de/d23/messages_8cpp.html" title="src/drivers/telemetry\l/hott/messages.cpp" alt="" coords="285,102,426,143"/>
-<area shape="rect" id="node3" href="$d0/d2b/_flight_task_auto_8hpp.html" title="Map from global triplet to local quadruple. " alt="" coords="451,102,657,143"/>
-<area shape="rect" id="node11" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="1094,102,1259,143"/>
-<area shape="rect" id="node12" href="$da/d73/_commander_8cpp.html" title="src/modules/commander\l/Commander.cpp" alt="" coords="1106,206,1271,247"/>
-<area shape="rect" id="node13" href="$da/dab/mavlink__receiver_8h.html" title="MAVLink receiver thread. " alt="" coords="1335,102,1477,143"/>
-<area shape="rect" id="node16" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="1502,102,1665,143"/>
-<area shape="rect" id="node17" href="$dd/d8c/mc__pos__control__main_8cpp.html" title="Multicopter position controller. " alt="" coords="1689,95,1853,151"/>
-<area shape="rect" id="node18" href="$dc/dd1/datalinkloss_8cpp.html" title="Helper class for Data Link Loss Mode according to the OBC rules. " alt="" coords="677,310,828,351"/>
-<area shape="rect" id="node19" href="$d0/d8c/geofence_8h.html" title="Provides functions for handling the geofence. " alt="" coords="1929,102,2080,143"/>
-<area shape="rect" id="node24" href="$d7/d0c/gpsfailure_8cpp.html" title="Helper class for gpsfailure mode according to the OBC rules. " alt="" coords="2948,310,3099,351"/>
-<area shape="rect" id="node30" href="$da/da4/navigator__main_8cpp.html" title="Handles mission items, geo fencing and failsafe navigation behavior. " alt="" coords="3123,310,3273,351"/>
-<area shape="rect" id="node33" href="$d6/d0a/rcloss_8cpp.html" title="Helper class for RC Loss Mode according to the OBC rules. " alt="" coords="3297,310,3448,351"/>
-<area shape="rect" id="node36" href="$db/dee/src_2modules_2navigator_2mission_8h.html" title="src/modules/navigator\l/mission.h" alt="" coords="2104,102,2255,143"/>
-<area shape="rect" id="node4" href="$dd/d08/_flight_task_auto_8cpp.html" title="src/lib/FlightTasks\l/tasks/Auto/FlightTaskAuto.cpp" alt="" coords="5,206,212,247"/>
-<area shape="rect" id="node5" href="$d3/d58/_flight_task_auto_follow_me_8hpp.html" title="Flight task for autonomous, gps driven follow&#45;me mode. " alt="" coords="237,199,431,255"/>
-<area shape="rect" id="node7" href="$de/dc9/_flight_task_auto_mapper_8hpp.html" title="Abstract Flight task which generates local setpoints based on the triplet type. " alt="" coords="455,199,653,255"/>
-<area shape="rect" id="node6" href="$d1/d29/_flight_task_auto_follow_me_8cpp.html" title="src/lib/FlightTasks\l/tasks/AutoFollowMe\l/FlightTaskAutoFollowMe.cpp" alt="" coords="34,303,229,359"/>
-<area shape="rect" id="node8" href="$de/dd7/_flight_task_auto_line_8hpp.html" title="Flight task for autonomous, gps driven mode. " alt="" coords="253,303,431,359"/>
-<area shape="rect" id="node10" href="$d7/d29/_flight_task_auto_mapper_8cpp.html" title="src/lib/FlightTasks\l/tasks/AutoMapper/FlightTask\lAutoMapper.cpp" alt="" coords="455,303,653,359"/>
-<area shape="rect" id="node9" href="$d1/d4e/_flight_task_auto_line_8cpp.html" title="src/lib/FlightTasks\l/tasks/AutoLine/FlightTask\lAutoLine.cpp" alt="" coords="253,407,431,463"/>
-<area shape="rect" id="node14" href="$de/d24/mavlink__main_8cpp.html" title="MAVLink 1.0 protocol implementation. " alt="" coords="1492,206,1635,247"/>
-<area shape="rect" id="node15" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="1319,206,1469,247"/>
-<area shape="rect" id="node20" href="$d0/d69/navigator_8h.html" title="Helper class to access missions. " alt="" coords="1988,206,2139,247"/>
-<area shape="rect" id="node23" href="$d8/dfa/geofence_8cpp.html" title="Provides functions for handling the geofence. " alt="" coords="852,310,1003,351"/>
-<area shape="rect" id="node21" href="$de/daf/enginefailure_8cpp.html" title="src/modules/navigator\l/enginefailure.cpp" alt="" coords="1725,310,1876,351"/>
-<area shape="rect" id="node22" href="$d4/d54/follow__target_8cpp.html" title="src/modules/navigator\l/follow_target.cpp" alt="" coords="1900,310,2051,351"/>
-<area shape="rect" id="node25" href="$df/d25/navigator_2land_8cpp.html" title="src/modules/navigator\l/land.cpp" alt="" coords="2075,310,2225,351"/>
-<area shape="rect" id="node26" href="$d1/d7e/loiter_8cpp.html" title="Helper class to loiter. " alt="" coords="2249,310,2400,351"/>
-<area shape="rect" id="node27" href="$d0/d3c/mission_8cpp.html" title="src/modules/navigator\l/mission.cpp" alt="" coords="2773,310,2924,351"/>
-<area shape="rect" id="node28" href="$d4/dc9/mission__block_8cpp.html" title="Helper class to use mission items. " alt="" coords="2424,310,2575,351"/>
-<area shape="rect" id="node29" href="$d4/d86/mission__feasibility__checker_8cpp.html" title="Provides checks if mission is feasible given the navigation capabilities. " alt="" coords="2599,303,2749,359"/>
-<area shape="rect" id="node31" href="$da/daa/navigator__mode_8cpp.html" title="Base class for different modes in navigator. " alt="" coords="1027,310,1177,351"/>
-<area shape="rect" id="node32" href="$d2/dff/precland_8cpp.html" title="Helper class to do precision landing with a landing target. " alt="" coords="1201,310,1352,351"/>
-<area shape="rect" id="node34" href="$dc/d9b/rtl_8cpp.html" title="src/modules/navigator\l/rtl.cpp" alt="" coords="1376,310,1527,351"/>
-<area shape="rect" id="node35" href="$d0/d7a/takeoff_8cpp.html" title="src/modules/navigator\l/takeoff.cpp" alt="" coords="1551,310,1701,351"/>
+<area shape="rect" id="node2" href="$de/d23/messages_8cpp.html" title="src/drivers/telemetry\l/hott/messages.cpp" alt="" coords="767,102,908,143"/>
+<area shape="rect" id="node3" href="$d0/d2b/_flight_task_auto_8hpp.html" title="Map from global triplet to local quadruple. " alt="" coords="933,102,1139,143"/>
+<area shape="rect" id="node13" href="$dc/dc0/_flight_task_manual_altitude_8hpp.html" title="src/lib/flight_tasks\l/tasks/ManualAltitude\l/FlightTaskManualAltitude.hpp" alt="" coords="1941,95,2139,151"/>
+<area shape="rect" id="node24" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="2435,102,2600,143"/>
+<area shape="rect" id="node26" href="$da/dab/mavlink__receiver_8h.html" title="MAVLink receiver thread. " alt="" coords="2625,102,2767,143"/>
+<area shape="rect" id="node29" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="2792,102,2955,143"/>
+<area shape="rect" id="node30" href="$dd/d8c/mc__pos__control__main_8cpp.html" title="Multicopter position controller. " alt="" coords="2979,95,3143,151"/>
+<area shape="rect" id="node31" href="$dc/dd1/datalinkloss_8cpp.html" title="Helper class for Data Link Loss Mode according to the OBC rules. " alt="" coords="2693,332,2843,373"/>
+<area shape="rect" id="node32" href="$d0/d8c/geofence_8h.html" title="Provides functions for handling the geofence. " alt="" coords="3270,102,3421,143"/>
+<area shape="rect" id="node33" href="$d0/d69/navigator_8h.html" title="Helper class to access missions. " alt="" coords="3827,213,3978,255"/>
+<area shape="rect" id="node37" href="$d7/d0c/gpsfailure_8cpp.html" title="Helper class for gpsfailure mode according to the OBC rules. " alt="" coords="2867,332,3018,373"/>
+<area shape="rect" id="node46" href="$d6/d0a/rcloss_8cpp.html" title="Helper class for RC Loss Mode according to the OBC rules. " alt="" coords="5313,332,5463,373"/>
+<area shape="rect" id="node49" href="$db/dee/src_2modules_2navigator_2mission_8h.html" title="src/modules/navigator\l/mission.h" alt="" coords="3739,102,3890,143"/>
+<area shape="rect" id="node50" href="$dd/d87/rtl_8h.html" title="Helper class for RTL. " alt="" coords="3914,102,4065,143"/>
+<area shape="rect" id="node4" href="$dd/d08/_flight_task_auto_8cpp.html" title="src/lib/flight_tasks\l/tasks/Auto/FlightTaskAuto.cpp" alt="" coords="815,213,1022,255"/>
+<area shape="rect" id="node5" href="$d3/d58/_flight_task_auto_follow_me_8hpp.html" title="Flight task for autonomous, gps driven follow&#45;me mode. " alt="" coords="1047,206,1257,262"/>
+<area shape="rect" id="node7" href="$de/dc9/_flight_task_auto_mapper_8hpp.html" title="Abstract Flight task which generates local setpoints based on the triplet type. " alt="" coords="231,206,428,262"/>
+<area shape="rect" id="node10" href="$db/d83/_flight_task_auto_mapper2_8hpp.html" title="Abstract Flight task which generates local setpoints based on the triplet type. " alt="" coords="587,206,791,262"/>
+<area shape="rect" id="node6" href="$d1/d29/_flight_task_auto_follow_me_8cpp.html" title="src/lib/flight_tasks\l/tasks/AutoFollowMe/FlightTask\lAutoFollowMe.cpp" alt="" coords="936,325,1147,381"/>
+<area shape="rect" id="node8" href="$de/dd7/_flight_task_auto_line_8hpp.html" title="Flight task for autonomous, gps driven mode. " alt="" coords="227,325,432,381"/>
+<area shape="rect" id="node9" href="$d7/d29/_flight_task_auto_mapper_8cpp.html" title="src/lib/flight_tasks\l/tasks/AutoMapper/FlightTask\lAutoMapper.cpp" alt="" coords="5,325,203,381"/>
+<area shape="rect" id="node11" href="$db/d67/_flight_task_auto_line_smooth_vel_8hpp.html" title="Flight task for autonomous, gps driven mode. " alt="" coords="685,325,912,381"/>
+<area shape="rect" id="node12" href="$d6/d53/_flight_task_auto_mapper2_8cpp.html" title="src/lib/flight_tasks\l/tasks/AutoMapper2/FlightTask\lAutoMapper2.cpp" alt="" coords="457,325,661,381"/>
+<area shape="rect" id="node14" href="$d4/dc9/_flight_task_manual_altitude_8cpp.html" title="src/lib/flight_tasks\l/tasks/ManualAltitude\l/FlightTaskManualAltitude.cpp" alt="" coords="1941,206,2139,262"/>
+<area shape="rect" id="node15" href="$de/df1/_flight_task_manual_altitude_smooth_8hpp.html" title="src/lib/flight_tasks\l/tasks/ManualAltitudeSmooth\l/FlightTaskManualAltitudeSmooth.hpp" alt="" coords="2168,206,2411,262"/>
+<area shape="rect" id="node18" href="$d9/d0b/_flight_task_manual_altitude_smooth_vel_8hpp.html" title="src/lib/flight_tasks\l/tasks/ManualAltitudeSmooth\lVel/FlightTaskManualAltitudeSmooth\lVel.hpp" alt="" coords="1417,199,1655,269"/>
+<area shape="rect" id="node20" href="$d6/d5b/_flight_task_manual_position_8hpp.html" title="Flight task for manual position controlled mode. " alt="" coords="1701,206,1902,262"/>
+<area shape="rect" id="node16" href="$db/d35/_flight_task_manual_altitude_smooth_8cpp.html" title="src/lib/flight_tasks\l/tasks/ManualAltitudeSmooth\l/FlightTaskManualAltitudeSmooth.cpp" alt="" coords="2425,325,2668,381"/>
+<area shape="rect" id="node17" href="$dd/de3/_flight_task_orbit_8hpp.html" title="Flight task for orbiting in a circle around a target position. " alt="" coords="2193,332,2401,373"/>
+<area shape="rect" id="node19" href="$d9/d4d/_flight_task_manual_altitude_smooth_vel_8cpp.html" title="src/lib/flight_tasks\l/tasks/ManualAltitudeSmooth\lVel/FlightTaskManualAltitudeSmooth\lVel.cpp" alt="" coords="1171,317,1408,388"/>
+<area shape="rect" id="node21" href="$dc/d32/_flight_task_manual_position_8cpp.html" title="src/lib/flight_tasks\l/tasks/ManualPosition\l/FlightTaskManualPosition.cpp" alt="" coords="1697,325,1898,381"/>
+<area shape="rect" id="node22" href="$dd/d10/_flight_task_manual_position_smooth_8hpp.html" title="src/lib/flight_tasks\l/tasks/ManualPositionSmooth\l/FlightTaskManualPositionSmooth.hpp" alt="" coords="1922,325,2169,381"/>
+<area shape="rect" id="node23" href="$d3/dd2/_flight_task_manual_position_smooth_vel_8hpp.html" title="Flight task for smooth manual controlled position. " alt="" coords="1432,317,1672,388"/>
+<area shape="rect" id="node25" href="$da/d73/_commander_8cpp.html" title="Main state machine / business logic. " alt="" coords="2435,213,2600,255"/>
+<area shape="rect" id="node27" href="$de/d24/mavlink__main_8cpp.html" title="MAVLink 1.0 protocol implementation. " alt="" coords="2625,213,2767,255"/>
+<area shape="rect" id="node28" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="2792,213,2941,255"/>
+<area shape="rect" id="node36" href="$d8/dfa/geofence_8cpp.html" title="Provides functions for handling the geofence. " alt="" coords="3042,332,3193,373"/>
+<area shape="rect" id="node34" href="$de/daf/enginefailure_8cpp.html" title="src/modules/navigator\l/enginefailure.cpp" alt="" coords="4789,332,4939,373"/>
+<area shape="rect" id="node35" href="$d4/d54/follow__target_8cpp.html" title="src/modules/navigator\l/follow_target.cpp" alt="" coords="3217,332,3367,373"/>
+<area shape="rect" id="node38" href="$df/d25/navigator_2land_8cpp.html" title="src/modules/navigator\l/land.cpp" alt="" coords="3391,332,3542,373"/>
+<area shape="rect" id="node39" href="$d1/d7e/loiter_8cpp.html" title="Helper class to loiter. " alt="" coords="3566,332,3717,373"/>
+<area shape="rect" id="node40" href="$d0/d3c/mission_8cpp.html" title="src/modules/navigator\l/mission.cpp" alt="" coords="4963,332,5114,373"/>
+<area shape="rect" id="node41" href="$d4/dc9/mission__block_8cpp.html" title="Helper class to use mission items. " alt="" coords="3741,332,3891,373"/>
+<area shape="rect" id="node42" href="$d4/d86/mission__feasibility__checker_8cpp.html" title="Provides checks if mission is feasible given the navigation capabilities. " alt="" coords="3915,325,4066,381"/>
+<area shape="rect" id="node43" href="$da/da4/navigator__main_8cpp.html" title="Handles mission items, geo fencing and failsafe navigation behavior. " alt="" coords="4090,332,4241,373"/>
+<area shape="rect" id="node44" href="$da/daa/navigator__mode_8cpp.html" title="Base class for different modes in navigator. " alt="" coords="4265,332,4415,373"/>
+<area shape="rect" id="node45" href="$d2/dff/precland_8cpp.html" title="Helper class to do precision landing with a landing target. " alt="" coords="4439,332,4590,373"/>
+<area shape="rect" id="node47" href="$dc/d9b/rtl_8cpp.html" title="Helper class to access RTL. " alt="" coords="5138,332,5289,373"/>
+<area shape="rect" id="node48" href="$d7/d13/navigator_2_takeoff_8cpp.html" title="src/modules/navigator\l/takeoff.cpp" alt="" coords="4614,332,4765,373"/>
 </map>

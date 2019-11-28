@@ -1,51 +1,51 @@
 <map id="linux_pwm_out_main" name="linux_pwm_out_main">
-<area shape="rect" id="node2" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1118,5,1205,32"/>
-<area shape="rect" id="node3" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1120,57,1203,84"/>
-<area shape="rect" id="node4" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="230,421,317,448"/>
-<area shape="rect" id="node7" href="$d0/db0/namespacelinux__pwm__out.html#a15fd89cbae6f918aee78e46d9d018a7b" title="linux_pwm_out::start" alt="" coords="202,509,345,536"/>
-<area shape="rect" id="node49" href="$d0/db0/namespacelinux__pwm__out.html#a193a1809a30233be3c22bae30f24e543" title="linux_pwm_out::stop" alt="" coords="615,887,757,913"/>
-<area shape="rect" id="node50" href="$d0/db0/namespacelinux__pwm__out.html#a3eab6d177df998cc3a3fe0664f591369" title="linux_pwm_out::usage" alt="" coords="197,640,349,667"/>
-<area shape="rect" id="node5" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="442,371,505,397"/>
-<area shape="rect" id="node6" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="647,396,725,423"/>
-<area shape="rect" id="node8" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="397,539,549,565"/>
-<area shape="rect" id="node9" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="402,473,545,514"/>
-<area shape="rect" id="node10" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="597,657,775,684"/>
-<area shape="rect" id="node11" href="$d0/db0/namespacelinux__pwm__out.html#a83d0434bdab40f1bc6fc21c6fc5df515" title="linux_pwm_out::initialize\l_mixer" alt="" coords="841,439,1005,481"/>
-<area shape="rect" id="node14" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1351,413,1389,440"/>
-<area shape="rect" id="node17" href="$d4/dc0/classlinux__pwm__out_1_1_p_w_m_out_base.html#af1e2d06997be00ae130fd87da63fc305" title="linux_pwm_out::PWMOutBase\l::init" alt="" coords="823,709,1024,750"/>
-<area shape="rect" id="node18" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="855,774,991,815"/>
-<area shape="rect" id="node20" href="$d0/db0/namespacelinux__pwm__out.html#abeed8907528a770b555496e3b00d01b9" title="linux_pwm_out::subscribe" alt="" coords="837,657,1010,684"/>
-<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="1110,657,1213,684"/>
-<area shape="rect" id="node24" href="$d0/db0/namespacelinux__pwm__out.html#a76625f6969e00428b2148820126b748e" title="linux_pwm_out::update\l_params" alt="" coords="845,105,1001,146"/>
-<area shape="rect" id="node26" href="$d2/d09/pwm__limit_8cpp.html#ae3de6fee4531aea8b7281b9876803c09" title="pwm_limit_init" alt="" coords="871,992,976,1019"/>
-<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="882,1093,965,1120"/>
-<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="886,891,961,917"/>
-<area shape="rect" id="node31" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="839,1152,1007,1179"/>
-<area shape="rect" id="node33" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="888,1261,959,1288"/>
-<area shape="rect" id="node35" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1131,1363,1191,1389"/>
-<area shape="rect" id="node38" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="864,236,983,263"/>
-<area shape="rect" id="node40" href="$d2/d09/pwm__limit_8cpp.html#a1f8a7620629f6261224f8c4c9c28ee7d" title="pwm_limit_calc" alt="" coords="867,337,979,364"/>
-<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1099,287,1224,313"/>
-<area shape="rect" id="node43" href="$d4/dc0/classlinux__pwm__out_1_1_p_w_m_out_base.html#ac1205e0cece1c918d5626fde03a92583" title="linux_pwm_out::PWMOutBase\l::send_output_pwm" alt="" coords="823,170,1024,211"/>
-<area shape="rect" id="node44" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="879,1043,967,1069"/>
-<area shape="rect" id="node45" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="873,840,973,867"/>
-<area shape="rect" id="node46" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="863,505,984,532"/>
-<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="865,941,982,968"/>
-<area shape="rect" id="node48" href="$dd/d78/perf__counter_8c.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="887,556,960,583"/>
-<area shape="rect" id="node12" href="$d0/db0/namespacelinux__pwm__out.html#aae66b89b72ef89c70dcc1651768e050b" title="linux_pwm_out::mixer\l_control_callback" alt="" coords="1087,591,1236,633"/>
-<area shape="rect" id="node13" href="$db/def/mixer__load_8c.html#a602ebf0e58595c0a7e1a1553969b4fa8" title="load_mixer_file" alt="" coords="1107,439,1216,465"/>
-<area shape="rect" id="node15" href="$d9/dbb/class_mixer_group.html#a7bd735772388a8b1d9f4cc41dd8ec7d1" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="1072,489,1251,516"/>
-<area shape="rect" id="node16" href="$d9/dbb/class_mixer_group.html#a3b230aef7d69cab162cc2b3f36e3834d" title="Count the mixers in the group. " alt="" coords="1097,540,1226,567"/>
-<area shape="rect" id="node19" href="$de/d2d/class_mixer.html#a7490fba3e26745dcf8ea90d1286bc013" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="1084,739,1239,765"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1299,883,1441,925"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1299,650,1441,691"/>
-<area shape="rect" id="node25" href="$de/de9/px4__param_8h.html#a2b8101dab7f22f9995c2db92891af07e" title="get the parameter handle from a parameter enum " alt="" coords="1110,112,1213,139"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1090,1043,1233,1085"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1073,891,1250,917"/>
-<area shape="rect" id="node32" href="$de/d2d/class_mixer.html#a6438664d6059e84a1689cca3637ce8d4" title="Set airmode. " alt="" coords="1095,1160,1228,1187"/>
-<area shape="rect" id="node34" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1115,1211,1208,1237"/>
-<area shape="rect" id="node36" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1124,1261,1199,1288"/>
-<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="1096,1312,1227,1339"/>
-<area shape="rect" id="node39" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="1120,236,1203,263"/>
-<area shape="rect" id="node42" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1101,337,1222,364"/>
+<area shape="rect" id="node2" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="230,810,317,837"/>
+<area shape="rect" id="node11" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="232,759,315,786"/>
+<area shape="rect" id="node43" href="$d0/db0/namespacelinux__pwm__out.html#a15fd89cbae6f918aee78e46d9d018a7b" title="linux_pwm_out::start" alt="" coords="202,451,345,478"/>
+<area shape="rect" id="node49" href="$d0/db0/namespacelinux__pwm__out.html#a193a1809a30233be3c22bae30f24e543" title="linux_pwm_out::stop" alt="" coords="202,861,345,887"/>
+<area shape="rect" id="node50" href="$d0/db0/namespacelinux__pwm__out.html#a3eab6d177df998cc3a3fe0664f591369" title="linux_pwm_out::usage" alt="" coords="197,911,349,938"/>
+<area shape="rect" id="node3" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="403,1181,538,1207"/>
+<area shape="rect" id="node4" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="639,1130,722,1157"/>
+<area shape="rect" id="node6" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1275,1469,1425,1495"/>
+<area shape="rect" id="node7" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="597,1443,764,1470"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="645,1181,717,1207"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1084,974,1209,1001"/>
+<area shape="rect" id="node8" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a7a74545fb539a29ccb58c34cfdd73e6e" title="Look up the index of a parameter. " alt="" coords="857,1469,979,1495"/>
+<area shape="rect" id="node9" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1089,1418,1205,1445"/>
+<area shape="rect" id="node12" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="405,911,537,938"/>
+<area shape="rect" id="node13" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="609,1266,752,1293"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="636,1367,725,1394"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="397,303,544,330"/>
+<area shape="rect" id="node20" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1089,582,1205,609"/>
+<area shape="rect" id="node22" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="405,759,537,786"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="873,557,963,583"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="632,405,729,431"/>
+<area shape="rect" id="node37" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="899,253,937,279"/>
+<area shape="rect" id="node14" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1073,1266,1220,1293"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="847,1215,989,1242"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="873,1367,963,1394"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1067,1215,1227,1242"/>
+<area shape="rect" id="node21" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1275,582,1425,609"/>
+<area shape="rect" id="node23" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1083,911,1211,938"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="847,810,989,837"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1067,861,1227,887"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="636,607,725,634"/>
+<area shape="rect" id="node29" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="621,962,740,989"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="1075,1050,1218,1077"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="601,455,761,482"/>
+<area shape="rect" id="node40" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="613,658,749,685"/>
+<area shape="rect" id="node41" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="609,1013,752,1055"/>
+<area shape="rect" id="node42" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="609,759,752,786"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1073,785,1220,811"/>
+<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="857,1013,979,1039"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="857,962,979,989"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="868,303,968,330"/>
+<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="874,354,962,381"/>
+<area shape="rect" id="node38" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1105,253,1188,279"/>
+<area shape="rect" id="node39" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1307,253,1393,279"/>
+<area shape="rect" id="node44" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="399,187,542,228"/>
+<area shape="rect" id="node45" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="592,198,769,225"/>
+<area shape="rect" id="node46" href="$d0/db0/namespacelinux__pwm__out.html#a83d0434bdab40f1bc6fc21c6fc5df515" title="linux_pwm_out::initialize\l_mixer" alt="" coords="836,71,1000,112"/>
+<area shape="rect" id="node47" href="$d4/dc0/classlinux__pwm__out_1_1_p_w_m_out_base.html#af1e2d06997be00ae130fd87da63fc305" title="linux_pwm_out::PWMOutBase\l::init" alt="" coords="817,136,1019,177"/>
+<area shape="rect" id="node48" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="MixerGroup::groups\l_required" alt="" coords="850,5,986,47"/>
 </map>

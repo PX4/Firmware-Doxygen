@@ -1,0 +1,32 @@
+<map id="uORB::SubscriptionInterval::updated" name="uORB::SubscriptionInterval::updated">
+<area shape="rect" id="node2" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#ad37eaf4990b69463eb3f3c53db76874d" title="uORB::SubscriptionInterval\l::advertised" alt="" coords="235,302,416,343"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="265,653,386,680"/>
+<area shape="rect" id="node31" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="256,367,395,408"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="478,302,617,343"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="687,178,826,219"/>
+<area shape="rect" id="node17" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="679,243,835,284"/>
+<area shape="rect" id="node18" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="687,308,826,350"/>
+<area shape="rect" id="node5" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="883,178,1021,219"/>
+<area shape="rect" id="node6" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abb03278ff4ddd2a50e0f2996e856f2cc" title="Add the subscriber to the node&#39;s list of subscriber. " alt="" coords="1087,119,1253,160"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1349,203,1491,244"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1569,90,1712,131"/>
+<area shape="rect" id="node12" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a7877236ac1912c32c2ab6ae06899392d" title="uORB::DeviceNode::get\l_queue_size" alt="" coords="1088,236,1252,278"/>
+<area shape="rect" id="node13" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1097,302,1243,343"/>
+<area shape="rect" id="node16" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1069,367,1271,408"/>
+<area shape="rect" id="node7" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a2fdcab300f1c9ccf8c43858493ca9358" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="1319,35,1521,76"/>
+<area shape="rect" id="node10" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="1358,101,1482,128"/>
+<area shape="rect" id="node11" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="1351,152,1489,178"/>
+<area shape="rect" id="node14" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="1347,286,1493,327"/>
+<area shape="rect" id="node15" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="1347,351,1493,392"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="485,425,610,452"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="499,476,596,502"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="506,526,589,553"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="496,577,599,604"/>
+<area shape="rect" id="node24" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="496,628,599,654"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="503,678,591,705"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="508,729,587,756"/>
+<area shape="rect" id="node27" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="506,780,589,806"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="464,830,631,857"/>
+<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="517,881,578,908"/>
+<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="467,932,628,958"/>
+</map>

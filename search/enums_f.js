@@ -1,21 +1,12 @@
 var searchData=
 [
-  ['satcom_5fread_5fstatus',['satcom_read_status',['../d1/dc6/_iridium_s_b_d_8h.html#a552633d30c452d9078a139be6609d7e1',1,'IridiumSBD.h']]],
-  ['satcom_5fresult_5fcode',['satcom_result_code',['../d1/dc6/_iridium_s_b_d_8h.html#a83fbf865318410de11288df816088971',1,'IridiumSBD.h']]],
-  ['satcom_5fstate',['satcom_state',['../d1/dc6/_iridium_s_b_d_8h.html#af2d93401c768ced91070edf814f5cfcd',1,'IridiumSBD.h']]],
-  ['satcom_5fstatus',['satcom_status',['../d1/dc6/_iridium_s_b_d_8h.html#a1caeaaf404bfb6010d6c0f9aca276c88',1,'IridiumSBD.h']]],
-  ['satcom_5fuart_5fstatus',['satcom_uart_status',['../d1/dc6/_iridium_s_b_d_8h.html#af337637a7ae165c07f634bac0897b34f',1,'IridiumSBD.h']]],
-  ['sbus2_5fdecode_5fstate',['SBUS2_DECODE_STATE',['../d6/daa/sbus_8cpp.html#ae420b94ef2879e21265951b11727d279',1,'sbus.cpp']]],
-  ['scriptid',['ScriptID',['../d8/d7e/class_blink_m.html#ae6ba08c1abbaf36ec18933d0048c7240',1,'BlinkM']]],
-  ['sdlogprofilemask',['SDLogProfileMask',['../da/d4f/namespacepx4_1_1logger.html#a6771fb02139bcb9cb1e4f8606d293a42',1,'px4::logger']]],
-  ['sensor_5ft',['sensor_t',['../d5/d01/class_block_local_position_estimator.html#a2010320b51fe9f47bfffeb347e8c6a0b',1,'BlockLocalPositionEstimator']]],
-  ['sensor_5ftype',['sensor_type',['../d1/db0/bmi055__main_8cpp.html#a6ceb3ea24264a6faa4f32351cb58d41a',1,'bmi055_main.cpp']]],
-  ['sf0x_5fparse_5fstate',['SF0X_PARSE_STATE',['../db/d8d/sf0x__parser_8h.html#a3e1938361cf4ffc2c6326d9bb62b79e0',1,'sf0x_parser.h']]],
-  ['sim_5fdev_5ft',['sim_dev_t',['../dd/dd1/class_simulator.html#a026c31ebb8628843409f92284b15fee8',1,'Simulator']]],
-  ['st24_5fdecode_5fstate',['ST24_DECODE_STATE',['../d6/d6f/st24_8h.html#ad1351532dec36aff6c3197a71361c159',1,'st24.h']]],
-  ['st24_5fpacket_5ftype',['ST24_PACKET_TYPE',['../d6/d6f/st24_8h.html#ae5037cac1647abab542359f7e5c28e8c',1,'st24.h']]],
-  ['state',['State',['../d0/d2b/_flight_task_auto_8hpp.html#a5d74787dedbc4e11c1ab15bf487e61f8',1,'FlightTaskAuto.hpp']]],
-  ['statusmask',['StatusMask',['../da/d17/classevents_1_1_subscriber_handler.html#a0d7898b3da02a8e0518be8b66e01d622',1,'events::SubscriberHandler']]],
-  ['sumd_5fdecode_5fstate',['SUMD_DECODE_STATE',['../d4/dd7/sumd_8cpp.html#a44ca0d0f848277a7080d25feac7fbef2',1,'sumd.cpp']]],
-  ['syslink_5fstate',['SYSLINK_STATE',['../d9/dfc/syslink_8h.html#a8d31e2501b3f788406099e97afb021ce',1,'syslink.h']]]
+  ['rampstate',['RampState',['../dd/db4/motor__ramp_8cpp.html#a54b6237313e74c5a9a83e9b9f8eb0881',1,'motor_ramp.cpp']]],
+  ['rc_5fscan',['RC_SCAN',['../d4/d39/class_r_c_input.html#ad0646eb720db14c07ad5332de1b018a5',1,'RCInput']]],
+  ['register',['Register',['../d8/db8/class_a_d_i_s16448.html#a264c5f561a1f84702a6b4285c912c5ea',1,'ADIS16448::Register()'],['../de/d82/namespace_pix_art___p_a_w3902_j_f.html#a9eca15748d6d42e0710cacbcf97aca0f',1,'PixArt_PAW3902JF::Register()']]],
+  ['rm3100_5fbus',['RM3100_BUS',['../df/d7d/rm3100_8h.html#a02de9f2e9e3b288c49f1f3559ee09b84',1,'rm3100.h']]],
+  ['rotation',['Rotation',['../d6/dfe/rotation_8h.html#a4940d1dc528122726d2c8c475657e1a9',1,'rotation.h']]],
+  ['rtldestinationtype',['RTLDestinationType',['../d8/d7e/class_r_t_l.html#a9241199530d0fda2fd40af31006c0d31',1,'RTL']]],
+  ['rtlstate',['RTLState',['../d8/d7e/class_r_t_l.html#a8ee4b46732a1adb68b98db53803431d0',1,'RTL']]],
+  ['rtltype',['RTLType',['../d8/d7e/class_r_t_l.html#a4416ba618426d3b4a4f786295f4aec0a',1,'RTL']]],
+  ['runwaytakeoffstate',['RunwayTakeoffState',['../d8/df9/namespacerunwaytakeoff.html#a0200e9fdc8d36ca14bdafb2a933e8b16',1,'runwaytakeoff']]]
 ];

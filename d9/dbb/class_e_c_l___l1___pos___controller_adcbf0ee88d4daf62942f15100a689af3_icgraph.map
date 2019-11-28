@@ -1,17 +1,14 @@
 <map id="ECL_L1_Pos_Controller::update_roll_setpoint" name="ECL_L1_Pos_Controller::update_roll_setpoint">
-<area shape="rect" id="node2" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a7567fdc1eb3b4bdaf0d8d6ef2ec509ab" title="Navigate on a fixed bearing. " alt="" coords="216,179,379,220"/>
-<area shape="rect" id="node13" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a5526936756605515a35f2b31902a6152" title="Keep the wings level. " alt="" coords="216,114,379,155"/>
-<area shape="rect" id="node14" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab402b69cd3a6053795e90d83a84c0da3" title="Navigate on an orbit around a loiter waypoint. " alt="" coords="216,48,379,90"/>
-<area shape="rect" id="node15" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a4812a285e3309e23e33f86f5cb86cf78" title="Navigate between two waypoints. " alt="" coords="216,244,379,286"/>
-<area shape="rect" id="node3" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19" title="Returns true if following a circle (loiter) " alt="" coords="431,114,593,155"/>
-<area shape="rect" id="node12" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="427,231,597,272"/>
-<area shape="rect" id="node4" href="$d9/d31/class_fixedwing_position_control.html#a89788c32dcd3ff791d183bd9d1aafca0" title="FixedwingPositionControl\l::calculate_gndspeed_undershoot" alt="" coords="645,128,861,170"/>
-<area shape="rect" id="node5" href="$d9/d31/class_fixedwing_position_control.html#ad90bcc3a1e81fdd41fd6d8b8ec462529" title="FixedwingPositionControl\l::control_position" alt="" coords="918,212,1089,254"/>
-<area shape="rect" id="node7" href="$d7/d8c/class_ground_rover_position_control.html#a4f2f86b3be874fbb7928271fa49aa511" title="Control position. " alt="" coords="659,63,847,104"/>
-<area shape="rect" id="node6" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="1145,220,1341,246"/>
-<area shape="rect" id="node8" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="909,63,1097,104"/>
-<area shape="rect" id="node9" href="$d7/d8c/class_ground_rover_position_control.html#aa2ea14b3608ff1d5a718e79ba2de7a88" title="Shim for calling task_main from task_create. " alt="" coords="1149,63,1337,104"/>
-<area shape="rect" id="node10" href="$d7/d8c/class_ground_rover_position_control.html#a037e8b87973e3f89c49f3124d2da228b" title="Start the sensors task. " alt="" coords="1389,63,1577,104"/>
-<area shape="rect" id="node11" href="$db/d79/_ground_rover_position_control_8cpp.html#aea00b48df935476be5ad8e9ad7149791" title="L1 control app start / stop handling function. " alt="" coords="1625,70,1777,97"/>
-<area shape="rect" id="node16" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="668,348,839,390"/>
+<area shape="rect" id="node2" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a7567fdc1eb3b4bdaf0d8d6ef2ec509ab" title="Navigate on a fixed bearing. " alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node9" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a5526936756605515a35f2b31902a6152" title="Keep the wings level. " alt="" coords="216,71,379,112"/>
+<area shape="rect" id="node10" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#ab402b69cd3a6053795e90d83a84c0da3" title="Navigate on an orbit around a loiter waypoint. " alt="" coords="216,136,379,177"/>
+<area shape="rect" id="node11" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a4812a285e3309e23e33f86f5cb86cf78" title="Navigate between two waypoints. " alt="" coords="216,223,379,264"/>
+<area shape="rect" id="node3" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19" title="Returns true if following a circle (loiter) " alt="" coords="427,73,589,115"/>
+<area shape="rect" id="node8" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="864,84,1035,125"/>
+<area shape="rect" id="node4" href="$d9/d31/class_fixedwing_position_control.html#a2706f73f0117f43380a5b6d196e52ac0" title="FixedwingPositionControl\l::calculate_target_airspeed" alt="" coords="637,143,816,184"/>
+<area shape="rect" id="node5" href="$d9/d31/class_fixedwing_position_control.html#a4b6c09ae04794bb21ea7b0705313390b" title="FixedwingPositionControl\l::control_position" alt="" coords="1083,172,1253,213"/>
+<area shape="rect" id="node7" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="864,201,1035,243"/>
+<area shape="rect" id="node6" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="1301,179,1504,206"/>
+<area shape="rect" id="node12" href="$d6/db2/class_rover_position_control.html#ae739efccc037fff57e0cbbd61feff46f" title="Control position. " alt="" coords="435,244,581,285"/>
+<area shape="rect" id="node13" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="641,259,813,286"/>
 </map>

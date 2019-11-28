@@ -3,6 +3,8 @@ var group__topics =
     [ "mission_item_s", "df/df8/structmission__item__s.html", [
       [ "___lat_float", "df/df8/structmission__item__s.html#ae42723a44b0ff9c2e50eaef340cb395f", null ],
       [ "___lon_float", "df/df8/structmission__item__s.html#af3c2577ecaa4fa26b14b2cfe73fbc61a", null ],
+      [ "_padding0", "df/df8/structmission__item__s.html#a6b65fcd2438821c29fe2c5512a06dee1", null ],
+      [ "_padding1", "df/df8/structmission__item__s.html#ab32babb90350b49206feb9bec6a3b774", null ],
       [ "acceptance_radius", "df/df8/structmission__item__s.html#af4ef70f8580ec01490db9ccbec2f3995", null ],
       [ "altitude", "df/df8/structmission__item__s.html#a2257ba6328496d1f360bf7986595cb7e", null ],
       [ "altitude_is_relative", "df/df8/structmission__item__s.html#ac99b9957c7fc73ee4125c4d8b7f375ca", null ],
@@ -32,6 +34,7 @@ var group__topics =
       [ "update_counter", "d7/d24/structmission__stats__entry__s.html#a7273c78dbe83bbfb359412274902c7bd", null ]
     ] ],
     [ "mission_fence_point_s", "df/dd3/structmission__fence__point__s.html", [
+      [ "_padding0", "df/dd3/structmission__fence__point__s.html#a0a07cf9e07a5a5647f29a1c1f33a247e", null ],
       [ "alt", "df/dd3/structmission__fence__point__s.html#adf3853cc5168a374016f8fac245e7809", null ],
       [ "circle_radius", "df/dd3/structmission__fence__point__s.html#a95ed723005c0ae29942943cd04a62d6f", null ],
       [ "frame", "df/dd3/structmission__fence__point__s.html#a7310fc0c5a51b499cbde03aa9c4d32c7", null ],
@@ -40,10 +43,11 @@ var group__topics =
       [ "nav_cmd", "df/dd3/structmission__fence__point__s.html#a71ccd6e10384c21d47411f239f69509a", null ],
       [ "vertex_count", "df/dd3/structmission__fence__point__s.html#a5ffda2e095c7d6b286f2e79afe277008", null ]
     ] ],
-    [ "mission_save_point_s", "dc/dce/structmission__save__point__s.html", [
-      [ "alt", "dc/dce/structmission__save__point__s.html#aaae909117d62372cd787b2fd84c76c90", null ],
-      [ "frame", "dc/dce/structmission__save__point__s.html#ab73b10a15b793bf9ea0fd2f178659904", null ],
-      [ "lat", "dc/dce/structmission__save__point__s.html#a3e9222d9d48df866c570c545ba8eeb1f", null ],
-      [ "lon", "dc/dce/structmission__save__point__s.html#ab4bf170263f5a202ceac052361e8c5a8", null ]
+    [ "mission_safe_point_s", "d7/d29/structmission__safe__point__s.html", [
+      [ "_padding0", "d7/d29/structmission__safe__point__s.html#a8903a78fb00b2aba1dd626d6f1a5f074", null ],
+      [ "alt", "d7/d29/structmission__safe__point__s.html#a42e3ac2e5ff513abeb9c90d0c0b55269", null ],
+      [ "frame", "d7/d29/structmission__safe__point__s.html#a11ee5799792f9c0ccace7c356571ea25", null ],
+      [ "lat", "d7/d29/structmission__safe__point__s.html#a81b70ea2c57d51c579ce9885a33f6c1b", null ],
+      [ "lon", "d7/d29/structmission__safe__point__s.html#a534993ab72298d639a0e09aa51375d3a", null ]
     ] ]
 ];

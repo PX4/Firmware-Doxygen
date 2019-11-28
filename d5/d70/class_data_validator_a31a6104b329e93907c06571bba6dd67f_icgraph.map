@@ -1,8 +1,18 @@
 <map id="DataValidator::setSibling" name="DataValidator::setSibling">
-<area shape="rect" id="node2" href="$d3/d4d/class_data_validator_group.html#a99b6db1c2c5be642ce5e6c52f69320d7" title="Create a new Validator (with index equal to the number of currently existing validators) ..." alt="" coords="223,5,361,47"/>
-<area shape="rect" id="node7" href="$d3/d4d/class_data_validator_group.html#a2fb0135219a5be44286e8f76b86a3cae" title="DataValidatorGroup\l::DataValidatorGroup" alt="" coords="220,71,364,112"/>
-<area shape="rect" id="node3" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a4b59b44b0f795a6def791c2de4349163" title="sensors::VotedSensorsUpdate\l::init_sensor_class" alt="" coords="412,5,612,47"/>
-<area shape="rect" id="node4" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#af25db38b5412826d2d61bfad610d4712" title="This tries to find new sensor instances. " alt="" coords="660,5,860,47"/>
-<area shape="rect" id="node5" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="1156,13,1252,39"/>
-<area shape="rect" id="node6" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a12e2c7c958d08db496987bd52f63146f" title="initialize subscriptions etc. " alt="" coords="908,35,1108,76"/>
+<area shape="rect" id="node2" href="$d3/d4d/class_data_validator_group.html#a99b6db1c2c5be642ce5e6c52f69320d7" title="Create a new Validator (with index equal to the number of currently existing validators) ..." alt="" coords="223,205,361,246"/>
+<area shape="rect" id="node15" href="$d3/d4d/class_data_validator_group.html#a2fb0135219a5be44286e8f76b86a3cae" title="DataValidatorGroup\l::DataValidatorGroup" alt="" coords="220,270,364,311"/>
+<area shape="rect" id="node16" href="$d2/d49/test__data__validator_8cpp.html#a500f3e6675ddc2ae311f22f90e919653" title="test_init" alt="" coords="258,336,326,363"/>
+<area shape="rect" id="node3" href="$df/d55/test__data__validator__group_8cpp.html#a55b66a81b3a01f326520907cf0229559" title="Dynamically add a validator to the group after construction. " alt="" coords="434,181,590,208"/>
+<area shape="rect" id="node11" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a419a0ae01a1bf72759b7b607abccd056" title="sensors::VotedSensorsUpdate\l::initSensorClass" alt="" coords="412,235,612,277"/>
+<area shape="rect" id="node4" href="$df/d55/test__data__validator__group_8cpp.html#aef7ac2723fe058c494c17744cdc5cb0d" title="Create a DataValidatorGroup and tack on two additional DataValidators. " alt="" coords="684,70,836,111"/>
+<area shape="rect" id="node9" href="$df/d55/test__data__validator__group_8cpp.html#aa80cdcfaa86958409467a0d87eace16f" title="Force once sensor to fail and ensure that we detect it. " alt="" coords="694,157,826,184"/>
+<area shape="rect" id="node10" href="$df/d55/test__data__validator__group_8cpp.html#ac861720d204e73704d37bc840420dc9b" title="Verify that we get expected vibration values after injecting samples. " alt="" coords="710,208,810,235"/>
+<area shape="rect" id="node5" href="$df/d55/test__data__validator__group_8cpp.html#a4310f6f17170e972bc771f5989d774e6" title="Verify that the DataValidatorGroup will select the sensor with the latest higher priority as &quot;best&quot;..." alt="" coords="941,5,1075,32"/>
+<area shape="rect" id="node7" href="$df/d55/test__data__validator__group_8cpp.html#a932e91024ed7fac76356fbc1e76030b7" title="Happy path test of put method – ensure the &quot;best&quot; sensor selected is the one with highest priority..." alt="" coords="973,56,1043,83"/>
+<area shape="rect" id="node8" href="$df/d55/test__data__validator__group_8cpp.html#a9ac28a32da3c8341c9d261039a5179fa" title="Verify that the DataGroupValidator will prefer a sensor with no errors over a sensor with high errors..." alt="" coords="939,107,1077,133"/>
+<area shape="rect" id="node6" href="$df/d55/test__data__validator__group_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1179,107,1229,133"/>
+<area shape="rect" id="node12" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a97e9031474db0112dcbaf0ba9911c7c5" title="This tries to find new sensor instances. " alt="" coords="660,259,860,301"/>
+<area shape="rect" id="node13" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="1156,292,1252,319"/>
+<area shape="rect" id="node14" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a12e2c7c958d08db496987bd52f63146f" title="initialize subscriptions etc. " alt="" coords="908,314,1108,355"/>
+<area shape="rect" id="node17" href="$d2/d49/test__data__validator_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="487,336,537,363"/>
 </map>

@@ -1,0 +1,35 @@
+<map id="matrix::Euler::phi" name="matrix::Euler::phi">
+<area shape="rect" id="node2" href="$d4/d15/class_vtol_type.html#a2ee870bd529e4c9b7fe5f043d0399abf" title="Checks for fixed&#45;wing failsafe condition and issues abort request if needed. " alt="" coords="185,175,369,216"/>
+<area shape="rect" id="node11" href="$d4/d11/classmatrix_1_1_dcm.html#a027a364a589090d475253e8f74aeacfb" title="Constructor from euler angles. " alt="" coords="212,240,343,281"/>
+<area shape="rect" id="node12" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="209,422,345,449"/>
+<area shape="rect" id="node16" href="$d5/dcc/classmatrix_1_1_euler.html#a2e2bda3b719e501e88127f6956a08195" title="Constructor from euler angles. " alt="" coords="210,371,345,398"/>
+<area shape="rect" id="node17" href="$d5/d01/class_block_local_position_estimator.html#a1d2aa0e31914dace37a3ac47f4c45ac8" title="BlockLocalPositionEstimator\l::flowCorrect" alt="" coords="428,896,617,937"/>
+<area shape="rect" id="node19" href="$d5/d01/class_block_local_position_estimator.html#a086547fd47445231ef92e78217daefc4" title="BlockLocalPositionEstimator\l::flowMeasure" alt="" coords="183,1020,372,1061"/>
+<area shape="rect" id="node21" href="$d5/d01/class_block_local_position_estimator.html#a4d2b5ead91ba0f860bde0bd84692fbbe" title="BlockLocalPositionEstimator\l::lidarMeasure" alt="" coords="183,473,372,515"/>
+<area shape="rect" id="node24" href="$d2/d50/class_terrain_estimator.html#a83768b34286123a4c179ecd77ae00eb9" title="TerrainEstimator::measurement\l_update" alt="" coords="175,604,380,645"/>
+<area shape="rect" id="node25" href="$d5/d0f/classmatrix_1_1_quaternion.html#afc4f49b1b7b4acf28b1984b70db702d6" title="Constructor from euler angles. " alt="" coords="213,669,342,711"/>
+<area shape="rect" id="node26" href="$d3/d25/class_fixedwing_attitude_control.html#a8be520564b6f5eb9a0a007fbbaa11184" title="FixedwingAttitudeControl::Run" alt="" coords="177,735,377,762"/>
+<area shape="rect" id="node27" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a223b66f163a4f9a09d32cd599447701b" title="px4::bst::BST::Run" alt="" coords="210,786,345,813"/>
+<area shape="rect" id="node28" href="$d2/dc2/class_mavlink_stream_attitude.html#ab906cbd0defc1561b5439f9f6c2db7c1" title="MavlinkStreamAttitude\l::send" alt="" coords="200,837,355,879"/>
+<area shape="rect" id="node29" href="$d5/d01/class_block_local_position_estimator.html#a41599667f0fecf111df633a253297d9d" title="BlockLocalPositionEstimator\l::sonarMeasure" alt="" coords="183,539,372,580"/>
+<area shape="rect" id="node32" href="$d2/db7/class_tailsitter.html#a99e085d4adfc7c12a3d5650f3f3eb94e" title="Update transition state. " alt="" coords="218,955,337,996"/>
+<area shape="rect" id="node33" href="$dc/d54/class_failure_detector.html#a67ccf1c31947085c80450baa0f7a3c37" title="FailureDetector::updateAttitude\lStatus" alt="" coords="176,305,379,347"/>
+<area shape="rect" id="node3" href="$d4/d15/class_vtol_type.html#af1c7c698dda426e11a11ec3c8bc16e57" title="Update fixed wing state. " alt="" coords="451,188,594,229"/>
+<area shape="rect" id="node8" href="$d4/d15/class_vtol_type.html#aa0d8effe8396812d460a206a883ce698" title="Update transition state. " alt="" coords="432,96,613,137"/>
+<area shape="rect" id="node4" href="$d7/d6f/class_vtol_attitude_control.html#aa326f07b63d1734be23c2ee108516da3" title="VtolAttitudeControl::Run" alt="" coords="694,137,858,163"/>
+<area shape="rect" id="node5" href="$db/d0f/class_tiltrotor.html#a469a7c16f71281293f15d3f6e83a0883" title="Update fixed wing state. " alt="" coords="709,319,843,360"/>
+<area shape="rect" id="node6" href="$d2/db7/class_tailsitter.html#a3139f7ec29cc82d8e5a572f1fa525ea1" title="Update fixed wing state. " alt="" coords="717,188,835,229"/>
+<area shape="rect" id="node7" href="$de/df2/class_standard.html#a16bc80eb4b87d72ef4d30b419387f8ba" title="Update fixed wing state. " alt="" coords="705,253,847,295"/>
+<area shape="rect" id="node9" href="$db/d0f/class_tiltrotor.html#ae04dbfc6ea3a0980b4a4a51224e942e5" title="Update transition state. " alt="" coords="689,5,863,47"/>
+<area shape="rect" id="node10" href="$de/df2/class_standard.html#a9b73fe84db645bad0a39c9f677ff6e92" title="Update transition state. " alt="" coords="685,71,867,112"/>
+<area shape="rect" id="node13" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="435,422,611,449"/>
+<area shape="rect" id="node15" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="460,371,585,398"/>
+<area shape="rect" id="node14" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="717,410,835,437"/>
+<area shape="rect" id="node18" href="$d5/d01/class_block_local_position_estimator.html#a34216107cee0bbde413b794a4c76da59" title="BlockLocalPositionEstimator::Run" alt="" coords="665,643,887,670"/>
+<area shape="rect" id="node20" href="$d5/d01/class_block_local_position_estimator.html#a3572edd7b53fdb1bfcf8168f61b283f9" title="BlockLocalPositionEstimator\l::flowInit" alt="" coords="428,991,617,1032"/>
+<area shape="rect" id="node22" href="$d5/d01/class_block_local_position_estimator.html#af8a301b4cdee5c1b9c562c696e8c769d" title="BlockLocalPositionEstimator\l::lidarCorrect" alt="" coords="428,539,617,580"/>
+<area shape="rect" id="node23" href="$d5/d01/class_block_local_position_estimator.html#af40fc15e034703ac6f00c8107fdd9a27" title="BlockLocalPositionEstimator\l::lidarInit" alt="" coords="428,473,617,515"/>
+<area shape="rect" id="node30" href="$d5/d01/class_block_local_position_estimator.html#ac8e16a9e01986ba9a16ebb497873f005" title="BlockLocalPositionEstimator\l::sonarCorrect" alt="" coords="428,669,617,711"/>
+<area shape="rect" id="node31" href="$d5/d01/class_block_local_position_estimator.html#aa55c0c9cafe20adb995079215786762b" title="BlockLocalPositionEstimator\l::sonarInit" alt="" coords="428,604,617,645"/>
+<area shape="rect" id="node34" href="$dc/d54/class_failure_detector.html#a54d2568dbeeab632e0f2e5bcda213535" title="FailureDetector::update" alt="" coords="443,317,602,343"/>
+</map>

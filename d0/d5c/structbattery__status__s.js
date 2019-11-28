@@ -1,6 +1,6 @@
 var structbattery__status__s =
 [
-    [ "_padding0", "d0/d5c/structbattery__status__s.html#ac180451c19a681eaf4960fe38e00ab01", null ],
+    [ "_padding0", "d0/d5c/structbattery__status__s.html#a800c60e62a6e5d8a6ddae2e0d98ea657", null ],
     [ "average_current_a", "d0/d5c/structbattery__status__s.html#a3ef7a1b2ee33c4521611816027015e7c", null ],
     [ "average_time_to_empty", "d0/d5c/structbattery__status__s.html#a4a32a07e7fa29852be66c888b082ed0a", null ],
     [ "capacity", "d0/d5c/structbattery__status__s.html#ae5b7e841b516116f1e209acdfdb9b2a3", null ],
@@ -11,6 +11,7 @@ var structbattery__status__s =
     [ "cycle_count", "d0/d5c/structbattery__status__s.html#ad4d7adeb3527ed4680a8210a34df7a54", null ],
     [ "discharged_mah", "d0/d5c/structbattery__status__s.html#a7635aaebebffc9164095195bf2313251", null ],
     [ "is_powering_off", "d0/d5c/structbattery__status__s.html#a2b58ec27728ff4aea2df166728ba2078", null ],
+    [ "max_cell_voltage_delta", "d0/d5c/structbattery__status__s.html#a004e863fbc7815cdefe536c9a1c222f3", null ],
     [ "priority", "d0/d5c/structbattery__status__s.html#a3ca09d68dd53c7189ef573f45f1e3ccf", null ],
     [ "remaining", "d0/d5c/structbattery__status__s.html#ad3aeb5ef4a19accb9cb41413138dbde0", null ],
     [ "run_time_to_empty", "d0/d5c/structbattery__status__s.html#a0c950323611a540f951206769f6a603c", null ],
@@ -19,6 +20,7 @@ var structbattery__status__s =
     [ "system_source", "d0/d5c/structbattery__status__s.html#a1227045b9ad4939889d8b64d20e2d6c8", null ],
     [ "temperature", "d0/d5c/structbattery__status__s.html#a899a2759f11e87468361011c78c81195", null ],
     [ "timestamp", "d0/d5c/structbattery__status__s.html#a3e5df14c2420ce078e5e069f95a9bc37", null ],
+    [ "voltage_cell_v", "d0/d5c/structbattery__status__s.html#aa70dda98ed29a2c57f6b487d06fe98f7", null ],
     [ "voltage_filtered_v", "d0/d5c/structbattery__status__s.html#a54fa5c303ebc3d6ef3d3f79a8e12ea84", null ],
     [ "voltage_v", "d0/d5c/structbattery__status__s.html#a1266ede20f07e509020d033d05e624d7", null ],
     [ "warning", "d0/d5c/structbattery__status__s.html#a835d994b04cbebd2f056660c4f01dfda", null ]

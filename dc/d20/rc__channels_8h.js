@@ -8,6 +8,7 @@ var rc__channels_8h =
     [ "RC_CHANNELS_RC_CHANNELS_FUNCTION_AUX_3", "dc/d20/rc__channels_8h.html#ad9285f794319c5f86951f731a31384dd", null ],
     [ "RC_CHANNELS_RC_CHANNELS_FUNCTION_AUX_4", "dc/d20/rc__channels_8h.html#a99f796a69deb18149fbb21f8ba8fc2cb", null ],
     [ "RC_CHANNELS_RC_CHANNELS_FUNCTION_AUX_5", "dc/d20/rc__channels_8h.html#a89dc84a9045a5f22da134d6591dccea0", null ],
+    [ "RC_CHANNELS_RC_CHANNELS_FUNCTION_AUX_6", "dc/d20/rc__channels_8h.html#afb1c211813942ce53157a4f0029f3bc5", null ],
     [ "RC_CHANNELS_RC_CHANNELS_FUNCTION_FLAPS", "dc/d20/rc__channels_8h.html#a03ce70d3f11c54bdb9fab840abd7bae6", null ],
     [ "RC_CHANNELS_RC_CHANNELS_FUNCTION_GEAR", "dc/d20/rc__channels_8h.html#ae7cc863b41fac44c1922f4e28af95a40", null ],
     [ "RC_CHANNELS_RC_CHANNELS_FUNCTION_KILLSWITCH", "dc/d20/rc__channels_8h.html#a87e26b02376e62a8548424f9ab5ea7aa", null ],

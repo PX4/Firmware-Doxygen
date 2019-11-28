@@ -1,19 +1,18 @@
 <map id="test_dataman" name="test_dataman">
-<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="381,122,453,149"/>
-<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a59cfb8801fd1f2d8b797e5dab8dfa9d9" title="Tell the data manager about the type of the last reset. " alt="" coords="375,72,459,98"/>
-<area shape="rect" id="node13" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="155,224,307,250"/>
-<area shape="rect" id="node14" href="$d2/d91/test__dataman_8c.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="189,173,272,200"/>
-<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="549,72,674,98"/>
-<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="528,174,695,215"/>
-<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="571,122,652,149"/>
-<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="930,126,1018,153"/>
-<area shape="rect" id="node5" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="931,25,1017,52"/>
-<area shape="rect" id="node6" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="765,25,852,52"/>
-<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="923,228,1025,254"/>
-<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="743,126,875,153"/>
-<area shape="rect" id="node10" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="766,278,851,305"/>
-<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="380,274,455,301"/>
-<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="398,325,437,352"/>
-<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="355,173,480,200"/>
-<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="387,224,447,250"/>
+<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="291,132,363,158"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a59cfb8801fd1f2d8b797e5dab8dfa9d9" title="Tell the data manager about the type of the last reset. " alt="" coords="285,81,369,108"/>
+<area shape="rect" id="node13" href="$d2/d91/test__dataman_8c.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="155,182,237,209"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="438,81,563,108"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="417,15,584,56"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="460,132,541,158"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="459,182,542,209"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="465,233,537,260"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="819,124,907,150"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="812,22,915,49"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="632,22,764,49"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="635,233,761,260"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="290,182,365,209"/>
+<area shape="rect" id="node15" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="308,334,347,361"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="459,334,542,361"/>
+<area shape="rect" id="node17" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="655,334,741,361"/>
 </map>

@@ -1,20 +1,25 @@
 <map id="src/lib/ecl/EKF/estimator_interface.cpp" name="src/lib/ecl/EKF/estimator_interface.cpp">
-<area shape="rect" id="node2" href="$d9/d77/estimator__interface_8h.html" title="Definition of base class for attitude estimators. " alt="" coords="1234,95,1378,121"/>
-<area shape="rect" id="node24" href="$d2/d53/ecl_8h.html" title="Adapter / shim layer for system calls needed by ECL. " alt="" coords="1375,169,1426,196"/>
-<area shape="rect" id="node3" href="$d5/d60/lib_2ecl_2_e_k_f_2common_8h.html" title="common.h" alt="" coords="731,169,814,196"/>
-<area shape="rect" id="node4" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="643,244,759,271"/>
-<area shape="rect" id="node22" href="$d0/d17/_ring_buffer_8h.html" title="RingBuffer.h" alt="" coords="1432,319,1527,345"/>
-<area shape="rect" id="node26" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1173,169,1252,196"/>
-<area shape="rect" id="node5" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="895,319,1023,345"/>
-<area shape="rect" id="node9" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="1325,319,1407,345"/>
-<area shape="rect" id="node12" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="431,319,555,345"/>
-<area shape="rect" id="node14" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="1047,319,1133,345"/>
-<area shape="rect" id="node15" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="1157,319,1249,345"/>
-<area shape="rect" id="node16" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="5,319,97,345"/>
-<area shape="rect" id="node17" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="122,319,199,345"/>
-<area shape="rect" id="node18" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="223,319,298,345"/>
-<area shape="rect" id="node19" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="323,319,407,345"/>
-<area shape="rect" id="node20" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="579,319,689,345"/>
-<area shape="rect" id="node21" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="714,319,821,345"/>
-<area shape="rect" id="node13" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="629,393,772,420"/>
+<area shape="rect" id="node2" href="$d9/d77/estimator__interface_8h.html" title="Definition of base class for attitude estimators. " alt="" coords="1037,95,1181,121"/>
+<area shape="rect" id="node3" href="$d2/d53/ecl_8h.html" title="Adapter / shim layer for system calls needed by ECL. " alt="" coords="363,169,414,196"/>
+<area shape="rect" id="node7" href="$d5/d60/lib_2ecl_2_e_k_f_2common_8h.html" title="common.h" alt="" coords="989,169,1071,196"/>
+<area shape="rect" id="node8" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="1051,244,1167,271"/>
+<area shape="rect" id="node30" href="$d6/d13/ecl_2_e_k_f_2ringbuffer_8h.html" title="RingBuffer.h" alt="" coords="144,319,239,345"/>
+<area shape="rect" id="node31" href="$db/d85/_alpha_filter_8hpp.html" title="AlphaFilter.hpp" alt="" coords="1250,169,1359,196"/>
+<area shape="rect" id="node32" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1147,169,1225,196"/>
+<area shape="rect" id="node9" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1990,319,2118,345"/>
+<area shape="rect" id="node13" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="263,319,405,345"/>
+<area shape="rect" id="node14" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="1883,319,1966,345"/>
+<area shape="rect" id="node16" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="429,319,553,345"/>
+<area shape="rect" id="node17" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="577,319,653,345"/>
+<area shape="rect" id="node18" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="678,319,763,345"/>
+<area shape="rect" id="node19" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="788,319,880,345"/>
+<area shape="rect" id="node20" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="904,319,996,345"/>
+<area shape="rect" id="node21" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1021,319,1098,345"/>
+<area shape="rect" id="node22" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="1122,319,1197,345"/>
+<area shape="rect" id="node23" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="1221,319,1305,345"/>
+<area shape="rect" id="node24" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1329,319,1440,345"/>
+<area shape="rect" id="node25" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="1465,319,1571,345"/>
+<area shape="rect" id="node26" href="$d9/d19/_least_squares_solver_8hpp.html" title="Least Squares Solver using QR householder decomposition. " alt="" coords="1596,319,1760,345"/>
+<area shape="rect" id="node27" href="$d5/dd8/_dual_8hpp.html" title="This is a dual number type for calculating automatic derivatives. " alt="" coords="1785,319,1859,345"/>
+<area shape="rect" id="node28" href="$d0/d67/_pseudo_inverse_8hpp.html" title="Implementation of matrix pseudo inverse. " alt="" coords="2143,319,2277,345"/>
 </map>

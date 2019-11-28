@@ -1,0 +1,51 @@
+<map id="ADC::sample" name="ADC::sample">
+<area shape="rect" id="node2" href="$db/d33/adc_8cpp.html#a6f4b829588c4c6edb3310d909630e1cd" title="adc_main" alt="" coords="191,565,270,592"/>
+<area shape="rect" id="node5" href="$d8/d04/namespacelps25h.html#accc089fb6426d2bed21ea7513ce0b70f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="355,565,445,592"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1876,71,2004,97"/>
+<area shape="rect" id="node18" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="999,936,1082,963"/>
+<area shape="rect" id="node21" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1005,885,1077,912"/>
+<area shape="rect" id="node49" href="$d6/dc8/drv__adc_8h.html#a688e49e7e22a4ad04ad3bbb077308fd9" title="Read a sample from the ADC. " alt="" coords="155,951,307,977"/>
+<area shape="rect" id="node50" href="$d6/dec/class_a_d_c.html#a5a05df07623644e9dc03fd06cd0ecd99" title="ADC::read" alt="" coords="189,1001,273,1028"/>
+<area shape="rect" id="node3" href="$d6/dec/class_a_d_c.html#a3055be8227263277af35e53db339120e" title="ADC::ADC" alt="" coords="356,268,444,295"/>
+<area shape="rect" id="node4" href="$d6/dc8/drv__adc_8h.html#a5ed2e593538ed5c1f166d7c7475fa414" title="Get the temperature sensor channel bitmask. " alt="" coords="493,43,717,69"/>
+<area shape="rect" id="node6" href="$d8/d04/namespacelps25h.html#a0181c3e873087653a0cda66e0bf015e8" title="find a bus structure for a busid " alt="" coords="547,540,664,567"/>
+<area shape="rect" id="node11" href="$dc/d03/class_l_p_s25_h.html#aa27d6889d10944e32adbd715bd3f8a38" title="LPS25H::read" alt="" coords="553,591,657,617"/>
+<area shape="rect" id="node43" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1624,147,1755,173"/>
+<area shape="rect" id="node45" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="545,696,665,723"/>
+<area shape="rect" id="node8" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="2107,223,2231,249"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="2090,71,2247,97"/>
+<area shape="rect" id="node10" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="2099,121,2238,148"/>
+<area shape="rect" id="node12" href="$dc/d03/class_l_p_s25_h.html#ac56100e60240e8ec438c571c7452c682" title="Issue a measurement command. " alt="" coords="779,565,908,592"/>
+<area shape="rect" id="node17" href="$dc/d03/class_l_p_s25_h.html#a54bf0a1c6dbdbcb2c3ea7f57d6979869" title="Collect the result of the most recent measurement. " alt="" coords="785,616,902,643"/>
+<area shape="rect" id="node13" href="$dc/d03/class_l_p_s25_h.html#a26bd42c9cab415b8b4f0c11fe61c7bf8" title="Write a register. " alt="" coords="975,409,1107,436"/>
+<area shape="rect" id="node15" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="999,565,1082,592"/>
+<area shape="rect" id="node14" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="1160,405,1305,432"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2106,835,2231,861"/>
+<area shape="rect" id="node19" href="$df/d7b/perf__counter_8cpp.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="979,733,1102,760"/>
+<area shape="rect" id="node20" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="969,784,1112,811"/>
+<area shape="rect" id="node22" href="$dd/dd3/classdevice_1_1_device.html#afc3a32d110f64bbd5f2b83f0c19d8ed2" title="device::Device::get\l_device_id" alt="" coords="973,667,1108,709"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1189,575,1277,601"/>
+<area shape="rect" id="node29" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="2089,664,2248,691"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="973,464,1108,491"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1869,534,2011,575"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1375,626,1518,667"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2097,474,2240,515"/>
+<area shape="rect" id="node27" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1596,633,1783,660"/>
+<area shape="rect" id="node28" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a86db9fc8d841b0a4748611cec14ea546" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1853,603,2027,629"/>
+<area shape="rect" id="node31" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1839,654,2041,695"/>
+<area shape="rect" id="node30" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="2296,664,2483,691"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1161,457,1304,498"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1353,344,1540,371"/>
+<area shape="rect" id="node41" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1409,464,1484,491"/>
+<area shape="rect" id="node42" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1406,239,1487,265"/>
+<area shape="rect" id="node35" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1600,299,1779,325"/>
+<area shape="rect" id="node36" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1650,96,1729,123"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1864,331,2016,373"/>
+<area shape="rect" id="node38" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1588,350,1791,391"/>
+<area shape="rect" id="node39" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1616,415,1763,457"/>
+<area shape="rect" id="node40" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1665,248,1713,275"/>
+<area shape="rect" id="node44" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="1861,172,2019,199"/>
+<area shape="rect" id="node46" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="765,783,921,825"/>
+<area shape="rect" id="node47" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="765,667,921,693"/>
+<area shape="rect" id="node48" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="772,718,915,759"/>
+</map>

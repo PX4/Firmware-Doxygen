@@ -1,21 +1,16 @@
 <map id="L3GD20::write_reg" name="L3GD20::write_reg">
-<area shape="rect" id="node2" href="$de/dc0/class_l3_g_d20.html#aa263ae7c3bdddaf0a708c4808cfaa40b" title="check key registers for correct values " alt="" coords="184,277,355,304"/>
-<area shape="rect" id="node13" href="$de/dc0/class_l3_g_d20.html#a8e37605477c876fd149f3cc5c544ac4e" title="disable I2C on the chip " alt="" coords="663,208,806,235"/>
-<area shape="rect" id="node15" href="$de/dc0/class_l3_g_d20.html#ae4727c71105d2fdb77ef43b30cf520e3" title="L3GD20::test_error" alt="" coords="203,353,336,380"/>
-<area shape="rect" id="node17" href="$de/dc0/class_l3_g_d20.html#a6b351d62168974b705c6367ce1a3daa8" title="Write a register in the L3GD20, updating _checked_values. " alt="" coords="403,152,589,179"/>
-<area shape="rect" id="node3" href="$de/dc0/class_l3_g_d20.html#a443a2de5bcb8c6fe473b0abeb66319c2" title="Fetch measurements from the sensor and update the report ring. " alt="" coords="432,303,560,329"/>
-<area shape="rect" id="node4" href="$de/dc0/class_l3_g_d20.html#af95dab780439f0cc80056dc5f8ed5043" title="L3GD20::init" alt="" coords="1049,303,1143,329"/>
-<area shape="rect" id="node7" href="$de/dc0/class_l3_g_d20.html#ab811b4486b901b82baaac9b720812de5" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="637,259,832,285"/>
-<area shape="rect" id="node12" href="$de/dc0/class_l3_g_d20.html#a747d9c811ae00c9c8d34840a130fb35e" title="L3GD20::read" alt="" coords="882,360,985,387"/>
-<area shape="rect" id="node5" href="$d5/db7/namespacel3gd20.html#a061f260878adf25f94d9833dd6d0e54f" title="Start the driver. " alt="" coords="1207,303,1301,329"/>
-<area shape="rect" id="node6" href="$d3/dca/l3gd20_8cpp.html#a6155ea8a71c5febe9652d5e5c8da1292" title="l3gd20_main" alt="" coords="1351,328,1445,355"/>
-<area shape="rect" id="node8" href="$de/dc0/class_l3_g_d20.html#ac29476d25d7c538135160c1f14a650c0" title="Start automatic measurement. " alt="" coords="881,252,985,279"/>
-<area shape="rect" id="node9" href="$de/dc0/class_l3_g_d20.html#aa6df572b621d24d4dd9896dbdd3ed4fb" title="L3GD20::ioctl" alt="" coords="1045,252,1147,279"/>
-<area shape="rect" id="node10" href="$d5/db7/namespacel3gd20.html#a96a171363b93c30e9f03c74f97b6aedd" title="Reset the driver. " alt="" coords="1205,252,1303,279"/>
-<area shape="rect" id="node11" href="$d5/db7/namespacel3gd20.html#a099f0465eb6a7ebd049953a47e975641" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1209,353,1299,380"/>
-<area shape="rect" id="node14" href="$de/dc0/class_l3_g_d20.html#a49f47b4010ad6a688448435eb9e3ea45" title="Reset the driver. " alt="" coords="880,189,987,216"/>
-<area shape="rect" id="node16" href="$d5/db7/namespacel3gd20.html#a932bfbbbb76b3f6ba8c9c67ea4a36f3b" title="trigger an error " alt="" coords="1035,408,1157,435"/>
-<area shape="rect" id="node18" href="$de/dc0/class_l3_g_d20.html#ab92fede95277ce9fe8a848dcde7218b0" title="Modify a register in the L3GD20. " alt="" coords="663,107,806,133"/>
-<area shape="rect" id="node19" href="$de/dc0/class_l3_g_d20.html#a0387e53360472db3a84e0e3b406d7870" title="Set the L3GD20 measurement range. " alt="" coords="667,56,802,83"/>
-<area shape="rect" id="node20" href="$de/dc0/class_l3_g_d20.html#a55fe53b0e4e9e0f11a493d6c7f2707ed" title="Set the L3GD20 internal sampling frequency. " alt="" coords="651,5,818,32"/>
+<area shape="rect" id="node2" href="$de/dc0/class_l3_g_d20.html#aa263ae7c3bdddaf0a708c4808cfaa40b" title="check key registers for correct values " alt="" coords="192,5,363,32"/>
+<area shape="rect" id="node5" href="$de/dc0/class_l3_g_d20.html#a8e37605477c876fd149f3cc5c544ac4e" title="disable I2C on the chip " alt="" coords="431,107,573,133"/>
+<area shape="rect" id="node10" href="$de/dc0/class_l3_g_d20.html#ae4727c71105d2fdb77ef43b30cf520e3" title="L3GD20::test_error" alt="" coords="633,59,767,85"/>
+<area shape="rect" id="node12" href="$de/dc0/class_l3_g_d20.html#a6b351d62168974b705c6367ce1a3daa8" title="Write a register in the L3GD20, updating _checked_values. " alt="" coords="184,183,371,209"/>
+<area shape="rect" id="node3" href="$de/dc0/class_l3_g_d20.html#a443a2de5bcb8c6fe473b0abeb66319c2" title="Fetch measurements from the sensor and update the report ring. " alt="" coords="438,5,566,32"/>
+<area shape="rect" id="node4" href="$de/dc0/class_l3_g_d20.html#a18f51c4c8b5a4bf44393cf908e8175af" title="L3GD20::Run" alt="" coords="649,5,751,32"/>
+<area shape="rect" id="node6" href="$de/dc0/class_l3_g_d20.html#a49f47b4010ad6a688448435eb9e3ea45" title="Reset the driver. " alt="" coords="647,208,753,235"/>
+<area shape="rect" id="node7" href="$de/dc0/class_l3_g_d20.html#af95dab780439f0cc80056dc5f8ed5043" title="L3GD20::init" alt="" coords="829,204,923,231"/>
+<area shape="rect" id="node8" href="$d5/db7/namespacel3gd20.html#a061f260878adf25f94d9833dd6d0e54f" title="Start the driver. " alt="" coords="985,153,1080,180"/>
+<area shape="rect" id="node9" href="$d3/dca/l3gd20_8cpp.html#a6155ea8a71c5febe9652d5e5c8da1292" title="l3gd20_main" alt="" coords="1128,128,1223,155"/>
+<area shape="rect" id="node11" href="$d5/db7/namespacel3gd20.html#a932bfbbbb76b3f6ba8c9c67ea4a36f3b" title="trigger an error " alt="" coords="815,65,937,92"/>
+<area shape="rect" id="node13" href="$de/dc0/class_l3_g_d20.html#ab92fede95277ce9fe8a848dcde7218b0" title="Modify a register in the L3GD20. " alt="" coords="431,157,573,184"/>
+<area shape="rect" id="node14" href="$de/dc0/class_l3_g_d20.html#a0387e53360472db3a84e0e3b406d7870" title="Set the L3GD20 measurement range. " alt="" coords="435,208,569,235"/>
+<area shape="rect" id="node15" href="$de/dc0/class_l3_g_d20.html#a55fe53b0e4e9e0f11a493d6c7f2707ed" title="Set the L3GD20 internal sampling frequency. " alt="" coords="419,259,585,285"/>
 </map>

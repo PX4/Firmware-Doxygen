@@ -1,13 +1,14 @@
 var class_wind_estimator =
 [
-    [ "w_n", "d7/d7b/class_wind_estimator.html#a2f514e81ac157f9418a71dec3e53057ca7a0a685703ac0e115a09a77da5654527", null ],
-    [ "w_e", "d7/d7b/class_wind_estimator.html#a2f514e81ac157f9418a71dec3e53057ca4989cd196eb7fe37816e7c24f572f5b3", null ],
-    [ "tas", "d7/d7b/class_wind_estimator.html#a2f514e81ac157f9418a71dec3e53057cae8bd2ec0817f219b0c94e5d04512b7cb", null ],
+    [ "w_n", "d7/d7b/class_wind_estimator.html#a4fa160b90caded567608b425ed70f002a7a0a685703ac0e115a09a77da5654527", null ],
+    [ "w_e", "d7/d7b/class_wind_estimator.html#a4fa160b90caded567608b425ed70f002a4989cd196eb7fe37816e7c24f572f5b3", null ],
+    [ "tas", "d7/d7b/class_wind_estimator.html#a4fa160b90caded567608b425ed70f002ae8bd2ec0817f219b0c94e5d04512b7cb", null ],
     [ "WindEstimator", "d7/d7b/class_wind_estimator.html#ab3415e218a0c96ee3fa52928c0963fc3", null ],
     [ "~WindEstimator", "d7/d7b/class_wind_estimator.html#a8ce6311d96c2a465a19576b626361f4f", null ],
     [ "WindEstimator", "d7/d7b/class_wind_estimator.html#a81877b79b74b2c123a296a596f294b22", null ],
     [ "WindEstimator", "d7/d7b/class_wind_estimator.html#a91027806cc44fa234bb2a3205190f989", null ],
     [ "check_if_meas_is_rejected", "d7/d7b/class_wind_estimator.html#aeb09cc25e64ec79176e5ecc95889ca63", null ],
+    [ "enforce_airspeed_scale", "d7/d7b/class_wind_estimator.html#a9921e6e14bfd398676dc82b3aa46143f", null ],
     [ "fuse_airspeed", "d7/d7b/class_wind_estimator.html#aead5efdbc747eabbdf5860911672a628", null ],
     [ "fuse_beta", "d7/d7b/class_wind_estimator.html#a0bb98630d323e3f186683fed5894ef83", null ],
     [ "get_beta_innov", "d7/d7b/class_wind_estimator.html#add1bae1ff708cd3e959933f75cb0748f", null ],
@@ -16,6 +17,7 @@ var class_wind_estimator =
     [ "get_tas_innov_var", "d7/d7b/class_wind_estimator.html#ae26b2d8577ace5901a54088463da8636", null ],
     [ "get_tas_scale", "d7/d7b/class_wind_estimator.html#a25ce1823cd3c540614533dee830adeea", null ],
     [ "get_wind", "d7/d7b/class_wind_estimator.html#aadad5f2d80a9996d78a98b9e2695578e", null ],
+    [ "get_wind_estimator_reset", "d7/d7b/class_wind_estimator.html#ae2546c27366e07a1b8027aa4e07b8d9d", null ],
     [ "get_wind_var", "d7/d7b/class_wind_estimator.html#a7c6a4efdeed594366d3daf91c6dfddf5", null ],
     [ "initialise", "d7/d7b/class_wind_estimator.html#a21ab924e5595e66ab372afd4596e4954", null ],
     [ "is_estimate_valid", "d7/d7b/class_wind_estimator.html#af1b7354c723cac0334d192201c18b8ef", null ],
@@ -33,6 +35,7 @@ var class_wind_estimator =
     [ "_beta_innov", "d7/d7b/class_wind_estimator.html#a775a6ca6a1d9ce009bcbadbb86943310", null ],
     [ "_beta_innov_var", "d7/d7b/class_wind_estimator.html#aa1f718917beecc3eca2e22437e1d8379", null ],
     [ "_beta_var", "d7/d7b/class_wind_estimator.html#ae556c843a97bc53d9415c5da6c9faa5c", null ],
+    [ "_enforced_airspeed_scale", "d7/d7b/class_wind_estimator.html#a31a6bf3d197c15feee8ec2e90c5dd395", null ],
     [ "_initialised", "d7/d7b/class_wind_estimator.html#a0d5649e6b5d7b6caca44de404b323416", null ],
     [ "_P", "d7/d7b/class_wind_estimator.html#a47f2ef27c6c9a19ba76087efa1310f31", null ],
     [ "_state", "d7/d7b/class_wind_estimator.html#a941213016670a19ba885887cc983ecb0", null ],
@@ -46,5 +49,6 @@ var class_wind_estimator =
     [ "_time_last_update", "d7/d7b/class_wind_estimator.html#a0ce91854f28e2f6ea6edca2621392b88", null ],
     [ "_time_rejected_beta", "d7/d7b/class_wind_estimator.html#a3fe5d3348d201c043ce655dd25cbdb00", null ],
     [ "_time_rejected_tas", "d7/d7b/class_wind_estimator.html#aeb8228f80768209b7ec92f18577cd441", null ],
+    [ "_wind_estimator_reset", "d7/d7b/class_wind_estimator.html#a206ae511864b7426d6cc85375301cc4f", null ],
     [ "_wind_p_var", "d7/d7b/class_wind_estimator.html#a31c3512718bb14cfb5dad926bd763c5d", null ]
 ];

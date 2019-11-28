@@ -1,51 +1,45 @@
 <map id="Navigator::check_traffic" name="Navigator::check_traffic">
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="446,5,551,32"/>
-<area shape="rect" id="node3" href="$d7/d09/geo_8cpp.html#a8461e04a8672b957285ced1e58cad478" title="get_distance_to_line" alt="" coords="225,253,367,280"/>
-<area shape="rect" id="node10" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="221,305,371,346"/>
-<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="223,370,369,411"/>
-<area shape="rect" id="node12" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="650,573,733,600"/>
-<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="654,347,729,373"/>
-<area shape="rect" id="node28" href="$d0/df9/class_navigator.html#aa0008ff5b06fc82b3d3707b0779ea01b" title="Navigator::publish\l_vehicle_cmd" alt="" coords="233,595,359,637"/>
-<area shape="rect" id="node47" href="$d8/d7e/class_r_t_l.html#a7d9eedcb22172355fafd542fee823722" title="RTL::set_return_alt_min" alt="" coords="215,912,377,939"/>
-<area shape="rect" id="node49" href="$d7/d09/geo_8cpp.html#a8cf2ed6d2c6d6ef12853085621d50c24" title="Creates a waypoint from given waypoint, distance and bearing see http://www.movable&#45;type.co.uk/scripts/latlong.html. " alt="" coords="217,89,375,130"/>
-<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="479,224,518,251"/>
-<area shape="rect" id="node5" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="429,275,568,317"/>
-<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="636,283,747,309"/>
-<area shape="rect" id="node9" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="425,158,572,199"/>
-<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="641,165,742,192"/>
-<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="844,43,955,69"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1505,962,1648,1003"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="828,566,971,607"/>
-<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1696,762,1839,803"/>
-<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1887,613,2013,640"/>
-<area shape="rect" id="node16" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2061,613,2196,640"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2077,452,2181,479"/>
-<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2251,415,2390,441"/>
-<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2244,491,2397,517"/>
-<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1539,376,1614,403"/>
-<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1913,401,1987,428"/>
-<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1700,351,1835,377"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="811,93,988,120"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1092,93,1167,120"/>
-<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1297,93,1431,120"/>
-<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="436,639,561,665"/>
-<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="855,1097,943,1124"/>
-<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="427,588,570,615"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1058,930,1201,971"/>
-<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1271,941,1457,968"/>
-<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="620,507,763,549"/>
-<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="828,879,971,921"/>
-<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1036,769,1223,796"/>
-<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1288,617,1440,658"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="828,697,971,738"/>
-<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="828,631,971,673"/>
-<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="828,762,971,803"/>
-<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="828,398,971,439"/>
-<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1044,261,1215,288"/>
-<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1293,313,1435,354"/>
-<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1058,439,1201,481"/>
-<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1293,145,1435,186"/>
-<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="1058,195,1201,237"/>
-<area shape="rect" id="node48" href="$d0/d58/position__estimator__inav__main_8cpp.html#ab72387a3954ae834958e94d34cf610ea" title="min" alt="" coords="477,1148,520,1175"/>
-<area shape="rect" id="node50" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="matrix::wrap_2pi" alt="" coords="632,49,751,76"/>
+<area shape="rect" id="node2" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="227,301,365,343"/>
+<area shape="rect" id="node21" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="683,418,788,445"/>
+<area shape="rect" id="node22" href="$d7/d09/geo_8cpp.html#a8461e04a8672b957285ced1e58cad478" title="get_distance_to_line" alt="" coords="225,562,367,589"/>
+<area shape="rect" id="node34" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="438,788,587,829"/>
+<area shape="rect" id="node35" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="223,715,369,756"/>
+<area shape="rect" id="node36" href="$d0/df9/class_navigator.html#aa0008ff5b06fc82b3d3707b0779ea01b" title="Navigator::publish\l_vehicle_cmd" alt="" coords="233,853,359,895"/>
+<area shape="rect" id="node39" href="$d8/d7e/class_r_t_l.html#a7d9eedcb22172355fafd542fee823722" title="RTL::set_return_alt_min" alt="" coords="215,945,377,971"/>
+<area shape="rect" id="node41" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="227,203,365,244"/>
+<area shape="rect" id="node42" href="$d7/d09/geo_8cpp.html#a8cf2ed6d2c6d6ef12853085621d50c24" title="Creates a waypoint from given waypoint, distance and bearing see http://www.movable&#45;type.co.uk/scripts/latlong.html. " alt="" coords="433,605,592,647"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="443,203,582,244"/>
+<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="425,309,600,335"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="666,236,805,277"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="657,105,813,147"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="666,171,805,212"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="871,171,1009,212"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1337,185,1479,227"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1557,156,1700,197"/>
+<area shape="rect" id="node10" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1085,411,1231,452"/>
+<area shape="rect" id="node13" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abb03278ff4ddd2a50e0f2996e856f2cc" title="Add the subscriber to the node&#39;s list of subscriber. " alt="" coords="1075,251,1241,292"/>
+<area shape="rect" id="node17" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1057,5,1259,47"/>
+<area shape="rect" id="node18" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a7877236ac1912c32c2ab6ae06899392d" title="uORB::DeviceNode::get\l_queue_size" alt="" coords="1076,71,1240,112"/>
+<area shape="rect" id="node11" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="1335,484,1481,525"/>
+<area shape="rect" id="node12" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="1335,419,1481,460"/>
+<area shape="rect" id="node14" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="1346,317,1470,343"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="1339,367,1477,394"/>
+<area shape="rect" id="node16" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a2fdcab300f1c9ccf8c43858493ca9358" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="1307,251,1509,292"/>
+<area shape="rect" id="node20" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="648,301,823,343"/>
+<area shape="rect" id="node23" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="493,671,532,698"/>
+<area shape="rect" id="node26" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="443,540,582,581"/>
+<area shape="rect" id="node28" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="680,367,791,394"/>
+<area shape="rect" id="node31" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="439,723,586,764"/>
+<area shape="rect" id="node24" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="694,671,777,698"/>
+<area shape="rect" id="node25" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="897,671,983,698"/>
+<area shape="rect" id="node27" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="685,621,786,647"/>
+<area shape="rect" id="node29" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="893,469,987,495"/>
+<area shape="rect" id="node30" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="1113,477,1203,503"/>
+<area shape="rect" id="node32" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="686,823,785,850"/>
+<area shape="rect" id="node33" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="896,925,984,951"/>
+<area shape="rect" id="node37" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="450,919,575,946"/>
+<area shape="rect" id="node38" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="425,853,600,895"/>
+<area shape="rect" id="node40" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="473,970,553,997"/>
+<area shape="rect" id="node43" href="$d0/de4/namespacematrix.html#ad28ff6800d723360aae80240711a31a1" title="matrix::asin" alt="" coords="690,722,781,749"/>
+<area shape="rect" id="node44" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="Wrap value in range [0, 2π) " alt="" coords="676,469,795,495"/>
 </map>

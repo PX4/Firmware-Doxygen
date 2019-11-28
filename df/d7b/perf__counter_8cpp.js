@@ -1,6 +1,11 @@
 var perf__counter_8cpp =
 [
+    [ "perf_ctr_header", "d2/db8/structperf__ctr__header.html", "d2/db8/structperf__ctr__header" ],
+    [ "perf_ctr_count", "d6/da7/structperf__ctr__count.html", "d6/da7/structperf__ctr__count" ],
+    [ "perf_ctr_elapsed", "df/da3/structperf__ctr__elapsed.html", "df/da3/structperf__ctr__elapsed" ],
+    [ "perf_ctr_interval", "d6/d65/structperf__ctr__interval.html", "d6/d65/structperf__ctr__interval" ],
     [ "perf_alloc", "df/d7b/perf__counter_8cpp.html#a4a0ad0a595c025c3cf39c0b00c811e1d", null ],
+    [ "perf_alloc_once", "df/d7b/perf__counter_8cpp.html#a69b2bc5c7dc1e43b45f9fd99149f4b96", null ],
     [ "perf_begin", "df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7", null ],
     [ "perf_cancel", "df/d7b/perf__counter_8cpp.html#a6d3e31559fa1530eb17e6273ae9fffb4", null ],
     [ "perf_count", "df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65", null ],
@@ -12,6 +17,14 @@ var perf__counter_8cpp =
     [ "perf_print_counter", "df/d7b/perf__counter_8cpp.html#a9ef0940a2dc6d642b13f817b3443e660", null ],
     [ "perf_print_counter_buffer", "df/d7b/perf__counter_8cpp.html#a7bb0d90534db5d374e09489e0fe18abc", null ],
     [ "perf_print_counter_fd", "df/d7b/perf__counter_8cpp.html#ac15423e549766f6c8eaca3478223e5f2", null ],
+    [ "perf_print_latency", "df/d7b/perf__counter_8cpp.html#a498c577aaa2a425b3dfa4c9c941d3683", null ],
     [ "perf_reset", "df/d7b/perf__counter_8cpp.html#a9950792a62bc0c1ae71cdc30a0ea7312", null ],
-    [ "perf_reset_all", "df/d7b/perf__counter_8cpp.html#a90527f824a5ea4878734792ba59df98f", null ]
+    [ "perf_reset_all", "df/d7b/perf__counter_8cpp.html#a90527f824a5ea4878734792ba59df98f", null ],
+    [ "perf_set_count", "df/d7b/perf__counter_8cpp.html#a1064d018adf11c912228fe8813c793fa", null ],
+    [ "perf_set_elapsed", "df/d7b/perf__counter_8cpp.html#adde433ddb52d2d83a57d33d40e4e576b", null ],
+    [ "latency_bucket_count", "df/d7b/perf__counter_8cpp.html#ae151daeebc72434d6551f9fe31f3327e", null ],
+    [ "latency_buckets", "df/d7b/perf__counter_8cpp.html#abde1b873868499addf6db659de1f79f1", null ],
+    [ "latency_counters", "df/d7b/perf__counter_8cpp.html#af31344b0dd7fe584ad69fd513ce047ff", null ],
+    [ "perf_counters", "df/d7b/perf__counter_8cpp.html#a5c6ad7f937a079685b57686b6b9d850f", null ],
+    [ "perf_counters_mutex", "df/d7b/perf__counter_8cpp.html#a24ee15ed1a89c9811262dc99df888c01", null ]
 ];

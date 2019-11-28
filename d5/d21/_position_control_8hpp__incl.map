@@ -1,23 +1,24 @@
-<map id="src/modules/mc_pos_control/PositionControl.hpp" name="src/modules/mc_pos_control/PositionControl.hpp">
-<area shape="rect" id="node2" href="$d4/d78/math_8hpp.html" title="matrix/matrix/math.hpp" alt="" coords="818,102,974,129"/>
-<area shape="rect" id="node20" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="1183,95,1326,136"/>
-<area shape="rect" id="node25" href="$d2/def/vehicle__local__position__setpoint_8h.html" title="uORB/topics/vehicle\l_local_position_setpoint.h" alt="" coords="1350,95,1522,136"/>
-<area shape="rect" id="node26" href="$d8/def/vehicle__constraints_8h.html" title="uORB/topics/vehicle\l_constraints.h" alt="" coords="1546,95,1689,136"/>
-<area shape="rect" id="node27" href="$d5/dd2/px4__module__params_8h.html" title="C++ base class for modules/classes using configuration parameters. " alt="" coords="1713,102,1866,129"/>
-<area shape="rect" id="node3" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="81,184,209,211"/>
-<area shape="rect" id="node7" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="260,184,343,211"/>
-<area shape="rect" id="node10" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="366,184,490,211"/>
-<area shape="rect" id="node12" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="515,184,600,211"/>
-<area shape="rect" id="node13" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="625,184,717,211"/>
-<area shape="rect" id="node14" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="741,184,833,211"/>
-<area shape="rect" id="node15" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="857,184,935,211"/>
-<area shape="rect" id="node16" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="959,184,1033,211"/>
-<area shape="rect" id="node17" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="1058,184,1142,211"/>
-<area shape="rect" id="node18" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1166,184,1277,211"/>
-<area shape="rect" id="node19" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="1301,184,1408,211"/>
-<area shape="rect" id="node11" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="1186,266,1329,293"/>
-<area shape="rect" id="node21" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1483,184,1592,211"/>
-<area shape="rect" id="node28" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="1710,184,1842,211"/>
-<area shape="rect" id="node29" href="$de/de9/px4__param_8h.html" title="C++ Parameter class. " alt="" coords="1866,184,1963,211"/>
-<area shape="rect" id="node30" href="$d6/d6a/px4__param__macros_8h.html" title="Helper macros used by px4_param.h. " alt="" coords="1733,266,1880,293"/>
+<map id="src/modules/mc_pos_control/PositionControl/PositionControl.hpp" name="src/modules/mc_pos_control/PositionControl/PositionControl.hpp">
+<area shape="rect" id="node2" href="$d4/d78/math_8hpp.html" title="matrix/matrix/math.hpp" alt="" coords="1034,117,1190,143"/>
+<area shape="rect" id="node25" href="$df/dd2/vehicle__attitude__setpoint_8h.html" title="uORB/topics/vehicle\l_attitude_setpoint.h" alt="" coords="1793,109,1935,151"/>
+<area shape="rect" id="node30" href="$d8/def/vehicle__constraints_8h.html" title="uORB/topics/vehicle\l_constraints.h" alt="" coords="1959,109,2102,151"/>
+<area shape="rect" id="node31" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="2126,109,2269,151"/>
+<area shape="rect" id="node32" href="$d2/def/vehicle__local__position__setpoint_8h.html" title="uORB/topics/vehicle\l_local_position_setpoint.h" alt="" coords="2293,109,2465,151"/>
+<area shape="rect" id="node3" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="55,199,183,225"/>
+<area shape="rect" id="node7" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="207,199,350,225"/>
+<area shape="rect" id="node8" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="375,199,457,225"/>
+<area shape="rect" id="node11" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="482,199,606,225"/>
+<area shape="rect" id="node12" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="630,199,706,225"/>
+<area shape="rect" id="node13" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="731,199,816,225"/>
+<area shape="rect" id="node14" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="841,199,933,225"/>
+<area shape="rect" id="node15" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="957,199,1049,225"/>
+<area shape="rect" id="node16" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1073,199,1151,225"/>
+<area shape="rect" id="node17" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="1175,199,1249,225"/>
+<area shape="rect" id="node18" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="1274,199,1358,225"/>
+<area shape="rect" id="node19" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1382,199,1493,225"/>
+<area shape="rect" id="node20" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="1517,199,1624,225"/>
+<area shape="rect" id="node21" href="$d9/d19/_least_squares_solver_8hpp.html" title="Least Squares Solver using QR householder decomposition. " alt="" coords="1649,199,1813,225"/>
+<area shape="rect" id="node22" href="$d5/dd8/_dual_8hpp.html" title="This is a dual number type for calculating automatic derivatives. " alt="" coords="1837,199,1912,225"/>
+<area shape="rect" id="node23" href="$d0/d67/_pseudo_inverse_8hpp.html" title="Implementation of matrix pseudo inverse. " alt="" coords="1937,199,2071,225"/>
+<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="2143,199,2252,225"/>
 </map>

@@ -1,0 +1,35 @@
+<map id="write_int8" name="write_int8">
+<area shape="rect" id="node2" href="$d1/de1/tinybson_8h.html#a8e7daed098473f1a517eb5d9d3a6aac4" title="Append a binary blob to the encoded stream. " alt="" coords="147,19,299,61"/>
+<area shape="rect" id="node30" href="$d1/de1/tinybson_8h.html#a01f4afcc793321869ab0ee04ccc84611" title="Append a boolean to the encoded stream. " alt="" coords="132,252,315,279"/>
+<area shape="rect" id="node31" href="$d1/de1/tinybson_8h.html#ae780250c669d15eb728636d8c6cda700" title="Append a double to the encoded stream. " alt="" coords="147,85,299,126"/>
+<area shape="rect" id="node32" href="$d1/de1/tinybson_8h.html#acd183eb3e4e78d4dc673362acb78b5cb" title="Append an integer to the encoded stream. " alt="" coords="137,151,310,177"/>
+<area shape="rect" id="node33" href="$d1/de1/tinybson_8h.html#af385cf22373488bb048e51535cc0d76f" title="Append a string to the encoded stream. " alt="" coords="147,303,299,345"/>
+<area shape="rect" id="node34" href="$d1/de1/tinybson_8h.html#a7b1729c0b245bd8cb8809c34a7d86a10" title="Finalise the encoded stream. " alt="" coords="160,201,287,228"/>
+<area shape="rect" id="node3" href="$d0/dc6/flashparams_8cpp.html#a928cacba27914c52f4e3db6dd3d52fa4" title="param_export_internal" alt="" coords="363,149,513,176"/>
+<area shape="rect" id="node5" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9684c9aefbfb9f1addd8fd14b4776555" title="Export changed parameters to a file. " alt="" coords="387,95,489,121"/>
+<area shape="rect" id="node28" href="$d0/d9e/test__bson_8cpp.html#a32820224ead87e7d885847d9d3a20fe7" title="encode" alt="" coords="406,200,470,227"/>
+<area shape="rect" id="node4" href="$d3/d19/flashparams_8h.html#aa8153791be5520cec0ba9506507e9a24" title="flash_param_save" alt="" coords="567,149,695,176"/>
+<area shape="rect" id="node6" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ac8c26cd56111671e0241d2f641aab221" title="Save parameters to the default file. " alt="" coords="561,95,700,121"/>
+<area shape="rect" id="node7" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="748,95,869,121"/>
+<area shape="rect" id="node8" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="917,95,1036,121"/>
+<area shape="rect" id="node9" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a44d25292a66f5521372edb465e668038" title="Reset a parameter to its default value. " alt="" coords="1118,19,1213,45"/>
+<area shape="rect" id="node11" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a759202dec4546bd981d796584f740bbd" title="param_reset_all_internal" alt="" coords="1084,95,1247,121"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1099,183,1231,209"/>
+<area shape="rect" id="node10" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ac579e1a9910cc9e997cceeefbbf51d05" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="1305,5,1459,32"/>
+<area shape="rect" id="node12" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a455cd138f80934ec65400e099cd4086b" title="Load parameters from a file. " alt="" coords="1760,67,1849,93"/>
+<area shape="rect" id="node14" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#afad5d989ddc1aace0ad3d3d1c141102b" title="Reset all parameters to their default values. " alt="" coords="1325,107,1439,133"/>
+<area shape="rect" id="node13" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a23aba7af4dfdb4e6321bd0334c703ce3" title="Load parameters from the default parameter file. " alt="" coords="1957,67,2091,93"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aae3ab2f0bf31ee1d2ec9e3f32a7752bb" title="param_import_callback" alt="" coords="1304,157,1460,184"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a126ed3d305f2dd3cd9880f11ee2922a0" title="Set the value of a parameter. " alt="" coords="1341,208,1423,235"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a803f9e8aef28899d6311b39e482584eb" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="1295,259,1469,285"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a63ff0f0ddb7449867462e4c6fb14cc76" title="param_import_internal" alt="" coords="1518,127,1669,153"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a1e5338d93ed1b5bf9e6438b4f6cb8e22" title="Import parameters from a file, discarding any unrecognized parameters. " alt="" coords="1754,127,1855,153"/>
+<area shape="rect" id="node21" href="$dc/d36/namespacebattery__status.html#a0bd87674baff2a354219a9e5466fee41" title="Read out the parameters using the handles into the parameters struct. " alt="" coords="1517,251,1669,293"/>
+<area shape="rect" id="node22" href="$de/dc2/class_battery_status.html#a7c9088d53b0b19ae7015236ad4fcc9f4" title="Update our local parameter cache. " alt="" coords="1717,197,1892,238"/>
+<area shape="rect" id="node25" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="1733,262,1876,303"/>
+<area shape="rect" id="node23" href="$de/dc2/class_battery_status.html#ae0603fd2a5b191f8784cbc9b83aa5ef6" title="Check for changes in parameters. " alt="" coords="1940,197,2108,238"/>
+<area shape="rect" id="node24" href="$de/dc2/class_battery_status.html#a8f9de0611cdd19c1bab753644e37b325" title="BatteryStatus::Run" alt="" coords="2156,204,2291,231"/>
+<area shape="rect" id="node26" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="1956,262,2092,303"/>
+<area shape="rect" id="node27" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="2175,269,2271,296"/>
+<area shape="rect" id="node29" href="$d5/d69/tests__main_8h.html#affd513716982a5dfa53e012d35e8c947" title="test_bson" alt="" coords="591,200,670,227"/>
+</map>

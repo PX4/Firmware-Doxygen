@@ -1,20 +1,20 @@
 <map id="build/doxygen/uORB/topics/estimator_status.h" name="build/doxygen/uORB/topics/estimator_status.h">
-<area shape="rect" id="node2" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="367,95,532,136"/>
-<area shape="rect" id="node4" href="$d7/d24/_preflight_check_8cpp.html" title="Preflight check for main system components. " alt="" coords="812,95,977,136"/>
-<area shape="rect" id="node5" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="1002,95,1153,136"/>
-<area shape="rect" id="node6" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="1177,95,1455,136"/>
-<area shape="rect" id="node18" href="$df/d31/mavlink__high__latency2_8cpp.html" title="src/modules/mavlink\l/mavlink_high_latency2.cpp" alt="" coords="1479,95,1662,136"/>
-<area shape="rect" id="node19" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="1687,95,1849,136"/>
-<area shape="rect" id="node3" href="$da/d73/_commander_8cpp.html" title="src/modules/commander\l/Commander.cpp" alt="" coords="5,191,171,233"/>
-<area shape="rect" id="node7" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="195,191,474,233"/>
-<area shape="rect" id="node8" href="$d1/db5/local__position__estimator__main_8cpp.html" title="src/modules/local_position\l_estimator/local_position\l_estimator_main.cpp" alt="" coords="499,184,675,240"/>
-<area shape="rect" id="node9" href="$db/d09/local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="699,191,885,233"/>
-<area shape="rect" id="node10" href="$d5/d89/flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="909,191,1096,233"/>
-<area shape="rect" id="node11" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="1121,191,1303,233"/>
-<area shape="rect" id="node12" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="1328,191,1515,233"/>
-<area shape="rect" id="node13" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="1539,184,1717,240"/>
-<area shape="rect" id="node14" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="1741,191,1928,233"/>
-<area shape="rect" id="node15" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="1953,191,2154,233"/>
-<area shape="rect" id="node16" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="2179,191,2373,233"/>
-<area shape="rect" id="node17" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="2398,191,2594,233"/>
+<area shape="rect" id="node2" href="$d3/ded/airspeed__selector__main_8cpp.html" title="src/modules/airspeed\l_selector/airspeed_selector\l_main.cpp" alt="" coords="323,95,504,151"/>
+<area shape="rect" id="node3" href="$dd/d68/ekf2_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/ekf2Check.cpp" alt="" coords="528,95,693,151"/>
+<area shape="rect" id="node4" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="717,102,883,143"/>
+<area shape="rect" id="node6" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="907,102,1058,143"/>
+<area shape="rect" id="node7" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="1082,102,1361,143"/>
+<area shape="rect" id="node18" href="$df/d31/mavlink__high__latency2_8cpp.html" title="src/modules/mavlink\l/mavlink_high_latency2.cpp" alt="" coords="1385,102,1567,143"/>
+<area shape="rect" id="node19" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="1592,102,1755,143"/>
+<area shape="rect" id="node5" href="$da/d73/_commander_8cpp.html" title="Main state machine / business logic. " alt="" coords="5,206,171,247"/>
+<area shape="rect" id="node8" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="195,206,474,247"/>
+<area shape="rect" id="node9" href="$de/dac/modules_2local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="499,206,685,247"/>
+<area shape="rect" id="node10" href="$d9/df4/modules_2local__position__estimator_2sensors_2flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="709,206,896,247"/>
+<area shape="rect" id="node11" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="921,206,1103,247"/>
+<area shape="rect" id="node12" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="1128,206,1315,247"/>
+<area shape="rect" id="node13" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="1339,199,1517,255"/>
+<area shape="rect" id="node14" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="1541,206,1728,247"/>
+<area shape="rect" id="node15" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="1753,206,1954,247"/>
+<area shape="rect" id="node16" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="1979,206,2173,247"/>
+<area shape="rect" id="node17" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="2198,206,2394,247"/>
 </map>

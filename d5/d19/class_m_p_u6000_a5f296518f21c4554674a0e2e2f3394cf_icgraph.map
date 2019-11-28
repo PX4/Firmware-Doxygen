@@ -1,23 +1,4 @@
 <map id="MPU6000::check_registers" name="MPU6000::check_registers">
-<area shape="rect" id="node2" href="$d5/d19/class_m_p_u6000.html#a88f695b434954f67aec6b5fa8397d648" title="Get the internal / external state. " alt="" coords="673,314,824,341"/>
-<area shape="rect" id="node4" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="233,270,372,297"/>
-<area shape="rect" id="node3" href="$d5/d19/class_m_p_u6000.html#a9763c2bd2ee666da352a86949f7e7386" title="Initialise the driver and make it ready for use. " alt="" coords="1069,264,1175,290"/>
-<area shape="rect" id="node5" href="$d5/d19/class_m_p_u6000.html#aa84fdd7f3e7b567d603556b540dacdc3" title="MPU6000::is_i2c" alt="" coords="687,86,810,113"/>
-<area shape="rect" id="node15" href="$d5/d19/class_m_p_u6000.html#ab5bf05d1f7ab434fdf82602702d14c99" title="Stop automatic measurement. " alt="" coords="1065,112,1179,138"/>
-<area shape="rect" id="node18" href="$d5/d19/class_m_p_u6000.html#ad6569591dab843c6f567b893bfb1552b" title="MPU6000::read" alt="" coords="466,346,579,373"/>
-<area shape="rect" id="node19" href="$d5/d19/class_m_p_u6000.html#a01f767a6f69c1e91928a2df349f5b3ef" title="Measurement self test. " alt="" coords="453,296,592,322"/>
-<area shape="rect" id="node20" href="$d5/d19/class_m_p_u6000.html#a2392d1e22e23031e5240da8e398c9a92" title="MPU6000::gyro_read" alt="" coords="676,390,821,417"/>
-<area shape="rect" id="node22" href="$d5/d19/class_m_p_u6000.html#a69a40e8f3dabebd1ca28f3ba861ee15f" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="420,61,625,88"/>
-<area shape="rect" id="node6" href="$d5/d19/class_m_p_u6000.html#a086086441e0859214b9506711cd323ae" title="Reset chip. " alt="" coords="886,213,1003,240"/>
-<area shape="rect" id="node7" href="$d5/d19/class_m_p_u6000.html#a06027f6675291f22d547da7219ffc314" title="MPU6000::ioctl" alt="" coords="1429,162,1541,189"/>
-<area shape="rect" id="node17" href="$d5/d19/class_m_p_u6000.html#acfa05100f7513a6fa5132452882a9a57" title="Start automatic measurement. " alt="" coords="1247,61,1361,88"/>
-<area shape="rect" id="node8" href="$d5/d19/class_m_p_u6000.html#aa829a5ed60e1b4247465dd8c06a1651b" title="MPU6000::gyro_ioctl" alt="" coords="1589,206,1733,233"/>
-<area shape="rect" id="node9" href="$d7/d54/class_m_p_u6000__gyro.html#ab065342753184f3c143c76d954435954" title="MPU6000_gyro::ioctl" alt="" coords="1781,232,1925,258"/>
-<area shape="rect" id="node10" href="$dc/d3d/namespacempu6000.html#a3ee5873cffa2c5eaafdb6c100217764b" title="start driver for a specific bus option " alt="" coords="1973,188,2111,214"/>
-<area shape="rect" id="node13" href="$dc/d3d/namespacempu6000.html#ae043bff4d04c90ae1d4bc6761a1bf1b5" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="2161,289,2266,316"/>
-<area shape="rect" id="node14" href="$dc/d3d/namespacempu6000.html#accc21077c7ebce36800727645d6e9753" title="Reset the driver. " alt="" coords="1986,238,2098,265"/>
-<area shape="rect" id="node11" href="$dc/d3d/namespacempu6000.html#ad912876ad574440e4934e6ba3af863bc" title="Start the driver. " alt="" coords="2159,188,2268,214"/>
-<area shape="rect" id="node12" href="$d7/d50/mpu6000_8cpp.html#a449f83d61966eebf7f34fb5b9fb19279" title="driver &#39;main&#39; command " alt="" coords="2316,238,2427,265"/>
-<area shape="rect" id="node16" href="$d5/d19/class_m_p_u6000.html#a9b7c10c0bf44c9a275e698cc9089f7cb" title="MPU6000::~MPU6000" alt="" coords="1227,112,1381,138"/>
-<area shape="rect" id="node21" href="$d7/d54/class_m_p_u6000__gyro.html#afe64b9feaa20b81f15a47774e07ca861" title="MPU6000_gyro::read" alt="" coords="872,378,1017,405"/>
+<area shape="rect" id="node2" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="233,5,372,32"/>
+<area shape="rect" id="node3" href="$d5/d19/class_m_p_u6000.html#a9922ab5434fe1c134dd8eef8c9322669" title="MPU6000::Run" alt="" coords="420,5,532,32"/>
 </map>

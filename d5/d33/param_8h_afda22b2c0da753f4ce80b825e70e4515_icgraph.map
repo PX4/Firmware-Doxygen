@@ -1,51 +1,51 @@
 <map id="param_size" name="param_size">
-<area shape="rect" id="node2" href="$d9/d30/param_8cpp.html#af38c0bb9e49e5dea7014173238b7a42c" title="do_show_print" alt="" coords="774,5,881,32"/>
-<area shape="rect" id="node4" href="$d5/d33/param_8h.html#ae7c8a59918c92ba45e23e7ca59c98381" title="Export changed parameters to a file. " alt="" coords="360,2100,461,2127"/>
-<area shape="rect" id="node10" href="$d2/d06/flashparams_8c.html#a928cacba27914c52f4e3db6dd3d52fa4" title="param_export_internal" alt="" coords="145,1905,296,1932"/>
-<area shape="rect" id="node12" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="551,1069,633,1096"/>
-<area shape="rect" id="node48" href="$d5/d33/param_8h.html#a1b3c43194264ca6e2c3a787e822003ea" title="Generate the hash of all parameters and their values. " alt="" coords="153,1956,288,1983"/>
-<area shape="rect" id="node49" href="$d2/d06/flashparams_8c.html#aef043febf8ac8ffbac1efcc936e76e8a" title="param_import_callback" alt="" coords="143,2007,299,2033"/>
-<area shape="rect" id="node50" href="$d9/da5/param_8c.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="155,2057,287,2084"/>
-<area shape="rect" id="node3" href="$d9/d30/param_8cpp.html#afb18af86af25914f77dd68ca124a2b5a" title="do_show" alt="" coords="1061,5,1135,32"/>
-<area shape="rect" id="node5" href="$d9/d30/param_8cpp.html#a0f3f0246cfc87e7677e3edc52f3cd8e6" title="do_save" alt="" coords="557,2100,627,2127"/>
-<area shape="rect" id="node6" href="$d6/d89/class_parameter_test.html#a612b8826b7d08994dfde86e42b594641" title="ParameterTest::exportImportAll" alt="" coords="725,2227,929,2253"/>
-<area shape="rect" id="node7" href="$d5/d33/param_8h.html#aac114d47fe21936442ef251b4af6e81d" title="Save parameters to the default file. " alt="" coords="523,2151,661,2177"/>
-<area shape="rect" id="node8" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="748,2125,907,2152"/>
-<area shape="rect" id="node9" href="$d6/d89/class_parameter_test.html#a50e40a2a9f3282c662dcca0a92a809c8" title="ParameterTest::exportImport" alt="" coords="733,2176,922,2203"/>
-<area shape="rect" id="node11" href="$d3/d19/flashparams_8h.html#ab2215226877c7c44a451f67a7456a94c" title="flash_param_save" alt="" coords="347,2151,475,2177"/>
-<area shape="rect" id="node13" href="$d6/d89/class_parameter_test.html#a9d361f1d9bbe02da8c8ba270f316f7d2" title="ParameterTest::_assert\l_parameter_float_value" alt="" coords="748,898,907,939"/>
-<area shape="rect" id="node14" href="$d6/d89/class_parameter_test.html#a44974a4950da224684296dd0ab73338f" title="ParameterTest::_assert\l_parameter_int_value" alt="" coords="748,963,907,1005"/>
-<area shape="rect" id="node15" href="$d8/d1f/classland__detector_1_1_land_detector.html#a269e103b9078510d8031ab1c73fc1e1d" title="land_detector::LandDetector\l::_check_params" alt="" coords="734,1029,921,1070"/>
-<area shape="rect" id="node16" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a9e866b21516dd9c022ffae9180d73c0a" title="DfMPU6050Wrapper::\l_update_accel_calibration" alt="" coords="741,1094,913,1135"/>
-<area shape="rect" id="node17" href="$df/d43/class_df_lsm9ds1_wrapper.html#aa6aafc4d721c0416c85cf1005fa3cd3f" title="DfLsm9ds1Wrapper::\l_update_accel_calibration" alt="" coords="741,1159,913,1201"/>
-<area shape="rect" id="node18" href="$df/d4c/class_df_mpu9250_wrapper.html#a842d663abb44465ab01ace2842616746" title="DfMpu9250Wrapper::\l_update_accel_calibration" alt="" coords="741,1225,913,1266"/>
-<area shape="rect" id="node19" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a55151d9a069ed54f892a77adab3493f0" title="DfMPU6050Wrapper::\l_update_gyro_calibration" alt="" coords="744,1290,911,1331"/>
-<area shape="rect" id="node20" href="$df/d43/class_df_lsm9ds1_wrapper.html#a44a170a4117d61516f28de90ea42e8ae" title="DfLsm9ds1Wrapper::\l_update_gyro_calibration" alt="" coords="744,1355,911,1397"/>
-<area shape="rect" id="node21" href="$df/d4c/class_df_mpu9250_wrapper.html#a74ed0641f01554994ccb99bd75c23f53" title="DfMpu9250Wrapper::\l_update_gyro_calibration" alt="" coords="744,1421,911,1462"/>
-<area shape="rect" id="node22" href="$d9/d0b/class_df_a_k8963_wrapper.html#a0a71f0af059afcd1d65a36d88a80d542" title="DfAK8963Wrapper::_update\l_mag_calibration" alt="" coords="735,1486,920,1527"/>
-<area shape="rect" id="node23" href="$d7/d3e/class_df_hmc5883_wrapper.html#a97b32adb51e7b41fc5895a230ce7ae7d" title="DfHmc5883Wrapper::\l_update_mag_calibration" alt="" coords="744,1551,911,1593"/>
-<area shape="rect" id="node24" href="$df/d43/class_df_lsm9ds1_wrapper.html#a3d9bbad970bb1e301ba9111fe2f9082f" title="DfLsm9ds1Wrapper::\l_update_mag_calibration" alt="" coords="744,1617,911,1658"/>
-<area shape="rect" id="node25" href="$df/d4c/class_df_mpu9250_wrapper.html#abc01ce104d0d68c12b5a7f348c277a36" title="DfMpu9250Wrapper::\l_update_mag_calibration" alt="" coords="744,1682,911,1723"/>
-<area shape="rect" id="node26" href="$d8/d3f/classland__detector_1_1_vtol_land_detector.html#a4833df9fcfe8fe68d7b707b076c3a2f7" title="Update parameters. " alt="" coords="993,1777,1203,1818"/>
-<area shape="rect" id="node27" href="$d6/db2/classland__detector_1_1_fixedwing_land_detector.html#a288709059e2fcbff00511bd58458b153" title="Update parameters. " alt="" coords="744,1864,911,1920"/>
-<area shape="rect" id="node28" href="$d9/de3/classland__detector_1_1_multicopter_land_detector.html#a00de8709894e5afad0a422814d060170" title="Update parameters. " alt="" coords="725,1747,929,1789"/>
-<area shape="rect" id="node29" href="$d3/d6e/classlanding__target__estimator_1_1_landing_target_estimator.html#a7562039fb47d3d001b04701976559c4f" title="landing_target_estimator\l::LandingTargetEstimator\l::_update_params" alt="" coords="743,1944,911,2000"/>
-<area shape="rect" id="node30" href="$d6/dda/arm__auth_8h.html#abf123d7c61c3f3d48f367a5ab4335318" title="arm_auth_update" alt="" coords="766,2024,889,2051"/>
-<area shape="rect" id="node31" href="$da/d31/class_camera_feedback.html#a7ac818098c9beb218e9557a8fdeb14c3" title="Constructor. " alt="" coords="709,2075,945,2101"/>
-<area shape="rect" id="node32" href="$dc/d86/class_camera_trigger.html#a411b94222981a429df75cae512b02b47" title="Constructor. " alt="" coords="726,56,929,83"/>
-<area shape="rect" id="node33" href="$d4/d96/namespace_preflight.html#a5eeaf89ae6ecfbfed695f42253ddc1fb" title="Preflight::check_calibration" alt="" coords="738,107,917,133"/>
-<area shape="rect" id="node34" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a61c7a32b81af6cd461fcdabfb7bcc1f7" title="Check if there is enough free space left on the SD Card. " alt="" coords="759,158,895,199"/>
-<area shape="rect" id="node35" href="$df/d4c/class_df_mpu9250_wrapper.html#a04188fb131ac23574b920086af8177ad" title="DfMpu9250Wrapper::DfMpu9250\lWrapper" alt="" coords="721,223,934,265"/>
-<area shape="rect" id="node36" href="$d3/d95/config_8c.html#aa21956c8f448d4dc6ef76bf31d8f2868" title="do_accel" alt="" coords="790,289,865,316"/>
-<area shape="rect" id="node37" href="$d0/db5/accelerometer__calibration_8h.html#ad01f28350f810d176a4ae4bc4e9fa81f" title="do_accel_calibration" alt="" coords="757,340,897,367"/>
-<area shape="rect" id="node38" href="$d9/d30/param_8cpp.html#ae3eda03514a82e1c52ee1fa5d84ca38f" title="do_compare" alt="" coords="781,391,874,417"/>
-<area shape="rect" id="node39" href="$d3/d95/config_8c.html#ad2ba67ec259f50a3d9077c3f99f8b0ff" title="do_gyro" alt="" coords="793,441,861,468"/>
-<area shape="rect" id="node40" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="760,492,895,519"/>
-<area shape="rect" id="node41" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="759,543,895,569"/>
-<area shape="rect" id="node42" href="$d3/d95/config_8c.html#a096cd597deb5aaf12dfc04490cc21ff6" title="do_mag" alt="" coords="793,593,861,620"/>
-<area shape="rect" id="node43" href="$d9/d30/param_8cpp.html#a447640308cde0bba05f1d0d8e60a20d6" title="do_reset_nostart" alt="" coords="768,644,887,671"/>
-<area shape="rect" id="node44" href="$d9/d30/param_8cpp.html#ad57f460b11546fb9ebf0e44814d7aabe" title="do_set" alt="" coords="797,695,858,721"/>
-<area shape="rect" id="node45" href="$d9/d30/param_8cpp.html#a4b22d254b73aa1d79a2f83d44c819043" title="do_show_index" alt="" coords="771,745,883,772"/>
-<area shape="rect" id="node46" href="$d3/dc5/rc__calibration_8h.html#a0e46b1efe365665e7ae7eba4aefae32b" title="do_trim_calibration" alt="" coords="762,796,893,823"/>
-<area shape="rect" id="node47" href="$d4/d96/namespace_preflight.html#a6a535359aa153b1e81c87c49248b364e" title="Preflight::ekf2Check" alt="" coords="757,847,898,873"/>
+<area shape="rect" id="node2" href="$d9/d30/param_8cpp.html#af38c0bb9e49e5dea7014173238b7a42c" title="do_show_print" alt="" coords="814,56,921,83"/>
+<area shape="rect" id="node6" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9684c9aefbfb9f1addd8fd14b4776555" title="Export changed parameters to a file. " alt="" coords="170,579,271,605"/>
+<area shape="rect" id="node10" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1019,528,1151,555"/>
+<area shape="rect" id="node29" href="$d0/dc6/flashparams_8cpp.html#a928cacba27914c52f4e3db6dd3d52fa4" title="param_export_internal" alt="" coords="145,629,296,656"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="179,452,262,479"/>
+<area shape="rect" id="node35" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a295a71d2484685d5ed1b5741a30bf7a5" title="Generate the hash of all parameters and their values. " alt="" coords="153,680,288,707"/>
+<area shape="rect" id="node36" href="$d0/dc6/flashparams_8cpp.html#aae3ab2f0bf31ee1d2ec9e3f32a7752bb" title="param_import_callback" alt="" coords="143,325,299,352"/>
+<area shape="rect" id="node3" href="$d9/d30/param_8cpp.html#afb18af86af25914f77dd68ca124a2b5a" title="do_show" alt="" coords="1047,5,1122,32"/>
+<area shape="rect" id="node5" href="$d9/d30/param_8cpp.html#a422c2a33437a8dcc0d78277b9d0032e0" title="do_show_all" alt="" coords="1037,56,1132,83"/>
+<area shape="rect" id="node4" href="$d9/d30/param_8cpp.html#acdb587df4fccb667a10a4b46328bdfc1" title="param_main" alt="" coords="1275,56,1369,83"/>
+<area shape="rect" id="node7" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ac8c26cd56111671e0241d2f641aab221" title="Save parameters to the default file. " alt="" coords="379,579,517,605"/>
+<area shape="rect" id="node8" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="614,579,735,605"/>
+<area shape="rect" id="node9" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="808,579,927,605"/>
+<area shape="rect" id="node25" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a44d25292a66f5521372edb465e668038" title="Reset a parameter to its default value. " alt="" coords="1037,655,1132,681"/>
+<area shape="rect" id="node27" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a759202dec4546bd981d796584f740bbd" title="param_reset_all_internal" alt="" coords="1003,579,1166,605"/>
+<area shape="rect" id="node11" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a126ed3d305f2dd3cd9880f11ee2922a0" title="Set the value of a parameter. " alt="" coords="1281,427,1363,453"/>
+<area shape="rect" id="node12" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a803f9e8aef28899d6311b39e482584eb" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="1235,477,1409,504"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aae3ab2f0bf31ee1d2ec9e3f32a7752bb" title="param_import_callback" alt="" coords="1244,528,1400,555"/>
+<area shape="rect" id="node13" href="$dc/d36/namespacebattery__status.html#a0bd87674baff2a354219a9e5466fee41" title="Read out the parameters using the handles into the parameters struct. " alt="" coords="1457,382,1609,423"/>
+<area shape="rect" id="node14" href="$de/dc2/class_battery_status.html#a7c9088d53b0b19ae7015236ad4fcc9f4" title="Update our local parameter cache. " alt="" coords="1657,350,1832,391"/>
+<area shape="rect" id="node17" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="1673,415,1816,457"/>
+<area shape="rect" id="node15" href="$de/dc2/class_battery_status.html#ae0603fd2a5b191f8784cbc9b83aa5ef6" title="Check for changes in parameters. " alt="" coords="1880,350,2048,391"/>
+<area shape="rect" id="node16" href="$de/dc2/class_battery_status.html#a8f9de0611cdd19c1bab753644e37b325" title="BatteryStatus::Run" alt="" coords="2096,357,2231,384"/>
+<area shape="rect" id="node18" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="1896,415,2032,457"/>
+<area shape="rect" id="node19" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="2115,423,2211,449"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a63ff0f0ddb7449867462e4c6fb14cc76" title="param_import_internal" alt="" coords="1458,528,1609,555"/>
+<area shape="rect" id="node22" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a1e5338d93ed1b5bf9e6438b4f6cb8e22" title="Import parameters from a file, discarding any unrecognized parameters. " alt="" coords="1694,528,1795,555"/>
+<area shape="rect" id="node23" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a455cd138f80934ec65400e099cd4086b" title="Load parameters from a file. " alt="" coords="1700,579,1789,605"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a23aba7af4dfdb4e6321bd0334c703ce3" title="Load parameters from the default parameter file. " alt="" coords="1897,579,2031,605"/>
+<area shape="rect" id="node26" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ac579e1a9910cc9e997cceeefbbf51d05" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="1245,680,1399,707"/>
+<area shape="rect" id="node28" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#afad5d989ddc1aace0ad3d3d1c141102b" title="Reset all parameters to their default values. " alt="" coords="1265,629,1379,656"/>
+<area shape="rect" id="node30" href="$d3/d19/flashparams_8h.html#aa8153791be5520cec0ba9506507e9a24" title="flash_param_save" alt="" coords="384,629,512,656"/>
+<area shape="rect" id="node32" href="$d4/d6c/namespace_r_c_update.html#a3834220e7a712c9616c24f6639708840" title="Read out the parameters using the handles into the parameters struct. " alt="" coords="347,427,549,453"/>
+<area shape="rect" id="node34" href="$db/d02/namespacesensors.html#ae565abe97c7e4914cc5ab6f0b75a2588" title="Read out the parameters using the handles into the parameters struct. " alt="" coords="355,477,541,504"/>
+<area shape="rect" id="node33" href="$dc/d6e/class_r_c_update_1_1_r_c_update.html#af62fff48e4c4e3ec4e2cbe78db1ed807" title="Update our local parameter cache. " alt="" coords="597,427,752,469"/>
+<area shape="rect" id="node37" href="$d0/dc6/flashparams_8cpp.html#a7beb5b96ba541ce2540cead064c44e80" title="param_import_internal" alt="" coords="373,275,523,301"/>
+<area shape="rect" id="node38" href="$d3/d19/flashparams_8h.html#a3a7ba41b864d420a98c440614749a991" title="flash_param_import" alt="" coords="607,224,743,251"/>
+<area shape="rect" id="node46" href="$d3/d19/flashparams_8h.html#a14402baa603ca312115a249a4cf2c291" title="flash_param_load" alt="" coords="613,275,737,301"/>
+<area shape="rect" id="node39" href="$d9/db5/parameters__shmem_8cpp.html#a1e5338d93ed1b5bf9e6438b4f6cb8e22" title="Import parameters from a file, discarding any unrecognized parameters. " alt="" coords="817,195,918,221"/>
+<area shape="rect" id="node40" href="$d9/db5/parameters__shmem_8cpp.html#a8845ebf33c0e4e866384420ff5b2a835" title="param_load_default\l_no_notify" alt="" coords="1017,158,1152,199"/>
+<area shape="rect" id="node43" href="$d9/d30/param_8cpp.html#a0d08007a86fad274ce7e7f90b20a1212" title="do_import" alt="" coords="1045,107,1124,133"/>
+<area shape="rect" id="node44" href="$d6/d89/class_parameter_test.html#a612b8826b7d08994dfde86e42b594641" title="ParameterTest::exportImportAll" alt="" coords="983,224,1187,251"/>
+<area shape="rect" id="node41" href="$d9/db5/parameters__shmem_8cpp.html#a1909ea559572553354568947a31c6864" title="init_params" alt="" coords="1277,165,1367,192"/>
+<area shape="rect" id="node42" href="$d9/db5/parameters__shmem_8cpp.html#a1beb6cc5926d7d68049a727741fd2160" title="Initialize the param backend. " alt="" coords="1492,165,1575,192"/>
+<area shape="rect" id="node45" href="$d6/d89/class_parameter_test.html#a97850908363a100ca589f3b4db5e51d6" title="Override to run your unit tests. " alt="" coords="1255,238,1389,279"/>
+<area shape="rect" id="node47" href="$d9/db5/parameters__shmem_8cpp.html#a23aba7af4dfdb4e6321bd0334c703ce3" title="Load parameters from the default parameter file. " alt="" coords="800,275,935,301"/>
+<area shape="rect" id="node48" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="997,325,1173,352"/>
+<area shape="rect" id="node50" href="$d6/d89/class_parameter_test.html#a50e40a2a9f3282c662dcca0a92a809c8" title="ParameterTest::exportImport" alt="" coords="990,275,1179,301"/>
+<area shape="rect" id="node49" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1263,325,1381,352"/>
 </map>

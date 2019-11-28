@@ -1,12 +1,11 @@
 <map id="FXAS21002C::write_checked_reg" name="FXAS21002C::write_checked_reg">
-<area shape="rect" id="node2" href="$df/d3b/class_f_x_a_s21002_c.html#a229d43d10639cf5c3b570263a147760e" title="Modify a register in the FXAS21002C. " alt="" coords="272,56,447,83"/>
-<area shape="rect" id="node9" href="$df/d3b/class_f_x_a_s21002_c.html#a6de660bfd7901cce954845a9ec5dba8f" title="Reset chip. " alt="" coords="741,107,880,133"/>
-<area shape="rect" id="node11" href="$df/d3b/class_f_x_a_s21002_c.html#a8224995be50a08c41eb6de4353e6775b" title="Set the FXAS21002C internal sampling frequency. " alt="" coords="495,5,693,32"/>
-<area shape="rect" id="node3" href="$df/d3b/class_f_x_a_s21002_c.html#a240c6234b752bd75259e56a6209db6c6" title="Set the FXAS21002C measurement range. " alt="" coords="511,56,677,83"/>
-<area shape="rect" id="node4" href="$df/d3b/class_f_x_a_s21002_c.html#ad7a0d5d856512233af9d0ffcc71a4bf4" title="FXAS21002C::ioctl" alt="" coords="928,56,1063,83"/>
-<area shape="rect" id="node5" href="$d4/dc5/namespacefxas21002c.html#a624409c2a24ac21a9fd1707f2ee3989f" title="Reset the driver. " alt="" coords="1111,56,1237,83"/>
-<area shape="rect" id="node7" href="$d4/dc5/namespacefxas21002c.html#ad5398e8b9f953452da8ab4b6960cab4d" title="Start the driver. " alt="" coords="1113,107,1235,133"/>
-<area shape="rect" id="node8" href="$d4/dc5/namespacefxas21002c.html#a9637e6dbc487269af2938e72e073c05f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1115,5,1233,32"/>
-<area shape="rect" id="node6" href="$d7/d97/fxas21002c_8cpp.html#a49d8ba4dd73cd96281a228ba05e1870d" title="fxas21002c_main" alt="" coords="1285,56,1409,83"/>
-<area shape="rect" id="node10" href="$df/d3b/class_f_x_a_s21002_c.html#a56c6b2a8a48c2780fdffa4ec48d709a1" title="FXAS21002C::init" alt="" coords="932,107,1059,133"/>
+<area shape="rect" id="node2" href="$df/d3b/class_f_x_a_s21002_c.html#a229d43d10639cf5c3b570263a147760e" title="Modify a register in the FXAS21002C. " alt="" coords="272,101,447,128"/>
+<area shape="rect" id="node4" href="$df/d3b/class_f_x_a_s21002_c.html#a6de660bfd7901cce954845a9ec5dba8f" title="Reset chip. " alt="" coords="971,88,1109,115"/>
+<area shape="rect" id="node3" href="$df/d3b/class_f_x_a_s21002_c.html#a14dd93b51b17d7ebcae326441923177d" title="FXAS21002C::set_onchip\l_lowpass_filter" alt="" coords="737,51,910,93"/>
+<area shape="rect" id="node8" href="$df/d3b/class_f_x_a_s21002_c.html#a240c6234b752bd75259e56a6209db6c6" title="Set the FXAS21002C measurement range. " alt="" coords="740,117,907,144"/>
+<area shape="rect" id="node9" href="$df/d3b/class_f_x_a_s21002_c.html#a8224995be50a08c41eb6de4353e6775b" title="Set the FXAS21002C internal sampling frequency. " alt="" coords="724,168,923,195"/>
+<area shape="rect" id="node10" href="$df/d3b/class_f_x_a_s21002_c.html#a56bca9f8061d4091b82bc80408ef0a3d" title="Put the chip In stand by. " alt="" coords="495,101,676,128"/>
+<area shape="rect" id="node5" href="$df/d3b/class_f_x_a_s21002_c.html#a56c6b2a8a48c2780fdffa4ec48d709a1" title="FXAS21002C::init" alt="" coords="1157,88,1284,115"/>
+<area shape="rect" id="node6" href="$d4/dc5/namespacefxas21002c.html#ad5398e8b9f953452da8ab4b6960cab4d" title="Start the driver. " alt="" coords="1332,88,1455,115"/>
+<area shape="rect" id="node7" href="$d5/d96/fxas21002c__main_8cpp.html#a49d8ba4dd73cd96281a228ba05e1870d" title="fxas21002c_main" alt="" coords="1503,88,1627,115"/>
 </map>

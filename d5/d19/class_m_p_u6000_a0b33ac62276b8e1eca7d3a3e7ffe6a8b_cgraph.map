@@ -1,27 +1,10 @@
 <map id="MPU6000::factory_self_test" name="MPU6000::factory_self_test">
-<area shape="rect" id="node2" href="$df/de7/test__sensors_8c.html#ac1266d7ace90667fc0e56fac4969b4f0" title="accel" alt="" coords="283,359,336,386"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="449,258,488,284"/>
-<area shape="rect" id="node23" href="$df/de7/test__sensors_8c.html#a78feae888b23b1cb63e35f9f90e92e1e" title="gyro" alt="" coords="286,308,333,335"/>
-<area shape="rect" id="node24" href="$d6/d1e/conversions_8c.html#adcfc38898c99b0a7987a8c53de2e37b8" title="Converts a signed 16 bit integer from big endian to little endian. " alt="" coords="243,410,376,436"/>
-<area shape="rect" id="node25" href="$d5/d19/class_m_p_u6000.html#a70789039cc750778ac57b6d9180c3195" title="Read a register from the MPU6000. " alt="" coords="240,460,379,487"/>
-<area shape="rect" id="node26" href="$d5/d19/class_m_p_u6000.html#a01cf9bdd2aeb79a0f1af424299e9b7f5" title="Write a register in the MPU6000. " alt="" coords="239,511,380,538"/>
-<area shape="rect" id="node4" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="428,460,509,487"/>
-<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="429,359,508,386"/>
-<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="431,550,506,576"/>
-<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="439,308,499,335"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="568,435,709,462"/>
-<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="601,587,676,614"/>
-<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="993,166,1131,192"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="985,384,1139,411"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="785,283,920,310"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="768,435,937,462"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="779,334,927,360"/>
-<area shape="rect" id="node13" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="557,115,720,142"/>
-<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="821,166,885,192"/>
-<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="569,283,708,310"/>
-<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="592,384,685,411"/>
-<area shape="rect" id="node14" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="785,115,921,142"/>
-<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="801,64,905,91"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="783,217,922,258"/>
-<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="571,638,706,664"/>
+<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="290,5,329,32"/>
+<area shape="rect" id="node5" href="$d6/d1e/conversions_8c.html#adcfc38898c99b0a7987a8c53de2e37b8" title="Converts a signed 16 bit integer from big endian to little endian. " alt="" coords="243,56,376,83"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="429,132,572,159"/>
+<area shape="rect" id="node7" href="$d5/d19/class_m_p_u6000.html#a70789039cc750778ac57b6d9180c3195" title="Read a register from the MPU6000. " alt="" coords="240,157,379,184"/>
+<area shape="rect" id="node8" href="$d5/d19/class_m_p_u6000.html#a01cf9bdd2aeb79a0f1af424299e9b7f5" title="Write a register in the MPU6000. " alt="" coords="239,208,380,235"/>
+<area shape="rect" id="node3" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="459,5,542,32"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="621,5,708,32"/>
+<area shape="rect" id="node9" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="428,208,573,235"/>
 </map>

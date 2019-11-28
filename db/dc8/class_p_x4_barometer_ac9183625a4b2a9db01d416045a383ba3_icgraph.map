@@ -1,0 +1,26 @@
+<map id="PX4Barometer::print_status" name="PX4Barometer::print_status">
+<area shape="rect" id="node2" href="$d1/daf/class_b_m_p280.html#aa5c4f853841a2c78bca257c8023bcd9e" title="BMP280::print_info" alt="" coords="231,5,365,32"/>
+<area shape="rect" id="node5" href="$d8/db8/class_a_d_i_s16448.html#a0107c4c2c7c83ddb723c99403277c085" title="Diagnostics &#45; print some basic information about the driver and sensor. " alt="" coords="223,107,373,133"/>
+<area shape="rect" id="node8" href="$d8/d99/class_b_m_p388.html#a94dc91dc3c7e8ab6a6678a94a33ee6a0" title="BMP388::print_info" alt="" coords="231,56,365,83"/>
+<area shape="rect" id="node11" href="$db/dc8/class_p_x4_barometer.html#a1d9a64015354387d2effd941a5f3c7b3" title="PX4Barometer::set_temperature" alt="" coords="193,284,403,311"/>
+<area shape="rect" id="node3" href="$dc/d5d/namespacebmp280.html#a2080aded9d884e7507302ad5d0da3562" title="bmp280::status" alt="" coords="468,5,580,32"/>
+<area shape="rect" id="node4" href="$d7/dd6/bmp280__main_8cpp.html#a18609c5745affa47a4a79f461c25ae7e" title="bmp280_main" alt="" coords="655,5,757,32"/>
+<area shape="rect" id="node6" href="$d4/dc6/namespaceadis16448.html#a6632f36ab45bf4f1b59276f8c5d68334" title="adis16448::status" alt="" coords="817,107,943,133"/>
+<area shape="rect" id="node7" href="$dd/d0b/adis16448__main_8cpp.html#a7325a0caca0b01043f6827796555c498" title="adis16448_main" alt="" coords="993,145,1109,172"/>
+<area shape="rect" id="node9" href="$de/dda/namespacebmp388.html#ae17839421a39e42d8abdaea9245fb7f8" title="bmp388::status" alt="" coords="995,69,1107,96"/>
+<area shape="rect" id="node10" href="$d3/d3f/bmp388__main_8cpp.html#a8dc4838b79f1388fb2de532a3899f66e" title="bmp388_main" alt="" coords="1157,157,1260,184"/>
+<area shape="rect" id="node12" href="$d1/daf/class_b_m_p280.html#aa459a57ffbe6ca906f53555e016ec4e7" title="BMP280::collect" alt="" coords="465,404,583,431"/>
+<area shape="rect" id="node14" href="$d8/d99/class_b_m_p388.html#aace5f9b3c6ccd60dd359030207ee9f73" title="BMP388::collect" alt="" coords="465,284,583,311"/>
+<area shape="rect" id="node19" href="$d8/db8/class_a_d_i_s16448.html#a6bf03658298f1137f5e15fa7921a5c09" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="451,208,597,235"/>
+<area shape="rect" id="node23" href="$d7/d28/class_sih.html#a2a4e25760195cdd49239c8c0704ee18d" title="Sih::send_IMU" alt="" coords="469,347,579,373"/>
+<area shape="rect" id="node13" href="$d1/daf/class_b_m_p280.html#a9304155c400e12dc655ddad52916b138" title="BMP280::Run" alt="" coords="654,411,758,437"/>
+<area shape="rect" id="node15" href="$d8/d99/class_b_m_p388.html#a79523cd8b599be033ae37a91b8071d81" title="BMP388::init" alt="" coords="657,309,755,336"/>
+<area shape="rect" id="node18" href="$d8/d99/class_b_m_p388.html#a4364f90cd6bea8332fdce65e8fa01696" title="BMP388::Run" alt="" coords="654,259,758,285"/>
+<area shape="rect" id="node16" href="$de/dda/namespacebmp388.html#a7d84c65c1993fba0ba86c5e7322009c6" title="bmp388::start_bus" alt="" coords="815,259,945,285"/>
+<area shape="rect" id="node17" href="$de/dda/namespacebmp388.html#afd40db0e6f1df961d37d65e22f48edf7" title="bmp388::start" alt="" coords="1000,233,1103,260"/>
+<area shape="rect" id="node20" href="$d8/db8/class_a_d_i_s16448.html#ae5539bb23371afbb4adc88331b562174" title="ADIS16448::init" alt="" coords="649,157,763,184"/>
+<area shape="rect" id="node22" href="$d8/db8/class_a_d_i_s16448.html#a6d53becf5edb296babe5c41b777a40f2" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="645,208,767,235"/>
+<area shape="rect" id="node21" href="$d4/dc6/namespaceadis16448.html#ae7937575dbf2a50d9409474ade733c7b" title="adis16448::start" alt="" coords="823,157,937,184"/>
+<area shape="rect" id="node24" href="$d7/d28/class_sih.html#ae9c730a3bcefba814a268e9ce715834e" title="Sih::inner_loop" alt="" coords="652,360,760,387"/>
+<area shape="rect" id="node25" href="$d7/d28/class_sih.html#a50305f3a277e16908d0866e1e3f33a1f" title="Sih::run" alt="" coords="847,360,913,387"/>
+</map>

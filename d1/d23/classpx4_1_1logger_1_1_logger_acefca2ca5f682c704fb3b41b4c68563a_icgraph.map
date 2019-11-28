@@ -1,0 +1,14 @@
+<map id="px4::logger::Logger::write_info_multiple" name="px4::logger::Logger::write_info_multiple">
+<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1518c6c522bd97c985de145657cf8e58" title="callback to write the performance counters " alt="" coords="192,72,343,113"/>
+<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a37dfb72c80d4e6b9698b19bcb05084d6" title="callback for print_load_buffer() to print the process load " alt="" coords="197,199,338,240"/>
+<area shape="rect" id="node13" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a9b1fb2eae43f92f5574c48fdfdcb231a" title="write bootup console output " alt="" coords="391,133,544,175"/>
+<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a77b27d1ea4cc84e531d4f63b02b6587b" title="write performance counters " alt="" coords="401,68,534,109"/>
+<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="592,136,725,177"/>
+<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a01d0690aa8610bad2df8be594ec52b32" title="px4::logger::Logger\l::stop_log_file" alt="" coords="592,5,725,47"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="592,71,725,112"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="1001,173,1160,199"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="795,136,931,177"/>
+<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="773,55,953,111"/>
+<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2e8815353f916530d838f13c1f2e0ee7" title="initialize the output for the process load, so that ~1 second later it will be written to the log ..." alt="" coords="392,199,543,240"/>
+<area shape="rect" id="node12" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a4e5bcf7638c7e8c4e51333c9b56d70f4" title="write the process load, which was previously initialized with initialize_load_output() ..." alt="" coords="797,304,930,345"/>
+</map>

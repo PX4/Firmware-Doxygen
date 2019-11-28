@@ -1,0 +1,37 @@
+<map id="fxas21002c_main" name="fxas21002c_main">
+<area shape="rect" id="node2" href="$d4/dc5/namespacefxas21002c.html#a422a9f94fb0c6289d5ac2a3910ae1ac9" title="Print a little info about the driver. " alt="" coords="401,251,519,278"/>
+<area shape="rect" id="node12" href="$d4/dc5/namespacefxas21002c.html#a9a69dd198a67d4dc5ebae54130e80e95" title="dump registers from device " alt="" coords="387,201,533,227"/>
+<area shape="rect" id="node14" href="$d4/dc5/namespacefxas21002c.html#ad5398e8b9f953452da8ab4b6960cab4d" title="Start the driver. " alt="" coords="192,455,315,482"/>
+<area shape="rect" id="node34" href="$d4/dc5/namespacefxas21002c.html#acf7fd9f1e6e34b8a593f194dfe6b945a" title="trigger an error " alt="" coords="177,506,329,533"/>
+<area shape="rect" id="node36" href="$d4/dc5/namespacefxas21002c.html#a4ce17c2eba57d0ee017b881e4ebeb51f" title="Prints info about the driver argument usage. " alt="" coords="187,557,319,583"/>
+<area shape="rect" id="node3" href="$df/d3b/class_f_x_a_s21002_c.html#a670494cde6fbee56dc70b02d428b7cf6" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="849,105,1011,131"/>
+<area shape="rect" id="node4" href="$df/d7b/perf__counter_8cpp.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="1121,75,1248,102"/>
+<area shape="rect" id="node6" href="$df/d3b/class_f_x_a_s21002_c.html#ae67ec07ec23cd67ba139dd56cfba3b43" title="Read a register from the FXAS21002C. " alt="" coords="1629,25,1789,51"/>
+<area shape="rect" id="node7" href="$d4/d1b/class_p_x4_gyroscope.html#a85a969fdb90ea9dec776174450c32680" title="PX4Gyroscope::print\l_status" alt="" coords="1113,127,1256,168"/>
+<area shape="rect" id="node5" href="$df/d7b/perf__counter_8cpp.html#ac15423e549766f6c8eaca3478223e5f2" title="Print one performance counter to a fd. " alt="" coords="1374,75,1518,102"/>
+<area shape="rect" id="node8" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ac586a1dbb0bda72b081c296326746d0b" title="math::LowPassFilter2pVector3f\l::get_cutoff_freq" alt="" coords="1343,177,1549,219"/>
+<area shape="rect" id="node11" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="1340,126,1552,153"/>
+<area shape="rect" id="node9" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a95c2514501357aced2d8c1b5282bc710" title="math::LowPassFilter2pVector3f\l::reset" alt="" coords="1607,177,1812,219"/>
+<area shape="rect" id="node10" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a3a354392866066751ae5d5e318d563a5" title="Add a new raw value to the filter. " alt="" coords="1867,177,2072,219"/>
+<area shape="rect" id="node13" href="$df/d3b/class_f_x_a_s21002_c.html#a663ce6044ef401a4c630daa5ef03162b" title="dump register values " alt="" coords="591,85,783,111"/>
+<area shape="rect" id="node15" href="$df/d3b/class_f_x_a_s21002_c.html#a56c6b2a8a48c2780fdffa4ec48d709a1" title="FXAS21002C::init" alt="" coords="397,466,523,493"/>
+<area shape="rect" id="node16" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="619,405,755,447"/>
+<area shape="rect" id="node17" href="$df/d3b/class_f_x_a_s21002_c.html#a6de660bfd7901cce954845a9ec5dba8f" title="Reset chip. " alt="" coords="617,471,756,498"/>
+<area shape="rect" id="node32" href="$df/d3b/class_f_x_a_s21002_c.html#a9bade712347829162320fcbb9f879d36" title="Start automatic measurement. " alt="" coords="619,585,755,611"/>
+<area shape="rect" id="node18" href="$df/d3b/class_f_x_a_s21002_c.html#aa6e4c5e3af5a1bd28f1eaa4ee9057798" title="Write a register in the FXAS21002C. " alt="" coords="1888,598,2051,625"/>
+<area shape="rect" id="node19" href="$df/d3b/class_f_x_a_s21002_c.html#aa4ed901ea09d5c9702b7b721395067a6" title="Write a register in the FXAS21002C, updating _checked_values. " alt="" coords="1600,547,1819,574"/>
+<area shape="rect" id="node20" href="$df/d3b/class_f_x_a_s21002_c.html#a8224995be50a08c41eb6de4353e6775b" title="Set the FXAS21002C internal sampling frequency. " alt="" coords="831,403,1029,430"/>
+<area shape="rect" id="node29" href="$df/d3b/class_f_x_a_s21002_c.html#a240c6234b752bd75259e56a6209db6c6" title="Set the FXAS21002C measurement range. " alt="" coords="847,345,1013,371"/>
+<area shape="rect" id="node31" href="$df/d3b/class_f_x_a_s21002_c.html#a14dd93b51b17d7ebcae326441923177d" title="FXAS21002C::set_onchip\l_lowpass_filter" alt="" coords="843,464,1017,505"/>
+<area shape="rect" id="node21" href="$df/d3b/class_f_x_a_s21002_c.html#a56bca9f8061d4091b82bc80408ef0a3d" title="Put the chip In stand by. " alt="" coords="1094,395,1275,422"/>
+<area shape="rect" id="node22" href="$df/d3b/class_f_x_a_s21002_c.html#a229d43d10639cf5c3b570263a147760e" title="Modify a register in the FXAS21002C. " alt="" coords="1359,421,1533,447"/>
+<area shape="rect" id="node23" href="$d4/d1b/class_p_x4_gyroscope.html#ac8c2799d14ec524670b7ac460412086d" title="PX4Gyroscope::set_sample_rate" alt="" coords="1077,294,1292,321"/>
+<area shape="rect" id="node24" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ab4843feee1dc19dbb68a28220c69533d" title="math::LowPassFilter2pVector3f\l::set_cutoff_frequency" alt="" coords="1343,295,1549,336"/>
+<area shape="rect" id="node25" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1642,302,1777,329"/>
+<area shape="rect" id="node26" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1690,247,1729,274"/>
+<area shape="rect" id="node27" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1928,247,2011,274"/>
+<area shape="rect" id="node28" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="2120,247,2207,274"/>
+<area shape="rect" id="node30" href="$d4/d1b/class_p_x4_gyroscope.html#a27d736cf0d7c8c3a16add049def9ad07" title="PX4Gyroscope::set_scale" alt="" coords="1097,193,1272,219"/>
+<area shape="rect" id="node33" href="$df/d3b/class_f_x_a_s21002_c.html#a9a39517bb81e6b6208aee648ee6e259c" title="Stop automatic measurement. " alt="" coords="863,649,997,675"/>
+<area shape="rect" id="node35" href="$df/d3b/class_f_x_a_s21002_c.html#a2236f488da9f7aefe20ad10c670dc862" title="deliberately trigger an error " alt="" coords="377,605,543,631"/>
+</map>

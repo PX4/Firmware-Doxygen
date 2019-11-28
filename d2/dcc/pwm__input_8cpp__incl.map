@@ -1,22 +1,18 @@
 <map id="src/drivers/pwm_input/pwm_input.cpp" name="src/drivers/pwm_input/pwm_input.cpp">
-<area shape="rect" id="node2" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="1020,319,1116,345"/>
-<area shape="rect" id="node17" href="$dc/d43/drv__pwm__input_8h.html" title="drivers/drv_pwm_input.h" alt="" coords="1665,319,1829,345"/>
-<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1413,319,1529,345"/>
-<area shape="rect" id="node21" href="$dd/d5c/drv__range__finder_8h.html" title="drivers/drv_range_finder.h" alt="" coords="211,169,383,196"/>
-<area shape="rect" id="node29" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="339,319,435,345"/>
-<area shape="rect" id="node37" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1763,95,1871,121"/>
-<area shape="rect" id="node38" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1141,393,1251,420"/>
-<area shape="rect" id="node39" href="$d0/db7/pwm__input_8h.html" title="uORB/topics/pwm_input.h" alt="" coords="1258,244,1433,271"/>
-<area shape="rect" id="node40" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="871,95,1027,121"/>
-<area shape="rect" id="node48" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="625,543,797,569"/>
-<area shape="rect" id="node20" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1427,393,1514,420"/>
-<area shape="rect" id="node24" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="337,244,434,271"/>
-<area shape="rect" id="node30" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="245,393,349,420"/>
-<area shape="rect" id="node25" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="747,468,850,495"/>
-<area shape="rect" id="node26" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="879,543,958,569"/>
-<area shape="rect" id="node41" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="703,244,791,271"/>
-<area shape="rect" id="node46" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="909,169,990,196"/>
-<area shape="rect" id="node42" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="822,319,914,345"/>
-<area shape="rect" id="node43" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="941,393,1035,420"/>
-<area shape="rect" id="node47" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="815,244,979,271"/>
+<area shape="rect" id="node18" href="$dc/d43/drv__pwm__input_8h.html" title="drivers/drv_pwm_input.h" alt="" coords="363,177,527,203"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="603,177,719,203"/>
+<area shape="rect" id="node22" href="$dd/d5c/drv__range__finder_8h.html" title="drivers/drv_range_finder.h" alt="" coords="998,177,1170,203"/>
+<area shape="rect" id="node26" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="1208,355,1304,382"/>
+<area shape="rect" id="node34" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1423,95,1531,121"/>
+<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="795,177,904,203"/>
+<area shape="rect" id="node38" href="$d0/db7/pwm__input_8h.html" title="uORB/topics/pwm_input.h" alt="" coords="890,95,1065,121"/>
+<area shape="rect" id="node39" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="2454,95,2610,121"/>
+<area shape="rect" id="node45" href="$dd/d52/drivers_2device_2ringbuffer_8h.html" title="drivers/device/ringbuffer.h" alt="" coords="2155,95,2327,121"/>
+<area shape="rect" id="node49" href="$d4/deb/timer__registers_8h.html" title="Get architecture&#45;specific timer register defines. " alt="" coords="2353,266,2471,293"/>
+<area shape="rect" id="node24" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="1035,266,1133,293"/>
+<area shape="rect" id="node27" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="861,437,965,464"/>
+<area shape="rect" id="node40" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="2496,266,2584,293"/>
+<area shape="rect" id="node42" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="CDev.hpp" alt="" coords="2581,177,2662,203"/>
+<area shape="rect" id="node43" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="2659,266,2789,293"/>
+<area shape="rect" id="node44" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="2514,355,2678,382"/>
 </map>

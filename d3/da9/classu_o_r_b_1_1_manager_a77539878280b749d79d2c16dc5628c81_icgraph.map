@@ -1,51 +1,51 @@
 <map id="uORB::Manager::orb_unsubscribe" name="uORB::Manager::orb_unsubscribe">
-<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="196,200,339,242"/>
-<area shape="rect" id="node13" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="399,1330,517,1357"/>
-<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="408,208,508,234"/>
-<area shape="rect" id="node12" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="387,157,529,184"/>
-<area shape="rect" id="node4" href="$d2/da9/class_t_a_p___e_s_c.html#afb50b959b4ca3467d5e4fa7676e9459e" title="Initialise the driver and make it ready for use. " alt="" coords="633,258,741,285"/>
-<area shape="rect" id="node5" href="$d7/d56/class_p_w_m_sim.html#aed1047e5bd8fbe7d9f4688ada2639001" title="PWMSim::run" alt="" coords="893,829,997,856"/>
-<area shape="rect" id="node6" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="845,1570,1044,1597"/>
-<area shape="rect" id="node7" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="635,157,739,184"/>
-<area shape="rect" id="node8" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="897,2013,993,2040"/>
-<area shape="rect" id="node9" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="599,208,776,234"/>
-<area shape="rect" id="node10" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="591,309,783,336"/>
-<area shape="rect" id="node11" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="609,360,765,402"/>
-<area shape="rect" id="node14" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#af38558670f37553c5ee68fd9b89c23fb" title="add a logged topic (called by add_topic() above). " alt="" coords="621,2188,754,2230"/>
-<area shape="rect" id="node15" href="$d4/d96/namespace_preflight.html#ac465ae7e024f50dfb37d96549cd19749" title="Preflight::airspeedCheck" alt="" coords="605,2254,770,2281"/>
-<area shape="rect" id="node16" href="$d7/da9/calibration__routines_8h.html#a3f6db5e89441eea161ef16486c6d3778" title="Called to cancel the subscription to the cancel command. " alt="" coords="591,2406,784,2433"/>
-<area shape="rect" id="node17" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="875,2356,1015,2398"/>
-<area shape="rect" id="node18" href="$d0/db5/accelerometer__calibration_8h.html#ad01f28350f810d176a4ae4bc4e9fa81f" title="do_accel_calibration" alt="" coords="1092,2334,1232,2361"/>
-<area shape="rect" id="node19" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="877,2432,1012,2458"/>
-<area shape="rect" id="node20" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="883,2500,1006,2526"/>
-<area shape="rect" id="node21" href="$d0/daf/classsensors_1_1_r_c_update.html#aad06803e836cb37b96408afe8d378296" title="deinitialize the object (we cannot use the destructor because it is called on the wrong thread) ..." alt="" coords="614,2006,761,2047"/>
-<area shape="rect" id="node22" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a4639a6c2f2225b751db9f4b996271f91" title="deinitialize the object (we cannot use the destructor because it is called on the wrong thread) ..." alt="" coords="587,2071,787,2112"/>
-<area shape="rect" id="node23" href="$d1/d14/esc__calibration_8h.html#a076fa55d1c50ba98926631180977e012" title="do_esc_calibration" alt="" coords="622,2558,753,2585"/>
-<area shape="rect" id="node24" href="$d4/d96/namespace_preflight.html#a6a535359aa153b1e81c87c49248b364e" title="Preflight::ekf2Check" alt="" coords="617,426,758,453"/>
-<area shape="rect" id="node25" href="$d4/df0/class_tone_alarm.html#af8798dde809dba04968d935c81cc0dda" title="ToneAlarm::frequency\l_to_divisor" alt="" coords="612,478,763,519"/>
-<area shape="rect" id="node26" href="$d4/dcf/frsky__data_8h.html#a86a357662ce8d12e80f642db0e088563" title="frsky_deinit" alt="" coords="643,544,732,570"/>
-<area shape="rect" id="node27" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acc30d4d61446e654c8705b4fec893741" title="Get the time for log file name. " alt="" coords="621,595,754,636"/>
-<area shape="rect" id="node28" href="$d7/d24/gpio__led_8c.html#a3da6f4b2b954c147c25eb1c69f63fc7a" title="gpio_led_cycle" alt="" coords="633,661,741,688"/>
-<area shape="rect" id="node29" href="$d4/d96/namespace_preflight.html#a972abdfd2aa8e7c94c50fadf19c6afa6" title="Preflight::imuConsistency\lCheck" alt="" coords="601,712,773,754"/>
-<area shape="rect" id="node30" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#a8a188dd993943a248cb35bc551fd7413" title="Main loop function. " alt="" coords="616,778,759,805"/>
-<area shape="rect" id="node31" href="$df/de8/class_r_g_b_l_e_d.html#a7ad849430836d59b169fdce79373abc3" title="Main loop function. " alt="" coords="636,1672,739,1698"/>
-<area shape="rect" id="node32" href="$d1/d61/topic__listener_8hpp.html#a18c2e98c28fe8cd535a8c845d2e76671" title="listener" alt="" coords="655,1032,719,1058"/>
-<area shape="rect" id="node33" href="$d4/d96/namespace_preflight.html#ac02cd96701d55c4313e7ffcb7d3c150c" title="Preflight::magConsistency\lCheck" alt="" coords="599,1083,775,1124"/>
-<area shape="rect" id="node34" href="$df/d1f/class_mavlink.html#ad703164ffb6c5834e2a76d305b93e1cb" title="Mavlink::mavlink_open_uart" alt="" coords="595,1149,779,1176"/>
-<area shape="rect" id="node35" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a60d203d745cbb723e2c41648b3069d42" title="called when exiting the main replay loop " alt="" coords="577,1200,797,1226"/>
-<area shape="rect" id="node36" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="627,1621,747,1648"/>
-<area shape="rect" id="node37" href="$db/d2b/class_attitude_estimator_q.html#a8e0bb94a5396b03d79a39aaee77cd142" title="AttitudeEstimatorQ\l::task_main" alt="" coords="878,1668,1011,1710"/>
-<area shape="rect" id="node38" href="$d4/d96/namespace_preflight.html#a4312d608e3abcec89d94d0345aecc890" title="Preflight::powerCheck" alt="" coords="612,1250,763,1277"/>
-<area shape="rect" id="node39" href="$d5/d94/class_uavcan_node.html#a1e9be239043a69bbe61662b21ec9e511" title="UavcanNode::print_info" alt="" coords="608,1301,767,1328"/>
-<area shape="rect" id="node40" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abb514aef37c3ad8c88e795fb4c4eca08" title="uORBTest::UnitTest\l::pubsublatency_main" alt="" coords="613,1352,762,1394"/>
-<area shape="rect" id="node41" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="608,1418,767,1445"/>
-<area shape="rect" id="node42" href="$d1/d58/class_g_p_s.html#a52498a258feaecacc37c22365971b6c5" title="GPS::run" alt="" coords="649,1520,725,1546"/>
-<area shape="rect" id="node43" href="$d5/d94/class_uavcan_node.html#aa5f18742853ca1adad2e98067f0806d7" title="UavcanNode::run" alt="" coords="883,981,1007,1008"/>
-<area shape="rect" id="node44" href="$d8/d65/s_port__data_8h.html#acb7067cfc75a83ef757b6d24b490a85e" title="sPort_deinit" alt="" coords="642,1773,733,1800"/>
-<area shape="rect" id="node45" href="$d5/d94/class_uavcan_node.html#afd5f172faafa2f8df4562c4995c61aa4" title="UavcanNode::subscribe" alt="" coords="606,981,769,1008"/>
-<area shape="rect" id="node46" href="$d7/d56/class_p_w_m_sim.html#a61ef9757ae29c7cc880fb0ade76d2ca3" title="PWMSim::subscribe" alt="" coords="616,880,759,906"/>
-<area shape="rect" id="node47" href="$df/d64/class_p_x4_f_m_u.html#a427f03adac69358868f8a78e9c5487e1" title="PX4FMU::subscribe" alt="" coords="617,1824,757,1850"/>
-<area shape="rect" id="node48" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="609,1875,766,1916"/>
-<area shape="rect" id="node49" href="$d5/d94/class_uavcan_node.html#aaa11d6971ea44b8e9a51c58dae73f8ba" title="UavcanNode::teardown" alt="" coords="608,1469,767,1496"/>
-<area shape="rect" id="node50" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a8bfd6340987229d4da1efdbd07410c3c" title="uORBTest::UnitTest\l::test_multi" alt="" coords="616,1940,759,1982"/>
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="196,355,339,396"/>
+<area shape="rect" id="node18" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="399,1439,517,1466"/>
+<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="408,362,508,389"/>
+<area shape="rect" id="node17" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="387,311,529,338"/>
+<area shape="rect" id="node4" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="607,391,767,418"/>
+<area shape="rect" id="node5" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="611,5,764,47"/>
+<area shape="rect" id="node6" href="$d0/d45/class_b_a_t_t___s_m_b_u_s.html#ac05e2098a73330dc07e906adbd536e57" title="BATT_SMBUS::BATT_SMBUS" alt="" coords="583,71,791,98"/>
+<area shape="rect" id="node7" href="$dc/d86/class_camera_trigger.html#a411b94222981a429df75cae512b02b47" title="Constructor. " alt="" coords="586,122,789,149"/>
+<area shape="rect" id="node8" href="$d1/d78/class_p_x4_f_l_o_w.html#a2f05ba066d011f6dabd82362b69e3f71" title="PX4FLOW::collect" alt="" coords="622,173,753,199"/>
+<area shape="rect" id="node9" href="$d3/de0/class_muorb_test_example.html#a72bc5988dfea86bfe367c9aeb6be7eba" title="MuorbTestExample::DefaultTest" alt="" coords="582,223,793,250"/>
+<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a7583752832ccb36376b764b15274fd9f" title="PX4FMU::fake" alt="" coords="633,274,742,301"/>
+<area shape="rect" id="node11" href="$d2/da9/class_t_a_p___e_s_c.html#afb50b959b4ca3467d5e4fa7676e9459e" title="TAP_ESC::init" alt="" coords="633,509,741,535"/>
+<area shape="rect" id="node12" href="$d4/dc6/classlinux__sbus_1_1_rc_input.html#ac12a9f03c7238ee6b2a0c2bb34f99513" title="linux_sbus::RcInput\l::init" alt="" coords="618,325,757,367"/>
+<area shape="rect" id="node13" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="599,559,776,586"/>
+<area shape="rect" id="node14" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="591,610,783,637"/>
+<area shape="rect" id="node15" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="609,661,765,703"/>
+<area shape="rect" id="node16" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ae65efeb834b878160d6089e96b754b34" title="uORBTest::UnitTest\l::test_single" alt="" coords="616,443,759,484"/>
+<area shape="rect" id="node19" href="$d7/da9/calibration__routines_8h.html#a3f6db5e89441eea161ef16486c6d3778" title="Called to cancel the subscription to the cancel command. " alt="" coords="591,1246,784,1273"/>
+<area shape="rect" id="node20" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="872,1148,1012,1189"/>
+<area shape="rect" id="node21" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="875,1235,1009,1262"/>
+<area shape="rect" id="node22" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="881,1297,1003,1323"/>
+<area shape="rect" id="node23" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a4639a6c2f2225b751db9f4b996271f91" title="deinitialize the object (we cannot use the destructor because it is called on the wrong thread) ..." alt="" coords="587,1348,787,1389"/>
+<area shape="rect" id="node24" href="$d1/d61/topic__listener_8hpp.html#ab28c68a0832274fda2cd18a00c5849f6" title="listener" alt="" coords="655,1414,719,1441"/>
+<area shape="rect" id="node25" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a60d203d745cbb723e2c41648b3069d42" title="called when exiting the main replay loop " alt="" coords="577,1465,797,1491"/>
+<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="627,1515,747,1542"/>
+<area shape="rect" id="node27" href="$da/d31/class_camera_feedback.html#a232b807d193a28e11fd2c73e35f7440a" title="CameraFeedback::task_main" alt="" coords="845,1541,1039,1567"/>
+<area shape="rect" id="node28" href="$dd/dd1/class_simulator.html#aaae0270ebeeafef5434d496c9f4263f5" title="Simulator::poll_for\l_MAVLink_messages" alt="" coords="613,1617,762,1659"/>
+<area shape="rect" id="node29" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abb514aef37c3ad8c88e795fb4c4eca08" title="uORBTest::UnitTest\l::pubsublatency_main" alt="" coords="613,1683,762,1724"/>
+<area shape="rect" id="node30" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a1c8b2b68441e61d7c460efe94617b3c4" title="uORB::SubscriptionCallback\l::registerCallback" alt="" coords="593,1748,782,1789"/>
+<area shape="rect" id="node31" href="$d7/d28/class_sih.html#a50305f3a277e16908d0866e1e3f33a1f" title="Sih::run" alt="" coords="654,1814,721,1841"/>
+<area shape="rect" id="node32" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="601,1865,773,1891"/>
+<area shape="rect" id="node33" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="608,1915,767,1942"/>
+<area shape="rect" id="node34" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="609,1967,766,2008"/>
+<area shape="rect" id="node35" href="$d2/dba/class_robo_claw.html#a820fece7896338301c92ff889f4954ef" title="RoboClaw::taskMain" alt="" coords="615,2033,759,2059"/>
+<area shape="rect" id="node36" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a8bfd6340987229d4da1efdbd07410c3c" title="uORBTest::UnitTest\l::test_multi" alt="" coords="616,2084,759,2125"/>
+<area shape="rect" id="node37" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abfc30f90e08ea47fe206cc249e505728" title="uORBTest::UnitTest\l::test_multi2" alt="" coords="616,2149,759,2191"/>
+<area shape="rect" id="node38" href="$d5/d69/tests__main_8h.html#a725dfdff6b4ba33b5204f7d6645d7ed3" title="test_rc" alt="" coords="656,2215,719,2242"/>
+<area shape="rect" id="node39" href="$da/d17/classevents_1_1_subscriber_handler.html#a544a97fbb605001efea7d11eb7d5376c" title="events::SubscriberHandler\l::unsubscribe" alt="" coords="599,2267,775,2308"/>
+<area shape="rect" id="node40" href="$d3/d11/namespace_micro_bench_o_r_b.html#af01dd701f99e793d30d4d3aa213a074c" title="MicroBenchORB::ut_declare\l_test_c" alt="" coords="593,2332,781,2373"/>
+<area shape="rect" id="node41" href="$d4/d83/class_df_ltc2946_wrapper.html#a950942e7fb672e2c133002b9564e4dbb" title="DfLtc2946Wrapper::\l~DfLtc2946Wrapper" alt="" coords="618,2397,757,2439"/>
+<area shape="rect" id="node42" href="$d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#a8b8b87fa8a53ba25af2ef67f38daedc2" title="vmount::InputMavlinkCmdMount\l::~InputMavlinkCmdMount" alt="" coords="582,2463,793,2504"/>
+<area shape="rect" id="node43" href="$d5/de4/classvmount_1_1_input_mavlink_r_o_i.html#a93a256b09037c4d643661f6d9786158b" title="vmount::InputMavlinkROI\l::~InputMavlinkROI" alt="" coords="602,2528,773,2569"/>
+<area shape="rect" id="node44" href="$da/d9b/classvmount_1_1_input_r_c.html#a58ad7a2ebe0e0180ce817e357f3d105a" title="vmount::InputRC::~InputRC" alt="" coords="594,727,781,754"/>
+<area shape="rect" id="node45" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a2722db27691d08f29c4f588fded1eb05" title="px4::logger::LogWriterMavlink\l::~LogWriterMavlink" alt="" coords="590,779,785,820"/>
+<area shape="rect" id="node46" href="$d0/df9/class_navigator.html#a8db71702c5c0bd92bf74e4fc03d33838" title="Navigator::~Navigator" alt="" coords="612,845,763,871"/>
+<area shape="rect" id="node47" href="$d2/d86/classvmount_1_1_output_base.html#a67948cb7d71b10bdd117ee76299a35db" title="vmount::OutputBase\l::~OutputBase" alt="" coords="616,896,759,937"/>
+<area shape="rect" id="node48" href="$d2/da9/class_t_a_p___e_s_c.html#ae1d3e5fd23543169f0bf649f06363d8c" title="TAP_ESC::~TAP_ESC" alt="" coords="607,962,767,989"/>
+<area shape="rect" id="node49" href="$df/dbf/class_temperature_calibration_accel.html#adfcdbdecd9ab161db980c7c967ad4fe9" title="TemperatureCalibrationAccel\l::~TemperatureCalibrationAccel" alt="" coords="584,1013,791,1055"/>
+<area shape="rect" id="node50" href="$da/dfb/class_temperature_calibration_baro.html#a168563c4d2f9bec378d4c8c8989e1462" title="TemperatureCalibrationBaro\l::~TemperatureCalibrationBaro" alt="" coords="587,1079,787,1120"/>
 </map>

@@ -22,5 +22,9 @@ var px4__custom__mode_8h =
       [ "PX4_CUSTOM_SUB_MODE_AUTO_RTGS", "dd/d20/px4__custom__mode_8h.html#aa5d61964104476edb329ee6dee4125d2aa115d31175dda284675a4fbcfbbbf62b", null ],
       [ "PX4_CUSTOM_SUB_MODE_AUTO_FOLLOW_TARGET", "dd/d20/px4__custom__mode_8h.html#aa5d61964104476edb329ee6dee4125d2ac081e262ec37301d4484082d4b11edf7", null ],
       [ "PX4_CUSTOM_SUB_MODE_AUTO_PRECLAND", "dd/d20/px4__custom__mode_8h.html#aa5d61964104476edb329ee6dee4125d2aa74de9e199a8e8a1000097f7f5fc3cde", null ]
+    ] ],
+    [ "PX4_CUSTOM_SUB_MODE_POSCTL", "dd/d20/px4__custom__mode_8h.html#aa01e24012ff3dfb7219d4cb5060e6be2", [
+      [ "PX4_CUSTOM_SUB_MODE_POSCTL_POSCTL", "dd/d20/px4__custom__mode_8h.html#aa01e24012ff3dfb7219d4cb5060e6be2a693f7152d66d07979376a555abae5127", null ],
+      [ "PX4_CUSTOM_SUB_MODE_POSCTL_ORBIT", "dd/d20/px4__custom__mode_8h.html#aa01e24012ff3dfb7219d4cb5060e6be2a5fb4bde474803691139edb4ba40b8fab", null ]
     ] ]
 ];

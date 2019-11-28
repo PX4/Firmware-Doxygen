@@ -1,9 +1,6 @@
 <map id="Mavlink::handle_message" name="Mavlink::handle_message">
-<area shape="rect" id="node2" href="$df/d1f/class_mavlink.html#a916dec00e7bf64836a0aad5a37aa5915" title="Mavlink::accepting\l_commands" alt="" coords="252,5,383,47"/>
-<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a5192cc84bbc63126b0a9373941a6dfda" title="Mavlink::forward_message" alt="" coords="228,71,407,98"/>
-<area shape="rect" id="node8" href="$df/d1f/class_mavlink.html#ab4be961ea22d1a46aff5ea5e6b91bbf8" title="Mavlink::get_forwarding_on" alt="" coords="227,122,408,149"/>
-<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#ac072e28c067a66b0301c90092e3995a7" title="Mavlink::pass_message" alt="" coords="456,71,619,98"/>
-<area shape="rect" id="node5" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="681,13,820,39"/>
-<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#a1c7d9b0bcbd0ba099fe6ef7958e4f527" title="Mavlink::message_buffer\l_write" alt="" coords="667,64,835,105"/>
-<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="674,130,827,157"/>
+<area shape="rect" id="node2" href="$df/d1f/class_mavlink.html#a5192cc84bbc63126b0a9373941a6dfda" title="Mavlink::forward_message" alt="" coords="228,13,407,39"/>
+<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#ab4be961ea22d1a46aff5ea5e6b91bbf8" title="Mavlink::get_forwarding_on" alt="" coords="227,63,408,90"/>
+<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#ac072e28c067a66b0301c90092e3995a7" title="Mavlink::pass_message" alt="" coords="456,13,619,39"/>
+<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#a1c7d9b0bcbd0ba099fe6ef7958e4f527" title="Mavlink::message_buffer\l_write" alt="" coords="667,5,835,47"/>
 </map>

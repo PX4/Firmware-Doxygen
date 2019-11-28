@@ -4,7 +4,7 @@ var classvmount_1_1_output_base =
     [ "~OutputBase", "d2/d86/classvmount_1_1_output_base.html#a67948cb7d71b10bdd117ee76299a35db", null ],
     [ "_calculate_output_angles", "d2/d86/classvmount_1_1_output_base.html#a4fedba3a144307aeff64787fc80bc370", null ],
     [ "_calculate_pitch", "d2/d86/classvmount_1_1_output_base.html#ad6de3e549ffb50a96b63010956b01bf9", null ],
-    [ "_get_vehicle_attitude_sub", "d2/d86/classvmount_1_1_output_base.html#aa4ba0482ffd20515ae273793be2cb62b", null ],
+    [ "_get_vehicle_attitude_sub", "d2/d86/classvmount_1_1_output_base.html#a55dd17591855884f308ef193cfc1face", null ],
     [ "_handle_position_update", "d2/d86/classvmount_1_1_output_base.html#a63ca320abfe9fe7e2e54be97a3bb1335", null ],
     [ "_set_angle_setpoints", "d2/d86/classvmount_1_1_output_base.html#aaa943a9994aae7562f1f4772af47d2cc", null ],
     [ "initialize", "d2/d86/classvmount_1_1_output_base.html#a64f81a30c7c74a48d7c99629e5c185f7", null ],

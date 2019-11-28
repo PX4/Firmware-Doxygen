@@ -1,0 +1,14 @@
+<map id="FlightTaskManualAltitudeSmoothVel::activate" name="FlightTaskManualAltitudeSmoothVel::activate">
+<area shape="rect" id="node2" href="$d8/d4c/class_flight_task_manual_altitude.html#a8b10a2e30bf3f117352da876f12b509c" title="Call once on the event where you switch to the task. " alt="" coords="223,216,392,257"/>
+<area shape="rect" id="node3" href="$da/dbc/class_flight_task.html#a5c435eaddd85a158eb25a793fafdbaee" title="Call once on the event where you switch to the task. " alt="" coords="440,122,577,149"/>
+<area shape="rect" id="node9" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="944,173,1045,199"/>
+<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="489,274,528,301"/>
+<area shape="rect" id="node4" href="$da/dbc/class_flight_task.html#aa18c941259721f9145d7ebb46c12db74" title="Monitor the EKF reset counters and call the appropriate handling functions in case of a reset event..." alt="" coords="653,5,823,47"/>
+<area shape="rect" id="node6" href="$da/dbc/class_flight_task.html#a46347ff9c49771017f76291832e07f0d" title="Reset all setpoints to NAN. " alt="" coords="647,71,829,98"/>
+<area shape="rect" id="node8" href="$da/dbc/class_flight_task.html#a1b7eb2b27c8c892ccf742241f0059760" title="Set constraints to default values. " alt="" coords="625,122,851,149"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="675,173,801,199"/>
+<area shape="rect" id="node5" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="899,13,1091,39"/>
+<area shape="rect" id="node7" href="$dd/df8/classmatrix_1_1_matrix.html#a4163a26330438ee8657f840c8ef13fcd" title="matrix::Matrix::setAll" alt="" coords="923,71,1066,98"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="697,274,779,301"/>
+<area shape="rect" id="node13" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="951,274,1038,301"/>
+</map>

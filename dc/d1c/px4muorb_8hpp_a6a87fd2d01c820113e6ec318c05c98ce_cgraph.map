@@ -1,30 +1,28 @@
 <map id="px4muorb_send_topic_data" name="px4muorb_send_topic_data">
-<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#af5f8631a0e81f02cc41028d931834397" title="static method to get the IChannel Implementor. " alt="" coords="254,441,418,483"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a68b7cd4bd1dfa2751d2a7ab90e7e5a0c" title="uORB::FastRpcChannel\l::GetRxHandler" alt="" coords="254,507,418,548"/>
-<area shape="rect" id="node29" href="$d2/d1e/classu_o_r_b_communicator_1_1_i_channel_rx_handler.html#a9fbd88a46229eaf6acb13d3724a2c6f7" title="Interface to process the received data message. " alt="" coords="235,571,437,627"/>
-<area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a6e490f58333a8ca311d57bab2c66f5ab" title="Interface to notify the remote entity of a topic being advertised. " alt="" coords="485,475,649,516"/>
-<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a778a284049f6d120811242b8a3b1d4f9" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="485,540,649,581"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a3a0107ae360d89ff8192fbfcf1d25531" title="Interface to notify the remote entity of interest of a subscription for a message. " alt="" coords="485,279,649,320"/>
-<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#af464d969c3d2dc178832d6600e000a8b" title="Interface to notify the remote entity of removal of a subscription. " alt="" coords="485,344,649,385"/>
-<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a25caf0f7ee47f1dc07fe73d471b9d9ec" title="Register Message Handler. " alt="" coords="485,409,649,451"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a94fc789ac1c109d9dc41cb71ec0515ac" title="Sends the data message over the communication link. " alt="" coords="707,220,871,261"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a7d1168ebb8f037667910c0f0ed387766" title="uORB::FastRpcChannel\l::get_data" alt="" coords="485,605,649,647"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a24a7424bec1ba2856b610e327681ad2f" title="uORB::FastRpcChannel\l::get_bulk_data" alt="" coords="707,761,871,803"/>
-<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#aa61c8e861283bc75efbd1dacd83b6bc7" title="uORB::FastRpcChannel\l::is_subscriber_present" alt="" coords="485,671,649,712"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#ac23366447b0fccead56a515d216129b5" title="uORB::FastRpcChannel\l::unblock_get_data_method" alt="" coords="697,80,880,121"/>
-<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a781646f7ca48f4f1ff357ff2acd8590e" title="uORB::FastRpcChannel\l::control_msg_queue_add" alt="" coords="703,475,874,516"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="953,551,1078,578"/>
-<area shape="rect" id="node6" href="$db/d29/classu_o_r_b_1_1_fast_rpc_channel_1_1_mutex.html#a43da40c5cfea5ba78f530ddbef3ce309" title="uORB::FastRpcChannel\l::Mutex::lock" alt="" coords="933,704,1097,745"/>
-<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a4ce810ae3b5e82fe19f866bd8b4c0906" title="uORB::FastRpcChannel\l::IsControlQFull" alt="" coords="933,435,1097,476"/>
-<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a1dec325440492af5d34f7eb466f678ac" title="uORB::FastRpcChannel\l::ControlQSize" alt="" coords="1151,493,1315,535"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a71e0ac97f07f9d3a0e7cc853099d8f4e" title="uORB::FastRpcChannel\l::DataQSize" alt="" coords="1151,376,1315,417"/>
-<area shape="rect" id="node11" href="$d4/d5e/classu_o_r_b_1_1_fast_rpc_channel_1_1_semaphore.html#aeee6407cb3d0d02d12a3f9153cff571b" title="uORB::FastRpcChannel\l::Semaphore::post" alt="" coords="933,5,1097,47"/>
-<area shape="rect" id="node13" href="$db/d29/classu_o_r_b_1_1_fast_rpc_channel_1_1_mutex.html#abf8e4072fa4822473c25272cc38e1d42" title="uORB::FastRpcChannel\l::Mutex::unlock" alt="" coords="933,317,1097,359"/>
-<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#aad70020dca2241a2b78e272ca033271b" title="sem_wait" alt="" coords="1193,861,1272,887"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a015dce85cab8477c679cc47968958247" title="sem_post" alt="" coords="1193,169,1272,195"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a908df95ab5c06423cf967faae03a92e1" title="uORB::FastRpcChannel\l::IsDataQFull" alt="" coords="933,149,1097,191"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a4ab7ec638abc1c739fc7158b1d3a940e" title="uORB::FastRpcChannel\l::check_and_expand_data\l_buffer" alt="" coords="928,70,1103,126"/>
-<area shape="rect" id="node22" href="$d4/d5e/classu_o_r_b_1_1_fast_rpc_channel_1_1_semaphore.html#a1a3cf7a74fc1216e69508d50f8709b60" title="uORB::FastRpcChannel\l::Semaphore::wait" alt="" coords="933,1003,1097,1044"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a7a4164a4b24486ce36753543afd2b3d6" title="uORB::FastRpcChannel\l::get_msg_size_at" alt="" coords="933,872,1097,913"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#aae3c373e2b9dbba42688caa773afc823" title="uORB::FastRpcChannel\l::copy_msg_to_buffer" alt="" coords="933,937,1097,979"/>
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#af5f8631a0e81f02cc41028d931834397" title="static method to get the IChannel Implementor. " alt="" coords="254,462,418,503"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a68b7cd4bd1dfa2751d2a7ab90e7e5a0c" title="uORB::FastRpcChannel\l::GetRxHandler" alt="" coords="254,527,418,569"/>
+<area shape="rect" id="node27" href="$d2/d1e/classu_o_r_b_communicator_1_1_i_channel_rx_handler.html#a9fbd88a46229eaf6acb13d3724a2c6f7" title="Interface to process the received data message. " alt="" coords="235,593,437,649"/>
+<area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a6e490f58333a8ca311d57bab2c66f5ab" title="Interface to notify the remote entity of a topic being advertised. " alt="" coords="485,494,649,535"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a778a284049f6d120811242b8a3b1d4f9" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="485,559,649,601"/>
+<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a3a0107ae360d89ff8192fbfcf1d25531" title="Interface to notify the remote entity of interest of a subscription for a message. " alt="" coords="485,298,649,339"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#af464d969c3d2dc178832d6600e000a8b" title="Interface to notify the remote entity of removal of a subscription. " alt="" coords="485,363,649,405"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a25caf0f7ee47f1dc07fe73d471b9d9ec" title="Register Message Handler. " alt="" coords="485,429,649,470"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a94fc789ac1c109d9dc41cb71ec0515ac" title="Sends the data message over the communication link. " alt="" coords="707,189,871,230"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a7d1168ebb8f037667910c0f0ed387766" title="uORB::FastRpcChannel\l::get_data" alt="" coords="485,625,649,666"/>
+<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a24a7424bec1ba2856b610e327681ad2f" title="uORB::FastRpcChannel\l::get_bulk_data" alt="" coords="707,731,871,773"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#aa61c8e861283bc75efbd1dacd83b6bc7" title="uORB::FastRpcChannel\l::is_subscriber_present" alt="" coords="485,690,649,731"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#ac23366447b0fccead56a515d216129b5" title="uORB::FastRpcChannel\l::unblock_get_data_method" alt="" coords="697,254,880,295"/>
+<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a781646f7ca48f4f1ff357ff2acd8590e" title="uORB::FastRpcChannel\l::control_msg_queue_add" alt="" coords="703,494,874,535"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="953,604,1078,631"/>
+<area shape="rect" id="node6" href="$db/d29/classu_o_r_b_1_1_fast_rpc_channel_1_1_mutex.html#a43da40c5cfea5ba78f530ddbef3ce309" title="uORB::FastRpcChannel\l::Mutex::lock" alt="" coords="933,655,1097,697"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a4ce810ae3b5e82fe19f866bd8b4c0906" title="uORB::FastRpcChannel\l::IsControlQFull" alt="" coords="933,473,1097,514"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a1dec325440492af5d34f7eb466f678ac" title="uORB::FastRpcChannel\l::ControlQSize" alt="" coords="1151,473,1315,514"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a71e0ac97f07f9d3a0e7cc853099d8f4e" title="uORB::FastRpcChannel\l::DataQSize" alt="" coords="1151,313,1315,354"/>
+<area shape="rect" id="node10" href="$d4/d5e/classu_o_r_b_1_1_fast_rpc_channel_1_1_semaphore.html#aeee6407cb3d0d02d12a3f9153cff571b" title="uORB::FastRpcChannel\l::Semaphore::post" alt="" coords="933,254,1097,295"/>
+<area shape="rect" id="node11" href="$db/d29/classu_o_r_b_1_1_fast_rpc_channel_1_1_mutex.html#abf8e4072fa4822473c25272cc38e1d42" title="uORB::FastRpcChannel\l::Mutex::unlock" alt="" coords="933,538,1097,579"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a908df95ab5c06423cf967faae03a92e1" title="uORB::FastRpcChannel\l::IsDataQFull" alt="" coords="933,137,1097,178"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a4ab7ec638abc1c739fc7158b1d3a940e" title="uORB::FastRpcChannel\l::check_and_expand_data\l_buffer" alt="" coords="928,5,1103,61"/>
+<area shape="rect" id="node20" href="$d4/d5e/classu_o_r_b_1_1_fast_rpc_channel_1_1_semaphore.html#a1a3cf7a74fc1216e69508d50f8709b60" title="uORB::FastRpcChannel\l::Semaphore::wait" alt="" coords="933,954,1097,995"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#a7a4164a4b24486ce36753543afd2b3d6" title="uORB::FastRpcChannel\l::get_msg_size_at" alt="" coords="933,823,1097,865"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_fast_rpc_channel.html#aae3c373e2b9dbba42688caa773afc823" title="uORB::FastRpcChannel\l::copy_msg_to_buffer" alt="" coords="933,889,1097,930"/>
 </map>

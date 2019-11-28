@@ -1,16 +1,8 @@
 <map id="MS5611::measure" name="MS5611::measure">
-<area shape="rect" id="node2" href="$d3/d05/class_m_s5611.html#a3d00f84eaea5b05ce0d091c4869a880d" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="181,31,291,57"/>
-<area shape="rect" id="node11" href="$d3/d05/class_m_s5611.html#a6ec45990defdae23baf1601542d28f84" title="Initialise the driver and make it ready for use. " alt="" coords="189,107,283,133"/>
-<area shape="rect" id="node15" href="$d3/d05/class_m_s5611.html#aeb1e1bd72db7ec4fef7f7ca7768507b7" title="MS5611::read" alt="" coords="375,159,478,185"/>
-<area shape="rect" id="node3" href="$d3/d05/class_m_s5611.html#aa85acda4207dba4181d21ad714dc9643" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="339,5,515,32"/>
-<area shape="rect" id="node4" href="$d3/d05/class_m_s5611.html#a73489d66c4254679b121e6f2d8fb89de" title="Initialize the automatic measurement state machine and start it. " alt="" coords="565,45,707,72"/>
-<area shape="rect" id="node5" href="$d3/d05/class_m_s5611.html#a6f6fdb62428ce01d2195130a5de2bc35" title="MS5611::ioctl" alt="" coords="793,49,896,76"/>
-<area shape="rect" id="node6" href="$d3/dc7/namespacems5611.html#a4717a95178efd50d9d0efc8f15135359" title="Reset the driver. " alt="" coords="1159,24,1264,51"/>
-<area shape="rect" id="node8" href="$d3/dc7/namespacems5611.html#a926b4a339f3649acda5f1c04b02cb839" title="Start the driver. " alt="" coords="980,75,1111,101"/>
-<area shape="rect" id="node10" href="$d3/dc7/namespacems5611.html#a8e0014cf9c727e677fdf69c14bdb7357" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="996,125,1095,152"/>
-<area shape="rect" id="node7" href="$d6/d17/ms5611_8cpp.html#a474bbd40796cd12079028755442106bb" title="ms5611_main" alt="" coords="1312,75,1415,101"/>
-<area shape="rect" id="node9" href="$d3/dc7/namespacems5611.html#ad526e3f3c328c5d6e40ceecb149e8f76" title="Start the driver. " alt="" coords="1160,75,1263,101"/>
-<area shape="rect" id="node12" href="$d4/d4a/class_df_m_s5611_wrapper.html#a51007c0bfa2a97abd646152500a8d4fd" title="Start automatic measurement. " alt="" coords="343,107,510,133"/>
-<area shape="rect" id="node13" href="$d4/d93/namespacedf__ms5611__wrapper.html#a3e157f7b329ad42d7d531a5cdff247bb" title="Attempt to start driver on all available I2C busses. " alt="" coords="563,97,709,138"/>
-<area shape="rect" id="node14" href="$d4/d7c/df__ms5611__wrapper_8cpp.html#a97ae2d30aacfc3f36a5046951c1a08a1" title="df_ms5611_wrapper_main" alt="" coords="757,104,932,131"/>
+<area shape="rect" id="node2" href="$d3/d05/class_m_s5611.html#a6ec45990defdae23baf1601542d28f84" title="MS5611::init" alt="" coords="185,13,280,39"/>
+<area shape="rect" id="node6" href="$d3/d05/class_m_s5611.html#a6a27ba57e8a43f7623eb3751ac0c2678" title="Perform a read from the device. " alt="" coords="181,63,284,90"/>
+<area shape="rect" id="node7" href="$d3/d05/class_m_s5611.html#a9a58c0ac10e8f00132e12a50ba69908e" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="181,114,284,141"/>
+<area shape="rect" id="node3" href="$d4/d4a/class_df_m_s5611_wrapper.html#a51007c0bfa2a97abd646152500a8d4fd" title="Start automatic measurement. " alt="" coords="332,13,499,39"/>
+<area shape="rect" id="node4" href="$d4/d93/namespacedf__ms5611__wrapper.html#a3e157f7b329ad42d7d531a5cdff247bb" title="Attempt to start driver on all available I2C busses. " alt="" coords="547,5,693,47"/>
+<area shape="rect" id="node5" href="$d4/d7c/df__ms5611__wrapper_8cpp.html#a97ae2d30aacfc3f36a5046951c1a08a1" title="df_ms5611_wrapper_main" alt="" coords="741,13,916,39"/>
 </map>

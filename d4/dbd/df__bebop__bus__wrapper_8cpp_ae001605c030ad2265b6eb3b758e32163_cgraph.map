@@ -1,51 +1,51 @@
 <map id="df_bebop_bus_wrapper_main" name="df_bebop_bus_wrapper_main">
-<area shape="rect" id="node2" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a060be2133a19c83e360f7a8aef6d7c06" title="Clear errors present on the Bebop hardware. " alt="" coords="244,5,400,47"/>
-<area shape="rect" id="node4" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#aa3ef8bde8a0028313c2ed60be71e6b07" title="Print a little info about the driver. " alt="" coords="244,71,400,112"/>
-<area shape="rect" id="node6" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a7615c7915d99b5c00fbb62b071635766" title="Attempt to start driver on all available I2C busses. " alt="" coords="244,231,400,272"/>
-<area shape="rect" id="node47" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#ad9ad264db744a488a36ef23d90f156f9" title="Stop the driver. " alt="" coords="244,799,400,840"/>
-<area shape="rect" id="node50" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a71b4e63444348a7922f70f07c7aeedc9" title="Prints info about the driver argument usage. " alt="" coords="244,864,400,905"/>
-<area shape="rect" id="node3" href="$d6/d61/class_df_bebop_bus_wrapper.html#a8f4a89c83d22851107f70de0b11dc5e1" title="Reset pending errors on the Bebop hardware. " alt="" coords="461,5,614,47"/>
-<area shape="rect" id="node5" href="$d6/d61/class_df_bebop_bus_wrapper.html#a7324111118d8d6dd76e4ec439cb0d9bb" title="Print various infos (version, type, flights, errors. " alt="" coords="461,71,614,112"/>
-<area shape="rect" id="node7" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac4ddc0aa6a774b85ddd570cc708fe42b" title="DfBebopBusWrapper::\lDfBebopBusWrapper" alt="" coords="461,136,614,177"/>
-<area shape="rect" id="node8" href="$d6/d61/class_df_bebop_bus_wrapper.html#ae68411f0fe3afb3e86ed6644bc5ab45c" title="Start and initialize the driver. " alt="" coords="461,201,614,243"/>
-<area shape="rect" id="node12" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="892,267,1044,294"/>
-<area shape="rect" id="node17" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="459,700,615,741"/>
-<area shape="rect" id="node9" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="709,166,797,193"/>
-<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="729,217,777,243"/>
-<area shape="rect" id="node10" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="905,166,1031,193"/>
-<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="927,217,1009,243"/>
-<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="1125,166,1263,193"/>
-<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1155,217,1233,243"/>
-<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1167,267,1221,294"/>
-<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="701,682,804,709"/>
-<area shape="rect" id="node21" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a66595c5ccff4635ad57a9a620ee54ae5" title="df_bebop_bus_wrapper\l::initialize_mixers" alt="" coords="675,1012,831,1053"/>
-<area shape="rect" id="node23" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1175,954,1213,981"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="717,1179,788,1206"/>
-<area shape="rect" id="node30" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="938,1306,998,1333"/>
-<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="715,631,790,658"/>
-<area shape="rect" id="node33" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="693,318,812,345"/>
-<area shape="rect" id="node35" href="$d6/d61/class_df_bebop_bus_wrapper.html#a0f32455b95ef17380e02617cfddd7fd6" title="Capture the last throttle value for the battey computation. " alt="" coords="676,369,829,411"/>
-<area shape="rect" id="node36" href="$d6/d61/class_df_bebop_bus_wrapper.html#a0aee215343cd44ba7f2caaee04e8cc0d" title="Set the ESC speeds [front left, front right, back right, back left]. " alt="" coords="676,435,829,476"/>
-<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="709,733,797,759"/>
-<area shape="rect" id="node39" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="703,783,803,810"/>
-<area shape="rect" id="node43" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="711,885,794,911"/>
-<area shape="rect" id="node44" href="$d6/d61/class_df_bebop_bus_wrapper.html#add116d97adf46a7bb9ed87b01cc7eda8" title="Start the motors. " alt="" coords="676,500,829,541"/>
-<area shape="rect" id="node45" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac8226ca54de1fd5f45345cb940b8bc7b" title="Stop the motors. " alt="" coords="676,565,829,607"/>
-<area shape="rect" id="node46" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="694,834,811,861"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="897,703,1039,744"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1123,628,1265,669"/>
-<area shape="rect" id="node22" href="$db/def/mixer__load_8c.html#a602ebf0e58595c0a7e1a1553969b4fa8" title="load_mixer_file" alt="" coords="913,986,1023,1013"/>
-<area shape="rect" id="node24" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#aa877f7fd5a42c566d29a3dc1d7df90c6" title="df_bebop_bus_wrapper\l::mixers_control_callback" alt="" coords="883,1037,1053,1079"/>
-<area shape="rect" id="node25" href="$d9/dbb/class_mixer_group.html#a7bd735772388a8b1d9f4cc41dd8ec7d1" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="879,1103,1057,1130"/>
-<area shape="rect" id="node27" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="931,1154,1005,1181"/>
-<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="903,1205,1033,1231"/>
-<area shape="rect" id="node29" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="921,1255,1015,1282"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1105,567,1283,594"/>
-<area shape="rect" id="node34" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="927,318,1009,345"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1123,713,1265,755"/>
-<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="897,768,1039,809"/>
-<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1123,789,1265,831"/>
-<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1123,867,1265,908"/>
-<area shape="rect" id="node48" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac135c51227119b3c878e4e157444dfe8" title="Stop the driver. " alt="" coords="448,1331,627,1358"/>
-<area shape="rect" id="node49" href="$d6/d47/dataman_8cpp.html#acc7baf226fbd7801b4118c7a009ff257" title="stop" alt="" coords="729,1331,776,1358"/>
+<area shape="rect" id="node2" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a060be2133a19c83e360f7a8aef6d7c06" title="Clear errors present on the Bebop hardware. " alt="" coords="244,367,400,409"/>
+<area shape="rect" id="node4" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#aa3ef8bde8a0028313c2ed60be71e6b07" title="Print a little info about the driver. " alt="" coords="244,433,400,474"/>
+<area shape="rect" id="node6" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a7615c7915d99b5c00fbb62b071635766" title="Attempt to start driver on all available I2C busses. " alt="" coords="244,531,400,573"/>
+<area shape="rect" id="node47" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#ad9ad264db744a488a36ef23d90f156f9" title="Stop the driver. " alt="" coords="244,597,400,638"/>
+<area shape="rect" id="node50" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a71b4e63444348a7922f70f07c7aeedc9" title="Prints info about the driver argument usage. " alt="" coords="244,662,400,703"/>
+<area shape="rect" id="node3" href="$d6/d61/class_df_bebop_bus_wrapper.html#a8f4a89c83d22851107f70de0b11dc5e1" title="Reset pending errors on the Bebop hardware. " alt="" coords="461,367,614,409"/>
+<area shape="rect" id="node5" href="$d6/d61/class_df_bebop_bus_wrapper.html#a7324111118d8d6dd76e4ec439cb0d9bb" title="Print various infos (version, type, flights, errors. " alt="" coords="461,433,614,474"/>
+<area shape="rect" id="node7" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac4ddc0aa6a774b85ddd570cc708fe42b" title="DfBebopBusWrapper::\lDfBebopBusWrapper" alt="" coords="461,498,614,539"/>
+<area shape="rect" id="node8" href="$d6/d61/class_df_bebop_bus_wrapper.html#ae68411f0fe3afb3e86ed6644bc5ab45c" title="Start and initialize the driver. " alt="" coords="461,563,614,605"/>
+<area shape="rect" id="node20" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="675,622,831,663"/>
+<area shape="rect" id="node9" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="685,505,821,546"/>
+<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="729,571,777,597"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="915,143,998,169"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1145,5,1199,32"/>
+<area shape="rect" id="node13" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="1131,56,1213,83"/>
+<area shape="rect" id="node16" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="1129,107,1215,133"/>
+<area shape="rect" id="node17" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="1103,157,1241,184"/>
+<area shape="rect" id="node18" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1133,208,1211,235"/>
+<area shape="rect" id="node19" href="$df/d7b/perf__counter_8cpp.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="1135,259,1209,285"/>
+<area shape="rect" id="node14" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1379,335,1417,361"/>
+<area shape="rect" id="node15" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1535,335,1617,361"/>
+<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="905,680,1008,707"/>
+<area shape="rect" id="node24" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a66595c5ccff4635ad57a9a620ee54ae5" title="df_bebop_bus_wrapper\l::initialize_mixers" alt="" coords="879,487,1035,529"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="921,579,992,605"/>
+<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="919,913,994,940"/>
+<area shape="rect" id="node33" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="MixerGroup::mix" alt="" coords="897,411,1016,437"/>
+<area shape="rect" id="node35" href="$d6/d61/class_df_bebop_bus_wrapper.html#a0f32455b95ef17380e02617cfddd7fd6" title="Capture the last throttle value for the battey computation. " alt="" coords="880,782,1033,823"/>
+<area shape="rect" id="node36" href="$d6/d61/class_df_bebop_bus_wrapper.html#a0aee215343cd44ba7f2caaee04e8cc0d" title="Set the ESC speeds [front left, front right, back right, back left]. " alt="" coords="880,847,1033,889"/>
+<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="913,964,1001,991"/>
+<area shape="rect" id="node39" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="907,731,1007,757"/>
+<area shape="rect" id="node43" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="915,1015,998,1041"/>
+<area shape="rect" id="node44" href="$d6/d61/class_df_bebop_bus_wrapper.html#add116d97adf46a7bb9ed87b01cc7eda8" title="Start the motors. " alt="" coords="880,194,1033,235"/>
+<area shape="rect" id="node45" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac8226ca54de1fd5f45345cb940b8bc7b" title="Stop the motors. " alt="" coords="880,259,1033,301"/>
+<area shape="rect" id="node46" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="898,629,1015,656"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1101,847,1243,889"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1327,771,1469,813"/>
+<area shape="rect" id="node25" href="$db/da6/load__mixer__file_8cpp.html#a602ebf0e58595c0a7e1a1553969b4fa8" title="load_mixer_file" alt="" coords="1117,461,1227,488"/>
+<area shape="rect" id="node26" href="$d9/dbb/class_mixer_group.html#a5f745eabec06661908cbbfa7c656d0a6" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="1083,411,1261,437"/>
+<area shape="rect" id="node27" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#aa877f7fd5a42c566d29a3dc1d7df90c6" title="df_bebop_bus_wrapper\l::mixers_control_callback" alt="" coords="1087,513,1257,554"/>
+<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1135,629,1209,656"/>
+<area shape="rect" id="node30" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="1112,579,1232,605"/>
+<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1309,843,1487,869"/>
+<area shape="rect" id="node34" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="1103,360,1241,387"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1327,905,1469,946"/>
+<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="1101,782,1243,823"/>
+<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1327,694,1469,735"/>
+<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1327,991,1469,1033"/>
+<area shape="rect" id="node48" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac135c51227119b3c878e4e157444dfe8" title="Stop the driver. " alt="" coords="448,684,627,711"/>
+<area shape="rect" id="node49" href="$d6/d47/dataman_8cpp.html#acc7baf226fbd7801b4118c7a009ff257" title="stop" alt="" coords="729,688,776,715"/>
 </map>

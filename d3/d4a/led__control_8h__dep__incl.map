@@ -1,27 +1,25 @@
 <map id="build/doxygen/uORB/topics/led_control.h" name="build/doxygen/uORB/topics/led_control.h">
-<area shape="rect" id="node2" href="$d6/dee/drv__led_8h.html" title="Led device API to control the external LED(s) via uORB interface. " alt="" coords="1734,102,1874,129"/>
-<area shape="rect" id="node15" href="$df/d08/commander__helper_8cpp.html" title="Commander helper functions implementations. " alt="" coords="5,288,171,329"/>
-<area shape="rect" id="node23" href="$d6/d0c/status__display_8h.html" title="Status Display decouples LED and tunes from commander. " alt="" coords="2165,95,2301,136"/>
-<area shape="rect" id="node3" href="$d6/dd7/navio__rgbled_8cpp.html" title="src/drivers/navio_rgbled\l/navio_rgbled.cpp" alt="" coords="1807,377,1967,419"/>
-<area shape="rect" id="node4" href="$d6/d45/rgbled_8cpp.html" title="Driver for the onboard RGB LED controller (TCA62724FMG) connected via I2C. " alt="" coords="1809,288,1932,329"/>
-<area shape="rect" id="node5" href="$d2/d4d/rgbled__pwm_8cpp.html" title="Driver for the onboard RGB LED controller by PWM. " alt="" coords="2289,288,2445,329"/>
-<area shape="rect" id="node6" href="$db/da0/led_8h.html" title="Led controller helper class, used by Led drivers. " alt="" coords="1899,199,2010,225"/>
-<area shape="rect" id="node10" href="$d0/dbe/commander__helper_8h.html" title="Commander helper functions definitions. " alt="" coords="857,191,1023,233"/>
-<area shape="rect" id="node20" href="$d1/dc4/status__display_8cpp.html" title="Status Display: this decouples the LED and tune logic from the control logic in commander. " alt="" coords="2085,191,2221,233"/>
-<area shape="rect" id="node21" href="$d9/d9c/task_8cpp.html" title="Main task handling the temperature calibration process. " alt="" coords="1389,184,1550,240"/>
-<area shape="rect" id="node22" href="$d6/dd1/led__control_8cpp.html" title="src/systemcmds/led\l_control/led_control.cpp" alt="" coords="1575,191,1735,233"/>
-<area shape="rect" id="node7" href="$d7/dcd/navio__rgbled_8h.html" title="src/drivers/navio_rgbled\l/navio_rgbled.h" alt="" coords="2104,288,2264,329"/>
-<area shape="rect" id="node9" href="$d6/d2b/lib_2led_2led_8cpp.html" title="src/lib/led/led.cpp" alt="" coords="1957,295,2081,322"/>
-<area shape="rect" id="node8" href="$dc/dc7/drivers_2navio__rgbled_2test_2test_8cpp.html" title="src/drivers/navio_rgbled\l/test/test.cpp" alt="" coords="2104,377,2264,419"/>
-<area shape="rect" id="node11" href="$dd/dcd/accelerometer__calibration_8cpp.html" title="Implementation of accelerometer calibration. " alt="" coords="1345,288,1543,329"/>
-<area shape="rect" id="node12" href="$d3/d73/airspeed__calibration_8cpp.html" title="Airspeed sensor calibration routine. " alt="" coords="1567,288,1734,329"/>
-<area shape="rect" id="node13" href="$d0/d5a/calibration__routines_8cpp.html" title="Calibration routines implementations. " alt="" coords="195,288,360,329"/>
-<area shape="rect" id="node14" href="$da/d73/_commander_8cpp.html" title="src/modules/commander\l/Commander.cpp" alt="" coords="384,288,549,329"/>
-<area shape="rect" id="node16" href="$df/d5e/gyro__calibration_8cpp.html" title="Gyroscope calibration routine. " alt="" coords="573,288,739,329"/>
-<area shape="rect" id="node17" href="$de/d14/mag__calibration_8cpp.html" title="Magnetometer calibration routine. " alt="" coords="763,288,928,329"/>
-<area shape="rect" id="node18" href="$da/db3/rc__calibration_8cpp.html" title="Remote Control calibration routine. " alt="" coords="952,288,1117,329"/>
-<area shape="rect" id="node19" href="$df/d25/state__machine__helper_8cpp.html" title="State machine helper functions implementations. " alt="" coords="1141,288,1320,329"/>
-<area shape="rect" id="node24" href="$dd/d9f/send__event_8h.html" title="src/modules/events\l/send_event.h" alt="" coords="2456,191,2592,233"/>
-<area shape="rect" id="node26" href="$dc/d6a/set__leds_8cpp.html" title="Separate the set_leds() function. " alt="" coords="2245,191,2381,233"/>
-<area shape="rect" id="node25" href="$df/dda/send__event_8cpp.html" title="src/modules/events\l/send_event.cpp" alt="" coords="2469,288,2605,329"/>
+<area shape="rect" id="node2" href="$d6/dee/drv__led_8h.html" title="Led device API to control the external LED(s) via uORB interface. " alt="" coords="1478,102,1618,129"/>
+<area shape="rect" id="node3" href="$db/da0/led_8h.html" title="Led controller helper class, used by Led drivers. " alt="" coords="465,199,575,225"/>
+<area shape="rect" id="node13" href="$df/d08/commander__helper_8cpp.html" title="Commander helper functions implementations. " alt="" coords="709,295,875,337"/>
+<area shape="rect" id="node20" href="$d6/dd1/led__control_8cpp.html" title="src/systemcmds/led\l_control/led_control.cpp" alt="" coords="1653,191,1813,233"/>
+<area shape="rect" id="node21" href="$d6/d0c/status__display_8h.html" title="Status Display decouples LED and tunes from commander. " alt="" coords="1917,95,2053,136"/>
+<area shape="rect" id="node8" href="$d0/dbe/commander__helper_8h.html" title="Commander helper functions definitions. " alt="" coords="1277,191,1443,233"/>
+<area shape="rect" id="node18" href="$d1/dc4/status__display_8cpp.html" title="Status Display: this decouples the LED and tune logic from the control logic in commander. " alt="" coords="1837,191,1973,233"/>
+<area shape="rect" id="node19" href="$d9/d9c/task_8cpp.html" title="Main task handling the temperature calibration process. " alt="" coords="1467,184,1629,240"/>
+<area shape="rect" id="node4" href="$d6/d45/rgbled_8cpp.html" title="Driver for the onboard RGB LED controller (TCA62724FMG) connected via I2C. " alt="" coords="373,295,499,337"/>
+<area shape="rect" id="node5" href="$d8/dc8/rgbled__ncp5623c_8cpp.html" title="Driver for the onboard RGB LED controller (NCP5623C) connected via I2C. " alt="" coords="523,288,685,344"/>
+<area shape="rect" id="node6" href="$d2/d4d/rgbled__pwm_8cpp.html" title="Driver for the onboard RGB LED controller by PWM. " alt="" coords="5,295,200,337"/>
+<area shape="rect" id="node7" href="$d6/d2b/lib_2led_2led_8cpp.html" title="src/lib/led/led.cpp" alt="" coords="225,303,349,329"/>
+<area shape="rect" id="node9" href="$dd/dcd/accelerometer__calibration_8cpp.html" title="Implementation of accelerometer calibration. " alt="" coords="2049,295,2247,337"/>
+<area shape="rect" id="node10" href="$d3/d73/airspeed__calibration_8cpp.html" title="Airspeed sensor calibration routine. " alt="" coords="2271,295,2438,337"/>
+<area shape="rect" id="node11" href="$d0/d5a/calibration__routines_8cpp.html" title="Calibration routines implementations. " alt="" coords="899,295,1064,337"/>
+<area shape="rect" id="node12" href="$da/d73/_commander_8cpp.html" title="Main state machine / business logic. " alt="" coords="1088,295,1253,337"/>
+<area shape="rect" id="node14" href="$df/d5e/gyro__calibration_8cpp.html" title="Gyroscope calibration routine. " alt="" coords="1277,295,1443,337"/>
+<area shape="rect" id="node15" href="$de/d14/mag__calibration_8cpp.html" title="Magnetometer calibration routine. " alt="" coords="1467,295,1632,337"/>
+<area shape="rect" id="node16" href="$da/db3/rc__calibration_8cpp.html" title="Remote Control calibration routine. " alt="" coords="1656,295,1821,337"/>
+<area shape="rect" id="node17" href="$df/d25/state__machine__helper_8cpp.html" title="State machine helper functions implementations. " alt="" coords="1845,295,2024,337"/>
+<area shape="rect" id="node22" href="$dd/d9f/send__event_8h.html" title="src/modules/events\l/send_event.h" alt="" coords="1997,191,2133,233"/>
+<area shape="rect" id="node24" href="$dc/d6a/set__leds_8cpp.html" title="Separate the set_leds() function. " alt="" coords="2157,191,2293,233"/>
+<area shape="rect" id="node23" href="$df/dda/send__event_8cpp.html" title="src/modules/events\l/send_event.cpp" alt="" coords="2463,295,2599,337"/>
 </map>

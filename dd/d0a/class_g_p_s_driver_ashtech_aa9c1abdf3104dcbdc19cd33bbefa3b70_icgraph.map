@@ -1,8 +1,9 @@
 <map id="GPSDriverAshtech::activateCorrectionOutput" name="GPSDriverAshtech::activateCorrectionOutput">
-<area shape="rect" id="node2" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a5495dfedac462e88411392bf96785a30" title="GPSDriverAshtech::handle\lMessage" alt="" coords="240,89,419,131"/>
-<area shape="rect" id="node3" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a33d6a07ed337cafb5e45ca15cbe8d983" title="receive &amp; handle new data from the device " alt="" coords="467,71,649,98"/>
-<area shape="rect" id="node4" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a7c3c68a1533ffdf98ce95eeed32db916" title="receive data for at least the specified amount of time " alt="" coords="929,63,1140,90"/>
-<area shape="rect" id="node6" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a04eeb8d4cab06961f727d646222c5ccb" title="GPSDriverAshtech::waitFor\lReply" alt="" coords="697,5,881,47"/>
-<area shape="rect" id="node5" href="$dd/d0a/class_g_p_s_driver_ashtech.html#acd7387d6bb1d7a766c3a584e1bbb3d4c" title="configure the device " alt="" coords="1188,63,1383,90"/>
-<area shape="rect" id="node7" href="$dd/d0a/class_g_p_s_driver_ashtech.html#ac4edd10a7718c533fe4022d49454eb3d" title="Write a command and wait for a (N)Ack. " alt="" coords="931,115,1138,156"/>
+<area shape="rect" id="node2" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a5495dfedac462e88411392bf96785a30" title="GPSDriverAshtech::handle\lMessage" alt="" coords="240,127,419,168"/>
+<area shape="rect" id="node3" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a33d6a07ed337cafb5e45ca15cbe8d983" title="receive &amp; handle new data from the device " alt="" coords="467,91,649,118"/>
+<area shape="rect" id="node4" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a7c3c68a1533ffdf98ce95eeed32db916" title="receive data for at least the specified amount of time " alt="" coords="929,25,1140,51"/>
+<area shape="rect" id="node6" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a04eeb8d4cab06961f727d646222c5ccb" title="GPSDriverAshtech::waitFor\lReply" alt="" coords="697,25,881,67"/>
+<area shape="rect" id="node5" href="$dd/d0a/class_g_p_s_driver_ashtech.html#acd7387d6bb1d7a766c3a584e1bbb3d4c" title="configure the device " alt="" coords="1188,25,1383,51"/>
+<area shape="rect" id="node7" href="$dd/d0a/class_g_p_s_driver_ashtech.html#ac4edd10a7718c533fe4022d49454eb3d" title="Write a command and wait for a (N)Ack. " alt="" coords="931,76,1138,117"/>
+<area shape="rect" id="node8" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aaacbdcb8a570a99895563fcf462f38ab" title="GPSDriverAshtech::activate\lRTCMOutput" alt="" coords="1192,135,1379,176"/>
 </map>

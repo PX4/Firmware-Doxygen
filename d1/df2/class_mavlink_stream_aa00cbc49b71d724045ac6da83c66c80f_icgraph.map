@@ -1,35 +1,6 @@
 <map id="MavlinkStream::const_rate" name="MavlinkStream::const_rate">
-<area shape="rect" id="node2" href="$df/d1f/class_mavlink.html#a53bdb0583a7d821d066685d408a0bc6a" title="Display the status of all enabled streams. " alt="" coords="627,225,785,266"/>
-<area shape="rect" id="node30" href="$d1/df2/class_mavlink_stream.html#ac861aa2bd187c1856606d25c2b33df95" title="Update subscriptions and send message if necessary. " alt="" coords="232,85,388,112"/>
-<area shape="rect" id="node33" href="$df/d1f/class_mavlink.html#a34de929d78ada1d08dec376b869d917b" title="Update rate mult so total bitrate will be equal to _datarate. " alt="" coords="619,5,793,32"/>
-<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#aeed64d674a9a2aaff43a845a6465b4bc" title="Mavlink::get_status\l_all_instances" alt="" coords="846,225,982,266"/>
-<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#ac6e1bf432b8d4ab3d7977ea15f36d815" title="Mavlink::get_status" alt="" coords="1035,232,1171,259"/>
-<area shape="rect" id="node18" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="mavlink app start / stop handling function " alt="" coords="2966,349,3069,376"/>
-<area shape="rect" id="node5" href="$de/d24/mavlink__main_8cpp.html#ae6c642b2c7f5e4f54d302f44aaab9e04" title="mavlink_get_channel\l_status" alt="" coords="1219,283,1363,325"/>
-<area shape="rect" id="node6" href="$da/d89/class_mavlink_receiver.html#abf05ea2b60baafd446100f897f9274ab" title="Receive data from UART. " alt="" coords="1411,225,1580,266"/>
-<area shape="rect" id="node23" href="$df/d1f/class_mavlink.html#ad504fc6cb2ec8ed534b6e41e20385ee6" title="Set the MAVLink version. " alt="" coords="1226,166,1355,207"/>
-<area shape="rect" id="node7" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1641,173,1794,214"/>
-<area shape="rect" id="node8" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1855,173,2024,214"/>
-<area shape="rect" id="node9" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="2088,115,2223,141"/>
-<area shape="rect" id="node10" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="2304,175,2447,201"/>
-<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#af06ea4dffa8d7b911690a99456a4814a" title="Mavlink::broadcast\l_enabled" alt="" coords="2512,167,2644,209"/>
-<area shape="rect" id="node22" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="2527,287,2629,313"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#aacd190d885c0a9f521f0d7d0673f2b6f" title="Flush the transmit buffer and send one MAVLink packet. " alt="" coords="2710,124,2859,151"/>
-<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#afcac36b1b581d47b7181374d35edbd54" title="Set the boot complete flag on all instances. " alt="" coords="2692,175,2877,201"/>
-<area shape="rect" id="node13" href="$df/d1f/class_mavlink.html#a3aa1fb0ca3f0d77b10a8954618a51abb" title="Get the manual input generation mode. " alt="" coords="2936,283,3099,325"/>
-<area shape="rect" id="node16" href="$de/d24/mavlink__main_8cpp.html#a646c2f3486de3d8574422fc4ef1940a2" title="mavlink_end_uart_send" alt="" coords="2938,115,3097,141"/>
-<area shape="rect" id="node14" href="$da/d89/class_mavlink_receiver.html#af99bf01b6ae13dab05c36c0125e179bc" title="MavlinkReceiver::handle\l_message_manual_control" alt="" coords="3161,309,3338,350"/>
-<area shape="rect" id="node15" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="3399,418,3564,459"/>
-<area shape="rect" id="node19" href="$df/d61/class_mavlink_parameters_manager.html#acd8734b77582ad7626f5230c1707e04c" title="send a single param if a PARAM_REQUEST_LIST is in progress " alt="" coords="2925,166,3109,207"/>
-<area shape="rect" id="node20" href="$df/d61/class_mavlink_parameters_manager.html#a3a6dff51ef5aba4f3dda19610510a45d" title="Handle any open param send transfer. " alt="" coords="3157,166,3341,207"/>
-<area shape="rect" id="node21" href="$df/d61/class_mavlink_parameters_manager.html#adbcd587c4ec1c0b94fe259047f8ec82e" title="Handle sending of messages. " alt="" coords="3389,195,3573,237"/>
-<area shape="rect" id="node24" href="$df/d1f/class_mavlink.html#ad8fa688a2405620180ff54b89070d991" title="Mavlink::mavlink_update\l_system" alt="" coords="1856,107,2023,149"/>
-<area shape="rect" id="node25" href="$df/d1f/class_mavlink.html#a7f0aab53d272dd4f5a39ffe030497460" title="Send the protocol version of MAVLink. " alt="" coords="1417,401,1573,442"/>
-<area shape="rect" id="node26" href="$df/d1f/class_mavlink.html#a6829c4f2061c8b36c6c392b75e7ac986" title="Mavlink::get_mavlink\l_log_pub" alt="" coords="1645,401,1790,442"/>
-<area shape="rect" id="node27" href="$da/d89/class_mavlink_receiver.html#a72518d540ed247b6fcc0fb63592dd319" title="common method to handle both mavlink command types. " alt="" coords="1628,466,1807,507"/>
-<area shape="rect" id="node28" href="$da/d89/class_mavlink_receiver.html#aa94397b70b0418675a2934b022de6df4" title="MavlinkReceiver::handle\l_message_command_int" alt="" coords="2072,498,2239,539"/>
-<area shape="rect" id="node29" href="$da/d89/class_mavlink_receiver.html#a5345e8389c1ac373ab61074c9b849e22" title="MavlinkReceiver::handle\l_message_command_long" alt="" coords="2287,439,2464,481"/>
-<area shape="rect" id="node31" href="$d1/df2/class_mavlink_stream.html#a3f00bff476cba7a35bf8fd1e4a07a211" title="Get the interval. " alt="" coords="436,107,571,149"/>
-<area shape="rect" id="node32" href="$df/d1f/class_mavlink.html#a2f9d780ec2b8412a769bf49fa5949a45" title="Adjust the stream rates based on the current rate. " alt="" coords="627,107,785,149"/>
-<area shape="rect" id="node34" href="$da/d89/class_mavlink_receiver.html#aabdc020e312dbe715fb9472cb3963a0e" title="MavlinkReceiver::get\l_message_interval" alt="" coords="841,375,987,417"/>
+<area shape="rect" id="node2" href="$d1/df2/class_mavlink_stream.html#ac861aa2bd187c1856606d25c2b33df95" title="Update subscriptions and send message if necessary. " alt="" coords="232,78,388,105"/>
+<area shape="rect" id="node3" href="$d0/d79/class_mavlink_stream_sys_status.html#aade6ccffb7425888107dbb55b19b288f" title="MavlinkStreamSysStatus\l::send" alt="" coords="445,5,616,47"/>
+<area shape="rect" id="node4" href="$db/d2f/class_mavlink_stream_battery_status.html#a0a2b548643130ee3b087720932b4874d" title="MavlinkStreamBatteryStatus\l::send" alt="" coords="436,71,625,112"/>
+<area shape="rect" id="node5" href="$d1/df2/class_mavlink_stream.html#a3f00bff476cba7a35bf8fd1e4a07a211" title="Get the interval. " alt="" coords="463,136,598,177"/>
 </map>

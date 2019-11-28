@@ -1,11 +1,10 @@
 <map id="sbus1_set_output_rate_hz" name="sbus1_set_output_rate_hz">
-<area shape="rect" id="node2" href="$d4/d28/registers_8c.html#acb76ce9506a2d7ebd08998a39fba7358" title="registers_set_one" alt="" coords="228,31,353,57"/>
-<area shape="rect" id="node3" href="$d4/d28/registers_8c.html#a79ff516383f902f7c580f60972f88484" title="Register space. " alt="" coords="401,31,499,57"/>
-<area shape="rect" id="node4" href="$df/d19/modules_2px4iofirmware_2i2c_8c.html#a6e0c3d6111e056066c95e34dfd9a0114" title="i2c_rx_complete" alt="" coords="550,5,667,32"/>
-<area shape="rect" id="node6" href="$d8/d90/serial_8c.html#a7a47545978c88c7e8b180736034a49ef" title="rx_handle_packet" alt="" coords="547,56,671,83"/>
-<area shape="rect" id="node5" href="$df/d19/modules_2px4iofirmware_2i2c_8c.html#a472799252680873b5cdfba8541bb89ec" title="i2c_interrupt" alt="" coords="732,5,825,32"/>
-<area shape="rect" id="node7" href="$d8/d90/serial_8c.html#a9ea429bf8993556bd90658d40f5b875e" title="rx_dma_callback" alt="" coords="719,56,839,83"/>
-<area shape="rect" id="node8" href="$d8/d90/serial_8c.html#a4f42595963508e10e538baddbf85204a" title="serial_interrupt" alt="" coords="1017,5,1124,32"/>
-<area shape="rect" id="node10" href="$d8/d90/serial_8c.html#ab490e77cf58b14849740525ba5dc47ef" title="dma_reset" alt="" coords="887,56,969,83"/>
-<area shape="rect" id="node9" href="$d8/d90/serial_8c.html#a86489e4b72e9a378e39ebc48b6c95ece" title="FMU communications. " alt="" coords="1172,31,1268,57"/>
+<area shape="rect" id="node2" href="$d4/d28/registers_8c.html#acb76ce9506a2d7ebd08998a39fba7358" title="registers_set_one" alt="" coords="228,56,353,83"/>
+<area shape="rect" id="node3" href="$d4/d28/registers_8c.html#a79ff516383f902f7c580f60972f88484" title="Register space. " alt="" coords="401,56,499,83"/>
+<area shape="rect" id="node4" href="$d8/d90/serial_8c.html#a7a47545978c88c7e8b180736034a49ef" title="rx_handle_packet" alt="" coords="547,56,671,83"/>
+<area shape="rect" id="node5" href="$d8/d90/serial_8c.html#a9ea429bf8993556bd90658d40f5b875e" title="rx_dma_callback" alt="" coords="719,56,839,83"/>
+<area shape="rect" id="node6" href="$d8/d90/serial_8c.html#a4f42595963508e10e538baddbf85204a" title="serial_interrupt" alt="" coords="1017,5,1124,32"/>
+<area shape="rect" id="node9" href="$d8/d90/serial_8c.html#ab490e77cf58b14849740525ba5dc47ef" title="dma_reset" alt="" coords="887,56,969,83"/>
+<area shape="rect" id="node7" href="$d8/d90/serial_8c.html#a86489e4b72e9a378e39ebc48b6c95ece" title="FMU communications. " alt="" coords="1172,31,1268,57"/>
+<area shape="rect" id="node8" href="$dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626" title="user_start" alt="" coords="1316,31,1396,57"/>
 </map>

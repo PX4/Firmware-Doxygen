@@ -1,12 +1,51 @@
 <map id="do_show_print" name="do_show_print">
-<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="220,5,259,32"/>
-<area shape="rect" id="node3" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="198,56,281,83"/>
-<area shape="rect" id="node4" href="$d9/da5/param_8c.html#a7a74545fb539a29ccb58c34cfdd73e6e" title="Look up the index of a parameter. " alt="" coords="179,107,300,133"/>
-<area shape="rect" id="node5" href="$d9/da5/param_8c.html#a91ea9ea1c49a3e4bf8e7de12c1434160" title="Look up the index of an used parameter. " alt="" coords="161,157,317,184"/>
-<area shape="rect" id="node6" href="$d9/da5/param_8c.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="191,208,288,235"/>
-<area shape="rect" id="node7" href="$d9/da5/param_8c.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="195,259,284,285"/>
-<area shape="rect" id="node8" href="$d9/da5/param_8c.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="194,309,285,336"/>
-<area shape="rect" id="node9" href="$d9/da5/param_8c.html#a49073ceb611b9756d500b9d6d6679b2c" title="Wether a parameter is in use in the system. " alt="" coords="193,360,286,387"/>
-<area shape="rect" id="node10" href="$d9/da5/param_8c.html#a5b9900526b773c149ba8af2e53c489cc" title="Test whether a parameter&#39;s value has changed from the default. " alt="" coords="160,411,319,437"/>
-<area shape="rect" id="node11" href="$d9/da5/param_8c.html#ab5d1e40b8874684464e18e07903cfa23" title="Test whether a parameter&#39;s value has been changed but not saved. " alt="" coords="163,461,315,488"/>
+<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="622,34,661,60"/>
+<area shape="rect" id="node5" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="198,870,281,896"/>
+<area shape="rect" id="node41" href="$d5/d33/param_8h.html#abfcd5f807f0d2dfebdec9104ca1db4eb" title="Look up the index of a parameter. " alt="" coords="379,1503,501,1530"/>
+<area shape="rect" id="node42" href="$d5/d33/param_8h.html#a678df1779d25ac8fbf4540c6b2802562" title="Look up the index of an used parameter. " alt="" coords="161,1300,317,1327"/>
+<area shape="rect" id="node45" href="$d5/d33/param_8h.html#a41afda73b490911d29d6eb7c4e89a58d" title="Obtain the name of a parameter. " alt="" coords="191,1250,288,1276"/>
+<area shape="rect" id="node46" href="$d5/d33/param_8h.html#afda22b2c0da753f4ce80b825e70e4515" title="Determine the size of a parameter. " alt="" coords="395,1402,485,1428"/>
+<area shape="rect" id="node47" href="$d5/d33/param_8h.html#a67c031ecddf3189149d20d7ef6295748" title="Obtain the type of a parameter. " alt="" coords="194,1452,285,1479"/>
+<area shape="rect" id="node48" href="$d5/d33/param_8h.html#a8d313444dc6a8974ce67a0eee4bf2189" title="Wether a parameter is in use in the system. " alt="" coords="193,1351,286,1378"/>
+<area shape="rect" id="node49" href="$d5/d33/param_8h.html#ae561c73f20d61b307867a5118343d025" title="Test whether a parameter&#39;s value has changed from the default. " alt="" coords="160,1098,319,1124"/>
+<area shape="rect" id="node50" href="$d5/d33/param_8h.html#a3429b0d304f0b590f922f5cc28e4070d" title="Test whether a parameter&#39;s value has been changed but not saved. " alt="" coords="163,1174,315,1200"/>
+<area shape="rect" id="node3" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="808,34,891,60"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1014,34,1101,60"/>
+<area shape="rect" id="node6" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="999,211,1115,238"/>
+<area shape="rect" id="node8" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="369,996,511,1023"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="374,1148,506,1175"/>
+<area shape="rect" id="node16" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="593,186,690,212"/>
+<area shape="rect" id="node17" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="374,575,506,602"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="804,186,895,212"/>
+<area shape="rect" id="node37" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="600,946,683,972"/>
+<area shape="rect" id="node38" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="605,895,677,922"/>
+<area shape="rect" id="node39" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="395,1047,485,1074"/>
+<area shape="rect" id="node40" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="367,1098,513,1124"/>
+<area shape="rect" id="node7" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1185,211,1336,238"/>
+<area shape="rect" id="node9" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="791,1275,907,1302"/>
+<area shape="rect" id="node11" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="776,996,923,1023"/>
+<area shape="rect" id="node12" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="570,1047,713,1074"/>
+<area shape="rect" id="node14" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="596,1199,687,1226"/>
+<area shape="rect" id="node10" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="982,1275,1133,1302"/>
+<area shape="rect" id="node13" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="769,1047,929,1074"/>
+<area shape="rect" id="node18" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="561,575,721,602"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="582,727,701,754"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="993,660,1121,687"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="986,732,1129,759"/>
+<area shape="rect" id="node29" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="977,452,1137,479"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="778,439,921,466"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="570,388,713,415"/>
+<area shape="rect" id="node34" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="570,829,713,870"/>
+<area shape="rect" id="node35" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="573,778,709,804"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="597,287,686,314"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="995,844,1120,871"/>
+<area shape="rect" id="node20" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="799,540,899,567"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="805,591,893,618"/>
+<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="986,584,1129,625"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="986,518,1129,560"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="789,743,910,770"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="789,844,910,871"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="984,388,1131,415"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a49073ceb611b9756d500b9d6d6679b2c" title="Wether a parameter is in use in the system. " alt="" coords="393,1300,487,1327"/>
+<area shape="rect" id="node44" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a7a74545fb539a29ccb58c34cfdd73e6e" title="Look up the index of a parameter. " alt="" coords="581,1300,702,1327"/>
 </map>

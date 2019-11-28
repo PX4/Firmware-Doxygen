@@ -1,6 +1,8 @@
 <map id="build/doxygen/uORB/topics/wind_estimate.h" name="build/doxygen/uORB/topics/wind_estimate.h">
-<area shape="rect" id="node2" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="5,95,156,136"/>
-<area shape="rect" id="node3" href="$df/d31/mavlink__high__latency2_8cpp.html" title="src/modules/mavlink\l/mavlink_high_latency2.cpp" alt="" coords="180,95,363,136"/>
-<area shape="rect" id="node4" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="387,95,550,136"/>
-<area shape="rect" id="node5" href="$dc/df8/wind__estimator__main_8cpp.html" title="src/modules/wind_estimator\l/wind_estimator_main.cpp" alt="" coords="575,95,760,136"/>
+<area shape="rect" id="node2" href="$dd/dd4/_airspeed_validator_8hpp.html" title="Calculates airspeed from differential pressure and checks if this airspeed is valid. " alt="" coords="83,95,249,136"/>
+<area shape="rect" id="node4" href="$d3/ded/airspeed__selector__main_8cpp.html" title="src/modules/airspeed\l_selector/airspeed_selector\l_main.cpp" alt="" coords="197,184,378,240"/>
+<area shape="rect" id="node5" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="325,95,476,136"/>
+<area shape="rect" id="node6" href="$df/d31/mavlink__high__latency2_8cpp.html" title="src/modules/mavlink\l/mavlink_high_latency2.cpp" alt="" coords="500,95,683,136"/>
+<area shape="rect" id="node7" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="707,95,870,136"/>
+<area shape="rect" id="node3" href="$d5/d59/_airspeed_validator_8cpp.html" title="Estimates airspeed scale error (from indicated to equivalent airspeed), performes checks on airspeed ..." alt="" coords="5,191,172,233"/>
 </map>

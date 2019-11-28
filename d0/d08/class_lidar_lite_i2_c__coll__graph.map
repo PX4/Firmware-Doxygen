@@ -1,4 +1,11 @@
 <map id="LidarLiteI2C" name="LidarLiteI2C">
-<area shape="rect" id="node2" href="$d5/dd3/class_lidar_lite.html" title="{LidarLite\n|&#45; _min_distance\l&#45; _max_distance\l&#45; _measure_ticks\l|+ LidarLite()\l+ ~LidarLite()\l+ init()\l+ ioctl()\l+ start()\l+ stop()\l+ print_info()\l+ print_registers()\l+ get_dev_name()\l# set_minimum_distance()\l# set_maximum_distance()\l# get_minimum_distance()\l# get_maximum_distance()\l# getMeasureTicks()\l# measure()\l# collect()\l# reset_sensor()\l}" alt="" coords="5,5,184,347"/>
-<area shape="rect" id="node4" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="275,123,387,229"/>
+<area shape="rect" id="node2" href="$d5/dd3/class_lidar_lite.html" title="{LidarLite\n|&#45; _measure_interval\l|+ LidarLite()\l+ ~LidarLite()\l+ init()\l+ start()\l+ stop()\l+ print_info()\l+ print_registers()\l# get_measure_interval()\l# collect()\l# measure()\l# reset_sensor()\l}" alt="" coords="201,1123,366,1347"/>
+<area shape="rect" id="node3" href="$d1/d0f/class_p_x4_rangefinder.html" title="{PX4Rangefinder\n|&#45; _class_device_instance\l|+ PX4Rangefinder()\l+ ~PX4Rangefinder()\l+ print_status()\l+ set_device_type()\l+ set_device_id()\l+ set_fov()\land 6 more...\l}" alt="" coords="116,851,285,1016"/>
+<area shape="rect" id="node4" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="5,417,188,788"/>
+<area shape="rect" id="node5" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="25,233,168,311"/>
+<area shape="rect" id="node6" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html" title="{uORB::PublicationMultiData\l\&lt; distance_sensor_s \&gt;\n||+ PublicationMultiData()\l+ ~PublicationMultiData()\l+ get()\l+ set()\l+ update()\l+ update()\l}" alt="" coords="213,520,399,685"/>
+<area shape="rect" id="node7" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html" title="{uORB::PublicationMulti\l\&lt; distance_sensor_s \&gt;\n|# _handle\l# _priority\l|+ PublicationMulti()\l+ ~PublicationMulti()\l+ publish()\l}" alt="" coords="209,204,368,340"/>
+<area shape="rect" id="node8" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="216,5,361,127"/>
+<area shape="rect" id="node9" href="$dd/d50/structdistance__sensor__s.html" title="{distance_sensor_s\n|+ timestamp\l+ min_distance\l+ max_distance\l+ current_distance\l+ variance\l+ h_fov\land 7 more...\l|}" alt="" coords="393,189,523,355"/>
+<area shape="rect" id="node10" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="310,880,422,987"/>
 </map>

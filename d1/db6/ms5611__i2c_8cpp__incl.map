@@ -1,18 +1,21 @@
 <map id="src/drivers/barometer/ms5611/ms5611_i2c.cpp" name="src/drivers/barometer/ms5611/ms5611_i2c.cpp">
-<area shape="rect" id="node2" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="1036,393,1132,420"/>
-<area shape="rect" id="node3" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="881,543,983,569"/>
-<area shape="rect" id="node16" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="1217,95,1351,121"/>
-<area shape="rect" id="node35" href="$d3/d79/ms5611_8h.html" title="Shared defines for the ms5611 driver. " alt="" coords="1427,95,1506,121"/>
-<area shape="rect" id="node4" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="1107,617,1186,644"/>
-<area shape="rect" id="node17" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="1178,169,1281,196"/>
-<area shape="rect" id="node18" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="1061,244,1155,271"/>
-<area shape="rect" id="node33" href="$dd/d8a/px4__i2c_8h.html" title="Includes device headers depending on the build target. " alt="" coords="1190,244,1269,271"/>
-<area shape="rect" id="node19" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="899,319,987,345"/>
-<area shape="rect" id="node20" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="518,393,610,420"/>
-<area shape="rect" id="node31" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="1122,319,1286,345"/>
-<area shape="rect" id="node26" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="873,393,1012,420"/>
-<area shape="rect" id="node21" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="237,468,331,495"/>
-<area shape="rect" id="node24" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="406,468,493,495"/>
-<area shape="rect" id="node28" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="1129,468,1226,495"/>
-<area shape="rect" id="node29" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="880,468,984,495"/>
+<area shape="rect" id="node2" href="$d3/d79/ms5611_8h.html" title="Shared defines for the ms5611 driver. " alt="" coords="996,95,1075,121"/>
+<area shape="rect" id="node4" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="812,184,947,211"/>
+<area shape="rect" id="node18" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="290,452,421,479"/>
+<area shape="rect" id="node23" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="584,281,740,307"/>
+<area shape="rect" id="node24" href="$dd/d52/drivers_2device_2ringbuffer_8h.html" title="drivers/device/ringbuffer.h" alt="" coords="1129,184,1301,211"/>
+<area shape="rect" id="node27" href="$da/d87/spi_8h.html" title="drivers/device/spi.h" alt="" coords="481,184,616,211"/>
+<area shape="rect" id="node29" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="875,452,1001,479"/>
+<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1339,616,1449,643"/>
+<area shape="rect" id="node33" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1116,616,1264,643"/>
+<area shape="rect" id="node36" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1824,184,1932,211"/>
+<area shape="rect" id="node5" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="764,281,867,307"/>
+<area shape="rect" id="node6" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="../CDev.hpp" alt="" coords="462,370,555,397"/>
+<area shape="rect" id="node7" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="546,452,634,479"/>
+<area shape="rect" id="node10" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="661,534,799,561"/>
+<area shape="rect" id="node13" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="713,616,811,643"/>
+<area shape="rect" id="node15" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="886,616,990,643"/>
+<area shape="rect" id="node19" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="64,534,228,561"/>
+<area shape="rect" id="node28" href="$d3/d41/posix_2_s_p_i_8hpp.html" title="posix/SPI.hpp" alt="" coords="455,281,559,307"/>
+<area shape="rect" id="node30" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="1124,527,1264,568"/>
 </map>

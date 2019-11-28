@@ -1,51 +1,17 @@
 <map id="MavlinkMissionManager::handle_mission_set_current" name="MavlinkMissionManager::handle_mission_set_current">
-<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1814,1105,1939,1132"/>
-<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a6772377272b44d6a50eefd7ece27f0a9" title="Send a status text with loglevel CRITICAL. " alt="" coords="427,506,595,547"/>
-<area shape="rect" id="node4" href="$d1/d69/class_mavlink_mission_manager.html#ad39599d7e28fed6164cfd559c017af08" title="Publish mission topic to notify navigator about changes. " alt="" coords="216,1094,379,1135"/>
-<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a1fa2ba1e37a3615ca23fe3cbf42c12be" title="Lock all items of a type. " alt="" coords="475,1152,546,1178"/>
-<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="473,1253,548,1280"/>
-<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="468,1202,553,1229"/>
-<area shape="rect" id="node17" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="461,572,561,598"/>
-<area shape="rect" id="node50" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="902,181,990,208"/>
-<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="685,1174,767,1201"/>
-<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="883,1156,1009,1182"/>
-<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="643,1276,809,1318"/>
-<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1132,1257,1220,1284"/>
-<area shape="rect" id="node10" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1133,1206,1219,1233"/>
-<area shape="rect" id="node11" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1133,1156,1219,1182"/>
-<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1125,1308,1227,1334"/>
-<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="880,1308,1012,1334"/>
-<area shape="rect" id="node15" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="903,1257,989,1284"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1597,91,1739,132"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="655,619,797,660"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1805,200,1948,242"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1996,208,2123,234"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="875,619,1017,660"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1083,400,1269,426"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1348,602,1500,643"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1105,195,1247,236"/>
-<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="875,82,1017,123"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="875,451,1017,492"/>
-<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="875,334,1017,375"/>
-<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1353,719,1495,760"/>
-<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="857,282,1035,309"/>
-<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1105,822,1247,863"/>
-<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1339,1054,1509,1081"/>
-<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1353,536,1495,578"/>
-<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1105,887,1247,928"/>
-<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1353,938,1495,979"/>
-<area shape="rect" id="node49" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="875,988,1017,1030"/>
-<area shape="rect" id="node23" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1110,618,1242,645"/>
-<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1631,861,1705,888"/>
-<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1627,649,1709,676"/>
-<area shape="rect" id="node25" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1579,464,1757,490"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1629,580,1707,606"/>
-<area shape="rect" id="node30" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1323,368,1525,410"/>
-<area shape="rect" id="node31" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1351,200,1497,242"/>
-<area shape="rect" id="node32" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1400,266,1448,293"/>
-<area shape="rect" id="node34" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1331,149,1517,176"/>
-<area shape="rect" id="node35" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1581,212,1755,238"/>
-<area shape="rect" id="node37" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1317,48,1531,74"/>
-<area shape="rect" id="node42" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1139,282,1213,309"/>
-<area shape="rect" id="node46" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="1622,529,1714,556"/>
+<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="861,263,986,290"/>
+<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a6772377272b44d6a50eefd7ece27f0a9" title="Send a status text with loglevel CRITICAL. " alt="" coords="427,5,595,47"/>
+<area shape="rect" id="node4" href="$d1/d69/class_mavlink_mission_manager.html#ad39599d7e28fed6164cfd559c017af08" title="Publish mission topic to notify navigator about changes. " alt="" coords="216,140,379,181"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a1fa2ba1e37a3615ca23fe3cbf42c12be" title="Lock all items of a type. " alt="" coords="475,122,546,149"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="473,173,548,199"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="468,71,553,98"/>
+<area shape="rect" id="node16" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="441,296,580,337"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="685,23,767,50"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="861,53,986,79"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="643,125,809,167"/>
+<area shape="rect" id="node13" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="685,191,767,218"/>
+<area shape="rect" id="node14" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="690,242,762,269"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1045,154,1133,181"/>
+<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1037,103,1140,130"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="857,154,989,181"/>
 </map>

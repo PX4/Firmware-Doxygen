@@ -13,6 +13,7 @@ var commander__state_8h =
     [ "COMMANDER_STATE_MAIN_STATE_MANUAL", "db/df7/commander__state_8h.html#a67f3032493da653bd3355acfd36b2114", null ],
     [ "COMMANDER_STATE_MAIN_STATE_MAX", "db/df7/commander__state_8h.html#aaf3417e6e338b86be9cbc50a5afe2191", null ],
     [ "COMMANDER_STATE_MAIN_STATE_OFFBOARD", "db/df7/commander__state_8h.html#a24f6656c0230baa78887b8d5731030c0", null ],
+    [ "COMMANDER_STATE_MAIN_STATE_ORBIT", "db/df7/commander__state_8h.html#ad58af1263c149eb23758feaf714301a8", null ],
     [ "COMMANDER_STATE_MAIN_STATE_POSCTL", "db/df7/commander__state_8h.html#a9916da9245d4569af40cca6e7495fce4", null ],
     [ "COMMANDER_STATE_MAIN_STATE_RATTITUDE", "db/df7/commander__state_8h.html#a07aa4f1f941979de0943fa7f34f87bd9", null ],
     [ "COMMANDER_STATE_MAIN_STATE_STAB", "db/df7/commander__state_8h.html#ab527204176cd5bf98040655e0073afae", null ],

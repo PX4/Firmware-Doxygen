@@ -1,0 +1,51 @@
+<map id="param_import_internal" name="param_import_internal">
+<area shape="rect" id="node2" href="$d5/d62/tinybson_8cpp.html#a9287c3de245e0cb7b4694347f1d57fc5" title="Initialise the decoder to read from a file. " alt="" coords="207,338,357,364"/>
+<area shape="rect" id="node5" href="$d5/d62/tinybson_8cpp.html#a72b6175a128c66851152976bf2f9e6b3" title="Process the next node from the stream and invoke the callback. " alt="" coords="215,414,349,440"/>
+<area shape="rect" id="node9" href="$d9/db5/parameters__shmem_8cpp.html#aae3ab2f0bf31ee1d2ec9e3f32a7752bb" title="param_import_callback" alt="" coords="204,1100,360,1127"/>
+<area shape="rect" id="node3" href="$d5/d62/tinybson_8cpp.html#a980d9ef521335763f4a1798f067ae371" title="read_int32" alt="" coords="460,324,543,351"/>
+<area shape="rect" id="node4" href="$d5/d62/tinybson_8cpp.html#a2e9b9339ad505c31cc9a6020f19ea264" title="read_x" alt="" coords="692,375,753,402"/>
+<area shape="rect" id="node6" href="$d5/d62/tinybson_8cpp.html#a452210a82b6a93f169b422060fb0720f" title="read_int8" alt="" coords="464,426,539,452"/>
+<area shape="rect" id="node7" href="$d5/d62/tinybson_8cpp.html#a6001e8a6acd963ad3a27f947f851bc31" title="read_int64" alt="" coords="460,476,543,503"/>
+<area shape="rect" id="node8" href="$d5/d62/tinybson_8cpp.html#affb2f5e5df892dfc9c92903e4e7ba57a" title="read_double" alt="" coords="455,375,547,402"/>
+<area shape="rect" id="node10" href="$d5/d62/tinybson_8cpp.html#a3f081d222a3c1b9a95685742eef902d1" title="Copy node data. " alt="" coords="416,594,587,620"/>
+<area shape="rect" id="node11" href="$d5/d62/tinybson_8cpp.html#afc03f2b10180bc62ce7c9b5972a9d8ee" title="Report copyable data size. " alt="" coords="408,1202,595,1228"/>
+<area shape="rect" id="node12" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="703,1252,742,1279"/>
+<area shape="rect" id="node15" href="$d9/db5/parameters__shmem_8cpp.html#a852ffa178804f2bd785fe1e5820709d4" title="Look up a parameter by name. " alt="" coords="413,779,590,806"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="674,1151,771,1178"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="435,898,567,924"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="889,1186,979,1212"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="678,1303,767,1330"/>
+<area shape="rect" id="node13" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="893,1252,975,1279"/>
+<area shape="rect" id="node14" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1105,1252,1192,1279"/>
+<area shape="rect" id="node16" href="$d9/db5/parameters__shmem_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="655,426,790,452"/>
+<area shape="rect" id="node17" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1280,1084,1396,1111"/>
+<area shape="rect" id="node19" href="$d9/db5/parameters__shmem_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="851,198,1017,224"/>
+<area shape="rect" id="node21" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="893,679,975,706"/>
+<area shape="rect" id="node23" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="898,628,970,655"/>
+<area shape="rect" id="node18" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1444,1084,1595,1111"/>
+<area shape="rect" id="node20" href="$d9/db5/parameters__shmem_8cpp.html#a7a74545fb539a29ccb58c34cfdd73e6e" title="Look up the index of a parameter. " alt="" coords="1088,71,1209,98"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1086,679,1211,706"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1085,628,1213,655"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="863,882,1005,908"/>
+<area shape="rect" id="node29" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1069,932,1229,959"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="663,476,782,503"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="1077,527,1220,554"/>
+<area shape="rect" id="node45" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="643,847,803,874"/>
+<area shape="rect" id="node48" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="655,679,791,706"/>
+<area shape="rect" id="node49" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="651,730,794,772"/>
+<area shape="rect" id="node50" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="651,948,794,975"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1075,882,1222,908"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="873,527,995,554"/>
+<area shape="rect" id="node36" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="873,350,995,376"/>
+<area shape="rect" id="node34" href="$d9/db5/parameters__shmem_8cpp.html#ac8c26cd56111671e0241d2f641aab221" title="Save parameters to the default file. " alt="" coords="1079,578,1218,604"/>
+<area shape="rect" id="node37" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="1100,324,1197,351"/>
+<area shape="rect" id="node38" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="1107,375,1190,402"/>
+<area shape="rect" id="node39" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="1097,426,1200,452"/>
+<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1097,476,1200,503"/>
+<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="1105,122,1193,148"/>
+<area shape="rect" id="node42" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="1109,172,1188,199"/>
+<area shape="rect" id="node43" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="1107,223,1190,250"/>
+<area shape="rect" id="node44" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1065,274,1232,300"/>
+<area shape="rect" id="node46" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="884,730,984,756"/>
+<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="890,780,978,807"/>
+</map>

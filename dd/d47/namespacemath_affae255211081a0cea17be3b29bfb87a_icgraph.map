@@ -1,10 +1,23 @@
 <map id="math::abs_t" name="math::abs_t">
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a9b61bb7d480b447a85d63bde2dac0eee" title="math::goldensection" alt="" coords="144,177,283,203"/>
-<area shape="rect" id="node3" href="$d8/da7/class_search_min_test.html#a5fa7579deba9e0904b2704fc3d35a0f0" title="SearchMinTest::_init\l_inputs" alt="" coords="336,5,479,47"/>
-<area shape="rect" id="node5" href="$d8/da7/class_search_min_test.html#a23010bbb7db57cff3a99ce26438c1241" title="SearchMinTest::_init\l_inputs_flipped" alt="" coords="336,71,479,112"/>
-<area shape="rect" id="node6" href="$d8/da7/class_search_min_test.html#a17a03dcb11a66023c9724ce992a822db" title="SearchMinTest::_init\l_inputs_negative" alt="" coords="336,136,479,177"/>
-<area shape="rect" id="node7" href="$d8/da7/class_search_min_test.html#a2388c85dd977ee8b23026f456bde0d44" title="SearchMinTest::_init\l_tol_larger_than_range" alt="" coords="331,201,484,243"/>
-<area shape="rect" id="node8" href="$d8/da7/class_search_min_test.html#afc927eb3b1a76231f90e2aa5af06a887" title="SearchMinTest::_init\l_tol_larger_than_range\l_flipped" alt="" coords="331,266,484,322"/>
-<area shape="rect" id="node9" href="$d8/da7/class_search_min_test.html#aef58f2c156fa0c0e9ceba5b0052d4589" title="SearchMinTest::_no\l_extremum" alt="" coords="338,345,477,387"/>
-<area shape="rect" id="node4" href="$d8/da7/class_search_min_test.html#a3c4aefd28959d836952ece1c4eeb8bfc" title="Override to run your unit tests. " alt="" coords="532,169,668,211"/>
+<area shape="rect" id="node2" href="$d2/d64/class_velocity_smoothing.html#aaa01a5b0dc16a3963ebe6644aef6d8b6" title="Compute constant acceleration time. " alt="" coords="148,197,287,239"/>
+<area shape="rect" id="node13" href="$d6/db2/class_rover_position_control.html#ae739efccc037fff57e0cbbd61feff46f" title="Control position. " alt="" coords="144,263,291,304"/>
+<area shape="rect" id="node15" href="$dd/d47/namespacemath.html#a9b61bb7d480b447a85d63bde2dac0eee" title="math::goldensection" alt="" coords="148,457,287,483"/>
+<area shape="rect" id="node3" href="$d2/d64/class_velocity_smoothing.html#a288234188e7a40220d55a5633929b36e" title="Compute T1, T2, T3 depending on the current state and velocity setpoint. " alt="" coords="347,133,557,175"/>
+<area shape="rect" id="node10" href="$d2/d64/class_velocity_smoothing.html#a18544960773a1d51991694ffadbc4dda" title="Compute T1, T2, T3 depending on the current state and velocity setpoint. " alt="" coords="339,199,565,240"/>
+<area shape="rect" id="node4" href="$d2/d64/class_velocity_smoothing.html#ad2d2427ac9a1f0f16b00804416d87d4b" title="Synchronize several trajectories to have the same total time. " alt="" coords="613,133,753,175"/>
+<area shape="rect" id="node5" href="$d1/da1/class_flight_task_auto_line_smooth_vel.html#a2b68318c7a8bda4c813676bbdd877af6" title="FlightTaskAutoLineSmooth\lVel::_generateTrajectory" alt="" coords="807,5,986,47"/>
+<area shape="rect" id="node6" href="$dc/dd8/test__velocity__smoothing_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Test code for the Velocity Smoothing library Build and run using: make &amp;&amp; . " alt="" coords="871,202,922,229"/>
+<area shape="rect" id="node7" href="$d6/d80/class_manual_velocity_smoothing_x_y.html#a789993e29cca85161ed5fcc202e87576" title="ManualVelocitySmoothingXY\l::updateTrajDurations" alt="" coords="801,71,992,112"/>
+<area shape="rect" id="node9" href="$df/d24/class_velocity_smoothing_test.html#a26b9ae58612c50a8e036a041f9393f34" title="VelocitySmoothingTest\l::updateTrajectories" alt="" coords="818,136,975,177"/>
+<area shape="rect" id="node8" href="$d6/d80/class_manual_velocity_smoothing_x_y.html#a161b05a6cc5bc3bbe11a0024be7b226f" title="ManualVelocitySmoothingXY\l::setCurrentPositionEstimate" alt="" coords="1040,71,1231,112"/>
+<area shape="rect" id="node11" href="$d2/d64/class_velocity_smoothing.html#a3118670b7172adc7d019f1a2650a2db4" title="Compute T1, T2, T3 depending on the current state and velocity setpoint. " alt="" coords="614,199,753,240"/>
+<area shape="rect" id="node12" href="$d5/d2f/class_manual_velocity_smoothing_z.html#a902904f643eb903c564ada6d52c3ed6e" title="ManualVelocitySmoothingZ\l::update" alt="" coords="806,253,987,295"/>
+<area shape="rect" id="node14" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="366,267,538,294"/>
+<area shape="rect" id="node16" href="$d8/da7/class_search_min_test.html#a5fa7579deba9e0904b2704fc3d35a0f0" title="SearchMinTest::_init\l_inputs" alt="" coords="381,319,523,360"/>
+<area shape="rect" id="node18" href="$d8/da7/class_search_min_test.html#a23010bbb7db57cff3a99ce26438c1241" title="SearchMinTest::_init\l_inputs_flipped" alt="" coords="381,384,523,425"/>
+<area shape="rect" id="node19" href="$d8/da7/class_search_min_test.html#a17a03dcb11a66023c9724ce992a822db" title="SearchMinTest::_init\l_inputs_negative" alt="" coords="381,449,523,491"/>
+<area shape="rect" id="node20" href="$d8/da7/class_search_min_test.html#a2388c85dd977ee8b23026f456bde0d44" title="SearchMinTest::_init\l_tol_larger_than_range" alt="" coords="375,515,529,556"/>
+<area shape="rect" id="node21" href="$d8/da7/class_search_min_test.html#afc927eb3b1a76231f90e2aa5af06a887" title="SearchMinTest::_init\l_tol_larger_than_range\l_flipped" alt="" coords="375,581,529,637"/>
+<area shape="rect" id="node22" href="$d8/da7/class_search_min_test.html#aef58f2c156fa0c0e9ceba5b0052d4589" title="SearchMinTest::_no\l_extremum" alt="" coords="383,661,521,703"/>
+<area shape="rect" id="node17" href="$d8/da7/class_search_min_test.html#a3c4aefd28959d836952ece1c4eeb8bfc" title="Override to run your unit tests. " alt="" coords="615,481,751,523"/>
 </map>

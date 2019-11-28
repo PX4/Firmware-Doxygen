@@ -1,6 +1,8 @@
 <map id="sensors::TemperatureCompensation::set_sensor_id_baro" name="sensors::TemperatureCompensation::set_sensor_id_baro">
-<area shape="rect" id="node2" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a7aac51c899b41717c6ac83823c668a53" title="call this whenever parameters got updated. " alt="" coords="287,5,487,47"/>
-<area shape="rect" id="node3" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="535,5,677,47"/>
-<area shape="rect" id="node4" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="725,5,861,47"/>
-<area shape="rect" id="node5" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="909,13,1005,39"/>
+<area shape="rect" id="node2" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a9a5599d2a2d7347ac04edc72f97250ff" title="call this whenever parameters got updated. " alt="" coords="287,39,487,80"/>
+<area shape="rect" id="node3" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="563,5,706,47"/>
+<area shape="rect" id="node6" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#af224ca20d335a068aca2208d780ed82d" title="Poll the magnetometer for updated data. " alt="" coords="535,71,735,112"/>
+<area shape="rect" id="node4" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="815,5,951,47"/>
+<area shape="rect" id="node5" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="1031,46,1127,73"/>
+<area shape="rect" id="node7" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a4caa48d90624549d9557a56e67259926" title="read new sensor data " alt="" coords="783,71,983,112"/>
 </map>

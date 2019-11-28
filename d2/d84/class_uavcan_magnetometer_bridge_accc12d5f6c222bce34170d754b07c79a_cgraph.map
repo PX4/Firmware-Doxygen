@@ -1,51 +1,51 @@
 <map id="UavcanMagnetometerBridge::get_name" name="UavcanMagnetometerBridge::get_name">
-<area shape="rect" id="node2" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a2db82fe9dd1e8122ab33ce1028dadb99" title="Initialise the driver and make it ready for use. " alt="" coords="240,789,427,830"/>
-<area shape="rect" id="node8" href="$d2/d84/class_uavcan_magnetometer_bridge.html#ae7742c4ca8efed71edd53772c0f587df" title="UavcanMagnetometerBridge\l::mag_sub_cb" alt="" coords="475,830,661,871"/>
-<area shape="rect" id="node49" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a7cd01add038db95a169ee42726d0528c" title="UavcanMagnetometerBridge\l::ioctl" alt="" coords="240,906,427,947"/>
-<area shape="rect" id="node50" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a7257aab79f626d65f23bb704d8a6c965" title="UavcanMagnetometerBridge\l::read" alt="" coords="2216,867,2403,909"/>
-<area shape="rect" id="node3" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2246,5,2373,32"/>
-<area shape="rect" id="node4" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2468,5,2603,32"/>
-<area shape="rect" id="node5" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2483,259,2587,285"/>
-<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2675,411,2814,437"/>
-<area shape="rect" id="node7" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2668,259,2821,285"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="2468,791,2603,817"/>
-<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2029,828,2155,855"/>
-<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="2461,904,2609,931"/>
-<area shape="rect" id="node12" href="$de/d4e/class_uavcan_c_dev_sensor_bridge_base.html#aa1eb955a3ac240d7380438a9a81adc44" title="Sends one measurement into appropriate ORB topic. " alt="" coords="709,322,919,363"/>
-<area shape="rect" id="node13" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="967,329,1101,356"/>
-<area shape="rect" id="node48" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1177,172,1265,199"/>
-<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1795,209,1938,250"/>
-<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1149,358,1292,399"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2021,209,2163,250"/>
-<area shape="rect" id="node17" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1345,441,1477,468"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1531,619,1717,645"/>
-<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="2055,307,2129,333"/>
-<area shape="rect" id="node31" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="2051,375,2133,401"/>
-<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1340,274,1483,315"/>
-<area shape="rect" id="node19" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1777,777,1956,804"/>
-<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="2053,508,2131,535"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1791,493,1943,534"/>
-<area shape="rect" id="node34" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1765,711,1968,753"/>
-<area shape="rect" id="node35" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="2236,985,2383,1026"/>
-<area shape="rect" id="node37" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1843,660,1891,687"/>
-<area shape="rect" id="node21" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="2228,309,2391,336"/>
-<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="2503,411,2567,437"/>
-<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="2240,512,2379,539"/>
-<area shape="rect" id="node26" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="2263,563,2356,589"/>
-<area shape="rect" id="node22" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="2467,360,2603,387"/>
-<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="2466,563,2605,605"/>
-<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="2498,309,2573,336"/>
-<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="2242,107,2377,133"/>
-<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="2239,461,2380,488"/>
-<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="2451,512,2620,539"/>
-<area shape="rect" id="node36" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a09e6cdb4967bc03e666621319a3ee8f0" title="Find a node give its name. " alt="" coords="2454,985,2617,1026"/>
-<area shape="rect" id="node38" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="2016,879,2168,905"/>
-<area shape="rect" id="node39" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="2051,664,2133,691"/>
-<area shape="rect" id="node40" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="2240,715,2379,741"/>
-<area shape="rect" id="node41" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="2270,613,2349,640"/>
-<area shape="rect" id="node42" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="2283,664,2336,691"/>
-<area shape="rect" id="node44" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1531,281,1717,308"/>
-<area shape="rect" id="node45" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1779,609,1954,636"/>
-<area shape="rect" id="node47" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1765,274,1968,315"/>
-<area shape="rect" id="node46" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="2027,598,2157,639"/>
+<area shape="rect" id="node2" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a2db82fe9dd1e8122ab33ce1028dadb99" title="Starts the bridge. " alt="" coords="240,1054,427,1095"/>
+<area shape="rect" id="node8" href="$d2/d84/class_uavcan_magnetometer_bridge.html#ae7742c4ca8efed71edd53772c0f587df" title="UavcanMagnetometerBridge\l::mag_sub_cb" alt="" coords="475,945,661,986"/>
+<area shape="rect" id="node49" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a030ab8d234bcc6ef5850b4d8fabf1ba5" title="UavcanMagnetometerBridge\l::mag2_sub_cb" alt="" coords="475,1050,661,1091"/>
+<area shape="rect" id="node50" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a7cd01add038db95a169ee42726d0528c" title="UavcanMagnetometerBridge\l::ioctl" alt="" coords="240,1119,427,1161"/>
+<area shape="rect" id="node3" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="device::CDev::init" alt="" coords="505,1231,631,1257"/>
+<area shape="rect" id="node4" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="747,1256,881,1283"/>
+<area shape="rect" id="node5" href="$d8/d26/classcdev_1_1_c_dev.html#a0bc1072e967a90dfac04a1227f200f6f" title="Get the device name. " alt="" coords="725,1307,903,1333"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="cdev::CDev::init" alt="" coords="2107,319,2224,345"/>
+<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="2303,461,2407,488"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="2103,901,2227,928"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2103,1104,2228,1131"/>
+<area shape="rect" id="node11" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="2096,952,2235,979"/>
+<area shape="rect" id="node12" href="$de/d4e/class_uavcan_c_dev_sensor_bridge_base.html#aa1eb955a3ac240d7380438a9a81adc44" title="Sends one measurement into appropriate ORB topic. " alt="" coords="709,814,919,855"/>
+<area shape="rect" id="node13" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="967,760,1101,787"/>
+<area shape="rect" id="node48" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1177,701,1265,728"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1855,333,1998,374"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1149,753,1292,794"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2094,370,2237,411"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1340,507,1527,533"/>
+<area shape="rect" id="node37" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1396,709,1471,736"/>
+<area shape="rect" id="node40" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1393,760,1474,787"/>
+<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1362,811,1505,853"/>
+<area shape="rect" id="node18" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="2076,5,2255,32"/>
+<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1637,597,1715,624"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1600,247,1752,289"/>
+<area shape="rect" id="node31" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1575,531,1777,573"/>
+<area shape="rect" id="node32" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1603,466,1749,507"/>
+<area shape="rect" id="node35" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1652,648,1700,675"/>
+<area shape="rect" id="node20" href="$dc/db4/classcdev_1_1_v_file.html#a76418692ad24fb60ee14bdb5ae66d19d" title="cdev::VFile::createFile" alt="" coords="1850,581,2003,608"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a3fe15a0fdcd00e34f4a29b3cea4c7c46" title="getDev" alt="" coords="1895,632,1959,659"/>
+<area shape="rect" id="node23" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1863,683,1991,709"/>
+<area shape="rect" id="node21" href="$dc/db4/classcdev_1_1_v_file.html#a48ae3db836c0e14085465455ebbc9c99" title="cdev::VFile::VFile" alt="" coords="2102,531,2229,557"/>
+<area shape="rect" id="node24" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="2087,683,2244,709"/>
+<area shape="rect" id="node26" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a722d86a2e0c4b133a64f3fe835c98d4e" title="uORB::DeviceMaster\l::advertise" alt="" coords="1853,165,2000,206"/>
+<area shape="rect" id="node27" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a1c0250b5d2791efa66024cc67375b0f1" title="Find a node give its name. " alt="" coords="2084,122,2247,163"/>
+<area shape="rect" id="node28" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="2087,187,2243,229"/>
+<area shape="rect" id="node29" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a96ecaee3f71270f247ecf838af94128c" title="uORB::DeviceNode::set\l_priority" alt="" coords="2083,253,2247,294"/>
+<area shape="rect" id="node30" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a5d9144fd43c624636a633d9dc288061a" title="uORB::DeviceNode::mark\l_as_advertised" alt="" coords="2078,57,2253,98"/>
+<area shape="rect" id="node33" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="1853,515,2000,557"/>
+<area shape="rect" id="node34" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="1853,450,2000,491"/>
+<area shape="rect" id="node36" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1885,733,1968,760"/>
+<area shape="rect" id="node38" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1639,749,1713,776"/>
+<area shape="rect" id="node39" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1614,699,1738,725"/>
+<area shape="rect" id="node41" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1861,784,1992,811"/>
+<area shape="rect" id="node42" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="2086,784,2245,811"/>
+<area shape="rect" id="node44" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1583,851,1769,877"/>
+<area shape="rect" id="node45" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a86db9fc8d841b0a4748611cec14ea546" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1839,1053,2014,1080"/>
+<area shape="rect" id="node47" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1825,835,2028,877"/>
+<area shape="rect" id="node46" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="2086,1053,2245,1080"/>
 </map>

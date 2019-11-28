@@ -1,10 +1,11 @@
 <map id="GPSDriverMTK::receive" name="GPSDriverMTK::receive">
 <area shape="rect" id="node2" href="$d8/d8f/class_g_p_s_driver_m_t_k.html#a46da0580ab66e07db2a40bd936bdc26c" title="Handle the package once it has arrived. " alt="" coords="216,56,428,83"/>
-<area shape="rect" id="node5" href="$d8/d8f/class_g_p_s_driver_m_t_k.html#a203e11da2697cdaa0363ecb33bfc277f" title="Parse the binary MTK packet. " alt="" coords="231,107,413,133"/>
-<area shape="rect" id="node8" href="$d2/d20/class_g_p_s_helper.html#ae499166387a2123074225fdcd21b855d" title="read from device " alt="" coords="261,157,383,184"/>
-<area shape="rect" id="node9" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="292,208,352,235"/>
+<area shape="rect" id="node7" href="$d8/d8f/class_g_p_s_driver_m_t_k.html#a203e11da2697cdaa0363ecb33bfc277f" title="Parse the binary MTK packet. " alt="" coords="231,107,413,133"/>
+<area shape="rect" id="node10" href="$d2/d20/class_g_p_s_helper.html#ae499166387a2123074225fdcd21b855d" title="read from device " alt="" coords="261,157,383,184"/>
 <area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="580,5,619,32"/>
-<area shape="rect" id="node4" href="$d2/d20/class_g_p_s_helper.html#a3b74fa1cbf17feab5a2c080fb17357c4" title="GPSHelper::setClock" alt="" coords="525,56,673,83"/>
-<area shape="rect" id="node6" href="$d8/d8f/class_g_p_s_driver_m_t_k.html#af8471f62fd246610c5d04b78f37b2c86" title="While parsing add every byte (except the sync bytes) to the checksum. " alt="" coords="476,107,723,133"/>
-<area shape="rect" id="node7" href="$d8/d8f/class_g_p_s_driver_m_t_k.html#ad6fb161610d8c85985c3fed4d825fbaf" title="Reset the parse state machine for a fresh start. " alt="" coords="509,157,690,184"/>
+<area shape="rect" id="node6" href="$d2/d20/class_g_p_s_helper.html#a3b74fa1cbf17feab5a2c080fb17357c4" title="GPSHelper::setClock" alt="" coords="525,56,673,83"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="771,5,853,32"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="901,5,988,32"/>
+<area shape="rect" id="node8" href="$d8/d8f/class_g_p_s_driver_m_t_k.html#af8471f62fd246610c5d04b78f37b2c86" title="While parsing add every byte (except the sync bytes) to the checksum. " alt="" coords="476,107,723,133"/>
+<area shape="rect" id="node9" href="$d8/d8f/class_g_p_s_driver_m_t_k.html#ad6fb161610d8c85985c3fed4d825fbaf" title="Reset the parse state machine for a fresh start. " alt="" coords="509,157,690,184"/>
 </map>

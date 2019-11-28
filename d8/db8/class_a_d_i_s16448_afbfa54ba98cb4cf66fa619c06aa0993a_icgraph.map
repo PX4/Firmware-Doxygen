@@ -1,14 +1,7 @@
 <map id="ADIS16448::stop" name="ADIS16448::stop">
-<area shape="rect" id="node2" href="$df/d56/struct_a_d_i_s16448_1_1_a_d_i_s_report.html#a95385ce98bad534131a02899dd841801" title="ADIS16448::ADISReport\l::ADISReport" alt="" coords="396,5,564,47"/>
-<area shape="rect" id="node3" href="$d8/db8/class_a_d_i_s16448.html#a036e00fcd6ac7142c11b047a4d62c11e" title="ADIS16448::ioctl" alt="" coords="419,82,541,109"/>
-<area shape="rect" id="node12" href="$d8/db8/class_a_d_i_s16448.html#a404b4f5c03a2a729de01df683a1e3d86" title="Start automatic measurement. " alt="" coords="201,53,323,79"/>
-<area shape="rect" id="node13" href="$d8/db8/class_a_d_i_s16448.html#a9255cbeece09e95a3fc9f45b9c2137be" title="ADIS16448::~ADIS16448" alt="" coords="176,154,348,181"/>
-<area shape="rect" id="node4" href="$d8/db8/class_a_d_i_s16448.html#a08909edd7080b21b29e56ce7c86661d6" title="ADIS16448::gyro_ioctl" alt="" coords="612,57,765,83"/>
-<area shape="rect" id="node6" href="$d8/db8/class_a_d_i_s16448.html#aa2ae817159056ed6080842a3578fa98d" title="ADIS16448::mag_ioctl" alt="" coords="612,107,765,134"/>
-<area shape="rect" id="node5" href="$da/dfc/class_a_d_i_s16448__gyro.html#afc064c254387686bde5ce3c2f4a33af1" title="ADIS16448_gyro::ioctl" alt="" coords="813,57,967,83"/>
-<area shape="rect" id="node7" href="$db/d2e/class_a_d_i_s16448__mag.html#a0846492ca399446306194922454905b7" title="ADIS16448_mag::ioctl" alt="" coords="813,107,967,134"/>
-<area shape="rect" id="node8" href="$d4/dc6/namespaceadis16448.html#a795944c8466c4495ca604b7e7e676f76" title="Start the driver. " alt="" coords="1181,82,1296,109"/>
-<area shape="rect" id="node10" href="$d4/dc6/namespaceadis16448.html#ac6716bd7de93905af7dfb2e30e0b84bb" title="Reset the driver. " alt="" coords="1015,133,1133,159"/>
-<area shape="rect" id="node9" href="$dd/db0/adis16448_8cpp.html#a7325a0caca0b01043f6827796555c498" title="driver &#39;main&#39; command " alt="" coords="1344,133,1460,159"/>
-<area shape="rect" id="node11" href="$d4/dc6/namespaceadis16448.html#a6105363c6006f692fd632c49757c2d70" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="1183,183,1294,210"/>
+<area shape="rect" id="node2" href="$d8/db8/class_a_d_i_s16448.html#a404b4f5c03a2a729de01df683a1e3d86" title="Start automatic measurement. " alt="" coords="201,5,323,32"/>
+<area shape="rect" id="node6" href="$d8/db8/class_a_d_i_s16448.html#a9255cbeece09e95a3fc9f45b9c2137be" title="ADIS16448::~ADIS16448" alt="" coords="176,56,348,83"/>
+<area shape="rect" id="node3" href="$d8/db8/class_a_d_i_s16448.html#ae5539bb23371afbb4adc88331b562174" title="ADIS16448::init" alt="" coords="396,5,511,32"/>
+<area shape="rect" id="node4" href="$d4/dc6/namespaceadis16448.html#ae7937575dbf2a50d9409474ade733c7b" title="adis16448::start" alt="" coords="559,5,673,32"/>
+<area shape="rect" id="node5" href="$dd/d0b/adis16448__main_8cpp.html#a7325a0caca0b01043f6827796555c498" title="adis16448_main" alt="" coords="721,5,837,32"/>
 </map>

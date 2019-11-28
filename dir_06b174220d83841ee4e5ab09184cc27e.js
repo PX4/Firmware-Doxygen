@@ -1,6 +1,7 @@
 var dir_06b174220d83841ee4e5ab09184cc27e =
 [
     [ "bmp280", "dir_6a19344eaae35d8a127e1abece210a6d.html", "dir_6a19344eaae35d8a127e1abece210a6d" ],
+    [ "bmp388", "dir_a64a7729f01f3d7cb5c598a34f16aa0a.html", "dir_a64a7729f01f3d7cb5c598a34f16aa0a" ],
     [ "lps22hb", "dir_f364da4e7a89fe1ce0e0dc797917ebdb.html", "dir_f364da4e7a89fe1ce0e0dc797917ebdb" ],
     [ "lps25h", "dir_09db9128cf2f7394c70696f2cea42626.html", "dir_09db9128cf2f7394c70696f2cea42626" ],
     [ "mpl3115a2", "dir_f2d5e6f4f5655646f911672e21ff4830.html", "dir_f2d5e6f4f5655646f911672e21ff4830" ],

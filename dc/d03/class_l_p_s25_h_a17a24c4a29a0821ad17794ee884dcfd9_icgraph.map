@@ -1,10 +1,8 @@
 <map id="LPS25H::start" name="LPS25H::start">
-<area shape="rect" id="node2" href="$dc/d03/class_l_p_s25_h.html#a9949c12a0c7431a6cd3ffd5c28324592" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="159,5,269,32"/>
-<area shape="rect" id="node4" href="$dc/d03/class_l_p_s25_h.html#a9ed2ed02a0e076781b828049852a67ef" title="LPS25H::ioctl" alt="" coords="163,107,265,133"/>
-<area shape="rect" id="node3" href="$dc/d03/class_l_p_s25_h.html#a92dfa3fb19111ed9dbdc2915f86ccca4" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="317,5,495,32"/>
-<area shape="rect" id="node5" href="$d8/d04/namespacelps25h.html#a3b32f17e285a77349a84f2c06268f1c5" title="Reset the driver. " alt="" coords="543,56,640,83"/>
-<area shape="rect" id="node7" href="$d8/d04/namespacelps25h.html#a2b235fc73bc7afc3b81791a2e4775e56" title="start driver for a specific bus option " alt="" coords="345,107,467,133"/>
-<area shape="rect" id="node9" href="$d8/d04/namespacelps25h.html#accc089fb6426d2bed21ea7513ce0b70f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="546,157,637,184"/>
-<area shape="rect" id="node6" href="$d5/d75/lps25h_8cpp.html#a9eee50e01fdaf781035a3d9c34d8f66b" title="lps25h_main" alt="" coords="688,107,783,133"/>
-<area shape="rect" id="node8" href="$d8/d04/namespacelps25h.html#a973255af2396e30f1a9000cd7ee57aea" title="Start the driver. " alt="" coords="544,107,639,133"/>
+<area shape="rect" id="node2" href="$dc/d03/class_l_p_s25_h.html#a9ed2ed02a0e076781b828049852a67ef" title="LPS25H::ioctl" alt="" coords="159,31,261,57"/>
+<area shape="rect" id="node7" href="$dc/d03/class_l_p_s25_h.html#a90aafcaa887f8b6508945983dabf9879" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="159,81,261,108"/>
+<area shape="rect" id="node3" href="$d8/d04/namespacelps25h.html#a3b32f17e285a77349a84f2c06268f1c5" title="Reset the driver. " alt="" coords="480,5,577,32"/>
+<area shape="rect" id="node5" href="$d8/d04/namespacelps25h.html#a2b235fc73bc7afc3b81791a2e4775e56" title="start driver for a specific bus option " alt="" coords="309,56,432,83"/>
+<area shape="rect" id="node4" href="$d5/d75/lps25h_8cpp.html#a9eee50e01fdaf781035a3d9c34d8f66b" title="lps25h_main" alt="" coords="625,31,720,57"/>
+<area shape="rect" id="node6" href="$d8/d04/namespacelps25h.html#a973255af2396e30f1a9000cd7ee57aea" title="Start the driver. " alt="" coords="481,56,576,83"/>
 </map>

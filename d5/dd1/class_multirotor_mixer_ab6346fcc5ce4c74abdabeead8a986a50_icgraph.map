@@ -1,0 +1,48 @@
+<map id="MultirotorMixer::compute_desaturation_gain" name="MultirotorMixer::compute_desaturation_gain">
+<area shape="rect" id="node2" href="$d5/dd1/class_multirotor_mixer.html#aa57fb59ca730dfc03e27505876b7f8a6" title="Minimize the saturation of the actuators by adding or substracting a fraction of desaturation_vector..." alt="" coords="220,277,388,318"/>
+<area shape="rect" id="node3" href="$d5/dd1/class_multirotor_mixer.html#a228cd5ac502699728c1b8f2c8d33f03f" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="652,251,789,293"/>
+<area shape="rect" id="node45" href="$d5/dd1/class_multirotor_mixer.html#a957ab3ca1ee85cb257082ef2624d8f82" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="451,193,589,234"/>
+<area shape="rect" id="node46" href="$d5/dd1/class_multirotor_mixer.html#aa53916371c303c865110ef71497dbf9d" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="652,317,789,358"/>
+<area shape="rect" id="node47" href="$d5/dd1/class_multirotor_mixer.html#aabf86d1773770ff5cef12eea4ac9a561" title="Mix yaw by updating an existing output vector (that already contains roll/pitch/thrust). " alt="" coords="436,309,604,336"/>
+<area shape="rect" id="node4" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="837,259,975,285"/>
+<area shape="rect" id="node5" href="$d9/dd1/namespaceuart__esc.html#aee518e4183b269a2432ea9184a93b957" title="uart_esc thread primary entry point " alt="" coords="1049,56,1189,83"/>
+<area shape="rect" id="node9" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="1023,153,1215,180"/>
+<area shape="rect" id="node14" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="MixerGroup::mix" alt="" coords="1059,284,1178,311"/>
+<area shape="rect" id="node44" href="$d3/d45/test__mixer__multirotor_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1093,335,1144,361"/>
+<area shape="rect" id="node6" href="$d9/dd1/namespaceuart__esc.html#a29b71bb756bb2b3b5b7e691d09423703" title="task main trampoline function " alt="" coords="1281,6,1421,47"/>
+<area shape="rect" id="node7" href="$d9/dd1/namespaceuart__esc.html#a7414266b22e73024e9dbbbd65776f404" title="Attempt to start driver on all available I2C busses. " alt="" coords="1514,5,1621,32"/>
+<area shape="rect" id="node8" href="$d3/d92/spektrum__rc_8cpp.html#a1fabcdf34c69dadf4f3f51b77f485286" title="spektrum_rc_main" alt="" coords="1725,5,1855,32"/>
+<area shape="rect" id="node10" href="$d3/d92/namespacesnapdragon__pwm.html#a2ba69ca6582c4546ff158d57c18fec22" title="snapdragon_pwm::task\l_main_trampoline" alt="" coords="1273,78,1430,119"/>
+<area shape="rect" id="node11" href="$d3/d92/namespacesnapdragon__pwm.html#a4ded7b1adaa7c042a7feec376941cc2f" title="snapdragon_pwm::start" alt="" coords="1488,56,1647,83"/>
+<area shape="rect" id="node12" href="$d8/dad/snapdragon__pwm__out_8cpp.html#a21dce0265a43d504f07e3c24e3302e83" title="snapdragon_pwm_out_main" alt="" coords="1698,56,1882,83"/>
+<area shape="rect" id="node13" href="$d3/d92/namespacesnapdragon__pwm.html#a8d24f1d491d98e86370e41289f812007" title="snapdragon_pwm::usage" alt="" coords="1933,56,2100,83"/>
+<area shape="rect" id="node15" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="1290,259,1413,285"/>
+<area shape="rect" id="node17" href="$d1/da8/modules_2px4iofirmware_2_mixer_8cpp.html#a43e725d165db6bf11a8afcc09b008b76" title="mixer_mix_threadsafe" alt="" coords="1276,309,1427,336"/>
+<area shape="rect" id="node28" href="$d9/dd5/class_mixer_test.html#a41f997efe4a878dcb538c524351942f6" title="MixerTest::mixerTest" alt="" coords="1278,360,1425,387"/>
+<area shape="rect" id="node30" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="1263,411,1440,437"/>
+<area shape="rect" id="node35" href="$d8/de7/class_m_k.html#ad13b541644dbd5cf29587f580537a8e0" title="MK::task_main" alt="" coords="1296,461,1407,488"/>
+<area shape="rect" id="node36" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a47639453025244f1943afaa4d5cb6677" title="df_bebop_bus_wrapper\l::task_main" alt="" coords="1273,519,1429,561"/>
+<area shape="rect" id="node39" href="$da/d43/class_mixing_output.html#a8261225a75b45289c2384fcf6b3bc469" title="Call this regularly from Run(). " alt="" coords="1278,157,1425,184"/>
+<area shape="rect" id="node43" href="$d9/dbb/class_mixer_group.html#ac544cff91a7b78be920767a35040f455" title="MixerGroup::~MixerGroup" alt="" coords="1265,208,1437,235"/>
+<area shape="rect" id="node16" href="$d2/da9/class_t_a_p___e_s_c.html#a24c08fd964d11944b1f351dbb5723dd5" title="TAP_ESC::run" alt="" coords="1513,259,1622,285"/>
+<area shape="rect" id="node18" href="$d8/d05/px4io_8h.html#a5c66f0c352601371118189378ae19dee" title="mixer_set_failsafe" alt="" coords="1503,309,1631,336"/>
+<area shape="rect" id="node27" href="$d8/d05/px4io_8h.html#ae4335b0132a371f64a91cbc19cb518e4" title="mixer_tick" alt="" coords="2367,360,2449,387"/>
+<area shape="rect" id="node19" href="$d4/d28/registers_8c.html#acb76ce9506a2d7ebd08998a39fba7358" title="registers_set_one" alt="" coords="1727,309,1853,336"/>
+<area shape="rect" id="node20" href="$d4/d28/registers_8c.html#a79ff516383f902f7c580f60972f88484" title="Register space. " alt="" coords="1968,309,2065,336"/>
+<area shape="rect" id="node21" href="$d8/d90/serial_8c.html#a7a47545978c88c7e8b180736034a49ef" title="rx_handle_packet" alt="" coords="2162,309,2286,336"/>
+<area shape="rect" id="node22" href="$d8/d90/serial_8c.html#a9ea429bf8993556bd90658d40f5b875e" title="rx_dma_callback" alt="" coords="2348,309,2468,336"/>
+<area shape="rect" id="node23" href="$d8/d90/serial_8c.html#ab490e77cf58b14849740525ba5dc47ef" title="dma_reset" alt="" coords="2516,309,2599,336"/>
+<area shape="rect" id="node26" href="$d8/d90/serial_8c.html#a4f42595963508e10e538baddbf85204a" title="serial_interrupt" alt="" coords="2647,259,2753,285"/>
+<area shape="rect" id="node24" href="$d8/d90/serial_8c.html#a86489e4b72e9a378e39ebc48b6c95ece" title="FMU communications. " alt="" coords="2801,309,2897,336"/>
+<area shape="rect" id="node25" href="$dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626" title="user_start" alt="" coords="2945,335,3025,361"/>
+<area shape="rect" id="node29" href="$d9/dd5/class_mixer_test.html#aa8aecca3b00dcc680a6e512bf769a3cd" title="Override to run your unit tests. " alt="" coords="1496,411,1639,437"/>
+<area shape="rect" id="node31" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="1496,462,1639,503"/>
+<area shape="rect" id="node32" href="$d0/db0/namespacelinux__pwm__out.html#a15fd89cbae6f918aee78e46d9d018a7b" title="linux_pwm_out::start" alt="" coords="1719,469,1861,496"/>
+<area shape="rect" id="node33" href="$da/dd6/linux__pwm__out_8cpp.html#a412407ab462307bbeb3e9198bc9872ce" title="linux_pwm_out_main" alt="" coords="1945,469,2089,496"/>
+<area shape="rect" id="node34" href="$d0/db0/namespacelinux__pwm__out.html#a3eab6d177df998cc3a3fe0664f591369" title="linux_pwm_out::usage" alt="" coords="2148,469,2300,496"/>
+<area shape="rect" id="node37" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a7615c7915d99b5c00fbb62b071635766" title="Attempt to start driver on all available I2C busses. " alt="" coords="1489,527,1645,569"/>
+<area shape="rect" id="node38" href="$d4/dbd/df__bebop__bus__wrapper_8cpp.html#ae001605c030ad2265b6eb3b758e32163" title="df_bebop_bus_wrapper_main" alt="" coords="1695,535,1885,561"/>
+<area shape="rect" id="node40" href="$d7/d56/class_p_w_m_sim.html#a9d514dc16b6d5e0128d8eb0d2c59d83f" title="PWMSim::Run" alt="" coords="1512,208,1623,235"/>
+<area shape="rect" id="node41" href="$d9/d95/class_d_shot_output.html#a9afbb119ec319b88b6b3c38b8ae47a92" title="DShotOutput::Run" alt="" coords="1502,107,1633,133"/>
+<area shape="rect" id="node42" href="$df/d64/class_p_x4_f_m_u.html#ac655d0cfa5ca7a90ce6c1043bf04822f" title="PX4FMU::Run" alt="" coords="1513,157,1621,184"/>
+</map>

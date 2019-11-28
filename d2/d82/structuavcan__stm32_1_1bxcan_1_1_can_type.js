@@ -1,0 +1,25 @@
+var structuavcan__stm32_1_1bxcan_1_1_can_type =
+[
+    [ "BTR", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a9a493b11789dd970711cc4fde13e207f", null ],
+    [ "ESR", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a050d067e1852783d1c5a8e1152c89d2f", null ],
+    [ "FA1R", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a7390999350dd36839d3d02d97d845ece", null ],
+    [ "FFA1R", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a3158f733510a73caa51b931c356e9f34", null ],
+    [ "FilterRegister", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a3b7b2a7479bcb3bc8135c139b5edc307", null ],
+    [ "FM1R", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#aecbf6515af0be3635068588ae163727b", null ],
+    [ "FMR", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a0fc5393cc145602a339597ca62ae44ee", null ],
+    [ "FS1R", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#aa2cdac7fb7e069280bdb45c8d1f154eb", null ],
+    [ "IER", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a0a3eb62b8b0e21e5addfe934e8a63d4a", null ],
+    [ "MCR", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a5fe1a699f828af878324c15fdfdcd6fa", null ],
+    [ "MSR", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#af8cbd5429f95ca4dbd9fdd9598886580", null ],
+    [ "RESERVED0", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a35477774a698d78700da7e863e25dcde", null ],
+    [ "RESERVED1", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a2f93a85cbc412a4d6d6a6df1f74907fa", null ],
+    [ "RESERVED2", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a7da0bb9d03735d98bc1448d45020702c", null ],
+    [ "RESERVED3", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#aa0e0a68d5aace1d6a531ca6d4a6d4f8e", null ],
+    [ "RESERVED4", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a1a297ff844563929d27490386cfa34c7", null ],
+    [ "RESERVED5", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a356462c554c13c3a6540ca093bb0f945", null ],
+    [ "RF0R", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#aeac8e90edba37568062815f41fa629a9", null ],
+    [ "RF1R", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#aaeb659d61c897e20b2d008ed122ea3a6", null ],
+    [ "RxMailbox", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a2cc115f3d8efad4350cd8c853417be93", null ],
+    [ "TSR", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#accb9b384a5fd009ceb2d7ec0d8e1a74d", null ],
+    [ "TxMailbox", "d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html#a78db7cf096323d9715a4fb17b43cdd99", null ]
+];

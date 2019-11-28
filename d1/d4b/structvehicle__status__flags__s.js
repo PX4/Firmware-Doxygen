@@ -1,6 +1,8 @@
 var structvehicle__status__flags__s =
 [
-    [ "_padding0", "d1/d4b/structvehicle__status__flags__s.html#a8a488e0170073252795ba224265cf271", null ],
+    [ "_padding0", "d1/d4b/structvehicle__status__flags__s.html#a89a6b23ef8b5d26fd85f7e8dbd94796c", null ],
+    [ "avoidance_system_required", "d1/d4b/structvehicle__status__flags__s.html#a46789ba5ba219e931b15f4c6497395f4", null ],
+    [ "avoidance_system_valid", "d1/d4b/structvehicle__status__flags__s.html#a2a22f176f6706061d89f01a6185de411", null ],
     [ "circuit_breaker_engaged_airspd_check", "d1/d4b/structvehicle__status__flags__s.html#a02fe8d41494860e12091f8bc69476fd3", null ],
     [ "circuit_breaker_engaged_enginefailure_check", "d1/d4b/structvehicle__status__flags__s.html#a2883f5d087a492fba009efe196d35399", null ],
     [ "circuit_breaker_engaged_gpsfailure_check", "d1/d4b/structvehicle__status__flags__s.html#ad38d1e9d742cf10244b0769b7233f0ac", null ],
@@ -9,7 +11,9 @@ var structvehicle__status__flags__s =
     [ "circuit_breaker_engaged_usb_check", "d1/d4b/structvehicle__status__flags__s.html#a77167b569d24b4d50c6400e3f05e3725", null ],
     [ "circuit_breaker_flight_termination_disabled", "d1/d4b/structvehicle__status__flags__s.html#a7bf26316cc590a9f16bd15abf4469870", null ],
     [ "condition_auto_mission_available", "d1/d4b/structvehicle__status__flags__s.html#a22967f4ba02c22cbc1f09983ceb412db", null ],
+    [ "condition_battery_healthy", "d1/d4b/structvehicle__status__flags__s.html#affabf8eeeaab26f210bddaa31f58dc90", null ],
     [ "condition_calibration_enabled", "d1/d4b/structvehicle__status__flags__s.html#aae8f00ee97a82f182912b95d4b017df5", null ],
+    [ "condition_escs_error", "d1/d4b/structvehicle__status__flags__s.html#a99f7c64f49c98b47188ac10dc48c42fa", null ],
     [ "condition_global_position_valid", "d1/d4b/structvehicle__status__flags__s.html#a80a34d370212d373b665a295bcfdf3d1", null ],
     [ "condition_home_position_valid", "d1/d4b/structvehicle__status__flags__s.html#a1fb4d0cc4b86ef4c123d4170da633d52", null ],
     [ "condition_local_altitude_valid", "d1/d4b/structvehicle__status__flags__s.html#a728a009d7b2aa98228f09d5b0ddf5da9", null ],

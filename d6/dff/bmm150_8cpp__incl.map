@@ -1,26 +1,23 @@
 <map id="src/drivers/magnetometer/bmm150/bmm150.cpp" name="src/drivers/magnetometer/bmm150/bmm150.cpp">
-<area shape="rect" id="node2" href="$d5/d05/bmm150_8hpp.html" title="bmm150.hpp" alt="" coords="1882,95,1979,121"/>
-<area shape="rect" id="node50" href="$d8/d37/px4__getopt_8h.html" title="Thread safe version of getopt. " alt="" coords="2003,95,2101,121"/>
-<area shape="rect" id="node3" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="5,177,101,203"/>
-<area shape="rect" id="node17" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="1581,266,1659,293"/>
-<area shape="rect" id="node22" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1425,266,1556,293"/>
-<area shape="rect" id="node23" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1734,177,1842,203"/>
-<area shape="rect" id="node25" href="$da/dd6/conversions_8h.html" title="Definition of commonly used conversions. " alt="" coords="1147,177,1309,203"/>
-<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="350,177,466,203"/>
-<area shape="rect" id="node34" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="1385,177,1557,203"/>
-<area shape="rect" id="node35" href="$de/d1c/integrator_8h.html" title="A resettable integrator. " alt="" coords="2663,177,2835,203"/>
-<area shape="rect" id="node41" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="3283,177,3418,203"/>
-<area shape="rect" id="node43" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="829,177,955,203"/>
-<area shape="rect" id="node48" href="$d0/d28/_low_pass_filter2p_8hpp.html" title="mathlib/math/filter\l/LowPassFilter2p.hpp" alt="" coords="3442,169,3590,211"/>
-<area shape="rect" id="node49" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="2479,177,2639,203"/>
-<area shape="rect" id="node21" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1437,348,1539,375"/>
-<area shape="rect" id="node31" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="227,266,314,293"/>
-<area shape="rect" id="node37" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="2513,266,2629,293"/>
-<area shape="rect" id="node38" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="2377,348,2505,375"/>
-<area shape="rect" id="node39" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="2529,348,2612,375"/>
-<area shape="rect" id="node40" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="2635,348,2759,375"/>
-<area shape="rect" id="node42" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="3323,266,3426,293"/>
-<area shape="rect" id="node45" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="975,266,1073,293"/>
-<area shape="rect" id="node46" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="796,266,900,293"/>
-<area shape="rect" id="node47" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="631,259,771,300"/>
+<area shape="rect" id="node2" href="$d5/d05/bmm150_8hpp.html" title="bmm150.hpp" alt="" coords="1998,102,2095,129"/>
+<area shape="rect" id="node18" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="981,295,1112,322"/>
+<area shape="rect" id="node20" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2135,199,2243,225"/>
+<area shape="rect" id="node23" href="$da/dd6/conversions_8h.html" title="Definition of commonly used conversions. " alt="" coords="1116,199,1279,225"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="274,295,390,322"/>
+<area shape="rect" id="node33" href="$dd/d52/drivers_2device_2ringbuffer_8h.html" title="drivers/device/ringbuffer.h" alt="" coords="1354,199,1526,225"/>
+<area shape="rect" id="node34" href="$de/d1c/integrator_8h.html" title="A resettable integrator. " alt="" coords="1602,199,1774,225"/>
+<area shape="rect" id="node42" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="3311,199,3446,225"/>
+<area shape="rect" id="node44" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="701,199,827,225"/>
+<area shape="rect" id="node48" href="$d0/d28/_low_pass_filter2p_8hpp.html" title="mathlib/math/filter\l/LowPassFilter2p.hpp" alt="" coords="3470,191,3618,233"/>
+<area shape="rect" id="node49" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="1799,199,1959,225"/>
+<area shape="rect" id="node36" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="1615,295,1731,322"/>
+<area shape="rect" id="node37" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1219,385,1347,411"/>
+<area shape="rect" id="node38" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="1669,385,1811,411"/>
+<area shape="rect" id="node39" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="1836,385,1919,411"/>
+<area shape="rect" id="node40" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="1421,385,1545,411"/>
+<area shape="rect" id="node41" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="1569,385,1645,411"/>
+<area shape="rect" id="node43" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="3351,295,3454,322"/>
+<area shape="rect" id="node45" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="645,295,742,322"/>
+<area shape="rect" id="node46" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="516,295,620,322"/>
+<area shape="rect" id="node47" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="766,288,906,329"/>
 </map>

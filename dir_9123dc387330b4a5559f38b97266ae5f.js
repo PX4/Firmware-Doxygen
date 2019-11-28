@@ -9,5 +9,5 @@ var dir_9123dc387330b4a5559f38b97266ae5f =
       [ "LidarLitePWM", "dc/d3d/class_lidar_lite_p_w_m.html", "dc/d3d/class_lidar_lite_p_w_m" ]
     ] ],
     [ "ll40ls.cpp", "df/d98/ll40ls_8cpp.html", "df/d98/ll40ls_8cpp" ],
-    [ "parameters.c", "d2/d3f/ll40ls_2parameters_8c.html", "d2/d3f/ll40ls_2parameters_8c" ]
+    [ "parameters.c", "d2/de3/distance__sensor_2ll40ls_2parameters_8c.html", "d2/de3/distance__sensor_2ll40ls_2parameters_8c" ]
 ];

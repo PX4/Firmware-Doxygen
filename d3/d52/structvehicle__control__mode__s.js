@@ -16,7 +16,7 @@ var structvehicle__control__mode__s =
     [ "flag_control_rattitude_enabled", "d3/d52/structvehicle__control__mode__s.html#a252a428aeec38033d858a1ff718d4413", null ],
     [ "flag_control_termination_enabled", "d3/d52/structvehicle__control__mode__s.html#a23f7172b1de38dc3004f54ff0858f591", null ],
     [ "flag_control_velocity_enabled", "d3/d52/structvehicle__control__mode__s.html#a2bd88fa6ff6fb2bfd8913dd6d0465ebe", null ],
+    [ "flag_control_yawrate_override_enabled", "d3/d52/structvehicle__control__mode__s.html#a33ea50aad8638afc0de4fa81efb688e4", null ],
     [ "flag_external_manual_override_ok", "d3/d52/structvehicle__control__mode__s.html#a7143908e08d82294b12d3be7d645c619", null ],
-    [ "flag_system_hil_enabled", "d3/d52/structvehicle__control__mode__s.html#a4e49d10dc620a86b1b762bea8639020d", null ],
     [ "timestamp", "d3/d52/structvehicle__control__mode__s.html#a20baad7833089fbd4b892688c449ef47", null ]
 ];

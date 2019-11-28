@@ -1,21 +1,15 @@
-<map id="src/modules/uavcan/sensors/baro.hpp" name="src/modules/uavcan/sensors/baro.hpp">
-<area shape="rect" id="node2" href="$d4/dd7/sensor__bridge_8hpp.html" title="sensor_bridge.hpp" alt="" coords="840,102,968,129"/>
-<area shape="rect" id="node32" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="602,408,729,435"/>
-<area shape="rect" id="node35" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="1229,647,1401,673"/>
-<area shape="rect" id="node3" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="681,184,813,211"/>
-<area shape="rect" id="node5" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="449,184,605,211"/>
-<area shape="rect" id="node27" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="760,490,864,517"/>
-<area shape="rect" id="node6" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="517,333,605,360"/>
-<area shape="rect" id="node29" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="439,259,521,285"/>
-<area shape="rect" id="node7" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="429,408,525,435"/>
-<area shape="rect" id="node8" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="331,490,423,517"/>
-<area shape="rect" id="node24" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="1044,408,1183,435"/>
-<area shape="rect" id="node9" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="506,572,609,599"/>
-<area shape="rect" id="node16" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="388,572,481,599"/>
-<area shape="rect" id="node22" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="277,572,363,599"/>
-<area shape="rect" id="node10" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="491,647,570,673"/>
-<area shape="rect" id="node26" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="939,490,1037,517"/>
-<area shape="rect" id="node30" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="278,333,442,360"/>
-<area shape="rect" id="node33" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="595,483,735,524"/>
-<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="633,572,743,599"/>
+<map id="src/drivers/uavcan/sensors/baro.hpp" name="src/drivers/uavcan/sensors/baro.hpp">
+<area shape="rect" id="node2" href="$d4/dd7/sensor__bridge_8hpp.html" title="sensor_bridge.hpp" alt="" coords="256,102,384,129"/>
+<area shape="rect" id="node25" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="209,333,336,360"/>
+<area shape="rect" id="node3" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="412,184,544,211"/>
+<area shape="rect" id="node6" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="832,184,988,211"/>
+<area shape="rect" id="node15" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="310,497,414,524"/>
+<area shape="rect" id="node23" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="59,497,168,524"/>
+<area shape="rect" id="node7" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="866,333,954,360"/>
+<area shape="rect" id="node18" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="CDev.hpp" alt="" coords="950,259,1032,285"/>
+<area shape="rect" id="node10" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="504,415,643,442"/>
+<area shape="rect" id="node13" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="438,497,536,524"/>
+<area shape="rect" id="node19" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="1028,333,1159,360"/>
+<area shape="rect" id="node20" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="1012,415,1176,442"/>
+<area shape="rect" id="node26" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="44,408,184,449"/>
 </map>

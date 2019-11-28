@@ -1,51 +1,51 @@
 <map id="px4::logger::Logger::run" name="px4::logger::Logger::run">
-<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ad6bd18fb31481affb6060d5115d389f3" title="px4::logger::Logger\l::ack_vehicle_command" alt="" coords="233,25,396,66"/>
-<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="687,164,813,191"/>
-<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a28530b2e00e82ffe123df31558cd53ef" title="px4::logger::Logger\l::add_debug_topics" alt="" coords="247,1090,382,1132"/>
-<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acd25f6ea939129583926184596f92847" title="px4::logger::Logger\l::add_default_topics" alt="" coords="245,1156,384,1197"/>
-<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aa95fb3dd835d471c6f15c9048648c23b" title="px4::logger::Logger\l::add_estimator_replay\l_topics" alt="" coords="237,1220,392,1276"/>
-<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac92289258199c9ffeffc9f68ac469944" title="px4::logger::Logger\l::add_high_rate_topics" alt="" coords="238,1300,391,1341"/>
-<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ab6be25ba725691050e0daa72a6dfa4cc" title="px4::logger::Logger\l::add_sensor_comparison\l_topics" alt="" coords="229,1364,400,1420"/>
-<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a802c25d66b5d52ca71b8cb34fd6837f0" title="px4::logger::Logger\l::add_system_identification\l_topics" alt="" coords="224,1444,405,1500"/>
-<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ad16c585a130e47ed8255c6fa42983c07" title="px4::logger::Logger\l::add_thermal_calibration\l_topics" alt="" coords="231,1524,398,1580"/>
-<area shape="rect" id="node12" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acd74593292c362fbcf06f4a1e2e8297f" title="Parse a file containing a list of uORB topics to log, calling add_topic for each. ..." alt="" coords="239,1604,390,1645"/>
-<area shape="rect" id="node13" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a331cecaa22ecd90b3cdccafb209c6dc4" title="px4::logger::LogWriter\l::backend" alt="" coords="471,260,621,301"/>
-<area shape="rect" id="node14" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af2c88a508d62cfb080cb6b85cc771f43" title="stop all running threads and wait for them to exit " alt="" coords="675,245,825,286"/>
-<area shape="rect" id="node15" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a2d2e1f688e99e970d759c4fa810ab7cd" title="whether logging is currently active or not (any of the selected backends). " alt="" coords="675,564,825,605"/>
-<area shape="rect" id="node16" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a81ec3d05c85a7accbf93c2d9801e8915" title="check if mavlink logging can be started " alt="" coords="466,560,626,601"/>
-<area shape="rect" id="node17" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a61c7a32b81af6cd461fcdabfb7bcc1f7" title="Check if there is enough free space left on the SD Card. " alt="" coords="247,857,383,898"/>
-<area shape="rect" id="node18" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="505,864,587,891"/>
-<area shape="rect" id="node19" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a200ba0903d384e28507898c4813db256" title="get the configured backend as string " alt="" coords="222,304,407,345"/>
-<area shape="rect" id="node20" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a55a07bd6f5959c9b8bdeeb7d63e4817a" title="px4::logger::Logger\l::copy_if_updated_multi" alt="" coords="235,1772,395,1813"/>
-<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="505,1682,587,1708"/>
-<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="509,1758,583,1784"/>
-<area shape="rect" id="node23" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ae6f414d3791d960295bae97f21fcda0b" title="Check if a topic instance exists and subscribe to it. " alt="" coords="465,1822,627,1864"/>
-<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="693,1859,807,1886"/>
-<area shape="rect" id="node25" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a4e06b982028b4d9c4394e53a457eb1be" title="px4::logger::LogWriter\l::get_buffer_fill_count_file" alt="" coords="229,1940,400,1981"/>
-<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="263,2006,366,2032"/>
-<area shape="rect" id="node27" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="273,2056,356,2083"/>
-<area shape="rect" id="node28" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a56458144de199b0e89613f2b3c8ae410" title="px4::logger::LogWriter\l::init" alt="" coords="239,2108,390,2149"/>
-<area shape="rect" id="node29" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2e8815353f916530d838f13c1f2e0ee7" title="initialize the output for the process load, so that ~1 second later it will be written to the log ..." alt="" coords="471,377,621,418"/>
-<area shape="rect" id="node30" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae10eaee85ef26391dc3a249582877661" title="px4::logger::LogWriter\l::lock" alt="" coords="471,933,621,974"/>
-<area shape="rect" id="node31" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a28404b4d453b3c5383bef5491aba5471" title="px4::logger::LogWriter\l::notify" alt="" coords="471,494,621,536"/>
-<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="263,2174,366,2200"/>
-<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="257,2224,372,2251"/>
-<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="256,2275,373,2302"/>
-<area shape="rect" id="node35" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="279,2326,350,2352"/>
-<area shape="rect" id="node36" href="$df/d04/shutdown_8cpp.html#af2091483f1d1207a9eaab5f5a7ab4613" title="Register a method that should be called when powering off (and also on reboot). " alt="" coords="219,2376,410,2403"/>
-<area shape="rect" id="node37" href="$df/d04/shutdown_8cpp.html#af4dcd7060ddd47b86aa6bc71eb041766" title="Unregister a shutdown hook. " alt="" coords="212,2427,417,2454"/>
-<area shape="rect" id="node38" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ad45895caa8142a4d9f6c42750750c7e7" title="request the logger thread to stop (this method does not block). " alt="" coords="243,2478,387,2520"/>
-<area shape="rect" id="node39" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="248,421,381,462"/>
-<area shape="rect" id="node40" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="248,486,381,528"/>
-<area shape="rect" id="node41" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aabf3bd800d91afa723ca1c7086a94c39" title="px4::logger::Logger\l::stop_log_file" alt="" coords="479,690,613,732"/>
-<area shape="rect" id="node42" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ab46b2c6b411eabf074896c9bf9154f25" title="px4::logger::Logger\l::stop_log_mavlink" alt="" coords="248,2544,381,2585"/>
-<area shape="rect" id="node43" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#aa2b59157b2caf7b0fa103ce63b826185" title="px4::logger::LogWriter\l::thread_id_file" alt="" coords="239,2609,390,2650"/>
-<area shape="rect" id="node44" href="$d3/d30/logger_8cpp.html#a7b4fea92ef1dc5c80164ad3fff47de00" title="timer_callback" alt="" coords="261,2675,368,2702"/>
-<area shape="rect" id="node45" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a508107fb7c37d46f50405b71e5100317" title="px4::logger::LogWriter\l::unlock" alt="" coords="471,1020,621,1061"/>
-<area shape="rect" id="node46" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a1f7f1bd26da7cc8d23bbbb1a278f742f" title="Create an update function that uses the embedded struct. " alt="" coords="245,2726,384,2768"/>
-<area shape="rect" id="node47" href="$da/d4f/namespacepx4_1_1logger.html#a86790a0100260d4183144f74be2c72b4" title="Initialize the watchdog, fill in watchdog_data. " alt="" coords="239,2792,390,2833"/>
-<area shape="rect" id="node48" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1922c4ca5ffd567c35022a9916137f6d" title="px4::logger::Logger\l::write_changed_parameters" alt="" coords="221,922,408,964"/>
-<area shape="rect" id="node49" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac86db42b9da1cb2b7bf7ea92d1782274" title="Write exactly one ulog message to the logger and handle dropouts. " alt="" coords="479,625,613,666"/>
-<area shape="rect" id="node50" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a4e5bcf7638c7e8c4e51333c9b56d70f4" title="write the process load, which was previously initialized with initialize_load_output() ..." alt="" coords="479,142,613,184"/>
-<area shape="rect" id="node4" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="475,40,617,67"/>
+<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#acd74593292c362fbcf06f4a1e2e8297f" title="Parse a file containing a list of uORB topics to log, calling add_topic for each. ..." alt="" coords="230,5,381,47"/>
+<area shape="rect" id="node4" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae6ae82f2d2aca666824d87f20af16661" title="px4::logger::LogWriter\l::backend" alt="" coords="680,1035,831,1076"/>
+<area shape="rect" id="node5" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af2c88a508d62cfb080cb6b85cc771f43" title="stop all running threads and wait for them to exit " alt="" coords="881,420,1032,461"/>
+<area shape="rect" id="node10" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a56a642d706ce3af5551a16858f6515eb" title="whether logging is currently active or not (any of the selected backends). " alt="" coords="881,872,1032,913"/>
+<area shape="rect" id="node13" href="$de/ded/namespacepx4_1_1logger_1_1util.html#a16ab73033d3ea95546071519730d6ed6" title="Check if there is enough free space left on the SD Card. " alt="" coords="241,224,369,265"/>
+<area shape="rect" id="node15" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1942784224f1065124994217fd3b535c" title="get the configured backend as string " alt="" coords="447,1035,632,1076"/>
+<area shape="rect" id="node16" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="236,407,375,448"/>
+<area shape="rect" id="node19" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2c8d085b33fbc7ae967153421159ad7b" title="px4::logger::Logger\l::copy_if_updated" alt="" coords="239,341,372,383"/>
+<area shape="rect" id="node20" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#ac9198cc23c666df10af2a8fb3f809508" title="Copy the struct if updated. " alt="" coords="449,315,630,356"/>
+<area shape="rect" id="node21" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a0f16ca56722d803b35267812874a0925" title="Regularly print the buffer fill state (only if DBGPRINT is set) " alt="" coords="687,1845,824,1887"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="894,1570,1019,1597"/>
+<area shape="rect" id="node23" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae3053bc97e6b72edf70b0fba463ff722" title="px4::logger::LogWriter\l::get_buffer_fill_count_file" alt="" coords="220,669,391,711"/>
+<area shape="rect" id="node24" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="215,735,395,791"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="254,815,357,842"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="264,866,347,893"/>
+<area shape="rect" id="node27" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a56458144de199b0e89613f2b3c8ae410" title="px4::logger::LogWriter\l::init" alt="" coords="230,917,381,959"/>
+<area shape="rect" id="node28" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a7ad3b3f6dd8edececf4e8c3478a1d590" title="Add topic subscriptions based on the _sdlog_profile_handle parameter. " alt="" coords="233,589,377,645"/>
+<area shape="rect" id="node29" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="498,603,581,630"/>
+<area shape="rect" id="node30" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2e8815353f916530d838f13c1f2e0ee7" title="initialize the output for the process load, so that ~1 second later it will be written to the log ..." alt="" coords="680,1412,831,1453"/>
+<area shape="rect" id="node31" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a32aa8cd54145076da721b77ed3c97393" title="Add topic subscriptions based on the configured mission log type. " alt="" coords="239,1135,372,1191"/>
+<area shape="rect" id="node32" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae10eaee85ef26391dc3a249582877661" title="px4::logger::LogWriter\l::lock" alt="" coords="464,1784,615,1825"/>
+<area shape="rect" id="node33" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a28404b4d453b3c5383bef5491aba5471" title="px4::logger::LogWriter\l::notify" alt="" coords="680,1725,831,1767"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="268,1333,343,1359"/>
+<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="254,1383,357,1410"/>
+<area shape="rect" id="node36" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="248,1434,363,1461"/>
+<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="247,1485,364,1511"/>
+<area shape="rect" id="node38" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="270,1535,341,1562"/>
+<area shape="rect" id="node39" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ad45895caa8142a4d9f6c42750750c7e7" title="request the logger thread to stop (this method does not block). " alt="" coords="233,1587,377,1628"/>
+<area shape="rect" id="node40" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="473,1165,606,1207"/>
+<area shape="rect" id="node41" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="237,1216,373,1257"/>
+<area shape="rect" id="node42" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a01d0690aa8610bad2df8be594ec52b32" title="px4::logger::Logger\l::stop_log_file" alt="" coords="689,889,822,931"/>
+<area shape="rect" id="node43" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a0e3d6bbe52cdda44b7d53a7318c9a46a" title="px4::logger::LogWriter\l::thread_id_file" alt="" coords="230,1821,381,1863"/>
+<area shape="rect" id="node44" href="$d3/d30/logger_8cpp.html#a7b4fea92ef1dc5c80164ad3fff47de00" title="timer_callback" alt="" coords="252,1887,359,1914"/>
+<area shape="rect" id="node45" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a508107fb7c37d46f50405b71e5100317" title="px4::logger::LogWriter\l::unlock" alt="" coords="464,1849,615,1891"/>
+<area shape="rect" id="node46" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="236,472,375,513"/>
+<area shape="rect" id="node47" href="$da/d4f/namespacepx4_1_1logger.html#a86790a0100260d4183144f74be2c72b4" title="Initialize the watchdog, fill in watchdog_data. " alt="" coords="230,2040,381,2081"/>
+<area shape="rect" id="node48" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a6af6081d071361a4f0949dfce1ed9ec4" title="px4::logger::Logger\l::write_changed_parameters" alt="" coords="212,1704,399,1745"/>
+<area shape="rect" id="node49" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1742d5670c991116aa814d5db570f0cc" title="Write exactly one ulog message to the logger and handle dropouts. " alt="" coords="689,1515,822,1556"/>
+<area shape="rect" id="node50" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a4e5bcf7638c7e8c4e51333c9b56d70f4" title="write the process load, which was previously initialized with initialize_load_output() ..." alt="" coords="689,2120,822,2161"/>
+<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#af9125b47397c30a9b4cf4d990d95b3d0" title="Add a topic to be logged. " alt="" coords="473,5,606,47"/>
+<area shape="rect" id="node6" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a4a5de24faf90651b18284c4a1d093ef0" title="px4::logger::LogWriter\l::start_log_file" alt="" coords="881,1199,1032,1240"/>
+<area shape="rect" id="node7" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#afa369f34e4268ce19a949993a7f70996" title="px4::logger::LogWriter\l::stop_log_file" alt="" coords="881,937,1032,979"/>
+<area shape="rect" id="node8" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af73f63d05436e8a79a546f494120cf45" title="px4::logger::LogWriter\l::start_log_mavlink" alt="" coords="881,1068,1032,1109"/>
+<area shape="rect" id="node9" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a08ce8e5d7dd2176f6e0e2648bfda2aa5" title="px4::logger::LogWriter\l::stop_log_mavlink" alt="" coords="881,1003,1032,1044"/>
+<area shape="rect" id="node11" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af979624205da69c1b164b3cfdb30376e" title="Write a single ulog message (including header). " alt="" coords="881,1468,1032,1509"/>
+<area shape="rect" id="node12" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a4c894fc3e0b3e5e69dd2db97f8ef68ef" title="Select a backend, so that future calls to write_message() only write to the selected sel_backend..." alt="" coords="879,1133,1035,1175"/>
+<area shape="rect" id="node14" href="$de/ded/namespacepx4_1_1logger_1_1util.html#a086713a2a97a8f57e8177bc5c2f24b70" title="Recursively remove a directory. " alt="" coords="478,224,601,265"/>
+<area shape="rect" id="node17" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="470,468,609,509"/>
+<area shape="rect" id="node18" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="452,414,627,441"/>
 </map>

@@ -1,5 +1,51 @@
 <map id="src/modules/uORB/uORBUtils.hpp" name="src/modules/uORB/uORBUtils.hpp">
-<area shape="rect" id="node2" href="$d8/dbe/u_o_r_b_devices_8cpp.html" title="src/modules/uORB/uORBDevices.cpp" alt="" coords="5,80,252,107"/>
-<area shape="rect" id="node3" href="$d6/dcb/u_o_r_b_manager_8cpp.html" title="src/modules/uORB/uORBManager.cpp" alt="" coords="275,80,523,107"/>
-<area shape="rect" id="node4" href="$de/def/u_o_r_b_utils_8cpp.html" title="src/modules/uORB/uORBUtils.cpp" alt="" coords="547,80,772,107"/>
+<area shape="rect" id="node2" href="$d7/d2a/_subscription_8hpp.html" title="src/modules/uORB/Subscription.hpp" alt="" coords="3065,87,3300,114"/>
+<area shape="rect" id="node46" href="$d5/d0a/_subscription_interval_8hpp.html" title="src/modules/uORB/Subscription\lInterval.hpp" alt="" coords="7049,177,7258,218"/>
+<area shape="rect" id="node47" href="$d3/dbf/u_o_r_b_device_master_8cpp.html" title="src/modules/uORB/uORBDevice\lMaster.cpp" alt="" coords="5283,80,5498,121"/>
+<area shape="rect" id="node48" href="$d9/d42/u_o_r_b_device_node_8cpp.html" title="src/modules/uORB/uORBDevice\lNode.cpp" alt="" coords="5522,80,5737,121"/>
+<area shape="rect" id="node49" href="$d6/dcb/u_o_r_b_manager_8cpp.html" title="src/modules/uORB/uORBManager.cpp" alt="" coords="5761,87,6009,114"/>
+<area shape="rect" id="node50" href="$de/def/u_o_r_b_utils_8cpp.html" title="src/modules/uORB/uORBUtils.cpp" alt="" coords="6033,87,6258,114"/>
+<area shape="rect" id="node3" href="$d6/dd4/camera__capture_8hpp.html" title="src/drivers/camera\l_capture/camera_capture.hpp" alt="" coords="6363,177,6557,218"/>
+<area shape="rect" id="node4" href="$d9/d92/camera__trigger_8cpp.html" title="External camera&#45;IMU synchronisation and triggering, and support for camera manipulation using PWM sig..." alt="" coords="6582,177,6762,218"/>
+<area shape="rect" id="node5" href="$df/d26/dshot_8cpp.html" title="src/drivers/dshot/dshot.cpp" alt="" coords="509,288,689,315"/>
+<area shape="rect" id="node6" href="$db/d7d/drivers_2gps_2gps_8cpp.html" title="src/drivers/gps/gps.cpp" alt="" coords="311,184,470,211"/>
+<area shape="rect" id="node7" href="$dc/d2e/heater_8h.html" title="src/drivers/heater\l/heater.h" alt="" coords="495,177,617,218"/>
+<area shape="rect" id="node8" href="$d8/d15/blinkm_8cpp.html" title="Driver for the BlinkM LED controller connected via I2C. " alt="" coords="641,177,772,218"/>
+<area shape="rect" id="node9" href="$d6/d45/rgbled_8cpp.html" title="Driver for the onboard RGB LED controller (TCA62724FMG) connected via I2C. " alt="" coords="844,281,969,322"/>
+<area shape="rect" id="node10" href="$d8/dc8/rgbled__ncp5623c_8cpp.html" title="Driver for the onboard RGB LED controller (NCP5623C) connected via I2C. " alt="" coords="1477,273,1640,329"/>
+<area shape="rect" id="node11" href="$da/dd6/linux__pwm__out_8cpp.html" title="src/drivers/linux_pwm\l_out/linux_pwm_out.cpp" alt="" coords="1033,177,1196,218"/>
+<area shape="rect" id="node12" href="$d0/df0/atxxxx_8h.html" title="src/drivers/osd/atxxxx\l/atxxxx.h" alt="" coords="1221,177,1371,218"/>
+<area shape="rect" id="node13" href="$d4/dba/_p_w_m_sim_8cpp.html" title="src/drivers/pwm_out\l_sim/PWMSim.cpp" alt="" coords="1395,177,1535,218"/>
+<area shape="rect" id="node14" href="$de/d74/fmu_8cpp.html" title="Driver/configurator for the PX4 FMU. " alt="" coords="5,281,136,322"/>
+<area shape="rect" id="node15" href="$de/dfe/px4io_8cpp.html" title="Driver for the PX4IO board. " alt="" coords="1560,184,1739,211"/>
+<area shape="rect" id="node16" href="$d4/d16/crsf__telemetry_8h.html" title="src/drivers/rc_input\l/crsf_telemetry.h" alt="" coords="3471,177,3604,218"/>
+<area shape="rect" id="node17" href="$df/d1a/_r_c_input_8hpp.html" title="src/drivers/rc_input\l/RCInput.hpp" alt="" coords="1977,281,2111,322"/>
+<area shape="rect" id="node18" href="$db/d28/_safety_button_8hpp.html" title="src/drivers/safety\l_button/SafetyButton.hpp" alt="" coords="1864,177,2035,218"/>
+<area shape="rect" id="node19" href="$d8/dad/snapdragon__pwm__out_8cpp.html" title="src/drivers/snapdragon\l_pwm_out/snapdragon_pwm\l_out.cpp" alt="" coords="2059,169,2247,225"/>
+<area shape="rect" id="node20" href="$de/d96/tap__esc_8cpp.html" title="src/drivers/tap_esc\l/tap_esc.cpp" alt="" coords="2272,177,2405,218"/>
+<area shape="rect" id="node21" href="$df/dae/bst_8cpp.html" title="Black Sheep Telemetry driver. " alt="" coords="2429,177,2571,218"/>
+<area shape="rect" id="node22" href="$dc/dcb/frsky__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/frsky\l_data.cpp" alt="" coords="2595,169,2744,225"/>
+<area shape="rect" id="node23" href="$d7/d9b/s_port__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/sPort\l_data.cpp" alt="" coords="2769,169,2919,225"/>
+<area shape="rect" id="node24" href="$da/d4e/_tone_alarm_8h.html" title="Low Level Driver for the PX4 audio alarm port. " alt="" coords="2943,177,3094,218"/>
+<area shape="rect" id="node25" href="$d9/d86/gnss_8hpp.html" title="UAVCAN &lt;–&gt; ORB bridge for GNSS messages: uavcan.equipment.gnss.Fix (deprecated, but still supported ..." alt="" coords="3118,177,3247,218"/>
+<area shape="rect" id="node26" href="$d5/d80/uavcan__main_8hpp.html" title="Defines basic functinality of UAVCAN node. " alt="" coords="177,281,306,322"/>
+<area shape="rect" id="node27" href="$d8/dfe/_collision_prevention_8hpp.html" title="src/lib/collision_prevention\l/CollisionPrevention.hpp" alt="" coords="3271,177,3446,218"/>
+<area shape="rect" id="node28" href="$de/d23/_flight_tasks_8hpp.html" title="src/lib/flight_tasks\l/FlightTasks.hpp" alt="" coords="3624,281,3752,322"/>
+<area shape="rect" id="node29" href="$dc/dd0/_flight_task_8hpp.html" title="Abstract base class for different advanced flight tasks like orbit, follow me, ... " alt="" coords="3679,177,3892,218"/>
+<area shape="rect" id="node30" href="$d8/d46/_obstacle_avoidance_8hpp.html" title="This class is used to inject the setpoints of an obstacle avoidance system into the FlightTasks..." alt="" coords="6786,177,7025,218"/>
+<area shape="rect" id="node31" href="$df/dfc/_obstacle_avoidance_test_8cpp.html" title="src/lib/flight_tasks\l/tasks/Utility/ObstacleAvoidance\lTest.cpp" alt="" coords="5311,273,5524,329"/>
+<area shape="rect" id="node32" href="$db/da0/led_8h.html" title="Led controller helper class, used by Led drivers. " alt="" coords="898,184,1009,211"/>
+<area shape="rect" id="node33" href="$dd/dbe/mixer__module_8hpp.html" title="src/lib/mixer_module\l/mixer_module.hpp" alt="" coords="93,177,235,218"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html" title="src/lib/parameters\l/parameters.cpp" alt="" coords="3967,177,4094,218"/>
+<area shape="rect" id="node35" href="$d6/d5d/_parameter_test_8cpp.html" title="src/lib/parameters\l/ParameterTest.cpp" alt="" coords="4118,177,4255,218"/>
+<area shape="rect" id="node36" href="$d3/ded/airspeed__selector__main_8cpp.html" title="src/modules/airspeed\l_selector/airspeed_selector\l_main.cpp" alt="" coords="4280,169,4461,225"/>
+<area shape="rect" id="node37" href="$d6/d52/attitude__estimator__q__main_8cpp.html" title="src/modules/attitude\l_estimator_q/attitude\l_estimator_q_main.cpp" alt="" coords="4485,169,4643,225"/>
+<area shape="rect" id="node38" href="$d6/d9d/battery__status_8cpp.html" title="src/modules/battery\l_status/battery_status.cpp" alt="" coords="4667,177,4845,218"/>
+<area shape="rect" id="node39" href="$dd/dcd/accelerometer__calibration_8cpp.html" title="Implementation of accelerometer calibration. " alt="" coords="4869,177,5067,218"/>
+<area shape="rect" id="node40" href="$d9/d85/accelerometer_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/accelerometerCheck.cpp" alt="" coords="5091,169,5309,225"/>
+<area shape="rect" id="node41" href="$d4/dc7/airspeed_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/airspeedCheck.cpp" alt="" coords="5333,169,5517,225"/>
+<area shape="rect" id="node42" href="$de/dca/baro_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/baroCheck.cpp" alt="" coords="5541,169,5707,225"/>
+<area shape="rect" id="node43" href="$dd/d68/ekf2_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/ekf2Check.cpp" alt="" coords="5731,169,5896,225"/>
+<area shape="rect" id="node44" href="$d8/d26/gyro_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/gyroCheck.cpp" alt="" coords="5920,169,6085,225"/>
+<area shape="rect" id="node45" href="$d1/d5d/imu_consistency_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/imuConsistencyCheck.cpp" alt="" coords="6109,169,6339,225"/>
 </map>

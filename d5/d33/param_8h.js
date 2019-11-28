@@ -2,9 +2,6 @@ var param_8h =
 [
     [ "param_value_u", "dd/de3/unionparam__value__u.html", "dd/de3/unionparam__value__u" ],
     [ "param_info_s", "da/de3/structparam__info__s.html", "da/de3/structparam__info__s" ],
-    [ "PARAM_DEFINE_FLOAT", "d5/d33/param_8h.html#a5792a47bb36c59c93b72ddae91e7cc3f", null ],
-    [ "PARAM_DEFINE_INT32", "d5/d33/param_8h.html#a616190f2b69cfa4dd321ff4a874d5eca", null ],
-    [ "PARAM_DEFINE_STRUCT", "d5/d33/param_8h.html#a3e868e183dba5f6ba16d8d34336e440a", null ],
     [ "PARAM_FILE_MAXSIZE", "d5/d33/param_8h.html#a7d24223112a377f2b088978be4838f89", null ],
     [ "PARAM_HASH", "d5/d33/param_8h.html#a7186b930ec8e80152f2959376848cc95", null ],
     [ "PARAM_INVALID", "d5/d33/param_8h.html#ae561a947f534ab7552dfdde45e815a74", null ],
@@ -36,6 +33,7 @@ var param_8h =
     [ "param_load_default", "d5/d33/param_8h.html#a522cbacb68bd0295f89c216d3fe9efbd", null ],
     [ "param_name", "d5/d33/param_8h.html#a41afda73b490911d29d6eb7c4e89a58d", null ],
     [ "param_notify_changes", "d5/d33/param_8h.html#ab06a0e7c50f2ca170c058bd3147b4688", null ],
+    [ "param_print_status", "d5/d33/param_8h.html#a254e9eb79ecd3bb80509938448c2da8a", null ],
     [ "param_reset", "d5/d33/param_8h.html#a0be8f0b2d4cef4e2aa6546892929bd01", null ],
     [ "param_reset_all", "d5/d33/param_8h.html#aba23d08f1756d0ab3e8cbd610abaf6af", null ],
     [ "param_reset_excludes", "d5/d33/param_8h.html#ab6c1c91bd7dcb9fc540805e112e22d9a", null ],

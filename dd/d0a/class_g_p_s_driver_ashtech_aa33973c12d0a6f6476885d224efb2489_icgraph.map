@@ -1,11 +1,12 @@
 <map id="GPSDriverAshtech::decodeInit" name="GPSDriverAshtech::decodeInit">
-<area shape="rect" id="node2" href="$dd/d0a/class_g_p_s_driver_ashtech.html#acd7387d6bb1d7a766c3a584e1bbb3d4c" title="configure the device " alt="" coords="1228,98,1423,124"/>
-<area shape="rect" id="node3" href="$dd/d0a/class_g_p_s_driver_ashtech.html#ab53a3e3b9b050bb10859d766767c681b" title="GPSDriverAshtech::GPSDriver\lAshtech" alt="" coords="255,58,459,100"/>
-<area shape="rect" id="node4" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa363d656a797f8a2542bc656861e6168" title="GPSDriverAshtech::parseChar" alt="" coords="256,146,457,172"/>
-<area shape="rect" id="node5" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a33d6a07ed337cafb5e45ca15cbe8d983" title="receive &amp; handle new data from the device " alt="" coords="507,148,689,175"/>
-<area shape="rect" id="node6" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a7c3c68a1533ffdf98ce95eeed32db916" title="receive data for at least the specified amount of time " alt="" coords="969,47,1180,74"/>
-<area shape="rect" id="node7" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a04eeb8d4cab06961f727d646222c5ccb" title="GPSDriverAshtech::waitFor\lReply" alt="" coords="737,146,921,188"/>
-<area shape="rect" id="node8" href="$dd/d0a/class_g_p_s_driver_ashtech.html#ac4edd10a7718c533fe4022d49454eb3d" title="Write a command and wait for a (N)Ack. " alt="" coords="971,149,1178,190"/>
-<area shape="rect" id="node10" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa9c1abdf3104dcbdc19cd33bbefa3b70" title="enable output of correction output " alt="" coords="1232,204,1419,245"/>
-<area shape="rect" id="node9" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a5495dfedac462e88411392bf96785a30" title="GPSDriverAshtech::handle\lMessage" alt="" coords="1471,204,1649,245"/>
+<area shape="rect" id="node2" href="$dd/d0a/class_g_p_s_driver_ashtech.html#acd7387d6bb1d7a766c3a584e1bbb3d4c" title="configure the device " alt="" coords="1228,43,1423,69"/>
+<area shape="rect" id="node3" href="$dd/d0a/class_g_p_s_driver_ashtech.html#ab53a3e3b9b050bb10859d766767c681b" title="GPSDriverAshtech::GPSDriver\lAshtech" alt="" coords="255,134,459,175"/>
+<area shape="rect" id="node4" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa363d656a797f8a2542bc656861e6168" title="GPSDriverAshtech::parseChar" alt="" coords="256,83,457,109"/>
+<area shape="rect" id="node5" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a33d6a07ed337cafb5e45ca15cbe8d983" title="receive &amp; handle new data from the device " alt="" coords="507,123,689,149"/>
+<area shape="rect" id="node6" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a7c3c68a1533ffdf98ce95eeed32db916" title="receive data for at least the specified amount of time " alt="" coords="969,43,1180,69"/>
+<area shape="rect" id="node7" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a04eeb8d4cab06961f727d646222c5ccb" title="GPSDriverAshtech::waitFor\lReply" alt="" coords="737,133,921,174"/>
+<area shape="rect" id="node8" href="$dd/d0a/class_g_p_s_driver_ashtech.html#ac4edd10a7718c533fe4022d49454eb3d" title="Write a command and wait for a (N)Ack. " alt="" coords="971,145,1178,186"/>
+<area shape="rect" id="node10" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa9c1abdf3104dcbdc19cd33bbefa3b70" title="enable output of correction output " alt="" coords="1471,153,1657,194"/>
+<area shape="rect" id="node9" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aaacbdcb8a570a99895563fcf462f38ab" title="GPSDriverAshtech::activate\lRTCMOutput" alt="" coords="1232,94,1419,135"/>
+<area shape="rect" id="node11" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a5495dfedac462e88411392bf96785a30" title="GPSDriverAshtech::handle\lMessage" alt="" coords="1705,153,1884,194"/>
 </map>

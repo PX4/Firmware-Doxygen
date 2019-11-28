@@ -2,6 +2,7 @@ var _square_matrix_8hpp =
 [
     [ "Matrix", "dd/df8/classmatrix_1_1_matrix.html", "dd/df8/classmatrix_1_1_matrix" ],
     [ "Vector", "d1/d71/classmatrix_1_1_vector.html", "d1/d71/classmatrix_1_1_vector" ],
+    [ "Slice", "da/d09/classmatrix_1_1_slice.html", "da/d09/classmatrix_1_1_slice" ],
     [ "SquareMatrix", "d4/d6e/classmatrix_1_1_square_matrix.html", "d4/d6e/classmatrix_1_1_square_matrix" ],
     [ "Matrix3f", "df/d5f/_square_matrix_8hpp.html#a80a5f9fe31b1c894f358415d32faf40e", null ],
     [ "SquareMatrix3f", "df/d5f/_square_matrix_8hpp.html#a00028e78a94633e3b0ed65ead39d1ffa", null ],

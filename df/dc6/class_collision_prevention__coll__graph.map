@@ -1,0 +1,16 @@
+<map id="CollisionPrevention" name="CollisionPrevention">
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="347,1133,485,1343"/>
+<area shape="rect" id="node10" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html" title="{uORB::SubscriptionData\l\&lt; vehicle_attitude_s \&gt;\n||+ SubscriptionData()\l+ SubscriptionData()\l+ SubscriptionData()\l+ ~SubscriptionData()\l+ operator=()\l+ operator=()\l+ update()\l+ get()\l}" alt="" coords="517,1512,683,1707"/>
+<area shape="rect" id="node14" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html" title="{uORB::SubscriptionData\l\&lt; obstacle_distance_s \&gt;\n||+ SubscriptionData()\l+ SubscriptionData()\l+ SubscriptionData()\l+ ~SubscriptionData()\l+ operator=()\l+ operator=()\l+ update()\l+ get()\l}" alt="" coords="326,1512,493,1707"/>
+<area shape="rect" id="node4" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="842,270,987,391"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="269,579,408,964"/>
+<area shape="rect" id="node12" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html" title="{uORB::PublicationQueued\l\&lt; vehicle_command_s \&gt;\n|# _handle\l|+ PublicationQueued()\l+ ~PublicationQueued()\l+ publish()\l}" alt="" coords="1138,988,1313,1109"/>
+<area shape="rect" id="node13" href="$d3/de9/classu_o_r_b_1_1_publication.html" title="{uORB::Publication\&lt;\l collision_constraints_s \&gt;\n|# _handle\l|+ Publication()\l+ ~Publication()\l+ publish()\l}" alt="" coords="829,1367,1000,1488"/>
+<area shape="rect" id="node16" href="$d3/de9/classu_o_r_b_1_1_publication.html" title="{uORB::Publication\&lt;\l obstacle_distance_s \&gt;\n|# _handle\l|+ Publication()\l+ ~Publication()\l+ publish()\l}" alt="" coords="957,988,1115,1109"/>
+<area shape="rect" id="node8" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="104,1192,323,1284"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="97,145,279,516"/>
+<area shape="rect" id="node7" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="117,5,259,83"/>
+<area shape="rect" id="node9" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="304,285,475,377"/>
+<area shape="rect" id="node11" href="$db/db4/structvehicle__attitude__s.html" title="{vehicle_attitude_s\n|+ timestamp\l+ q\l+ delta_q_reset\l+ quat_reset_counter\l+ _padding0\l|}" alt="" coords="510,1170,655,1306"/>
+<area shape="rect" id="node15" href="$d1/d47/structobstacle__distance__s.html" title="{obstacle_distance_s\n|+ timestamp\l+ increment\l+ angle_offset\l+ distances\l+ min_distance\l+ max_distance\l+ frame\l+ sensor_type\l+ _padding0\l|}" alt="" coords="680,1141,821,1335"/>
+</map>

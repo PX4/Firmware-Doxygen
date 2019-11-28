@@ -1,35 +1,39 @@
 <map id="main" name="main">
-<area shape="rect" id="node2" href="$df/d79/classmatrix_1_1_axis_angle.html#ac9753540466e7e33506a220d1405daaa" title="matrix::AxisAngle::\langle" alt="" coords="129,116,262,158"/>
-<area shape="rect" id="node3" href="$d1/d71/classmatrix_1_1_vector.html#aee6f526185eb85379a6a18fde8dd82ee" title="matrix::Vector::norm" alt="" coords="335,58,476,85"/>
-<area shape="rect" id="node4" href="$df/d79/classmatrix_1_1_axis_angle.html#ab3896d631fe505beca23b71cb1adaa1d" title="matrix::AxisAngle::axis" alt="" coords="117,612,274,638"/>
-<area shape="rect" id="node5" href="$d1/d71/classmatrix_1_1_vector.html#a847d8e6831c00c14c6a5716e65d2ce36" title="matrix::Vector::unit" alt="" coords="339,597,472,624"/>
-<area shape="rect" id="node6" href="$d5/d0f/classmatrix_1_1_quaternion.html#ac15d21ebe017e6c82836b50131da1c64" title="Rotates vector v_1 in frame 1 to vector v_2 in frame 2 using the rotation quaternion q_21 describing ..." alt="" coords="131,234,260,275"/>
-<area shape="rect" id="node7" href="$d5/d0f/classmatrix_1_1_quaternion.html#aa46a89b62ca03b69e1e4f5b6df5f25a1" title="Rotates vector v_2 in frame 2 to vector v_1 in frame 1 using the rotation quaternion q_21 describing ..." alt="" coords="124,299,267,340"/>
-<area shape="rect" id="node8" href="$d5/d0f/classmatrix_1_1_quaternion.html#acb9ab87d4b9412d6d99afea8731b9835" title="Corresponding body z&#45;axis to an attitude quaternion / last orthogonal unit basis vector. " alt="" coords="131,364,260,406"/>
-<area shape="rect" id="node9" href="$d5/d0f/classmatrix_1_1_quaternion.html#a1a153e047073092cb0619dc10f643bd1" title="Computes the derivative of q_21 when rotated with angular velocity expressed in frame 1 v_2 = q_21 * ..." alt="" coords="131,430,260,471"/>
-<area shape="rect" id="node10" href="$d5/d0f/classmatrix_1_1_quaternion.html#ac266a9ae2ad78b0074345578653e636d" title="Computes the derivative of q_21 when rotated with angular velocity expressed in frame 2 v_2 = q_21 * ..." alt="" coords="131,495,260,536"/>
-<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="176,561,215,588"/>
-<area shape="rect" id="node12" href="$d5/d0f/classmatrix_1_1_quaternion.html#a9eefd33b53caeef979ed72dea5d16af7" title="Rotation quaternion from vector. " alt="" coords="131,51,260,92"/>
-<area shape="rect" id="node13" href="$d5/d0f/classmatrix_1_1_quaternion.html#a08faf8e3f24ad91d4b690ee3f924f709" title="XXX DEPRECATED, can use assignment or ctor. " alt="" coords="341,670,470,711"/>
-<area shape="rect" id="node15" href="$d5/d0f/classmatrix_1_1_quaternion.html#a7f22e88e6e7fd2d3a3741f4f65186c61" title="Imaginary components of quaternion. " alt="" coords="131,714,260,755"/>
-<area shape="rect" id="node16" href="$d5/d0f/classmatrix_1_1_quaternion.html#a062e2b2e59cf4d95df01a2ce7bdb837c" title="Invert quaternion. " alt="" coords="341,772,470,814"/>
-<area shape="rect" id="node17" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4a0548cee9d5d5658ee7e30cf3da8ad6" title="Invert quaternion in place. " alt="" coords="131,831,260,872"/>
-<area shape="rect" id="node18" href="$d0/de4/namespacematrix.html#a5e08354a7f3db0924229eaa41bcea1c2" title="matrix::isEqual" alt="" coords="141,948,250,974"/>
-<area shape="rect" id="node21" href="$d0/de4/namespacematrix.html#a3844f58dea3ef2350911de92296f0c15" title="matrix::isEqualF" alt="" coords="137,897,254,924"/>
-<area shape="rect" id="node22" href="$d1/d71/classmatrix_1_1_vector.html#adfde6b53c2c967f684dd5571d847781e" title="matrix::Vector::length" alt="" coords="122,998,269,1025"/>
-<area shape="rect" id="node23" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="111,1049,279,1076"/>
-<area shape="rect" id="node24" href="$d1/d71/classmatrix_1_1_vector.html#a8cbb2d42da6488e74e0596b0e14bd825" title="matrix::Vector::normalized" alt="" coords="108,1100,283,1126"/>
-<area shape="rect" id="node25" href="$d3/d87/classmatrix_1_1_vector3.html#a3137bf85900a4a03fbc40e6be1a2acf2" title="matrix::Vector3::normalized" alt="" coords="104,1150,287,1177"/>
-<area shape="rect" id="node28" href="$d4/d11/classmatrix_1_1_dcm.html#a4a82aff5d0100af139b43bb67c465a9a" title="matrix::Dcm::renormalize" alt="" coords="111,1201,280,1228"/>
-<area shape="rect" id="node29" href="$d5/d0f/classmatrix_1_1_quaternion.html#aaffd56d1de8bd00182f62dd92c3ba847" title="Rotate quaternion from rotation vector. " alt="" coords="131,1252,260,1294"/>
-<area shape="rect" id="node30" href="$dd/df8/classmatrix_1_1_matrix.html#ac9dc40af601ddb601bbff5f27dfd7bc2" title="matrix::Matrix::T" alt="" coords="136,1318,255,1345"/>
-<area shape="rect" id="node31" href="$d5/d0f/classmatrix_1_1_quaternion.html#a7a39f10c1be184323eb5866e4907d335" title="Rotation vector from quaternion XXX DEPRECATED, use AxisAngle class. " alt="" coords="131,1370,260,1411"/>
-<area shape="rect" id="node34" href="$d5/d0f/classmatrix_1_1_quaternion.html#a76dc887f1cf8812236b1dbf182858570" title="XXX DEPRECATED, can use assignment or ctor. " alt="" coords="131,1435,260,1476"/>
-<area shape="rect" id="node14" href="$d5/d0f/classmatrix_1_1_quaternion.html#a9688810d743aae0053be59472cfd19af" title="Standard constructor. " alt="" coords="541,722,671,763"/>
-<area shape="rect" id="node19" href="$d9/dcc/lib_2mathlib_2math_2test_2test_8cpp.html#a4bc1e8960997ec2c8c281982580b9bb0" title="equal" alt="" coords="379,897,432,924"/>
-<area shape="rect" id="node20" href="$dd/df8/classmatrix_1_1_matrix.html#a22028d708e2c5ac759803f4b5f3ca28a" title="Misc. " alt="" coords="336,948,475,990"/>
-<area shape="rect" id="node26" href="$d3/d87/classmatrix_1_1_vector3.html#a79e6f82cac6c4ccd541c6765170fe1b7" title="Override vector ops so Vector3 type is returned. " alt="" coords="335,1150,475,1177"/>
-<area shape="rect" id="node27" href="$d3/d87/classmatrix_1_1_vector3.html#a5bf7b3a10b322246ed2b4db2e80b2ff6" title="matrix::Vector3::Vector3" alt="" coords="524,1150,688,1177"/>
-<area shape="rect" id="node32" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="350,1377,461,1404"/>
-<area shape="rect" id="node33" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="551,1377,661,1404"/>
+<area shape="rect" id="node2" href="$df/d79/classmatrix_1_1_axis_angle.html#ac9753540466e7e33506a220d1405daaa" title="matrix::AxisAngle::\langle" alt="" coords="125,71,258,112"/>
+<area shape="rect" id="node3" href="$d1/d71/classmatrix_1_1_vector.html#a100f3b10c5572ccd38edc745d99ef98d" title="matrix::Vector::norm" alt="" coords="331,78,472,105"/>
+<area shape="rect" id="node4" href="$df/d79/classmatrix_1_1_axis_angle.html#ab3896d631fe505beca23b71cb1adaa1d" title="matrix::AxisAngle::axis" alt="" coords="113,187,270,214"/>
+<area shape="rect" id="node5" href="$d1/d71/classmatrix_1_1_vector.html#a6968020eb272f32af2db25175b95948a" title="matrix::Vector::unit" alt="" coords="335,213,468,239"/>
+<area shape="rect" id="node6" href="$d5/d0f/classmatrix_1_1_quaternion.html#a48d78d0eafa1e47ade092eb5a8d2c153" title="Return canonical form of the quaternion. " alt="" coords="337,915,466,956"/>
+<area shape="rect" id="node8" href="$d5/d0f/classmatrix_1_1_quaternion.html#ad28aa2672a7da8d783d7bd5069f17d85" title="Bring quaternion to canonical form. " alt="" coords="127,887,256,928"/>
+<area shape="rect" id="node9" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4b6e28fb9807ff9021fc49b368255cb2" title="Rotates vector v_1 in frame 1 to vector v_2 in frame 2 using the rotation quaternion q_21 describing ..." alt="" coords="127,355,256,396"/>
+<area shape="rect" id="node10" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4231bbd0a3ebebf396600f99f06ed138" title="Rotates vector v_2 in frame 2 to vector v_1 in frame 1 using the rotation quaternion q_21 describing ..." alt="" coords="120,420,263,461"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="148,785,235,811"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="360,785,443,811"/>
+<area shape="rect" id="node13" href="$d5/d0f/classmatrix_1_1_quaternion.html#a5bd26d30a6b2b84d0a072c6a1a6e5abd" title="Corresponding body z&#45;axis to an attitude quaternion / last orthogonal unit basis vector. " alt="" coords="127,588,256,629"/>
+<area shape="rect" id="node14" href="$d5/d0f/classmatrix_1_1_quaternion.html#a7aebc8a64025d3c5ac2accbf5a5e0de9" title="Computes the derivative of q_21 when rotated with angular velocity expressed in frame 1 v_2 = q_21 * ..." alt="" coords="127,653,256,695"/>
+<area shape="rect" id="node15" href="$d5/d0f/classmatrix_1_1_quaternion.html#addaf2c782ab04ca706a2a088c115277c" title="Computes the derivative of q_21 when rotated with angular velocity expressed in frame 2 v_2 = q_21 * ..." alt="" coords="127,719,256,760"/>
+<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="172,537,211,563"/>
+<area shape="rect" id="node17" href="$d5/d0f/classmatrix_1_1_quaternion.html#a9eefd33b53caeef979ed72dea5d16af7" title="Rotation quaternion from vector. " alt="" coords="127,5,256,47"/>
+<area shape="rect" id="node18" href="$d5/d0f/classmatrix_1_1_quaternion.html#aeb1c696edf4f6d7214a6141beeddab94" title="XXX DEPRECATED, can use assignment or ctor. " alt="" coords="337,1035,466,1076"/>
+<area shape="rect" id="node19" href="$d5/d0f/classmatrix_1_1_quaternion.html#ad1ca735637489bb4236dadd56015b843" title="Imaginary components of quaternion. " alt="" coords="127,952,256,993"/>
+<area shape="rect" id="node20" href="$d5/d0f/classmatrix_1_1_quaternion.html#a927139e64c756ccec9a55c3047dd047d" title="Invert quaternion. " alt="" coords="337,479,466,520"/>
+<area shape="rect" id="node21" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4a0548cee9d5d5658ee7e30cf3da8ad6" title="Invert quaternion in place. " alt="" coords="127,289,256,331"/>
+<area shape="rect" id="node22" href="$d0/de4/namespacematrix.html#a5e08354a7f3db0924229eaa41bcea1c2" title="matrix::isEqual" alt="" coords="137,1170,246,1197"/>
+<area shape="rect" id="node23" href="$d0/de4/namespacematrix.html#a8b8c4a141ae445eef10c4b84c46bf620" title="Compare if two floating point numbers are equal. " alt="" coords="343,1145,460,1171"/>
+<area shape="rect" id="node24" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="107,1221,275,1247"/>
+<area shape="rect" id="node25" href="$d1/d71/classmatrix_1_1_vector.html#aaed6e2f480ce5d7031d1547e05f8fe76" title="matrix::Vector::normalized" alt="" coords="104,1271,279,1298"/>
+<area shape="rect" id="node26" href="$d4/d11/classmatrix_1_1_dcm.html#a4a82aff5d0100af139b43bb67c465a9a" title="matrix::Dcm::renormalize" alt="" coords="107,1322,276,1349"/>
+<area shape="rect" id="node27" href="$d5/d0f/classmatrix_1_1_quaternion.html#aaffd56d1de8bd00182f62dd92c3ba847" title="Rotate quaternion from rotation vector. " alt="" coords="127,1373,256,1415"/>
+<area shape="rect" id="node28" href="$dd/df8/classmatrix_1_1_matrix.html#abd939d213b178644d49301335ddb7f3c" title="matrix::Matrix::row" alt="" coords="126,1439,257,1466"/>
+<area shape="rect" id="node29" href="$dd/df8/classmatrix_1_1_matrix.html#ad61e1f8493fb3d5911db3d4de6a57113" title="matrix::Matrix::setIdentity" alt="" coords="106,1490,277,1517"/>
+<area shape="rect" id="node30" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="147,1541,235,1567"/>
+<area shape="rect" id="node31" href="$dd/df8/classmatrix_1_1_matrix.html#a95a444b0b75bcf76120dc0439584bd5d" title="matrix::Matrix::T" alt="" coords="132,1591,251,1618"/>
+<area shape="rect" id="node32" href="$d5/d0f/classmatrix_1_1_quaternion.html#acc7931e03092383f2dde23d64218090c" title="Rotation vector from quaternion XXX DEPRECATED, use AxisAngle class. " alt="" coords="127,1643,256,1684"/>
+<area shape="rect" id="node38" href="$d5/d0f/classmatrix_1_1_quaternion.html#a76dc887f1cf8812236b1dbf182858570" title="XXX DEPRECATED, can use assignment or ctor. " alt="" coords="127,1708,256,1749"/>
+<area shape="rect" id="node7" href="$d5/d0f/classmatrix_1_1_quaternion.html#a9688810d743aae0053be59472cfd19af" title="Standard constructor. " alt="" coords="524,915,653,956"/>
+<area shape="rect" id="node33" href="$d1/d71/classmatrix_1_1_vector.html#a900df512a2cd1c58ea39763ed3efeae4" title="matrix::Vector\&lt; Type,\l 4 \&gt;::sqrt" alt="" coords="327,1643,476,1684"/>
+<area shape="rect" id="node34" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="346,1709,457,1735"/>
+<area shape="rect" id="node37" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="352,1591,451,1618"/>
+<area shape="rect" id="node35" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="541,1709,636,1735"/>
+<area shape="rect" id="node36" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="701,1709,792,1735"/>
 </map>

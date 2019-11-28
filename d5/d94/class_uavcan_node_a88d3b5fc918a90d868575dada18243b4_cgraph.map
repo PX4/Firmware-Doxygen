@@ -1,24 +1,8 @@
 <map id="UavcanNode::cb_beginfirmware_update" name="UavcanNode::cb_beginfirmware_update">
-<area shape="rect" id="node2" href="$da/d60/boot__app__shared_8c.html#aba701c81c7bb5ddd1ea59f0160e85dcd" title="bootloader_app_shared\l_write" alt="" coords="275,49,431,90"/>
-<area shape="rect" id="node6" href="$d1/dfc/uavcannode__main_8cpp.html#a36488eba6a200d2fdc3c0d91cd1cc293" title="cb_reboot" alt="" coords="313,144,392,171"/>
-<area shape="rect" id="node8" href="$d5/d94/class_uavcan_node.html#a4236d9a128a6345239a5357edcc2c100" title="UavcanNode::fill_node_info" alt="" coords="261,224,444,251"/>
-<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="289,275,416,301"/>
-<area shape="rect" id="node21" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="309,325,397,352"/>
-<area shape="rect" id="node23" href="$d6/d53/modules_2uavcanesc_2led_8cpp.html#a52d3e3cf761c064681d082183516e904" title="rgb_led" alt="" coords="321,376,385,403"/>
-<area shape="rect" id="node3" href="$da/d60/boot__app__shared_8c.html#ae63185b9fe9f1ec2b23a0eab0c739ee3" title="calulate_signature" alt="" coords="541,5,667,32"/>
-<area shape="rect" id="node5" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="579,56,629,83"/>
-<area shape="rect" id="node4" href="$d8/d13/crc_8c.html#ad87f30b63f3d0517139326fb89eb82e6" title="crc64_add_word" alt="" coords="783,5,900,32"/>
-<area shape="rect" id="node7" href="$da/d65/px4__tasks_8h.html#a582217d56f2542b506a770d840da3c5c" title="Reboots the board (without waiting for clean shutdown). " alt="" coords="543,107,665,133"/>
-<area shape="rect" id="node9" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="529,158,679,199"/>
-<area shape="rect" id="node10" href="$d5/d94/class_uavcan_node.html#ae269cb54a4a9054ec929af9f6e245c1d" title="UavcanNode::getHardwareVersion" alt="" coords="492,224,716,251"/>
-<area shape="rect" id="node11" href="$d5/d94/class_uavcan_node.html#a9dd1c2374f1ef0ee4811d8b904d86aee" title="UavcanNode::instance" alt="" coords="764,173,919,200"/>
-<area shape="rect" id="node13" href="$df/dfc/version_8h.html#a4a98b20dc43b646ecb59934cc3ebb2e0" title="get the board name as string (including the version if there are multiple) " alt="" coords="781,224,902,251"/>
-<area shape="rect" id="node14" href="$d6/df6/board__common_8h.html#a42e6780351af1b68466a54e199244a51" title="board_get_mfguid" alt="" coords="779,275,904,301"/>
-<area shape="rect" id="node12" href="$d5/d94/class_uavcan_node.html#aec01477b95d02fb980fb3e52adc03a2d" title="UavcanNode::fw_server" alt="" coords="967,173,1129,200"/>
-<area shape="rect" id="node15" href="$dc/ddc/kinetis_2board__identity_8c.html#a4c8de8daee2516d5243e7a1a2787709d" title="board_get_uuid" alt="" coords="993,275,1103,301"/>
-<area shape="rect" id="node17" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="537,275,671,301"/>
-<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="552,325,656,352"/>
-<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="772,325,911,352"/>
-<area shape="rect" id="node20" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="765,376,918,403"/>
-<area shape="rect" id="node22" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="541,376,667,403"/>
+<area shape="rect" id="node2" href="$da/d60/boot__app__shared_8c.html#aba701c81c7bb5ddd1ea59f0160e85dcd" title="bootloader_app_shared\l_write" alt="" coords="261,23,417,65"/>
+<area shape="rect" id="node6" href="$d1/dfc/uavcannode__main_8cpp.html#a36488eba6a200d2fdc3c0d91cd1cc293" title="cb_reboot" alt="" coords="300,89,379,116"/>
+<area shape="rect" id="node7" href="$d4/d7c/drivers_2uavcanesc_2led_8cpp.html#a52d3e3cf761c064681d082183516e904" title="rgb_led" alt="" coords="307,140,371,167"/>
+<area shape="rect" id="node3" href="$da/d60/boot__app__shared_8c.html#ae63185b9fe9f1ec2b23a0eab0c739ee3" title="calulate_signature" alt="" coords="465,5,592,32"/>
+<area shape="rect" id="node5" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="503,56,554,83"/>
+<area shape="rect" id="node4" href="$d8/d13/crc_8c.html#ad87f30b63f3d0517139326fb89eb82e6" title="crc64_add_word" alt="" coords="640,5,757,32"/>
 </map>

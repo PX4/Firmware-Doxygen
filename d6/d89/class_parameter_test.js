@@ -12,6 +12,7 @@ var class_parameter_test =
     [ "ResetAllExcludesTwo", "d6/d89/class_parameter_test.html#a3d852f8d3b759c3c742f0604aafdcd7b", null ],
     [ "ResetAllExcludesWildcard", "d6/d89/class_parameter_test.html#ae38f1d5b0843e00e2735ac692e89c6a0", null ],
     [ "run_tests", "d6/d89/class_parameter_test.html#a97850908363a100ca589f3b4db5e51d6", null ],
+    [ "SetUp", "d6/d89/class_parameter_test.html#ab0159c36c8fa112bcd0ed413d18661a5", null ],
     [ "SimpleFind", "d6/d89/class_parameter_test.html#a9571f9dd5b04cbc25ff6a89343d04fde", null ],
     [ "p0", "d6/d89/class_parameter_test.html#ae27ac0f5c6103590c5efab3e210f2ea2", null ],
     [ "p1", "d6/d89/class_parameter_test.html#a90cbb65cd3d9de808ee4dd43fdfcc16c", null ],

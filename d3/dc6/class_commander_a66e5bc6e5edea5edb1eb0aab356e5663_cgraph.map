@@ -1,7 +1,17 @@
 <map id="Commander::reset_posvel_validity" name="Commander::reset_posvel_validity">
-<area shape="rect" id="node2" href="$d3/dc6/class_commander.html#a696be25d63902827023236ca7329740c" title="Commander::check_posvel\l_validity" alt="" coords="228,49,409,90"/>
-<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="237,115,401,141"/>
-<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="464,5,576,32"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="457,56,583,83"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="459,107,581,133"/>
+<area shape="rect" id="node2" href="$d3/dc6/class_commander.html#a696be25d63902827023236ca7329740c" title="Commander::check_posvel\l_validity" alt="" coords="233,87,415,129"/>
+<area shape="rect" id="node16" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="228,153,420,180"/>
+<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="473,44,585,71"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="658,5,783,32"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="468,233,589,260"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="672,56,769,83"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="679,107,762,133"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="669,157,772,184"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="669,208,772,235"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="677,259,765,285"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="681,309,760,336"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="679,360,762,387"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="637,411,804,437"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="690,461,751,488"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="640,512,801,539"/>
 </map>

@@ -1,0 +1,51 @@
+<map id="FlightTaskManualPosition::setYawHandler" name="FlightTaskManualPosition::setYawHandler">
+<area shape="rect" id="node2" href="$da/d83/class_flight_task_manual_position.html#aef8e02cab92b57236fe310a02398ddcc" title="scales sticks to velocity in z " alt="" coords="225,1099,397,1140"/>
+<area shape="rect" id="node44" href="$da/d83/class_flight_task_manual_position.html#a7ff41f50ab2a64a911723509539d4ca0" title="updates all setpoints " alt="" coords="225,1429,397,1471"/>
+<area shape="rect" id="node47" href="$da/d83/class_flight_task_manual_position.html#a2964bbef64c6244245c4eb65e990ec2d" title="applies position lock based on stick and velocity " alt="" coords="463,1335,635,1376"/>
+<area shape="rect" id="node3" href="$d8/d4c/class_flight_task_manual_altitude.html#a2eb6bc264a3da6a1ec5aa15208d4e450" title="rotates vector into local frame " alt="" coords="716,1124,893,1165"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1511,1289,1549,1315"/>
+<area shape="rect" id="node7" href="$d8/d4c/class_flight_task_manual_altitude.html#a28450495bebce0519bf214e94fb0ff12" title="scales sticks to velocity in z " alt="" coords="720,1059,889,1100"/>
+<area shape="rect" id="node9" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="749,1291,861,1318"/>
+<area shape="rect" id="node10" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="1203,933,1395,959"/>
+<area shape="rect" id="node11" href="$d7/d08/class_collision_prevention.html#afa781282d20fdf8379c1bd5b9e4c4e86" title="Returs true if Collision Prevention is running. " alt="" coords="988,5,1123,47"/>
+<area shape="rect" id="node14" href="$d1/d71/classmatrix_1_1_vector.html#abd91dec134022f2adbd739b4ced6806d" title="matrix::Vector::length" alt="" coords="731,1241,878,1267"/>
+<area shape="rect" id="node15" href="$d7/d08/class_collision_prevention.html#a8bf058150651509f59d2e9005f8794c4" title="Computes collision free setpoints. " alt="" coords="482,500,617,541"/>
+<area shape="rect" id="node43" href="$d1/d71/classmatrix_1_1_vector.html#aaed6e2f480ce5d7031d1547e05f8fe76" title="matrix::Vector::normalized" alt="" coords="462,1030,637,1057"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1671,1289,1754,1315"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1810,1289,1897,1315"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="1248,1289,1349,1315"/>
+<area shape="rect" id="node12" href="$d7/d08/class_collision_prevention.html#a156bf49395998920864b99fed852c431" title="CollisionPrevention\l::getTime" alt="" coords="1231,64,1366,105"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1467,137,1593,163"/>
+<area shape="rect" id="node16" href="$d7/d08/class_collision_prevention.html#a32489852aa49005701d6a91e463c2497" title="Computes collision free setpoints. " alt="" coords="701,668,908,709"/>
+<area shape="rect" id="node35" href="$d7/d08/class_collision_prevention.html#a28c1bb2d391a6ab91db10f9588f8000f" title="CollisionPrevention\l::getElapsedTime" alt="" coords="1231,195,1366,236"/>
+<area shape="rect" id="node37" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="1229,676,1368,717"/>
+<area shape="rect" id="node42" href="$dd/df8/classmatrix_1_1_matrix.html#a46af950c7f4bdbba51525788362f1d85" title="matrix::Matrix::copyTo" alt="" coords="728,290,881,317"/>
+<area shape="rect" id="node17" href="$d7/d08/class_collision_prevention.html#a0d2bd6bcc1aaba0c27c9b4350f9ebc32" title="Computes an adaption to the setpoint direction to guide towards free space. " alt="" coords="971,1081,1140,1123"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="1808,682,1899,709"/>
+<area shape="rect" id="node20" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="Wrap value in range [0, 2π) " alt="" coords="1471,803,1589,830"/>
+<area shape="rect" id="node22" href="$d7/d08/class_collision_prevention.html#a4b0c3ac2900d1bb98cad399c1484add1" title="Publishes vehicle command. " alt="" coords="956,173,1155,215"/>
+<area shape="rect" id="node24" href="$d7/d08/class_collision_prevention.html#ae1bf5f01c1709d1dcd966d1d3b913b71" title="Aggregates the sensor data into a internal obstacle map in body frame. " alt="" coords="979,508,1132,549"/>
+<area shape="rect" id="node27" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="1477,662,1583,689"/>
+<area shape="rect" id="node28" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="1490,713,1570,739"/>
+<area shape="rect" id="node36" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="1257,625,1341,651"/>
+<area shape="rect" id="node39" href="$d7/dd2/namespacemath_1_1trajectory.html#acf5c5a374bb48f7f330cf2fcc2130302" title="math::trajectory::compute\lMaxSpeedFromDistance" alt="" coords="970,1147,1141,1188"/>
+<area shape="rect" id="node40" href="$d1/d71/classmatrix_1_1_vector.html#aefa5113f98d71bdc40bf8212c0b1225b" title="matrix::Vector::dot" alt="" coords="990,777,1121,803"/>
+<area shape="rect" id="node41" href="$d1/d71/classmatrix_1_1_vector.html#a100f3b10c5572ccd38edc745d99ef98d" title="matrix::Vector::norm" alt="" coords="985,827,1126,854"/>
+<area shape="rect" id="node18" href="$d0/de4/namespacematrix.html#ab6f7d94a09ce448dc95ca2e7c2f64569" title="matrix::abs" alt="" coords="1255,1089,1342,1115"/>
+<area shape="rect" id="node21" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="1665,753,1760,779"/>
+<area shape="rect" id="node23" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="1211,129,1386,171"/>
+<area shape="rect" id="node25" href="$d7/d08/class_collision_prevention.html#a51b38c2bf25c37f22a4a351c5103fd6e" title="CollisionPrevention\l::_addDistanceSensorData" alt="" coords="1209,508,1388,549"/>
+<area shape="rect" id="node30" href="$d7/d08/class_collision_prevention.html#a14fdff6c6e89fca319ab8f470d0ad408" title="Updates obstacle distance message with measurement from offboard. " alt="" coords="1209,377,1388,419"/>
+<area shape="rect" id="node32" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="1229,312,1368,353"/>
+<area shape="rect" id="node38" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#a8c8967077b39cd29e07652cefe2293a9" title="uORB::SubscriptionData\l::update" alt="" coords="1215,443,1382,484"/>
+<area shape="rect" id="node26" href="$d7/d08/class_collision_prevention.html#a1c8a95be8cb6106b7bd230e64700bf13" title="Determines whether a new sensor measurement is used. " alt="" coords="1463,480,1597,521"/>
+<area shape="rect" id="node29" href="$d5/d0f/classmatrix_1_1_quaternion.html#aaffd56d1de8bd00182f62dd92c3ba847" title="Rotate quaternion from rotation vector. " alt="" coords="1465,545,1595,587"/>
+<area shape="rect" id="node31" href="$d0/de4/namespacematrix.html#adac4ac9ec56396946f03e105abe89590" title="matrix::ceil" alt="" coords="1487,429,1573,455"/>
+<area shape="rect" id="node33" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="1461,363,1599,404"/>
+<area shape="rect" id="node34" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1443,311,1617,338"/>
+<area shape="rect" id="node45" href="$d8/d4c/class_flight_task_manual_altitude.html#a86d8a5cfd6e06599c5ebea6e6b772b46" title="updates all setpoints " alt="" coords="465,1400,634,1441"/>
+<area shape="rect" id="node48" href="$d0/d24/class_weather_vane.html#a5cd3def7a9bfddc877ac1369ac9dbec9" title="WeatherVane::get_weathervane\l_yawrate" alt="" coords="445,1517,653,1559"/>
+<area shape="rect" id="node49" href="$d0/d24/class_weather_vane.html#a49eaebbc5639a8db84ae107f76a7a561" title="WeatherVane::is_active" alt="" coords="469,1466,630,1493"/>
+<area shape="rect" id="node50" href="$dd/df8/classmatrix_1_1_matrix.html#a4163a26330438ee8657f840c8ef13fcd" title="matrix::Matrix::setAll" alt="" coords="478,1583,621,1610"/>
+<area shape="rect" id="node46" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="721,1411,889,1438"/>
+</map>

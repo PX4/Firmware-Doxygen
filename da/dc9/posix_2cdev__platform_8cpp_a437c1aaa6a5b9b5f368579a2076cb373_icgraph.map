@@ -1,51 +1,51 @@
 <map id="px4_access" name="px4_access">
-<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="145,588,288,629"/>
-<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="336,261,419,287"/>
-<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="495,1543,638,1584"/>
-<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#af38558670f37553c5ee68fd9b89c23fb" title="add a logged topic (called by add_topic() above). " alt="" coords="500,123,633,164"/>
-<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ae6f414d3791d960295bae97f21fcda0b" title="Check if a topic instance exists and subscribe to it. " alt="" coords="486,188,647,229"/>
-<area shape="rect" id="node8" href="$de/dea/class_mavlink_orb_subscription.html#a10b522a40df5d4cefc3326841a7b84e0" title="Check if the topic has been published. " alt="" coords="487,253,647,295"/>
-<area shape="rect" id="node12" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a4b59b44b0f795a6def791c2de4349163" title="sensors::VotedSensorsUpdate\l::init_sensor_class" alt="" coords="467,319,667,360"/>
-<area shape="rect" id="node14" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="507,1150,626,1177"/>
-<area shape="rect" id="node22" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="755,961,875,987"/>
-<area shape="rect" id="node46" href="$d3/d11/namespace_micro_bench_o_r_b.html#af01dd701f99e793d30d4d3aa213a074c" title="MicroBenchORB::ut_declare\l_test_c" alt="" coords="473,5,661,47"/>
-<area shape="rect" id="node47" href="$d1/d61/topic__listener_8hpp.html#a18c2e98c28fe8cd535a8c845d2e76671" title="listener" alt="" coords="535,71,599,98"/>
-<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a55a07bd6f5959c9b8bdeeb7d63e4817a" title="px4::logger::Logger\l::copy_if_updated_multi" alt="" coords="735,80,895,121"/>
-<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="997,55,1155,82"/>
-<area shape="rect" id="node9" href="$d6/df6/class_mavlink_stream_home_position.html#a2aaa05e466f4ff7b36025615f5a7763b" title="MavlinkStreamHomePosition\l::send" alt="" coords="981,132,1171,173"/>
-<area shape="rect" id="node10" href="$de/dea/class_mavlink_orb_subscription.html#a9f219e480311597a86a3f7a5366aac25" title="Check if subscription updated based on timestamp. " alt="" coords="735,197,895,239"/>
-<area shape="rect" id="node11" href="$de/dea/class_mavlink_orb_subscription.html#a073fbec3307fd1d809155c35e72f234f" title="Check if the subscription has been updated. " alt="" coords="996,197,1156,239"/>
-<area shape="rect" id="node13" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#af25db38b5412826d2d61bfad610d4712" title="This tries to find new sensor instances. " alt="" coords="715,319,915,360"/>
-<area shape="rect" id="node15" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="745,1208,885,1249"/>
-<area shape="rect" id="node16" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="747,1274,882,1301"/>
-<area shape="rect" id="node17" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="753,1325,876,1351"/>
-<area shape="rect" id="node18" href="$df/dbf/class_temperature_calibration_accel.html#ac3cbc2417197ad846dcf7a2232628191" title="TemperatureCalibrationAccel\l::TemperatureCalibrationAccel" alt="" coords="715,1012,914,1053"/>
-<area shape="rect" id="node19" href="$da/dfb/class_temperature_calibration_baro.html#a2ab1cfc08aec6f546d1d98ac7828bbe3" title="TemperatureCalibrationBaro\l::TemperatureCalibrationBaro" alt="" coords="719,1077,911,1119"/>
-<area shape="rect" id="node20" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="736,1143,893,1184"/>
-<area shape="rect" id="node21" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="977,1609,1175,1635"/>
-<area shape="rect" id="node23" href="$de/dfe/class_v_l53_l_x_x.html#a4305646ce71f83ff3b737bece28620ad" title="VL53LXX::collect" alt="" coords="1015,1019,1137,1046"/>
-<area shape="rect" id="node24" href="$d1/d58/class_g_p_s.html#afa3e0c9d5dcf29eb89f8ede581298a49" title="Publish the gps struct. " alt="" coords="1027,1070,1125,1097"/>
-<area shape="rect" id="node25" href="$d1/d58/class_g_p_s.html#a88adb8156bd8e9611ad305313d9c07a8" title="Publish the satellite info. " alt="" coords="992,1121,1160,1147"/>
-<area shape="rect" id="node26" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="1019,1171,1133,1198"/>
-<area shape="rect" id="node27" href="$d1/dde/class_p_x4_i_o.html#a01240f13dfb3f9f51095066e25da022e" title="Fetch and publish raw RC input data. " alt="" coords="989,1222,1163,1249"/>
-<area shape="rect" id="node28" href="$d1/dde/class_p_x4_i_o.html#a38084b037d73965204fa3d339f2357da" title="Fetch and publish the PWM servo outputs. " alt="" coords="995,1273,1157,1315"/>
-<area shape="rect" id="node29" href="$d4/d81/class_q_shell.html#a45dc544f18c3f1e1f45f6bbd5b09e0b6" title="QShell::_send_cmd" alt="" coords="1008,1339,1144,1366"/>
-<area shape="rect" id="node30" href="$d4/d81/class_q_shell.html#ae4bc293e455e497596f50688e2f91d0a" title="QShell::main" alt="" coords="1027,1390,1125,1417"/>
-<area shape="rect" id="node31" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="1021,1441,1131,1467"/>
-<area shape="rect" id="node32" href="$d2/d86/classvmount_1_1_output_base.html#a24b79fb099236f19d8d3c660601c52b9" title="Publish _angle_outputs as a mount_orientation message. " alt="" coords="1005,263,1147,304"/>
-<area shape="rect" id="node33" href="$dc/de6/classvmount_1_1_output_r_c.html#afcae38c76baaf7f63d2eccc3ff8dd22e" title="Update the output. " alt="" coords="987,329,1165,355"/>
-<area shape="rect" id="node34" href="$db/d2b/class_attitude_estimator_q.html#a8e0bb94a5396b03d79a39aaee77cd142" title="AttitudeEstimatorQ\l::task_main" alt="" coords="1009,380,1143,421"/>
-<area shape="rect" id="node35" href="$da/d31/class_camera_feedback.html#a232b807d193a28e11fd2c73e35f7440a" title="CameraFeedback::task_main" alt="" coords="979,446,1173,473"/>
-<area shape="rect" id="node36" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="1237,577,1312,603"/>
-<area shape="rect" id="node37" href="$de/d9c/class_ekf2.html#a8c609a205d80a9dc10dcb14ffe09554c" title="Ekf2::publish_attitude" alt="" coords="1002,547,1150,574"/>
-<area shape="rect" id="node38" href="$de/d9c/class_ekf2.html#a7761aa3f0886f2119c302602cc18e7b8" title="Ekf2::publish_wind\l_estimate" alt="" coords="1010,599,1142,640"/>
-<area shape="rect" id="node39" href="$d3/d25/class_fixedwing_attitude_control.html#a9a2fe5a46e51b61b291b93109b6c22f4" title="FixedwingAttitudeControl::run" alt="" coords="979,1491,1173,1518"/>
-<area shape="rect" id="node40" href="$d8/d1f/classland__detector_1_1_land_detector.html#a7cf78d57f14f48da976c72fe3c5538a8" title="land_detector::LandDetector\l::_cycle" alt="" coords="983,664,1169,705"/>
-<area shape="rect" id="node41" href="$da/d89/class_mavlink_receiver.html#a89e6a2902d4cca5901fe90fd0a800bbe" title="MavlinkReceiver::handle\l_message_attitude_quaternion_cov" alt="" coords="963,729,1189,771"/>
-<area shape="rect" id="node42" href="$da/d89/class_mavlink_receiver.html#a37666f55ad6181458bca82317caf1459" title="MavlinkReceiver::handle\l_message_local_position\l_ned_cov" alt="" coords="992,794,1160,850"/>
-<area shape="rect" id="node43" href="$da/d89/class_mavlink_receiver.html#a7c6f7fda759616cd6e2c512ada810513" title="MavlinkReceiver::handle\l_message_vision_position\l_estimate" alt="" coords="989,874,1163,930"/>
-<area shape="rect" id="node44" href="$da/d89/class_mavlink_receiver.html#af99bf01b6ae13dab05c36c0125e179bc" title="MavlinkReceiver::handle\l_message_manual_control" alt="" coords="987,1543,1165,1584"/>
-<area shape="rect" id="node45" href="$d0/daf/classsensors_1_1_r_c_update.html#a401c7a5b7279a0f72015662e28df72a7" title="Gather and publish RC input data. " alt="" coords="1003,953,1149,995"/>
-<area shape="rect" id="node49" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="765,1550,865,1577"/>
-<area shape="rect" id="node50" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="743,1651,886,1678"/>
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="145,613,288,654"/>
+<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="366,433,449,460"/>
+<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="336,722,479,763"/>
+<area shape="rect" id="node4" href="$d1/d2f/class_pre_flight_check.html#a5416b55eca6324798d226c24d4bd6a0a" title="PreFlightCheck::accelerometer\lCheck" alt="" coords="527,163,729,205"/>
+<area shape="rect" id="node5" href="$d1/d2f/class_pre_flight_check.html#a3cc38a72e1f9c613031fba18671deef0" title="PreFlightCheck::baroCheck" alt="" coords="537,229,719,256"/>
+<area shape="rect" id="node6" href="$d1/d2f/class_pre_flight_check.html#a3934cb69be325481973ce1031343aa0a" title="PreFlightCheck::gyroCheck" alt="" coords="537,280,719,307"/>
+<area shape="rect" id="node7" href="$d1/d2f/class_pre_flight_check.html#a8e660a977b1142907115ff37854ef901" title="PreFlightCheck::magnometer\lCheck" alt="" coords="532,331,724,373"/>
+<area shape="rect" id="node8" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a419a0ae01a1bf72759b7b607abccd056" title="sensors::VotedSensorsUpdate\l::initSensorClass" alt="" coords="528,397,728,438"/>
+<area shape="rect" id="node10" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="569,463,687,489"/>
+<area shape="rect" id="node18" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="821,637,941,664"/>
+<area shape="rect" id="node44" href="$d3/d11/namespace_micro_bench_o_r_b.html#af01dd701f99e793d30d4d3aa213a074c" title="MicroBenchORB::ut_declare\l_test_c" alt="" coords="534,565,722,606"/>
+<area shape="rect" id="node45" href="$d1/d61/topic__listener_8hpp.html#ab28c68a0832274fda2cd18a00c5849f6" title="listener" alt="" coords="596,647,660,673"/>
+<area shape="rect" id="node9" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a97e9031474db0112dcbaf0ba9911c7c5" title="This tries to find new sensor instances. " alt="" coords="781,142,981,183"/>
+<area shape="rect" id="node11" href="$de/d1d/class_heater.html#a8e84b71bda3a0753bd26981418ff603f" title="Called once to initialize uORB topics. " alt="" coords="823,207,939,249"/>
+<area shape="rect" id="node12" href="$da/dfb/class_temperature_calibration_baro.html#a2ab1cfc08aec6f546d1d98ac7828bbe3" title="TemperatureCalibrationBaro\l::TemperatureCalibrationBaro" alt="" coords="785,273,977,314"/>
+<area shape="rect" id="node13" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="811,338,951,379"/>
+<area shape="rect" id="node14" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="814,404,949,431"/>
+<area shape="rect" id="node15" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="820,455,943,481"/>
+<area shape="rect" id="node16" href="$df/dbf/class_temperature_calibration_accel.html#ac3cbc2417197ad846dcf7a2232628191" title="TemperatureCalibrationAccel\l::TemperatureCalibrationAccel" alt="" coords="782,506,981,547"/>
+<area shape="rect" id="node17" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="803,571,960,613"/>
+<area shape="rect" id="node19" href="$dc/d3c/class_mappy_dot.html#a40345642be2c90afa806bc1f7c8a024c" title="Collects the most recent sensor measurement data from the i2c bus. " alt="" coords="1073,5,1201,32"/>
+<area shape="rect" id="node20" href="$d9/dfb/class_m_b12_x_x.html#a7381eae549be5b60ba4f2dfdb4cc4cd9" title="Collects the most recent sensor measurement data from the i2c bus. " alt="" coords="1077,56,1197,83"/>
+<area shape="rect" id="node21" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#abe294b0787a8af5750b9a385070a18b7" title="Collects the most recent sensor measurement data from the i2c bus. " alt="" coords="1055,107,1218,133"/>
+<area shape="rect" id="node22" href="$de/dfe/class_v_l53_l_x_x.html#a4305646ce71f83ff3b737bece28620ad" title="Collects the most recent sensor measurement data from the i2c bus. " alt="" coords="1075,157,1198,184"/>
+<area shape="rect" id="node23" href="$d4/d83/class_df_ltc2946_wrapper.html#aaabb2a34a98fbeb166871a08a046f8c3" title="DfLtc2946Wrapper::\l_publish" alt="" coords="1067,209,1206,250"/>
+<area shape="rect" id="node24" href="$d1/d58/class_g_p_s.html#afa3e0c9d5dcf29eb89f8ede581298a49" title="Publish the gps struct. " alt="" coords="1087,275,1186,301"/>
+<area shape="rect" id="node25" href="$d1/d58/class_g_p_s.html#a88adb8156bd8e9611ad305313d9c07a8" title="Publish the satellite info. " alt="" coords="1053,325,1221,352"/>
+<area shape="rect" id="node26" href="$dd/df1/class_i_n_a226.html#ab6746d506964cc80e4debf4753b9bdbe" title="INA226::collect" alt="" coords="1081,376,1193,403"/>
+<area shape="rect" id="node27" href="$d4/d81/class_q_shell.html#a45dc544f18c3f1e1f45f6bbd5b09e0b6" title="QShell::_send_cmd" alt="" coords="1069,427,1205,453"/>
+<area shape="rect" id="node28" href="$d4/d81/class_q_shell.html#ae4bc293e455e497596f50688e2f91d0a" title="QShell::main" alt="" coords="1088,477,1185,504"/>
+<area shape="rect" id="node29" href="$de/dc2/class_battery_status.html#a669b3686139ffbb7ca409ef7a6d2319b" title="Poll the ADC and update readings to suit. " alt="" coords="1057,528,1216,555"/>
+<area shape="rect" id="node30" href="$da/d31/class_camera_feedback.html#a232b807d193a28e11fd2c73e35f7440a" title="CameraFeedback::task_main" alt="" coords="1040,579,1233,605"/>
+<area shape="rect" id="node31" href="$d9/d0c/class_multicopter_attitude_control.html#ad9cd99568233a87506af5d669fa18f80" title="Generate &amp; publish an attitude setpoint from stick inputs. " alt="" coords="1045,630,1228,671"/>
+<area shape="rect" id="node32" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="1033,696,1240,723"/>
+<area shape="rect" id="node33" href="$d2/df8/class_multicopter_rate_control.html#ab890141c8477441b316e042b645b1fe0" title="MulticopterRateControl::Run" alt="" coords="1043,747,1231,773"/>
+<area shape="rect" id="node34" href="$dd/dd1/class_simulator.html#abe4f2bad01c729b4876c03c048548c23" title="Simulator::update_sensors" alt="" coords="1048,797,1225,824"/>
+<area shape="rect" id="node35" href="$dd/dd1/class_simulator.html#ac0477db75434be914ca8a1da4e16daf6" title="Simulator::handle_message\l_hil_sensor" alt="" coords="1045,849,1228,890"/>
+<area shape="rect" id="node36" href="$dd/dd1/class_simulator.html#a64161dc6c4a8a8c641eca46afe37760b" title="Simulator::handle_message\l_hil_state_quaternion" alt="" coords="1045,914,1228,955"/>
+<area shape="rect" id="node37" href="$dd/dd1/class_simulator.html#aa7551c90c3a80469b9237fe4d3217f67" title="Simulator::handle_message\l_landing_target" alt="" coords="1045,979,1228,1021"/>
+<area shape="rect" id="node38" href="$dd/dd1/class_simulator.html#a24afa8a1609e74575432e5f29b479473" title="Simulator::handle_message\l_rc_channels" alt="" coords="1045,1045,1228,1086"/>
+<area shape="rect" id="node39" href="$dd/dd1/class_simulator.html#a0e5e10b78d1822dcfdff68d76afae106" title="Simulator::publish\l_flow_topic" alt="" coords="1073,1110,1200,1151"/>
+<area shape="rect" id="node40" href="$dd/dd1/class_simulator.html#a395d0a8faed817d4689de53113401e28" title="Simulator::publish\l_odometry_topic" alt="" coords="1073,1175,1200,1217"/>
+<area shape="rect" id="node41" href="$dd/dd1/class_simulator.html#a4435f93ccb0142408257f3bdaa1e022f" title="Simulator::publish\l_distance_topic" alt="" coords="1073,1241,1200,1282"/>
+<area shape="rect" id="node42" href="$d2/d86/classvmount_1_1_output_base.html#a24b79fb099236f19d8d3c660601c52b9" title="Publish _angle_outputs as a mount_orientation message. " alt="" coords="1065,1306,1208,1347"/>
+<area shape="rect" id="node43" href="$dc/de6/classvmount_1_1_output_r_c.html#afcae38c76baaf7f63d2eccc3ff8dd22e" title="Update the output. " alt="" coords="1047,1372,1226,1399"/>
+<area shape="rect" id="node46" href="$d1/d61/topic__listener_8hpp.html#a23bb7e3eb57871171055a62ead3ae242" title="listener_print_topic" alt="" coords="816,688,947,715"/>
+<area shape="rect" id="node48" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="578,729,678,756"/>
+<area shape="rect" id="node50" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="557,780,699,807"/>
+<area shape="rect" id="node49" href="$d0/d45/class_b_a_t_t___s_m_b_u_s.html#ac05e2098a73330dc07e906adbd536e57" title="BATT_SMBUS::BATT_SMBUS" alt="" coords="777,739,985,765"/>
 </map>

@@ -1,22 +1,24 @@
 <map id="control::blockPDTest" name="control::blockPDTest">
-<area shape="rect" id="node2" href="$d9/dcc/lib_2mathlib_2math_2test_2test_8cpp.html#a4bc1e8960997ec2c8c281982580b9bb0" title="equal" alt="" coords="275,5,329,32"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="515,107,554,133"/>
-<area shape="rect" id="node4" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a6f02e9b05cfade77f22f121cc79e78f1" title="control::BlockPD::getDerivative" alt="" coords="199,363,405,389"/>
-<area shape="rect" id="node5" href="$da/d87/classcontrol_1_1_block.html#a3b464ef71352123ba61f32019c943e78" title="control::Block::getDt" alt="" coords="676,125,819,152"/>
-<area shape="rect" id="node6" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a5894ae8463dea5ad75e056e668fcee23" title="control::BlockPD::getKD" alt="" coords="219,413,385,440"/>
-<area shape="rect" id="node7" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a432b6bb90a861c5dfd89d825216ee482" title="control::BlockPD::getKP" alt="" coords="219,464,385,491"/>
-<area shape="rect" id="node8" href="$d4/d23/classcontrol_1_1_block_derivative.html#a4d38f34e211d0e0011b84d9743fefb0d" title="control::BlockDerivative\l::getLP" alt="" coords="221,515,383,557"/>
-<area shape="rect" id="node9" href="$d4/d23/classcontrol_1_1_block_derivative.html#a0d34b2d4a58926f24338290107c4ac68" title="control::BlockDerivative\l::getU" alt="" coords="454,274,615,315"/>
-<area shape="rect" id="node10" href="$d6/dbf/classcontrol_1_1_super_block.html#a34349ea5b6faa8103b0ba80ce1f581d8" title="control::SuperBlock\l::setDt" alt="" coords="234,581,370,622"/>
-<area shape="rect" id="node15" href="$d4/d23/classcontrol_1_1_block_derivative.html#a2620adc368bb39670f38722308c93a06" title="control::BlockDerivative\l::setU" alt="" coords="454,339,615,381"/>
-<area shape="rect" id="node16" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a1d1df872ac4eb441e14b82a75d761b53" title="control::BlockPD::update" alt="" coords="218,647,386,673"/>
-<area shape="rect" id="node17" href="$d4/d23/classcontrol_1_1_block_derivative.html#ab84cde3d35e011eef7f6eec0dc623174" title="Update the state and get current derivative. " alt="" coords="221,195,383,237"/>
-<area shape="rect" id="node11" href="$da/d87/classcontrol_1_1_block.html#a5cc3bbbe08336d41b29a4ca997a34676" title="control::Block::setDt" alt="" coords="463,513,606,540"/>
-<area shape="rect" id="node12" href="$da/d87/classcontrol_1_1_block.html#a1ba16c14fc7d2af81a7342e754db9644" title="control::Block::getName" alt="" coords="453,588,616,615"/>
-<area shape="rect" id="node14" href="$df/db4/class_list_node.html#a39f4f8a789ee9684a10a4289f964f4dc" title="ListNode::getSibling" alt="" coords="465,639,604,665"/>
-<area shape="rect" id="node13" href="$da/d87/classcontrol_1_1_block.html#ac063575902527aec028fce66048a0a95" title="control::Block::getParent" alt="" coords="664,588,831,615"/>
-<area shape="rect" id="node18" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a1c8b0f01f7883e2fb68984271a1e49d5" title="control::BlockLowPass\l::update" alt="" coords="457,209,613,250"/>
-<area shape="rect" id="node19" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a1267f9eb3dfbf77f5a222a43d41e4c22" title="control::BlockLowPass\l::getState" alt="" coords="669,177,825,218"/>
-<area shape="rect" id="node20" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a792e4ac25394d402a07eddb65a27c722" title="control::BlockLowPass\l::setState" alt="" coords="669,242,825,283"/>
-<area shape="rect" id="node21" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a89bc3c3ad6d0a829c86b026c5491bd5f" title="control::BlockLowPass\l::getFCut" alt="" coords="669,307,825,349"/>
+<area shape="rect" id="node2" href="$df/dac/test_8cpp.html#a4bc1e8960997ec2c8c281982580b9bb0" title="equal" alt="" coords="275,28,329,55"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="515,5,554,32"/>
+<area shape="rect" id="node6" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a6f02e9b05cfade77f22f121cc79e78f1" title="control::BlockPD::getDerivative" alt="" coords="199,348,405,375"/>
+<area shape="rect" id="node7" href="$da/d87/classcontrol_1_1_block.html#a3b464ef71352123ba61f32019c943e78" title="control::Block::getDt" alt="" coords="676,253,819,280"/>
+<area shape="rect" id="node8" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a5894ae8463dea5ad75e056e668fcee23" title="control::BlockPD::getKD" alt="" coords="219,399,385,425"/>
+<area shape="rect" id="node9" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a432b6bb90a861c5dfd89d825216ee482" title="control::BlockPD::getKP" alt="" coords="219,449,385,476"/>
+<area shape="rect" id="node10" href="$d4/d23/classcontrol_1_1_block_derivative.html#a4d38f34e211d0e0011b84d9743fefb0d" title="control::BlockDerivative\l::getLP" alt="" coords="221,501,383,542"/>
+<area shape="rect" id="node11" href="$d4/d23/classcontrol_1_1_block_derivative.html#a0d34b2d4a58926f24338290107c4ac68" title="control::BlockDerivative\l::getU" alt="" coords="454,57,615,98"/>
+<area shape="rect" id="node12" href="$d6/dbf/classcontrol_1_1_super_block.html#a34349ea5b6faa8103b0ba80ce1f581d8" title="control::SuperBlock\l::setDt" alt="" coords="234,566,370,607"/>
+<area shape="rect" id="node17" href="$d4/d23/classcontrol_1_1_block_derivative.html#a2620adc368bb39670f38722308c93a06" title="control::BlockDerivative\l::setU" alt="" coords="454,239,615,281"/>
+<area shape="rect" id="node18" href="$d3/dc2/classcontrol_1_1_block_p_d.html#a1d1df872ac4eb441e14b82a75d761b53" title="control::BlockPD::update" alt="" coords="218,632,386,659"/>
+<area shape="rect" id="node19" href="$d4/d23/classcontrol_1_1_block_derivative.html#ab84cde3d35e011eef7f6eec0dc623174" title="Update the state and get current derivative. " alt="" coords="221,181,383,222"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="706,5,789,32"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="879,5,965,32"/>
+<area shape="rect" id="node13" href="$da/d87/classcontrol_1_1_block.html#a5cc3bbbe08336d41b29a4ca997a34676" title="control::Block::setDt" alt="" coords="463,499,606,525"/>
+<area shape="rect" id="node14" href="$da/d87/classcontrol_1_1_block.html#a1ba16c14fc7d2af81a7342e754db9644" title="control::Block::getName" alt="" coords="453,573,616,600"/>
+<area shape="rect" id="node16" href="$df/db4/class_list_node.html#a55a754dc43f33886f9c27c9bc20138be" title="ListNode::getSibling" alt="" coords="465,624,604,651"/>
+<area shape="rect" id="node15" href="$da/d87/classcontrol_1_1_block.html#ac063575902527aec028fce66048a0a95" title="control::Block::getParent" alt="" coords="664,573,831,600"/>
+<area shape="rect" id="node20" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a1c8b0f01f7883e2fb68984271a1e49d5" title="control::BlockLowPass\l::update" alt="" coords="457,122,613,163"/>
+<area shape="rect" id="node21" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a1267f9eb3dfbf77f5a222a43d41e4c22" title="control::BlockLowPass\l::getState" alt="" coords="669,187,825,229"/>
+<area shape="rect" id="node22" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a792e4ac25394d402a07eddb65a27c722" title="control::BlockLowPass\l::setState" alt="" coords="669,57,825,98"/>
+<area shape="rect" id="node23" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a89bc3c3ad6d0a829c86b026c5491bd5f" title="control::BlockLowPass\l::getFCut" alt="" coords="669,122,825,163"/>
 </map>

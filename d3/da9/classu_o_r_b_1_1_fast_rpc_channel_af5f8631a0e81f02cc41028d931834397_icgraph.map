@@ -1,18 +1,18 @@
 <map id="uORB::FastRpcChannel::GetInstance" name="uORB::FastRpcChannel::GetInstance">
 <area shape="rect" id="node2" href="$dc/d1c/px4muorb_8hpp.html#adc1aaa0910e11c75e2618b845fcec003" title="px4muorb_add_subscriber" alt="" coords="236,398,411,425"/>
 <area shape="rect" id="node7" href="$dc/d1c/px4muorb_8hpp.html#a51a88f1d811d78eef070e8f1b5a4c620" title="px4muorb_is_subscriber\l_present" alt="" coords="242,525,405,567"/>
-<area shape="rect" id="node10" href="$dc/d1c/px4muorb_8hpp.html#a7c6da42686782f81632be52cbc202207" title="px4muorb_orb_initialize" alt="" coords="244,82,403,109"/>
-<area shape="rect" id="node13" href="$dc/d1c/px4muorb_8hpp.html#a2e632a1c1a24d45aeaa1a66d488145f0" title="px4muorb_receive_bulk_data" alt="" coords="228,147,419,174"/>
+<area shape="rect" id="node10" href="$dc/d1c/px4muorb_8hpp.html#a7c6da42686782f81632be52cbc202207" title="px4muorb_orb_initialize" alt="" coords="244,89,403,115"/>
+<area shape="rect" id="node13" href="$dc/d1c/px4muorb_8hpp.html#a2e632a1c1a24d45aeaa1a66d488145f0" title="px4muorb_receive_bulk_data" alt="" coords="228,153,419,179"/>
 <area shape="rect" id="node16" href="$dc/d1c/px4muorb_8hpp.html#a57a95e107dc50b94632665bbe80baf90" title="px4muorb_receive_msg" alt="" coords="243,278,403,305"/>
-<area shape="rect" id="node18" href="$dc/d1c/px4muorb_8hpp.html#a9c3292e9034945ab353bfb63855c47b8" title="px4muorb_remove_subscriber" alt="" coords="225,17,421,43"/>
-<area shape="rect" id="node21" href="$dc/d1c/px4muorb_8hpp.html#a6a87fd2d01c820113e6ec318c05c98ce" title="px4muorb_send_topic_data" alt="" coords="233,463,414,490"/>
-<area shape="rect" id="node23" href="$dc/d1c/px4muorb_8hpp.html#a052a13c22fb6a22d10eb9a4d480a0b45" title="px4muorb_topic_advertised" alt="" coords="233,213,414,239"/>
+<area shape="rect" id="node18" href="$dc/d1c/px4muorb_8hpp.html#a9c3292e9034945ab353bfb63855c47b8" title="px4muorb_remove_subscriber" alt="" coords="225,23,421,50"/>
+<area shape="rect" id="node21" href="$dc/d1c/px4muorb_8hpp.html#a6a87fd2d01c820113e6ec318c05c98ce" title="px4muorb_send_topic_data" alt="" coords="233,459,414,486"/>
+<area shape="rect" id="node23" href="$dc/d1c/px4muorb_8hpp.html#a052a13c22fb6a22d10eb9a4d480a0b45" title="px4muorb_topic_advertised" alt="" coords="233,217,414,243"/>
 <area shape="rect" id="node26" href="$dc/d1c/px4muorb_8hpp.html#a53345b670ccf3e53836e8e648ff88ec3" title="px4muorb_topic_unadvertised" alt="" coords="226,335,421,362"/>
-<area shape="rect" id="node29" href="$dc/d1c/px4muorb_8hpp.html#a5b700322d2a362420c4d46a5365daf5a" title="px4muorb_unblock_recieve_msg" alt="" coords="217,598,429,625"/>
+<area shape="rect" id="node29" href="$dc/d1c/px4muorb_8hpp.html#a5b700322d2a362420c4d46a5365daf5a" title="px4muorb_unblock_recieve_msg" alt="" coords="217,594,429,621"/>
 <area shape="rect" id="node3" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#af127361b9238689669e4234581a8e9c7" title="px4muorb::KraitRpcWrapper\l::AddSubscriber" alt="" coords="477,397,664,439"/>
 <area shape="rect" id="node4" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#af5852543bd02d26b63fcffa0e2529c21" title="Interface to notify the remote entity of interest of a subscription for a message. " alt="" coords="712,397,903,439"/>
 <area shape="rect" id="node5" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a6e8db81da8f689e5143064e6b14d4539" title="Static method to check if there is an instance. " alt="" coords="951,397,1141,439"/>
-<area shape="rect" id="node6" href="$db/d4d/muorb__main_8cpp.html#a22f83891230d95394a51a3bb03af725d" title="muorb_main" alt="" coords="1189,453,1283,479"/>
+<area shape="rect" id="node6" href="$db/d4d/muorb__main_8cpp.html#a22f83891230d95394a51a3bb03af725d" title="muorb_main" alt="" coords="1189,470,1283,497"/>
 <area shape="rect" id="node8" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a2d17c189eaca7bbc4047bbf9e0c448d3" title="px4muorb::KraitRpcWrapper\l::IsSubscriberPresent" alt="" coords="477,528,664,569"/>
 <area shape="rect" id="node9" href="$d5/da8/classu_o_r_b_1_1_krait_fast_rpc_channel.html#a9f03e699626cc593ad8df7a65dab0294" title="Sends the data message over the communication link. " alt="" coords="712,463,903,504"/>
 <area shape="rect" id="node11" href="$d6/df5/classpx4muorb_1_1_krait_rpc_wrapper.html#a2922051fbc54df30fa618ea7b5c16402" title="Initiatizes the rpc channel px4 muorb. " alt="" coords="477,71,664,112"/>

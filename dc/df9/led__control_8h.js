@@ -19,5 +19,6 @@ var led__control_8h =
     [ "LED_CONTROL_MODE_FLASH", "dc/df9/led__control_8h.html#a5a995bd4aa8159131c06f54c6aa7cf27", null ],
     [ "LED_CONTROL_MODE_OFF", "dc/df9/led__control_8h.html#a41e0eeeb815094789143526e618ef880", null ],
     [ "LED_CONTROL_MODE_ON", "dc/df9/led__control_8h.html#a62ce05e6a6f844595fabb9b033eb22d9", null ],
+    [ "LED_CONTROL_ORB_QUEUE_LENGTH", "dc/df9/led__control_8h.html#a9b85ae3d5343b38ac99d0e32ab3922f0", null ],
     [ "ORB_DECLARE", "dc/df9/led__control_8h.html#acf997f6b2f9b3ee9970278c092e675d5", null ]
 ];

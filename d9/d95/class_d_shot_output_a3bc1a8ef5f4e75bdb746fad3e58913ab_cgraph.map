@@ -1,0 +1,13 @@
+<map id="DShotOutput::pwm_ioctl" name="DShotOutput::pwm_ioctl">
+<area shape="rect" id="node2" href="$da/d43/class_mixing_output.html#afcb0e6214f5b6f2a7f3dbcd15f11d28c" title="Load (append) a new mixer from a buffer, called from another thread. " alt="" coords="219,71,449,98"/>
+<area shape="rect" id="node5" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="272,122,396,149"/>
+<area shape="rect" id="node6" href="$da/d43/class_mixing_output.html#a2468e5db2b2f06f64e58f02c6cbf3952" title="Reset (unload) the complete mixer, called from another thread. " alt="" coords="250,5,418,47"/>
+<area shape="rect" id="node7" href="$d9/d95/class_d_shot_output.html#a78a80b33555a954813317a4e61eaaa3f" title="DShotOutput::set_mode" alt="" coords="253,173,415,199"/>
+<area shape="rect" id="node12" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="265,223,403,250"/>
+<area shape="rect" id="node3" href="$da/d43/class_mixing_output.html#a68f6d2d353b0760d70368169b2d540c7" title="MixingOutput::lock" alt="" coords="505,14,636,41"/>
+<area shape="rect" id="node4" href="$da/d43/class_mixing_output.html#ab5e3af89fb50a1e7224a65352cc4f451" title="MixingOutput::unlock" alt="" coords="498,69,643,95"/>
+<area shape="rect" id="node8" href="$dc/d5d/drv__input__capture_8h.html#ab86ba2023ce7e2c504afa11874b1acc7" title="up_input_capture_set" alt="" coords="497,149,644,175"/>
+<area shape="rect" id="node9" href="$d9/d95/class_d_shot_output.html#a1c296b71ebf2f5ae05b1ed7e9a46bd8a" title="DShotOutput::update\l_dshot_out_state" alt="" coords="498,200,643,241"/>
+<area shape="rect" id="node10" href="$d0/dbb/drv__pwm__output_8h.html#a9cb6a7bb585b927a7d0584ff3583f9aa" title="Intialise the Dshot outputs using the specified configuration. " alt="" coords="695,182,793,209"/>
+<area shape="rect" id="node11" href="$d0/dbb/drv__pwm__output_8h.html#a4da1820cfd2d11bfa35831f2cd40f55e" title="Arm or disarm dshot outputs (This will enable/disable complete timer for safety purpose.). " alt="" coords="692,233,796,259"/>
+</map>

@@ -1,12 +1,10 @@
 <map id="FlightTask::getPositionSetpoint" name="FlightTask::getPositionSetpoint">
-<area shape="rect" id="node2" href="$da/dbc/class_flight_task.html#a28fcf5bd24f6d3ccf3ebb23a37a76093" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="257,64,440,105"/>
-<area shape="rect" id="node11" href="$dc/d0c/class_flight_tasks.html#a5bcf5880e6b54f08170826d4814d37fc" title="Get the output data from the current task. " alt="" coords="760,123,923,164"/>
-<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="498,71,702,98"/>
-<area shape="rect" id="node10" href="$de/de4/class_flight_task_manual.html#a16249ae1f0f40c812e0c58265e707916" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="488,5,712,47"/>
-<area shape="rect" id="node4" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="773,71,910,98"/>
-<area shape="rect" id="node5" href="$dc/d0c/class_flight_tasks.html#a480987e23ccc705b407d5ad5b40ac4f6" title="FlightTasks::~FlightTasks" alt="" coords="971,71,1145,98"/>
-<area shape="rect" id="node6" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="971,123,1145,164"/>
-<area shape="rect" id="node7" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="1193,123,1368,164"/>
-<area shape="rect" id="node8" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="1416,123,1591,164"/>
-<area shape="rect" id="node9" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="1639,130,1788,157"/>
+<area shape="rect" id="node2" href="$dc/d0c/class_flight_tasks.html#a5bcf5880e6b54f08170826d4814d37fc" title="Get the output data from the current task. " alt="" coords="263,49,426,90"/>
+<area shape="rect" id="node5" href="$da/dbc/class_flight_task.html#ad5bb0b1e3d751c3c106405e4b30c7348" title="Call this to reset an active Flight Task. " alt="" coords="269,125,420,152"/>
+<area shape="rect" id="node8" href="$da/dbc/class_flight_task.html#a7eef925a62b6dde292212a6ce551d320" title="Call after update() to constrain the generated setpoints in order to comply with the constraints of t..." alt="" coords="257,197,432,224"/>
+<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#adbfe677fc3a415e08f897d938cc641d8" title="Switch to a specific task (for normal usage) " alt="" coords="480,5,645,32"/>
+<area shape="rect" id="node4" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="693,107,900,133"/>
+<area shape="rect" id="node6" href="$dc/d0c/class_flight_tasks.html#ab0ad84cee380875369ad44f7745dacb2" title="This method will re&#45;activate current task. " alt="" coords="484,107,641,133"/>
+<area shape="rect" id="node7" href="$da/dbc/class_flight_task.html#adc254d6f0f38487df20a894b0fa017ab" title="FlightTask::FlightTask" alt="" coords="487,157,639,184"/>
+<area shape="rect" id="node9" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="494,208,631,235"/>
 </map>

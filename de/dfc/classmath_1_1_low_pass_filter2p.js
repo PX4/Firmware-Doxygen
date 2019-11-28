@@ -2,7 +2,7 @@ var classmath_1_1_low_pass_filter2p =
 [
     [ "LowPassFilter2p", "de/dfc/classmath_1_1_low_pass_filter2p.html#ae98f507ef3af0f028fef6c12ac55d9c1", null ],
     [ "apply", "de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253", null ],
-    [ "get_cutoff_freq", "de/dfc/classmath_1_1_low_pass_filter2p.html#a958d971dfaa0dd65ecb269a303e30a7b", null ],
+    [ "get_cutoff_freq", "de/dfc/classmath_1_1_low_pass_filter2p.html#adf877ff3cb36e7020cbd4d3f3d013971", null ],
     [ "reset", "de/dfc/classmath_1_1_low_pass_filter2p.html#ab2350f530aabeaed83f7a3dd4d2746f8", null ],
     [ "set_cutoff_frequency", "de/dfc/classmath_1_1_low_pass_filter2p.html#a5c1390c1bca03d0eb9229ddccfbede24", null ],
     [ "_a1", "de/dfc/classmath_1_1_low_pass_filter2p.html#a9bd9b32df2455fa79e05834bd49dd58c", null ],

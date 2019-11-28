@@ -25,6 +25,5 @@ var classrunwaytakeoff_1_1_runway_takeoff =
     [ "_initialized", "db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#aa50986aaaab145916223bbab68cccf70", null ],
     [ "_initialized_time", "db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#aae297b86aedf8f2f9e98acff40e0197d", null ],
     [ "_start_wp", "db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a28841ce17e8cf40586e5da44681edf5e", null ],
-    [ "_state", "db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a1c70698b1f591ef87f5f10c18118c39a", null ],
-    [ "_throttle_ramp_time", "db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a7806bb1d7cc5e965a15bf82b13398bb3", null ]
+    [ "_state", "db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a1c70698b1f591ef87f5f10c18118c39a", null ]
 ];

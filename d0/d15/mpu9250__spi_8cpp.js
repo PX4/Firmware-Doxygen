@@ -5,5 +5,5 @@ var mpu9250__spi_8cpp =
     [ "DIR_WRITE", "d0/d15/mpu9250__spi_8cpp.html#ac084b6b62ecc11b60fc1c4cc0b775ae1", null ],
     [ "MPU9250_HIGH_SPI_BUS_SPEED", "d0/d15/mpu9250__spi_8cpp.html#a4a84f11383dca32a90cefec7b0467714", null ],
     [ "MPU9250_LOW_SPI_BUS_SPEED", "d0/d15/mpu9250__spi_8cpp.html#a51bf66fdb2f9bdd9572ccd577339d2d3", null ],
-    [ "MPU9250_SPI_interface", "d0/d15/mpu9250__spi_8cpp.html#a7553b7705b996382b39d2d88c33357af", null ]
+    [ "MPU9250_SPI_interface", "d0/d15/mpu9250__spi_8cpp.html#a8998e4ec0544c14a53262cbb15b6f011", null ]
 ];

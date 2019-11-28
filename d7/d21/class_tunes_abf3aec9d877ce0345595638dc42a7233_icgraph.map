@@ -1,8 +1,13 @@
 <map id="Tunes::reset" name="Tunes::reset">
-<area shape="rect" id="node2" href="$d7/d21/class_tunes.html#a924140ddf4b710f12fc8e750d3b9976e" title="Get next note in the current tune, which has been provided by either set_control or play_string..." alt="" coords="148,64,296,91"/>
-<area shape="rect" id="node6" href="$d7/d21/class_tunes.html#a14ad95268d74d3fc1749b3fb4e4305a5" title="Set tune to be played using the message. " alt="" coords="157,13,287,40"/>
-<area shape="rect" id="node7" href="$d7/d21/class_tunes.html#a4b17b6eebc04f1a21e7c48e519ad79e1" title="Constructor that can set the default parameters. " alt="" coords="171,115,273,141"/>
-<area shape="rect" id="node3" href="$d4/df0/class_tone_alarm.html#af8798dde809dba04968d935c81cc0dda" title="ToneAlarm::frequency\l_to_divisor" alt="" coords="344,57,495,98"/>
-<area shape="rect" id="node4" href="$d7/d21/class_tunes.html#a04580b750306f8b3cccbc946623b7c6d" title="Get next note in the current tune, which has been provided by either set_control or play_string..." alt="" coords="345,123,493,149"/>
-<area shape="rect" id="node5" href="$dd/d39/tune__control_8cpp.html#a0e2a8f2fc82e1ecae2c0f3065310912d" title="tune_control_main" alt="" coords="355,5,483,32"/>
+<area shape="rect" id="node2" href="$d7/d21/class_tunes.html#a069558a233a2e62863c9d75e20914c05" title="Tunes::get_maximum\l_update_interval" alt="" coords="331,57,479,98"/>
+<area shape="rect" id="node6" href="$d7/d21/class_tunes.html#a14ad95268d74d3fc1749b3fb4e4305a5" title="Set tune to be played using the message. " alt="" coords="148,157,279,184"/>
+<area shape="rect" id="node8" href="$d7/d21/class_tunes.html#a6208e01abecdcc6f7dbf35604fc38aa6" title="Tunes::tune_end" alt="" coords="154,56,273,83"/>
+<area shape="rect" id="node11" href="$d7/d21/class_tunes.html#ad1f8d27f9354d5393ad3d061662e27c8" title="Tunes::tune_error" alt="" coords="151,5,275,32"/>
+<area shape="rect" id="node12" href="$d7/d21/class_tunes.html#a2ed09213017831a5adde49edbd1fd021" title="Constructor with the default parameters set to: default_tempo: TUNE_DEFAULT_TEMPO default_octave: TUN..." alt="" coords="162,208,265,235"/>
+<area shape="rect" id="node3" href="$d4/df0/class_tone_alarm.html#af526872d49f6a9d3164bb8e123236b01" title="Parses the next note out of the string and plays it. " alt="" coords="532,60,683,87"/>
+<area shape="rect" id="node5" href="$dd/d39/tune__control_8cpp.html#a0e2a8f2fc82e1ecae2c0f3065310912d" title="tune_control_main" alt="" coords="543,111,671,137"/>
+<area shape="rect" id="node4" href="$d4/df0/class_tone_alarm.html#aded6bd705fe403ed9724bf7fcfc2f587" title="Trampoline for the work queue. " alt="" coords="731,60,848,87"/>
+<area shape="rect" id="node7" href="$d4/df0/class_tone_alarm.html#ab4930f540abe2e40b552355f21673ab3" title="Updates the uORB topics for local subscribers. " alt="" coords="327,123,484,149"/>
+<area shape="rect" id="node9" href="$d7/d21/class_tunes.html#a5a7d84429f0f428bf13afc8900b8fe59" title="Get next note in the current tune, which has been provided by either set_control or play_string..." alt="" coords="331,5,479,32"/>
+<area shape="rect" id="node10" href="$d7/d21/class_tunes.html#a238acef7dafd57805094d9aa58867791" title="Get next note in the current tune, which has been provided by either set_control or play_string..." alt="" coords="533,5,681,32"/>
 </map>

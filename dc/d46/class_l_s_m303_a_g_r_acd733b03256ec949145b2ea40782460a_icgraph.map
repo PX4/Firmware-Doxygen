@@ -1,12 +1,9 @@
 <map id="LSM303AGR::read_reg" name="LSM303AGR::read_reg">
 <area shape="rect" id="node2" href="$dc/d46/class_l_s_m303_a_g_r.html#af81f559db8124d052eed917f7138f226" title="Collect the result of the most recent measurement. " alt="" coords="217,5,362,32"/>
-<area shape="rect" id="node7" href="$dc/d46/class_l_s_m303_a_g_r.html#abf25787c77e782c2cd56ea777fe46b20" title="LSM303AGR::probe" alt="" coords="220,56,359,83"/>
-<area shape="rect" id="node8" href="$dc/d46/class_l_s_m303_a_g_r.html#a125bfe1feebc232c6f19b0748582b813" title="LSM303AGR::self_test" alt="" coords="211,107,368,133"/>
-<area shape="rect" id="node3" href="$dc/d46/class_l_s_m303_a_g_r.html#a42c0c5b8ab244453d11b4283ceb6a7a0" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="416,5,555,32"/>
-<area shape="rect" id="node4" href="$dc/d46/class_l_s_m303_a_g_r.html#ab5c17200646a8943f6359c15051605e7" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="603,5,808,32"/>
-<area shape="rect" id="node5" href="$dc/d46/class_l_s_m303_a_g_r.html#abf655b63f1ac173e11bfc40b5706c55e" title="Start automatic measurement. " alt="" coords="856,31,989,57"/>
-<area shape="rect" id="node6" href="$dc/d46/class_l_s_m303_a_g_r.html#aa4bb36d27f6af7b89db316d9c871d3a2" title="LSM303AGR::ioctl" alt="" coords="1037,31,1168,57"/>
-<area shape="rect" id="node9" href="$dc/d46/class_l_s_m303_a_g_r.html#adf7f920b237002f6c8e4d535b6a3fa02" title="LSM303AGR::init" alt="" coords="423,107,547,133"/>
-<area shape="rect" id="node10" href="$dc/d1e/namespacelsm303agr.html#ae6c8cc17b4d1364d4b5ddafd4f846a33" title="Start the driver. " alt="" coords="647,107,763,133"/>
-<area shape="rect" id="node11" href="$d2/d01/lsm303agr__main_8cpp.html#a7722f4a8839d68899970cf7d02c5585a" title="lsm303agr_main" alt="" coords="864,107,981,133"/>
+<area shape="rect" id="node4" href="$dc/d46/class_l_s_m303_a_g_r.html#abf25787c77e782c2cd56ea777fe46b20" title="LSM303AGR::probe" alt="" coords="220,56,359,83"/>
+<area shape="rect" id="node5" href="$dc/d46/class_l_s_m303_a_g_r.html#a125bfe1feebc232c6f19b0748582b813" title="LSM303AGR::self_test" alt="" coords="211,107,368,133"/>
+<area shape="rect" id="node3" href="$dc/d46/class_l_s_m303_a_g_r.html#a73e1197f1e4cb373adc70ed464f54875" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="416,5,547,32"/>
+<area shape="rect" id="node6" href="$dc/d46/class_l_s_m303_a_g_r.html#adf7f920b237002f6c8e4d535b6a3fa02" title="LSM303AGR::init" alt="" coords="419,107,543,133"/>
+<area shape="rect" id="node7" href="$dc/d1e/namespacelsm303agr.html#ae6c8cc17b4d1364d4b5ddafd4f846a33" title="Start the driver. " alt="" coords="595,107,711,133"/>
+<area shape="rect" id="node8" href="$d2/d01/lsm303agr__main_8cpp.html#a7722f4a8839d68899970cf7d02c5585a" title="lsm303agr_main" alt="" coords="759,107,876,133"/>
 </map>

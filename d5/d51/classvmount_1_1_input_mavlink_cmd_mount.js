@@ -9,6 +9,5 @@ var classvmount_1_1_input_mavlink_cmd_mount =
     [ "_mav_comp_id", "d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#a353efceddca8598fccac8b08ee29b982", null ],
     [ "_mav_sys_id", "d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#ab0af3a7342d6d4f799e4c7fc3f924dff", null ],
     [ "_stabilize", "d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#a664c0980390c21d568cfa2b364f35ac1", null ],
-    [ "_vehicle_command_ack_pub", "d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#aa161eca8f9c78e1cb965193e435a8b10", null ],
     [ "_vehicle_command_sub", "d5/d51/classvmount_1_1_input_mavlink_cmd_mount.html#afe9c176eac1e7ded258c48cd421d39d5", null ]
 ];

@@ -36,7 +36,9 @@ var lis3mdl_8h =
     ] ],
     [ "OPERATING_MODE", "dd/db3/lis3mdl_8h.html#a980e950615d86dadef54f3cfaefb5fb4", [
       [ "CONTINUOUS", "dd/db3/lis3mdl_8h.html#a980e950615d86dadef54f3cfaefb5fb4a9191b0f571007d73a6fc0f6a39d2b866", null ],
-      [ "SINGLE", "dd/db3/lis3mdl_8h.html#a980e950615d86dadef54f3cfaefb5fb4a3388f7110f6f25a54e215eb75d5d7516", null ]
+      [ "SINGLE", "dd/db3/lis3mdl_8h.html#a980e950615d86dadef54f3cfaefb5fb4a3388f7110f6f25a54e215eb75d5d7516", null ],
+      [ "CONTINUOUS", "df/d7d/rm3100_8h.html#a980e950615d86dadef54f3cfaefb5fb4a9191b0f571007d73a6fc0f6a39d2b866", null ],
+      [ "SINGLE", "df/d7d/rm3100_8h.html#a980e950615d86dadef54f3cfaefb5fb4a3388f7110f6f25a54e215eb75d5d7516", null ]
     ] ],
     [ "LIS3MDL_I2C_interface", "dd/db3/lis3mdl_8h.html#ab67146f77ce3c114f13df4850fac21e6", null ],
     [ "LIS3MDL_SPI_interface", "dd/db3/lis3mdl_8h.html#a2dcb10d2d674fce4bd44e75512b82938", null ]

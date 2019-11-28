@@ -1,51 +1,51 @@
 <map id="uORB::Manager::orb_copy" name="uORB::Manager::orb_copy">
-<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="231,115,373,157"/>
-<area shape="rect" id="node8" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="455,1317,530,1344"/>
-<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="443,123,543,149"/>
-<area shape="rect" id="node5" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="421,64,564,91"/>
-<area shape="rect" id="node4" href="$d3/de0/class_muorb_test_example.html#a72bc5988dfea86bfe367c9aeb6be7eba" title="MuorbTestExample::DefaultTest" alt="" coords="612,123,823,149"/>
-<area shape="rect" id="node6" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="615,5,819,32"/>
-<area shape="rect" id="node7" href="$dc/d86/class_camera_trigger.html#a19206d547f751409dedd3fd1c93995f4" title="Vehicle command handler. " alt="" coords="644,57,791,98"/>
-<area shape="rect" id="node9" href="$d2/d86/classvmount_1_1_output_base.html#a4fedba3a144307aeff64787fc80bc370" title="calculate the _angle_outputs (with speed) and stabilize if needed " alt="" coords="646,660,789,716"/>
-<area shape="rect" id="node10" href="$d3/d6e/classlanding__target__estimator_1_1_landing_target_estimator.html#aaacb4593467952edc1c28c3bf54c9784" title="landing_target_estimator\l::LandingTargetEstimator\l::_check_params" alt="" coords="633,740,801,796"/>
-<area shape="rect" id="node11" href="$d8/d1f/classland__detector_1_1_land_detector.html#a269e103b9078510d8031ab1c73fc1e1d" title="land_detector::LandDetector\l::_check_params" alt="" coords="624,819,811,861"/>
-<area shape="rect" id="node12" href="$d2/d86/classvmount_1_1_output_base.html#a63ca320abfe9fe7e2e54be97a3bb1335" title="check if vehicle position changed and update the setpoint angles if in gps mode " alt="" coords="631,885,804,926"/>
-<area shape="rect" id="node13" href="$d3/d6e/classlanding__target__estimator_1_1_landing_target_estimator.html#a41ae6e5aa3c8209591af80be7d0766d9" title="landing_target_estimator\l::LandingTargetEstimator\l::_orb_update" alt="" coords="633,949,801,1005"/>
-<area shape="rect" id="node14" href="$d8/d1f/classland__detector_1_1_land_detector.html#a415c9a8d7195f4550fae8edf6eb84870" title="Convenience function for polling uORB subscriptions. " alt="" coords="624,1029,811,1070"/>
-<area shape="rect" id="node15" href="$d4/d83/class_df_ltc2946_wrapper.html#aaabb2a34a98fbeb166871a08a046f8c3" title="DfLtc2946Wrapper::\l_publish" alt="" coords="648,1094,787,1135"/>
-<area shape="rect" id="node16" href="$d9/d0b/class_df_a_k8963_wrapper.html#ab55ed30cea532bcb2cccf58268e9bb40" title="DfAK8963Wrapper::_publish" alt="" coords="624,1160,811,1187"/>
-<area shape="rect" id="node17" href="$d7/d3e/class_df_hmc5883_wrapper.html#a9a09f3f8a4592611e2c99b42c6e14104" title="DfHmc5883Wrapper::\l_publish" alt="" coords="643,1211,792,1253"/>
-<area shape="rect" id="node18" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="642,1277,793,1318"/>
-<area shape="rect" id="node19" href="$df/d43/class_df_lsm9ds1_wrapper.html#a90885ef37d746377c85a37142ace5d93" title="DfLsm9ds1Wrapper::\l_publish" alt="" coords="644,1342,791,1383"/>
-<area shape="rect" id="node20" href="$df/d4c/class_df_mpu9250_wrapper.html#a731b19d90418d3ec545122f2d097040e" title="DfMpu9250Wrapper::\l_publish" alt="" coords="644,1407,791,1449"/>
-<area shape="rect" id="node21" href="$d5/de4/classvmount_1_1_input_mavlink_r_o_i.html#a214f78e8808d7cea51f90e3006dce81c" title="vmount::InputMavlinkROI\l::_read_control_data_from\l_position_setpoint_sub" alt="" coords="631,1472,804,1528"/>
-<area shape="rect" id="node22" href="$da/d9b/classvmount_1_1_input_r_c.html#a822b8ad1cbe6f80f579d7f5b87f716de" title="vmount::InputRC::_read\l_control_data_from_subscription" alt="" coords="612,1551,823,1593"/>
-<area shape="rect" id="node23" href="$d4/d81/class_q_shell.html#a841068be620274486bc99c869656b547" title="QShell::_wait_for_retval" alt="" coords="637,1617,798,1644"/>
-<area shape="rect" id="node24" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a7360066d2a00dc90121e1e90278c4fcd" title="Poll the accelerometer for updated data. " alt="" coords="617,1669,817,1710"/>
-<area shape="rect" id="node25" href="$d7/d6f/class_vtol_attitude_control.html#a42cd6eed7b21156b0bd5c8d2ef88ac5f" title="Check for inputs from fw attitude controller. " alt="" coords="651,1733,783,1789"/>
-<area shape="rect" id="node26" href="$d7/d6f/class_vtol_attitude_control.html#aeebb39f28919cb37c208d3ba955bf42c" title="Check for inputs from mc attitude controller. " alt="" coords="651,1813,783,1869"/>
-<area shape="rect" id="node27" href="$d1/d44/class_sensors.html#a6db3d73c358cb42faa68117f95eaa448" title="Poll the ADC and update readings to suit. " alt="" coords="654,1893,781,1920"/>
-<area shape="rect" id="node28" href="$d4/d96/namespace_preflight.html#ac465ae7e024f50dfb37d96549cd19749" title="Preflight::airspeedCheck" alt="" coords="635,1944,800,1971"/>
-<area shape="rect" id="node29" href="$d6/dda/arm__auth_8h.html#abf123d7c61c3f3d48f367a5ab4335318" title="arm_auth_update" alt="" coords="656,1995,779,2021"/>
-<area shape="rect" id="node30" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a653f7a53eb74b9af44d3cb5edc60f06b" title="Poll the barometer for updated data. " alt="" coords="617,2046,817,2087"/>
-<area shape="rect" id="node31" href="$d9/d0c/class_multicopter_attitude_control.html#addc37534f96e52475895fa1ea65f4de1" title="Check for parameter update and handle it. " alt="" coords="631,2111,804,2153"/>
-<area shape="rect" id="node32" href="$de/dbb/class_ground_rover_attitude_control.html#afb5b7cf06bd9d16e618b019d6d2409ab" title="GroundRoverAttitudeControl\l::battery_status_poll" alt="" coords="624,2177,811,2218"/>
-<area shape="rect" id="node33" href="$d3/dff/class_uavcan_gnss_bridge.html#aa60fadb3d81a859baf84bdb92f01863e" title="UavcanGnssBridge::broadcast\l_from_orb" alt="" coords="617,2242,817,2283"/>
-<area shape="rect" id="node34" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#a5f9a984ff722df7a6c93f66739f04d68" title="build_eam_response" alt="" coords="647,2308,788,2335"/>
-<area shape="rect" id="node35" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#aed399793f87faef7de4d4ca34de5ab76" title="build_gam_response" alt="" coords="647,2359,788,2385"/>
-<area shape="rect" id="node36" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#ab3839711a8ad6fc60c813a5df8515093" title="build_gps_response" alt="" coords="649,2409,786,2436"/>
-<area shape="rect" id="node37" href="$d7/da9/calibration__routines_8h.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="638,2460,797,2487"/>
-<area shape="rect" id="node38" href="$d7/da9/calibration__routines_8h.html#af94714b5ecb1dd4531b222f0b1d5ad4e" title="Called at the beginning of calibration in order to subscribe to the cancel command. " alt="" coords="628,2511,807,2537"/>
-<area shape="rect" id="node39" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5a61fa7b58fe3f8ea8442b61893f924b" title="check for topic updates " alt="" coords="636,2561,799,2617"/>
-<area shape="rect" id="node40" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a8aaf43e77ed1f2d81f94909002c179be" title="check for topic updates " alt="" coords="620,2641,815,2682"/>
-<area shape="rect" id="node41" href="$d0/df9/class_navigator.html#a34945eedcd82eda8a50bd1890c0d09cc" title="Check nearby traffic for potential collisions. " alt="" coords="637,2707,798,2733"/>
-<area shape="rect" id="node42" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="629,173,805,200"/>
-<area shape="rect" id="node43" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a55a07bd6f5959c9b8bdeeb7d63e4817a" title="px4::logger::Logger\l::copy_if_updated_multi" alt="" coords="637,225,797,266"/>
-<area shape="rect" id="node44" href="$de/df6/class_wind_estimator_module.html#a0f33419010318d9c7f836538e489d102" title="WindEstimatorModule\l::cycle" alt="" coords="642,290,793,331"/>
-<area shape="rect" id="node45" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="662,356,773,383"/>
-<area shape="rect" id="node46" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="656,407,779,433"/>
-<area shape="rect" id="node47" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="660,457,775,484"/>
-<area shape="rect" id="node48" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a65ce990aa49256b1f415396fa80bddec" title="px4::bst::BST::cycle" alt="" coords="646,508,789,535"/>
-<area shape="rect" id="node49" href="$d7/da9/calibration__routines_8h.html#abc2b2c61fa1a92d22bc1fc7d24ea5bfc" title="Wait for vehicle to become still and detect it&#39;s orientation. " alt="" coords="655,559,780,585"/>
-<area shape="rect" id="node50" href="$d1/d44/class_sensors.html#af7a783c126015ac22eb5de001d6c6680" title="Poll the differential pressure sensor for updated data. " alt="" coords="640,609,795,636"/>
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="231,49,373,90"/>
+<area shape="rect" id="node5" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="265,1425,339,1452"/>
+<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="477,56,577,83"/>
+<area shape="rect" id="node4" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="455,5,598,32"/>
+<area shape="rect" id="node6" href="$d2/d86/classvmount_1_1_output_base.html#a4fedba3a144307aeff64787fc80bc370" title="calculate the _angle_outputs (with speed) and stabilize if needed " alt="" coords="455,239,598,295"/>
+<area shape="rect" id="node7" href="$d2/d86/classvmount_1_1_output_base.html#a63ca320abfe9fe7e2e54be97a3bb1335" title="check if vehicle position changed and update the setpoint angles if in gps mode " alt="" coords="440,319,613,361"/>
+<area shape="rect" id="node8" href="$d4/d83/class_df_ltc2946_wrapper.html#aaabb2a34a98fbeb166871a08a046f8c3" title="DfLtc2946Wrapper::\l_publish" alt="" coords="690,1878,829,1919"/>
+<area shape="rect" id="node9" href="$d7/d3e/class_df_hmc5883_wrapper.html#a9a09f3f8a4592611e2c99b42c6e14104" title="DfHmc5883Wrapper::\l_publish" alt="" coords="452,437,601,478"/>
+<area shape="rect" id="node10" href="$d9/d0b/class_df_a_k8963_wrapper.html#ab55ed30cea532bcb2cccf58268e9bb40" title="DfAK8963Wrapper::_publish" alt="" coords="433,503,620,529"/>
+<area shape="rect" id="node11" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="451,554,602,595"/>
+<area shape="rect" id="node12" href="$df/d43/class_df_lsm9ds1_wrapper.html#a90885ef37d746377c85a37142ace5d93" title="DfLsm9ds1Wrapper::\l_publish" alt="" coords="453,619,600,661"/>
+<area shape="rect" id="node13" href="$df/d4c/class_df_mpu9250_wrapper.html#a731b19d90418d3ec545122f2d097040e" title="DfMpu9250Wrapper::\l_publish" alt="" coords="453,685,600,726"/>
+<area shape="rect" id="node14" href="$d5/de4/classvmount_1_1_input_mavlink_r_o_i.html#a214f78e8808d7cea51f90e3006dce81c" title="vmount::InputMavlinkROI\l::_read_control_data_from\l_position_setpoint_sub" alt="" coords="440,751,613,807"/>
+<area shape="rect" id="node15" href="$da/d9b/classvmount_1_1_input_r_c.html#a822b8ad1cbe6f80f579d7f5b87f716de" title="vmount::InputRC::_read\l_control_data_from_subscription" alt="" coords="421,831,632,873"/>
+<area shape="rect" id="node16" href="$d4/d81/class_q_shell.html#a841068be620274486bc99c869656b547" title="QShell::_wait_for_retval" alt="" coords="446,897,607,924"/>
+<area shape="rect" id="node17" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#ae133875386f231a9eec9c0a8cde90b73" title="Poll the accelerometer for updated data. " alt="" coords="427,949,627,990"/>
+<area shape="rect" id="node18" href="$d6/d2f/_arm_authorization_8h.html#abf123d7c61c3f3d48f367a5ab4335318" title="arm_auth_update" alt="" coords="465,1015,588,1041"/>
+<area shape="rect" id="node19" href="$d6/db2/class_rover_position_control.html#a0a13756222bfb5247d6b39d62c2f75f0" title="RoverPositionControl\l::attitude_setpoint_poll" alt="" coords="450,1066,603,1107"/>
+<area shape="rect" id="node20" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a2d178d049111469f09dedcf2010a5e20" title="Poll the barometer for updated data. " alt="" coords="427,1131,627,1173"/>
+<area shape="rect" id="node21" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#a5f9a984ff722df7a6c93f66739f04d68" title="build_eam_response" alt="" coords="456,1197,597,1224"/>
+<area shape="rect" id="node22" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#aed399793f87faef7de4d4ca34de5ab76" title="build_gam_response" alt="" coords="456,1248,597,1275"/>
+<area shape="rect" id="node23" href="$d4/d5e/drivers_2telemetry_2hott_2messages_8h.html#ab3839711a8ad6fc60c813a5df8515093" title="build_gps_response" alt="" coords="458,1299,595,1325"/>
+<area shape="rect" id="node24" href="$d7/da9/calibration__routines_8h.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="447,1501,606,1528"/>
+<area shape="rect" id="node25" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="680,1501,839,1528"/>
+<area shape="rect" id="node26" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="1071,1425,1247,1452"/>
+<area shape="rect" id="node27" href="$df/d5e/gyro__calibration_8cpp.html#aa965e14493ef6d7bf8afe4d455e871e2" title="gyro_calibration_worker" alt="" coords="680,1603,839,1629"/>
+<area shape="rect" id="node28" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="887,1628,1022,1655"/>
+<area shape="rect" id="node29" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="680,1451,839,1477"/>
+<area shape="rect" id="node30" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="893,1451,1016,1477"/>
+<area shape="rect" id="node31" href="$d7/da9/calibration__routines_8h.html#af94714b5ecb1dd4531b222f0b1d5ad4e" title="Called at the beginning of calibration in order to subscribe to the cancel command. " alt="" coords="437,1603,616,1629"/>
+<area shape="rect" id="node32" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="689,1705,829,1746"/>
+<area shape="rect" id="node33" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5a61fa7b58fe3f8ea8442b61893f924b" title="check for topic updates " alt="" coords="445,1805,608,1861"/>
+<area shape="rect" id="node34" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a8aaf43e77ed1f2d81f94909002c179be" title="check for topic updates " alt="" coords="429,1886,624,1927"/>
+<area shape="rect" id="node35" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="465,1952,588,1979"/>
+<area shape="rect" id="node36" href="$d7/da9/calibration__routines_8h.html#abc2b2c61fa1a92d22bc1fc7d24ea5bfc" title="Wait for vehicle to become still and detect it&#39;s orientation. " alt="" coords="464,2003,589,2029"/>
+<area shape="rect" id="node37" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="887,843,1023,869"/>
+<area shape="rect" id="node38" href="$d4/d4c/esc__calib_8c.html#af19cf40642301c03cf95f3509c0ad671" title="esc_calib_main" alt="" coords="471,2104,583,2131"/>
+<area shape="rect" id="node39" href="$d4/de1/frsky__telemetry_8cpp.html#ac7ef296957e318ce7c370f98299e300d" title="The daemon thread. " alt="" coords="431,2155,622,2181"/>
+<area shape="rect" id="node40" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a54657c2c77016e3a2545bdeaece3de37" title="Poll the gyro for updated data. " alt="" coords="427,2206,627,2247"/>
+<area shape="rect" id="node41" href="$d9/de2/classpx4_1_1_replay_ekf2.html#a8cef9aa380ec51a2cf9d630fa203d897" title="handle ekf2 topic publication in ekf2 replay mode " alt="" coords="428,2271,625,2313"/>
+<area shape="rect" id="node42" href="$d1/dde/class_p_x4_i_o.html#a87c6d20b85048636ff90b68f19f91e50" title="Send controls for one group to IO. " alt="" coords="451,2337,602,2378"/>
+<area shape="rect" id="node43" href="$d1/d61/topic__listener_8hpp.html#a23bb7e3eb57871171055a62ead3ae242" title="listener_print_topic" alt="" coords="461,2403,592,2429"/>
+<area shape="rect" id="node44" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#af224ca20d335a068aca2208d780ed82d" title="Poll the magnetometer for updated data. " alt="" coords="427,2454,627,2495"/>
+<area shape="rect" id="node45" href="$d4/d81/class_q_shell.html#ae4bc293e455e497596f50688e2f91d0a" title="QShell::main" alt="" coords="711,2287,808,2313"/>
+<area shape="rect" id="node46" href="$d6/db2/class_rover_position_control.html#abb5ce1393d8ed46c2f7e1dede8f97087" title="RoverPositionControl\l::manual_control_setpoint_poll" alt="" coords="427,2571,626,2613"/>
+<area shape="rect" id="node47" href="$d5/dc3/systemcmds_2nshterm_2nshterm_8c.html#a50f4979128a86e71d63571fe96bfee92" title="nshterm_main" alt="" coords="475,2637,579,2664"/>
+<area shape="rect" id="node48" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="467,2053,587,2080"/>
+<area shape="rect" id="node49" href="$dc/d67/namespacerc__receiver.html#aac50ae10fe6c799a6b8fd30f3bc1228c" title="poll parameter update " alt="" coords="451,107,603,149"/>
+<area shape="rect" id="node50" href="$d6/dd7/namespacempu9x50.html#a5b9d4a83607aaf6879611e09e71a2bd5" title="poll parameter update " alt="" coords="456,173,597,214"/>
 </map>

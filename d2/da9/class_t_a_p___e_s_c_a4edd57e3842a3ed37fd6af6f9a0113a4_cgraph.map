@@ -1,51 +1,51 @@
 <map id="TAP_ESC::cycle" name="TAP_ESC::cycle">
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="221,87,333,114"/>
-<area shape="rect" id="node3" href="$d9/dbb/class_mixer_group.html#a7311c864d9bbd9a3583eb58b4c490a68" title="Get the saturation status. " alt="" coords="187,139,366,180"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="214,205,339,231"/>
-<area shape="rect" id="node6" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="217,255,336,282"/>
-<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="235,407,318,434"/>
-<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="239,523,314,550"/>
-<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="233,357,321,383"/>
-<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="219,465,334,491"/>
-<area shape="rect" id="node26" href="$d4/da3/namespacetap__esc__common.html#a04127c06d2a33f0868ae596a120b0207" title="Parse feedback from an ESC. " alt="" coords="711,1055,876,1096"/>
-<area shape="rect" id="node28" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="216,882,337,909"/>
-<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="241,675,312,702"/>
-<area shape="rect" id="node36" href="$d4/da3/namespacetap__esc__common.html#afc0e7ba702b5c75693838c2d71298877" title="Read data from the UART into a buffer. " alt="" coords="197,933,356,975"/>
-<area shape="rect" id="node38" href="$d2/da9/class_t_a_p___e_s_c.html#a219f85f8e2707f3f41481d423c2fd875" title="TAP_ESC::send_esc_outputs" alt="" coords="178,751,375,778"/>
-<area shape="rect" id="node43" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="193,999,361,1026"/>
-<area shape="rect" id="node45" href="$d0/db0/namespacelinux__pwm__out.html#abeed8907528a770b555496e3b00d01b9" title="linux_pwm_out::subscribe" alt="" coords="190,306,363,333"/>
-<area shape="rect" id="node48" href="$db/db3/class_module_params.html#acf08d1a67a584f7b6e0feaa9182bede1" title="Call this whenever the module gets a parameter change notification. " alt="" coords="176,1074,377,1101"/>
-<area shape="rect" id="node4" href="$de/d2d/class_mixer.html#a0489d4761ca014a0269fa975811c0066" title="Get the saturation status. " alt="" coords="467,5,611,47"/>
-<area shape="rect" id="node7" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="497,71,580,98"/>
-<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="957,256,1099,297"/>
-<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="467,392,610,433"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1175,256,1317,297"/>
-<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1371,263,1497,290"/>
-<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="756,523,831,550"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="991,574,1065,601"/>
-<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="961,523,1095,550"/>
-<area shape="rect" id="node15" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1177,549,1315,575"/>
-<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1169,599,1323,626"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="450,574,627,601"/>
-<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="756,574,831,601"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="467,224,610,265"/>
-<area shape="rect" id="node23" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="700,235,887,262"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="467,457,610,499"/>
-<area shape="rect" id="node27" href="$d4/da3/namespacetap__esc__common.html#a06bb6054e581dca2be8f4c84873666a0" title="tap_esc_common::crc8_esc" alt="" coords="935,970,1121,997"/>
-<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="473,726,604,753"/>
-<area shape="rect" id="node34" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="492,777,585,803"/>
-<area shape="rect" id="node35" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="509,675,569,702"/>
-<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="724,807,863,848"/>
-<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="728,676,859,717"/>
-<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="717,741,870,783"/>
-<area shape="rect" id="node37" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="515,945,562,971"/>
-<area shape="rect" id="node39" href="$d4/da3/namespacetap__esc__common.html#a8c4eb259cd5b3b548a97609dc6772ebf" title="Sends a packet to all ESCs and requests a specific ESC to respond. " alt="" coords="458,828,619,869"/>
-<area shape="rect" id="node40" href="$d4/da3/namespacetap__esc__common.html#a5bb170a7e39009eb97fc8860b8993af1" title="Select tap esc responder data for serial interface by 74hct151. " alt="" coords="709,937,877,979"/>
-<area shape="rect" id="node41" href="$d4/da3/namespacetap__esc__common.html#a29aec5f6c8a51ea28c886aa17d82b5fc" title="tap_esc_common::crc\l_packet" alt="" coords="718,872,869,913"/>
-<area shape="rect" id="node42" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="768,1003,819,1030"/>
-<area shape="rect" id="node44" href="$de/d2d/class_mixer.html#a6438664d6059e84a1689cca3637ce8d4" title="Set airmode. " alt="" coords="472,999,605,1026"/>
-<area shape="rect" id="node46" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="487,122,590,149"/>
-<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="722,115,865,156"/>
-<area shape="rect" id="node49" href="$df/db4/class_list_node.html#a39f4f8a789ee9684a10a4289f964f4dc" title="ListNode::getSibling" alt="" coords="469,1062,608,1089"/>
-<area shape="rect" id="node50" href="$db/db3/class_module_params.html#a2048201c06a6cc6602ab20a53e7d75cb" title="The implementation for this is generated with the macro DEFINE_PARAMETERS() " alt="" coords="425,1113,652,1139"/>
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="708,5,820,32"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="205,561,344,602"/>
+<area shape="rect" id="node10" href="$d9/dbb/class_mixer_group.html#af4ec388918d68f2f176251811dbdca05" title="MixerGroup::get_saturation\l_status" alt="" coords="185,626,364,667"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="212,695,337,721"/>
+<area shape="rect" id="node13" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="MixerGroup::mix" alt="" coords="215,260,334,287"/>
+<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="233,901,316,928"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="237,1084,312,1111"/>
+<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="231,796,319,823"/>
+<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="217,851,332,877"/>
+<area shape="rect" id="node35" href="$d4/da3/namespacetap__esc__common.html#a04127c06d2a33f0868ae596a120b0207" title="Parse feedback from an ESC. " alt="" coords="192,1193,357,1234"/>
+<area shape="rect" id="node37" href="$df/d7b/perf__counter_8cpp.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="214,1259,335,1285"/>
+<area shape="rect" id="node38" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="239,1141,310,1168"/>
+<area shape="rect" id="node41" href="$d4/da3/namespacetap__esc__common.html#afc0e7ba702b5c75693838c2d71298877" title="Read data from the UART into a buffer. " alt="" coords="195,1323,354,1365"/>
+<area shape="rect" id="node43" href="$d2/da9/class_t_a_p___e_s_c.html#a219f85f8e2707f3f41481d423c2fd875" title="TAP_ESC::send_esc_outputs" alt="" coords="176,1393,373,1420"/>
+<area shape="rect" id="node45" href="$d9/dbb/class_mixer_group.html#a7b494ee1ca8c3b215a5be0ffec0328ab" title="MixerGroup::set_airmode" alt="" coords="191,1451,359,1477"/>
+<area shape="rect" id="node47" href="$d0/db0/namespacelinux__pwm__out.html#abeed8907528a770b555496e3b00d01b9" title="linux_pwm_out::subscribe" alt="" coords="435,683,609,709"/>
+<area shape="rect" id="node49" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="205,495,344,537"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="453,497,591,538"/>
+<area shape="rect" id="node8" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="435,565,609,592"/>
+<area shape="rect" id="node5" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="695,421,833,462"/>
+<area shape="rect" id="node6" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="686,486,842,527"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="695,551,833,593"/>
+<area shape="rect" id="node9" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="677,617,851,658"/>
+<area shape="rect" id="node11" href="$d5/dd1/class_multirotor_mixer.html#a81e40a431f8d488c8d46cbef46dab96b" title="Get the saturation status. " alt="" coords="455,617,589,658"/>
+<area shape="rect" id="node14" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="453,209,591,236"/>
+<area shape="rect" id="node15" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="957,297,996,324"/>
+<area shape="rect" id="node16" href="$de/d2d/class_mixer.html#a5f11135236af8787120e394bd1ba0108" title="Invoke the client callback to fetch a control value. " alt="" coords="701,56,827,83"/>
+<area shape="rect" id="node17" href="$d5/dd1/class_multirotor_mixer.html#aa53916371c303c865110ef71497dbf9d" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="695,290,833,331"/>
+<area shape="rect" id="node18" href="$d5/dd1/class_multirotor_mixer.html#a228cd5ac502699728c1b8f2c8d33f03f" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="695,107,833,149"/>
+<area shape="rect" id="node19" href="$d5/dd1/class_multirotor_mixer.html#a957ab3ca1ee85cb257082ef2624d8f82" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="695,173,833,214"/>
+<area shape="rect" id="node20" href="$d5/dd1/class_multirotor_mixer.html#a992ef3744b23c0b28f740279c361f4a4" title="MultirotorMixer::update\l_saturation_status" alt="" coords="687,355,841,397"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="905,817,1048,858"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="451,1018,593,1059"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1096,817,1239,858"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="727,1025,801,1052"/>
+<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="939,1135,1014,1161"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="433,1135,611,1161"/>
+<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="727,1135,801,1161"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="451,785,593,826"/>
+<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="671,796,857,823"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="451,953,593,994"/>
+<area shape="rect" id="node36" href="$d4/da3/namespacetap__esc__common.html#a06bb6054e581dca2be8f4c84873666a0" title="tap_esc_common::crc8_esc" alt="" coords="429,1287,615,1313"/>
+<area shape="rect" id="node39" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="462,1236,582,1263"/>
+<area shape="rect" id="node40" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="686,1237,842,1278"/>
+<area shape="rect" id="node42" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="499,1337,545,1364"/>
+<area shape="rect" id="node44" href="$d4/da3/namespacetap__esc__common.html#a8c4eb259cd5b3b548a97609dc6772ebf" title="Sends a packet to all ESCs and requests a specific ESC to respond. " alt="" coords="441,1389,603,1430"/>
+<area shape="rect" id="node46" href="$d5/dd1/class_multirotor_mixer.html#a1283227e5bec15d91fb4d50147560dae" title="Set airmode. " alt="" coords="455,1454,589,1495"/>
+<area shape="rect" id="node48" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="713,683,815,709"/>
+<area shape="rect" id="node50" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="421,431,623,473"/>
 </map>

@@ -1,0 +1,51 @@
+<map id="Navigator::get_mission_landing_alt" name="Navigator::get_mission_landing_alt">
+<area shape="rect" id="node2" href="$db/dad/class_mission.html#a33116a4afecc113b67d233f14de287ff" title="Mission::get_landing_alt" alt="" coords="209,1196,372,1223"/>
+<area shape="rect" id="node3" href="$db/dad/class_mission.html#a39d9d3167a186a25eae268e830fb394d" title="Move on to next mission item or switch to loiter. " alt="" coords="881,124,1057,151"/>
+<area shape="rect" id="node6" href="$db/dad/class_mission.html#a0a9489e28310bedd1b5d83d51cb07645" title="Updates the altitude sp to follow a foh. " alt="" coords="663,1626,801,1667"/>
+<area shape="rect" id="node17" href="$db/dad/class_mission.html#a83b176113ce14a639fdc0b47d09c85d6" title="Calculate takeoff height for mission item considering ground clearance. " alt="" coords="906,593,1033,634"/>
+<area shape="rect" id="node20" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="651,2651,813,2693"/>
+<area shape="rect" id="node23" href="$db/dad/class_mission.html#a1ce838aa04eceb422cb0cddbd95be9db" title="Find and store the index of the landing sequence (DO_LAND_START) " alt="" coords="895,2527,1043,2569"/>
+<area shape="rect" id="node28" href="$db/dad/class_mission.html#ae879b74d4de1552ed6561b6aeb8ff389" title="Copies position from setpoint if valid, otherwise copies current position. " alt="" coords="892,475,1047,517"/>
+<area shape="rect" id="node29" href="$db/dad/class_mission.html#a7f18e6987c930b1ce7b7e8215fabf4ce" title="Update the cruising speed setpoint. " alt="" coords="651,1691,813,1733"/>
+<area shape="rect" id="node30" href="$db/dad/class_mission.html#a6113488baa83bdbc2be2f536c2833ab9" title="Abort landing. " alt="" coords="645,1448,819,1475"/>
+<area shape="rect" id="node31" href="$db/dad/class_mission.html#adf614b41ff2f7abf965f906a76a47d03" title="Returns true if we need to move to waypoint location before starting descent. " alt="" coords="651,1159,813,1201"/>
+<area shape="rect" id="node32" href="$db/dad/class_mission.html#abcac8c002b6299024883b01017e09bc4" title="Returns true if we need to move to waypoint location after vtol takeoff. " alt="" coords="651,1225,813,1266"/>
+<area shape="rect" id="node33" href="$db/dad/class_mission.html#adf530dae16317e7ceab3354b81982b44" title="Returns true if we need to do a takeoff at the current state. " alt="" coords="645,803,819,845"/>
+<area shape="rect" id="node34" href="$db/dad/class_mission.html#a30c0dc8f95a9ad59e40f082f1dfca13b" title="Project current location with heading to far away location and fill setpoint. " alt="" coords="877,862,1061,903"/>
+<area shape="rect" id="node35" href="$db/dad/class_mission.html#ad8efa954967af11e3183bc0af6d52eca" title="Updates the heading of the vehicle. " alt="" coords="661,1361,803,1402"/>
+<area shape="rect" id="node36" href="$db/dad/class_mission.html#a1d4672f10e0cc4b54664e3b141daec19" title="Return the index of the closest mission item to the current global position. " alt="" coords="892,286,1047,327"/>
+<area shape="rect" id="node37" href="$db/dad/class_mission.html#a7bbee8fc743f3a5a462dcffca4b9b203" title="Returns true if we need to reset the mission. " alt="" coords="425,1897,582,1938"/>
+<area shape="rect" id="node38" href="$db/dad/class_mission.html#a4b2d008e6422ab0e71e22b413508f969" title="Mission::position_setpoint\l_equal" alt="" coords="645,1550,819,1591"/>
+<area shape="rect" id="node39" href="$db/dad/class_mission.html#a6b3fe219353902ac3e927381a195b00a" title="Read the current and the next mission item. " alt="" coords="647,315,817,357"/>
+<area shape="rect" id="node40" href="$db/dad/class_mission.html#aee5a4533d9566a086f24133a89ac293e" title="Read current (offset == 0) or a specific (offset &gt; 0) mission item from the dataman and watch out for..." alt="" coords="877,365,1061,392"/>
+<area shape="rect" id="node41" href="$db/dad/class_mission.html#ac953b05c392282c640c2cac28220bdaf" title="Inform about a changed mission item after a DO_JUMP. " alt="" coords="1118,2371,1283,2413"/>
+<area shape="rect" id="node42" href="$db/dad/class_mission.html#a2b7fcee1d3f0f896bf24854571afb76c" title="Reset mission. " alt="" coords="425,11,581,37"/>
+<area shape="rect" id="node43" href="$db/dad/class_mission.html#ac119815548db9afb0a79440b62cc7295" title="Save current mission state to dataman. " alt="" coords="892,58,1047,99"/>
+<area shape="rect" id="node44" href="$db/dad/class_mission.html#a0f8f3ea8f7e1b4342278c137a5f4d256" title="Create mission item to align towards next waypoint. " alt="" coords="669,585,795,626"/>
+<area shape="rect" id="node45" href="$db/dad/class_mission.html#a6f21d148124ca9c56513e0962f99f1a6" title="Mission::set_closest\l_item_as_current" alt="" coords="432,198,575,239"/>
+<area shape="rect" id="node46" href="$db/dad/class_mission.html#a31e680db5d2c427b6ca71bfdcc8db6fc" title="Set the current mission item. " alt="" coords="662,2258,802,2299"/>
+<area shape="rect" id="node47" href="$db/dad/class_mission.html#a8cb473221c069e960e84a66fb73457d3" title="Set a new mission mode and handle the switching between the different modes. " alt="" coords="635,1911,829,1937"/>
+<area shape="rect" id="node48" href="$db/dad/class_mission.html#a1b8d6687a801874329adaf077381b867" title="Set a mission item as reached. " alt="" coords="1128,2761,1273,2802"/>
+<area shape="rect" id="node49" href="$db/dad/class_mission.html#a2f25f09d8e1688237be7a0abb28d542a" title="Set new mission items. " alt="" coords="431,1039,576,1081"/>
+<area shape="rect" id="node50" href="$db/dad/class_mission.html#aa717a0c8f848c0feaff1307664e749e6" title="Update mission topic. " alt="" coords="420,2320,587,2347"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="1165,124,1237,151"/>
+<area shape="rect" id="node5" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="1134,198,1267,239"/>
+<area shape="rect" id="node7" href="$da/d7b/class_mission_block.html#a2c7cca2725589876053fee7474d77517" title="MissionBlock::get_absolute\l_altitude_for_item" alt="" coords="1109,815,1292,857"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="880,1349,1059,1390"/>
+<area shape="rect" id="node10" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="896,1283,1043,1325"/>
+<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="1128,721,1273,762"/>
+<area shape="rect" id="node12" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="891,1567,1047,1609"/>
+<area shape="rect" id="node13" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="1123,1852,1278,1879"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#aca8c3a06f58e11663e5b17ac32763d12" title="Navigator::is_planned\l_mission" alt="" coords="895,1786,1043,1827"/>
+<area shape="rect" id="node15" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="929,1735,1009,1761"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="886,1903,1053,1945"/>
+<area shape="rect" id="node8" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Getters. " alt="" coords="1347,815,1489,857"/>
+<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="1133,971,1268,1013"/>
+<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#a7ebd90fb0b03ea4b0bbfe4c2cf3faec7" title="Navigator::get_takeoff\l_min_alt" alt="" coords="1125,574,1276,615"/>
+<area shape="rect" id="node21" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="882,2593,1057,2634"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#ac06b22528a29f5026a17c3a94ebefc0f" title="Navigator::home_position\l_valid" alt="" coords="1115,2618,1286,2659"/>
+<area shape="rect" id="node24" href="$d0/df9/class_navigator.html#a195ae35247b8133508746e9cbb4ba287" title="Navigator::get_mission\l_result" alt="" coords="1340,2313,1496,2354"/>
+<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#ac968d2895795be36ed43fe0c8023a03d" title="Navigator::increment\l_mission_instance_count" alt="" coords="885,2761,1054,2802"/>
+<area shape="rect" id="node26" href="$d0/df9/class_navigator.html#a13297058904e4fbeaa9b3a8fea380af2" title="Navigator::mission\l_landing_required" alt="" coords="904,2826,1035,2867"/>
+<area shape="rect" id="node27" href="$d0/df9/class_navigator.html#a7ab887dfa8f6543d42ad6564eadd9924" title="Navigator::set_mission\l_result_updated" alt="" coords="1340,2481,1496,2522"/>
+</map>

@@ -3,11 +3,13 @@
 <area shape="rect" id="node3" href="$db/dc7/ms4525__airspeed_8cpp.html" title="src/drivers/differential\l_pressure/ms4525/ms4525\l_airspeed.cpp" alt="" coords="234,95,413,151"/>
 <area shape="rect" id="node4" href="$dc/db6/_m_s5525_8hpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525.hpp" alt="" coords="437,102,644,143"/>
 <area shape="rect" id="node7" href="$dc/d99/_s_d_p3_x_8hpp.html" title="Driver for Sensirion SDP3X Differential Pressure Sensor. " alt="" coords="668,102,859,143"/>
-<area shape="rect" id="node10" href="$d0/d00/drivers_2airspeed_2airspeed_8cpp.html" title="src/lib/drivers/airspeed\l/airspeed.cpp" alt="" coords="883,102,1036,143"/>
-<area shape="rect" id="node11" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="1061,102,1210,143"/>
-<area shape="rect" id="node12" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="1233,102,1376,143"/>
-<area shape="rect" id="node5" href="$d6/dca/_m_s5525_8cpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525.cpp" alt="" coords="221,206,428,247"/>
-<area shape="rect" id="node6" href="$d7/d6a/_m_s5525__main_8cpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525\l_main.cpp" alt="" coords="453,199,634,255"/>
-<area shape="rect" id="node8" href="$d4/d0b/_s_d_p3_x_8cpp.html" title="src/drivers/differential\l_pressure/sdp3x/SDP3X.cpp" alt="" coords="664,206,855,247"/>
-<area shape="rect" id="node9" href="$df/d26/_s_d_p3_x__main_8cpp.html" title="src/drivers/differential\l_pressure/sdp3x/SDP3X_main.cpp" alt="" coords="879,206,1106,247"/>
+<area shape="rect" id="node10" href="$dd/dd4/_airspeed_validator_8hpp.html" title="Calculates airspeed from differential pressure and checks if this airspeed is valid. " alt="" coords="883,102,1049,143"/>
+<area shape="rect" id="node13" href="$d0/d00/drivers_2airspeed_2airspeed_8cpp.html" title="src/lib/drivers/airspeed\l/airspeed.cpp" alt="" coords="1073,102,1227,143"/>
+<area shape="rect" id="node14" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="1251,102,1401,143"/>
+<area shape="rect" id="node5" href="$d6/dca/_m_s5525_8cpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525.cpp" alt="" coords="108,206,315,247"/>
+<area shape="rect" id="node6" href="$d7/d6a/_m_s5525__main_8cpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525\l_main.cpp" alt="" coords="339,199,521,255"/>
+<area shape="rect" id="node8" href="$d4/d0b/_s_d_p3_x_8cpp.html" title="src/drivers/differential\l_pressure/sdp3x/SDP3X.cpp" alt="" coords="545,206,736,247"/>
+<area shape="rect" id="node9" href="$df/d26/_s_d_p3_x__main_8cpp.html" title="src/drivers/differential\l_pressure/sdp3x/SDP3X_main.cpp" alt="" coords="761,206,987,247"/>
+<area shape="rect" id="node11" href="$d5/d59/_airspeed_validator_8cpp.html" title="Estimates airspeed scale error (from indicated to equivalent airspeed), performes checks on airspeed ..." alt="" coords="1012,206,1179,247"/>
+<area shape="rect" id="node12" href="$d3/ded/airspeed__selector__main_8cpp.html" title="src/modules/airspeed\l_selector/airspeed_selector\l_main.cpp" alt="" coords="1203,199,1385,255"/>
 </map>

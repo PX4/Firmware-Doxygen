@@ -1,0 +1,51 @@
+<map id="AirspeedModule::Run" name="AirspeedModule::Run">
+<area shape="rect" id="node2" href="$dd/dc8/class_airspeed_module.html#a4a0d62027acb732e4a1dc75c3285a7bb" title="check for airspeed sensors (airspeed topics) and get _number_of_airspeed_sensors " alt="" coords="217,5,383,61"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="701,122,840,163"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="488,136,613,163"/>
+<area shape="rect" id="node7" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="232,187,368,229"/>
+<area shape="rect" id="node8" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="259,253,341,280"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="264,304,336,331"/>
+<area shape="rect" id="node10" href="$dd/dc8/class_airspeed_module.html#a60edc2f0ad0209a60aeb9d0148b79797" title="poll all topics required beside airspeed (e.g. " alt="" coords="229,355,371,397"/>
+<area shape="rect" id="node11" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="481,187,620,229"/>
+<area shape="rect" id="node13" href="$dd/dc8/class_airspeed_module.html#a31c120815142c267cd3a55acc9f923f9" title="select airspeed sensor (or groundspeed&#45;windspeed) " alt="" coords="221,473,379,514"/>
+<area shape="rect" id="node21" href="$db/dc1/class_airspeed_validator.html#afaf71d7053c68084e921493cfda721d0" title="AirspeedValidator::\lupdate_airspeed_validator" alt="" coords="213,877,387,918"/>
+<area shape="rect" id="node29" href="$dd/dc8/class_airspeed_module.html#a7946cc4b4de9f1b2056c970fb73e7339" title="update airspeed estimate based on groundspeed minus windspeed " alt="" coords="200,1067,400,1109"/>
+<area shape="rect" id="node31" href="$dd/dc8/class_airspeed_module.html#a2254c759ee906e71fccbce4ab6244c01" title="update parameters " alt="" coords="219,1766,381,1807"/>
+<area shape="rect" id="node50" href="$dd/dc8/class_airspeed_module.html#aefb294a454feae92e0e6cb6e8509bf9c" title="update the wind estimator instance only fusing sideslip " alt="" coords="216,1831,384,1873"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="906,183,1045,225"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="888,129,1063,156"/>
+<area shape="rect" id="node12" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="701,187,840,229"/>
+<area shape="rect" id="node14" href="$db/dc1/class_airspeed_validator.html#aba5eb760a94890d408529223f9bf9287" title="AirspeedValidator::\lget_airspeed_valid" alt="" coords="485,253,617,294"/>
+<area shape="rect" id="node15" href="$db/dc1/class_airspeed_validator.html#a59177c88fa2673e7ee5be6cd2892c0c0" title="AirspeedValidator::\lget_IAS" alt="" coords="485,318,617,359"/>
+<area shape="rect" id="node16" href="$db/dc1/class_airspeed_validator.html#ad83978a358a101d4f0a99e755db7542e" title="AirspeedValidator::\lget_EAS" alt="" coords="485,383,617,425"/>
+<area shape="rect" id="node17" href="$db/dc1/class_airspeed_validator.html#a1f7118fc1f461a71978d6dcb9885a3f3" title="AirspeedValidator::\lget_TAS" alt="" coords="485,449,617,490"/>
+<area shape="rect" id="node18" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="481,514,620,555"/>
+<area shape="rect" id="node19" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="471,579,630,621"/>
+<area shape="rect" id="node20" href="$db/dc1/class_airspeed_validator.html#ad49c25c89dcd2959e542dfbfd3694c54" title="AirspeedValidator::\lget_wind_estimator_states" alt="" coords="461,645,640,686"/>
+<area shape="rect" id="node22" href="$db/dc1/class_airspeed_validator.html#abc1437b4d8f80b6881b89afc3d4b2df4" title="AirspeedValidator::\lupdate_EAS_scale" alt="" coords="484,710,617,751"/>
+<area shape="rect" id="node23" href="$db/dc1/class_airspeed_validator.html#ae712aa7f35e1aa01214f5488314562ee" title="AirspeedValidator::\lupdate_EAS_TAS" alt="" coords="485,775,617,817"/>
+<area shape="rect" id="node24" href="$db/dc1/class_airspeed_validator.html#a3bf27b5e0ad78d0619b4de60e41f53af" title="AirspeedValidator::\lupdate_wind_estimator" alt="" coords="473,841,629,882"/>
+<area shape="rect" id="node25" href="$db/dc1/class_airspeed_validator.html#af216c9cb213375badc28d9dcec260ccd" title="AirspeedValidator::\lupdate_in_fixed_wing\l_flight" alt="" coords="477,907,624,963"/>
+<area shape="rect" id="node26" href="$db/dc1/class_airspeed_validator.html#ad35526bc046016a57c06906ca125c52b" title="AirspeedValidator::\lcheck_airspeed_innovation" alt="" coords="461,987,640,1029"/>
+<area shape="rect" id="node27" href="$db/dc1/class_airspeed_validator.html#a76ccd26e79b724faaa65c8aab267986d" title="AirspeedValidator::\lcheck_load_factor" alt="" coords="485,1053,617,1094"/>
+<area shape="rect" id="node28" href="$db/dc1/class_airspeed_validator.html#a89f19a5e4128041d1568c755e2005716" title="AirspeedValidator::\lupdate_airspeed_valid\l_status" alt="" coords="475,1119,626,1175"/>
+<area shape="rect" id="node30" href="$de/d8b/airspeed_2airspeed_8cpp.html#a1d6c43e1067794761cb4d47919aa6baa" title="Calculate equivalent airspeed (EAS) from true airspeed (TAS). " alt="" coords="477,1199,624,1225"/>
+<area shape="rect" id="node32" href="$d7/d7b/class_wind_estimator.html#ad7a7fd6ee2c4d967162437bbd4f5587c" title="WindEstimator::set\l_wind_p_noise" alt="" coords="483,1250,618,1291"/>
+<area shape="rect" id="node33" href="$d7/d7b/class_wind_estimator.html#afde79b08b656df9264302ba1e9be5454" title="WindEstimator::set\l_tas_scale_p_noise" alt="" coords="482,1315,619,1357"/>
+<area shape="rect" id="node34" href="$d7/d7b/class_wind_estimator.html#a31f0171e81dca9cf37d49c5bce4041e2" title="WindEstimator::set\l_tas_noise" alt="" coords="483,1381,618,1422"/>
+<area shape="rect" id="node35" href="$d7/d7b/class_wind_estimator.html#a1e8f351bd4464d21d1520187df4476b4" title="WindEstimator::set\l_beta_noise" alt="" coords="483,1446,618,1487"/>
+<area shape="rect" id="node36" href="$d7/d7b/class_wind_estimator.html#a649133eb16345f849c281301d68872e3" title="WindEstimator::set\l_tas_gate" alt="" coords="483,1511,618,1553"/>
+<area shape="rect" id="node37" href="$d7/d7b/class_wind_estimator.html#a24d2c5dd42b3036eef4cdc77c4f79551" title="WindEstimator::set\l_beta_gate" alt="" coords="483,1577,618,1618"/>
+<area shape="rect" id="node38" href="$db/dc1/class_airspeed_validator.html#ab9bc951bf3009257969a812317e0744a" title="AirspeedValidator::\lset_wind_estimator_wind\l_p_noise" alt="" coords="466,1643,635,1699"/>
+<area shape="rect" id="node39" href="$db/dc1/class_airspeed_validator.html#afb39e2f0495bd5be65c4ddef0d9e7276" title="AirspeedValidator::\lset_wind_estimator_tas\l_scale_p_noise" alt="" coords="471,1723,631,1779"/>
+<area shape="rect" id="node40" href="$db/dc1/class_airspeed_validator.html#aa2f1aac0d531cf3e1bdab6d2f8a325bf" title="AirspeedValidator::\lset_wind_estimator_tas_noise" alt="" coords="451,1803,650,1845"/>
+<area shape="rect" id="node41" href="$db/dc1/class_airspeed_validator.html#adfc911a1f89d8506f58bc843dbec946e" title="AirspeedValidator::\lset_wind_estimator_beta_noise" alt="" coords="448,1869,653,1910"/>
+<area shape="rect" id="node42" href="$db/dc1/class_airspeed_validator.html#a064dab33275ca3c7d5858f1521883ec6" title="AirspeedValidator::\lset_wind_estimator_tas_gate" alt="" coords="455,1934,647,1975"/>
+<area shape="rect" id="node43" href="$db/dc1/class_airspeed_validator.html#ac1fceab026902ab307b64c3fbeafc04f" title="AirspeedValidator::\lset_wind_estimator_beta_gate" alt="" coords="451,1999,650,2041"/>
+<area shape="rect" id="node44" href="$db/dc1/class_airspeed_validator.html#a83abec6003432101de5f7cf569997560" title="AirspeedValidator::\lset_wind_estimator_scale\l_estimation_on" alt="" coords="464,2065,637,2121"/>
+<area shape="rect" id="node45" href="$db/dc1/class_airspeed_validator.html#a76fceb30833917c176a5ff8871fe1cfe" title="AirspeedValidator::\lset_airspeed_scale_manual" alt="" coords="459,2146,642,2187"/>
+<area shape="rect" id="node46" href="$db/dc1/class_airspeed_validator.html#a45598893a9bb5299271a676f9fee2ab6" title="AirspeedValidator::\lset_tas_innov_threshold" alt="" coords="469,2211,632,2253"/>
+<area shape="rect" id="node47" href="$db/dc1/class_airspeed_validator.html#ac321aa0d4c703e0b6336f067f647a6cf" title="AirspeedValidator::\lset_tas_innov_integ\l_threshold" alt="" coords="481,2277,620,2333"/>
+<area shape="rect" id="node48" href="$db/dc1/class_airspeed_validator.html#accc99fca4ab5f18fbe772a924a51f767" title="AirspeedValidator::\lset_checks_fail_delay" alt="" coords="475,2358,626,2399"/>
+<area shape="rect" id="node49" href="$db/dc1/class_airspeed_validator.html#a2de489616f5732384cb00d9a5d23aa5a" title="AirspeedValidator::\lset_checks_clear_delay" alt="" coords="469,2423,632,2465"/>
+</map>

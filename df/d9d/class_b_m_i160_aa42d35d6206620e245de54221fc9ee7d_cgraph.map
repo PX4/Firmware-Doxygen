@@ -1,0 +1,47 @@
+<map id="BMI160::Run" name="BMI160::Run">
+<area shape="rect" id="node2" href="$df/d9d/class_b_m_i160.html#a73c594edaf8f617904ad5907fa2eac33" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="152,510,277,537"/>
+<area shape="rect" id="node3" href="$df/d9d/class_b_m_i160.html#a1caf84124aeba7c974724efc2cb7bd03" title="BMI160::check_registers" alt="" coords="348,197,515,224"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1148,96,1273,122"/>
+<area shape="rect" id="node5" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="651,96,734,122"/>
+<area shape="rect" id="node6" href="$df/d9d/class_b_m_i160.html#aa2d4bc3ec6a9d3c7288c429fa1904fa2" title="Read a register from the BMI160. " alt="" coords="630,248,755,274"/>
+<area shape="rect" id="node8" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="390,324,473,350"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="395,401,467,428"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="370,890,493,917"/>
+<area shape="rect" id="node11" href="$db/def/class_p_x4_accelerometer.html#a20803d10b121094c19391e26f74a3904" title="PX4Accelerometer::set\l_error_count" alt="" coords="353,678,510,719"/>
+<area shape="rect" id="node13" href="$d4/d1b/class_p_x4_gyroscope.html#ad46a441cfc661869ca3591a62755a380" title="PX4Gyroscope::set_error\l_count" alt="" coords="347,612,516,654"/>
+<area shape="rect" id="node14" href="$db/def/class_p_x4_accelerometer.html#aae188e31a6b5919ff82025f3c8600142" title="PX4Accelerometer::set\l_temperature" alt="" coords="353,824,510,866"/>
+<area shape="rect" id="node24" href="$db/def/class_p_x4_accelerometer.html#a98146e730c3d460ecae82545a1ba8fd4" title="PX4Accelerometer::update" alt="" coords="603,588,782,614"/>
+<area shape="rect" id="node32" href="$d4/d1b/class_p_x4_gyroscope.html#a6c904031bc9a43feabd1cec6ae0b3f3b" title="PX4Gyroscope::set_temperature" alt="" coords="325,744,537,770"/>
+<area shape="rect" id="node34" href="$d4/d1b/class_p_x4_gyroscope.html#a4e890722f5c54f832cfc5eca1aa1b216" title="PX4Gyroscope::update" alt="" coords="614,537,771,564"/>
+<area shape="rect" id="node7" href="$df/d9d/class_b_m_i160.html#a84031f942d1eec08f0097782194fd0b0" title="Write a register in the BMI160. " alt="" coords="629,146,757,173"/>
+<area shape="rect" id="node12" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="848,854,1060,881"/>
+<area shape="rect" id="node15" href="$db/def/class_p_x4_accelerometer.html#aee383c85338f3b950515f72892bf93af" title="PX4Accelerometer::set\l_sample_rate" alt="" coords="614,1026,771,1067"/>
+<area shape="rect" id="node31" href="$db/def/class_p_x4_accelerometer.html#a591cda98e2c11eeebd49bacf189e01e1" title="PX4Accelerometer::print\l_status" alt="" coords="611,908,775,950"/>
+<area shape="rect" id="node16" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ab4843feee1dc19dbb68a28220c69533d" title="math::LowPassFilter2pVector3f\l::set_cutoff_frequency" alt="" coords="851,971,1057,1012"/>
+<area shape="rect" id="node21" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ac586a1dbb0bda72b081c296326746d0b" title="math::LowPassFilter2pVector3f\l::get_cutoff_freq" alt="" coords="851,906,1057,947"/>
+<area shape="rect" id="node17" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1397,868,1531,894"/>
+<area shape="rect" id="node18" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1191,924,1230,950"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1423,924,1505,950"/>
+<area shape="rect" id="node20" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1615,924,1701,950"/>
+<area shape="rect" id="node22" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a95c2514501357aced2d8c1b5282bc710" title="math::LowPassFilter2pVector3f\l::reset" alt="" coords="1108,856,1313,898"/>
+<area shape="rect" id="node23" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a3a354392866066751ae5d5e318d563a5" title="Add a new raw value to the filter. " alt="" coords="1361,798,1567,839"/>
+<area shape="rect" id="node25" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="917,702,991,729"/>
+<area shape="rect" id="node26" href="$d6/d55/class_integrator.html#ad97763793cd85018552cd3cd8ae626ed" title="Put an item into the integral. " alt="" coords="903,753,1005,780"/>
+<area shape="rect" id="node28" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="875,585,1033,612"/>
+<area shape="rect" id="node30" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#a42d8c47f80211bac32dfdf1792609a83" title="uORB::PublicationMultiData\l::update" alt="" coords="861,636,1047,678"/>
+<area shape="rect" id="node27" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="1150,754,1271,781"/>
+<area shape="rect" id="node29" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1117,704,1304,730"/>
+<area shape="rect" id="node33" href="$d4/d1b/class_p_x4_gyroscope.html#ac8c2799d14ec524670b7ac460412086d" title="PX4Gyroscope::set_sample_rate" alt="" coords="585,974,800,1001"/>
+<area shape="rect" id="node46" href="$d4/d1b/class_p_x4_gyroscope.html#a85a969fdb90ea9dec776174450c32680" title="PX4Gyroscope::print\l_status" alt="" coords="621,791,764,832"/>
+<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="893,450,1015,477"/>
+<area shape="rect" id="node36" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="1162,248,1259,274"/>
+<area shape="rect" id="node37" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="1169,298,1252,325"/>
+<area shape="rect" id="node38" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="1159,349,1262,376"/>
+<area shape="rect" id="node39" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1159,400,1262,426"/>
+<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="1167,450,1255,477"/>
+<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="1171,501,1250,528"/>
+<area shape="rect" id="node42" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="1169,552,1252,578"/>
+<area shape="rect" id="node43" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1127,602,1294,629"/>
+<area shape="rect" id="node44" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="1180,146,1241,173"/>
+<area shape="rect" id="node45" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="1130,197,1291,224"/>
+</map>

@@ -1,27 +1,9 @@
 <map id="PositionControl::_velocityController" name="PositionControl::_velocityController">
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="241,106,353,133"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="439,131,477,158"/>
-<area shape="rect" id="node4" href="$d1/d71/classmatrix_1_1_vector.html#adfde6b53c2c967f684dd5571d847781e" title="matrix::Vector::length" alt="" coords="224,258,371,285"/>
-<area shape="rect" id="node5" href="$df/de7/test__sensors_8c.html#a46c6cfc357986e1d96d9afba27ad8829" title="mag" alt="" coords="274,207,321,234"/>
-<area shape="rect" id="node25" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="257,309,337,335"/>
-<area shape="rect" id="node26" href="$dd/d47/namespacemath.html#a170c8bc1488f2665d663d8234e3356a6" title="math::sign" alt="" coords="256,359,339,386"/>
-<area shape="rect" id="node6" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="586,283,667,310"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="419,182,497,209"/>
-<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="589,385,664,411"/>
-<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="428,233,488,259"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="756,435,897,462"/>
-<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="789,334,864,361"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="961,233,1099,259"/>
-<area shape="rect" id="node13" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="953,131,1107,158"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="963,435,1097,462"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="945,486,1115,513"/>
-<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="956,385,1104,411"/>
-<area shape="rect" id="node15" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="545,81,708,107"/>
-<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="795,131,859,158"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="757,385,896,411"/>
-<area shape="rect" id="node21" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="580,182,673,209"/>
-<area shape="rect" id="node16" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="759,30,895,57"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="775,81,879,107"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="961,319,1099,360"/>
-<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="759,486,894,513"/>
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="241,5,353,32"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="278,56,317,83"/>
+<area shape="rect" id="node6" href="$d1/d71/classmatrix_1_1_vector.html#abd91dec134022f2adbd739b4ced6806d" title="matrix::Vector::length" alt="" coords="224,107,371,133"/>
+<area shape="rect" id="node7" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="257,157,337,184"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a170c8bc1488f2665d663d8234e3356a6" title="math::sign" alt="" coords="256,208,339,235"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="419,56,501,83"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="549,56,636,83"/>
 </map>

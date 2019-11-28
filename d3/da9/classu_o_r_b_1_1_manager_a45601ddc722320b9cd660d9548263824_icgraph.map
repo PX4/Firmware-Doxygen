@@ -1,51 +1,51 @@
 <map id="uORB::Manager::orb_unadvertise" name="uORB::Manager::orb_unadvertise">
-<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="196,691,339,733"/>
-<area shape="rect" id="node19" href="$db/dd6/u_o_r_b_8h.html#a3afc6dc073317504aa4eed2ab90f1efb" title="orb_unadvertise" alt="" coords="401,1321,515,1348"/>
-<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="408,328,508,355"/>
-<area shape="rect" id="node15" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="387,699,529,725"/>
-<area shape="rect" id="node4" href="$d1/dd7/classload__mon_1_1_load_mon.html#a7acbec65633d8231e25aec920cf24d47" title="Do a calculation of the CPU load and publish it. " alt="" coords="613,57,760,98"/>
-<area shape="rect" id="node5" href="$d9/da5/param_8c.html#afb5e027a1f8ed1ded15983e9021c59a7" title="_param_notify_changes" alt="" coords="607,123,767,149"/>
-<area shape="rect" id="node6" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="610,174,763,215"/>
-<area shape="rect" id="node7" href="$d5/d59/classleddar__one.html#a06f7d9c79c705979fd5f933bc11c17ef" title="leddar_one::_publish" alt="" coords="616,5,757,32"/>
-<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a7583752832ccb36376b764b15274fd9f" title="PX4FMU::fake" alt="" coords="632,240,741,267"/>
-<area shape="rect" id="node9" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a526bb55f48fbcf03e2ecc1129322d77f" title="uORBTest::UnitTest\l::latency_test" alt="" coords="615,291,758,333"/>
-<area shape="rect" id="node10" href="$d3/dc6/class_commander.html#af1dc603ce8ac5c165ffbf71cc57f850f" title="Commander::mission_init" alt="" coords="601,357,772,384"/>
-<area shape="rect" id="node11" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="639,408,735,435"/>
-<area shape="rect" id="node12" href="$d3/d3c/namespacespektrum__rc.html#adbc95ce3e5c0c68753e572707b0e4105" title="spektrum_rc::task_main" alt="" coords="605,459,768,485"/>
-<area shape="rect" id="node13" href="$d3/df2/class_g_p_s_s_i_m.html#ab42a0aa037c42c0a84d0ecc31d7b93d2" title="Worker task: main GPS thread that configures the GPS and parses incoming data, always running..." alt="" coords="615,509,758,536"/>
-<area shape="rect" id="node14" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ae65efeb834b878160d6089e96b754b34" title="uORBTest::UnitTest\l::test_single" alt="" coords="615,561,758,602"/>
-<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a175a11d30445403529f51f4d6d73d367" title="Generate an artificial traffic indication. " alt="" coords="611,757,762,784"/>
-<area shape="rect" id="node17" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#af2eca43c2cb0e24586b0615f60ca03bd" title="uORBTest::UnitTest\l::pub_test_queue_main" alt="" coords="608,626,765,667"/>
-<area shape="rect" id="node18" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a542d564d6ee57b4ba4a2748fea51fe97" title="uORBTest::UnitTest\l::test_queue" alt="" coords="615,691,758,733"/>
-<area shape="rect" id="node20" href="$d0/dbe/commander__helper_8h.html#a81963a85e07be472bd7436e279b04d92" title="buzzer_deinit" alt="" coords="637,2379,736,2405"/>
-<area shape="rect" id="node21" href="$d0/dbe/commander__helper_8h.html#a41f9a5ae398eaefc6b07e235eca3a3f4" title="led_deinit" alt="" coords="648,2429,725,2456"/>
-<area shape="rect" id="node22" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a23a1c13d49ddd445685d16fb6b59b47e" title="uORBTest::UnitTest\l::pub_test_multi2_main" alt="" coords="608,2481,765,2522"/>
-<area shape="rect" id="node23" href="$de/dec/classpx4_1_1_replay.html#aafeb98ce197e42cf1b2c69302c7821fe" title="px4::Replay::run" alt="" coords="627,808,746,835"/>
-<area shape="rect" id="node24" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="607,859,766,885"/>
-<area shape="rect" id="node25" href="$d1/d58/class_g_p_s.html#a52498a258feaecacc37c22365971b6c5" title="GPS::run" alt="" coords="649,909,725,936"/>
-<area shape="rect" id="node26" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="622,960,751,987"/>
-<area shape="rect" id="node27" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a4669df3fd1ee45ace02caf5b1726f75a" title="uORBTest::UnitTest\l::test_unadvertise" alt="" coords="615,1011,758,1053"/>
-<area shape="rect" id="node28" href="$d8/daf/class_airspeed.html#ac09a84e526136d2deb78c53301aaadc0" title="Airspeed::~Airspeed" alt="" coords="617,1077,757,1104"/>
-<area shape="rect" id="node29" href="$d2/d75/class_b_m_m150.html#a98f09de0300d6dc0ebb92e61224e478c" title="BMM150::~BMM150" alt="" coords="615,1128,758,1155"/>
-<area shape="rect" id="node30" href="$d1/daf/class_b_m_p280.html#aef33bca0481b3233750c7383cea609a6" title="BMP280::~BMP280" alt="" coords="617,1179,756,1205"/>
-<area shape="rect" id="node31" href="$d5/d59/classleddar__one.html#a63915bda5075a7e590958f262976fe5a" title="leddar_one::~leddar_one" alt="" coords="605,1229,769,1256"/>
-<area shape="rect" id="node32" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a2722db27691d08f29c4f588fded1eb05" title="px4::logger::LogWriterMavlink\l::~LogWriterMavlink" alt="" coords="589,1281,784,1322"/>
-<area shape="rect" id="node33" href="$d1/d69/class_mavlink_mission_manager.html#abc306929b0cf58bb6484d47cb2d3601a" title="MavlinkMissionManager\l::~MavlinkMissionManager" alt="" coords="597,1346,776,1387"/>
-<area shape="rect" id="node34" href="$df/d61/class_mavlink_parameters_manager.html#a7b3f3d52e861584c1dc545dec7b027d5" title="MavlinkParametersManager\l::~MavlinkParametersManager" alt="" coords="587,1411,787,1453"/>
-<area shape="rect" id="node35" href="$d1/dc6/class_mavlink_timesync.html#aeab813d482233c7c709604e7136d0a5a" title="MavlinkTimesync::~Mavlink\lTimesync" alt="" coords="594,1477,779,1518"/>
-<area shape="rect" id="node36" href="$dd/dcb/class_mavlink_u_log.html#a826e34fe44f9f752c43501548ad7d278" title="MavlinkULog::~MavlinkULog" alt="" coords="591,1543,782,1569"/>
-<area shape="rect" id="node37" href="$d5/d19/class_m_p_u6000.html#a9b7c10c0bf44c9a275e698cc9089f7cb" title="MPU6000::~MPU6000" alt="" coords="609,1593,764,1620"/>
-<area shape="rect" id="node38" href="$df/dd9/class_m_p_u9250.html#aa2d4c4c0e8b543b2db9b8c673e7758da" title="MPU9250::~MPU9250" alt="" coords="609,1644,764,1671"/>
-<area shape="rect" id="node39" href="$d5/d16/class_m_p_u9250__mag.html#a48e27380d787f21fae50487053ab8db3" title="MPU9250_mag::~MPU9250_mag" alt="" coords="577,1695,796,1721"/>
-<area shape="rect" id="node40" href="$d2/d86/classvmount_1_1_output_base.html#a67948cb7d71b10bdd117ee76299a35db" title="vmount::OutputBase\l::~OutputBase" alt="" coords="615,1746,758,1787"/>
-<area shape="rect" id="node41" href="$d8/db5/classvmount_1_1_output_mavlink.html#a39348695e1d92a122f98e71543d68d6c" title="vmount::OutputMavlink\l::~OutputMavlink" alt="" coords="608,1811,765,1853"/>
-<area shape="rect" id="node42" href="$dc/de6/classvmount_1_1_output_r_c.html#adcf724829ad1aec5c56bec165676d796" title="vmount::OutputRC::\l~OutputRC" alt="" coords="617,1877,757,1918"/>
-<area shape="rect" id="node43" href="$da/dda/classu_o_r_b_1_1_publication_base.html#ad525ca872989e03c6bd4e937b8a58450" title="uORB::PublicationBase\l::~PublicationBase" alt="" coords="607,1942,767,1983"/>
-<area shape="rect" id="node44" href="$df/d64/class_p_x4_f_m_u.html#ab50f91dc31825b181eeda32430b1c7bb" title="PX4FMU::~PX4FMU" alt="" coords="613,2008,760,2035"/>
-<area shape="rect" id="node45" href="$d0/d2a/classulanding_1_1_radar.html#aefc09b49f3175507b0c5b9e9c4175422" title="ulanding::Radar::~Radar" alt="" coords="605,2059,769,2085"/>
-<area shape="rect" id="node46" href="$d4/d39/class_r_c_input.html#ac516a8b0b640d2571c283c8e6bf52dd1" title="RCInput::~RCInput" alt="" coords="619,2109,755,2136"/>
-<area shape="rect" id="node47" href="$d4/dd4/class_s_f1_x_x.html#a3e0fca7a26ecbfc21754e8f45c2d2121" title="SF1XX::~SF1XX" alt="" coords="625,2160,748,2187"/>
-<area shape="rect" id="node48" href="$d2/da9/class_t_a_p___e_s_c.html#ae1d3e5fd23543169f0bf649f06363d8c" title="TAP_ESC::~TAP_ESC" alt="" coords="607,2211,767,2237"/>
-<area shape="rect" id="node49" href="$de/dfe/class_v_l53_l_x_x.html#a4d6f71a0be44a49df8fbb4f8b8c1c4e1" title="VL53LXX::~VL53LXX" alt="" coords="613,2261,761,2288"/>
-<area shape="rect" id="node50" href="$de/df6/class_wind_estimator_module.html#a427483002ea1512965aebff640d84da4" title="WindEstimatorModule\l::~WindEstimatorModule" alt="" coords="603,2313,770,2354"/>
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="196,1127,339,1169"/>
+<area shape="rect" id="node27" href="$db/dd6/u_o_r_b_8h.html#a3afc6dc073317504aa4eed2ab90f1efb" title="orb_unadvertise" alt="" coords="401,1539,515,1565"/>
+<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="408,519,508,545"/>
+<area shape="rect" id="node23" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="387,1135,529,1161"/>
+<area shape="rect" id="node4" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="611,5,771,32"/>
+<area shape="rect" id="node5" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="614,57,767,98"/>
+<area shape="rect" id="node6" href="$d0/d45/class_b_a_t_t___s_m_b_u_s.html#ac05e2098a73330dc07e906adbd536e57" title="BATT_SMBUS::BATT_SMBUS" alt="" coords="587,123,795,149"/>
+<area shape="rect" id="node7" href="$dc/d86/class_camera_trigger.html#a411b94222981a429df75cae512b02b47" title="Constructor. " alt="" coords="589,173,792,200"/>
+<area shape="rect" id="node8" href="$d1/d78/class_p_x4_f_l_o_w.html#a2f05ba066d011f6dabd82362b69e3f71" title="PX4FLOW::collect" alt="" coords="625,224,756,251"/>
+<area shape="rect" id="node9" href="$d3/de0/class_muorb_test_example.html#a72bc5988dfea86bfe367c9aeb6be7eba" title="MuorbTestExample::DefaultTest" alt="" coords="585,275,796,301"/>
+<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a7583752832ccb36376b764b15274fd9f" title="PX4FMU::fake" alt="" coords="636,1011,745,1037"/>
+<area shape="rect" id="node11" href="$d2/da9/class_t_a_p___e_s_c.html#afb50b959b4ca3467d5e4fa7676e9459e" title="TAP_ESC::init" alt="" coords="637,325,745,352"/>
+<area shape="rect" id="node12" href="$d4/dc6/classlinux__sbus_1_1_rc_input.html#ac12a9f03c7238ee6b2a0c2bb34f99513" title="linux_sbus::RcInput\l::init" alt="" coords="621,377,760,418"/>
+<area shape="rect" id="node13" href="$de/d59/class_b_m_a180.html#ac6cfba124dbbb2f5d14dac886f70d0b5" title="BMA180::init" alt="" coords="642,443,739,469"/>
+<area shape="rect" id="node14" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a526bb55f48fbcf03e2ecc1129322d77f" title="uORBTest::UnitTest\l::latency_test" alt="" coords="619,675,762,717"/>
+<area shape="rect" id="node15" href="$d5/de1/class_v_o_x_l_p_m.html#ab15a13cfb85e57338a9220cfd6c60249" title="VOXLPM::measure" alt="" coords="623,493,758,520"/>
+<area shape="rect" id="node16" href="$d3/dc6/class_commander.html#af1dc603ce8ac5c165ffbf71cc57f850f" title="Commander::mission_init" alt="" coords="605,741,776,768"/>
+<area shape="rect" id="node17" href="$d3/de0/class_muorb_test_example.html#a8cf9c2a7e0d1346a4dc4011791f08497" title="MuorbTestExample::PingPongTest" alt="" coords="578,544,803,571"/>
+<area shape="rect" id="node18" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="611,595,771,651"/>
+<area shape="rect" id="node19" href="$d3/d3c/namespacespektrum__rc.html#adbc95ce3e5c0c68753e572707b0e4105" title="spektrum_rc::task_main" alt="" coords="609,792,772,819"/>
+<area shape="rect" id="node20" href="$d3/df2/class_g_p_s_s_i_m.html#ab42a0aa037c42c0a84d0ecc31d7b93d2" title="Worker task: main GPS thread that configures the GPS and parses incoming data, always running..." alt="" coords="619,843,762,869"/>
+<area shape="rect" id="node21" href="$db/dc6/_collision_prevention_test_8cpp.html#a4b10284dac8ec9453771a6cd1f168c5f" title="TEST_F" alt="" coords="655,893,726,920"/>
+<area shape="rect" id="node22" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ae65efeb834b878160d6089e96b754b34" title="uORBTest::UnitTest\l::test_single" alt="" coords="619,945,762,986"/>
+<area shape="rect" id="node24" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#af2eca43c2cb0e24586b0615f60ca03bd" title="uORBTest::UnitTest\l::pub_test_queue_main" alt="" coords="612,1062,769,1103"/>
+<area shape="rect" id="node25" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a542d564d6ee57b4ba4a2748fea51fe97" title="uORBTest::UnitTest\l::test_queue" alt="" coords="619,1127,762,1169"/>
+<area shape="rect" id="node26" href="$d5/d69/tests__main_8h.html#ad94ead412373a6eaef49ea87264ec03a" title="test_tone" alt="" coords="653,1193,729,1220"/>
+<area shape="rect" id="node28" href="$d0/dbe/commander__helper_8h.html#a81963a85e07be472bd7436e279b04d92" title="buzzer_deinit" alt="" coords="641,2379,740,2405"/>
+<area shape="rect" id="node29" href="$d0/dbe/commander__helper_8h.html#a41f9a5ae398eaefc6b07e235eca3a3f4" title="led_deinit" alt="" coords="652,2429,729,2456"/>
+<area shape="rect" id="node30" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a23a1c13d49ddd445685d16fb6b59b47e" title="uORBTest::UnitTest\l::pub_test_multi2_main" alt="" coords="612,2481,769,2522"/>
+<area shape="rect" id="node31" href="$de/dec/classpx4_1_1_replay.html#aafeb98ce197e42cf1b2c69302c7821fe" title="px4::Replay::run" alt="" coords="631,1244,750,1271"/>
+<area shape="rect" id="node32" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="611,1295,770,1321"/>
+<area shape="rect" id="node33" href="$d1/d58/class_g_p_s.html#a52498a258feaecacc37c22365971b6c5" title="GPS::run" alt="" coords="653,1345,729,1372"/>
+<area shape="rect" id="node34" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a4669df3fd1ee45ace02caf5b1726f75a" title="uORBTest::UnitTest\l::test_unadvertise" alt="" coords="619,1397,762,1438"/>
+<area shape="rect" id="node35" href="$d8/daf/class_airspeed.html#ac09a84e526136d2deb78c53301aaadc0" title="Airspeed::~Airspeed" alt="" coords="621,1463,761,1489"/>
+<area shape="rect" id="node36" href="$d0/d45/class_b_a_t_t___s_m_b_u_s.html#a54111b514211cb0aac5918eb17410982" title="BATT_SMBUS::~BATT_SMBUS" alt="" coords="583,1513,799,1540"/>
+<area shape="rect" id="node37" href="$d2/d75/class_b_m_m150.html#a98f09de0300d6dc0ebb92e61224e478c" title="BMM150::~BMM150" alt="" coords="619,1564,762,1591"/>
+<area shape="rect" id="node38" href="$d7/d08/class_collision_prevention.html#af25bb9799a7ff4ac8914b5d2ff0ac6dc" title="CollisionPrevention\l::~CollisionPrevention" alt="" coords="615,1615,766,1657"/>
+<area shape="rect" id="node39" href="$d4/df1/class_l_i_s3_m_d_l.html#aa8479163e6a26374a535e281ebf0fa81" title="LIS3MDL::~LIS3MDL" alt="" coords="617,1681,765,1708"/>
+<area shape="rect" id="node40" href="$dc/d3c/class_mappy_dot.html#adb7286b743bc71a91b49129426792b01" title="MappyDot::~MappyDot" alt="" coords="611,1732,770,1759"/>
+<area shape="rect" id="node41" href="$d9/dfb/class_m_b12_x_x.html#aed8027633646659f24afb520301da23e" title="MB12XX::~MB12XX" alt="" coords="619,1783,762,1809"/>
+<area shape="rect" id="node42" href="$d2/d86/classvmount_1_1_output_base.html#a67948cb7d71b10bdd117ee76299a35db" title="vmount::OutputBase\l::~OutputBase" alt="" coords="619,1834,762,1875"/>
+<area shape="rect" id="node43" href="$dc/de6/classvmount_1_1_output_r_c.html#adcf724829ad1aec5c56bec165676d796" title="vmount::OutputRC::\l~OutputRC" alt="" coords="621,1899,761,1941"/>
+<area shape="rect" id="node44" href="$d2/de1/class_p_g_a460.html#a77730479b218f908f0e482d274571660" title="PGA460::~PGA460" alt="" coords="623,1965,759,1992"/>
+<area shape="rect" id="node45" href="$d3/de9/classu_o_r_b_1_1_publication.html#a6e48427538a5f8962b97249197862d04" title="uORB::Publication\&lt;\l vehicle_global_position\l_s \&gt;::~Publication" alt="" coords="611,2016,771,2072"/>
+<area shape="rect" id="node46" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a5687ed58939f90f78e81f23af2247d0e" title="uORB::PublicationMulti\l\&lt; rate_ctrl_status_s \&gt;\l::~PublicationMulti" alt="" coords="611,2096,770,2152"/>
+<area shape="rect" id="node47" href="$d4/dd4/class_s_f1_x_x.html#a01570c281f32823936fe5ca9bb7940c2" title="SF1XX::~SF1XX" alt="" coords="629,2176,752,2203"/>
+<area shape="rect" id="node48" href="$d2/da9/class_t_a_p___e_s_c.html#ae1d3e5fd23543169f0bf649f06363d8c" title="TAP_ESC::~TAP_ESC" alt="" coords="611,2227,771,2253"/>
+<area shape="rect" id="node49" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#af306e0d1a1d4406f89868f10cbb55cca" title="TERARANGER::~TERARANGER" alt="" coords="577,2277,804,2304"/>
+<area shape="rect" id="node50" href="$de/dfe/class_v_l53_l_x_x.html#a4d6f71a0be44a49df8fbb4f8b8c1c4e1" title="VL53LXX::~VL53LXX" alt="" coords="617,2328,765,2355"/>
 </map>

@@ -1,7 +1,7 @@
 var classcontrol_1_1_block_stats =
 [
     [ "BlockStats", "db/dbb/classcontrol_1_1_block_stats.html#aa2de1dbcde2b20fbd88dfa8a6410abc4", null ],
-    [ "~BlockStats", "db/dbb/classcontrol_1_1_block_stats.html#a1da1e91f0c62f420ff77a1ca59b8deca", null ],
+    [ "~BlockStats", "db/dbb/classcontrol_1_1_block_stats.html#ab0319198838582f44cad4aa0fd0dc4f7", null ],
     [ "getCount", "db/dbb/classcontrol_1_1_block_stats.html#ae205cc1327c6f7854799aac53d66ede5", null ],
     [ "getMean", "db/dbb/classcontrol_1_1_block_stats.html#a14cc6a9ee1663eb88bc0880689621029", null ],
     [ "getStdDev", "db/dbb/classcontrol_1_1_block_stats.html#a701d73bc2cff1815f4af7fa257ec0a0b", null ],

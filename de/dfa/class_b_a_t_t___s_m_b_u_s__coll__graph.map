@@ -1,9 +1,5 @@
 <map id="BATT_SMBUS" name="BATT_SMBUS">
-<area shape="rect" id="node2" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="143,660,326,1075"/>
-<area shape="rect" id="node3" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="44,329,177,597"/>
-<area shape="rect" id="node4" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="26,189,195,267"/>
-<area shape="rect" id="node5" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="5,5,216,127"/>
-<area shape="rect" id="node6" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="201,425,353,502"/>
-<area shape="rect" id="node7" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="350,807,495,928"/>
-<area shape="rect" id="node8" href="$d0/d5c/structbattery__status__s.html" title="{battery_status_s\n|+ timestamp\l+ voltage_v\l+ voltage_filtered_v\l+ current_a\l+ current_filtered_a\l+ average_current_a\land 16 more...\l|}" alt="" coords="520,785,661,950"/>
+<area shape="rect" id="node4" href="$d4/d9f/class_s_m_bus.html" title="{SMBus\n||+ SMBus()\l+ ~SMBus()\l+ block_write()\l+ block_read()\l+ read_word()\l+ write_word()\l+ get_pec()\l}" alt="" coords="400,132,508,297"/>
+<area shape="rect" id="node6" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="533,161,645,268"/>
+<area shape="rect" id="node7" href="$d0/d5c/structbattery__status__s.html" title="{battery_status_s\n|+ timestamp\l+ voltage_v\l+ voltage_filtered_v\l+ current_a\l+ current_filtered_a\l+ average_current_a\land 18 more...\l|}" alt="" coords="669,132,810,297"/>
 </map>

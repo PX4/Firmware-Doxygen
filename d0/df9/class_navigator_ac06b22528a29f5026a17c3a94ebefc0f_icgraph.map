@@ -1,23 +1,26 @@
 <map id="Navigator::home_position_valid" name="Navigator::home_position_valid">
-<area shape="rect" id="node2" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="1082,86,1245,127"/>
-<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1712,287,1816,313"/>
-<area shape="rect" id="node6" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="1521,43,1662,69"/>
-<area shape="rect" id="node8" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="225,287,361,313"/>
-<area shape="rect" id="node18" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="849,147,1024,189"/>
-<area shape="rect" id="node20" href="$d8/d13/class_takeoff.html#a727a6516dafcfbd3e5910f0977a911f5" title="Takeoff::set_takeoff\l_position" alt="" coords="224,515,363,557"/>
-<area shape="rect" id="node3" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="1519,195,1664,237"/>
-<area shape="rect" id="node5" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="1526,119,1657,145"/>
-<area shape="rect" id="node7" href="$db/dad/class_mission.html#af0f2816fb1303ccc94827f7f7f2d2b99" title="Update offboard mission topic. " alt="" coords="1303,145,1471,186"/>
-<area shape="rect" id="node9" href="$d7/dbe/class_geofence.html#a39dc1f54930821f1e7d0b488590605ca" title="implementation of updateFence(), but without locking " alt="" coords="411,337,579,364"/>
-<area shape="rect" id="node16" href="$d7/dbe/class_geofence.html#aa8dd3c6149afaae4694495e8eb831520" title="Return whether the system obeys the geofence. " alt="" coords="434,261,555,288"/>
-<area shape="rect" id="node10" href="$d7/dbe/class_geofence.html#ad04469e1fc121106b04be1492d00c158" title="Check if a point passes the Geofence test. " alt="" coords="627,413,801,440"/>
-<area shape="rect" id="node11" href="$d7/dbe/class_geofence.html#a6a4f90550a9337ee92bf0242c5af3ffb" title="Geofence::Geofence" alt="" coords="643,363,785,389"/>
-<area shape="rect" id="node12" href="$d7/dbe/class_geofence.html#aca06deb406baea3fe51e018bf6a2f910" title="update the geofence from dataman. " alt="" coords="633,312,795,339"/>
-<area shape="rect" id="node13" href="$d7/dbe/class_geofence.html#a861a0b8a8e12423188e3140e09bafc3c" title="Geofence::clearDm" alt="" coords="869,363,1004,389"/>
-<area shape="rect" id="node14" href="$d7/dbe/class_geofence.html#a9f6a2ec731abb95f297168dbfbcce200" title="Load a single inclusion polygon, replacing any already existing polygons. " alt="" coords="1083,337,1244,364"/>
-<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#ac9cc242bdb4465932f88217671686813" title="Load fence from file. " alt="" coords="1312,363,1461,405"/>
-<area shape="rect" id="node17" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="627,195,801,237"/>
-<area shape="rect" id="node19" href="$d0/d52/class_mission_feasibility_checker.html#a493b33a16340dab677935932844b9fe3" title="MissionFeasibilityChecker\l::MissionFeasibilityChecker" alt="" coords="1072,151,1255,193"/>
-<area shape="rect" id="node21" href="$d8/d13/class_takeoff.html#a32b6a78a00875f181f0b74afb9ffa32c" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="419,569,570,596"/>
-<area shape="rect" id="node22" href="$d8/d13/class_takeoff.html#a222d4e276bc3b82aca68af486cf9297f" title="This function is called while the mode is active. " alt="" coords="429,519,560,545"/>
+<area shape="rect" id="node2" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="1082,385,1245,426"/>
+<area shape="rect" id="node8" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="1528,421,1669,448"/>
+<area shape="rect" id="node10" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="225,132,361,159"/>
+<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1334,159,1438,185"/>
+<area shape="rect" id="node21" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="849,322,1024,363"/>
+<area shape="rect" id="node23" href="$d8/d13/class_takeoff.html#a727a6516dafcfbd3e5910f0977a911f5" title="Takeoff::set_takeoff\l_position" alt="" coords="224,523,363,565"/>
+<area shape="rect" id="node3" href="$db/dad/class_mission.html#a33116a4afecc113b67d233f14de287ff" title="Mission::get_landing_alt" alt="" coords="1517,283,1680,309"/>
+<area shape="rect" id="node7" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="1533,345,1664,372"/>
+<area shape="rect" id="node9" href="$db/dad/class_mission.html#aa717a0c8f848c0feaff1307664e749e6" title="Update mission topic. " alt="" coords="1303,371,1469,397"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a8e3be5708b076504322f33b7ef49f8a6" title="Navigator::get_mission\l_landing_alt" alt="" coords="1728,275,1884,317"/>
+<area shape="rect" id="node5" href="$d8/d7e/class_r_t_l.html#afa1df82479ac4da9c9d4f3d14798de22" title="RTL::find_RTL_destination" alt="" coords="1932,283,2111,309"/>
+<area shape="rect" id="node6" href="$d8/d7e/class_r_t_l.html#a70662870a113a01441428953874548e2" title="This function is called while the mode is inactive. " alt="" coords="2159,283,2280,309"/>
+<area shape="rect" id="node11" href="$d7/dbe/class_geofence.html#a39dc1f54930821f1e7d0b488590605ca" title="implementation of updateFence(), but without locking " alt="" coords="411,56,579,83"/>
+<area shape="rect" id="node19" href="$d7/dbe/class_geofence.html#aa8dd3c6149afaae4694495e8eb831520" title="Return whether the system obeys the geofence. " alt="" coords="434,157,555,184"/>
+<area shape="rect" id="node12" href="$d7/dbe/class_geofence.html#ad04469e1fc121106b04be1492d00c158" title="Check if a point passes the Geofence test. " alt="" coords="627,107,801,133"/>
+<area shape="rect" id="node13" href="$d7/dbe/class_geofence.html#a6a4f90550a9337ee92bf0242c5af3ffb" title="Geofence::Geofence" alt="" coords="643,5,785,32"/>
+<area shape="rect" id="node14" href="$d7/dbe/class_geofence.html#aca06deb406baea3fe51e018bf6a2f910" title="update the geofence from dataman. " alt="" coords="633,56,795,83"/>
+<area shape="rect" id="node15" href="$d7/dbe/class_geofence.html#a861a0b8a8e12423188e3140e09bafc3c" title="Geofence::clearDm" alt="" coords="869,55,1004,81"/>
+<area shape="rect" id="node16" href="$d7/dbe/class_geofence.html#a9f6a2ec731abb95f297168dbfbcce200" title="Load a single inclusion polygon, replacing any already existing polygons. " alt="" coords="1083,101,1244,128"/>
+<area shape="rect" id="node17" href="$d0/df9/class_navigator.html#ac9cc242bdb4465932f88217671686813" title="Load fence from file. " alt="" coords="1311,93,1461,134"/>
+<area shape="rect" id="node20" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="627,209,801,250"/>
+<area shape="rect" id="node22" href="$d0/d52/class_mission_feasibility_checker.html#a493b33a16340dab677935932844b9fe3" title="MissionFeasibilityChecker\l::MissionFeasibilityChecker" alt="" coords="1072,319,1255,361"/>
+<area shape="rect" id="node24" href="$d8/d13/class_takeoff.html#a32b6a78a00875f181f0b74afb9ffa32c" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="419,577,570,604"/>
+<area shape="rect" id="node25" href="$d8/d13/class_takeoff.html#a222d4e276bc3b82aca68af486cf9297f" title="This function is called while the mode is active. " alt="" coords="429,527,560,553"/>
 </map>

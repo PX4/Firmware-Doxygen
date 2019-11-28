@@ -1,5 +1,5 @@
 <map id="src/modules/navigator/mission_block.h" name="src/modules/navigator/mission_block.h">
-<area shape="rect" id="node2" href="$df/def/datalinkloss_8h.html" title="Helper class for Data Link Loss Mode acording to the OBC rules. " alt="" coords="225,95,376,136"/>
+<area shape="rect" id="node2" href="$df/def/datalinkloss_8h.html" title="Helper class for Data Link Loss Mode acording to the OBC rules. " alt="" coords="272,95,423,136"/>
 <area shape="rect" id="node12" href="$d4/dc9/mission__block_8cpp.html" title="Helper class to use mission items. " alt="" coords="355,281,505,322"/>
 <area shape="rect" id="node13" href="$d4/d86/mission__feasibility__checker_8cpp.html" title="Provides checks if mission is feasible given the navigation capabilities. " alt="" coords="529,273,680,329"/>
 <area shape="rect" id="node20" href="$d9/dd6/enginefailure_8h.html" title="Helper class for a fixedwing engine failure mode. " alt="" coords="704,95,855,136"/>
@@ -10,7 +10,7 @@
 <area shape="rect" id="node25" href="$d2/d97/loiter_8h.html" title="Helper class to loiter. " alt="" coords="1752,95,1903,136"/>
 <area shape="rect" id="node26" href="$db/dee/src_2modules_2navigator_2mission_8h.html" title="src/modules/navigator\l/mission.h" alt="" coords="1927,95,2077,136"/>
 <area shape="rect" id="node27" href="$d6/d2d/rcloss_8h.html" title="Helper class for RC Loss Mode acording to the OBC rules. " alt="" coords="1403,95,1553,136"/>
-<area shape="rect" id="node28" href="$dd/d87/rtl_8h.html" title="src/modules/navigator\l/rtl.h" alt="" coords="2101,95,2252,136"/>
+<area shape="rect" id="node28" href="$dd/d87/rtl_8h.html" title="Helper class for RTL. " alt="" coords="2101,95,2252,136"/>
 <area shape="rect" id="node29" href="$d0/d7b/takeoff_8h.html" title="Helper class to take off. " alt="" coords="2276,95,2427,136"/>
 <area shape="rect" id="node3" href="$d0/d69/navigator_8h.html" title="Helper class to access missions. " alt="" coords="1403,184,1553,225"/>
 <area shape="rect" id="node4" href="$dc/dd1/datalinkloss_8cpp.html" title="Helper class for Data Link Loss Mode according to the OBC rules. " alt="" coords="5,281,156,322"/>
@@ -25,6 +25,6 @@
 <area shape="rect" id="node14" href="$da/da4/navigator__main_8cpp.html" title="Handles mission items, geo fencing and failsafe navigation behavior. " alt="" coords="1577,281,1728,322"/>
 <area shape="rect" id="node15" href="$da/daa/navigator__mode_8cpp.html" title="Base class for different modes in navigator. " alt="" coords="1752,281,1903,322"/>
 <area shape="rect" id="node16" href="$d2/dff/precland_8cpp.html" title="Helper class to do precision landing with a landing target. " alt="" coords="1927,281,2077,322"/>
-<area shape="rect" id="node18" href="$dc/d9b/rtl_8cpp.html" title="src/modules/navigator\l/rtl.cpp" alt="" coords="2451,281,2601,322"/>
-<area shape="rect" id="node19" href="$d0/d7a/takeoff_8cpp.html" title="src/modules/navigator\l/takeoff.cpp" alt="" coords="2625,281,2776,322"/>
+<area shape="rect" id="node18" href="$dc/d9b/rtl_8cpp.html" title="Helper class to access RTL. " alt="" coords="2451,281,2601,322"/>
+<area shape="rect" id="node19" href="$d7/d13/navigator_2_takeoff_8cpp.html" title="src/modules/navigator\l/takeoff.cpp" alt="" coords="2625,281,2776,322"/>
 </map>

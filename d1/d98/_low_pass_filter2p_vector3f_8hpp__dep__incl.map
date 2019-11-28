@@ -1,0 +1,51 @@
+<map id="src/lib/mathlib/math/filter/LowPassFilter2pVector3f.hpp" name="src/lib/mathlib/math/filter/LowPassFilter2pVector3f.hpp">
+<area shape="rect" id="node2" href="$d2/d54/_p_x4_accelerometer_8hpp.html" title="src/lib/drivers/accelerometer\l/PX4Accelerometer.hpp" alt="" coords="1519,102,1706,143"/>
+<area shape="rect" id="node39" href="$df/dc3/_p_x4_gyroscope_8hpp.html" title="src/lib/drivers/gyroscope\l/PX4Gyroscope.hpp" alt="" coords="2455,102,2619,143"/>
+<area shape="rect" id="node45" href="$dc/df1/_low_pass_filter2p_vector3f_8cpp.html" title="src/lib/mathlib/math\l/filter/LowPassFilter2pVector3f.cpp" alt="" coords="3082,102,3309,143"/>
+<area shape="rect" id="node46" href="$dc/de9/_multicopter_rate_control_8hpp.html" title="src/modules/mc_rate\l_control/MulticopterRateControl.hpp" alt="" coords="3780,206,4011,247"/>
+<area shape="rect" id="node48" href="$de/de2/_rate_control_8hpp.html" title="PID 3 axis angular rate / angular velocity control. " alt="" coords="3929,95,4073,151"/>
+<area shape="rect" id="node3" href="$d6/dea/_a_d_i_s16448_8h.html" title="src/drivers/imu/adis16448\l/ADIS16448.h" alt="" coords="2451,206,2622,247"/>
+<area shape="rect" id="node6" href="$d7/d43/_a_d_i_s16477_8hpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.hpp" alt="" coords="2646,206,2817,247"/>
+<area shape="rect" id="node9" href="$d4/d35/_a_d_i_s16497_8hpp.html" title="src/drivers/imu/adis16497\l/ADIS16497.hpp" alt="" coords="2841,206,3011,247"/>
+<area shape="rect" id="node12" href="$de/dbd/_b_m_i055__accel_8hpp.html" title="src/drivers/imu/bmi055\l/BMI055_accel.hpp" alt="" coords="985,206,1139,247"/>
+<area shape="rect" id="node15" href="$d4/d08/_b_m_i088__accel_8hpp.html" title="src/drivers/imu/bmi088\l/BMI088_accel.hpp" alt="" coords="806,206,961,247"/>
+<area shape="rect" id="node19" href="$d5/d87/bmi160_8hpp.html" title="src/drivers/imu/bmi160\l/bmi160.hpp" alt="" coords="3035,206,3190,247"/>
+<area shape="rect" id="node22" href="$de/d8e/_f_x_o_s8701_c_q_8hpp.html" title="Driver for the NXP FXOS8701CQ 6&#45;axis sensor with integrated linear accelerometer and magnetometer con..." alt="" coords="393,206,571,247"/>
+<area shape="rect" id="node25" href="$d1/dde/icm20948_8h.html" title="src/drivers/imu/icm20948\l/icm20948.h" alt="" coords="2259,206,2427,247"/>
+<area shape="rect" id="node32" href="$d2/d52/_l_s_m303_d_8hpp.html" title="Driver for the ST LSM303D MEMS accelerometer / magnetometer connected via SPI. " alt="" coords="107,206,268,247"/>
+<area shape="rect" id="node34" href="$d1/df6/_m_p_u6000_8hpp.html" title="src/drivers/imu/mpu6000\l/MPU6000.hpp" alt="" coords="1347,206,1513,247"/>
+<area shape="rect" id="node35" href="$db/d35/mpu9250_8h.html" title="src/drivers/imu/mpu9250\l/mpu9250.h" alt="" coords="1713,206,1878,247"/>
+<area shape="rect" id="node36" href="$d8/d24/_p_x4_accelerometer_8cpp.html" title="src/lib/drivers/accelerometer\l/PX4Accelerometer.cpp" alt="" coords="595,206,782,247"/>
+<area shape="rect" id="node37" href="$d8/d9f/sih_8hpp.html" title="src/modules/sih/sih.hpp" alt="" coords="1163,213,1323,240"/>
+<area shape="rect" id="node38" href="$d3/d9e/simulator_8h.html" title="This module interfaces via MAVLink to a software in the loop simulator (SITL) such as jMAVSim or Gaze..." alt="" coords="1537,206,1688,247"/>
+<area shape="rect" id="node4" href="$dc/d86/_a_d_i_s16448_8cpp.html" title="Driver for the Analog device ADIS16448 connected via SPI. " alt="" coords="2837,303,3007,344"/>
+<area shape="rect" id="node5" href="$dd/d0b/adis16448__main_8cpp.html" title="src/drivers/imu/adis16448\l/adis16448_main.cpp" alt="" coords="2642,303,2813,344"/>
+<area shape="rect" id="node7" href="$d9/d08/_a_d_i_s16477_8cpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.cpp" alt="" coords="3226,303,3397,344"/>
+<area shape="rect" id="node8" href="$de/df3/adis16477__main_8cpp.html" title="src/drivers/imu/adis16477\l/adis16477_main.cpp" alt="" coords="3031,303,3202,344"/>
+<area shape="rect" id="node10" href="$d7/dd7/_a_d_i_s16497_8cpp.html" title="src/drivers/imu/adis16497\l/ADIS16497.cpp" alt="" coords="3615,303,3786,344"/>
+<area shape="rect" id="node11" href="$d8/dbb/adis16497__main_8cpp.html" title="src/drivers/imu/adis16497\l/adis16497_main.cpp" alt="" coords="3421,303,3591,344"/>
+<area shape="rect" id="node13" href="$de/d90/_b_m_i055__accel_8cpp.html" title="src/drivers/imu/bmi055\l/BMI055_accel.cpp" alt="" coords="954,303,1109,344"/>
+<area shape="rect" id="node14" href="$d1/db0/bmi055__main_8cpp.html" title="src/drivers/imu/bmi055\l/bmi055_main.cpp" alt="" coords="1311,303,1466,344"/>
+<area shape="rect" id="node16" href="$d1/d1d/_b_m_i088__accel_8cpp.html" title="src/drivers/imu/bmi088\l/BMI088_accel.cpp" alt="" coords="597,303,751,344"/>
+<area shape="rect" id="node17" href="$d6/d62/_b_m_i088__gyro_8cpp.html" title="src/drivers/imu/bmi088\l/BMI088_gyro.cpp" alt="" coords="1133,303,1287,344"/>
+<area shape="rect" id="node18" href="$d4/d4a/bmi088__main_8cpp.html" title="src/drivers/imu/bmi088\l/bmi088_main.cpp" alt="" coords="775,303,930,344"/>
+<area shape="rect" id="node20" href="$db/dc7/bmi160_8cpp.html" title="src/drivers/imu/bmi160\l/bmi160.cpp" alt="" coords="3989,303,4143,344"/>
+<area shape="rect" id="node21" href="$db/d05/bmi160__main_8cpp.html" title="src/drivers/imu/bmi160\l/bmi160_main.cpp" alt="" coords="3810,303,3965,344"/>
+<area shape="rect" id="node23" href="$d1/dbc/_f_x_o_s8701_c_q_8cpp.html" title="Driver for the NXP FXOS8701CQ 6&#45;axis sensor with integrated linear accelerometer and magnetometer con..." alt="" coords="191,303,370,344"/>
+<area shape="rect" id="node24" href="$d5/db5/fxos8701cq__main_8cpp.html" title="src/drivers/imu/fxos8701cq\l/fxos8701cq_main.cpp" alt="" coords="394,303,573,344"/>
+<area shape="rect" id="node26" href="$d2/d5c/icm20948_8cpp.html" title="Driver for the Invensense ICM20948 connected via I2C or SPI. " alt="" coords="1490,303,1658,344"/>
+<area shape="rect" id="node27" href="$de/d30/icm20948__i2c_8cpp.html" title="I2C interface for ICM20948. " alt="" coords="1682,303,1850,344"/>
+<area shape="rect" id="node28" href="$d7/d0b/_i_c_m20948__mag_8cpp.html" title="src/drivers/imu/icm20948\l/ICM20948_mag.cpp" alt="" coords="1874,303,2042,344"/>
+<area shape="rect" id="node29" href="$d2/d25/icm20948__main_8cpp.html" title="src/drivers/imu/icm20948\l/icm20948_main.cpp" alt="" coords="2066,303,2234,344"/>
+<area shape="rect" id="node30" href="$d0/de2/icm20948__spi_8cpp.html" title="Driver for the Invensense ICM20948 connected via SPI. " alt="" coords="2258,303,2426,344"/>
+<area shape="rect" id="node31" href="$df/d74/mag__i2c_8cpp.html" title="I2C interface for AK09916. " alt="" coords="2450,303,2618,344"/>
+<area shape="rect" id="node33" href="$d0/d54/_l_s_m303_d_8cpp.html" title="Driver for the ST LSM303D MEMS accelerometer / magnetometer connected via SPI. " alt="" coords="5,303,167,344"/>
+<area shape="rect" id="node40" href="$dc/d1f/_b_m_i055__gyro_8hpp.html" title="src/drivers/imu/bmi055\l/BMI055_gyro.hpp" alt="" coords="2081,206,2235,247"/>
+<area shape="rect" id="node41" href="$d9/d64/_b_m_i088__gyro_8hpp.html" title="src/drivers/imu/bmi088\l/BMI088_gyro.hpp" alt="" coords="1902,206,2057,247"/>
+<area shape="rect" id="node42" href="$d8/d26/_f_x_a_s21002_c_8hpp.html" title="Driver for the NXP FXAS21002C 3&#45;Axis Digital Angular Rate Gyroscope connected via SPI..." alt="" coords="3214,206,3393,247"/>
+<area shape="rect" id="node43" href="$d3/dca/l3gd20_8cpp.html" title="Driver for the ST L3GD20 MEMS and L3GD20H mems gyros connected via SPI. " alt="" coords="3417,206,3568,247"/>
+<area shape="rect" id="node44" href="$d3/dbc/_p_x4_gyroscope_8cpp.html" title="src/lib/drivers/gyroscope\l/PX4Gyroscope.cpp" alt="" coords="3592,206,3756,247"/>
+<area shape="rect" id="node47" href="$d1/de6/_multicopter_rate_control_8cpp.html" title="src/modules/mc_rate\l_control/MulticopterRateControl.cpp" alt="" coords="4168,303,4399,344"/>
+<area shape="rect" id="node49" href="$d4/dee/_rate_control_8cpp.html" title="src/modules/mc_rate\l_control/RateControl\l/RateControl.cpp" alt="" coords="4035,199,4179,255"/>
+<area shape="rect" id="node50" href="$d7/d63/_rate_control_test_8cpp.html" title="src/modules/mc_rate\l_control/RateControl\l/RateControlTest.cpp" alt="" coords="4203,199,4350,255"/>
+</map>

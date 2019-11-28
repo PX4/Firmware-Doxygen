@@ -1,0 +1,51 @@
+<map id="BatteryStatus::parameter_update_poll" name="BatteryStatus::parameter_update_poll">
+<area shape="rect" id="node2" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="451,301,589,343"/>
+<area shape="rect" id="node21" href="$de/dc2/class_battery_status.html#a7c9088d53b0b19ae7015236ad4fcc9f4" title="Update our local parameter cache. " alt="" coords="221,661,396,703"/>
+<area shape="rect" id="node50" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="451,396,589,437"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="665,301,803,343"/>
+<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="647,185,821,211"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="890,352,1029,393"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="881,221,1037,263"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="890,287,1029,328"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1105,287,1244,328"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1582,356,1725,397"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1807,327,1949,368"/>
+<area shape="rect" id="node10" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1330,71,1477,112"/>
+<area shape="rect" id="node13" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abb03278ff4ddd2a50e0f2996e856f2cc" title="Add the subscriber to the node&#39;s list of subscriber. " alt="" coords="1320,239,1487,280"/>
+<area shape="rect" id="node17" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1303,407,1504,448"/>
+<area shape="rect" id="node18" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a7877236ac1912c32c2ab6ae06899392d" title="uORB::DeviceNode::get\l_queue_size" alt="" coords="1321,173,1485,215"/>
+<area shape="rect" id="node11" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="1580,71,1727,112"/>
+<area shape="rect" id="node12" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="1580,5,1727,47"/>
+<area shape="rect" id="node14" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="1591,254,1715,281"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="1584,137,1723,163"/>
+<area shape="rect" id="node16" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a2fdcab300f1c9ccf8c43858493ca9358" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="1552,188,1755,229"/>
+<area shape="rect" id="node20" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="872,156,1047,197"/>
+<area shape="rect" id="node22" href="$dc/d36/namespacebattery__status.html#a0bd87674baff2a354219a9e5466fee41" title="Read out the parameters using the handles into the parameters struct. " alt="" coords="444,937,596,979"/>
+<area shape="rect" id="node23" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="918,1198,1001,1225"/>
+<area shape="rect" id="node37" href="$d6/dc8/drv__adc_8h.html#a188773427ea760132b7422a1c197755f" title="Get the adc digital number full count. " alt="" coords="644,919,824,946"/>
+<area shape="rect" id="node38" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a803f9e8aef28899d6311b39e482584eb" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="647,970,821,997"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1103,1198,1246,1225"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1109,1401,1241,1427"/>
+<area shape="rect" id="node32" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1130,1299,1219,1326"/>
+<area shape="rect" id="node33" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="1101,1350,1248,1377"/>
+<area shape="rect" id="node34" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1133,1097,1216,1123"/>
+<area shape="rect" id="node36" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1139,1147,1211,1174"/>
+<area shape="rect" id="node25" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1595,1223,1711,1250"/>
+<area shape="rect" id="node27" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1580,1097,1727,1123"/>
+<area shape="rect" id="node28" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1332,1046,1475,1073"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1358,1249,1449,1275"/>
+<area shape="rect" id="node26" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1803,1223,1953,1250"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1573,1021,1733,1047"/>
+<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1591,843,1716,870"/>
+<area shape="rect" id="node39" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="893,970,1025,997"/>
+<area shape="rect" id="node40" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="1095,473,1255,499"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="1115,843,1234,870"/>
+<area shape="rect" id="node45" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1589,666,1717,693"/>
+<area shape="rect" id="node46" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="1582,730,1725,757"/>
+<area shape="rect" id="node48" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="1103,524,1246,565"/>
+<area shape="rect" id="node49" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="1107,590,1243,617"/>
+<area shape="rect" id="node41" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="1353,523,1453,550"/>
+<area shape="rect" id="node42" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1359,473,1447,499"/>
+<area shape="rect" id="node44" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8645819468f9ad299f8f4972099a8dd1" title="worker callback method to save the parameters " alt="" coords="1343,742,1464,769"/>
+<area shape="rect" id="node47" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1343,843,1464,870"/>
+</map>

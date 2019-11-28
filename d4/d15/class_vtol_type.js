@@ -2,6 +2,7 @@ var class_vtol_type =
 [
     [ "_disarmed_pwm_values", "da/dc1/struct_vtol_type_1_1__disarmed__pwm__values.html", null ],
     [ "_max_mc_pwm_values", "d5/d9b/struct_vtol_type_1_1__max__mc__pwm__values.html", null ],
+    [ "_min_mc_pwm_values", "de/d4b/struct_vtol_type_1_1__min__mc__pwm__values.html", null ],
     [ "VtolType", "d4/d15/class_vtol_type.html#acf60cb98c9384ad85430941d2102197a", null ],
     [ "VtolType", "d4/d15/class_vtol_type.html#a39e36791b91c27fb25ae02fe268c04e5", null ],
     [ "~VtolType", "d4/d15/class_vtol_type.html#a6d0d0118d94b1eec2ffcfc96980f08dc", null ],
@@ -11,7 +12,7 @@ var class_vtol_type =
     [ "fill_actuator_outputs", "d4/d15/class_vtol_type.html#a99a418530932c54c6278da40c5edb7c3", null ],
     [ "get_mode", "d4/d15/class_vtol_type.html#a5a470b112883647e6778e5d164fe49cf", null ],
     [ "init", "d4/d15/class_vtol_type.html#a0606e7b02d5a3fb17f8c6f2192c469d1", null ],
-    [ "is_motor_off_channel", "d4/d15/class_vtol_type.html#aca6cb6e73bf7ae0fb2854c505ed68437", null ],
+    [ "is_channel_set", "d4/d15/class_vtol_type.html#a66908aafced2aa645e529044f85ac848", null ],
     [ "operator=", "d4/d15/class_vtol_type.html#a6b8a0475eecf74b5f6c983e1add298a4", null ],
     [ "parameters_update", "d4/d15/class_vtol_type.html#a7d187db377a74124b4d789a29ee6b9e6", null ],
     [ "set_idle_fw", "d4/d15/class_vtol_type.html#aed4104618cc718c2c0cec44a48438f94", null ],
@@ -26,7 +27,7 @@ var class_vtol_type =
     [ "_actuators_mc_in", "d4/d15/class_vtol_type.html#a2e3829b63e472e177bb42bbdbf32b8b9", null ],
     [ "_actuators_out_0", "d4/d15/class_vtol_type.html#a5e56de0210f160a4dceb4a985129912c", null ],
     [ "_actuators_out_1", "d4/d15/class_vtol_type.html#aaafd3e90485e8dcefaf90e1c775aae78", null ],
-    [ "_airspeed", "d4/d15/class_vtol_type.html#ad4df7bca67bca245280f0002d8d5e986", null ],
+    [ "_airspeed_validated", "d4/d15/class_vtol_type.html#ae0e23cdc2aa170a8c9fee1f499ae0578", null ],
     [ "_attc", "d4/d15/class_vtol_type.html#a02c0da00eeaa0be312250a98f0905278", null ],
     [ "_flag_was_in_trans_mode", "d4/d15/class_vtol_type.html#ae27e19cf41cafcac8118dfd0e77c070b", null ],
     [ "_fw_virtual_att_sp", "d4/d15/class_vtol_type.html#a2d9ae421477dd46ceedea715d3830d4e", null ],
@@ -53,5 +54,6 @@ var class_vtol_type =
     [ "_v_control_mode", "d4/d15/class_vtol_type.html#a4ab51194709e0b2731e357ce249a4cf8", null ],
     [ "_vtol_mode", "d4/d15/class_vtol_type.html#ab1dfe6a41d2c005ffbe975f732325e22", null ],
     [ "_vtol_vehicle_status", "d4/d15/class_vtol_type.html#a8fe02242371284c75677f821bc5de23f", null ],
-    [ "flag_idle_mc", "d4/d15/class_vtol_type.html#a39a88edf6f7f637676ffa921d7064102", null ]
+    [ "flag_idle_mc", "d4/d15/class_vtol_type.html#a39a88edf6f7f637676ffa921d7064102", null ],
+    [ "num_outputs_max", "d4/d15/class_vtol_type.html#aca8db6fb373016fb6d328743c831982b", null ]
 ];

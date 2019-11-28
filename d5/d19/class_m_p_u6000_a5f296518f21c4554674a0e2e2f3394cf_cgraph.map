@@ -1,8 +1,9 @@
 <map id="MPU6000::check_registers" name="MPU6000::check_registers">
-<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="256,5,381,32"/>
-<area shape="rect" id="node3" href="$d5/d19/class_m_p_u6000.html#ac22dbda479dff300fd2f58fb41ec059c" title="is_icm_device " alt="" coords="233,56,404,83"/>
-<area shape="rect" id="node5" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="277,107,360,133"/>
-<area shape="rect" id="node6" href="$d5/d19/class_m_p_u6000.html#a70789039cc750778ac57b6d9180c3195" title="Read a register from the MPU6000. " alt="" coords="249,157,388,184"/>
-<area shape="rect" id="node7" href="$d5/d19/class_m_p_u6000.html#a01cf9bdd2aeb79a0f1af424299e9b7f5" title="Write a register in the MPU6000. " alt="" coords="248,208,389,235"/>
-<area shape="rect" id="node4" href="$d5/d19/class_m_p_u6000.html#ade297213f2fbbeeb3550ee76c18beeac" title="is_mpu_device " alt="" coords="452,56,627,83"/>
+<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="462,28,587,54"/>
+<area shape="rect" id="node3" href="$d5/d19/class_m_p_u6000.html#ac22dbda479dff300fd2f58fb41ec059c" title="is_icm_device " alt="" coords="233,28,404,54"/>
+<area shape="rect" id="node4" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="277,78,360,105"/>
+<area shape="rect" id="node5" href="$d5/d19/class_m_p_u6000.html#a70789039cc750778ac57b6d9180c3195" title="Read a register from the MPU6000. " alt="" coords="249,129,388,156"/>
+<area shape="rect" id="node7" href="$d5/d19/class_m_p_u6000.html#a01cf9bdd2aeb79a0f1af424299e9b7f5" title="Write a register in the MPU6000. " alt="" coords="248,180,389,206"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="453,129,596,156"/>
+<area shape="rect" id="node8" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="452,180,597,206"/>
 </map>

@@ -11,6 +11,7 @@ var modules_2logger_2messages_8h =
     [ "ulog_message_info_header_s", "d9/d31/structulog__message__info__header__s.html", "d9/d31/structulog__message__info__header__s" ],
     [ "ulog_message_info_multiple_header_s", "df/d99/structulog__message__info__multiple__header__s.html", "df/d99/structulog__message__info__multiple__header__s" ],
     [ "ulog_message_logging_s", "d3/d3f/structulog__message__logging__s.html", "d3/d3f/structulog__message__logging__s" ],
+    [ "ulog_message_logging_tagged_s", "de/db3/structulog__message__logging__tagged__s.html", "de/db3/structulog__message__logging__tagged__s" ],
     [ "ulog_message_parameter_header_s", "d4/dec/structulog__message__parameter__header__s.html", "d4/dec/structulog__message__parameter__header__s" ],
     [ "ulog_message_flag_bits_s", "d9/da0/structulog__message__flag__bits__s.html", "d9/da0/structulog__message__flag__bits__s" ],
     [ "ULOG_INCOMPAT_FLAG0_DATA_APPENDED_MASK", "da/df0/modules_2logger_2messages_8h.html#ae28e6bc42f36f3561b3915d40f360050", null ],
@@ -26,6 +27,7 @@ var modules_2logger_2messages_8h =
       [ "SYNC", "da/df0/modules_2logger_2messages_8h.html#a28d7fa182ceafe7177f7aa5e1f178f05a274ccef15a21e829d03293a6fd1974f3", null ],
       [ "DROPOUT", "da/df0/modules_2logger_2messages_8h.html#a28d7fa182ceafe7177f7aa5e1f178f05ab03cdf0c90fd8fc60807f82e99aea446", null ],
       [ "LOGGING", "da/df0/modules_2logger_2messages_8h.html#a28d7fa182ceafe7177f7aa5e1f178f05a042bca9f4ffd4cb8530fa2a9035e00c3", null ],
+      [ "LOGGING_TAGGED", "da/df0/modules_2logger_2messages_8h.html#a28d7fa182ceafe7177f7aa5e1f178f05ac7fbabb615ddda3cad9a95309c4d36ed", null ],
       [ "FLAG_BITS", "da/df0/modules_2logger_2messages_8h.html#a28d7fa182ceafe7177f7aa5e1f178f05a44698eb5681aaddcf4fce5e810a8b556", null ]
     ] ]
 ];

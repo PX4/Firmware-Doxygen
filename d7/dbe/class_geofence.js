@@ -1,10 +1,10 @@
 var class_geofence =
 [
     [ "PolygonInfo", "d1/d1d/struct_geofence_1_1_polygon_info.html", "d1/d1d/struct_geofence_1_1_polygon_info" ],
-    [ "GF_ALT_MODE_WGS84", "d7/dbe/class_geofence.html#aa0e8dd89c91f3c71f68faa950c7ff39ca19d0d5d0d39be40949481973276c725a", null ],
-    [ "GF_ALT_MODE_AMSL", "d7/dbe/class_geofence.html#aa0e8dd89c91f3c71f68faa950c7ff39cadf5f08a2687d7dad64b9d5c2560f5066", null ],
-    [ "GF_SOURCE_GLOBALPOS", "d7/dbe/class_geofence.html#a94c74891cec4d42428c00bf9592cdab3ad79d2b036315ce43a5f21680f6396e3e", null ],
-    [ "GF_SOURCE_GPS", "d7/dbe/class_geofence.html#a94c74891cec4d42428c00bf9592cdab3aad8d93ebec62b1ff30c8d6465672f962", null ],
+    [ "GF_ALT_MODE_WGS84", "d7/dbe/class_geofence.html#a9516dd1405eda2a00bc8a7ef7e005fa6a19d0d5d0d39be40949481973276c725a", null ],
+    [ "GF_ALT_MODE_AMSL", "d7/dbe/class_geofence.html#a9516dd1405eda2a00bc8a7ef7e005fa6adf5f08a2687d7dad64b9d5c2560f5066", null ],
+    [ "GF_SOURCE_GLOBALPOS", "d7/dbe/class_geofence.html#a9272d9907b95eaec5c9eb9c5a10630f8ad79d2b036315ce43a5f21680f6396e3e", null ],
+    [ "GF_SOURCE_GPS", "d7/dbe/class_geofence.html#a9272d9907b95eaec5c9eb9c5a10630f8aad8d93ebec62b1ff30c8d6465672f962", null ],
     [ "Geofence", "d7/dbe/class_geofence.html#a6a4f90550a9337ee92bf0242c5af3ffb", null ],
     [ "Geofence", "d7/dbe/class_geofence.html#ab0367bb838305ccccf851ef70c1ccf7a", null ],
     [ "~Geofence", "d7/dbe/class_geofence.html#a744a4081a41af47fb84741baefed2795", null ],
@@ -34,7 +34,7 @@ var class_geofence =
     [ "_last_vertical_range_warning", "d7/dbe/class_geofence.html#a5ed6557eb63a622b617d167da50ea173", null ],
     [ "_navigator", "d7/dbe/class_geofence.html#a8ececabebb666c81240d4cb15312952d", null ],
     [ "_num_polygons", "d7/dbe/class_geofence.html#a374ecf8343004a967b5f751845517171", null ],
-    [ "_outside_counter", "d7/dbe/class_geofence.html#a9b2d9eeff2dac26d5f17a9667d3067d3", null ],
+    [ "_outside_counter", "d7/dbe/class_geofence.html#aadf04a42ba31b3f740325195925fd641", null ],
     [ "_polygons", "d7/dbe/class_geofence.html#ae79192b1d292a78452c0feed591c68e2", null ],
     [ "_projection_reference", "d7/dbe/class_geofence.html#a3f377f285333b18c85ba7e4c497bf65d", null ],
     [ "_update_counter", "d7/dbe/class_geofence.html#aab34f92a9b50151933496a374e27f506", null ]

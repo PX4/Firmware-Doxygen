@@ -1,0 +1,28 @@
+var class_i_c_m20948__mag =
+[
+    [ "ICM20948_mag", "d6/df3/class_i_c_m20948__mag.html#a85c83e74c72bb9c73aae184bc4f0c2ef", null ],
+    [ "~ICM20948_mag", "d6/df3/class_i_c_m20948__mag.html#a5d6a818b5b15b808d6fb26529f160ff6", null ],
+    [ "_measure", "d6/df3/class_i_c_m20948__mag.html#a19b91af61bef84b1b66b8cca8e761eeb", null ],
+    [ "ak09916_check_id", "d6/df3/class_i_c_m20948__mag.html#aaa215e741a53c2e3c5cadc92b265c9e9", null ],
+    [ "ak09916_read_adjustments", "d6/df3/class_i_c_m20948__mag.html#a4a61e602f5ad4ecf66aa8d4f1beca3d7", null ],
+    [ "ak09916_reset", "d6/df3/class_i_c_m20948__mag.html#a0e984b8f397e4bdccf1b47ce40d5f389", null ],
+    [ "ak09916_setup", "d6/df3/class_i_c_m20948__mag.html#a490d7c0e4c29dc3858c44be3cbbd4e05", null ],
+    [ "ak09916_setup_master_i2c", "d6/df3/class_i_c_m20948__mag.html#aa38ba3c4cb94c15edf00f15848c4aba9", null ],
+    [ "is_passthrough", "d6/df3/class_i_c_m20948__mag.html#a1b9bd635008cb3ca3ca6204d5d1e5b48", null ],
+    [ "measure", "d6/df3/class_i_c_m20948__mag.html#a60c273f204c9adb45705c7f133952584", null ],
+    [ "passthrough_read", "d6/df3/class_i_c_m20948__mag.html#a586f33b88f6b51fcb7043bd890caa2f7", null ],
+    [ "passthrough_write", "d6/df3/class_i_c_m20948__mag.html#a42a2a3e7ce0ea9cd9f3db7f3b96ba338", null ],
+    [ "print_status", "d6/df3/class_i_c_m20948__mag.html#a9e42e8f82474042b2d98591bd5b3a3c4", null ],
+    [ "read_block", "d6/df3/class_i_c_m20948__mag.html#aaa1559ffe36a2a926934dbdb5d424442", null ],
+    [ "read_reg", "d6/df3/class_i_c_m20948__mag.html#adf23ba99b27c421cffda546c9e9f2c9b", null ],
+    [ "set_passthrough", "d6/df3/class_i_c_m20948__mag.html#a14c0ac756dda2a94ec26298144d912e0", null ],
+    [ "write_reg", "d6/df3/class_i_c_m20948__mag.html#ac47774e85be36f261caf87f29c74bfe5", null ],
+    [ "ICM20948", "d6/df3/class_i_c_m20948__mag.html#a0d27db5f9471365c358d421c6ce07029", null ],
+    [ "_interface", "d6/df3/class_i_c_m20948__mag.html#aea9ea8140ba14da0744a5483ad0c6518", null ],
+    [ "_mag_errors", "d6/df3/class_i_c_m20948__mag.html#a729ed69d81251226e40fa8f16730a370", null ],
+    [ "_mag_overflows", "d6/df3/class_i_c_m20948__mag.html#a628167e748a026b82a9ab67af041281b", null ],
+    [ "_mag_overruns", "d6/df3/class_i_c_m20948__mag.html#a3c721ca8d259a1715af169cd1213c58f", null ],
+    [ "_mag_reading_data", "d6/df3/class_i_c_m20948__mag.html#ab15a5909d6488922ea4a00867ae4bef7", null ],
+    [ "_parent", "d6/df3/class_i_c_m20948__mag.html#adaa584be04e9aeeaf1dbe484732f0b39", null ],
+    [ "_px4_mag", "d6/df3/class_i_c_m20948__mag.html#ac250e2e09ff642be4437f15330fa0b76", null ]
+];

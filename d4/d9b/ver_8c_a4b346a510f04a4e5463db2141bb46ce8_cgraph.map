@@ -1,47 +1,35 @@
 <map id="ver_main" name="ver_main">
-<area shape="rect" id="node2" href="$d6/df6/board__common_8h.html#a50f6fef8c4b86569c27a1343b89ea21c" title="board_get_mfguid_formated" alt="" coords="128,107,311,133"/>
-<area shape="rect" id="node5" href="$d6/df6/board__common_8h.html#a7ffcabff70e2a57a2964167bc79ac9a7" title="board_get_uuid32_formated" alt="" coords="128,287,311,313"/>
-<area shape="rect" id="node7" href="$d6/df6/board__common_8h.html#ab4d5aaf60e238b3b3e86103285ac0b85" title="board_mcu_version" alt="" coords="152,596,287,623"/>
-<area shape="rect" id="node8" href="$df/dfc/version_8h.html#ac35bb2fd94f5d8b7b3bebeb1e54a2321" title="get the board HW revision " alt="" coords="140,647,299,673"/>
-<area shape="rect" id="node29" href="$df/dfc/version_8h.html#abeb01c8ce49b0f7571b8b129419ee55f" title="get the board HW version " alt="" coords="142,843,297,869"/>
-<area shape="rect" id="node31" href="$df/dfc/version_8h.html#a4a98b20dc43b646ecb59934cc3ebb2e0" title="get the board name as string (including the version if there are multiple) " alt="" coords="159,893,280,920"/>
-<area shape="rect" id="node32" href="$df/dfc/version_8h.html#a74454c67ffa9651a44bac0ac0f588213" title="get the board sub type " alt="" coords="148,944,291,971"/>
-<area shape="rect" id="node34" href="$d2/d0b/version_8c.html#a0cb6b90f4ebff6157957b19a677fddc8" title="get the build URI (used for crash logging) " alt="" coords="170,995,269,1021"/>
-<area shape="rect" id="node35" href="$d2/d0b/version_8c.html#aa0dd602794ccff7523581abbe088b1ba" title="get the PX4 Firmware version " alt="" coords="145,1045,294,1072"/>
-<area shape="rect" id="node36" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="145,1097,294,1138"/>
-<area shape="rect" id="node37" href="$d2/d0b/version_8c.html#ae95cd926e4c13b6df7434db5771200ba" title="name of the operating system " alt="" coords="168,1163,271,1189"/>
-<area shape="rect" id="node38" href="$d2/d0b/version_8c.html#a5975808a383f520b6b92cfa71093711c" title="operating system version " alt="" coords="163,1213,276,1240"/>
-<area shape="rect" id="node39" href="$d2/d0b/version_8c.html#a7265831e3a3bb9a00a8238eaaa1f9a5f" title="Operating system version as human readable string (git tag) " alt="" coords="143,1264,295,1291"/>
-<area shape="rect" id="node40" href="$d2/d0b/version_8c.html#a31abb41bc89b145f777e122bac67a828" title="Toolchain name used to compile PX4. " alt="" coords="149,1315,290,1341"/>
-<area shape="rect" id="node41" href="$d2/d0b/version_8c.html#a9aa31fe9aa21ba54142aa49766635f56" title="Toolchain version used to compile PX4 (no particular format) " alt="" coords="144,1365,295,1392"/>
-<area shape="rect" id="node42" href="$d4/d9b/ver_8c.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="191,1416,248,1443"/>
-<area shape="rect" id="node3" href="$dc/ddc/kinetis_2board__identity_8c.html#a42e6780351af1b68466a54e199244a51" title="board_get_mfguid" alt="" coords="409,5,535,32"/>
-<area shape="rect" id="node4" href="$dc/ddc/kinetis_2board__identity_8c.html#a4c8de8daee2516d5243e7a1a2787709d" title="board_get_uuid" alt="" coords="660,31,771,57"/>
-<area shape="rect" id="node6" href="$dc/ddc/kinetis_2board__identity_8c.html#a800f74788c8393862391562e0a3d0fa4" title="board_get_uuid32" alt="" coords="410,56,534,83"/>
-<area shape="rect" id="node9" href="$d6/dbe/px4fmu-v2_2init_8c.html#a1b7696aeebb5179a2e0267e03604b7d8" title="board_get_hw_revision" alt="" coords="395,107,549,133"/>
-<area shape="rect" id="node10" href="$df/dfc/version_8h.html#ad2eda9d2132382aa3ffd174669725533" title="get the board version (last 8 bytes should be silicon ID, if any) " alt="" coords="407,157,537,184"/>
-<area shape="rect" id="node11" href="$df/dfc/version_8h.html#a0cb6b90f4ebff6157957b19a677fddc8" title="get the build URI (used for crash logging) " alt="" coords="423,208,521,235"/>
-<area shape="rect" id="node12" href="$df/dfc/version_8h.html#a8bb63942dcda7c312c434c95338ee458" title="ECL lib version as human readable string (git tag) " alt="" coords="404,259,540,301"/>
-<area shape="rect" id="node13" href="$df/dfc/version_8h.html#ab8a522fe1a0d5b87eabf61f0fe821b39" title="MAVLink lib version in binary form (first part of the git tag) " alt="" coords="633,289,797,330"/>
-<area shape="rect" id="node14" href="$df/dfc/version_8h.html#a2e921ce4d3a358e9dbdceca38290c49a" title="get the git branch name (can be empty, for example if HEAD points to a tag) " alt="" coords="389,376,555,403"/>
-<area shape="rect" id="node15" href="$df/dfc/version_8h.html#a950c8f34e84181016bac40b6c0bb39a6" title="get the PX4 Firmware vendor version " alt="" coords="399,427,545,469"/>
-<area shape="rect" id="node17" href="$df/dfc/version_8h.html#a3bf1bbb4ed59ea40e3ab9e82a8aff605" title="get the PX4 Firmware version " alt="" coords="397,493,547,520"/>
-<area shape="rect" id="node19" href="$df/dfc/version_8h.html#ab7fab56e1f0a5ad4624c1e84bc349ed7" title="Firmware version in binary form (first part of the git tag) " alt="" coords="397,545,547,586"/>
-<area shape="rect" id="node20" href="$df/dfc/version_8h.html#a64203f99ed40119a04875caaf86f841d" title="Firmware version as human readable string (git tag) " alt="" coords="397,610,547,651"/>
-<area shape="rect" id="node21" href="$df/dfc/version_8h.html#ab751f53f61e49732169cb6d2991d797d" title="name of the operating system " alt="" coords="421,676,523,703"/>
-<area shape="rect" id="node22" href="$df/dfc/version_8h.html#aec2016b0efbabe76a0381a21c439f97c" title="operating system version " alt="" coords="415,727,529,753"/>
-<area shape="rect" id="node23" href="$df/dfc/version_8h.html#ab470702c3de01adafc08a7fd156ed705" title="Operating system version in binary form (first part of the git tag) " alt="" coords="395,777,549,804"/>
-<area shape="rect" id="node24" href="$df/dfc/version_8h.html#a0993545015b8ab5acc12ea469d4ab3f0" title="Operating system version as human readable string (git tag) " alt="" coords="396,828,548,855"/>
-<area shape="rect" id="node25" href="$df/dfc/version_8h.html#adc6cf8fe137fc75e444864a0ff573b75" title="Toolchain name used to compile PX4. " alt="" coords="401,879,543,905"/>
-<area shape="rect" id="node26" href="$df/dfc/version_8h.html#a8b1f653409de952c90e955af1f917c78" title="Toolchain version used to compile PX4 (no particular format) " alt="" coords="397,929,547,956"/>
-<area shape="rect" id="node27" href="$df/dfc/version_8h.html#ae4d7c8bdf6528ebc410f1aced342f68b" title="Convert a version tag string to a number. " alt="" coords="393,980,551,1007"/>
-<area shape="rect" id="node28" href="$df/dfc/version_8h.html#ab74c0c1be88c621c4649792f2cae5343" title="Convert a version tag string to a vendor version number. " alt="" coords="395,1031,549,1073"/>
-<area shape="rect" id="node16" href="$d2/d0b/version_8c.html#a5c760dad22007876bc9e78f47bb13c3b" title="Convert a version tag string to a vendor version number. " alt="" coords="639,427,792,469"/>
-<area shape="rect" id="node18" href="$d2/d0b/version_8c.html#ad900218febe0100563d238d072ed787a" title="Convert a version tag string to a number. " alt="" coords="637,963,794,989"/>
-<area shape="rect" id="node30" href="$d6/dbe/px4fmu-v2_2init_8c.html#aa5027c4a537e5500b236e9260719510c" title="board_get_hw_version" alt="" coords="396,1097,548,1124"/>
-<area shape="rect" id="node33" href="$d6/dbe/px4fmu-v2_2init_8c.html#a53072ac60df411026acd64930d234361" title="board_get_hw_type_name" alt="" coords="385,1148,559,1175"/>
-<area shape="rect" id="node43" href="$dd/d30/module_8cpp.html#a53dcf1637cabe04fa554ef0e38f266d2" title="Print module documentation (will also be used for online documentation). " alt="" coords="359,1336,585,1363"/>
-<area shape="rect" id="node44" href="$dd/d30/module_8cpp.html#ac5bfc5f17f7305a0c6e85739cfe5100d" title="print definition for an argument, which does not have the typical &#45;p &lt;val&gt; form, but for example &#39;par..." alt="" coords="363,1387,581,1413"/>
-<area shape="rect" id="node45" href="$dd/d30/module_8cpp.html#aff1dbaa4bef630dfbdcc72bd0061c75a" title="Print a command with a short description what it does. " alt="" coords="381,1438,563,1479"/>
-<area shape="rect" id="node46" href="$dd/d30/module_8cpp.html#a06777df5209dd638c8ee6ac49331a50c" title="Print the command name. " alt="" coords="359,1504,585,1531"/>
+<area shape="rect" id="node2" href="$df/dfc/version_8h.html#ac35bb2fd94f5d8b7b3bebeb1e54a2321" title="get the board HW revision " alt="" coords="132,495,291,521"/>
+<area shape="rect" id="node22" href="$df/dfc/version_8h.html#abeb01c8ce49b0f7571b8b129419ee55f" title="get the board HW version " alt="" coords="134,575,289,601"/>
+<area shape="rect" id="node23" href="$df/dfc/version_8h.html#a4a98b20dc43b646ecb59934cc3ebb2e0" title="get the board name as string (including the version if there are multiple) " alt="" coords="151,625,272,652"/>
+<area shape="rect" id="node24" href="$df/dfc/version_8h.html#a74454c67ffa9651a44bac0ac0f588213" title="get the board sub type " alt="" coords="140,676,283,703"/>
+<area shape="rect" id="node25" href="$d2/d0b/version_8c.html#a0cb6b90f4ebff6157957b19a677fddc8" title="get the build URI (used for crash logging) " alt="" coords="162,727,261,753"/>
+<area shape="rect" id="node26" href="$d2/d0b/version_8c.html#a958077a453f3e737e49aa2b8d738ae26" title="get the git branch name (can be empty, for example if HEAD points to a tag) " alt="" coords="128,777,295,804"/>
+<area shape="rect" id="node27" href="$d2/d0b/version_8c.html#aa0dd602794ccff7523581abbe088b1ba" title="get the PX4 Firmware version " alt="" coords="137,828,286,855"/>
+<area shape="rect" id="node28" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="137,879,286,921"/>
+<area shape="rect" id="node29" href="$d2/d0b/version_8c.html#ae95cd926e4c13b6df7434db5771200ba" title="name of the operating system " alt="" coords="160,945,263,972"/>
+<area shape="rect" id="node30" href="$d2/d0b/version_8c.html#a5975808a383f520b6b92cfa71093711c" title="operating system version " alt="" coords="155,996,268,1023"/>
+<area shape="rect" id="node31" href="$d2/d0b/version_8c.html#a7265831e3a3bb9a00a8238eaaa1f9a5f" title="Operating system version as human readable string (git tag) " alt="" coords="135,1047,287,1073"/>
+<area shape="rect" id="node32" href="$d2/d0b/version_8c.html#a31abb41bc89b145f777e122bac67a828" title="Toolchain name used to compile PX4. " alt="" coords="141,1097,282,1124"/>
+<area shape="rect" id="node33" href="$d2/d0b/version_8c.html#a9aa31fe9aa21ba54142aa49766635f56" title="Toolchain version used to compile PX4 (no particular format) " alt="" coords="136,1148,287,1175"/>
+<area shape="rect" id="node34" href="$d4/d9b/ver_8c.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="183,1199,240,1225"/>
+<area shape="rect" id="node3" href="$df/dfc/version_8h.html#ad2eda9d2132382aa3ffd174669725533" title="get the board version (last 8 bytes should be silicon ID, if any) " alt="" coords="361,5,491,32"/>
+<area shape="rect" id="node4" href="$df/dfc/version_8h.html#a0cb6b90f4ebff6157957b19a677fddc8" title="get the build URI (used for crash logging) " alt="" coords="377,56,475,83"/>
+<area shape="rect" id="node5" href="$df/dfc/version_8h.html#a8bb63942dcda7c312c434c95338ee458" title="ECL lib version as human readable string (git tag) " alt="" coords="358,107,494,149"/>
+<area shape="rect" id="node6" href="$df/dfc/version_8h.html#ab8a522fe1a0d5b87eabf61f0fe821b39" title="MAVLink lib version in binary form (first part of the git tag) " alt="" coords="557,137,721,178"/>
+<area shape="rect" id="node7" href="$df/dfc/version_8h.html#a2e921ce4d3a358e9dbdceca38290c49a" title="get the git branch name (can be empty, for example if HEAD points to a tag) " alt="" coords="343,224,509,251"/>
+<area shape="rect" id="node8" href="$df/dfc/version_8h.html#a950c8f34e84181016bac40b6c0bb39a6" title="get the PX4 Firmware vendor version " alt="" coords="353,275,499,317"/>
+<area shape="rect" id="node10" href="$df/dfc/version_8h.html#a3bf1bbb4ed59ea40e3ab9e82a8aff605" title="get the PX4 Firmware version " alt="" coords="351,341,501,368"/>
+<area shape="rect" id="node12" href="$df/dfc/version_8h.html#ab7fab56e1f0a5ad4624c1e84bc349ed7" title="Firmware version in binary form (first part of the git tag) " alt="" coords="351,393,501,434"/>
+<area shape="rect" id="node13" href="$df/dfc/version_8h.html#a64203f99ed40119a04875caaf86f841d" title="Firmware version as human readable string (git tag) " alt="" coords="351,458,501,499"/>
+<area shape="rect" id="node14" href="$df/dfc/version_8h.html#ab751f53f61e49732169cb6d2991d797d" title="name of the operating system " alt="" coords="375,524,477,551"/>
+<area shape="rect" id="node15" href="$df/dfc/version_8h.html#aec2016b0efbabe76a0381a21c439f97c" title="operating system version " alt="" coords="369,575,483,601"/>
+<area shape="rect" id="node16" href="$df/dfc/version_8h.html#ab470702c3de01adafc08a7fd156ed705" title="Operating system version in binary form (first part of the git tag) " alt="" coords="349,625,503,652"/>
+<area shape="rect" id="node17" href="$df/dfc/version_8h.html#a0993545015b8ab5acc12ea469d4ab3f0" title="Operating system version as human readable string (git tag) " alt="" coords="350,676,502,703"/>
+<area shape="rect" id="node18" href="$df/dfc/version_8h.html#adc6cf8fe137fc75e444864a0ff573b75" title="Toolchain name used to compile PX4. " alt="" coords="355,727,497,753"/>
+<area shape="rect" id="node19" href="$df/dfc/version_8h.html#a8b1f653409de952c90e955af1f917c78" title="Toolchain version used to compile PX4 (no particular format) " alt="" coords="351,777,501,804"/>
+<area shape="rect" id="node20" href="$df/dfc/version_8h.html#ae4d7c8bdf6528ebc410f1aced342f68b" title="Convert a version tag string to a number. " alt="" coords="347,828,505,855"/>
+<area shape="rect" id="node21" href="$df/dfc/version_8h.html#ab74c0c1be88c621c4649792f2cae5343" title="Convert a version tag string to a vendor version number. " alt="" coords="349,879,503,921"/>
+<area shape="rect" id="node9" href="$d2/d0b/version_8c.html#a5c760dad22007876bc9e78f47bb13c3b" title="Convert a version tag string to a vendor version number. " alt="" coords="563,275,716,317"/>
+<area shape="rect" id="node11" href="$d2/d0b/version_8c.html#ad900218febe0100563d238d072ed787a" title="Convert a version tag string to a number. " alt="" coords="561,760,718,787"/>
 </map>

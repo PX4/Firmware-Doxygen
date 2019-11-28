@@ -1,0 +1,51 @@
+<map id="SF0X::Run" name="SF0X::Run">
+<area shape="rect" id="node2" href="$d7/dd9/class_s_f0_x.html#a10ad3a3321cda934a6b4d18b2ee0d02d" title="SF0X::collect" alt="" coords="153,711,255,738"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1011,535,1137,562"/>
+<area shape="rect" id="node26" href="$d7/dd9/class_s_f0_x.html#ae3b5ff03258968252a69d64f9912a6e4" title="SF0X::measure" alt="" coords="602,63,715,90"/>
+<area shape="rect" id="node29" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="140,1066,268,1093"/>
+<area shape="rect" id="node33" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="161,1167,247,1194"/>
+<area shape="rect" id="node37" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="163,1421,245,1447"/>
+<area shape="rect" id="node50" href="$d7/dd9/class_s_f0_x.html#a227a1623b932799ea107791cf9e6cd43" title="Initialise the automatic measurement state machine and start it. " alt="" coords="159,1471,249,1498"/>
+<area shape="rect" id="node3" href="$d7/dd9/class_s_f0_x.html#a4dd017ff8c655efc10720d59fc59b78e" title="SF0X::get_maximum_distance" alt="" coords="316,661,517,687"/>
+<area shape="rect" id="node4" href="$d7/dd9/class_s_f0_x.html#a0ea44079e4dd64984461b023f60e98a4" title="SF0X::get_minimum_distance" alt="" coords="318,711,515,738"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="356,469,477,495"/>
+<area shape="rect" id="node17" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="373,762,461,789"/>
+<area shape="rect" id="node20" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="617,1117,700,1143"/>
+<area shape="rect" id="node21" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="834,114,917,141"/>
+<area shape="rect" id="node22" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="623,1269,695,1295"/>
+<area shape="rect" id="node23" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="337,418,496,445"/>
+<area shape="rect" id="node25" href="$d7/dd9/class_s_f0_x.html#aa2864118158442ab07d2d4bf01da013b" title="Perform a read from the device. " alt="" coords="373,367,461,394"/>
+<area shape="rect" id="node28" href="$d2/df7/sf0x__parser_8cpp.html#a5699796c4e4b3d1496fe10d5e2373f62" title="sf0x_parser" alt="" coords="371,610,462,637"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="610,367,707,394"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="617,418,700,445"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="607,469,710,495"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="607,519,710,546"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="615,570,703,597"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="619,621,698,647"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="617,671,700,698"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="575,215,742,242"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="628,266,689,293"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="578,317,739,343"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="587,788,730,829"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="587,723,730,764"/>
+<area shape="rect" id="node24" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="565,114,752,141"/>
+<area shape="rect" id="node27" href="$d8/d26/classcdev_1_1_c_dev.html#a6886fbadc7d03cf75dbd5a69a69399a8" title="Perform a write to the device. " alt="" coords="811,63,939,90"/>
+<area shape="rect" id="node30" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="355,1066,479,1093"/>
+<area shape="rect" id="node31" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="338,1117,495,1143"/>
+<area shape="rect" id="node32" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="347,1015,486,1042"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="349,1218,484,1245"/>
+<area shape="rect" id="node35" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="800,1294,951,1321"/>
+<area shape="rect" id="node36" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="575,1167,742,1194"/>
+<area shape="rect" id="node38" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="639,1725,678,1751"/>
+<area shape="rect" id="node40" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="817,1598,933,1625"/>
+<area shape="rect" id="node42" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="345,1370,488,1397"/>
+<area shape="rect" id="node44" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="351,1319,483,1346"/>
+<area shape="rect" id="node45" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="610,1522,707,1549"/>
+<area shape="rect" id="node46" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="351,1573,483,1599"/>
+<area shape="rect" id="node47" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="613,1623,704,1650"/>
+<area shape="rect" id="node48" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="372,1421,461,1447"/>
+<area shape="rect" id="node49" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="343,1522,490,1549"/>
+<area shape="rect" id="node39" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="834,1725,917,1751"/>
+<area shape="rect" id="node41" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="999,1598,1149,1625"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="601,1370,717,1397"/>
+</map>

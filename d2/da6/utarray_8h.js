@@ -30,9 +30,9 @@ var utarray_8h =
     [ "utarray_resize", "d2/da6/utarray_8h.html#a99dc9103176f98abd0216bfe3034a77f", null ],
     [ "utarray_sort", "d2/da6/utarray_8h.html#abc68be76f03d375a20e883f343b510d7", null ],
     [ "UTARRAY_VERSION", "d2/da6/utarray_8h.html#a7442b085b33c91368adc20b36602bfc5", null ],
-    [ "ctor_f", "d2/da6/utarray_8h.html#a39f9285348c36c106a8407584519727a", null ],
-    [ "dtor_f", "d2/da6/utarray_8h.html#aba771aa4943a8d7f336e733cf105bfb4", null ],
-    [ "init_f", "d2/da6/utarray_8h.html#a4e45ad944e4b090436906f9e4650113c", null ],
+    [ "ctor_f", "d2/da6/utarray_8h.html#ad931ba49cf13f7303667ed0d8a6e5d93", null ],
+    [ "dtor_f", "d2/da6/utarray_8h.html#a500c5b77d5cc17d65406e75636778aab", null ],
+    [ "init_f", "d2/da6/utarray_8h.html#aeb7c14b677a2d1e28df69df28be4b462", null ],
     [ "utarray_str_cpy", "d2/da6/utarray_8h.html#a9bdb9c3646dc79c563fee689207e1b1f", null ],
     [ "utarray_str_dtor", "d2/da6/utarray_8h.html#a5f5111707e875fd01f66f105aec26c54", null ],
     [ "_UNUSED_", "d2/da6/utarray_8h.html#a09b44613ec150392262e4c9d46088d07", null ]

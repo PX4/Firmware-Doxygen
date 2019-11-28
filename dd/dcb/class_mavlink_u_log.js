@@ -1,15 +1,14 @@
 var class_mavlink_u_log =
 [
     [ "MavlinkULog", "dd/dcb/class_mavlink_u_log.html#af6ec3ab02c7c79804d53be131c9264e3", null ],
-    [ "~MavlinkULog", "dd/dcb/class_mavlink_u_log.html#a826e34fe44f9f752c43501548ad7d278", null ],
+    [ "~MavlinkULog", "dd/dcb/class_mavlink_u_log.html#afa23dd7c848ea071ff12b381b7e833a1", null ],
     [ "MavlinkULog", "dd/dcb/class_mavlink_u_log.html#a763352699ff3246d6a793e39af756d21", null ],
-    [ "current_data_rate", "dd/dcb/class_mavlink_u_log.html#ab5a17138fdb8967bd36342fea210771f", null ],
-    [ "get_ulog_stream_fd", "dd/dcb/class_mavlink_u_log.html#a3bcf5b85782813310fbf6ed8bba8cbf9", null ],
+    [ "current_data_rate", "dd/dcb/class_mavlink_u_log.html#a70eefad9c98ed7071576f680b4ee36b2", null ],
     [ "handle_ack", "dd/dcb/class_mavlink_u_log.html#a3bbc34cea886e7ff388de6412bcc0659", null ],
     [ "handle_update", "dd/dcb/class_mavlink_u_log.html#a0139fd25db11f0ce3159b7cdd5b5622d", null ],
     [ "initialize", "dd/dcb/class_mavlink_u_log.html#a65d2d1e3d7b00cee85c61af3fa468a35", null ],
     [ "lock", "dd/dcb/class_mavlink_u_log.html#ab3e3d607158eea82aa0016256eb06da4", null ],
-    [ "maximum_data_rate", "dd/dcb/class_mavlink_u_log.html#aa4d42b97c5b58169d630cfd507e859bc", null ],
+    [ "maximum_data_rate", "dd/dcb/class_mavlink_u_log.html#a3e20dcd90c613619e7f761b14110e711", null ],
     [ "operator=", "dd/dcb/class_mavlink_u_log.html#a5b4770aecbfd50b5bb8c2e00b6e68114", null ],
     [ "publish_ack", "dd/dcb/class_mavlink_u_log.html#a8656441a029e32e0f7d4530463161195", null ],
     [ "start_ack_received", "dd/dcb/class_mavlink_u_log.html#ae91afd76c35f0e59159594776ad491a4", null ],
@@ -30,9 +29,8 @@ var class_mavlink_u_log =
     [ "_sent_tries", "dd/dcb/class_mavlink_u_log.html#a123715dadd2e0157e64482337fb432d0", null ],
     [ "_target_component", "dd/dcb/class_mavlink_u_log.html#aa2ba8c4c3927920014d6d1c22e2379ec", null ],
     [ "_target_system", "dd/dcb/class_mavlink_u_log.html#a2ecf15dfe48b1ed52e2cf6ac7f1e5e57", null ],
-    [ "_ulog_data", "dd/dcb/class_mavlink_u_log.html#ae6ec7a6879e5197f0a735f6ec9bd6c62", null ],
-    [ "_ulog_stream_ack_pub", "dd/dcb/class_mavlink_u_log.html#a2e65290f21ee7f02a122f482fb95ed20", null ],
-    [ "_ulog_stream_sub", "dd/dcb/class_mavlink_u_log.html#a75e3ddbee027825c0f5eb575b9434fdf", null ],
+    [ "_ulog_stream_ack_pub", "dd/dcb/class_mavlink_u_log.html#ad2e58e03bcbcaff08f33f665edbd4f56", null ],
+    [ "_ulog_stream_sub", "dd/dcb/class_mavlink_u_log.html#a9734796a85601a7637a2da752f16bacd", null ],
     [ "_wait_for_ack_sequence", "dd/dcb/class_mavlink_u_log.html#ae59e3c16569f5d0d2a191dda120cdcc4", null ],
     [ "_waiting_for_initial_ack", "dd/dcb/class_mavlink_u_log.html#aca9fadb817fd5c96361148f66f63586b", null ]
 ];

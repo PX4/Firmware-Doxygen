@@ -4,8 +4,6 @@ var class_l_s_m303_a_g_r =
     [ "~LSM303AGR", "dc/d46/class_l_s_m303_a_g_r.html#a998c9497b9bdb39b97d98c82132e7080", null ],
     [ "LSM303AGR", "dc/d46/class_l_s_m303_a_g_r.html#a56a4b7a69c744110258ba008c1900190", null ],
     [ "collect", "dc/d46/class_l_s_m303_a_g_r.html#af81f559db8124d052eed917f7138f226", null ],
-    [ "cycle", "dc/d46/class_l_s_m303_a_g_r.html#a42c0c5b8ab244453d11b4283ceb6a7a0", null ],
-    [ "cycle_trampoline", "dc/d46/class_l_s_m303_a_g_r.html#ab5c17200646a8943f6359c15051605e7", null ],
     [ "init", "dc/d46/class_l_s_m303_a_g_r.html#adf7f920b237002f6c8e4d535b6a3fa02", null ],
     [ "ioctl", "dc/d46/class_l_s_m303_a_g_r.html#aa4bb36d27f6af7b89db316d9c871d3a2", null ],
     [ "measure", "dc/d46/class_l_s_m303_a_g_r.html#ab0b80c94cf3775899e28c5752000c476", null ],
@@ -14,6 +12,7 @@ var class_l_s_m303_a_g_r =
     [ "probe", "dc/d46/class_l_s_m303_a_g_r.html#abf25787c77e782c2cd56ea777fe46b20", null ],
     [ "read_reg", "dc/d46/class_l_s_m303_a_g_r.html#acd733b03256ec949145b2ea40782460a", null ],
     [ "reset", "dc/d46/class_l_s_m303_a_g_r.html#a1a8420ed83e9a80b626e25d1a65f006a", null ],
+    [ "Run", "dc/d46/class_l_s_m303_a_g_r.html#a73e1197f1e4cb373adc70ed464f54875", null ],
     [ "self_test", "dc/d46/class_l_s_m303_a_g_r.html#a125bfe1feebc232c6f19b0748582b813", null ],
     [ "start", "dc/d46/class_l_s_m303_a_g_r.html#abf655b63f1ac173e11bfc40b5706c55e", null ],
     [ "stop", "dc/d46/class_l_s_m303_a_g_r.html#a9d84f7368423fffe39cd069a879b72ca", null ],
@@ -30,7 +29,6 @@ var class_l_s_m303_a_g_r =
     [ "_mag_samplerate", "dc/d46/class_l_s_m303_a_g_r.html#aacec886a8068b8cef6fb9d097db67766", null ],
     [ "_mag_scale", "dc/d46/class_l_s_m303_a_g_r.html#a3b15b2e174b7edf81656e1843fd9b57c", null ],
     [ "_mag_topic", "dc/d46/class_l_s_m303_a_g_r.html#a9753a8b5e06c3d345228362ef1baa53b", null ],
-    [ "_measure_ticks", "dc/d46/class_l_s_m303_a_g_r.html#abe5bb256f4d1777e248865d719bd123b", null ],
-    [ "_rotation", "dc/d46/class_l_s_m303_a_g_r.html#af9feed211ea21ae70e90e899c661ac33", null ],
-    [ "_work", "dc/d46/class_l_s_m303_a_g_r.html#adec58cfef547e5694676d1d207a29605", null ]
+    [ "_measure_interval", "dc/d46/class_l_s_m303_a_g_r.html#a580d78df755226eca0f2826d6fed2731", null ],
+    [ "_rotation", "dc/d46/class_l_s_m303_a_g_r.html#af9feed211ea21ae70e90e899c661ac33", null ]
 ];

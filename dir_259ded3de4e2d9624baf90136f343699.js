@@ -2,6 +2,7 @@ var dir_259ded3de4e2d9624baf90136f343699 =
 [
     [ "calcH_YAW312.c", "d1/de3/calc_h___y_a_w312_8c.html", "d1/de3/calc_h___y_a_w312_8c" ],
     [ "calcH_YAW321.c", "d1/d7b/calc_h___y_a_w321_8c.html", "d1/d7b/calc_h___y_a_w321_8c" ],
+    [ "calcH_YAWGPS.c", "d6/d71/calc_h___y_a_w_g_p_s_8c.html", "d6/d71/calc_h___y_a_w_g_p_s_8c" ],
     [ "calcMAGD.c", "d0/d40/calc_m_a_g_d_8c.html", "d0/d40/calc_m_a_g_d_8c" ],
     [ "H_LOSX.c", "da/d92/_h___l_o_s_x_8c.html", "da/d92/_h___l_o_s_x_8c" ],
     [ "H_LOSY.c", "dd/de0/_h___l_o_s_y_8c.html", "dd/de0/_h___l_o_s_y_8c" ],
@@ -22,5 +23,6 @@ var dir_259ded3de4e2d9624baf90136f343699 =
     [ "Tbn_321.c", "d9/d72/_tbn__321_8c.html", "d9/d72/_tbn__321_8c" ],
     [ "Tbn_quat.c", "d7/d86/_tbn__quat_8c.html", "d7/d86/_tbn__quat_8c" ],
     [ "yaw_input_312.c", "d0/d9c/yaw__input__312_8c.html", "d0/d9c/yaw__input__312_8c" ],
-    [ "yaw_input_321.c", "dd/df1/yaw__input__321_8c.html", "dd/df1/yaw__input__321_8c" ]
+    [ "yaw_input_321.c", "dd/df1/yaw__input__321_8c.html", "dd/df1/yaw__input__321_8c" ],
+    [ "YawCovariance.c", "d8/dce/_yaw_covariance_8c.html", "d8/dce/_yaw_covariance_8c" ]
 ];

@@ -3,7 +3,7 @@ var class_e_c_l___l1___pos___controller =
     [ "bearing_error", "d9/dbb/class_e_c_l___l1___pos___controller.html#a3749a74dab55655c293aa8d664a52cb2", null ],
     [ "circle_mode", "d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19", null ],
     [ "crosstrack_error", "d9/dbb/class_e_c_l___l1___pos___controller.html#a09321a7ee00cffd28ba031758af02f85", null ],
-    [ "get_local_planar_vector", "d9/dbb/class_e_c_l___l1___pos___controller.html#a44d8387e2e22bf4df57d10cdb5bcc8d1", null ],
+    [ "get_local_planar_vector", "d9/dbb/class_e_c_l___l1___pos___controller.html#af693c7fe83fbb45f103062f97e412aae", null ],
     [ "get_roll_setpoint", "d9/dbb/class_e_c_l___l1___pos___controller.html#a8ea4156a2d5569653dc12f58acbc2d83", null ],
     [ "nav_bearing", "d9/dbb/class_e_c_l___l1___pos___controller.html#a0b85d2795cd09a2d17fb90aa0980dd23", null ],
     [ "nav_lateral_acceleration_demand", "d9/dbb/class_e_c_l___l1___pos___controller.html#a6981ae139b114e17944206a7bb50e4b7", null ],

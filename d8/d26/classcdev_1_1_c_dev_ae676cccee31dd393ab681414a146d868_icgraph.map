@@ -1,0 +1,51 @@
+<map id="cdev::CDev::lock" name="cdev::CDev::lock">
+<area shape="rect" id="node2" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abb03278ff4ddd2a50e0f2996e856f2cc" title="Add the subscriber to the node&#39;s list of subscriber. " alt="" coords="187,64,354,105"/>
+<area shape="rect" id="node4" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a515a8172e098db6dbd1641aa9dd389bc" title="Method to create a subscriber instance and return the struct pointing to the subscriber as a file poi..." alt="" coords="419,71,594,98"/>
+<area shape="rect" id="node5" href="$df/d64/class_p_x4_f_m_u.html#a7845444c5a576641e216286124712840" title="PX4FMU::capture_ioctl" alt="" coords="191,1237,350,1263"/>
+<area shape="rect" id="node8" href="$d9/d95/class_d_shot_output.html#a410e2a0c532a39ef17fc71d293935fa9" title="DShotOutput::capture\l_ioctl" alt="" coords="196,1288,345,1329"/>
+<area shape="rect" id="node10" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="205,619,336,646"/>
+<area shape="rect" id="node30" href="$d7/d56/class_p_w_m_sim.html#a985d383649c7ed237c7a388840b5182f" title="Perform an ioctl operation on the device. " alt="" coords="215,1085,326,1111"/>
+<area shape="rect" id="node31" href="$d9/dc3/class_uavcan_esc.html#a8da2aee5df75e74f8ddcc6b7e4695117" title="UavcanEsc::ioctl" alt="" coords="209,1135,332,1162"/>
+<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a3f05b62db80b290d62e75918baf371fb" title="IOCTL control for the subscriber. " alt="" coords="185,1186,356,1213"/>
+<area shape="rect" id="node33" href="$d5/d94/class_uavcan_node.html#ae38e5d0f6e032b6296f6657e9f9d5f1b" title="UavcanNode::ioctl" alt="" coords="205,1405,336,1431"/>
+<area shape="rect" id="node35" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a030ab8d234bcc6ef5850b4d8fabf1ba5" title="UavcanMagnetometerBridge\l::mag2_sub_cb" alt="" coords="177,1587,364,1628"/>
+<area shape="rect" id="node38" href="$d2/d84/class_uavcan_magnetometer_bridge.html#ae7742c4ca8efed71edd53772c0f587df" title="UavcanMagnetometerBridge\l::mag_sub_cb" alt="" coords="177,1521,364,1563"/>
+<area shape="rect" id="node39" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="207,966,335,993"/>
+<area shape="rect" id="node41" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a4f8a7f487159aacf572cf049a8920f71" title="Print statistics (nr of lost messages) " alt="" coords="185,1456,356,1497"/>
+<area shape="rect" id="node42" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="199,1034,342,1061"/>
+<area shape="rect" id="node43" href="$d9/d95/class_d_shot_output.html#a3bc1a8ef5f4e75bdb746fad3e58913ab" title="DShotOutput::pwm_ioctl" alt="" coords="188,1354,353,1381"/>
+<area shape="rect" id="node44" href="$de/d9b/class_mavlink2_dev.html#aa5a72c7716c2e62aefdc4ebe1b87270f" title="Mavlink2Dev::read" alt="" coords="205,1653,336,1679"/>
+<area shape="rect" id="node45" href="$d3/dca/class_rtps_dev.html#a1d83429d1f0e0c12dd6f719dfdfd939c" title="RtpsDev::read" alt="" coords="217,1703,324,1730"/>
+<area shape="rect" id="node46" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ab4d0aa7c41ff0a8b2bf7b88fdc03d13d" title="Removes the subscriber from the list. " alt="" coords="412,1797,601,1839"/>
+<area shape="rect" id="node47" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="206,1805,335,1831"/>
+<area shape="rect" id="node48" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a86db9fc8d841b0a4748611cec14ea546" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="183,1855,358,1882"/>
+<area shape="rect" id="node49" href="$de/d9b/class_mavlink2_dev.html#a75ed2f73e2ff542eb333aa2befe1a142" title="Mavlink2Dev::write" alt="" coords="203,1906,338,1933"/>
+<area shape="rect" id="node50" href="$d3/dca/class_rtps_dev.html#ae18cc4620dbe8d796cc6e7172b97ff85" title="RtpsDev::write" alt="" coords="215,1957,326,1983"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="437,5,576,47"/>
+<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="453,1303,561,1330"/>
+<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="689,1253,796,1279"/>
+<area shape="rect" id="node9" href="$d9/d95/class_d_shot_output.html#afb98bcae17036cd70fb6e9e55fced242" title="DShotOutput::ioctl" alt="" coords="441,1354,572,1381"/>
+<area shape="rect" id="node11" href="$db/d95/namespacecdev.html#a25f5ac9e7d3ac28ba818a0387a5c6ff3" title="cdev::cdev_close" alt="" coords="445,375,569,402"/>
+<area shape="rect" id="node12" href="$d9/d04/class_iridium_s_b_d.html#ab29a80aa1d6f79a9cdf21ed7d87553b5" title="IridiumSBD::main_loop\l_helper" alt="" coords="429,427,585,468"/>
+<area shape="rect" id="node13" href="$d7/d01/class_radar.html#a1ac9fa9f7138605dcf2c224d08555326" title="Opens and configures the UART serial communications port. " alt="" coords="427,1050,587,1077"/>
+<area shape="rect" id="node14" href="$d2/d79/class_leddar_one.html#a83cd45b9fdc241c2cb9fe2fc3fb3cbe3" title="Opens and configures the UART serial communications port. " alt="" coords="413,695,601,722"/>
+<area shape="rect" id="node15" href="$d1/dde/class_p_x4_i_o.html#a742baa5843143d89cd3d0c9672e812c9" title="Fetch and print debug console output. " alt="" coords="439,898,575,925"/>
+<area shape="rect" id="node16" href="$d9/d8a/pwm__input_8cpp.html#a4658b15547e43f31bec405241bc8ffb4" title="pwmin_reset" alt="" coords="459,493,555,519"/>
+<area shape="rect" id="node17" href="$d9/d8a/pwm__input_8cpp.html#a76325d72f5aa84964deb9647f3cb1197" title="pwmin_test" alt="" coords="462,543,551,570"/>
+<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="466,122,547,149"/>
+<area shape="rect" id="node19" href="$d1/dde/class_p_x4_i_o.html#aa3518cfa9b8427a799fe364479aeefa3" title="Set the update rate for actuator outputs from FMU to IO. " alt="" coords="661,594,824,621"/>
+<area shape="rect" id="node20" href="$d1/d3d/namespacempl3115a2.html#a1ae84ea0cbd2a6e948546da375d815f5" title="Start the driver. " alt="" coords="433,949,580,975"/>
+<area shape="rect" id="node21" href="$d8/d04/namespacelps25h.html#a2b235fc73bc7afc3b81791a2e4775e56" title="start driver for a specific bus option " alt="" coords="445,999,568,1026"/>
+<area shape="rect" id="node22" href="$de/df0/namespaceqmc5883.html#a919d025b4eba2bc6669ec0c0fb65a4a2" title="start driver for a specific bus option " alt="" coords="438,746,575,773"/>
+<area shape="rect" id="node23" href="$d9/d04/class_iridium_s_b_d.html#a1591df480141fb95f17d60876108a37e" title="IridiumSBD::stop" alt="" coords="445,223,568,250"/>
+<area shape="rect" id="node24" href="$d2/d79/class_leddar_one.html#aa372cdb2dc527deabf4613cf1d0ac41c" title="Stop the automatic measurement state machine. " alt="" coords="447,274,566,301"/>
+<area shape="rect" id="node25" href="$d7/d01/class_radar.html#a581fbeeecbfd31f847093b36599409ab" title="Stops the automatic measurement state machine. " alt="" coords="461,325,552,351"/>
+<area shape="rect" id="node26" href="$d7/d35/namespaceleddar__one.html#a87cf43fbfe592e9e3db4655dc89973aa" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="449,797,564,823"/>
+<area shape="rect" id="node27" href="$d1/d3d/namespacempl3115a2.html#a16eaa68b5e148b43872cf35802cdcca1" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="449,847,564,874"/>
+<area shape="rect" id="node28" href="$d8/d04/namespacelps25h.html#accc089fb6426d2bed21ea7513ce0b70f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="461,594,552,621"/>
+<area shape="rect" id="node29" href="$d6/dec/class_a_d_c.html#a9d2929cbcfbf495a5ea6f50523adea76" title="Sample a single channel and return the measured value. " alt="" coords="692,898,793,925"/>
+<area shape="rect" id="node34" href="$d5/d94/class_uavcan_node.html#aa5f18742853ca1adad2e98067f0806d7" title="UavcanNode::run" alt="" coords="445,1405,569,1431"/>
+<area shape="rect" id="node36" href="$d2/d84/class_uavcan_magnetometer_bridge.html#accc12d5f6c222bce34170d754b07c79a" title="Returns ASCII name of the bridge. " alt="" coords="649,1555,836,1596"/>
+<area shape="rect" id="node37" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a2db82fe9dd1e8122ab33ce1028dadb99" title="Starts the bridge. " alt="" coords="413,1555,600,1596"/>
+<area shape="rect" id="node40" href="$d8/d04/namespacelps25h.html#a3b32f17e285a77349a84f2c06268f1c5" title="Reset the driver. " alt="" coords="458,1202,555,1229"/>
+</map>

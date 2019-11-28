@@ -1,51 +1,32 @@
 <map id="UavcanNode::run" name="UavcanNode::run">
-<area shape="rect" id="node2" href="$d5/d94/class_uavcan_node.html#ac1d73a25e29a58850a05fedc6c3c85bf" title="add a fd to poll list, returning index into _poll_fds[] " alt="" coords="440,19,612,46"/>
-<area shape="rect" id="node3" href="$d5/d94/class_uavcan_node.html#af442eb446291881f995b9380c5b84b0e" title="UavcanNode::arm_actuators" alt="" coords="183,405,372,431"/>
-<area shape="rect" id="node5" href="$d1/dfe/class_uavcan_esc_controller.html#aaaa622474f9ac6e7469fc3bcef44b4b9" title="UavcanEscController\l::arm_single_esc" alt="" coords="204,456,351,497"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="207,573,348,599"/>
-<area shape="rect" id="node10" href="$d1/dfe/class_uavcan_esc_controller.html#a8bc0ccc221b981c250cbf7a3f644250a" title="UavcanEscController\l::enable_idle_throttle\l_when_armed" alt="" coords="204,623,351,679"/>
-<area shape="rect" id="node13" href="$d5/d94/class_uavcan_node.html#a81f65aa5540136ff95e100e7f653428d" title="UavcanNode::handle\l_time_sync" alt="" coords="205,703,349,744"/>
-<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="463,806,589,833"/>
-<area shape="rect" id="node15" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="218,886,337,913"/>
-<area shape="rect" id="node17" href="$d5/d94/class_uavcan_node.html#a6866b73db9f4f831bf9d8ed5f4228e22" title="UavcanNode::node_spin_once" alt="" coords="177,937,377,963"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="208,522,347,549"/>
-<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="236,187,319,214"/>
-<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="240,253,315,279"/>
-<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="475,70,577,97"/>
-<area shape="rect" id="node28" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="467,339,585,366"/>
-<area shape="rect" id="node30" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="217,987,338,1014"/>
-<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="212,1038,343,1065"/>
-<area shape="rect" id="node35" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="208,1089,347,1115"/>
-<area shape="rect" id="node36" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="201,1139,354,1166"/>
-<area shape="rect" id="node37" href="$d5/d94/class_uavcan_node.html#a9ead06803d34d24e02df8dfc5667d09a" title="UavcanNode::request\l_fw_check" alt="" coords="203,1191,352,1232"/>
-<area shape="rect" id="node40" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="193,1447,361,1474"/>
-<area shape="rect" id="node42" href="$d5/d94/class_uavcan_node.html#a5eef4e9ca2e3786ffc34e5856c0dca66" title="UavcanNode::start_fw\l_server" alt="" coords="201,1381,354,1423"/>
-<area shape="rect" id="node45" href="$d5/d94/class_uavcan_node.html#a9a19e6fde448971a340ef17353f3f607" title="UavcanNode::stop_fw\l_server" alt="" coords="201,1280,353,1321"/>
-<area shape="rect" id="node47" href="$d5/d94/class_uavcan_node.html#afd5f172faafa2f8df4562c4995c61aa4" title="UavcanNode::subscribe" alt="" coords="196,74,359,101"/>
-<area shape="rect" id="node48" href="$d5/d94/class_uavcan_node.html#aaa11d6971ea44b8e9a51c58dae73f8ba" title="UavcanNode::teardown" alt="" coords="198,354,357,381"/>
-<area shape="rect" id="node49" href="$d1/dfe/class_uavcan_esc_controller.html#a14a693863f93f2bbf4e505d538d35559" title="UavcanEscController\l::update_outputs" alt="" coords="204,820,351,861"/>
-<area shape="rect" id="node50" href="$d5/d94/class_uavcan_node.html#af78e1cd59c28c014665d451d8ebc709c" title="UavcanNode::update\l_params" alt="" coords="205,1499,350,1540"/>
-<area shape="rect" id="node4" href="$d1/dfe/class_uavcan_esc_controller.html#af89520e51383295ac66c1cdfe623bd46" title="UavcanEscController\l::arm_all_escs" alt="" coords="453,391,599,432"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="459,522,593,549"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="441,623,611,650"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="452,573,600,599"/>
-<area shape="rect" id="node11" href="$d1/dfe/class_uavcan_esc_controller.html#a0cf4cd89136cdf22b191872966120da7" title="ESC status message reception will be reported via this callback. " alt="" coords="453,675,599,716"/>
-<area shape="rect" id="node12" href="$d1/dfe/class_uavcan_esc_controller.html#aa9049c1d0449f0f777e499ae9a68d4e8" title="ESC status will be published to ORB from this callback (fixed rate). " alt="" coords="453,740,599,781"/>
-<area shape="rect" id="node16" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="485,857,567,883"/>
-<area shape="rect" id="node18" href="$d2/d2d/class_i_tx_queue_injector.html#a6812967843ef9a20e548e9e40ca6a3d3" title="Flush contents of TX queues into the main node. " alt="" coords="445,908,607,949"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="457,456,595,497"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="688,205,831,247"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="455,121,597,163"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="437,289,615,315"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="688,63,831,104"/>
-<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="688,332,831,373"/>
-<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="457,973,595,1015"/>
-<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="461,1039,591,1080"/>
-<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="449,1104,603,1145"/>
-<area shape="rect" id="node38" href="$d3/df7/class_uavcan_servers.html#af2ba5288f15306aff9e53610fc09413f" title="UavcanServers::instance" alt="" coords="675,1313,844,1339"/>
-<area shape="rect" id="node39" href="$d3/df7/class_uavcan_servers.html#a610b0b9da62dfcf02a10ccf2c35853cb" title="UavcanServers::requestCheck\lAllNodesFirmwareAndUpdate" alt="" coords="425,1221,627,1263"/>
-<area shape="rect" id="node41" href="$de/d2d/class_mixer.html#a6438664d6059e84a1689cca3637ce8d4" title="Set airmode. " alt="" coords="459,1557,593,1583"/>
-<area shape="rect" id="node43" href="$d3/df7/class_uavcan_servers.html#a9a445e4c7b5cf6ba6a357805a90f55bf" title="UavcanServers::start" alt="" coords="453,1439,599,1466"/>
-<area shape="rect" id="node44" href="$d3/df7/class_uavcan_servers.html#a5356cf597a00fa11c5170646929ebc50" title="UavcanServers::attachITx\lQueueInjector" alt="" coords="439,1491,613,1532"/>
-<area shape="rect" id="node46" href="$d3/df7/class_uavcan_servers.html#a25bdba178f19a932338bbe0355af8147" title="UavcanServers::stop" alt="" coords="453,1338,599,1365"/>
+<area shape="rect" id="node2" href="$df/db4/namespaceuavcan__stm32_1_1clock.html#a2da9b5feeffe9c3ef45fc36a17cde934" title="Returns UTC time if it has been set, otherwise returns zero time. " alt="" coords="197,5,344,47"/>
+<area shape="rect" id="node3" href="$df/db4/namespaceuavcan__stm32_1_1clock.html#a720c7d0132fffad48b35465450f3137c" title="Number of non&#45;gradual adjustments performed so far. " alt="" coords="197,71,344,112"/>
+<area shape="rect" id="node4" href="$df/db4/namespaceuavcan__stm32_1_1clock.html#a8242cff21b416ac2e5486210726f550c" title="Clock rate error. " alt="" coords="177,136,364,177"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="219,202,322,229"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="229,253,312,279"/>
+<area shape="rect" id="node7" href="$d6/d4d/uavcanesc_2indication__controller_8cpp.html#af56aa90c1905a7c6533f02b1a0f0b7f1" title="init_indication_controller" alt="" coords="190,303,351,330"/>
+<area shape="rect" id="node8" href="$db/d4d/sim__controller_8cpp.html#ad8598037951a1dbe68a1b230147abdf8" title="init_sim_controller" alt="" coords="207,354,334,381"/>
+<area shape="rect" id="node9" href="$d5/d94/class_uavcan_node.html#ae38e5d0f6e032b6296f6657e9f9d5f1b" title="UavcanNode::ioctl" alt="" coords="205,405,336,431"/>
+<area shape="rect" id="node21" href="$df/db4/namespaceuavcan__stm32_1_1clock.html#a9f22f8bd76dc520aa2a24de2ffae7316" title="Whether UTC is synchronized and locked. " alt="" coords="197,507,344,548"/>
+<area shape="rect" id="node22" href="$d2/d70/namespace_micro_bench_h_r_t.html#aca2d9f12c0defb51efac182da6a55f12" title="MicroBenchHRT::lock" alt="" coords="195,573,346,599"/>
+<area shape="rect" id="node23" href="$d5/d94/class_uavcan_node.html#a1e9be239043a69bbe61662b21ec9e511" title="UavcanNode::print_info" alt="" coords="191,455,350,482"/>
+<area shape="rect" id="node28" href="$d1/dfc/uavcannode__main_8cpp.html#a5988d6a8e4616127d8adf181a52c1da1" title="signal_callback" alt="" coords="215,623,326,650"/>
+<area shape="rect" id="node30" href="$d5/d94/class_uavcan_node.html#aaa11d6971ea44b8e9a51c58dae73f8ba" title="UavcanNode::teardown" alt="" coords="191,674,350,701"/>
+<area shape="rect" id="node31" href="$d2/d70/namespace_micro_bench_h_r_t.html#ac6bf27b1e2346f606a10e520ea86cb7f" title="MicroBenchHRT::unlock" alt="" coords="188,725,353,751"/>
+<area shape="rect" id="node10" href="$d3/df7/class_uavcan_servers.html#a941ef9af47117699d177eb45f4de2b1b" title="UavcanServers::guessIfAll\lDynamicNodesAreAllocated" alt="" coords="434,368,621,409"/>
+<area shape="rect" id="node11" href="$d3/df7/class_uavcan_servers.html#af2ba5288f15306aff9e53610fc09413f" title="UavcanServers::instance" alt="" coords="443,434,612,461"/>
+<area shape="rect" id="node12" href="$da/d43/class_mixing_output.html#afcb0e6214f5b6f2a7f3dbcd15f11d28c" title="Load (append) a new mixer from a buffer, called from another thread. " alt="" coords="412,149,643,175"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="465,199,589,226"/>
+<area shape="rect" id="node16" href="$de/d1e/class_uavcan_mixing_interface.html#a2f2a89f5ea9be4c83ba592eaa3e17a07" title="UavcanMixingInterface\l::mixingOutput" alt="" coords="449,485,605,527"/>
+<area shape="rect" id="node18" href="$da/d43/class_mixing_output.html#a2468e5db2b2f06f64e58f02c6cbf3952" title="Reset (unload) the complete mixer, called from another thread. " alt="" coords="443,83,611,124"/>
+<area shape="rect" id="node19" href="$d8/d8b/class_uavcan_hardpoint_controller.html#a3230840bb39f13e921a38e5397301b46" title="UavcanHardpointController\l::set_command" alt="" coords="438,251,617,292"/>
+<area shape="rect" id="node20" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="458,317,597,343"/>
+<area shape="rect" id="node13" href="$da/d43/class_mixing_output.html#a68f6d2d353b0760d70368169b2d540c7" title="MixingOutput::lock" alt="" coords="723,147,853,174"/>
+<area shape="rect" id="node14" href="$da/d43/class_mixing_output.html#ab5e3af89fb50a1e7224a65352cc4f451" title="MixingOutput::unlock" alt="" coords="715,93,861,119"/>
+<area shape="rect" id="node17" href="$de/d1e/class_uavcan_mixing_interface.html#a17f65403dd59a874ad40f5d3f4333cdd" title="UavcanMixingInterface::Run" alt="" coords="694,489,882,515"/>
+<area shape="rect" id="node24" href="$df/d7b/perf__counter_8cpp.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="725,606,851,633"/>
+<area shape="rect" id="node26" href="$da/d43/class_mixing_output.html#aa53188e842781dd75c1d905c6dd77e19" title="MixingOutput::printStatus" alt="" coords="442,551,613,578"/>
+<area shape="rect" id="node25" href="$df/d7b/perf__counter_8cpp.html#ac15423e549766f6c8eaca3478223e5f2" title="Print one performance counter to a fd. " alt="" coords="933,606,1077,633"/>
+<area shape="rect" id="node27" href="$da/d43/class_mixing_output.html#a090f30755823995f0fdcb200f28c491b" title="Get the motor index that maps from PX4 convention to the configured one. " alt="" coords="691,540,885,581"/>
+<area shape="rect" id="node29" href="$d5/d94/class_uavcan_node.html#ad9379f69195e6ab2eeb48de89f8fd1ef" title="UavcanNode::busevent\l_signal_trampoline" alt="" coords="448,653,607,695"/>
 </map>

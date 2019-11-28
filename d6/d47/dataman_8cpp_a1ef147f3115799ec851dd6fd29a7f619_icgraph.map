@@ -1,51 +1,51 @@
 <map id="dequeue_work_item" name="dequeue_work_item">
-<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="192,784,275,811"/>
-<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="323,784,371,811"/>
-<area shape="rect" id="node4" href="$df/de8/class_r_g_b_l_e_d.html#a74afa10502bae4312526faaa39cfa965" title="RGBLED::start" alt="" coords="462,43,573,69"/>
-<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#aa3518cfa9b8427a799fe364479aeefa3" title="Set the update rate for actuator outputs from FMU to IO. " alt="" coords="671,132,833,159"/>
-<area shape="rect" id="node8" href="$de/dfe/px4io_8cpp.html#ab5e695dd74013984141ba0a62efe22fa" title="px4io_main" alt="" coords="473,144,561,171"/>
-<area shape="rect" id="node9" href="$d6/d52/attitude__estimator__q__main_8cpp.html#af227901bb30584f97d73a041239b2d4f" title="attitude_estimator\l_q_main" alt="" coords="454,195,581,237"/>
-<area shape="rect" id="node10" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="449,261,585,288"/>
-<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a6418d61c47cdbb8ffb7b57ddbe5f90bf" title="dataman_main" alt="" coords="464,312,571,339"/>
-<area shape="rect" id="node14" href="$dc/dc5/class_b_a_r_o_s_i_m.html#a4885508cb3acc4c827d68ac073fac946" title="BAROSIM::init" alt="" coords="463,363,572,389"/>
-<area shape="rect" id="node16" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a41e3bc5316ca2468b4e3619c9b8b81f4" title="px4::logger::LogWriterFile::run" alt="" coords="419,413,616,440"/>
-<area shape="rect" id="node19" href="$de/d74/class_a_c_c_e_l_s_i_m.html#af9696f9f614ec4b8152b3f47ee4f4383" title="Override Start automatic measurement. " alt="" coords="455,464,580,491"/>
-<area shape="rect" id="node21" href="$d8/d2c/class_a_c_c_e_l_s_i_m__mag.html#a356304211603b6bdaec4c595bd8c0295" title="ACCELSIM_mag::start" alt="" coords="439,515,596,541"/>
-<area shape="rect" id="node23" href="$da/d7e/class_g_y_r_o_s_i_m.html#a45baf0601ea46a45e8e275c3f58c96c0" title="GYROSIM::start" alt="" coords="458,565,577,592"/>
-<area shape="rect" id="node26" href="$d3/d1b/struct_simulator_1_1sample.html#a31bd3de8d4bf7bd32a4dfe5fb4effd9d" title="Simulator::sample::\lsample" alt="" coords="450,617,585,658"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="424,683,611,709"/>
-<area shape="rect" id="node32" href="$d2/daf/vtol__att__control__main_8h.html#abcadb4283f5b7dbabfd5b598d54c3f69" title="vtol_att_control_main" alt="" coords="444,733,591,760"/>
-<area shape="rect" id="node33" href="$d4/d87/class_video_device.html#ac86cad08782b259e149739bcb406a958" title="VideoDevice::VideoDevice" alt="" coords="428,784,607,811"/>
-<area shape="rect" id="node34" href="$d9/d0b/class_df_a_k8963_wrapper.html#ae10fa47f0687344e025a77fb3ca3efbe" title="Start automatic measurement. " alt="" coords="435,835,600,861"/>
-<area shape="rect" id="node36" href="$d6/d61/class_df_bebop_bus_wrapper.html#ae68411f0fe3afb3e86ed6644bc5ab45c" title="Start and initialize the driver. " alt="" coords="441,886,594,927"/>
-<area shape="rect" id="node38" href="$d1/d27/class_df_bebop_range_finder_wrapper.html#afffcf39ab6e16b98d91a8ce6ab6da064" title="Start automatic measurement. " alt="" coords="419,951,615,993"/>
-<area shape="rect" id="node40" href="$db/de6/class_df_bmp280_wrapper.html#afa29b3109398937f91ac9df7fc542e5a" title="Start automatic measurement. " alt="" coords="434,1017,601,1044"/>
-<area shape="rect" id="node41" href="$d8/d40/class_df_i_s_l29501_wrapper.html#a7cf4ac21fc9a61a89afd56f2cef6c08f" title="Start automatic measurement. " alt="" coords="443,1069,591,1110"/>
-<area shape="rect" id="node42" href="$df/d43/class_df_lsm9ds1_wrapper.html#a0c7329b3e9cf227080d58527cc72c5f2" title="Start automatic measurement. " alt="" coords="431,1135,603,1161"/>
-<area shape="rect" id="node43" href="$d4/d83/class_df_ltc2946_wrapper.html#a18f8bc293adc9c9a9434b6984ccf807c" title="DfLtc2946Wrapper::start" alt="" coords="435,1185,600,1212"/>
-<area shape="rect" id="node44" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#aaada99ba04843de650a84e22b6622d98" title="Start automatic measurement. " alt="" coords="429,1236,606,1263"/>
-<area shape="rect" id="node45" href="$d9/dec/class_df_m_s5607_wrapper.html#a1d0abef0ff52ca93fa2887b697a0bbf0" title="Start automatic measurement. " alt="" coords="434,1287,601,1313"/>
-<area shape="rect" id="node46" href="$d4/d4a/class_df_m_s5611_wrapper.html#a51007c0bfa2a97abd646152500a8d4fd" title="Start automatic measurement. " alt="" coords="434,1337,601,1364"/>
-<area shape="rect" id="node47" href="$d8/ddf/class_df_t_r_one_wrapper.html#ac2eceaff4599b352920df9294873380f" title="Start automatic measurement. " alt="" coords="437,1388,598,1415"/>
-<area shape="rect" id="node48" href="$dd/db4/motor__ramp_8cpp.html#af8799b77aaea038fdb8d8c879585cc51" title="Mainloop of motor_ramp. " alt="" coords="433,1439,602,1465"/>
-<area shape="rect" id="node49" href="$d0/dd0/sd__bench_8c.html#a85e35ed27c6637416ad999d23a82e903" title="sequential write speed test " alt="" coords="478,1489,557,1516"/>
-<area shape="rect" id="node50" href="$d5/d69/tests__main_8h.html#ad18a571dbd1f3fc494fa88c8d4c7f88f" title="test_file" alt="" coords="483,1540,551,1567"/>
-<area shape="rect" id="node5" href="$d8/d63/namespacenavio__rgbled.html#a482d092c76c6aaf61138e1f1a2365ab6" title="Attempt to start driver on all available I2C busses. " alt="" coords="687,5,817,32"/>
-<area shape="rect" id="node6" href="$dc/dc7/drivers_2navio__rgbled_2test_2test_8cpp.html#aaae85e447b6802d7c30d28ab6fb0c416" title="do_test" alt="" coords="719,56,785,83"/>
-<area shape="rect" id="node11" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="664,195,840,221"/>
-<area shape="rect" id="node12" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="689,245,815,272"/>
-<area shape="rect" id="node15" href="$de/dba/namespacebarosim.html#aab8a7de3754d43ff50d0456691e541b0" title="Start the driver. " alt="" coords="701,296,803,323"/>
-<area shape="rect" id="node17" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aa0c466972a55911ef06e63bea6e36559" title="px4::logger::LogWriterFile\l::run_helper" alt="" coords="667,347,837,389"/>
-<area shape="rect" id="node18" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a56e00102f8e7222bd5cc148064490345" title="px4::logger::LogWriterFile\l::thread_id" alt="" coords="888,377,1059,418"/>
-<area shape="rect" id="node20" href="$de/d74/class_a_c_c_e_l_s_i_m.html#acc32822847744bf157ed7d7cc8029e6d" title="ACCELSIM::devIOCTL" alt="" coords="673,464,831,491"/>
-<area shape="rect" id="node22" href="$de/d74/class_a_c_c_e_l_s_i_m.html#a1a4ea1471be200ed6f66090f105424f8" title="ACCELSIM::mag_ioctl" alt="" coords="675,515,829,541"/>
-<area shape="rect" id="node24" href="$da/d7e/class_g_y_r_o_s_i_m.html#a709e3b57fa2c977fd4c6e4159429dafc" title="GYROSIM::init" alt="" coords="697,565,807,592"/>
-<area shape="rect" id="node25" href="$da/d7e/class_g_y_r_o_s_i_m.html#ae5df2ff47daf68c6f48ce57a3cf84412" title="GYROSIM::devIOCTL" alt="" coords="675,616,829,643"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="681,667,823,709"/>
-<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="902,755,1045,797"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="681,785,823,826"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="681,850,823,891"/>
-<area shape="rect" id="node35" href="$de/d2f/namespacedf__ak8963__wrapper.html#aec448774854eb29c2060e54f138cbaf1" title="df_ak8963_wrapper::\lstart" alt="" coords="681,915,823,957"/>
-<area shape="rect" id="node37" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a7615c7915d99b5c00fbb62b071635766" title="Attempt to start driver on all available I2C busses. " alt="" coords="674,981,830,1022"/>
-<area shape="rect" id="node39" href="$dd/d99/namespacedf__bebop__rangefinder__wrapper.html#ae75aea18b01a0e18ab90db99dbd86902" title="Attempt to start driver on all available I2C busses. " alt="" coords="679,1046,825,1087"/>
+<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="192,801,275,827"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="323,801,371,827"/>
+<area shape="rect" id="node4" href="$d9/d0b/class_df_a_k8963_wrapper.html#ae10fa47f0687344e025a77fb3ca3efbe" title="Start automatic measurement. " alt="" coords="435,19,600,46"/>
+<area shape="rect" id="node7" href="$d6/d61/class_df_bebop_bus_wrapper.html#ae68411f0fe3afb3e86ed6644bc5ab45c" title="Start and initialize the driver. " alt="" coords="441,84,594,125"/>
+<area shape="rect" id="node10" href="$d1/d27/class_df_bebop_range_finder_wrapper.html#afffcf39ab6e16b98d91a8ce6ab6da064" title="Start automatic measurement. " alt="" coords="419,168,615,209"/>
+<area shape="rect" id="node12" href="$db/de6/class_df_bmp280_wrapper.html#afa29b3109398937f91ac9df7fc542e5a" title="Start automatic measurement. " alt="" coords="434,271,601,298"/>
+<area shape="rect" id="node14" href="$d8/d40/class_df_i_s_l29501_wrapper.html#a7cf4ac21fc9a61a89afd56f2cef6c08f" title="Start automatic measurement. " alt="" coords="443,391,591,432"/>
+<area shape="rect" id="node18" href="$df/d43/class_df_lsm9ds1_wrapper.html#a0c7329b3e9cf227080d58527cc72c5f2" title="Start automatic measurement. " alt="" coords="431,483,603,510"/>
+<area shape="rect" id="node20" href="$d4/d83/class_df_ltc2946_wrapper.html#a18f8bc293adc9c9a9434b6984ccf807c" title="DfLtc2946Wrapper::start" alt="" coords="435,547,600,574"/>
+<area shape="rect" id="node22" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#aaada99ba04843de650a84e22b6622d98" title="Start automatic measurement. " alt="" coords="429,610,606,637"/>
+<area shape="rect" id="node24" href="$d9/dec/class_df_m_s5607_wrapper.html#a1d0abef0ff52ca93fa2887b697a0bbf0" title="Start automatic measurement. " alt="" coords="434,670,601,697"/>
+<area shape="rect" id="node26" href="$d8/ddf/class_df_t_r_one_wrapper.html#ac2eceaff4599b352920df9294873380f" title="Start automatic measurement. " alt="" coords="437,725,598,751"/>
+<area shape="rect" id="node29" href="$d1/dde/class_p_x4_i_o.html#aa3518cfa9b8427a799fe364479aeefa3" title="Set the update rate for actuator outputs from FMU to IO. " alt="" coords="673,826,835,853"/>
+<area shape="rect" id="node30" href="$de/dfe/px4io_8cpp.html#ab5e695dd74013984141ba0a62efe22fa" title="px4io_main" alt="" coords="473,826,561,853"/>
+<area shape="rect" id="node31" href="$da/d2b/class_straight_line.html#af59f3bedf9fd2adfbdfcf22853eacb5d" title="StraightLine::setLineFromTo" alt="" coords="424,877,611,903"/>
+<area shape="rect" id="node33" href="$da/d2b/class_straight_line.html#a1aee6401f65ff007a3025374ecd38876" title="StraightLine::StraightLine" alt="" coords="670,943,838,970"/>
+<area shape="rect" id="node34" href="$d0/db5/accelerometer__calibration_8h.html#adf8b5d0eb3d93e20d76e3273b6f27b88" title="do_level_calibration" alt="" coords="449,978,585,1005"/>
+<area shape="rect" id="node37" href="$d6/d47/dataman_8cpp.html#a6418d61c47cdbb8ffb7b57ddbe5f90bf" title="dataman_main" alt="" coords="464,1029,571,1055"/>
+<area shape="rect" id="node38" href="$d8/d1f/classland__detector_1_1_land_detector.html#a5e6d889349d62a4bb3008b6fae749e36" title="land_detector::LandDetector\l::custom_command" alt="" coords="424,1080,611,1121"/>
+<area shape="rect" id="node39" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a41e3bc5316ca2468b4e3619c9b8b81f4" title="px4::logger::LogWriterFile::run" alt="" coords="419,1146,616,1173"/>
+<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="424,1213,611,1239"/>
+<area shape="rect" id="node46" href="$dd/db4/motor__ramp_8cpp.html#af8799b77aaea038fdb8d8c879585cc51" title="Mainloop of motor_ramp. " alt="" coords="433,1263,602,1290"/>
+<area shape="rect" id="node48" href="$d0/dd0/sd__bench_8c.html#a85e35ed27c6637416ad999d23a82e903" title="sequential write speed test " alt="" coords="478,1314,557,1341"/>
+<area shape="rect" id="node50" href="$d5/d69/tests__main_8h.html#ad18a571dbd1f3fc494fa88c8d4c7f88f" title="test_file" alt="" coords="483,1365,551,1391"/>
+<area shape="rect" id="node5" href="$de/d2f/namespacedf__ak8963__wrapper.html#aec448774854eb29c2060e54f138cbaf1" title="df_ak8963_wrapper::\lstart" alt="" coords="683,5,825,47"/>
+<area shape="rect" id="node6" href="$d9/db4/df__ak8963__wrapper_8cpp.html#a2dcbf1502e3bb16e49be35ff47daa89c" title="df_ak8963_wrapper_main" alt="" coords="902,13,1073,39"/>
+<area shape="rect" id="node8" href="$d0/d59/namespacedf__bebop__bus__wrapper.html#a7615c7915d99b5c00fbb62b071635766" title="Attempt to start driver on all available I2C busses. " alt="" coords="676,71,832,112"/>
+<area shape="rect" id="node9" href="$d4/dbd/df__bebop__bus__wrapper_8cpp.html#ae001605c030ad2265b6eb3b758e32163" title="df_bebop_bus_wrapper_main" alt="" coords="892,78,1083,105"/>
+<area shape="rect" id="node11" href="$dd/d99/namespacedf__bebop__rangefinder__wrapper.html#ae75aea18b01a0e18ab90db99dbd86902" title="Attempt to start driver on all available I2C busses. " alt="" coords="681,136,827,177"/>
+<area shape="rect" id="node13" href="$d5/ded/namespacedf__bmp280__wrapper.html#ad9b55e45815d137f66c4629db9b6e4ef" title="Attempt to start driver on all available I2C busses. " alt="" coords="681,201,827,243"/>
+<area shape="rect" id="node15" href="$dc/d39/namespacedf__isl29501__wrapper.html#aa6c681e6465bf7b0bc411ed3d5933b25" title="Attempt to start driver on all available I2C busses. " alt="" coords="683,267,825,308"/>
+<area shape="rect" id="node16" href="$dc/d39/namespacedf__isl29501__wrapper.html#a4f41a7ddc98944052db14be95f421537" title="Who am i. " alt="" coords="683,332,825,373"/>
+<area shape="rect" id="node17" href="$dc/d39/namespacedf__isl29501__wrapper.html#a03cceb057d0878f36b2afdb3376f1aee" title="Calibration runs calibration routine for ISL29501 TODO: implement calibration user interface and para..." alt="" coords="683,397,825,439"/>
+<area shape="rect" id="node19" href="$da/d13/namespacedf__lsm9ds1__wrapper.html#a41120f5ef4d93df2b7d1012b89bdef33" title="df_lsm9ds1_wrapper\l::start" alt="" coords="683,463,825,504"/>
+<area shape="rect" id="node21" href="$d1/d2e/namespacedf__ltc2946__wrapper.html#a602ac1c7f19674705649160c597b0872" title="Attempt to start driver on all available I2C busses. " alt="" coords="687,528,821,569"/>
+<area shape="rect" id="node23" href="$dd/d62/namespacedf__mpu6050__wrapper.html#af76855469339a9a834f0eea6a1703499" title="df_mpu6050_wrapper\l::start" alt="" coords="681,593,827,635"/>
+<area shape="rect" id="node25" href="$de/d89/namespacedf__ms5607__wrapper.html#a23d843f18be81e2b9b661ac873bb38c2" title="Attempt to start driver on all available I2C busses. " alt="" coords="681,659,827,700"/>
+<area shape="rect" id="node27" href="$d8/d32/namespacedf__trone__wrapper.html#a00629ae06971354bd8ecb5e1025c152e" title="df_trone_wrapper::start" alt="" coords="676,725,832,751"/>
+<area shape="rect" id="node28" href="$d8/d32/namespacedf__trone__wrapper.html#af57da93d3213c86e230d4c854ead0b44" title="Who am i. " alt="" coords="673,775,835,802"/>
+<area shape="rect" id="node32" href="$d2/d7a/class_flight_task_orbit.html#a600d250428961417fd7cc5a549a99371" title="generates setpoints to smoothly reach the closest point on the circle when starting from far away ..." alt="" coords="664,877,844,919"/>
+<area shape="rect" id="node35" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="666,994,842,1021"/>
+<area shape="rect" id="node36" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="691,1045,817,1071"/>
+<area shape="rect" id="node40" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aa0c466972a55911ef06e63bea6e36559" title="px4::logger::LogWriterFile\l::run_helper" alt="" coords="669,1096,839,1137"/>
+<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="683,1161,825,1203"/>
+<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="916,1249,1059,1291"/>
+<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="683,1279,825,1320"/>
+<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="683,1344,825,1385"/>
+<area shape="rect" id="node47" href="$dd/db4/motor__ramp_8cpp.html#a746e6d5c1cc35b1383ed7127030cf9fd" title="motor_ramp management function. " alt="" coords="691,1410,817,1437"/>
+<area shape="rect" id="node49" href="$d0/dd0/sd__bench_8c.html#a0410389a6c21faa549136da621b703d2" title="sd_bench_main" alt="" coords="697,1461,811,1487"/>
 </map>

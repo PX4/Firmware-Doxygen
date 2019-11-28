@@ -1,10 +1,25 @@
 <map id="build/doxygen/uORB/topics/safety.h" name="build/doxygen/uORB/topics/safety.h">
-<area shape="rect" id="node2" href="$d8/d15/blinkm_8cpp.html" title="Driver for the BlinkM LED controller connected via I2C. " alt="" coords="5,95,131,136"/>
-<area shape="rect" id="node3" href="$de/d74/fmu_8cpp.html" title="Driver/configurator for the PX4 FMU. " alt="" coords="155,95,285,136"/>
-<area shape="rect" id="node4" href="$de/dfe/px4io_8cpp.html" title="Driver for the PX4IO board. " alt="" coords="309,102,488,129"/>
-<area shape="rect" id="node5" href="$d2/de8/state__machine__helper_8h.html" title="State machine helper functions definitions. " alt="" coords="563,95,728,136"/>
-<area shape="rect" id="node6" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="380,191,545,233"/>
-<area shape="rect" id="node7" href="$da/d73/_commander_8cpp.html" title="src/modules/commander\l/Commander.cpp" alt="" coords="500,288,665,329"/>
-<area shape="rect" id="node8" href="$de/de4/state__machine__helper__test_8cpp.html" title="System state machine unit test. " alt="" coords="621,184,795,240"/>
-<area shape="rect" id="node9" href="$df/d25/state__machine__helper_8cpp.html" title="State machine helper functions implementations. " alt="" coords="820,191,999,233"/>
+<area shape="rect" id="node2" href="$d8/d15/blinkm_8cpp.html" title="Driver for the BlinkM LED controller connected via I2C. " alt="" coords="1467,102,1597,143"/>
+<area shape="rect" id="node3" href="$de/dfe/px4io_8cpp.html" title="Driver for the PX4IO board. " alt="" coords="1621,109,1800,136"/>
+<area shape="rect" id="node4" href="$db/d28/_safety_button_8hpp.html" title="src/drivers/safety\l_button/SafetyButton.hpp" alt="" coords="1824,102,1995,143"/>
+<area shape="rect" id="node6" href="$db/d25/_pre_flight_check_8hpp.html" title="Check if flight is safely possible if not prevent it and inform the user. " alt="" coords="2019,95,2184,151"/>
+<area shape="rect" id="node20" href="$da/d73/_commander_8cpp.html" title="Main state machine / business logic. " alt="" coords="3481,303,3647,344"/>
+<area shape="rect" id="node23" href="$d2/de8/state__machine__helper_8h.html" title="State machine helper functions definitions. " alt="" coords="3295,102,3460,143"/>
+<area shape="rect" id="node5" href="$d9/d87/_safety_button_8cpp.html" title="src/drivers/safety\l_button/SafetyButton.cpp" alt="" coords="5,206,176,247"/>
+<area shape="rect" id="node7" href="$d9/d85/accelerometer_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/accelerometerCheck.cpp" alt="" coords="2259,199,2477,255"/>
+<area shape="rect" id="node8" href="$d4/dc7/airspeed_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/airspeedCheck.cpp" alt="" coords="2501,199,2685,255"/>
+<area shape="rect" id="node9" href="$de/dca/baro_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/baroCheck.cpp" alt="" coords="2709,199,2875,255"/>
+<area shape="rect" id="node10" href="$dd/d68/ekf2_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/ekf2Check.cpp" alt="" coords="2899,199,3064,255"/>
+<area shape="rect" id="node11" href="$d0/d12/failure_detector_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/failureDetectorCheck.cpp" alt="" coords="201,199,421,255"/>
+<area shape="rect" id="node12" href="$d8/d26/gyro_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/gyroCheck.cpp" alt="" coords="445,199,611,255"/>
+<area shape="rect" id="node13" href="$d1/d5d/imu_consistency_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/imuConsistencyCheck.cpp" alt="" coords="635,199,864,255"/>
+<area shape="rect" id="node14" href="$df/d7f/mag_consistency_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/magConsistencyCheck.cpp" alt="" coords="889,199,1122,255"/>
+<area shape="rect" id="node15" href="$da/d64/magnetometer_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/magnetometerCheck.cpp" alt="" coords="1147,199,1365,255"/>
+<area shape="rect" id="node16" href="$dd/d03/power_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/powerCheck.cpp" alt="" coords="1389,199,1560,255"/>
+<area shape="rect" id="node17" href="$de/d1a/pre_arm_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/preArmCheck.cpp" alt="" coords="1585,199,1762,255"/>
+<area shape="rect" id="node18" href="$d1/d2b/rc_calibration_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/rcCalibrationCheck.cpp" alt="" coords="1787,199,1995,255"/>
+<area shape="rect" id="node19" href="$d5/d7a/_pre_flight_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/PreFlightCheck.cpp" alt="" coords="2019,199,2184,255"/>
+<area shape="rect" id="node21" href="$de/de4/state__machine__helper__test_8cpp.html" title="System state machine unit test. " alt="" coords="3089,199,3263,255"/>
+<area shape="rect" id="node22" href="$df/d25/state__machine__helper_8cpp.html" title="State machine helper functions implementations. " alt="" coords="3288,206,3467,247"/>
+<area shape="rect" id="node24" href="$d8/d55/_commander_8hpp.html" title="src/modules/commander\l/Commander.hpp" alt="" coords="3541,206,3707,247"/>
 </map>

@@ -1,7 +1,7 @@
 var classcontrol_1_1_block_output =
 [
     [ "BlockOutput", "d9/d6d/classcontrol_1_1_block_output.html#a605a52d1d7b51a4e9da635d2a1a66949", null ],
-    [ "~BlockOutput", "d9/d6d/classcontrol_1_1_block_output.html#a327e403710d571540bf95827c6ce2002", null ],
+    [ "~BlockOutput", "d9/d6d/classcontrol_1_1_block_output.html#a2759b33c66f824ca26ce4d871970bd6d", null ],
     [ "get", "d9/d6d/classcontrol_1_1_block_output.html#ae7781f353815b05a1360ca75c6b4da16", null ],
     [ "getMax", "d9/d6d/classcontrol_1_1_block_output.html#ab489272a4f18765a9219a20dfcaeada6", null ],
     [ "getMin", "d9/d6d/classcontrol_1_1_block_output.html#a061035213478e4d1951eceb411020a36", null ],

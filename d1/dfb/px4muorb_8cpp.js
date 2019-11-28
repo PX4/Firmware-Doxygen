@@ -1,8 +1,6 @@
 var px4muorb_8cpp =
 [
     [ "dspal_main", "d1/dfb/px4muorb_8cpp.html#a8891e10532d8427476c41315c03fc6a2", null ],
-    [ "get_shmem_lock", "d1/dfb/px4muorb_8cpp.html#a19a784524127108b90d1274cbf283d36", null ],
-    [ "init_shared_memory", "d1/dfb/px4muorb_8cpp.html#a51dc463b36f36506472883f63e9a1901", null ],
     [ "px4muorb_add_subscriber", "d1/dfb/px4muorb_8cpp.html#a95a74a92cafcfaf06cb3ca0b324423b6", null ],
     [ "px4muorb_get_absolute_time", "d1/dfb/px4muorb_8cpp.html#ac417868115b224511e3177f50f573f60", null ],
     [ "px4muorb_is_subscriber_present", "d1/dfb/px4muorb_8cpp.html#aa0b2e79a45d5f69acad0f3027447c36b", null ],
@@ -17,7 +15,5 @@ var px4muorb_8cpp =
     [ "px4muorb_set_absolute_time_offset", "d1/dfb/px4muorb_8cpp.html#aa3fd7b04dfd4739291dc8979d9be9e3b", null ],
     [ "px4muorb_topic_advertised", "d1/dfb/px4muorb_8cpp.html#a38b3270e71c963843be50d937d2d47be", null ],
     [ "px4muorb_topic_unadvertised", "d1/dfb/px4muorb_8cpp.html#a049fab9a320d5005c8aaebb0659751bb", null ],
-    [ "px4muorb_unblock_recieve_msg", "d1/dfb/px4muorb_8cpp.html#ad8dab3693aed64822d142582364c81bc", null ],
-    [ "release_shmem_lock", "d1/dfb/px4muorb_8cpp.html#a29904cef6a676357fe190f6787155013", null ],
-    [ "shmem_info_p", "d1/dfb/px4muorb_8cpp.html#a0a54819448789d74fd2065426fe17ca0", null ]
+    [ "px4muorb_unblock_recieve_msg", "d1/dfb/px4muorb_8cpp.html#ad8dab3693aed64822d142582364c81bc", null ]
 ];

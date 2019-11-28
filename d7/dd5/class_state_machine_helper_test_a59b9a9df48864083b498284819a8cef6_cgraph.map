@@ -1,0 +1,51 @@
+<map id="StateMachineHelperTest::run_tests" name="StateMachineHelperTest::run_tests">
+<area shape="rect" id="node2" href="$d7/dd5/class_state_machine_helper_test.html#ab18f6a91cac168f6088affc3b93f04b5" title="StateMachineHelperTest\l::armingStateTransitionTest" alt="" coords="220,887,403,929"/>
+<area shape="rect" id="node46" href="$d7/dd5/class_state_machine_helper_test.html#acc0cc3c69717d975bd6875749fdb9929" title="StateMachineHelperTest\l::isSafeTest" alt="" coords="228,1018,395,1059"/>
+<area shape="rect" id="node48" href="$d7/dd5/class_state_machine_helper_test.html#ad9d29f52c290f637feb964fc6bc0c7c9" title="StateMachineHelperTest\l::mainStateTransitionTest" alt="" coords="225,953,397,994"/>
+<area shape="rect" id="node50" href="$d9/d30/state__machine__helper__test_8h.html#a61581da639e7f399cc422996f0737a3a" title="stateMachineHelperTest" alt="" coords="229,1084,393,1111"/>
+<area shape="rect" id="node3" href="$df/d25/state__machine__helper_8cpp.html#a2b895abaf68d67706c496ebf55e42b1f" title="arming_state_transition" alt="" coords="645,521,803,548"/>
+<area shape="rect" id="node31" href="$d8/d04/namespacelps25h.html#accc089fb6426d2bed21ea7513ce0b70f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="479,907,569,933"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1119,816,1245,843"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="890,521,1011,548"/>
+<area shape="rect" id="node16" href="$d1/d2f/class_pre_flight_check.html#a331557e3ce67f9258360836aae1feab6" title="PreFlightCheck::preArmCheck" alt="" coords="851,153,1051,180"/>
+<area shape="rect" id="node18" href="$d1/d2f/class_pre_flight_check.html#a88f071f37f2ccaccb6446f0815edf87d" title="Runs a preflight check on all sensors to see if they are properly calibrated and healthy. " alt="" coords="867,226,1034,267"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="1133,360,1231,387"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="1141,411,1223,437"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="1131,461,1233,488"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1131,512,1233,539"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="1138,563,1226,589"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="1143,613,1221,640"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="1141,664,1223,691"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1099,715,1265,741"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="1151,765,1213,792"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="1101,309,1263,336"/>
+<area shape="rect" id="node17" href="$d3/dc0/_arm_authorization_8cpp.html#a4760c5a750686a3000fc8dbde4cc203d" title="arm_auth_check" alt="" coords="1123,107,1241,133"/>
+<area shape="rect" id="node19" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="1139,157,1225,184"/>
+<area shape="rect" id="node21" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="1141,208,1223,235"/>
+<area shape="rect" id="node30" href="$da/d8e/_health_flags_8cpp.html#a3523b6bbd000329099eed54f4994dbf1" title="set_health_flags" alt="" coords="1123,259,1241,285"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="1317,5,1452,32"/>
+<area shape="rect" id="node22" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1533,157,1572,184"/>
+<area shape="rect" id="node23" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1649,233,1765,260"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1313,360,1456,387"/>
+<area shape="rect" id="node25" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1319,411,1451,437"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1504,259,1601,285"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1319,208,1451,235"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1507,107,1598,133"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1340,56,1429,83"/>
+<area shape="rect" id="node32" href="$d8/d04/namespacelps25h.html#a0181c3e873087653a0cda66e0bf015e8" title="find a bus structure for a busid " alt="" coords="665,957,783,984"/>
+<area shape="rect" id="node33" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="660,907,788,933"/>
+<area shape="rect" id="node37" href="$dc/d03/class_l_p_s25_h.html#aa27d6889d10944e32adbd715bd3f8a38" title="LPS25H::read" alt="" coords="672,856,776,883"/>
+<area shape="rect" id="node40" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="664,715,784,741"/>
+<area shape="rect" id="node44" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="659,1008,789,1035"/>
+<area shape="rect" id="node34" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="889,957,1013,984"/>
+<area shape="rect" id="node35" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="872,907,1029,933"/>
+<area shape="rect" id="node36" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="881,1008,1020,1035"/>
+<area shape="rect" id="node38" href="$dc/d03/class_l_p_s25_h.html#a54bf0a1c6dbdbcb2c3ea7f57d6979869" title="Collect the result of the most recent measurement. " alt="" coords="892,805,1009,832"/>
+<area shape="rect" id="node39" href="$dc/d03/class_l_p_s25_h.html#ac56100e60240e8ec438c571c7452c682" title="Issue a measurement command. " alt="" coords="886,856,1015,883"/>
+<area shape="rect" id="node41" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="873,739,1029,781"/>
+<area shape="rect" id="node42" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="873,623,1029,649"/>
+<area shape="rect" id="node43" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="879,674,1022,715"/>
+<area shape="rect" id="node45" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="871,1059,1030,1085"/>
+<area shape="rect" id="node47" href="$df/d25/state__machine__helper_8cpp.html#adf3c034062b0d6d7f415a35efebedf01" title="is_safe" alt="" coords="492,1025,556,1052"/>
+<area shape="rect" id="node49" href="$df/d25/state__machine__helper_8cpp.html#a12cdf6d677418283df9b76837a479420" title="main_state_transition" alt="" coords="451,968,597,995"/>
+</map>

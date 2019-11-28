@@ -1,11 +1,8 @@
 <map id="ECL_L1_Pos_Controller::nav_bearing" name="ECL_L1_Pos_Controller::nav_bearing">
-<area shape="rect" id="node2" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="225,5,395,47"/>
-<area shape="rect" id="node3" href="$d9/d31/class_fixedwing_position_control.html#ad90bcc3a1e81fdd41fd6d8b8ec462529" title="FixedwingPositionControl\l::control_position" alt="" coords="461,93,631,135"/>
-<area shape="rect" id="node4" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="688,145,884,171"/>
-<area shape="rect" id="node5" href="$d7/d8c/class_ground_rover_position_control.html#a4f2f86b3be874fbb7928271fa49aa511" title="Control position. " alt="" coords="216,240,404,281"/>
-<area shape="rect" id="node6" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="452,269,640,311"/>
-<area shape="rect" id="node10" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="225,123,395,164"/>
-<area shape="rect" id="node7" href="$d7/d8c/class_ground_rover_position_control.html#aa2ea14b3608ff1d5a718e79ba2de7a88" title="Shim for calling task_main from task_create. " alt="" coords="692,269,880,311"/>
-<area shape="rect" id="node8" href="$d7/d8c/class_ground_rover_position_control.html#a037e8b87973e3f89c49f3124d2da228b" title="Start the sensors task. " alt="" coords="932,269,1120,311"/>
-<area shape="rect" id="node9" href="$db/d79/_ground_rover_position_control_8cpp.html#aea00b48df935476be5ad8e9ad7149791" title="L1 control app start / stop handling function. " alt="" coords="1168,277,1320,303"/>
+<area shape="rect" id="node2" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="217,5,387,47"/>
+<area shape="rect" id="node3" href="$d9/d31/class_fixedwing_position_control.html#a4b6c09ae04794bb21ea7b0705313390b" title="FixedwingPositionControl\l::control_position" alt="" coords="436,93,607,135"/>
+<area shape="rect" id="node5" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="217,123,387,164"/>
+<area shape="rect" id="node6" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="216,189,388,215"/>
+<area shape="rect" id="node7" href="$d9/d31/class_fixedwing_position_control.html#a34ddf5cd85e2b8b4c98f576dda0e3c11" title="FixedwingPositionControl\l::status_publish" alt="" coords="436,180,607,221"/>
+<area shape="rect" id="node4" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="655,155,857,182"/>
 </map>

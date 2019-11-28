@@ -1,27 +1,25 @@
 <map id="map_projection_global_initialized" name="map_projection_global_initialized">
-<area shape="rect" id="node2" href="$db/d35/geo_8h.html#a60d2f1563be1487aa49b49b986974348" title="Get reference position of the global to local converter. " alt="" coords="439,138,577,179"/>
-<area shape="rect" id="node21" href="$db/d35/geo_8h.html#a447e4363e82c043a0c2424d0a566c3ee" title="Checks if globallocalconverter was initialized. " alt="" coords="439,70,577,111"/>
-<area shape="rect" id="node23" href="$db/d35/geo_8h.html#a94906a363375b1d95abbd90fe12cd71d" title="Convert from local position coordinates to global position coordinates using the global reference..." alt="" coords="211,194,348,235"/>
-<area shape="rect" id="node24" href="$db/d35/geo_8h.html#a189032e49591f0ce0e1a6049e8446262" title="Convert from global position coordinates to local position coordinates using the global reference..." alt="" coords="211,311,348,352"/>
-<area shape="rect" id="node26" href="$db/d35/geo_8h.html#af81feabefb9e07ed4d18d64156efc490" title="Get reference position of the global map projection. " alt="" coords="204,128,355,170"/>
-<area shape="rect" id="node3" href="$da/d89/class_mavlink_receiver.html#a37666f55ad6181458bca82317caf1459" title="MavlinkReceiver::handle\l_message_local_position\l_ned_cov" alt="" coords="672,130,840,186"/>
-<area shape="rect" id="node4" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="899,102,1064,143"/>
-<area shape="rect" id="node5" href="$da/d89/class_mavlink_receiver.html#abf05ea2b60baafd446100f897f9274ab" title="Receive data from UART. " alt="" coords="1112,188,1281,230"/>
-<area shape="rect" id="node6" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1329,188,1483,230"/>
-<area shape="rect" id="node7" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1531,188,1700,230"/>
-<area shape="rect" id="node8" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1748,196,1883,222"/>
-<area shape="rect" id="node9" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1931,196,2073,222"/>
-<area shape="rect" id="node10" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="2137,229,2238,256"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#af06ea4dffa8d7b911690a99456a4814a" title="Mavlink::broadcast\l_enabled" alt="" coords="2121,163,2253,204"/>
-<area shape="rect" id="node11" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="mavlink app start / stop handling function " alt="" coords="2575,229,2678,256"/>
-<area shape="rect" id="node13" href="$df/d1f/class_mavlink.html#aacd190d885c0a9f521f0d7d0673f2b6f" title="Flush the transmit buffer and send one MAVLink packet. " alt="" coords="2319,105,2469,132"/>
-<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#afcac36b1b581d47b7181374d35edbd54" title="Set the boot complete flag on all instances. " alt="" coords="2301,170,2487,197"/>
-<area shape="rect" id="node14" href="$de/d24/mavlink__main_8cpp.html#a646c2f3486de3d8574422fc4ef1940a2" title="mavlink_end_uart_send" alt="" coords="2547,46,2706,73"/>
-<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#a3aa1fb0ca3f0d77b10a8954618a51abb" title="Get the manual input generation mode. " alt="" coords="2545,98,2708,139"/>
-<area shape="rect" id="node16" href="$da/d89/class_mavlink_receiver.html#af99bf01b6ae13dab05c36c0125e179bc" title="MavlinkReceiver::handle\l_message_manual_control" alt="" coords="2770,86,2947,127"/>
-<area shape="rect" id="node18" href="$df/d61/class_mavlink_parameters_manager.html#acd8734b77582ad7626f5230c1707e04c" title="send a single param if a PARAM_REQUEST_LIST is in progress " alt="" coords="2535,163,2719,204"/>
-<area shape="rect" id="node19" href="$df/d61/class_mavlink_parameters_manager.html#a3a6dff51ef5aba4f3dda19610510a45d" title="Handle any open param send transfer. " alt="" coords="2767,176,2951,218"/>
-<area shape="rect" id="node20" href="$df/d61/class_mavlink_parameters_manager.html#adbcd587c4ec1c0b94fe259047f8ec82e" title="Handle sending of messages. " alt="" coords="2999,224,3183,266"/>
-<area shape="rect" id="node22" href="$da/d89/class_mavlink_receiver.html#a77a9a2d0cd61225e2f17e10b5c6af779" title="MavlinkReceiver::handle\l_message_gps_global_origin" alt="" coords="661,66,851,107"/>
-<area shape="rect" id="node25" href="$d2/d7a/class_flight_task_orbit.html#af94ed3b9b866ea59246d08cdd3561531" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="403,311,613,352"/>
+<area shape="rect" id="node2" href="$db/d35/geo_8h.html#a60d2f1563be1487aa49b49b986974348" title="Get reference position of the global to local converter. " alt="" coords="439,5,577,47"/>
+<area shape="rect" id="node6" href="$db/d35/geo_8h.html#a447e4363e82c043a0c2424d0a566c3ee" title="Checks if globallocalconverter was initialized. " alt="" coords="211,187,348,228"/>
+<area shape="rect" id="node19" href="$db/d35/geo_8h.html#a94906a363375b1d95abbd90fe12cd71d" title="Convert from local position coordinates to global position coordinates using the global reference..." alt="" coords="211,273,348,315"/>
+<area shape="rect" id="node22" href="$db/d35/geo_8h.html#a189032e49591f0ce0e1a6049e8446262" title="Convert from global position coordinates to local position coordinates using the global reference..." alt="" coords="211,348,348,389"/>
+<area shape="rect" id="node24" href="$db/d35/geo_8h.html#af81feabefb9e07ed4d18d64156efc490" title="Get reference position of the global map projection. " alt="" coords="204,15,355,56"/>
+<area shape="rect" id="node3" href="$d5/d01/class_block_local_position_estimator.html#a83eed83b1292c250ebd79cf7123fa619" title="BlockLocalPositionEstimator\l::mocapInit" alt="" coords="661,28,851,69"/>
+<area shape="rect" id="node5" href="$d5/d01/class_block_local_position_estimator.html#ae30b32c59dbe869136ebc048f42d7c05" title="BlockLocalPositionEstimator\l::visionInit" alt="" coords="661,93,851,135"/>
+<area shape="rect" id="node4" href="$d5/d01/class_block_local_position_estimator.html#a34216107cee0bbde413b794a4c76da59" title="BlockLocalPositionEstimator::Run" alt="" coords="899,69,1120,95"/>
+<area shape="rect" id="node7" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="407,290,609,317"/>
+<area shape="rect" id="node8" href="$da/d89/class_mavlink_receiver.html#a8dd6c8991b7689ed6bc10b00a8c8e048" title="MavlinkReceiver::handle\l_message_set_position\l_target_global_int" alt="" coords="425,341,591,397"/>
+<area shape="rect" id="node17" href="$da/d89/class_mavlink_receiver.html#a77a9a2d0cd61225e2f17e10b5c6af779" title="MavlinkReceiver::handle\l_message_gps_global_origin" alt="" coords="413,173,603,215"/>
+<area shape="rect" id="node18" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="422,239,594,266"/>
+<area shape="rect" id="node9" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="673,243,839,284"/>
+<area shape="rect" id="node10" href="$da/d89/class_mavlink_receiver.html#a2a2904ed386bbb6a4ff3528527006a58" title="Receive data from UART/UDP. " alt="" coords="934,250,1085,277"/>
+<area shape="rect" id="node11" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1168,243,1321,284"/>
+<area shape="rect" id="node12" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1369,243,1539,284"/>
+<area shape="rect" id="node13" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1587,250,1721,277"/>
+<area shape="rect" id="node14" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1769,250,1912,277"/>
+<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="1960,250,2061,277"/>
+<area shape="rect" id="node16" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="Mavlink app start / stop handling function. " alt="" coords="2109,250,2212,277"/>
+<area shape="rect" id="node20" href="$d2/d7a/class_flight_task_orbit.html#a0e9ce6c7c066dab7daa7a200f5f6babc" title="Send out telemetry information for the log and MAVLink. " alt="" coords="405,421,611,447"/>
+<area shape="rect" id="node21" href="$d2/d7a/class_flight_task_orbit.html#a25fad66b24edad70e6dfcfdad04398a0" title="To be called regularly in the control loop cycle to execute the task. " alt="" coords="677,421,835,447"/>
+<area shape="rect" id="node23" href="$d2/d7a/class_flight_task_orbit.html#af94ed3b9b866ea59246d08cdd3561531" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="403,472,613,513"/>
 </map>

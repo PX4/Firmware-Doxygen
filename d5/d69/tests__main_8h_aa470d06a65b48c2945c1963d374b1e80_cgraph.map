@@ -1,51 +1,51 @@
 <map id="uorb_tests_main" name="uorb_tests_main">
-<area shape="rect" id="node2" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a115d969c6b22ef138a639b18d9130c55" title="uORBTest::UnitTest\l::instance" alt="" coords="993,1095,1136,1136"/>
-<area shape="rect" id="node3" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a526bb55f48fbcf03e2ecc1129322d77f" title="uORBTest::UnitTest\l::latency_test" alt="" coords="172,1047,315,1088"/>
-<area shape="rect" id="node33" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a9ed260ea048382a11f6db91925931918" title="uORBTest::UnitTest\l::test" alt="" coords="375,712,518,753"/>
-<area shape="rect" id="node50" href="$d8/dfd/u_o_r_b__tests__main_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="usage" alt="" coords="215,1363,272,1390"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="384,1134,509,1161"/>
-<area shape="rect" id="node5" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="816,338,916,365"/>
-<area shape="rect" id="node23" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="790,1161,942,1187"/>
-<area shape="rect" id="node24" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a736a81d1dffdf001a010b504511b78aa" title="uORBTest::UnitTest\l::pubsubtest_threadEntry" alt="" coords="363,1017,531,1059"/>
-<area shape="rect" id="node29" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1035,1211,1095,1238"/>
-<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="822,439,910,466"/>
-<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="809,287,923,314"/>
-<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="993,683,1136,724"/>
-<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="993,383,1136,424"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1201,683,1344,724"/>
-<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1201,71,1344,112"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1409,573,1552,615"/>
-<area shape="rect" id="node11" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="1201,5,1344,47"/>
-<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1201,136,1344,177"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1201,931,1344,972"/>
-<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1201,865,1344,907"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1184,749,1361,775"/>
-<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1201,201,1344,243"/>
-<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1187,267,1358,294"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1201,319,1344,360"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1201,800,1344,841"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1201,384,1344,425"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="1201,449,1344,491"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1197,515,1349,556"/>
-<area shape="rect" id="node25" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abb514aef37c3ad8c88e795fb4c4eca08" title="uORBTest::UnitTest\l::pubsublatency_main" alt="" coords="584,940,733,981"/>
-<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="797,927,935,954"/>
-<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="829,775,903,802"/>
-<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="831,1110,901,1137"/>
-<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="807,877,925,903"/>
-<area shape="rect" id="node34" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ae65efeb834b878160d6089e96b754b34" title="uORBTest::UnitTest\l::test_single" alt="" coords="587,613,730,655"/>
-<area shape="rect" id="node39" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a8bfd6340987229d4da1efdbd07410c3c" title="uORBTest::UnitTest\l::test_multi" alt="" coords="587,744,730,785"/>
-<area shape="rect" id="node42" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ad47b0676ca28811ce9dce9029a7d8c53" title="uORBTest::UnitTest\l::test_multi_reversed" alt="" coords="587,679,731,720"/>
-<area shape="rect" id="node43" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a4669df3fd1ee45ace02caf5b1726f75a" title="uORBTest::UnitTest\l::test_unadvertise" alt="" coords="587,483,730,524"/>
-<area shape="rect" id="node44" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abfc30f90e08ea47fe206cc249e505728" title="uORBTest::UnitTest\l::test_multi2" alt="" coords="587,875,730,916"/>
-<area shape="rect" id="node46" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a542d564d6ee57b4ba4a2748fea51fe97" title="uORBTest::UnitTest\l::test_queue" alt="" coords="587,548,730,589"/>
-<area shape="rect" id="node48" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a3e8d1a1e4272b71dedb8ba6ee6fe879d" title="uORBTest::UnitTest\l::test_queue_poll_notify" alt="" coords="579,809,739,851"/>
-<area shape="rect" id="node35" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ab36477768ad5868ebd6b958320d488e2" title="uORBTest::UnitTest\l::test_note" alt="" coords="795,709,937,751"/>
-<area shape="rect" id="node36" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a2f9c082ae8c2619e3c490585c468a488" title="uORBTest::UnitTest\l::test_fail" alt="" coords="795,592,937,633"/>
-<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="815,541,917,567"/>
-<area shape="rect" id="node38" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="825,658,907,685"/>
-<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="799,490,933,517"/>
-<area shape="rect" id="node41" href="$d9/d97/u_o_r_b_8cpp.html#a6758c1fb5768986a21aa993152f6956b" title="orb_priority" alt="" coords="823,826,909,853"/>
-<area shape="rect" id="node45" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a2ae4d193ed6895e676be36b18767ba81" title="uORBTest::UnitTest\l::pub_test_multi2_entry" alt="" coords="787,1044,945,1085"/>
-<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="795,389,937,415"/>
-<area shape="rect" id="node49" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a06d07daccc4f8db1c0c175a60d5a4114" title="uORBTest::UnitTest\l::pub_test_queue_entry" alt="" coords="787,979,945,1020"/>
+<area shape="rect" id="node2" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a115d969c6b22ef138a639b18d9130c55" title="uORBTest::UnitTest\l::instance" alt="" coords="1001,253,1144,294"/>
+<area shape="rect" id="node3" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a526bb55f48fbcf03e2ecc1129322d77f" title="uORBTest::UnitTest\l::latency_test" alt="" coords="172,486,315,527"/>
+<area shape="rect" id="node33" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a9ed260ea048382a11f6db91925931918" title="uORBTest::UnitTest\l::test" alt="" coords="375,586,518,627"/>
+<area shape="rect" id="node50" href="$d8/dfd/u_o_r_b__tests__main_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="usage" alt="" coords="215,603,272,629"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="384,493,509,520"/>
+<area shape="rect" id="node5" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="820,872,920,899"/>
+<area shape="rect" id="node24" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a736a81d1dffdf001a010b504511b78aa" title="uORBTest::UnitTest\l::pubsubtest_threadEntry" alt="" coords="363,245,531,286"/>
+<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="826,487,914,513"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="813,973,927,1000"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1001,545,1144,586"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="1001,762,1144,803"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1852,631,1995,673"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1209,501,1352,542"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1417,613,1604,640"/>
+<area shape="rect" id="node11" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1652,661,1804,702"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1439,501,1582,542"/>
+<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="1209,1134,1352,1175"/>
+<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1209,1069,1352,1110"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1209,370,1352,411"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1209,435,1352,477"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1192,567,1369,593"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1209,1003,1352,1045"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1195,719,1366,745"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1657,835,1799,877"/>
+<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1209,253,1352,294"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1209,821,1352,862"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="1209,886,1352,927"/>
+<area shape="rect" id="node25" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abb514aef37c3ad8c88e795fb4c4eca08" title="uORBTest::UnitTest\l::pubsublatency_main" alt="" coords="584,245,733,286"/>
+<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="801,201,939,228"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="833,588,907,615"/>
+<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="835,252,905,279"/>
+<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="787,100,953,127"/>
+<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="811,369,929,396"/>
+<area shape="rect" id="node34" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ae65efeb834b878160d6089e96b754b34" title="uORBTest::UnitTest\l::test_single" alt="" coords="587,683,730,725"/>
+<area shape="rect" id="node39" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a8bfd6340987229d4da1efdbd07410c3c" title="uORBTest::UnitTest\l::test_multi" alt="" coords="587,422,730,463"/>
+<area shape="rect" id="node42" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ad47b0676ca28811ce9dce9029a7d8c53" title="uORBTest::UnitTest\l::test_multi_reversed" alt="" coords="587,487,731,529"/>
+<area shape="rect" id="node43" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a4669df3fd1ee45ace02caf5b1726f75a" title="uORBTest::UnitTest\l::test_unadvertise" alt="" coords="587,749,730,790"/>
+<area shape="rect" id="node44" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#abfc30f90e08ea47fe206cc249e505728" title="uORBTest::UnitTest\l::test_multi2" alt="" coords="587,553,730,594"/>
+<area shape="rect" id="node46" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a542d564d6ee57b4ba4a2748fea51fe97" title="uORBTest::UnitTest\l::test_queue" alt="" coords="587,814,730,855"/>
+<area shape="rect" id="node48" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a3e8d1a1e4272b71dedb8ba6ee6fe879d" title="uORBTest::UnitTest\l::test_queue_poll_notify" alt="" coords="579,618,739,659"/>
+<area shape="rect" id="node35" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ab36477768ad5868ebd6b958320d488e2" title="uORBTest::UnitTest\l::test_note" alt="" coords="799,705,941,746"/>
+<area shape="rect" id="node36" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a2f9c082ae8c2619e3c490585c468a488" title="uORBTest::UnitTest\l::test_fail" alt="" coords="799,639,941,681"/>
+<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="819,821,921,848"/>
+<area shape="rect" id="node38" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="829,771,911,797"/>
+<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="803,537,937,564"/>
+<area shape="rect" id="node41" href="$d9/d97/u_o_r_b_8cpp.html#a6758c1fb5768986a21aa993152f6956b" title="orb_priority" alt="" coords="827,151,913,177"/>
+<area shape="rect" id="node45" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a2ae4d193ed6895e676be36b18767ba81" title="uORBTest::UnitTest\l::pub_test_multi2_entry" alt="" coords="791,303,949,345"/>
+<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="799,923,941,949"/>
+<area shape="rect" id="node49" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a06d07daccc4f8db1c0c175a60d5a4114" title="uORBTest::UnitTest\l::pub_test_queue_entry" alt="" coords="791,421,949,462"/>
 </map>

@@ -1,15 +1,23 @@
 <map id="math::sign" name="math::sign">
-<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#a6208d517ae36af0264e68ee89e93b114" title="Computes and sets heading a 2D vector. " alt="" coords="138,5,313,47"/>
-<area shape="rect" id="node3" href="$d8/d5a/class_position_control.html#a344630cfe29f6359d43b36e72e3b97d4" title="applies the P&#45;position&#45;controller " alt="" coords="140,71,311,112"/>
-<area shape="rect" id="node9" href="$dd/d47/namespacemath.html#a58abda03bffcef0e62ca326a79d5352f" title="math::deadzone" alt="" coords="168,137,283,163"/>
-<area shape="rect" id="node14" href="$d2/d7a/class_flight_task_orbit.html#a9378969f2b0f44b3f3c0b7cdccc268c4" title="Change the radius of the circle. " alt="" coords="136,187,315,214"/>
-<area shape="rect" id="node4" href="$d8/d5a/class_position_control.html#adbac83085545adb41be6523877231e90" title="Apply P&#45;position and PID&#45;velocity controller that updates the member thrust, yaw&#45; and yawspeed&#45;setpoi..." alt="" coords="368,69,537,111"/>
-<area shape="rect" id="node5" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="591,67,765,108"/>
-<area shape="rect" id="node6" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="836,67,1011,108"/>
-<area shape="rect" id="node7" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="1081,67,1256,108"/>
-<area shape="rect" id="node8" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="1304,74,1453,101"/>
-<area shape="rect" id="node10" href="$dd/d47/namespacemath.html#af964936df6c78af1999f5a24783b27cd" title="math::expo_deadzone" alt="" coords="377,137,528,163"/>
-<area shape="rect" id="node13" href="$de/d5d/class_manual_input.html#ad3651fb300a45e3ad1deb46baecd8ad1" title="ManualInput::~ManualInput" alt="" coords="363,187,543,214"/>
-<area shape="rect" id="node11" href="$de/de4/class_flight_task_manual.html#a9ece54e27fe9c4ec85c84610ec3bc245" title="checks and sets stick inputs " alt="" coords="611,132,745,173"/>
-<area shape="rect" id="node12" href="$de/de4/class_flight_task_manual.html#ad252358798174f383d877d1098683ca4" title="FlightTaskManual::stickDeadzone" alt="" coords="813,139,1033,166"/>
+<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#a6208d517ae36af0264e68ee89e93b114" title="Computes and sets heading a 2D vector. " alt="" coords="142,5,317,47"/>
+<area shape="rect" id="node6" href="$d1/da1/class_flight_task_auto_line_smooth_vel.html#add3833e0b0e044c8653161ea6cf36c75" title="FlightTaskAutoLineSmooth\lVel::_constrainAbs" alt="" coords="140,71,319,112"/>
+<area shape="rect" id="node7" href="$d8/d5a/class_position_control.html#a344630cfe29f6359d43b36e72e3b97d4" title="applies the P&#45;position&#45;controller " alt="" coords="144,136,315,177"/>
+<area shape="rect" id="node8" href="$de/dcc/class_attitude_control_convergence_test.html#a815c41f8fb1b4c177056c198a66440c7" title="AttitudeControlConvergence\lTest::adaptAntipodal" alt="" coords="136,201,323,243"/>
+<area shape="rect" id="node9" href="$d2/d64/class_velocity_smoothing.html#ab38d40c590dfa0be49f20053569a4e4d" title="Compute the direction of the jerk to be applied in order to drive the current state to the desired on..." alt="" coords="407,289,545,331"/>
+<area shape="rect" id="node13" href="$d2/d64/class_velocity_smoothing.html#a013ee02af48f11e926f9ecc2f7bd9164" title="Compute the velocity at which the trajectory will be if the maximum jerk is applied during the time r..." alt="" coords="153,319,306,360"/>
+<area shape="rect" id="node14" href="$d6/db2/class_rover_position_control.html#ae739efccc037fff57e0cbbd61feff46f" title="Control position. " alt="" coords="156,384,303,425"/>
+<area shape="rect" id="node16" href="$dd/d47/namespacemath.html#a58abda03bffcef0e62ca326a79d5352f" title="math::deadzone" alt="" coords="172,450,287,477"/>
+<area shape="rect" id="node20" href="$d2/d7a/class_flight_task_orbit.html#a9378969f2b0f44b3f3c0b7cdccc268c4" title="Change the radius of the circle. " alt="" coords="140,505,319,531"/>
+<area shape="rect" id="node3" href="$d8/d0b/class_flight_task_auto.html#a2e511bab598739e403729afb599ac51d" title="FlightTaskAuto::_set\l_heading_from_mode" alt="" coords="403,5,549,47"/>
+<area shape="rect" id="node4" href="$d8/d0b/class_flight_task_auto.html#a6ba395901628042b73583f6657e489bc" title="Checks and sets triplets. " alt="" coords="629,5,804,47"/>
+<area shape="rect" id="node5" href="$d8/d0b/class_flight_task_auto.html#a6632a22e2e4eebe37e94ace639930a58" title="Call before activate() or update() to initialize time and input data. " alt="" coords="859,13,1065,39"/>
+<area shape="rect" id="node10" href="$d2/d64/class_velocity_smoothing.html#a3118670b7172adc7d019f1a2650a2db4" title="Compute T1, T2, T3 depending on the current state and velocity setpoint. " alt="" coords="647,289,786,331"/>
+<area shape="rect" id="node11" href="$dc/dd8/test__velocity__smoothing_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Test code for the Velocity Smoothing library Build and run using: make &amp;&amp; . " alt="" coords="937,267,987,294"/>
+<area shape="rect" id="node12" href="$d5/d2f/class_manual_velocity_smoothing_z.html#a902904f643eb903c564ada6d52c3ed6e" title="ManualVelocitySmoothingZ\l::update" alt="" coords="871,319,1053,360"/>
+<area shape="rect" id="node15" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="390,391,562,418"/>
+<area shape="rect" id="node17" href="$dd/d47/namespacemath.html#af964936df6c78af1999f5a24783b27cd" title="math::expo_deadzone" alt="" coords="401,446,551,473"/>
+<area shape="rect" id="node18" href="$de/de4/class_flight_task_manual.html#a9ece54e27fe9c4ec85c84610ec3bc245" title="checks and sets stick inputs " alt="" coords="650,439,783,480"/>
+<area shape="rect" id="node19" href="$de/de4/class_flight_task_manual.html#ad98fcae720692e68fb43af84cd2d352a" title="FlightTaskManual::stickDeadzone" alt="" coords="852,446,1072,473"/>
+<area shape="rect" id="node21" href="$d2/d7a/class_flight_task_orbit.html#af94ed3b9b866ea59246d08cdd3561531" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="371,497,581,539"/>
+<area shape="rect" id="node22" href="$d2/d7a/class_flight_task_orbit.html#a25fad66b24edad70e6dfcfdad04398a0" title="To be called regularly in the control loop cycle to execute the task. " alt="" coords="397,563,555,590"/>
 </map>

@@ -1,18 +1,10 @@
 <map id="UavcanEsc::run" name="UavcanEsc::run">
-<area shape="rect" id="node2" href="$d9/dc3/class_uavcan_esc.html#a27194d0e1f19d6178d7abf6b8e0b52c3" title="add a fd to poll list, returning index into _poll_fds[] " alt="" coords="183,5,347,32"/>
-<area shape="rect" id="node3" href="$d9/dc3/class_uavcan_esc.html#a6f450cb8e7ab2a99dae874d464f4157b" title="UavcanEsc::get_node" alt="" coords="190,157,341,184"/>
-<area shape="rect" id="node5" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="618,81,757,108"/>
-<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="611,183,764,209"/>
-<area shape="rect" id="node7" href="$d9/dc3/class_uavcan_esc.html#a16106186b092453a16b795a0ccbbcdbd" title="UavcanEsc::teardown" alt="" coords="411,107,561,133"/>
-<area shape="rect" id="node8" href="$d6/d4d/uavcanesc_2indication__controller_8cpp.html#af56aa90c1905a7c6533f02b1a0f0b7f1" title="init_indication_controller" alt="" coords="185,259,346,285"/>
-<area shape="rect" id="node9" href="$d9/dc3/class_uavcan_esc.html#acae591e7fa2d9dfbfbe0f420a2e4385d" title="UavcanEsc::node_spin_once" alt="" coords="169,309,361,336"/>
-<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="196,360,335,387"/>
-<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="200,491,331,517"/>
-<area shape="rect" id="node4" href="$d9/dc3/class_uavcan_esc.html#a03c656d2694ba2744b2317c9f57677fe" title="UavcanEsc::print_info" alt="" coords="411,157,561,184"/>
-<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="419,335,553,361"/>
-<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="417,386,555,427"/>
-<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="412,284,560,311"/>
-<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="417,517,555,558"/>
-<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="421,582,551,623"/>
-<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="409,451,563,493"/>
+<area shape="rect" id="node2" href="$d9/dc3/class_uavcan_esc.html#a6f450cb8e7ab2a99dae874d464f4157b" title="UavcanEsc::get_node" alt="" coords="190,5,341,32"/>
+<area shape="rect" id="node4" href="$d9/dc3/class_uavcan_esc.html#a16106186b092453a16b795a0ccbbcdbd" title="UavcanEsc::teardown" alt="" coords="409,56,560,83"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="214,107,317,133"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="224,157,307,184"/>
+<area shape="rect" id="node7" href="$d6/d4d/uavcanesc_2indication__controller_8cpp.html#af56aa90c1905a7c6533f02b1a0f0b7f1" title="init_indication_controller" alt="" coords="185,208,346,235"/>
+<area shape="rect" id="node8" href="$d9/dc3/class_uavcan_esc.html#acae591e7fa2d9dfbfbe0f420a2e4385d" title="UavcanEsc::node_spin_once" alt="" coords="169,259,361,285"/>
+<area shape="rect" id="node9" href="$dc/d61/uavcanesc__main_8cpp.html#a5988d6a8e4616127d8adf181a52c1da1" title="signal_callback" alt="" coords="210,309,321,336"/>
+<area shape="rect" id="node3" href="$d9/dc3/class_uavcan_esc.html#a03c656d2694ba2744b2317c9f57677fe" title="UavcanEsc::print_info" alt="" coords="409,5,560,32"/>
 </map>

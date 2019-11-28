@@ -1,6 +1,5 @@
 <map id="led_pwm_servo_set" name="led_pwm_servo_set">
-<area shape="rect" id="node2" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ae3f93bbe3c54a10e09b4a124e97fac44" title="Send RGB PWM settings to LED driver according to current color and brightness. " alt="" coords="192,5,395,32"/>
-<area shape="rect" id="node3" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ab7895cba95aa1bd594e849627b688cb6" title="Initialise the driver and make it ready for use. " alt="" coords="891,5,1033,32"/>
-<area shape="rect" id="node4" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#a8a188dd993943a248cb35bc551fd7413" title="Main loop function. " alt="" coords="443,31,585,57"/>
-<area shape="rect" id="node5" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ad6f4e70883ed9816569f80f768b08a17" title="RGBLED_PWM::led_trampoline" alt="" coords="633,31,843,57"/>
+<area shape="rect" id="node2" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ae3f93bbe3c54a10e09b4a124e97fac44" title="Send RGB PWM settings to LED driver according to current color and brightness. " alt="" coords="192,31,395,57"/>
+<area shape="rect" id="node3" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ab7895cba95aa1bd594e849627b688cb6" title="RGBLED_PWM::init" alt="" coords="446,5,589,32"/>
+<area shape="rect" id="node4" href="$df/dc7/class_r_g_b_l_e_d___p_w_m.html#ac99c2130b5424637a3ba4a98126080f6" title="Main loop function. " alt="" coords="443,56,592,83"/>
 </map>

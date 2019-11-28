@@ -1,43 +1,42 @@
 <map id="build/doxygen/uORB/topics/vehicle_air_data.h" name="build/doxygen/uORB/topics/vehicle_air_data.h">
-<area shape="rect" id="node2" href="$dc/dcb/frsky__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/frsky\l_data.cpp" alt="" coords="642,109,791,165"/>
-<area shape="rect" id="node3" href="$d4/de1/frsky__telemetry_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/frsky\l_telemetry.cpp" alt="" coords="815,109,965,165"/>
-<area shape="rect" id="node4" href="$d7/d9b/s_port__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/sPort\l_data.cpp" alt="" coords="989,109,1140,165"/>
-<area shape="rect" id="node5" href="$de/d23/messages_8cpp.html" title="src/drivers/telemetry\l/hott/messages.cpp" alt="" coords="1165,117,1306,158"/>
-<area shape="rect" id="node6" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="1331,117,1481,158"/>
-<area shape="rect" id="node7" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="1505,117,1784,158"/>
-<area shape="rect" id="node19" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="1809,117,1971,158"/>
-<area shape="rect" id="node20" href="$d0/d8c/geofence_8h.html" title="Provides functions for handling the geofence. " alt="" coords="1996,117,2147,158"/>
-<area shape="rect" id="node38" href="$d0/d58/position__estimator__inav__main_8cpp.html" title="src/modules/position\l_estimator_inav/position\l_estimator_inav_main.cpp" alt="" coords="2171,109,2345,165"/>
-<area shape="rect" id="node39" href="$d7/ddc/replay__main_8cpp.html" title="This module reads messages from an ULog file and publishes them. " alt="" coords="2369,117,2501,158"/>
-<area shape="rect" id="node40" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="2655,221,2797,262"/>
-<area shape="rect" id="node41" href="$dd/d59/voted__sensors__update_8h.html" title="src/modules/sensors\l/voted_sensors_update.h" alt="" coords="2642,117,2810,158"/>
-<area shape="rect" id="node8" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="5,221,284,262"/>
-<area shape="rect" id="node9" href="$d1/db5/local__position__estimator__main_8cpp.html" title="src/modules/local_position\l_estimator/local_position\l_estimator_main.cpp" alt="" coords="309,213,485,269"/>
-<area shape="rect" id="node10" href="$db/d09/local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="509,221,695,262"/>
-<area shape="rect" id="node11" href="$d5/d89/flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="719,221,906,262"/>
-<area shape="rect" id="node12" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="931,221,1113,262"/>
-<area shape="rect" id="node13" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="1138,221,1325,262"/>
-<area shape="rect" id="node14" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="1349,213,1527,269"/>
-<area shape="rect" id="node15" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="1551,221,1738,262"/>
-<area shape="rect" id="node16" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="1763,221,1964,262"/>
-<area shape="rect" id="node17" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="1989,221,2183,262"/>
-<area shape="rect" id="node18" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="2208,221,2404,262"/>
-<area shape="rect" id="node21" href="$d0/d69/navigator_8h.html" title="Helper class to access missions. " alt="" coords="2480,221,2631,262"/>
-<area shape="rect" id="node25" href="$d8/dfa/geofence_8cpp.html" title="Provides functions for handling the geofence. " alt="" coords="1257,325,1408,366"/>
-<area shape="rect" id="node22" href="$dc/dd1/datalinkloss_8cpp.html" title="Helper class for Data Link Loss Mode according to the OBC rules. " alt="" coords="1432,325,1583,366"/>
-<area shape="rect" id="node23" href="$de/daf/enginefailure_8cpp.html" title="src/modules/navigator\l/enginefailure.cpp" alt="" coords="1607,325,1757,366"/>
-<area shape="rect" id="node24" href="$d4/d54/follow__target_8cpp.html" title="src/modules/navigator\l/follow_target.cpp" alt="" coords="1781,325,1932,366"/>
-<area shape="rect" id="node26" href="$d7/d0c/gpsfailure_8cpp.html" title="Helper class for gpsfailure mode according to the OBC rules. " alt="" coords="1956,325,2107,366"/>
-<area shape="rect" id="node27" href="$df/d25/navigator_2land_8cpp.html" title="src/modules/navigator\l/land.cpp" alt="" coords="2131,325,2281,366"/>
-<area shape="rect" id="node28" href="$d1/d7e/loiter_8cpp.html" title="Helper class to loiter. " alt="" coords="2305,325,2456,366"/>
-<area shape="rect" id="node29" href="$d0/d3c/mission_8cpp.html" title="src/modules/navigator\l/mission.cpp" alt="" coords="2480,325,2631,366"/>
-<area shape="rect" id="node30" href="$d4/dc9/mission__block_8cpp.html" title="Helper class to use mission items. " alt="" coords="2655,325,2805,366"/>
-<area shape="rect" id="node31" href="$d4/d86/mission__feasibility__checker_8cpp.html" title="Provides checks if mission is feasible given the navigation capabilities. " alt="" coords="2829,317,2980,373"/>
-<area shape="rect" id="node32" href="$da/da4/navigator__main_8cpp.html" title="Handles mission items, geo fencing and failsafe navigation behavior. " alt="" coords="3004,325,3155,366"/>
-<area shape="rect" id="node33" href="$da/daa/navigator__mode_8cpp.html" title="Base class for different modes in navigator. " alt="" coords="3179,325,3329,366"/>
-<area shape="rect" id="node34" href="$d2/dff/precland_8cpp.html" title="Helper class to do precision landing with a landing target. " alt="" coords="3353,325,3504,366"/>
-<area shape="rect" id="node35" href="$d6/d0a/rcloss_8cpp.html" title="Helper class for RC Loss Mode according to the OBC rules. " alt="" coords="3528,325,3679,366"/>
-<area shape="rect" id="node36" href="$dc/d9b/rtl_8cpp.html" title="src/modules/navigator\l/rtl.cpp" alt="" coords="3703,325,3853,366"/>
-<area shape="rect" id="node37" href="$d0/d7a/takeoff_8cpp.html" title="src/modules/navigator\l/takeoff.cpp" alt="" coords="3877,325,4028,366"/>
-<area shape="rect" id="node42" href="$d3/d2f/voted__sensors__update_8cpp.html" title="src/modules/sensors\l/voted_sensors_update.cpp" alt="" coords="2821,221,3004,262"/>
+<area shape="rect" id="node2" href="$dc/dcb/frsky__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/frsky\l_data.cpp" alt="" coords="346,109,495,165"/>
+<area shape="rect" id="node3" href="$d4/de1/frsky__telemetry_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/frsky\l_telemetry.cpp" alt="" coords="519,109,669,165"/>
+<area shape="rect" id="node4" href="$d7/d9b/s_port__data_8cpp.html" title="src/drivers/telemetry\l/frsky_telemetry/sPort\l_data.cpp" alt="" coords="693,109,844,165"/>
+<area shape="rect" id="node5" href="$de/d23/messages_8cpp.html" title="src/drivers/telemetry\l/hott/messages.cpp" alt="" coords="869,117,1010,158"/>
+<area shape="rect" id="node6" href="$d3/ded/airspeed__selector__main_8cpp.html" title="src/modules/airspeed\l_selector/airspeed_selector\l_main.cpp" alt="" coords="1034,109,1215,165"/>
+<area shape="rect" id="node7" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="1240,117,1391,158"/>
+<area shape="rect" id="node8" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="1415,117,1693,158"/>
+<area shape="rect" id="node19" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="1718,117,1881,158"/>
+<area shape="rect" id="node20" href="$d0/d8c/geofence_8h.html" title="Provides functions for handling the geofence. " alt="" coords="2027,117,2177,158"/>
+<area shape="rect" id="node38" href="$de/d1a/_replay_ekf2_8cpp.html" title="src/modules/replay\l/ReplayEkf2.cpp" alt="" coords="2201,117,2333,158"/>
+<area shape="rect" id="node39" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="2455,221,2597,262"/>
+<area shape="rect" id="node40" href="$dd/d59/voted__sensors__update_8h.html" title="src/modules/sensors\l/voted_sensors_update.h" alt="" coords="2442,117,2610,158"/>
+<area shape="rect" id="node9" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="5,221,284,262"/>
+<area shape="rect" id="node10" href="$de/dac/modules_2local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="309,221,495,262"/>
+<area shape="rect" id="node11" href="$d9/df4/modules_2local__position__estimator_2sensors_2flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="519,221,706,262"/>
+<area shape="rect" id="node12" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="731,221,913,262"/>
+<area shape="rect" id="node13" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="938,221,1125,262"/>
+<area shape="rect" id="node14" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="1149,213,1327,269"/>
+<area shape="rect" id="node15" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="1351,221,1538,262"/>
+<area shape="rect" id="node16" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="1563,221,1764,262"/>
+<area shape="rect" id="node17" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="1789,221,1983,262"/>
+<area shape="rect" id="node18" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="2008,221,2204,262"/>
+<area shape="rect" id="node21" href="$d0/d69/navigator_8h.html" title="Helper class to access missions. " alt="" coords="2280,221,2431,262"/>
+<area shape="rect" id="node25" href="$d8/dfa/geofence_8cpp.html" title="Provides functions for handling the geofence. " alt="" coords="1057,325,1208,366"/>
+<area shape="rect" id="node22" href="$dc/dd1/datalinkloss_8cpp.html" title="Helper class for Data Link Loss Mode according to the OBC rules. " alt="" coords="1232,325,1383,366"/>
+<area shape="rect" id="node23" href="$de/daf/enginefailure_8cpp.html" title="src/modules/navigator\l/enginefailure.cpp" alt="" coords="1407,325,1557,366"/>
+<area shape="rect" id="node24" href="$d4/d54/follow__target_8cpp.html" title="src/modules/navigator\l/follow_target.cpp" alt="" coords="1581,325,1732,366"/>
+<area shape="rect" id="node26" href="$d7/d0c/gpsfailure_8cpp.html" title="Helper class for gpsfailure mode according to the OBC rules. " alt="" coords="1756,325,1907,366"/>
+<area shape="rect" id="node27" href="$df/d25/navigator_2land_8cpp.html" title="src/modules/navigator\l/land.cpp" alt="" coords="1931,325,2081,366"/>
+<area shape="rect" id="node28" href="$d1/d7e/loiter_8cpp.html" title="Helper class to loiter. " alt="" coords="2105,325,2256,366"/>
+<area shape="rect" id="node29" href="$d0/d3c/mission_8cpp.html" title="src/modules/navigator\l/mission.cpp" alt="" coords="2280,325,2431,366"/>
+<area shape="rect" id="node30" href="$d4/dc9/mission__block_8cpp.html" title="Helper class to use mission items. " alt="" coords="2455,325,2605,366"/>
+<area shape="rect" id="node31" href="$d4/d86/mission__feasibility__checker_8cpp.html" title="Provides checks if mission is feasible given the navigation capabilities. " alt="" coords="2629,317,2780,373"/>
+<area shape="rect" id="node32" href="$da/da4/navigator__main_8cpp.html" title="Handles mission items, geo fencing and failsafe navigation behavior. " alt="" coords="2804,325,2955,366"/>
+<area shape="rect" id="node33" href="$da/daa/navigator__mode_8cpp.html" title="Base class for different modes in navigator. " alt="" coords="2979,325,3129,366"/>
+<area shape="rect" id="node34" href="$d2/dff/precland_8cpp.html" title="Helper class to do precision landing with a landing target. " alt="" coords="3153,325,3304,366"/>
+<area shape="rect" id="node35" href="$d6/d0a/rcloss_8cpp.html" title="Helper class for RC Loss Mode according to the OBC rules. " alt="" coords="3328,325,3479,366"/>
+<area shape="rect" id="node36" href="$dc/d9b/rtl_8cpp.html" title="Helper class to access RTL. " alt="" coords="3503,325,3653,366"/>
+<area shape="rect" id="node37" href="$d7/d13/navigator_2_takeoff_8cpp.html" title="src/modules/navigator\l/takeoff.cpp" alt="" coords="3677,325,3828,366"/>
+<area shape="rect" id="node41" href="$d3/d2f/voted__sensors__update_8cpp.html" title="src/modules/sensors\l/voted_sensors_update.cpp" alt="" coords="2621,221,2804,262"/>
 </map>

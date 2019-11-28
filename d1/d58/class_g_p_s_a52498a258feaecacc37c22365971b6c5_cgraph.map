@@ -1,51 +1,51 @@
 <map id="GPS::run" name="GPS::run">
-<area shape="rect" id="node2" href="$d1/d58/class_g_p_s.html#ade51b469c95a168441874ae0456bb297" title="callback from the driver for the platform specific stuff " alt="" coords="191,157,298,184"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="643,309,768,336"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="675,157,735,184"/>
-<area shape="rect" id="node15" href="$d2/d20/class_g_p_s_helper.html#ac36f49b894cac93f02ad17554b4653ec" title="configure the device " alt="" coords="170,401,319,428"/>
-<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="225,452,264,479"/>
-<area shape="rect" id="node17" href="$d1/d58/class_g_p_s.html#a13e4563d284fe4aae21b190fd2388cda" title="GPS::initializeCommunicationDump" alt="" coords="129,604,360,631"/>
-<area shape="rect" id="node22" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="436,553,523,580"/>
-<area shape="rect" id="node23" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="438,655,521,681"/>
-<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="654,208,757,235"/>
-<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="187,807,302,833"/>
-<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="647,1085,764,1112"/>
-<area shape="rect" id="node31" href="$d1/d58/class_g_p_s.html#afa3e0c9d5dcf29eb89f8ede581298a49" title="Publish the gps struct. " alt="" coords="195,705,294,732"/>
-<area shape="rect" id="node44" href="$d1/d58/class_g_p_s.html#a88adb8156bd8e9611ad305313d9c07a8" title="Publish the satellite info. " alt="" coords="161,756,329,783"/>
-<area shape="rect" id="node45" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="194,908,295,935"/>
-<area shape="rect" id="node46" href="$d2/d20/class_g_p_s_helper.html#a63f7d56f05b21d8108d5f57cb6c76a46" title="receive &amp; handle new data from the device " alt="" coords="175,959,314,985"/>
-<area shape="rect" id="node47" href="$d2/d20/class_g_p_s_helper.html#aee2954acd4965f0025e8cdb5a106feb6" title="GPSHelper::resetUpdateRates" alt="" coords="143,1009,346,1036"/>
-<area shape="rect" id="node48" href="$d2/d20/class_g_p_s_helper.html#a183592bc32f37f29c0aa0e8dbfc9e7af" title="GPSHelper::storeUpdateRates" alt="" coords="143,1060,346,1087"/>
-<area shape="rect" id="node49" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="189,1111,300,1137"/>
-<area shape="rect" id="node3" href="$d1/d58/class_g_p_s.html#a573fb27a45939a216883d5acf62cecd6" title="Dump gps communication. " alt="" coords="408,309,551,336"/>
-<area shape="rect" id="node8" href="$d1/d58/class_g_p_s.html#addbf9acf7d95e18850b82f03a1ba1534" title="This is an abstraction for the poll on serial used. " alt="" coords="418,56,541,83"/>
-<area shape="rect" id="node13" href="$d1/d58/class_g_p_s.html#a7ddf32beac477bf48afca35de10a3a4e" title="set the Baudrate " alt="" coords="415,107,543,133"/>
-<area shape="rect" id="node14" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="454,157,505,184"/>
-<area shape="rect" id="node5" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="661,259,749,285"/>
-<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="860,661,1003,702"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1285,559,1428,601"/>
-<area shape="rect" id="node9" href="$d1/d58/class_g_p_s.html#a8e47cf7f3fac791a725f0c2075bfeff2" title="check for new messages on the inject data topic &amp; handle them " alt="" coords="611,5,799,32"/>
-<area shape="rect" id="node10" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="665,56,745,83"/>
-<area shape="rect" id="node11" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="682,107,729,133"/>
-<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#acdeb26807dee9e2d85bca4a4e9e4bd93" title="orb_advertise_multi\l_queue" alt="" coords="638,411,773,453"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="860,470,1003,511"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1051,477,1237,504"/>
-<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1103,553,1185,580"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="860,353,1003,394"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="408,871,551,913"/>
-<area shape="rect" id="node28" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="599,984,812,1011"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="860,895,1003,937"/>
-<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="419,705,539,732"/>
-<area shape="rect" id="node33" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="638,477,773,504"/>
-<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="664,579,747,605"/>
-<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="668,629,743,656"/>
-<area shape="rect" id="node36" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="664,680,747,707"/>
-<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="648,731,763,757"/>
-<area shape="rect" id="node38" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="646,781,765,808"/>
-<area shape="rect" id="node39" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="662,832,749,859"/>
-<area shape="rect" id="node40" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="661,883,749,909"/>
-<area shape="rect" id="node41" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="648,933,763,960"/>
-<area shape="rect" id="node42" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="671,528,740,555"/>
-<area shape="rect" id="node43" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="654,360,757,387"/>
-<area shape="rect" id="node50" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="424,1111,535,1137"/>
+<area shape="rect" id="node2" href="$d1/d58/class_g_p_s.html#ade51b469c95a168441874ae0456bb297" title="callback from the driver for the platform specific stuff " alt="" coords="191,787,298,814"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1087,290,1213,316"/>
+<area shape="rect" id="node12" href="$d2/d20/class_g_p_s_helper.html#ac36f49b894cac93f02ad17554b4653ec" title="configure the device " alt="" coords="170,838,319,864"/>
+<area shape="rect" id="node13" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="924,366,963,392"/>
+<area shape="rect" id="node16" href="$d1/d58/class_g_p_s.html#a13e4563d284fe4aae21b190fd2388cda" title="GPS::initializeCommunicationDump" alt="" coords="129,522,360,548"/>
+<area shape="rect" id="node17" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="436,163,523,190"/>
+<area shape="rect" id="node23" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="438,467,521,494"/>
+<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="187,888,302,915"/>
+<area shape="rect" id="node40" href="$d1/d58/class_g_p_s.html#afa3e0c9d5dcf29eb89f8ede581298a49" title="Publish the gps struct. " alt="" coords="195,939,294,966"/>
+<area shape="rect" id="node42" href="$d1/d58/class_g_p_s.html#a88adb8156bd8e9611ad305313d9c07a8" title="Publish the satellite info. " alt="" coords="161,990,329,1016"/>
+<area shape="rect" id="node43" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="194,1040,295,1067"/>
+<area shape="rect" id="node44" href="$d2/d20/class_g_p_s_helper.html#a63f7d56f05b21d8108d5f57cb6c76a46" title="receive &amp; handle new data from the device " alt="" coords="175,1091,314,1118"/>
+<area shape="rect" id="node45" href="$d1/d58/class_g_p_s.html#a712a60d0c2473c0a582696381b385a9b" title="Reset device if reset was scheduled. " alt="" coords="161,1142,328,1168"/>
+<area shape="rect" id="node47" href="$d2/d20/class_g_p_s_helper.html#aee2954acd4965f0025e8cdb5a106feb6" title="GPSHelper::resetUpdateRates" alt="" coords="143,1192,346,1219"/>
+<area shape="rect" id="node48" href="$d2/d20/class_g_p_s_helper.html#a183592bc32f37f29c0aa0e8dbfc9e7af" title="GPSHelper::storeUpdateRates" alt="" coords="143,1243,346,1270"/>
+<area shape="rect" id="node49" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="189,1294,300,1320"/>
+<area shape="rect" id="node3" href="$d1/d58/class_g_p_s.html#a573fb27a45939a216883d5acf62cecd6" title="Dump gps communication. " alt="" coords="408,686,551,712"/>
+<area shape="rect" id="node6" href="$d1/d58/class_g_p_s.html#addbf9acf7d95e18850b82f03a1ba1534" title="This is an abstraction for the poll on serial used. " alt="" coords="418,888,541,915"/>
+<area shape="rect" id="node10" href="$d1/d58/class_g_p_s.html#a7ddf32beac477bf48afca35de10a3a4e" title="set the Baudrate " alt="" coords="415,787,543,814"/>
+<area shape="rect" id="node11" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="454,838,505,864"/>
+<area shape="rect" id="node5" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="618,772,793,813"/>
+<area shape="rect" id="node7" href="$d1/d58/class_g_p_s.html#a8e47cf7f3fac791a725f0c2075bfeff2" title="check for new messages on the inject data topic &amp; handle them " alt="" coords="611,838,799,864"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="665,888,745,915"/>
+<area shape="rect" id="node9" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="682,939,729,966"/>
+<area shape="rect" id="node14" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1109,366,1191,392"/>
+<area shape="rect" id="node15" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1305,366,1392,392"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="638,163,773,190"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1075,112,1225,139"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="860,214,1027,240"/>
+<area shape="rect" id="node21" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="902,264,985,291"/>
+<area shape="rect" id="node22" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="907,315,979,342"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1092,644,1208,671"/>
+<area shape="rect" id="node26" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="634,112,777,139"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="639,416,771,443"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="895,619,992,646"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="639,467,771,494"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="898,670,989,696"/>
+<area shape="rect" id="node33" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="661,62,750,88"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="632,518,779,544"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1273,644,1424,671"/>
+<area shape="rect" id="node27" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="885,62,1001,88"/>
+<area shape="rect" id="node28" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="870,112,1017,139"/>
+<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="872,1008,1015,1049"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="408,957,551,998"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1079,1008,1221,1049"/>
+<area shape="rect" id="node39" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="599,990,812,1016"/>
+<area shape="rect" id="node41" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="419,1091,539,1118"/>
+<area shape="rect" id="node46" href="$d2/d20/class_g_p_s_helper.html#a96ea119ae0d2dd51afe62d923e49cf00" title="Reset GPS device. " alt="" coords="417,1142,542,1168"/>
+<area shape="rect" id="node50" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="432,1294,527,1320"/>
 </map>

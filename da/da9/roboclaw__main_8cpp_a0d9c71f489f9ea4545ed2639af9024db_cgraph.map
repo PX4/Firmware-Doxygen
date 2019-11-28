@@ -1,32 +1,51 @@
 <map id="roboclaw_main" name="roboclaw_main">
-<area shape="rect" id="node2" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="163,183,315,209"/>
-<area shape="rect" id="node3" href="$da/da9/roboclaw__main_8cpp.html#adbebe036c51ef8c300c4252cbe0653f6" title="Mainloop of deamon. " alt="" coords="163,233,315,260"/>
-<area shape="rect" id="node24" href="$d9/d0b/_robo_claw_8cpp.html#aea6ac1f1d1a13fd5d67b19f189d36ed9" title="roboclawTest" alt="" coords="378,309,478,336"/>
-<area shape="rect" id="node31" href="$da/da9/roboclaw__main_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="Print the correct usage. " alt="" coords="210,335,267,361"/>
-<area shape="rect" id="node4" href="$d2/dba/class_robo_claw.html#adb9a7afdec8e9714c7f5cac2cbd35e0f" title="main update loop that updates RoboClaw motor dutycycle based on actuator publication ..." alt="" coords="363,208,493,235"/>
-<area shape="rect" id="node5" href="$dc/d50/classu_o_r_b_1_1_subscription_base.html#ac538dc66545d607afe3bf1548873eba2" title="Check if there is a new update. " alt="" coords="559,77,727,118"/>
-<area shape="rect" id="node18" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a1f7f1bd26da7cc8d23bbbb1a278f742f" title="Create an update function that uses the embedded struct. " alt="" coords="574,142,713,183"/>
-<area shape="rect" id="node19" href="$d2/dba/class_robo_claw.html#a912bf0fc6daeefafc0b8ba5ccf0effe1" title="set the duty cycle of a motor, rev/sec " alt="" coords="541,259,745,285"/>
-<area shape="rect" id="node23" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="561,208,725,235"/>
-<area shape="rect" id="node6" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="847,84,929,111"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1038,45,1181,86"/>
-<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1236,107,1379,149"/>
-<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1236,42,1379,83"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1427,49,1553,76"/>
-<area shape="rect" id="node10" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1601,5,1736,32"/>
-<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1617,56,1721,83"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1791,56,1930,83"/>
-<area shape="rect" id="node13" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1784,107,1937,133"/>
-<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1453,115,1527,141"/>
-<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1631,107,1706,133"/>
-<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1601,157,1736,184"/>
-<area shape="rect" id="node20" href="$d2/dba/class_robo_claw.html#a40b7ef38e9c29944546731efb5d37c2e" title="RoboClaw::_sendCommand" alt="" coords="795,208,981,235"/>
-<area shape="rect" id="node21" href="$d2/dba/class_robo_claw.html#a9c4547b4cdfce0dac346ac1fe8105443" title="RoboClaw::_sumBytes" alt="" coords="1031,259,1188,285"/>
-<area shape="rect" id="node22" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="1084,208,1135,235"/>
-<area shape="rect" id="node25" href="$d2/dba/class_robo_claw.html#a0541e2f8660c7a7deb443a563b413e28" title="print status " alt="" coords="566,411,721,437"/>
-<area shape="rect" id="node28" href="$d2/dba/class_robo_claw.html#ae0cdf46af8a62acc31e6ee418a095493" title="read data from serial " alt="" coords="561,309,725,336"/>
-<area shape="rect" id="node29" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="858,360,918,387"/>
-<area shape="rect" id="node26" href="$d2/dba/class_robo_claw.html#a0d6562d9b4da5fe32265f1fc447c5f5c" title="RoboClaw::getMotorPosition" alt="" coords="793,411,983,437"/>
-<area shape="rect" id="node27" href="$d2/dba/class_robo_claw.html#ad19ebff0615e7adf8e23e52306d49d66" title="RoboClaw::getMotorSpeed" alt="" coords="799,461,977,488"/>
-<area shape="rect" id="node30" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="865,309,911,336"/>
+<area shape="rect" id="node2" href="$da/da9/roboclaw__main_8cpp.html#adbebe036c51ef8c300c4252cbe0653f6" title="Mainloop of deamon. " alt="" coords="163,861,315,887"/>
+<area shape="rect" id="node50" href="$da/da9/roboclaw__main_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="Print the correct usage. " alt="" coords="210,911,267,938"/>
+<area shape="rect" id="node3" href="$d2/dba/class_robo_claw.html#a820fece7896338301c92ff889f4954ef" title="RoboClaw::taskMain" alt="" coords="363,861,507,887"/>
+<area shape="rect" id="node4" href="$d2/dba/class_robo_claw.html#ad576dfbf9954fb9c88b6e9a5b4f38f34" title="Perform a round&#45;trip write and read. " alt="" coords="1019,114,1181,141"/>
+<area shape="rect" id="node9" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="817,1413,920,1439"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="811,823,926,850"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1503,722,1628,749"/>
+<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="599,1311,674,1338"/>
+<area shape="rect" id="node25" href="$d2/dba/class_robo_claw.html#a71b40cf91feb4af58f5eafde5cd8c143" title="RoboClaw::_parameters\l_update" alt="" coords="555,824,718,865"/>
+<area shape="rect" id="node38" href="$d2/dba/class_robo_claw.html#af061043fe69aeb2e247fd9370f90ab13" title="Drive both motors. " alt="" coords="577,529,696,555"/>
+<area shape="rect" id="node40" href="$d2/dba/class_robo_claw.html#aeef402eb0f3c84482bdc7c0af9e2f862" title="Turn. " alt="" coords="580,427,693,454"/>
+<area shape="rect" id="node41" href="$d2/dba/class_robo_claw.html#a8501b09ff3ddce5a6897cfbe4c98c8dc" title="read data from serial " alt="" coords="555,263,719,290"/>
+<area shape="rect" id="node42" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="569,1042,704,1069"/>
+<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="825,1159,913,1186"/>
+<area shape="rect" id="node48" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="578,941,695,967"/>
+<area shape="rect" id="node5" href="$d2/dba/class_robo_claw.html#af9cd163b26ff783ecebf61b7b7f5bc3b" title="RoboClaw::_calcCRC" alt="" coords="1247,13,1399,39"/>
+<area shape="rect" id="node7" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="1297,63,1348,90"/>
+<area shape="rect" id="node8" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="1299,114,1346,141"/>
+<area shape="rect" id="node6" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="1497,5,1633,47"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1494,1212,1637,1253"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1029,1464,1171,1505"/>
+<area shape="rect" id="node11" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1715,1427,1857,1468"/>
+<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1229,1463,1416,1490"/>
+<area shape="rect" id="node14" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1476,1551,1655,1578"/>
+<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1526,1317,1605,1343"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1489,1485,1641,1527"/>
+<area shape="rect" id="node17" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1464,1368,1667,1409"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1029,925,1171,967"/>
+<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1285,962,1360,989"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="780,1362,957,1389"/>
+<area shape="rect" id="node24" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1063,1362,1137,1389"/>
+<area shape="rect" id="node26" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="827,503,910,530"/>
+<area shape="rect" id="node27" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1034,621,1166,647"/>
+<area shape="rect" id="node28" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1281,722,1364,749"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1029,418,1171,445"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1055,469,1145,495"/>
+<area shape="rect" id="node31" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1287,671,1359,698"/>
+<area shape="rect" id="node32" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="1027,570,1173,597"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1507,367,1623,394"/>
+<area shape="rect" id="node34" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1034,519,1166,546"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1277,342,1368,369"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1274,393,1371,419"/>
+<area shape="rect" id="node37" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1303,266,1342,293"/>
+<area shape="rect" id="node39" href="$d2/dba/class_robo_claw.html#a7dceb23c5a5f7531eb2243c092d20c93" title="RoboClaw::_sendUnsigned7Bit" alt="" coords="767,326,971,353"/>
+<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="797,1093,940,1135"/>
+<area shape="rect" id="node44" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1059,991,1141,1018"/>
+<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1029,1144,1171,1185"/>
+<area shape="rect" id="node46" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1229,1181,1416,1207"/>
+<area shape="rect" id="node49" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="797,955,940,996"/>
 </map>

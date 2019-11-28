@@ -1,26 +1,19 @@
 <map id="src/drivers/imu/bma180/bma180.cpp" name="src/drivers/imu/bma180/bma180.cpp">
-<area shape="rect" id="node2" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="141,401,237,427"/>
-<area shape="rect" id="node3" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1301,557,1403,584"/>
-<area shape="rect" id="node10" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="914,483,1014,509"/>
-<area shape="rect" id="node22" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1695,483,1825,509"/>
-<area shape="rect" id="node23" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2301,95,2409,121"/>
-<area shape="rect" id="node27" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="2129,401,2245,427"/>
-<area shape="rect" id="node32" href="$da/d87/spi_8h.html" title="Base class for devices connected via SPI. " alt="" coords="151,95,286,121"/>
-<area shape="rect" id="node47" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="485,319,617,345"/>
-<area shape="rect" id="node50" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="2002,95,2174,121"/>
-<area shape="rect" id="node4" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="2149,632,2227,659"/>
-<area shape="rect" id="node28" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="2195,483,2282,509"/>
-<area shape="rect" id="node33" href="$d3/d41/posix_2_s_p_i_8hpp.html" title="posix/SPI.hpp" alt="" coords="167,169,271,196"/>
-<area shape="rect" id="node34" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="205,244,286,271"/>
-<area shape="rect" id="node46" href="$d3/d6e/px4__spi_8h.html" title="px4_spi.h" alt="" coords="102,244,181,271"/>
-<area shape="rect" id="node35" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="361,319,449,345"/>
-<area shape="rect" id="node36" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="1215,401,1307,427"/>
-<area shape="rect" id="node44" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="43,319,207,345"/>
-<area shape="rect" id="node39" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="261,401,400,427"/>
-<area shape="rect" id="node37" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="1223,483,1316,509"/>
-<area shape="rect" id="node38" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="751,483,838,509"/>
-<area shape="rect" id="node41" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="349,483,446,509"/>
-<area shape="rect" id="node42" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="572,483,676,509"/>
-<area shape="rect" id="node48" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="1045,393,1185,435"/>
-<area shape="rect" id="node49" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1089,483,1199,509"/>
+<area shape="rect" id="node4" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1278,527,1378,553"/>
+<area shape="rect" id="node18" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1676,527,1806,553"/>
+<area shape="rect" id="node19" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1983,109,2091,136"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="412,527,528,553"/>
+<area shape="rect" id="node31" href="$da/d87/spi_8h.html" title="drivers/device/spi.h" alt="" coords="387,109,522,136"/>
+<area shape="rect" id="node42" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="1099,363,1231,389"/>
+<area shape="rect" id="node45" href="$dd/d52/drivers_2device_2ringbuffer_8h.html" title="drivers/device/ringbuffer.h" alt="" coords="1532,109,1704,136"/>
+<area shape="rect" id="node32" href="$d3/d41/posix_2_s_p_i_8hpp.html" title="posix/SPI.hpp" alt="" coords="380,206,484,233"/>
+<area shape="rect" id="node33" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="../CDev.hpp" alt="" coords="362,288,456,315"/>
+<area shape="rect" id="node34" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="446,363,534,389"/>
+<area shape="rect" id="node40" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="241,363,372,389"/>
+<area shape="rect" id="node36" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="1085,445,1224,471"/>
+<area shape="rect" id="node37" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="1402,527,1499,553"/>
+<area shape="rect" id="node38" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="978,527,1082,553"/>
+<area shape="rect" id="node41" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="224,445,388,471"/>
+<area shape="rect" id="node43" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="744,437,884,479"/>
+<area shape="rect" id="node44" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="744,527,853,553"/>
 </map>

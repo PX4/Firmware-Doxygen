@@ -1,15 +1,17 @@
 <map id="ManualSmoothingXY::overwriteJerkMin" name="ManualSmoothingXY::overwriteJerkMin">
-<area shape="rect" id="node2" href="$d0/d4b/class_manual_smoothing_x_y.html#a06679f4884dda6f3d177b19195f67f2a" title="Rotate vector from heading frame to local frame. " alt="" coords="205,64,387,105"/>
-<area shape="rect" id="node5" href="$d0/d4b/class_manual_smoothing_x_y.html#a60f4fc26a2ececa04e638ed0a8e1410c" title="Gets user intention. " alt="" coords="446,201,598,243"/>
-<area shape="rect" id="node6" href="$d0/d4b/class_manual_smoothing_x_y.html#a11757dd1bad7e879a1056e3ca0177d33" title="Rotate vector from local frame into heading frame. " alt="" coords="657,123,839,164"/>
-<area shape="rect" id="node10" href="$d0/d4b/class_manual_smoothing_x_y.html#aad3522a44137c70b2d3d7e242719e066" title="Set acceleration depending on Intention. " alt="" coords="446,287,598,328"/>
-<area shape="rect" id="node12" href="$d0/d4b/class_manual_smoothing_x_y.html#a5c0cf00c23c17c94844db0d2bf69ca3f" title="Sets velocity change limits (=acceleration). " alt="" coords="220,232,372,273"/>
-<area shape="rect" id="node13" href="$d0/d4b/class_manual_smoothing_x_y.html#a4a41b40988014ed3b951475bc2dddcac" title="Limits the velocity setpoint change. " alt="" coords="220,349,372,391"/>
-<area shape="rect" id="node3" href="$d5/d0f/classmatrix_1_1_quaternion.html#ac15d21ebe017e6c82836b50131da1c64" title="Rotates vector v_1 in frame 1 to vector v_2 in frame 2 using the rotation quaternion q_21 describing ..." alt="" coords="457,5,587,47"/>
+<area shape="rect" id="node2" href="$d0/d4b/class_manual_smoothing_x_y.html#af3d374ff07d8e0e332dc43844d397128" title="Rotate vector from heading frame to local frame. " alt="" coords="205,64,387,105"/>
+<area shape="rect" id="node7" href="$d0/d4b/class_manual_smoothing_x_y.html#a60f4fc26a2ececa04e638ed0a8e1410c" title="Gets user intention. " alt="" coords="446,201,598,243"/>
+<area shape="rect" id="node8" href="$d0/d4b/class_manual_smoothing_x_y.html#ad90ae8436d74b61561aba83f85b3b85b" title="Rotate vector from local frame into heading frame. " alt="" coords="657,123,839,164"/>
+<area shape="rect" id="node12" href="$d0/d4b/class_manual_smoothing_x_y.html#aad3522a44137c70b2d3d7e242719e066" title="Set acceleration depending on Intention. " alt="" coords="446,287,598,328"/>
+<area shape="rect" id="node14" href="$d0/d4b/class_manual_smoothing_x_y.html#a5c0cf00c23c17c94844db0d2bf69ca3f" title="Sets velocity change limits (=acceleration). " alt="" coords="220,232,372,273"/>
+<area shape="rect" id="node15" href="$d0/d4b/class_manual_smoothing_x_y.html#a4a41b40988014ed3b951475bc2dddcac" title="Limits the velocity setpoint change. " alt="" coords="220,349,372,391"/>
+<area shape="rect" id="node3" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4b6e28fb9807ff9021fc49b368255cb2" title="Rotates vector v_1 in frame 1 to vector v_2 in frame 2 using the rotation quaternion q_21 describing ..." alt="" coords="457,5,587,47"/>
 <area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="939,101,977,127"/>
-<area shape="rect" id="node8" href="$d1/d71/classmatrix_1_1_vector.html#adfde6b53c2c967f684dd5571d847781e" title="matrix::Vector::length" alt="" coords="675,290,821,317"/>
-<area shape="rect" id="node9" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="664,189,832,215"/>
-<area shape="rect" id="node7" href="$d5/d0f/classmatrix_1_1_quaternion.html#aa46a89b62ca03b69e1e4f5b6df5f25a1" title="Rotates vector v_2 in frame 2 to vector v_1 in frame 1 using the rotation quaternion q_21 describing ..." alt="" coords="887,152,1029,193"/>
-<area shape="rect" id="node11" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="708,341,788,367"/>
-<area shape="rect" id="node14" href="$d1/d71/classmatrix_1_1_vector.html#a8cbb2d42da6488e74e0596b0e14bd825" title="matrix::Vector::normalized" alt="" coords="435,357,609,383"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1077,101,1160,127"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1208,101,1295,127"/>
+<area shape="rect" id="node10" href="$d1/d71/classmatrix_1_1_vector.html#abd91dec134022f2adbd739b4ced6806d" title="matrix::Vector::length" alt="" coords="675,290,821,317"/>
+<area shape="rect" id="node11" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="664,189,832,215"/>
+<area shape="rect" id="node9" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4231bbd0a3ebebf396600f99f06ed138" title="Rotates vector v_2 in frame 2 to vector v_1 in frame 1 using the rotation quaternion q_21 describing ..." alt="" coords="887,152,1029,193"/>
+<area shape="rect" id="node13" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="708,341,788,367"/>
+<area shape="rect" id="node16" href="$d1/d71/classmatrix_1_1_vector.html#aaed6e2f480ce5d7031d1547e05f8fe76" title="matrix::Vector::normalized" alt="" coords="435,357,609,383"/>
 </map>

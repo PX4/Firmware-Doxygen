@@ -1,51 +1,51 @@
 <map id="land_detector::LandDetector::custom_command" name="land_detector::LandDetector::custom_command">
-<area shape="rect" id="node2" href="$d8/d1f/classland__detector_1_1_land_detector.html#a58adece95efc3969801ea64945d43b15" title="land_detector::LandDetector\l::print_status" alt="" coords="240,1013,427,1055"/>
-<area shape="rect" id="node46" href="$d8/d1f/classland__detector_1_1_land_detector.html#a8ffefd71e98d51825a272c87b8577fda" title="land_detector::LandDetector\l::print_usage" alt="" coords="240,1104,427,1145"/>
-<area shape="rect" id="node3" href="$d8/d1f/classland__detector_1_1_land_detector.html#a2cb06587fb7da7a8c082b2bcde32522c" title="land_detector::LandDetector\l::get_state" alt="" coords="495,987,681,1028"/>
-<area shape="rect" id="node4" href="$d8/d1f/classland__detector_1_1_land_detector.html#ad5ecb19b02554f26d750766fba1f86ca" title="Get the work queue going. " alt="" coords="749,827,936,868"/>
-<area shape="rect" id="node8" href="$d8/d1f/classland__detector_1_1_land_detector.html#a42d4268e845a6190689835aff51d8337" title="Update parameters. " alt="" coords="1688,5,1875,47"/>
-<area shape="rect" id="node14" href="$d8/d1f/classland__detector_1_1_land_detector.html#a4af1ceb6d73a3ec40470c567a7f3e7da" title="Called once to initialize uORB topics. " alt="" coords="1453,987,1640,1028"/>
-<area shape="rect" id="node19" href="$d8/d1f/classland__detector_1_1_land_detector.html#a8a5fa60d3c076e57fb036a936b518e9f" title="land_detector::LandDetector\l::_get_landed_state" alt="" coords="1688,1013,1875,1055"/>
-<area shape="rect" id="node24" href="$d8/d1f/classland__detector_1_1_land_detector.html#aa630126a90d2aec9201b31d562f8ce1a" title="Update uORB topics. " alt="" coords="1453,1052,1640,1093"/>
-<area shape="rect" id="node5" href="$d8/d1f/classland__detector_1_1_land_detector.html#af73d7e979aa3a6ef5221e1ad3daab802" title="land_detector::LandDetector\l::_cycle_trampoline" alt="" coords="984,725,1171,767"/>
-<area shape="rect" id="node6" href="$d8/d1f/classland__detector_1_1_land_detector.html#a7cf78d57f14f48da976c72fe3c5538a8" title="land_detector::LandDetector\l::_cycle" alt="" coords="1219,725,1405,767"/>
-<area shape="rect" id="node7" href="$d8/d1f/classland__detector_1_1_land_detector.html#a269e103b9078510d8031ab1c73fc1e1d" title="land_detector::LandDetector\l::_check_params" alt="" coords="1453,115,1640,156"/>
-<area shape="rect" id="node13" href="$d8/d1f/classland__detector_1_1_land_detector.html#a0a235688f94ca281cec24073218ec535" title="land_detector::LandDetector\l::_get_max_altitude" alt="" coords="1923,489,2109,531"/>
-<area shape="rect" id="node15" href="$d8/d1f/classland__detector_1_1_land_detector.html#a415c9a8d7195f4550fae8edf6eb84870" title="Convenience function for polling uORB subscriptions. " alt="" coords="1923,257,2109,299"/>
-<area shape="rect" id="node16" href="$d8/d1f/classland__detector_1_1_land_detector.html#aa1a2bc9ed0ab4bc15e4a68e94a0ed983" title="land_detector::LandDetector\l::_update_state" alt="" coords="1453,616,1640,657"/>
-<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2164,870,2289,897"/>
-<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1486,733,1607,759"/>
-<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="1956,433,2076,459"/>
-<area shape="rect" id="node41" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="2175,819,2278,846"/>
-<area shape="rect" id="node42" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1503,783,1590,810"/>
-<area shape="rect" id="node43" href="$d9/da5/param_8c.html#a803f9e8aef28899d6311b39e482584eb" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="1459,834,1634,861"/>
-<area shape="rect" id="node44" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1505,885,1588,911"/>
-<area shape="rect" id="node45" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1511,935,1583,962"/>
-<area shape="rect" id="node9" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="2185,59,2268,86"/>
-<area shape="rect" id="node11" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="2189,110,2264,137"/>
-<area shape="rect" id="node12" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1740,122,1823,149"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2344,432,2487,473"/>
-<area shape="rect" id="node17" href="$d8/d1f/classland__detector_1_1_land_detector.html#af420a146c883e30860d0a97c49e50bab" title="land_detector::LandDetector\l::_get_freefall_state" alt="" coords="1688,499,1875,540"/>
-<area shape="rect" id="node18" href="$d8/d1f/classland__detector_1_1_land_detector.html#a62b1ea7711e7aa939db89e0dd67fbc09" title="land_detector::LandDetector\l::_get_ground_contact_state" alt="" coords="1688,616,1875,657"/>
-<area shape="rect" id="node20" href="$d8/d1f/classland__detector_1_1_land_detector.html#a6d62e7fe51e911e7bcdcd06a27d95d65" title="land_detector::LandDetector\l::_get_maybe_landed_state" alt="" coords="1688,681,1875,723"/>
-<area shape="rect" id="node21" href="$de/da3/classsystemlib_1_1_hysteresis.html#a5143218563224b1fd4113a8e25234830" title="systemlib::Hysteresis\l::get_state" alt="" coords="1707,799,1856,840"/>
-<area shape="rect" id="node22" href="$de/da3/classsystemlib_1_1_hysteresis.html#ad18f5f4835b9d51a4efa952b30e1b8b7" title="systemlib::Hysteresis\l::set_state_and_update" alt="" coords="1937,799,2095,840"/>
-<area shape="rect" id="node27" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="2159,262,2294,289"/>
-<area shape="rect" id="node28" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="2185,313,2268,339"/>
-<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="2189,363,2264,390"/>
-<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="2185,414,2268,441"/>
-<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="2169,465,2284,491"/>
-<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="2167,515,2286,542"/>
-<area shape="rect" id="node33" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="2183,566,2270,593"/>
-<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="2183,617,2271,643"/>
-<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="2169,667,2284,694"/>
-<area shape="rect" id="node36" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="2192,718,2261,745"/>
-<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="2175,769,2278,795"/>
-<area shape="rect" id="node39" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="2157,161,2296,187"/>
-<area shape="rect" id="node40" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="2168,211,2285,238"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="2344,787,2487,828"/>
-<area shape="rect" id="node47" href="$dd/d30/module_8cpp.html#a53dcf1637cabe04fa554ef0e38f266d2" title="Print module documentation (will also be used for online documentation). " alt="" coords="475,1221,701,1247"/>
-<area shape="rect" id="node48" href="$dd/d30/module_8cpp.html#a06777df5209dd638c8ee6ac49331a50c" title="Print the command name. " alt="" coords="475,1053,701,1079"/>
-<area shape="rect" id="node49" href="$dd/d30/module_8cpp.html#aff1dbaa4bef630dfbdcc72bd0061c75a" title="Print a command with a short description what it does. " alt="" coords="497,1104,679,1145"/>
-<area shape="rect" id="node50" href="$dd/d30/module_8cpp.html#ac5bfc5f17f7305a0c6e85739cfe5100d" title="print definition for an argument, which does not have the typical &#45;p &lt;val&gt; form, but for example &#39;par..." alt="" coords="479,1170,697,1197"/>
+<area shape="rect" id="node2" href="$da/d73/_commander_8cpp.html#a8008fbbb8f369eeb0f452863fe664355" title="print_status" alt="" coords="240,335,331,361"/>
+<area shape="rect" id="node3" href="$d7/de6/uavcan__main_8cpp.html#a5abe0071a53c95b01791701e62cc1e07" title="print_usage" alt="" coords="241,385,330,412"/>
+<area shape="rect" id="node45" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="404,691,452,717"/>
+<area shape="rect" id="node4" href="$d7/de6/uavcan__main_8cpp.html#a5a1181b0c7e7b2344f8fdacf5c533b4a" title="uavcan_main" alt="" coords="379,385,477,412"/>
+<area shape="rect" id="node5" href="$d5/d94/class_uavcan_node.html#aec01477b95d02fb980fb3e52adc03a2d" title="UavcanNode::fw_server" alt="" coords="536,259,699,285"/>
+<area shape="rect" id="node6" href="$d5/d94/class_uavcan_node.html#a95fa322c9f9db61bd266accea01f7c2e" title="UavcanNode::get_node" alt="" coords="538,309,697,336"/>
+<area shape="rect" id="node7" href="$d5/d94/class_uavcan_node.html#a0f69cc084378d0ccfc786e8683605549" title="UavcanNode::get_param" alt="" coords="534,360,701,387"/>
+<area shape="rect" id="node12" href="$d5/d94/class_uavcan_node.html#ae2ecccfc843f50715501570647074b83" title="UavcanNode::hardpoint\l_controller_set" alt="" coords="538,858,697,899"/>
+<area shape="rect" id="node14" href="$d3/df7/class_uavcan_servers.html#af2ba5288f15306aff9e53610fc09413f" title="UavcanServers::instance" alt="" coords="533,5,702,32"/>
+<area shape="rect" id="node15" href="$d5/d94/class_uavcan_node.html#a9dd1c2374f1ef0ee4811d8b904d86aee" title="UavcanNode::instance" alt="" coords="540,56,695,83"/>
+<area shape="rect" id="node16" href="$d5/d94/class_uavcan_node.html#ac8763c72c291b4eb5463d93ef0f8511d" title="UavcanNode::list_params" alt="" coords="531,411,704,437"/>
+<area shape="rect" id="node17" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="1021,824,1108,851"/>
+<area shape="rect" id="node21" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="1023,707,1106,733"/>
+<area shape="rect" id="node31" href="$d5/d94/class_uavcan_node.html#a1e9be239043a69bbe61662b21ec9e511" title="UavcanNode::print_info" alt="" coords="538,781,697,808"/>
+<area shape="rect" id="node35" href="$d5/d94/class_uavcan_node.html#a3d5fca05e7fe632d800be18754c12261" title="UavcanNode::reset_node" alt="" coords="532,107,703,133"/>
+<area shape="rect" id="node37" href="$d5/d94/class_uavcan_node.html#aea43db05d6c0a9dd72fdc94d9a26d608" title="UavcanNode::save_params" alt="" coords="525,157,709,184"/>
+<area shape="rect" id="node39" href="$d5/d94/class_uavcan_node.html#ad0e51051165dfb2721fb1019edd36089" title="UavcanNode::set_param" alt="" coords="534,461,701,488"/>
+<area shape="rect" id="node42" href="$d5/d94/class_uavcan_node.html#a7d85b94a9c14834bd68b4846a949c90a" title="UavcanNode::shrink" alt="" coords="547,208,688,235"/>
+<area shape="rect" id="node43" href="$d5/d94/class_uavcan_node.html#a13ed0c01582208064184373b44ea6d6d" title="UavcanNode::start" alt="" coords="551,668,683,695"/>
+<area shape="rect" id="node8" href="$d5/d94/class_uavcan_node.html#ad4eb9943d2363f93f26181cab0a882a4" title="UavcanNode::free_setget\l_response" alt="" coords="763,334,933,375"/>
+<area shape="rect" id="node9" href="$d5/d94/class_uavcan_node.html#a86556a2901177615fb2820840c6a0d72" title="UavcanNode::get_set\l_param" alt="" coords="773,399,923,441"/>
+<area shape="rect" id="node10" href="$d5/d94/class_uavcan_node.html#aa5b67488c42ce223965ba3a8836acade" title="UavcanNode::print_params" alt="" coords="757,217,939,244"/>
+<area shape="rect" id="node11" href="$d5/d94/class_uavcan_node.html#ad90314817c7938d819cc80425fc493e0" title="UavcanNode::set_setget\l_response" alt="" coords="765,269,931,310"/>
+<area shape="rect" id="node13" href="$d8/d8b/class_uavcan_hardpoint_controller.html#a3230840bb39f13e921a38e5397301b46" title="UavcanHardpointController\l::set_command" alt="" coords="759,922,937,963"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="1197,1036,1331,1063"/>
+<area shape="rect" id="node19" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1393,833,1475,860"/>
+<area shape="rect" id="node20" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1398,985,1470,1012"/>
+<area shape="rect" id="node22" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1415,529,1453,556"/>
+<area shape="rect" id="node23" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1531,757,1647,784"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1193,580,1335,607"/>
+<area shape="rect" id="node25" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1198,681,1330,708"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1385,681,1483,708"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1198,732,1330,759"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1389,783,1479,809"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1219,884,1309,911"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="1191,935,1337,961"/>
+<area shape="rect" id="node32" href="$de/d1e/class_uavcan_mixing_interface.html#a2f2a89f5ea9be4c83ba592eaa3e17a07" title="UavcanMixingInterface\l::mixingOutput" alt="" coords="987,758,1143,799"/>
+<area shape="rect" id="node33" href="$df/d7b/perf__counter_8cpp.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="1001,875,1128,901"/>
+<area shape="rect" id="node34" href="$da/d43/class_mixing_output.html#aa53188e842781dd75c1d905c6dd77e19" title="MixingOutput::printStatus" alt="" coords="763,820,933,847"/>
+<area shape="rect" id="node36" href="$d5/d94/class_uavcan_node.html#ab7710d055bba9c649780b7359242c9a5" title="UavcanNode::cb_restart" alt="" coords="766,107,930,133"/>
+<area shape="rect" id="node38" href="$d5/d94/class_uavcan_node.html#ab4c7d8d9866a63c59aa6753409635cb2" title="UavcanNode::cb_opcode" alt="" coords="763,157,933,184"/>
+<area shape="rect" id="node40" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="806,465,890,492"/>
+<area shape="rect" id="node41" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="808,516,888,543"/>
+<area shape="rect" id="node44" href="$d5/d94/class_uavcan_node.html#ac7f5adbd0ff87bb3919d9546cebd604b" title="UavcanNode::init" alt="" coords="787,668,909,695"/>
+<area shape="rect" id="node46" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="807,988,889,1015"/>
+<area shape="rect" id="node47" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="995,933,1134,960"/>
+<area shape="rect" id="node48" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1025,984,1104,1011"/>
+<area shape="rect" id="node49" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1038,1035,1091,1061"/>
+<area shape="rect" id="node50" href="$df/d7b/perf__counter_8cpp.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="1028,1085,1101,1112"/>
 </map>

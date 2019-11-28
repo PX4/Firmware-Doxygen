@@ -1,39 +1,40 @@
 <map id="src/modules/simulator/simulator.h" name="src/modules/simulator/simulator.h">
-<area shape="rect" id="node2" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="3125,191,3217,218"/>
-<area shape="rect" id="node15" href="$d5/dd2/px4__module__params_8h.html" title="C++ base class for modules/classes using configuration parameters. " alt="" coords="2832,191,2985,218"/>
-<area shape="rect" id="node19" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="2052,184,2195,225"/>
-<area shape="rect" id="node20" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1858,273,1967,300"/>
-<area shape="rect" id="node21" href="$df/d1d/actuator__outputs_8h.html" title="uORB/topics/actuator\l_outputs.h" alt="" coords="1560,184,1708,225"/>
-<area shape="rect" id="node22" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="1732,184,1875,225"/>
-<area shape="rect" id="node23" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="1667,95,1809,136"/>
-<area shape="rect" id="node24" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="1833,95,1976,136"/>
-<area shape="rect" id="node25" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="2526,184,2667,225"/>
-<area shape="rect" id="node26" href="$dd/de7/irlock__report_8h.html" title="uORB/topics/irlock\l_report.h" alt="" coords="2103,95,2235,136"/>
-<area shape="rect" id="node27" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="2259,95,2417,136"/>
-<area shape="rect" id="node28" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="527,102,659,129"/>
-<area shape="rect" id="node33" href="$d5/df5/drv__gyro_8h.html" title="Gyroscope driver interface. " alt="" coords="5,102,132,129"/>
-<area shape="rect" id="node35" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="864,102,991,129"/>
-<area shape="rect" id="node37" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="328,102,455,129"/>
-<area shape="rect" id="node39" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="2692,191,2808,218"/>
-<area shape="rect" id="node42" href="$dd/d56/drv__rc__input_8h.html" title="R/C input interface. " alt="" coords="157,102,303,129"/>
-<area shape="rect" id="node44" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="2371,191,2502,218"/>
-<area shape="rect" id="node45" href="$d6/d69/battery_8h.html" title="Library calls for battery functionality. " alt="" coords="2706,102,2823,129"/>
-<area shape="rect" id="node46" href="$df/d48/optical__flow_8h.html" title="uORB/topics/optical\l_flow.h" alt="" coords="2442,95,2581,136"/>
-<area shape="rect" id="node47" href="$db/db6/distance__sensor_8h.html" title="uORB/topics/distance\l_sensor.h" alt="" coords="1389,95,1540,136"/>
-<area shape="rect" id="node50" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="2899,273,3017,300"/>
-<area shape="rect" id="node3" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="965,273,1068,300"/>
-<area shape="rect" id="node7" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="3041,273,3134,300"/>
-<area shape="rect" id="node13" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="3287,273,3373,300"/>
-<area shape="rect" id="node4" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="977,348,1056,375"/>
-<area shape="rect" id="node16" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="2569,273,2701,300"/>
-<area shape="rect" id="node17" href="$de/de9/px4__param_8h.html" title="C++ Parameter class. " alt="" coords="2777,273,2875,300"/>
-<area shape="rect" id="node18" href="$d6/d6a/px4__param__macros_8h.html" title="Helper macros used by px4_param.h. " alt="" coords="2675,348,2822,375"/>
-<area shape="rect" id="node30" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="343,191,440,218"/>
-<area shape="rect" id="node31" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="113,191,217,218"/>
-<area shape="rect" id="node32" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="1180,184,1320,225"/>
-<area shape="rect" id="node34" href="$d6/d90/sensor__gyro_8h.html" title="uORB/topics/sensor\l_gyro.h" alt="" coords="464,184,604,225"/>
-<area shape="rect" id="node36" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="1344,184,1484,225"/>
-<area shape="rect" id="node38" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="1016,184,1156,225"/>
-<area shape="rect" id="node40" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="2264,273,2351,300"/>
-<area shape="rect" id="node43" href="$d5/d67/build_2doxygen_2u_o_r_b_2topics_2input__rc_8h.html" title="uORB/topics/input_rc.h" alt="" coords="731,191,889,218"/>
+<area shape="rect" id="node2" href="$d6/d69/battery_8h.html" title="Library calls for battery functionality. " alt="" coords="2854,102,2971,129"/>
+<area shape="rect" id="node3" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="3410,184,3551,225"/>
+<area shape="rect" id="node4" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1147,363,1257,389"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="2419,191,2535,218"/>
+<area shape="rect" id="node14" href="$dd/d56/drv__rc__input_8h.html" title="R/C input interface. " alt="" coords="3575,191,3722,218"/>
+<area shape="rect" id="node17" href="$d2/d54/_p_x4_accelerometer_8hpp.html" title="lib/drivers/accelerometer\l/PX4Accelerometer.hpp" alt="" coords="2161,95,2325,136"/>
+<area shape="rect" id="node26" href="$d2/d0c/_p_x4_barometer_8hpp.html" title="lib/drivers/barometer\l/PX4Barometer.hpp" alt="" coords="1756,95,1896,136"/>
+<area shape="rect" id="node29" href="$df/dc3/_p_x4_gyroscope_8hpp.html" title="lib/drivers/gyroscope\l/PX4Gyroscope.hpp" alt="" coords="2587,95,2729,136"/>
+<area shape="rect" id="node32" href="$d3/d07/_p_x4_magnetometer_8hpp.html" title="lib/drivers/magnetometer\l/PX4Magnetometer.hpp" alt="" coords="1921,95,2086,136"/>
+<area shape="rect" id="node33" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="3529,363,3646,389"/>
+<area shape="rect" id="node34" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="3722,363,3853,389"/>
+<area shape="rect" id="node35" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="1768,281,1927,307"/>
+<area shape="rect" id="node36" href="$df/d1d/actuator__outputs_8h.html" title="uORB/topics/actuator\l_outputs.h" alt="" coords="5,273,153,315"/>
+<area shape="rect" id="node37" href="$dd/d58/differential__pressure_8h.html" title="uORB/topics/differential\l_pressure.h" alt="" coords="189,273,351,315"/>
+<area shape="rect" id="node38" href="$db/db6/distance__sensor_8h.html" title="uORB/topics/distance\l_sensor.h" alt="" coords="144,184,295,225"/>
+<area shape="rect" id="node39" href="$dd/de7/irlock__report_8h.html" title="uORB/topics/irlock\l_report.h" alt="" coords="436,273,568,315"/>
+<area shape="rect" id="node40" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="371,184,513,225"/>
+<area shape="rect" id="node41" href="$df/d48/optical__flow_8h.html" title="uORB/topics/optical\l_flow.h" alt="" coords="646,273,785,315"/>
+<area shape="rect" id="node42" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="471,95,629,136"/>
+<area shape="rect" id="node43" href="$d6/d5b/vehicle__angular__velocity_8h.html" title="uORB/topics/vehicle\l_angular_velocity.h" alt="" coords="653,95,796,136"/>
+<area shape="rect" id="node44" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="820,95,963,136"/>
+<area shape="rect" id="node45" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="987,95,1129,136"/>
+<area shape="rect" id="node46" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="1153,95,1296,136"/>
+<area shape="rect" id="node47" href="$d0/d2b/vehicle__odometry_8h.html" title="uORB/topics/vehicle\l_odometry.h" alt="" coords="1320,95,1463,136"/>
+<area shape="rect" id="node48" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="1487,95,1629,136"/>
+<area shape="rect" id="node15" href="$d5/d67/build_2doxygen_2u_o_r_b_2topics_2input__rc_8h.html" title="uORB/topics/input_rc.h" alt="" coords="3360,281,3519,307"/>
+<area shape="rect" id="node16" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="3231,281,3335,307"/>
+<area shape="rect" id="node18" href="$de/d1c/integrator_8h.html" title="A resettable integrator. " alt="" coords="2781,191,2953,218"/>
+<area shape="rect" id="node19" href="$df/d5d/drv__accel_8h.html" title="Accelerometer driver interface. " alt="" coords="2263,191,2395,218"/>
+<area shape="rect" id="node20" href="$dd/dc7/sensor__accel_8h.html" title="uORB/topics/sensor\l_accel.h" alt="" coords="2120,273,2260,315"/>
+<area shape="rect" id="node21" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="1569,191,1699,218"/>
+<area shape="rect" id="node23" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="1926,191,2086,218"/>
+<area shape="rect" id="node24" href="$d5/da5/_low_pass_filter2p_vector3f_8hpp.html" title="A class to implement a second order low pass filter on a Vector3f Based on LowPassFilter2p.hpp by Leonard Hall LeonardTHall@gmail.com " alt="" coords="2559,184,2757,225"/>
+<area shape="rect" id="node25" href="$d3/dfb/_publication_multi_8hpp.html" title="uORB/PublicationMulti.hpp" alt="" coords="1723,191,1902,218"/>
+<area shape="rect" id="node27" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="1417,191,1544,218"/>
+<area shape="rect" id="node28" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="1265,273,1405,315"/>
+<area shape="rect" id="node30" href="$d5/df5/drv__gyro_8h.html" title="Gyroscope driver interface. " alt="" coords="3080,191,3207,218"/>
+<area shape="rect" id="node31" href="$d6/d90/sensor__gyro_8h.html" title="uORB/topics/sensor\l_gyro.h" alt="" coords="2965,273,3105,315"/>
 </map>

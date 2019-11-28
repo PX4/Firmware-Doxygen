@@ -1,12 +1,22 @@
 <map id="Commander::estimator_check" name="Commander::estimator_check">
-<area shape="rect" id="node2" href="$d3/dc6/class_commander.html#a696be25d63902827023236ca7329740c" title="Commander::check_posvel\l_validity" alt="" coords="208,89,389,131"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="437,38,563,65"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="439,151,561,178"/>
-<area shape="rect" id="node6" href="$d3/dc6/class_commander.html#af1cf6dceb2225f61664e375a342d98ba" title="Commander::check_valid" alt="" coords="213,38,384,65"/>
-<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="217,206,381,233"/>
-<area shape="rect" id="node8" href="$d0/dc0/health__flag__helper_8cpp.html#a7473f8ce7686f32763799b3b393d475f" title="set_health_flags_healthy" alt="" coords="215,257,382,283"/>
-<area shape="rect" id="node10" href="$d0/dc0/health__flag__helper_8cpp.html#a5e4b7755bd406163fec617e1fa35f212" title="set_health_flags_present\l_healthy" alt="" coords="215,308,382,349"/>
-<area shape="rect" id="node11" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a1f7f1bd26da7cc8d23bbbb1a278f742f" title="Create an update function that uses the embedded struct. " alt="" coords="229,373,368,415"/>
-<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="444,97,556,123"/>
-<area shape="rect" id="node9" href="$d0/dc0/health__flag__helper_8cpp.html#a3523b6bbd000329099eed54f4994dbf1" title="set_health_flags" alt="" coords="441,286,559,313"/>
+<area shape="rect" id="node2" href="$d3/dc6/class_commander.html#a696be25d63902827023236ca7329740c" title="Commander::check_posvel\l_validity" alt="" coords="213,95,395,136"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="687,9,813,36"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="473,212,594,238"/>
+<area shape="rect" id="node16" href="$d3/dc6/class_commander.html#af1cf6dceb2225f61664e375a342d98ba" title="Commander::check_valid" alt="" coords="448,161,619,188"/>
+<area shape="rect" id="node17" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="208,262,400,289"/>
+<area shape="rect" id="node18" href="$da/d8e/_health_flags_8cpp.html#a7473f8ce7686f32763799b3b393d475f" title="set_health_flags_healthy" alt="" coords="221,313,387,340"/>
+<area shape="rect" id="node20" href="$da/d8e/_health_flags_8cpp.html#a5e4b7755bd406163fec617e1fa35f212" title="set_health_flags_present\l_healthy" alt="" coords="221,364,387,406"/>
+<area shape="rect" id="node21" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#a8c8967077b39cd29e07652cefe2293a9" title="uORB::SubscriptionData\l::update" alt="" coords="221,430,387,471"/>
+<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="477,60,589,86"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="701,212,799,238"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="709,262,791,289"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="699,313,801,340"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="699,364,801,390"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="706,414,794,441"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="711,465,789,492"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="709,516,791,542"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="667,60,833,86"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="719,110,781,137"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="669,161,831,188"/>
+<area shape="rect" id="node19" href="$da/d8e/_health_flags_8cpp.html#a3523b6bbd000329099eed54f4994dbf1" title="set_health_flags" alt="" coords="475,342,592,369"/>
 </map>

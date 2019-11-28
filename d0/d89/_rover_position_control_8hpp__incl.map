@@ -1,0 +1,36 @@
+<map id="src/modules/rover_pos_control/RoverPositionControl.hpp" name="src/modules/rover_pos_control/RoverPositionControl.hpp">
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="219,273,335,300"/>
+<area shape="rect" id="node10" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1036,273,1153,300"/>
+<area shape="rect" id="node12" href="$d0/dfb/ecl__l1__pos__controller_8h.html" title="Implementation of L1 position control. " alt="" coords="812,95,948,136"/>
+<area shape="rect" id="node21" href="$d9/dbc/mathlib_2mathlib_8h.html" title="lib/mathlib/mathlib.h" alt="" coords="972,102,1111,129"/>
+<area shape="rect" id="node22" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="1135,102,1283,129"/>
+<area shape="rect" id="node24" href="$da/df0/pid_8h.html" title="Definition of generic PID controller. " alt="" coords="1277,191,1365,218"/>
+<area shape="rect" id="node30" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="2303,102,2462,129"/>
+<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="2883,273,2992,300"/>
+<area shape="rect" id="node35" href="$dc/de7/_publication_8hpp.html" title="uORB/Publication.hpp" alt="" coords="2538,102,2689,129"/>
+<area shape="rect" id="node37" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="2349,184,2491,225"/>
+<area shape="rect" id="node38" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="2515,184,2674,225"/>
+<area shape="rect" id="node39" href="$da/d97/position__controller__status_8h.html" title="uORB/topics/position\l_controller_status.h" alt="" coords="2699,184,2845,225"/>
+<area shape="rect" id="node40" href="$d9/d94/position__setpoint__triplet_8h.html" title="uORB/topics/position\l_setpoint_triplet.h" alt="" coords="2865,95,3012,136"/>
+<area shape="rect" id="node42" href="$de/dd3/sensor__combined_8h.html" title="uORB/topics/sensor\l_combined.h" alt="" coords="3091,184,3231,225"/>
+<area shape="rect" id="node43" href="$d2/d7f/vehicle__acceleration_8h.html" title="uORB/topics/vehicle\l_acceleration.h" alt="" coords="3255,184,3398,225"/>
+<area shape="rect" id="node44" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="3422,184,3565,225"/>
+<area shape="rect" id="node45" href="$df/dd2/vehicle__attitude__setpoint_8h.html" title="uORB/topics/vehicle\l_attitude_setpoint.h" alt="" coords="3589,184,3731,225"/>
+<area shape="rect" id="node46" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="3755,184,3898,225"/>
+<area shape="rect" id="node47" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="3473,95,3615,136"/>
+<area shape="rect" id="node48" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="3642,95,3785,136"/>
+<area shape="rect" id="node49" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="3810,95,3958,136"/>
+<area shape="rect" id="node50" href="$db/d22/ekf2__timestamps_8h.html" title="uORB/topics/ekf2_timestamps.h" alt="" coords="3982,102,4194,129"/>
+<area shape="rect" id="node14" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="663,191,779,218"/>
+<area shape="rect" id="node20" href="$d2/d53/ecl_8h.html" title="Adapter / shim layer for system calls needed by ECL. " alt="" coords="855,191,905,218"/>
+<area shape="rect" id="node15" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="360,273,488,300"/>
+<area shape="rect" id="node16" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="513,273,655,300"/>
+<area shape="rect" id="node17" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="680,273,763,300"/>
+<area shape="rect" id="node18" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="787,273,911,300"/>
+<area shape="rect" id="node19" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="935,273,1011,300"/>
+<area shape="rect" id="node32" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="uORBDeviceNode.hpp" alt="" coords="1936,191,2091,218"/>
+<area shape="rect" id="node33" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="uORBManager.hpp" alt="" coords="1520,273,1653,300"/>
+<area shape="rect" id="node34" href="$d9/d38/u_o_r_b_utils_8hpp.html" title="uORBUtils.hpp" alt="" coords="1750,191,1861,218"/>
+<area shape="rect" id="node36" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2217,191,2325,218"/>
+<area shape="rect" id="node41" href="$d4/d82/position__setpoint_8h.html" title="uORB/topics/position\l_setpoint.h" alt="" coords="2920,184,3067,225"/>
+</map>

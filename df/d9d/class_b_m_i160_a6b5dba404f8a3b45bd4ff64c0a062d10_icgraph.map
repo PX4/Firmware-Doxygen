@@ -1,14 +1,10 @@
 <map id="BMI160::write_checked_reg" name="BMI160::write_checked_reg">
-<area shape="rect" id="node2" href="$df/d9d/class_b_m_i160.html#afbe32c9c62c3bce2f3cddc589a6061c1" title="Modify a register in the BMI160. " alt="" coords="237,122,376,148"/>
-<area shape="rect" id="node7" href="$df/d9d/class_b_m_i160.html#a9f7c13b2d9d55c7b3c26113d41c3fd1d" title="Reset chip. " alt="" coords="689,172,793,199"/>
-<area shape="rect" id="node3" href="$df/d9d/class_b_m_i160.html#a066e4dc4dd05f48eca2c9af79c0b8f75" title="BMI160::accel_set_sample_rate" alt="" coords="424,71,633,98"/>
-<area shape="rect" id="node11" href="$df/d9d/class_b_m_i160.html#ad6c51d05f69e225243c49166b4056cc3" title="BMI160::gyro_set_sample_rate" alt="" coords="427,20,630,47"/>
-<area shape="rect" id="node12" href="$df/d9d/class_b_m_i160.html#a000f607f94b3bd0f92e1bd6bdd3b2b44" title="Set the BMI160 measurement range. " alt="" coords="443,223,614,250"/>
-<area shape="rect" id="node13" href="$df/d9d/class_b_m_i160.html#a0d7b73b6666624be552f06de06b5da8f" title="BMI160::set_gyro_range" alt="" coords="447,122,611,148"/>
-<area shape="rect" id="node4" href="$df/d9d/class_b_m_i160.html#a2e4756dc6dd13975674edd843a97da00" title="BMI160::ioctl" alt="" coords="999,172,1097,199"/>
-<area shape="rect" id="node10" href="$df/d9d/class_b_m_i160.html#a1dd358d59c330fb337d00c708030f679" title="Swap a 16&#45;bit value read from the BMI160 to native byte order. " alt="" coords="681,20,801,47"/>
-<area shape="rect" id="node5" href="$df/d9d/class_b_m_i160.html#a0d0103ffe9774d1375aeb5deeead9719" title="BMI160::gyro_ioctl" alt="" coords="1145,20,1276,47"/>
-<area shape="rect" id="node6" href="$d3/dd6/class_b_m_i160__gyro.html#af3a3cef075c5434c7f30c17e9c2544dc" title="BMI160_gyro::ioctl" alt="" coords="1324,20,1455,47"/>
-<area shape="rect" id="node8" href="$df/d9d/class_b_m_i160.html#a2bf157c226ff912157b46080ed61b1a7" title="BMI160::init" alt="" coords="854,122,946,148"/>
-<area shape="rect" id="node9" href="$df/d9d/class_b_m_i160.html#a8b375fcecc0cad825447467d7cc67f6a" title="Start automatic measurement. " alt="" coords="849,172,951,199"/>
+<area shape="rect" id="node2" href="$df/d9d/class_b_m_i160.html#afbe32c9c62c3bce2f3cddc589a6061c1" title="Modify a register in the BMI160. " alt="" coords="237,107,376,133"/>
+<area shape="rect" id="node4" href="$df/d9d/class_b_m_i160.html#a9f7c13b2d9d55c7b3c26113d41c3fd1d" title="Reset chip. " alt="" coords="681,107,785,133"/>
+<area shape="rect" id="node3" href="$df/d9d/class_b_m_i160.html#a066e4dc4dd05f48eca2c9af79c0b8f75" title="BMI160::accel_set_sample_rate" alt="" coords="424,5,633,32"/>
+<area shape="rect" id="node7" href="$df/d9d/class_b_m_i160.html#ad6c51d05f69e225243c49166b4056cc3" title="BMI160::gyro_set_sample_rate" alt="" coords="427,56,630,83"/>
+<area shape="rect" id="node8" href="$df/d9d/class_b_m_i160.html#a000f607f94b3bd0f92e1bd6bdd3b2b44" title="Set the BMI160 measurement range. " alt="" coords="443,107,614,133"/>
+<area shape="rect" id="node9" href="$df/d9d/class_b_m_i160.html#a0d7b73b6666624be552f06de06b5da8f" title="BMI160::set_gyro_range" alt="" coords="447,157,611,184"/>
+<area shape="rect" id="node5" href="$df/d9d/class_b_m_i160.html#a2bf157c226ff912157b46080ed61b1a7" title="BMI160::init" alt="" coords="983,107,1075,133"/>
+<area shape="rect" id="node6" href="$df/d9d/class_b_m_i160.html#a8b375fcecc0cad825447467d7cc67f6a" title="Start automatic measurement. " alt="" coords="833,132,935,159"/>
 </map>

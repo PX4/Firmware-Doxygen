@@ -1,51 +1,51 @@
 <map id="src/lib/matrix/matrix/helper_functions.hpp" name="src/lib/matrix/matrix/helper_functions.hpp">
-<area shape="rect" id="node2" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="4455,95,4592,136"/>
-<area shape="rect" id="node40" href="$de/dbe/_axis_angle_8hpp.html" title="src/lib/matrix/matrix\l/AxisAngle.hpp" alt="" coords="7027,281,7164,322"/>
-<area shape="rect" id="node48" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="7188,281,7325,322"/>
-<area shape="rect" id="node50" href="$d4/dec/helper_8cpp.html" title="src/lib/matrix/test\l/helper.cpp" alt="" coords="5950,95,6073,136"/>
-<area shape="rect" id="node3" href="$d4/d78/math_8hpp.html" title="src/lib/matrix/matrix\l/math.hpp" alt="" coords="4348,184,4485,225"/>
-<area shape="rect" id="node4" href="$d9/d92/camera__trigger_8cpp.html" title="External camera&#45;IMU synchronisation and triggering, and support for camera manipulation using PWM sig..." alt="" coords="5944,281,6124,322"/>
-<area shape="rect" id="node5" href="$db/d7d/drivers_2gps_2gps_8cpp.html" title="src/drivers/gps/gps.cpp" alt="" coords="6148,288,6307,315"/>
-<area shape="rect" id="node6" href="$d4/d16/crsf__telemetry_8h.html" title="src/drivers/rc_input\l/crsf_telemetry.h" alt="" coords="6331,281,6465,322"/>
-<area shape="rect" id="node7" href="$df/dae/bst_8cpp.html" title="Black Sheep Telemetry driver. " alt="" coords="6489,281,6630,322"/>
-<area shape="rect" id="node8" href="$d6/d9b/output_8cpp.html" title="src/drivers/vmount\l/output.cpp" alt="" coords="6654,281,6785,322"/>
-<area shape="rect" id="node9" href="$d3/dd1/_bezier_quad_8hpp.html" title="src/lib/bezier/BezierQuad.hpp" alt="" coords="6809,288,7003,315"/>
-<area shape="rect" id="node10" href="$dd/de1/_block_delay_8hpp.html" title="src/lib/controllib\l/BlockDelay.hpp" alt="" coords="5,281,124,322"/>
-<area shape="rect" id="node11" href="$de/d3d/_block_low_pass_8hpp.html" title="src/lib/controllib\l/BlockLowPass.hpp" alt="" coords="199,281,338,322"/>
-<area shape="rect" id="node12" href="$d3/d8d/_block_derivative_8hpp.html" title="src/lib/controllib\l/BlockDerivative.hpp" alt="" coords="144,377,287,419"/>
-<area shape="rect" id="node13" href="$dc/db5/_block_high_pass_8hpp.html" title="src/lib/controllib\l/BlockHighPass.hpp" alt="" coords="362,281,503,322"/>
-<area shape="rect" id="node14" href="$d6/de8/_block_limit_sym_8hpp.html" title="src/lib/controllib\l/BlockLimitSym.hpp" alt="" coords="578,281,717,322"/>
-<area shape="rect" id="node15" href="$d0/db1/_block_integral_8hpp.html" title="src/lib/controllib\l/BlockIntegral.hpp" alt="" coords="531,377,657,419"/>
-<area shape="rect" id="node16" href="$db/dcb/_block_integral_trap_8hpp.html" title="src/lib/controllib\l/BlockIntegralTrap.hpp" alt="" coords="741,281,895,322"/>
-<area shape="rect" id="node17" href="$d0/dbc/_block_limit_8hpp.html" title="src/lib/controllib\l/BlockLimit.hpp" alt="" coords="919,281,1032,322"/>
-<area shape="rect" id="node18" href="$d5/d5b/_block_low_pass2_8hpp.html" title="src/lib/controllib\l/BlockLowPass2.hpp" alt="" coords="1056,281,1201,322"/>
-<area shape="rect" id="node19" href="$d5/d8b/_block_low_pass_vector_8hpp.html" title="src/lib/controllib\l/BlockLowPassVector.hpp" alt="" coords="1226,281,1402,322"/>
-<area shape="rect" id="node20" href="$dc/d2c/_block_output_8hpp.html" title="src/lib/controllib\l/BlockOutput.hpp" alt="" coords="1426,281,1549,322"/>
-<area shape="rect" id="node21" href="$df/d17/_block_p_d_8hpp.html" title="src/lib/controllib\l/BlockPD.hpp" alt="" coords="1573,281,1687,322"/>
-<area shape="rect" id="node22" href="$d1/d7f/_block_p_8hpp.html" title="src/lib/controllib\l/BlockP.hpp" alt="" coords="1711,281,1824,322"/>
-<area shape="rect" id="node23" href="$db/df6/_block_p_i_d_8hpp.html" title="src/lib/controllib\l/BlockPID.hpp" alt="" coords="1848,281,1961,322"/>
-<area shape="rect" id="node24" href="$db/d5f/_block_p_i_8hpp.html" title="src/lib/controllib\l/BlockPI.hpp" alt="" coords="1985,281,2099,322"/>
-<area shape="rect" id="node25" href="$d5/d5f/_block_rand_gauss_8hpp.html" title="src/lib/controllib\l/BlockRandGauss.hpp" alt="" coords="2123,281,2276,322"/>
-<area shape="rect" id="node26" href="$df/db7/_block_rand_uniform_8hpp.html" title="src/lib/controllib\l/BlockRandUniform.hpp" alt="" coords="2300,281,2461,322"/>
-<area shape="rect" id="node27" href="$d1/d2b/_block_stats_8hpp.html" title="src/lib/controllib\l/BlockStats.hpp" alt="" coords="2486,281,2601,322"/>
-<area shape="rect" id="node28" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="2625,281,2749,322"/>
-<area shape="rect" id="node29" href="$de/d1c/integrator_8h.html" title="A resettable integrator. " alt="" coords="2773,281,2916,322"/>
-<area shape="rect" id="node30" href="$d5/d4e/_wind_estimator_8hpp.html" title="A wind and airspeed scale estimator. " alt="" coords="2940,281,3077,322"/>
-<area shape="rect" id="node31" href="$dd/d1c/ecl__wheel__controller_8cpp.html" title="Implementation of a simple PID wheel controller for heading tracking. " alt="" coords="3101,281,3292,322"/>
-<area shape="rect" id="node32" href="$d5/d60/lib_2ecl_2_e_k_f_2common_8h.html" title="src/lib/ecl/EKF/common.h" alt="" coords="3367,288,3541,315"/>
-<area shape="rect" id="node33" href="$d9/d77/estimator__interface_8h.html" title="Definition of base class for attitude estimators. " alt="" coords="3308,377,3475,419"/>
-<area shape="rect" id="node34" href="$d7/d09/geo_8cpp.html" title="src/lib/ecl/geo/geo.cpp" alt="" coords="3565,288,3719,315"/>
-<area shape="rect" id="node35" href="$d0/dfb/ecl__l1__pos__controller_8h.html" title="Implementation of L1 position control. " alt="" coords="3743,281,3882,322"/>
-<area shape="rect" id="node36" href="$d6/d35/tecs_8h.html" title="src/lib/ecl/tecs/tecs.h" alt="" coords="3906,288,4053,315"/>
-<area shape="rect" id="node37" href="$dc/dd0/_flight_task_8hpp.html" title="Abstract base class for different advanced flight tasks like orbit, follow me, ... " alt="" coords="4077,281,4290,322"/>
-<area shape="rect" id="node38" href="$d0/dd2/_manual_smoothing_x_y_8hpp.html" title="src/lib/FlightTasks\l/tasks/Utility/ManualSmoothing\lXY.hpp" alt="" coords="4315,273,4519,329"/>
-<area shape="rect" id="node39" href="$db/dc9/_straight_line_8hpp.html" title="lib to return setpoints on a straight line " alt="" coords="4543,281,4738,322"/>
-<area shape="rect" id="node41" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="4763,281,4900,322"/>
-<area shape="rect" id="node42" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="4924,281,5061,322"/>
-<area shape="rect" id="node43" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="5085,281,5223,322"/>
-<area shape="rect" id="node44" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="5247,281,5384,322"/>
-<area shape="rect" id="node45" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="5408,281,5545,322"/>
-<area shape="rect" id="node46" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="5569,281,5707,322"/>
-<area shape="rect" id="node47" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="5731,281,5868,322"/>
-<area shape="rect" id="node49" href="$d8/dd8/test__matrix_8cpp.html" title="src/systemcmds/tests\l/test_matrix.cpp" alt="" coords="6505,377,6657,419"/>
+<area shape="rect" id="node2" href="$d4/d78/math_8hpp.html" title="src/lib/matrix/matrix\l/math.hpp" alt="" coords="4067,95,4204,136"/>
+<area shape="rect" id="node3" href="$d9/d92/camera__trigger_8cpp.html" title="External camera&#45;IMU synchronisation and triggering, and support for camera manipulation using PWM sig..." alt="" coords="5,191,185,233"/>
+<area shape="rect" id="node4" href="$db/d7d/drivers_2gps_2gps_8cpp.html" title="src/drivers/gps/gps.cpp" alt="" coords="209,199,368,225"/>
+<area shape="rect" id="node5" href="$d4/d16/crsf__telemetry_8h.html" title="src/drivers/rc_input\l/crsf_telemetry.h" alt="" coords="393,191,526,233"/>
+<area shape="rect" id="node6" href="$df/dae/bst_8cpp.html" title="Black Sheep Telemetry driver. " alt="" coords="550,191,691,233"/>
+<area shape="rect" id="node7" href="$d3/dd1/_bezier_quad_8hpp.html" title="src/lib/bezier/BezierQuad.hpp" alt="" coords="716,199,909,225"/>
+<area shape="rect" id="node8" href="$d8/dfe/_collision_prevention_8hpp.html" title="src/lib/collision_prevention\l/CollisionPrevention.hpp" alt="" coords="933,191,1108,233"/>
+<area shape="rect" id="node9" href="$dd/de1/_block_delay_8hpp.html" title="src/lib/controllib\l/BlockDelay.hpp" alt="" coords="1132,191,1251,233"/>
+<area shape="rect" id="node10" href="$de/d3d/_block_low_pass_8hpp.html" title="src/lib/controllib\l/BlockLowPass.hpp" alt="" coords="1275,191,1414,233"/>
+<area shape="rect" id="node11" href="$d3/d8d/_block_derivative_8hpp.html" title="src/lib/controllib\l/BlockDerivative.hpp" alt="" coords="1327,295,1469,337"/>
+<area shape="rect" id="node12" href="$dc/db5/_block_high_pass_8hpp.html" title="src/lib/controllib\l/BlockHighPass.hpp" alt="" coords="1489,191,1630,233"/>
+<area shape="rect" id="node13" href="$d6/de8/_block_limit_sym_8hpp.html" title="src/lib/controllib\l/BlockLimitSym.hpp" alt="" coords="1654,191,1793,233"/>
+<area shape="rect" id="node14" href="$d0/db1/_block_integral_8hpp.html" title="src/lib/controllib\l/BlockIntegral.hpp" alt="" coords="1713,295,1840,337"/>
+<area shape="rect" id="node15" href="$db/dcb/_block_integral_trap_8hpp.html" title="src/lib/controllib\l/BlockIntegralTrap.hpp" alt="" coords="1868,191,2021,233"/>
+<area shape="rect" id="node16" href="$d0/dbc/_block_limit_8hpp.html" title="src/lib/controllib\l/BlockLimit.hpp" alt="" coords="2045,191,2159,233"/>
+<area shape="rect" id="node17" href="$d5/d5b/_block_low_pass2_8hpp.html" title="src/lib/controllib\l/BlockLowPass2.hpp" alt="" coords="2183,191,2328,233"/>
+<area shape="rect" id="node18" href="$d5/d8b/_block_low_pass_vector_8hpp.html" title="src/lib/controllib\l/BlockLowPassVector.hpp" alt="" coords="2353,191,2529,233"/>
+<area shape="rect" id="node19" href="$dc/d2c/_block_output_8hpp.html" title="src/lib/controllib\l/BlockOutput.hpp" alt="" coords="2553,191,2675,233"/>
+<area shape="rect" id="node20" href="$df/d17/_block_p_d_8hpp.html" title="src/lib/controllib\l/BlockPD.hpp" alt="" coords="2700,191,2813,233"/>
+<area shape="rect" id="node21" href="$d1/d7f/_block_p_8hpp.html" title="src/lib/controllib\l/BlockP.hpp" alt="" coords="2837,191,2951,233"/>
+<area shape="rect" id="node22" href="$db/df6/_block_p_i_d_8hpp.html" title="src/lib/controllib\l/BlockPID.hpp" alt="" coords="2975,191,3088,233"/>
+<area shape="rect" id="node23" href="$db/d5f/_block_p_i_8hpp.html" title="src/lib/controllib\l/BlockPI.hpp" alt="" coords="3112,191,3225,233"/>
+<area shape="rect" id="node24" href="$d5/d5f/_block_rand_gauss_8hpp.html" title="src/lib/controllib\l/BlockRandGauss.hpp" alt="" coords="3249,191,3403,233"/>
+<area shape="rect" id="node25" href="$df/db7/_block_rand_uniform_8hpp.html" title="src/lib/controllib\l/BlockRandUniform.hpp" alt="" coords="3427,191,3588,233"/>
+<area shape="rect" id="node26" href="$d1/d2b/_block_stats_8hpp.html" title="src/lib/controllib\l/BlockStats.hpp" alt="" coords="3613,191,3727,233"/>
+<area shape="rect" id="node27" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="3752,191,3876,233"/>
+<area shape="rect" id="node28" href="$de/d1c/integrator_8h.html" title="A resettable integrator. " alt="" coords="3900,191,4043,233"/>
+<area shape="rect" id="node29" href="$d5/d4e/_wind_estimator_8hpp.html" title="A wind and airspeed scale estimator. " alt="" coords="4067,191,4204,233"/>
+<area shape="rect" id="node30" href="$dd/d1c/ecl__wheel__controller_8cpp.html" title="Implementation of a simple PID wheel controller for heading tracking. " alt="" coords="4228,191,4419,233"/>
+<area shape="rect" id="node31" href="$d5/d60/lib_2ecl_2_e_k_f_2common_8h.html" title="src/lib/ecl/EKF/common.h" alt="" coords="4443,199,4617,225"/>
+<area shape="rect" id="node32" href="$d9/d77/estimator__interface_8h.html" title="Definition of base class for attitude estimators. " alt="" coords="4508,295,4675,337"/>
+<area shape="rect" id="node33" href="$d7/d09/geo_8cpp.html" title="src/lib/ecl/geo/geo.cpp" alt="" coords="4692,199,4845,225"/>
+<area shape="rect" id="node34" href="$d0/dfb/ecl__l1__pos__controller_8h.html" title="Implementation of L1 position control. " alt="" coords="4870,191,5009,233"/>
+<area shape="rect" id="node35" href="$d6/d35/tecs_8h.html" title="src/lib/ecl/tecs/tecs.h" alt="" coords="5033,199,5179,225"/>
+<area shape="rect" id="node36" href="$dd/d93/test___alpha_filter_8cpp.html" title="src/lib/ecl/test/test\l_AlphaFilter.cpp" alt="" coords="5203,191,5334,233"/>
+<area shape="rect" id="node37" href="$dc/dd0/_flight_task_8hpp.html" title="Abstract base class for different advanced flight tasks like orbit, follow me, ... " alt="" coords="5358,191,5571,233"/>
+<area shape="rect" id="node38" href="$d0/dd2/_manual_smoothing_x_y_8hpp.html" title="src/lib/flight_tasks\l/tasks/Utility/ManualSmoothing\lXY.hpp" alt="" coords="5596,184,5800,240"/>
+<area shape="rect" id="node39" href="$db/db5/_manual_velocity_smoothing_x_y_8hpp.html" title="src/lib/flight_tasks\l/tasks/Utility/ManualVelocity\lSmoothingXY.hpp" alt="" coords="5825,184,6014,240"/>
+<area shape="rect" id="node40" href="$dd/d1d/_manual_velocity_smoothing_x_y_test_8cpp.html" title="src/lib/flight_tasks\l/tasks/Utility/ManualVelocity\lSmoothingXYTest.cpp" alt="" coords="5890,288,6079,344"/>
+<area shape="rect" id="node41" href="$d8/d46/_obstacle_avoidance_8hpp.html" title="This class is used to inject the setpoints of an obstacle avoidance system into the FlightTasks..." alt="" coords="6089,191,6328,233"/>
+<area shape="rect" id="node42" href="$db/dc9/_straight_line_8hpp.html" title="lib to return setpoints on a straight line " alt="" coords="6353,191,6547,233"/>
+<area shape="rect" id="node43" href="$dc/dd8/test__velocity__smoothing_8cpp.html" title="src/lib/flight_tasks\l/tasks/Utility/test_velocity\l_smoothing.cpp" alt="" coords="6572,184,6747,240"/>
+<area shape="rect" id="node44" href="$d3/d55/_velocity_smoothing_test_8cpp.html" title="src/lib/flight_tasks\l/tasks/Utility/VelocitySmoothing\lTest.cpp" alt="" coords="6771,184,6980,240"/>
+<area shape="rect" id="node45" href="$d5/da5/_low_pass_filter2p_vector3f_8hpp.html" title="A class to implement a second order low pass filter on a Vector3f Based on LowPassFilter2p.hpp by Leonard Hall LeonardTHall@gmail.com " alt="" coords="7005,191,7231,233"/>
+<area shape="rect" id="node46" href="$de/dbe/_axis_angle_8hpp.html" title="src/lib/matrix/matrix\l/AxisAngle.hpp" alt="" coords="7256,191,7393,233"/>
+<area shape="rect" id="node47" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="7417,191,7555,233"/>
+<area shape="rect" id="node48" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="7579,191,7716,233"/>
+<area shape="rect" id="node49" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="7740,191,7877,233"/>
+<area shape="rect" id="node50" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="7901,191,8039,233"/>
 </map>

@@ -1,0 +1,51 @@
+<map id="PX4Accelerometer::set_scale" name="PX4Accelerometer::set_scale">
+<area shape="rect" id="node2" href="$db/d27/class_f_x_o_s8701_c_q.html#a9e0b00946ea218a213f99ecfa1b061b7" title="Set the FXOS8701C accel measurement range. " alt="" coords="211,5,381,47"/>
+<area shape="rect" id="node8" href="$d6/dd5/class_l_s_m303_d.html#a6b43adb7eb7739c63f278d291b7f481b" title="Set the LSM303D accel measurement range. " alt="" coords="224,71,368,112"/>
+<area shape="rect" id="node13" href="$d8/db8/class_a_d_i_s16448.html#a3b8eefe5692ca20df26da3ca4e8ef01f" title="ADIS16448::ADIS16448" alt="" coords="214,137,378,163"/>
+<area shape="rect" id="node14" href="$d8/de0/class_a_d_i_s16477.html#a03b184cd4e84ca09bba95fb9b073c93f" title="ADIS16477::ADIS16477" alt="" coords="214,187,378,214"/>
+<area shape="rect" id="node15" href="$d7/d43/class_a_d_i_s16497.html#a2c839d21dcda5822bd67aac89fcd64dc" title="ADIS16497::ADIS16497" alt="" coords="214,238,378,265"/>
+<area shape="rect" id="node16" href="$d7/d28/class_sih.html#a2a4e25760195cdd49239c8c0704ee18d" title="Sih::send_IMU" alt="" coords="241,289,351,315"/>
+<area shape="rect" id="node19" href="$d2/d34/class_b_m_i055__accel.html#a03581a1705873dc0ad99c70524407476" title="Set the BMI055_accel measurement range. " alt="" coords="211,340,381,381"/>
+<area shape="rect" id="node22" href="$d1/da1/class_b_m_i088__accel.html#a020b70ce57510dcb407160a140869747" title="Set the BMI088_accel measurement range. " alt="" coords="211,405,381,447"/>
+<area shape="rect" id="node26" href="$df/d9d/class_b_m_i160.html#a000f607f94b3bd0f92e1bd6bdd3b2b44" title="Set the BMI160 measurement range. " alt="" coords="211,471,381,498"/>
+<area shape="rect" id="node30" href="$df/dd9/class_m_p_u9250.html#aca04f3e6b0916037bb34e005717b1f08" title="Set the mpu measurement range. " alt="" coords="224,540,368,581"/>
+<area shape="rect" id="node38" href="$d5/d19/class_m_p_u6000.html#a7ab75a027c6d2bb045faf87eebedb3cd" title="Set the MPU6000 measurement range. " alt="" coords="224,632,368,673"/>
+<area shape="rect" id="node44" href="$da/d2e/class_i_c_m20948.html#a107acc9c81bb04d3526bb75e66e6771a" title="Set the mpu measurement range. " alt="" coords="223,740,369,781"/>
+<area shape="rect" id="node3" href="$db/d27/class_f_x_o_s8701_c_q.html#a38008fa0c43b5d222d37f85d2ad3b820" title="FXOS8701CQ::reset" alt="" coords="433,13,576,39"/>
+<area shape="rect" id="node4" href="$db/d27/class_f_x_o_s8701_c_q.html#a84d7a1b2c731f53cfeaeafea9d4d79e5" title="FXOS8701CQ::init" alt="" coords="654,13,785,39"/>
+<area shape="rect" id="node5" href="$dd/d38/namespacefxos8701cq.html#a3a5f31707437a640fe03d040c806e318" title="Start the driver. " alt="" coords="883,13,1006,39"/>
+<area shape="rect" id="node6" href="$d5/db5/fxos8701cq__main_8cpp.html#abb6795591a4bc49ca6455a6a087d8fcc" title="fxos8701cq_main" alt="" coords="1090,13,1214,39"/>
+<area shape="rect" id="node7" href="$dd/d38/namespacefxos8701cq.html#a15f7e73c7a4c2e039787d87381acaa5b" title="Prints info about the driver argument usage. " alt="" coords="1273,13,1405,39"/>
+<area shape="rect" id="node9" href="$d6/dd5/class_l_s_m303_d.html#a5f1f4db34131f350507192dbe4dd46b2" title="LSM303D::reset" alt="" coords="446,78,563,105"/>
+<area shape="rect" id="node10" href="$d6/dd5/class_l_s_m303_d.html#a0f48892381aa5a928264d370302e97c2" title="LSM303D::init" alt="" coords="667,78,772,105"/>
+<area shape="rect" id="node11" href="$de/d88/namespacelsm303d.html#a2316166d8e80b3eef8f72ec316f82f61" title="Start the driver. " alt="" coords="892,78,997,105"/>
+<area shape="rect" id="node12" href="$d0/d47/lsm303d__main_8cpp.html#a58648fe66ec5f4a40bea62b2c0c466b3" title="lsm303d_main" alt="" coords="1099,78,1205,105"/>
+<area shape="rect" id="node17" href="$d7/d28/class_sih.html#ae9c730a3bcefba814a268e9ce715834e" title="Sih::inner_loop" alt="" coords="451,251,559,278"/>
+<area shape="rect" id="node18" href="$d7/d28/class_sih.html#a50305f3a277e16908d0866e1e3f33a1f" title="Sih::run" alt="" coords="686,251,753,278"/>
+<area shape="rect" id="node20" href="$d2/d34/class_b_m_i055__accel.html#a3b4f067b2ae5a303957b0cb2aa66f6e7" title="Reset chip. " alt="" coords="433,327,576,354"/>
+<area shape="rect" id="node21" href="$d2/d34/class_b_m_i055__accel.html#af8dcfeb17e4175b560b7b456528b755b" title="BMI055_accel::init" alt="" coords="654,302,785,329"/>
+<area shape="rect" id="node23" href="$d1/da1/class_b_m_i088__accel.html#a9b927192a0c8663ab55af07a9880dc48" title="Reset chip. " alt="" coords="433,403,576,430"/>
+<area shape="rect" id="node24" href="$d1/da1/class_b_m_i088__accel.html#a2fa1dba954451551daabd72cc49ee225" title="BMI088_accel::init" alt="" coords="654,353,785,379"/>
+<area shape="rect" id="node25" href="$d1/da1/class_b_m_i088__accel.html#a1fe5f1416ecaf5473508646b2eb6592a" title="BMI088_accel::start" alt="" coords="650,403,789,430"/>
+<area shape="rect" id="node27" href="$df/d9d/class_b_m_i160.html#a9f7c13b2d9d55c7b3c26113d41c3fd1d" title="Reset chip. " alt="" coords="453,471,557,498"/>
+<area shape="rect" id="node28" href="$df/d9d/class_b_m_i160.html#a2bf157c226ff912157b46080ed61b1a7" title="BMI160::init" alt="" coords="899,479,991,506"/>
+<area shape="rect" id="node29" href="$df/d9d/class_b_m_i160.html#a8b375fcecc0cad825447467d7cc67f6a" title="Start automatic measurement. " alt="" coords="669,505,770,531"/>
+<area shape="rect" id="node31" href="$df/dd9/class_m_p_u9250.html#a167b38dd4cb9e7db71bf5e32c520d34d" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="430,555,579,582"/>
+<area shape="rect" id="node32" href="$df/dd9/class_m_p_u9250.html#a850810ef1e5c7b8a8effca5db13c9ef1" title="MPU9250::init" alt="" coords="667,555,772,582"/>
+<area shape="rect" id="node37" href="$df/dd9/class_m_p_u9250.html#aad264083bcac0f15db47c8b0ec5c3f25" title="MPU9250::reset" alt="" coords="661,606,778,633"/>
+<area shape="rect" id="node33" href="$df/d4c/class_df_mpu9250_wrapper.html#a477211cd7ee571404813ba49a6e92746" title="Start automatic measurement. " alt="" coords="859,543,1031,570"/>
+<area shape="rect" id="node35" href="$df/d21/namespacempu9250.html#a05201b22e3247f6e9010deb5e9997cc3" title="mpu9250::start_bus" alt="" coords="876,598,1013,625"/>
+<area shape="rect" id="node34" href="$d9/d33/namespacedf__mpu9250__wrapper.html#a90362e9bb9eedb77edcd1aaf6fff4b61" title="df_mpu9250_wrapper\l::start" alt="" coords="1079,533,1225,575"/>
+<area shape="rect" id="node36" href="$df/d21/namespacempu9250.html#a673cf6d880f7c04112973ded5fa22065" title="mpu9250::start" alt="" coords="1097,599,1207,626"/>
+<area shape="rect" id="node39" href="$d5/d19/class_m_p_u6000.html#a086086441e0859214b9506711cd323ae" title="Reset chip. " alt="" coords="446,657,563,683"/>
+<area shape="rect" id="node40" href="$d5/d19/class_m_p_u6000.html#a9763c2bd2ee666da352a86949f7e7386" title="MPU6000::init" alt="" coords="667,657,772,683"/>
+<area shape="rect" id="node41" href="$dc/d3d/namespacempu6000.html#accc21077c7ebce36800727645d6e9753" title="Reset the driver. " alt="" coords="663,707,775,734"/>
+<area shape="rect" id="node42" href="$df/dcc/mpu6000__main_8cpp.html#a449f83d61966eebf7f34fb5b9fb19279" title="driver &#39;main&#39; command " alt="" coords="889,707,1000,734"/>
+<area shape="rect" id="node43" href="$dc/d3d/namespacempu6000.html#a40dc56942d9d64c7be4f8d406f3421c0" title="Prints info about the driver argument usage. " alt="" coords="1093,707,1211,734"/>
+<area shape="rect" id="node45" href="$da/d2e/class_i_c_m20948.html#a15c271d1a998d2855897b1d20405c4ea" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="429,787,580,814"/>
+<area shape="rect" id="node46" href="$da/d2e/class_i_c_m20948.html#a00f0803b54f422398a61667ec082f273" title="ICM20948::check_registers" alt="" coords="628,758,811,785"/>
+<area shape="rect" id="node49" href="$da/d2e/class_i_c_m20948.html#ad8970a5ba6ed66c53eaf2308a34c9aa3" title="ICM20948::init" alt="" coords="666,809,773,835"/>
+<area shape="rect" id="node50" href="$da/d2e/class_i_c_m20948.html#a13a11cde04f0d6296175e70fb314cbe7" title="ICM20948::reset" alt="" coords="660,859,779,886"/>
+<area shape="rect" id="node47" href="$da/d2e/class_i_c_m20948.html#a0fa8a88dd60f823e58901a30759c036e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="875,758,1015,785"/>
+<area shape="rect" id="node48" href="$da/d2e/class_i_c_m20948.html#a9a2792028b35b8f611b7351c6dfc00a7" title="ICM20948::Run" alt="" coords="1095,758,1209,785"/>
+</map>

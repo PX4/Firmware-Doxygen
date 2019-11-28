@@ -1,12 +1,33 @@
 <map id="MixerTest::mixerTest" name="MixerTest::mixerTest">
-<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="572,94,611,120"/>
-<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="399,56,524,83"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="401,132,522,159"/>
-<area shape="rect" id="node5" href="$d9/dd5/class_mixer_test.html#aefc37e081a891d4eccd96d6337f56cd2" title="MixerTest::load_mixer" alt="" coords="200,195,351,222"/>
-<area shape="rect" id="node7" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="216,246,335,272"/>
-<area shape="rect" id="node9" href="$d2/d09/pwm__limit_8cpp.html#a1f8a7620629f6261224f8c4c9c28ee7d" title="pwm_limit_calc" alt="" coords="219,94,331,120"/>
-<area shape="rect" id="node10" href="$d2/d09/pwm__limit_8cpp.html#ae3de6fee4531aea8b7281b9876803c09" title="pwm_limit_init" alt="" coords="223,296,328,323"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="245,347,305,374"/>
-<area shape="rect" id="node6" href="$db/def/mixer__load_8c.html#a602ebf0e58595c0a7e1a1553969b4fa8" title="load_mixer_file" alt="" coords="407,195,516,222"/>
-<area shape="rect" id="node8" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="420,246,503,272"/>
+<area shape="rect" id="node2" href="$d0/de4/namespacematrix.html#ab6f7d94a09ce448dc95ca2e7c2f64569" title="matrix::abs" alt="" coords="217,5,303,32"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1277,259,1316,285"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="587,543,713,569"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="383,745,504,772"/>
+<area shape="rect" id="node18" href="$d9/dd5/class_mixer_test.html#aefc37e081a891d4eccd96d6337f56cd2" title="MixerTest::load_mixer" alt="" coords="368,133,519,160"/>
+<area shape="rect" id="node20" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="MixerGroup::mix" alt="" coords="201,341,319,368"/>
+<area shape="rect" id="node31" href="$d6/d1e/output__limit_8cpp.html#a089de4a9d701e540686e6fcb1ffcc457" title="output_limit_calc" alt="" coords="200,479,320,505"/>
+<area shape="rect" id="node32" href="$d6/d1e/output__limit_8cpp.html#a00b867cb288ca411052bb2430e20ad78" title="output_limit_init" alt="" coords="203,580,317,607"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1428,259,1511,285"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1559,259,1645,285"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="601,593,699,620"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="609,644,691,671"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="599,695,701,721"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="599,745,701,772"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="606,796,694,823"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="611,847,689,873"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="609,897,691,924"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="567,948,733,975"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="619,999,681,1025"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="569,1049,731,1076"/>
+<area shape="rect" id="node19" href="$db/da6/load__mixer__file_8cpp.html#a602ebf0e58595c0a7e1a1553969b4fa8" title="load_mixer_file" alt="" coords="811,107,920,133"/>
+<area shape="rect" id="node21" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="375,341,512,368"/>
+<area shape="rect" id="node22" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="594,208,706,235"/>
+<area shape="rect" id="node23" href="$de/d2d/class_mixer.html#a5f11135236af8787120e394bd1ba0108" title="Invoke the client callback to fetch a control value. " alt="" coords="587,259,713,285"/>
+<area shape="rect" id="node24" href="$d5/dd1/class_multirotor_mixer.html#a228cd5ac502699728c1b8f2c8d33f03f" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="581,426,719,467"/>
+<area shape="rect" id="node28" href="$d5/dd1/class_multirotor_mixer.html#a957ab3ca1ee85cb257082ef2624d8f82" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="797,521,934,562"/>
+<area shape="rect" id="node29" href="$d5/dd1/class_multirotor_mixer.html#aa53916371c303c865110ef71497dbf9d" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="581,361,719,402"/>
+<area shape="rect" id="node30" href="$d5/dd1/class_multirotor_mixer.html#a992ef3744b23c0b28f740279c361f4a4" title="MultirotorMixer::update\l_saturation_status" alt="" coords="1004,251,1159,293"/>
+<area shape="rect" id="node25" href="$d5/dd1/class_multirotor_mixer.html#aa57fb59ca730dfc03e27505876b7f8a6" title="Minimize the saturation of the actuators by adding or substracting a fraction of desaturation_vector..." alt="" coords="997,419,1165,461"/>
+<area shape="rect" id="node27" href="$d5/dd1/class_multirotor_mixer.html#aabf86d1773770ff5cef12eea4ac9a561" title="Mix yaw by updating an existing output vector (that already contains roll/pitch/thrust). " alt="" coords="781,419,949,445"/>
+<area shape="rect" id="node26" href="$d5/dd1/class_multirotor_mixer.html#ab6346fcc5ce4c74abdabeead8a986a50" title="Computes the gain k by which desaturation_vector has to be multiplied in order to unsaturate the outp..." alt="" coords="1213,419,1380,461"/>
 </map>

@@ -1,51 +1,51 @@
 <map id="spektrum_rc::start" name="spektrum_rc::start">
-<area shape="rect" id="node2" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="187,284,339,311"/>
-<area shape="rect" id="node3" href="$d3/d3c/namespacespektrum__rc.html#adbc95ce3e5c0c68753e572707b0e4105" title="spektrum_rc::task_main" alt="" coords="181,335,344,361"/>
-<area shape="rect" id="node4" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="433,31,519,57"/>
-<area shape="rect" id="node7" href="$d3/d37/dsm_8cpp.html#a650fd06b0cf33eb946789d0490045c95" title="Initialize the DSM receive functionality. " alt="" coords="441,183,511,209"/>
-<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="825,107,950,133"/>
-<area shape="rect" id="node13" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="453,335,499,361"/>
-<area shape="rect" id="node14" href="$d3/d37/dsm_8cpp.html#a6f7fa1d6f81b4f1d8f9c97b0264664ad" title="dsm_parse" alt="" coords="433,284,519,311"/>
-<area shape="rect" id="node18" href="$d3/d3c/namespacespektrum__rc.html#a23c42dba5428f8909378bf663d60a903" title="spektrum_rc::fill_input_rc" alt="" coords="392,385,560,412"/>
-<area shape="rect" id="node19" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="426,699,526,725"/>
-<area shape="rect" id="node47" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="843,1151,931,1177"/>
-<area shape="rect" id="node48" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="446,1252,506,1279"/>
-<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="622,1209,737,1236"/>
-<area shape="rect" id="node50" href="$d3/d37/dsm_8cpp.html#ae1365a2dbb5eeb7a065555c975f66b41" title="dsm_deinit" alt="" coords="637,233,722,260"/>
-<area shape="rect" id="node5" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="849,5,926,32"/>
-<area shape="rect" id="node6" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="648,31,711,57"/>
-<area shape="rect" id="node8" href="$d3/d37/dsm_8cpp.html#ab38619ebbecd716b6e0757356d116039" title="dsm_config" alt="" coords="635,183,724,209"/>
-<area shape="rect" id="node12" href="$d3/d37/dsm_8cpp.html#af65ffa1caa34ebd22be77188397346b9" title="dsm_proto_init" alt="" coords="626,132,733,159"/>
-<area shape="rect" id="node9" href="$d3/d37/dsm_8cpp.html#aaf6292c506d3f3601cfa8f34199023b6" title="Attempt to guess if receiving 10 or 11 bit channel values. " alt="" coords="821,183,954,209"/>
-<area shape="rect" id="node10" href="$d3/d37/dsm_8cpp.html#a155e9a9889d2e342ea3bf13aaaa4458d" title="Attempt to decode a single channel raw channel datum. " alt="" coords="1043,209,1191,236"/>
-<area shape="rect" id="node15" href="$d3/d37/dsm_8cpp.html#a3a63475bf3d8b4ac19ea396d834312f3" title="Decode the entire dsm frame (all contained channels) " alt="" coords="631,284,727,311"/>
-<area shape="rect" id="node16" href="$d9/d8a/spektrum__rssi_8h.html#a0a6a8c597ecc24014ad034af8ebfc838" title="spek_dbm_to_percent" alt="" coords="812,284,963,311"/>
-<area shape="rect" id="node17" href="$d9/d8a/spektrum__rssi_8h.html#a77b0585cc6c0a3ea9ebfd626110cd984" title="c_abs" alt="" coords="1089,277,1146,304"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1520,1134,1663,1175"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="608,691,751,733"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1711,1025,1853,1066"/>
-<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1901,1032,2028,1059"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="816,933,959,974"/>
-<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1024,796,1211,823"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1289,781,1441,822"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1046,1050,1189,1091"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="816,1202,959,1243"/>
-<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="816,750,959,791"/>
-<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="816,815,959,857"/>
-<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1294,999,1437,1041"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="799,699,976,725"/>
-<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1294,511,1437,553"/>
-<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1032,328,1203,355"/>
-<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1046,598,1189,639"/>
-<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1294,329,1437,370"/>
-<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1046,430,1189,471"/>
-<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="1294,446,1437,487"/>
-<area shape="rect" id="node25" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1051,897,1183,924"/>
-<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1554,487,1629,513"/>
-<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1551,843,1632,869"/>
-<area shape="rect" id="node27" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1276,729,1455,756"/>
-<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1272,1065,1459,1092"/>
-<area shape="rect" id="node34" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1259,1217,1472,1244"/>
-<area shape="rect" id="node39" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1080,715,1155,741"/>
-<area shape="rect" id="node43" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="1319,577,1411,604"/>
+<area shape="rect" id="node2" href="$d3/d3c/namespacespektrum__rc.html#adbc95ce3e5c0c68753e572707b0e4105" title="spektrum_rc::task_main" alt="" coords="181,222,344,249"/>
+<area shape="rect" id="node3" href="$d3/d37/dsm_8cpp.html#a650fd06b0cf33eb946789d0490045c95" title="Initialize the DSM receive functionality. " alt="" coords="441,70,511,97"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1769,45,1895,72"/>
+<area shape="rect" id="node9" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="453,121,499,148"/>
+<area shape="rect" id="node10" href="$d3/d37/dsm_8cpp.html#a6f7fa1d6f81b4f1d8f9c97b0264664ad" title="dsm_parse" alt="" coords="433,273,519,300"/>
+<area shape="rect" id="node14" href="$d3/d3c/namespacespektrum__rc.html#a23c42dba5428f8909378bf663d60a903" title="spektrum_rc::fill_input_rc" alt="" coords="392,222,560,249"/>
+<area shape="rect" id="node15" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="426,794,526,821"/>
+<area shape="rect" id="node48" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="843,1093,931,1120"/>
+<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="622,1261,737,1288"/>
+<area shape="rect" id="node50" href="$d3/d37/dsm_8cpp.html#ae1365a2dbb5eeb7a065555c975f66b41" title="dsm_deinit" alt="" coords="637,146,722,173"/>
+<area shape="rect" id="node4" href="$d3/d37/dsm_8cpp.html#ab38619ebbecd716b6e0757356d116039" title="dsm_config" alt="" coords="635,96,724,122"/>
+<area shape="rect" id="node8" href="$d3/d37/dsm_8cpp.html#af65ffa1caa34ebd22be77188397346b9" title="dsm_proto_init" alt="" coords="626,45,733,72"/>
+<area shape="rect" id="node5" href="$d3/d37/dsm_8cpp.html#aaf6292c506d3f3601cfa8f34199023b6" title="Attempt to guess if receiving 10 or 11 bit channel values. " alt="" coords="821,96,954,122"/>
+<area shape="rect" id="node6" href="$d3/d37/dsm_8cpp.html#a155e9a9889d2e342ea3bf13aaaa4458d" title="Attempt to decode a single channel raw channel datum. " alt="" coords="1043,121,1191,148"/>
+<area shape="rect" id="node11" href="$d3/d37/dsm_8cpp.html#a3a63475bf3d8b4ac19ea396d834312f3" title="Decode the entire dsm frame (all contained channels) " alt="" coords="631,197,727,224"/>
+<area shape="rect" id="node12" href="$d9/d8a/spektrum__rssi_8h.html#a0a6a8c597ecc24014ad034af8ebfc838" title="spek_dbm_to_percent" alt="" coords="812,197,963,224"/>
+<area shape="rect" id="node13" href="$d9/d8a/spektrum__rssi_8h.html#a77b0585cc6c0a3ea9ebfd626110cd984" title="c_abs" alt="" coords="1089,197,1146,224"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1536,1118,1679,1159"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="608,678,751,719"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1761,1008,1903,1050"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="816,743,959,784"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1024,910,1211,937"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1289,978,1441,1019"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1046,844,1189,886"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="816,1144,959,1186"/>
+<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="816,911,959,952"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="816,976,959,1018"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="816,678,959,719"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="799,561,976,588"/>
+<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="816,444,959,486"/>
+<area shape="rect" id="node42" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="802,510,973,537"/>
+<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="816,612,959,654"/>
+<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="816,248,959,290"/>
+<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="816,314,959,355"/>
+<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="816,379,959,420"/>
+<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1080,388,1155,414"/>
+<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1077,793,1158,820"/>
+<area shape="rect" id="node21" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1743,590,1921,617"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1326,641,1405,668"/>
+<area shape="rect" id="node26" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1264,860,1467,902"/>
+<area shape="rect" id="node27" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1292,743,1439,784"/>
+<area shape="rect" id="node28" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1341,926,1389,953"/>
+<area shape="rect" id="node24" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a722d86a2e0c4b133a64f3fe835c98d4e" title="uORB::DeviceMaster\l::advertise" alt="" coords="1534,692,1681,734"/>
+<area shape="rect" id="node25" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="1754,667,1910,708"/>
+<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1272,692,1459,718"/>
+<area shape="rect" id="node33" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a86db9fc8d841b0a4748611cec14ea546" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1520,540,1695,566"/>
+<area shape="rect" id="node35" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1259,1150,1472,1177"/>
+<area shape="rect" id="node40" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1080,438,1155,465"/>
+<area shape="rect" id="node44" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="1071,742,1163,769"/>
 </map>

@@ -1,0 +1,25 @@
+var class_rate_control =
+[
+    [ "RateControl", "d6/d3c/class_rate_control.html#ad72fa60316dc97db5d7e53b2b1d734db", null ],
+    [ "~RateControl", "d6/d3c/class_rate_control.html#aefef7fb0a727d17a19477babcf31e5f7", null ],
+    [ "getRateControlStatus", "d6/d3c/class_rate_control.html#a0e99c1d07f00fd8014546bf256e27689", null ],
+    [ "resetIntegral", "d6/d3c/class_rate_control.html#a70fa54b1879b74578fb76a59c7e07572", null ],
+    [ "setDTermCutoff", "d6/d3c/class_rate_control.html#aaa137d91cb2d929eb4a5b19f8101ca65", null ],
+    [ "setFeedForwardGain", "d6/d3c/class_rate_control.html#a63a40c9568a5735feee20bcb01ec55f9", null ],
+    [ "setGains", "d6/d3c/class_rate_control.html#a5ccc7fccf074cd98e2c1e9536a349a0a", null ],
+    [ "setIntegratorLimit", "d6/d3c/class_rate_control.html#a18b26486300b426c05a8959f36249277", null ],
+    [ "setSaturationStatus", "d6/d3c/class_rate_control.html#ab0cbee9fffa83ad3302582c13e237a31", null ],
+    [ "update", "d6/d3c/class_rate_control.html#a3b36b2fa949a0f9d2524ae461f5cc2ac", null ],
+    [ "updateIntegral", "d6/d3c/class_rate_control.html#a0ccb2694acdcf23caddf712c02688186", null ],
+    [ "_gain_d", "d6/d3c/class_rate_control.html#aa0418950cb6972d65ff0e18fdf7da6e5", null ],
+    [ "_gain_ff", "d6/d3c/class_rate_control.html#a837e39370462f6ddd64de52fc365df11", null ],
+    [ "_gain_i", "d6/d3c/class_rate_control.html#a47b17a1b0747b036cf04a2b4e09e0333", null ],
+    [ "_gain_p", "d6/d3c/class_rate_control.html#a3d7ee21fcd9caecfd9528c10ddcca780", null ],
+    [ "_lim_int", "d6/d3c/class_rate_control.html#a091f871f645fc6defd3ecb1480d5f8da", null ],
+    [ "_lp_filters_d", "d6/d3c/class_rate_control.html#a3bf763e545baedc542dc21c6a88c1632", null ],
+    [ "_mixer_saturation_negative", "d6/d3c/class_rate_control.html#a0ee31e596dc9375caeace531b5dfd0b1", null ],
+    [ "_mixer_saturation_positive", "d6/d3c/class_rate_control.html#a56a72332ed1591293f949db2f5abf6e2", null ],
+    [ "_rate_int", "d6/d3c/class_rate_control.html#a34e38bdf5cc946e3ad51d9373a345e81", null ],
+    [ "_rate_prev", "d6/d3c/class_rate_control.html#a7abe9d3950132e486c81a6ba4df8e872", null ],
+    [ "_rate_prev_filtered", "d6/d3c/class_rate_control.html#a1500601ae8c4fbffdbf778777de96700", null ]
+];

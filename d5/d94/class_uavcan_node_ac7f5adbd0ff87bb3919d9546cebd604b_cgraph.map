@@ -1,0 +1,51 @@
+<map id="UavcanNode::init" name="UavcanNode::init">
+<area shape="rect" id="node2" href="$d5/d94/class_uavcan_node.html#ad9379f69195e6ab2eeb48de89f8fd1ef" title="UavcanNode::busevent\l_signal_trampoline" alt="" coords="199,5,358,47"/>
+<area shape="rect" id="node3" href="$d5/d94/class_uavcan_node.html#ae20d390d4ffc4f0032480e5082728ed3" title="UavcanNode::enable\l_idle_throttle_when_armed" alt="" coords="190,123,367,164"/>
+<area shape="rect" id="node4" href="$de/d1e/class_uavcan_mixing_interface.html#a2f2a89f5ea9be4c83ba592eaa3e17a07" title="UavcanMixingInterface\l::mixingOutput" alt="" coords="463,64,619,105"/>
+<area shape="rect" id="node6" href="$da/d43/class_mixing_output.html#a104e8151e3c861c2fdba82a2b33025f1" title="MixingOutput::setAllMinValues" alt="" coords="441,130,642,157"/>
+<area shape="rect" id="node7" href="$d5/d94/class_uavcan_node.html#a4236d9a128a6345239a5357edcc2c100" title="UavcanNode::fill_node_info" alt="" coords="187,239,370,266"/>
+<area shape="rect" id="node12" href="$d8/d8b/class_uavcan_hardpoint_controller.html#a9dc8fab52ed9393715d892e84d5fe812" title="UavcanHardpointController\l::init" alt="" coords="189,348,368,389"/>
+<area shape="rect" id="node14" href="$d1/dfe/class_uavcan_esc_controller.html#aa0cb133915c75823f4bf14a20c2bc491" title="UavcanEscController\l::init" alt="" coords="205,531,352,572"/>
+<area shape="rect" id="node20" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="211,825,347,867"/>
+<area shape="rect" id="node21" href="$de/d34/class_i_uavcan_sensor_bridge.html#ae235808799688a74bebd05ca631a8f05" title="Sensor bridge factory. " alt="" coords="204,891,353,932"/>
+<area shape="rect" id="node22" href="$d1/dfe/class_uavcan_esc_controller.html#aa546d8b269a0463c8a26ac5935c9d3f9" title="UavcanEscController\l::max_output_value" alt="" coords="205,465,352,507"/>
+<area shape="rect" id="node24" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="235,597,322,623"/>
+<area shape="rect" id="node30" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="237,774,320,801"/>
+<area shape="rect" id="node47" href="$da/d43/class_mixing_output.html#ad3c2c14177a57fe1567146e8fcffeae1" title="MixingOutput::setAllDisarmed\lValues" alt="" coords="181,956,377,997"/>
+<area shape="rect" id="node48" href="$da/d43/class_mixing_output.html#a5eb0fa9caeb6654be3dad7a708ea6ee4" title="MixingOutput::setAllMaxValues" alt="" coords="176,1022,381,1049"/>
+<area shape="rect" id="node49" href="$da/d43/class_mixing_output.html#a21426b3db3bb5962f978aae02868ef40" title="MixingOutput::setMaxTopic\lUpdateRate" alt="" coords="187,1203,370,1244"/>
+<area shape="rect" id="node5" href="$de/d1e/class_uavcan_mixing_interface.html#a17f65403dd59a874ad40f5d3f4333cdd" title="UavcanMixingInterface::Run" alt="" coords="701,71,889,98"/>
+<area shape="rect" id="node8" href="$d5/d94/class_uavcan_node.html#ae269cb54a4a9054ec929af9f6e245c1d" title="UavcanNode::getHardwareVersion" alt="" coords="429,181,653,207"/>
+<area shape="rect" id="node11" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="467,232,616,273"/>
+<area shape="rect" id="node9" href="$d5/d94/class_uavcan_node.html#a9dd1c2374f1ef0ee4811d8b904d86aee" title="UavcanNode::instance" alt="" coords="718,155,873,182"/>
+<area shape="rect" id="node10" href="$df/dfc/version_8h.html#a4a98b20dc43b646ecb59934cc3ebb2e0" title="get the board name as string (including the version if there are multiple) " alt="" coords="735,206,856,233"/>
+<area shape="rect" id="node13" href="$d8/d8b/class_uavcan_hardpoint_controller.html#a9225912a6c0ec1cb2cb73cf914436f48" title="UavcanHardpointController\l::periodic_update" alt="" coords="452,297,631,339"/>
+<area shape="rect" id="node15" href="$d1/dfe/class_uavcan_esc_controller.html#a0cf4cd89136cdf22b191872966120da7" title="ESC status message reception will be reported via this callback. " alt="" coords="468,531,615,572"/>
+<area shape="rect" id="node17" href="$d1/dfe/class_uavcan_esc_controller.html#aa9049c1d0449f0f777e499ae9a68d4e8" title="ESC status will be published to ORB from this callback (fixed rate). " alt="" coords="468,465,615,507"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="948,597,1073,623"/>
+<area shape="rect" id="node18" href="$d1/dfe/class_uavcan_esc_controller.html#a56c55ed088c3987cc176d9e3a1c690a7" title="Checks all the ESCs freshness based on timestamp, if an ESC exceeds the timeout then is flagged offli..." alt="" coords="722,313,869,355"/>
+<area shape="rect" id="node19" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="716,379,875,420"/>
+<area shape="rect" id="node23" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="499,414,583,441"/>
+<area shape="rect" id="node25" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="474,597,609,623"/>
+<area shape="rect" id="node26" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1132,622,1283,649"/>
+<area shape="rect" id="node27" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="712,597,879,623"/>
+<area shape="rect" id="node28" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="754,698,837,725"/>
+<area shape="rect" id="node29" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="759,647,831,674"/>
+<area shape="rect" id="node31" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="776,1053,815,1079"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="953,1179,1069,1206"/>
+<area shape="rect" id="node35" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="470,850,613,877"/>
+<area shape="rect" id="node40" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="475,1103,607,1130"/>
+<area shape="rect" id="node41" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="747,1205,844,1231"/>
+<area shape="rect" id="node42" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="475,951,607,978"/>
+<area shape="rect" id="node44" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="750,1154,841,1181"/>
+<area shape="rect" id="node45" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="497,799,586,826"/>
+<area shape="rect" id="node46" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="468,749,615,775"/>
+<area shape="rect" id="node32" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="969,1053,1052,1079"/>
+<area shape="rect" id="node34" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1132,1179,1283,1206"/>
+<area shape="rect" id="node36" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="953,774,1069,801"/>
+<area shape="rect" id="node37" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="937,977,1084,1003"/>
+<area shape="rect" id="node38" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="724,951,867,978"/>
+<area shape="rect" id="node39" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="750,799,841,826"/>
+<area shape="rect" id="node43" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="715,901,875,927"/>
+<area shape="rect" id="node50" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#a53018b44bb431a80d47ac95327990b2a" title="Set the interval in microseconds. " alt="" coords="451,1307,632,1348"/>
+</map>

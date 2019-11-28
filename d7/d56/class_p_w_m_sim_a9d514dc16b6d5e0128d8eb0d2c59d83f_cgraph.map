@@ -1,0 +1,51 @@
+<map id="PWMSim::Run" name="PWMSim::Run">
+<area shape="rect" id="node2" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="969,74,1108,116"/>
+<area shape="rect" id="node11" href="$da/d43/class_mixing_output.html#aca31894dcdf1f2016adcd0f9c471d529" title="unregister uORB subscription callbacks " alt="" coords="461,895,625,922"/>
+<area shape="rect" id="node12" href="$da/d43/class_mixing_output.html#a8261225a75b45289c2384fcf6b3bc469" title="Call this regularly from Run(). " alt="" coords="203,462,350,488"/>
+<area shape="rect" id="node35" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="969,172,1108,213"/>
+<area shape="rect" id="node46" href="$da/d43/class_mixing_output.html#a3cdc8d8d57a00b7c9cd76b4d5b63cfc4" title="Check for subscription updates (e.g. " alt="" coords="164,946,389,972"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="1211,145,1350,186"/>
+<area shape="rect" id="node9" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1193,66,1368,92"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="1442,145,1581,186"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="1433,210,1589,252"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="1442,80,1581,121"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1647,145,1785,186"/>
+<area shape="rect" id="node8" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1833,240,2035,281"/>
+<area shape="rect" id="node10" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1424,14,1599,56"/>
+<area shape="rect" id="node13" href="$da/d43/class_mixing_output.html#a90feca57ebfa1a6a2f3ae323e900995c" title="MixingOutput::armNoThrottle" alt="" coords="1185,622,1376,648"/>
+<area shape="rect" id="node14" href="$da/d43/class_mixing_output.html#a7025b0c0e15973dfc2a01f34dd2bb0f0" title="MixingOutput::handleCommands" alt="" coords="437,844,649,871"/>
+<area shape="rect" id="node24" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="MixerGroup::mix" alt="" coords="484,655,603,682"/>
+<area shape="rect" id="node30" href="$da/d43/class_mixing_output.html#a3729ef6ebc78494b68b9560fd8986972" title="MixingOutput::motorTest" alt="" coords="460,550,627,576"/>
+<area shape="rect" id="node34" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="725,269,864,310"/>
+<area shape="rect" id="node36" href="$d6/d1e/output__limit_8cpp.html#a089de4a9d701e540686e6fcb1ffcc457" title="output_limit_calc" alt="" coords="483,432,603,459"/>
+<area shape="rect" id="node37" href="$da/d43/class_mixing_output.html#a95248e4dd8a9428a501387321bd71331" title="MixingOutput::publishMixer\lStatus" alt="" coords="453,133,633,174"/>
+<area shape="rect" id="node40" href="$da/d43/class_mixing_output.html#ae302e93c4d07c6340f410a7085376312" title="Reorder outputs according to _param_mot_ordering. " alt="" coords="447,315,640,342"/>
+<area shape="rect" id="node41" href="$da/d43/class_mixing_output.html#acbb640f3a8f382bfa232f7d98ca6e09e" title="MixingOutput::setAndPublish\lActuatorOutputs" alt="" coords="448,198,639,240"/>
+<area shape="rect" id="node42" href="$da/d43/class_mixing_output.html#a0cfb10c83fd45eda5ed1abe637f4bd61" title="MixingOutput::updateLatency\lPerfCounter" alt="" coords="447,366,639,408"/>
+<area shape="rect" id="node44" href="$de/dfa/class_output_module_interface.html#af6d45c0e0b54c047802225ef201738af" title="Callback to update the (physical) actuator outputs in the driver. " alt="" coords="466,484,621,525"/>
+<area shape="rect" id="node45" href="$da/d43/class_mixing_output.html#af13e0022cb8b45f80ea81b48ebee3b30" title="MixingOutput::updateOutput\lSlewrate" alt="" coords="702,757,887,798"/>
+<area shape="rect" id="node15" href="$da/d43/class_mixing_output.html#a0a87c51bcfefeccb877f19019cece342" title="MixingOutput::loadMixer" alt="" coords="713,975,876,1002"/>
+<area shape="rect" id="node23" href="$da/d43/class_mixing_output.html#a17e395114a93f1044e557048ba6e68ac" title="MixingOutput::resetMixer" alt="" coords="711,874,879,900"/>
+<area shape="rect" id="node16" href="$da/d43/class_mixing_output.html#a6a4ebb6d5ac66ccf389219ab5a4882d7" title="MixingOutput::controlCallback" alt="" coords="940,866,1137,892"/>
+<area shape="rect" id="node18" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="MixerGroup::groups\l_required" alt="" coords="971,1136,1107,1177"/>
+<area shape="rect" id="node19" href="$d9/dbb/class_mixer_group.html#a5f745eabec06661908cbbfa7c656d0a6" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="949,1084,1128,1111"/>
+<area shape="rect" id="node20" href="$de/dfa/class_output_module_interface.html#ad809de8b69bcfe428bc017fb6254faf4" title="called whenever the mixer gets updated/reset " alt="" coords="961,968,1116,1009"/>
+<area shape="rect" id="node21" href="$da/d43/class_mixing_output.html#aff811ccfd13179bb09780593f1be94a4" title="MixingOutput::updateParams" alt="" coords="943,1034,1134,1060"/>
+<area shape="rect" id="node17" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1261,815,1300,842"/>
+<area shape="rect" id="node22" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="1207,968,1354,1009"/>
+<area shape="rect" id="node25" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="726,655,863,682"/>
+<area shape="rect" id="node26" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="983,764,1095,791"/>
+<area shape="rect" id="node27" href="$de/d2d/class_mixer.html#a5f11135236af8787120e394bd1ba0108" title="Invoke the client callback to fetch a control value. " alt="" coords="975,531,1102,558"/>
+<area shape="rect" id="node28" href="$d5/dd1/class_multirotor_mixer.html#aa53916371c303c865110ef71497dbf9d" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="970,648,1107,689"/>
+<area shape="rect" id="node29" href="$d5/dd1/class_multirotor_mixer.html#a228cd5ac502699728c1b8f2c8d33f03f" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="970,582,1107,624"/>
+<area shape="rect" id="node31" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="976,430,1101,456"/>
+<area shape="rect" id="node32" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="734,436,855,463"/>
+<area shape="rect" id="node33" href="$da/d43/class_mixing_output.html#a090f30755823995f0fdcb200f28c491b" title="Get the motor index that maps from PX4 convention to the configured one. " alt="" coords="697,538,892,580"/>
+<area shape="rect" id="node38" href="$d9/dbb/class_mixer_group.html#af4ec388918d68f2f176251811dbdca05" title="MixerGroup::get_saturation\l_status" alt="" coords="705,86,884,128"/>
+<area shape="rect" id="node39" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="715,152,874,193"/>
+<area shape="rect" id="node43" href="$df/d7b/perf__counter_8cpp.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="734,335,855,362"/>
+<area shape="rect" id="node47" href="$da/d43/class_mixing_output.html#a68f6d2d353b0760d70368169b2d540c7" title="MixingOutput::lock" alt="" coords="478,946,609,972"/>
+<area shape="rect" id="node48" href="$da/d43/class_mixing_output.html#a21426b3db3bb5962f978aae02868ef40" title="MixingOutput::setMaxTopic\lUpdateRate" alt="" coords="452,997,635,1038"/>
+<area shape="rect" id="node50" href="$da/d43/class_mixing_output.html#ab5e3af89fb50a1e7224a65352cc4f451" title="MixingOutput::unlock" alt="" coords="471,1063,616,1090"/>
+<area shape="rect" id="node49" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#a53018b44bb431a80d47ac95327990b2a" title="Set the interval in microseconds. " alt="" coords="704,1026,885,1068"/>
+</map>

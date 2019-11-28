@@ -1,23 +1,36 @@
 <map id="FixedwingPositionControl::airspeed_poll" name="FixedwingPositionControl::airspeed_poll">
-<area shape="rect" id="node2" href="$d1/d1f/class_t_e_c_s.html#abd929268aff820c70915fc332c8a0d60" title="Set the airspeed enable state. " alt="" coords="226,401,386,428"/>
-<area shape="rect" id="node10" href="$d0/d58/position__estimator__inav__main_8cpp.html#a9788a89a1fa912669102bc6049a9ed9b" title="max" alt="" coords="931,470,977,497"/>
-<area shape="rect" id="node20" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="224,832,388,858"/>
-<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="243,882,369,909"/>
-<area shape="rect" id="node22" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a1f7f1bd26da7cc8d23bbbb1a278f742f" title="Create an update function that uses the embedded struct. " alt="" coords="237,934,375,975"/>
-<area shape="rect" id="node3" href="$d1/d1f/class_t_e_c_s.html#aab6412a9450a4430487b7b1cffa7c38f" title="Updates the following vehicle kineamtic state estimates: Vertical position, velocity and acceleration..." alt="" coords="648,168,801,210"/>
-<area shape="rect" id="node7" href="$d1/d1f/class_t_e_c_s.html#a6aeedcf79e4323b84da462c9e6616be8" title="Update the control loop calculations. " alt="" coords="436,394,576,435"/>
-<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="898,176,1010,202"/>
-<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="935,420,973,446"/>
-<area shape="rect" id="node6" href="$d1/d1f/class_t_e_c_s.html#aecdf93951f7e0e7d056383826debfcf6" title="Get the current airspeed status. " alt="" coords="873,267,1035,308"/>
-<area shape="rect" id="node8" href="$d1/d1f/class_t_e_c_s.html#a3c9071e0e57efc5e8570212f629bab17" title="Initialize the controller. " alt="" coords="643,52,806,78"/>
-<area shape="rect" id="node9" href="$d1/d1f/class_t_e_c_s.html#ad80df2b3b140f116e244b619687f5033" title="Update the airspeed internal state using a second order complementary filter. " alt="" coords="647,299,802,340"/>
-<area shape="rect" id="node11" href="$d1/d1f/class_t_e_c_s.html#a4732c2d116797890c55e3c6d11663b2d" title="Calculate specific total energy rate limits. " alt="" coords="625,430,824,457"/>
-<area shape="rect" id="node12" href="$d1/d1f/class_t_e_c_s.html#a77bfca668f7e22596ff8c3bf624a4eb7" title="Detect if the system is not capable of maintaining airspeed. " alt="" coords="633,730,816,757"/>
-<area shape="rect" id="node13" href="$d1/d1f/class_t_e_c_s.html#a744cffdf8757b70e4051f05afa078922" title="Detect an uncommanded descent. " alt="" coords="624,482,825,523"/>
-<area shape="rect" id="node14" href="$d1/d1f/class_t_e_c_s.html#af1b423dec94a3bee2c7951e2c20fc9a8" title="Update the desired airspeed. " alt="" coords="647,103,802,144"/>
-<area shape="rect" id="node15" href="$d1/d1f/class_t_e_c_s.html#a52d4b31866f3a53e2d1fb2c08324a8c0" title="Update the desired height. " alt="" coords="647,664,802,706"/>
-<area shape="rect" id="node16" href="$d1/d1f/class_t_e_c_s.html#a9df3e59fc5b1e294c7aa3f3c21c48f1b" title="Update specific energy. " alt="" coords="645,599,804,640"/>
-<area shape="rect" id="node17" href="$d1/d1f/class_t_e_c_s.html#aa46d349335c601e995746ea03306526b" title="Update throttle setpoint. " alt="" coords="645,234,804,275"/>
-<area shape="rect" id="node18" href="$d1/d1f/class_t_e_c_s.html#a1f75a0a5bda6c6708b8f02b01ec68da5" title="Update the pitch setpoint. " alt="" coords="651,364,798,406"/>
-<area shape="rect" id="node19" href="$d0/d58/position__estimator__inav__main_8cpp.html#ab72387a3954ae834958e94d34cf610ea" title="min" alt="" coords="933,369,975,396"/>
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="953,167,1065,194"/>
+<area shape="rect" id="node3" href="$d1/d1f/class_t_e_c_s.html#abd929268aff820c70915fc332c8a0d60" title="Set the airspeed enable state. " alt="" coords="240,362,400,389"/>
+<area shape="rect" id="node22" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="224,493,416,519"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="259,623,381,650"/>
+<area shape="rect" id="node35" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#a8c8967077b39cd29e07652cefe2293a9" title="uORB::SubscriptionData\l::update" alt="" coords="237,675,403,716"/>
+<area shape="rect" id="node4" href="$d1/d1f/class_t_e_c_s.html#aab6412a9450a4430487b7b1cffa7c38f" title="Updates the following vehicle kineamtic state estimates: Vertical position, velocity and acceleration..." alt="" coords="703,192,856,233"/>
+<area shape="rect" id="node9" href="$d1/d1f/class_t_e_c_s.html#a6aeedcf79e4323b84da462c9e6616be8" title="Update the control loop calculations. " alt="" coords="477,355,617,396"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="989,450,1028,477"/>
+<area shape="rect" id="node8" href="$d1/d1f/class_t_e_c_s.html#aecdf93951f7e0e7d056383826debfcf6" title="Get the current airspeed status. " alt="" coords="928,264,1089,305"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1137,450,1220,477"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1268,450,1355,477"/>
+<area shape="rect" id="node10" href="$d1/d1f/class_t_e_c_s.html#a3c9071e0e57efc5e8570212f629bab17" title="Initialize the controller. " alt="" coords="698,75,861,102"/>
+<area shape="rect" id="node11" href="$d1/d1f/class_t_e_c_s.html#ad80df2b3b140f116e244b619687f5033" title="Update the airspeed internal state using a second order complementary filter. " alt="" coords="702,323,857,364"/>
+<area shape="rect" id="node13" href="$d1/d1f/class_t_e_c_s.html#a4732c2d116797890c55e3c6d11663b2d" title="Calculate specific total energy rate limits. " alt="" coords="680,505,879,531"/>
+<area shape="rect" id="node14" href="$d1/d1f/class_t_e_c_s.html#a77bfca668f7e22596ff8c3bf624a4eb7" title="Detect if the system is not capable of maintaining airspeed. " alt="" coords="688,454,871,481"/>
+<area shape="rect" id="node15" href="$d1/d1f/class_t_e_c_s.html#a744cffdf8757b70e4051f05afa078922" title="Detect an uncommanded descent. " alt="" coords="679,556,880,597"/>
+<area shape="rect" id="node16" href="$d1/d1f/class_t_e_c_s.html#af1b423dec94a3bee2c7951e2c20fc9a8" title="Update the desired airspeed. " alt="" coords="702,127,857,168"/>
+<area shape="rect" id="node17" href="$d1/d1f/class_t_e_c_s.html#a52d4b31866f3a53e2d1fb2c08324a8c0" title="Update the desired height. " alt="" coords="702,687,857,728"/>
+<area shape="rect" id="node18" href="$d1/d1f/class_t_e_c_s.html#a9df3e59fc5b1e294c7aa3f3c21c48f1b" title="Update specific energy. " alt="" coords="700,621,859,663"/>
+<area shape="rect" id="node19" href="$d1/d1f/class_t_e_c_s.html#aa46d349335c601e995746ea03306526b" title="Update throttle setpoint. " alt="" coords="700,257,859,299"/>
+<area shape="rect" id="node20" href="$d1/d1f/class_t_e_c_s.html#a1f75a0a5bda6c6708b8f02b01ec68da5" title="Update the pitch setpoint. " alt="" coords="706,388,853,429"/>
+<area shape="rect" id="node12" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="967,337,1051,363"/>
+<area shape="rect" id="node21" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="969,395,1049,422"/>
+<area shape="rect" id="node24" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="485,877,610,903"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="499,927,596,954"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="506,421,589,447"/>
+<area shape="rect" id="node27" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="496,471,599,498"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="496,522,599,549"/>
+<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="503,573,591,599"/>
+<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="508,623,587,650"/>
+<area shape="rect" id="node31" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="506,674,589,701"/>
+<area shape="rect" id="node32" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="464,725,631,751"/>
+<area shape="rect" id="node33" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="517,775,578,802"/>
+<area shape="rect" id="node34" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="467,826,628,853"/>
 </map>

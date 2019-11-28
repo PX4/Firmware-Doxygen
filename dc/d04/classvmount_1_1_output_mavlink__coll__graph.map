@@ -1,9 +1,11 @@
 <map id="vmount::OutputMavlink" name="vmount::OutputMavlink">
-<area shape="rect" id="node2" href="$d2/d86/classvmount_1_1_output_base.html" title="class OutputBase Base class for all driver output classes " alt="" coords="187,660,386,987"/>
+<area shape="rect" id="node2" href="$d2/d86/classvmount_1_1_output_base.html" title="class OutputBase Base class for all driver output classes " alt="" coords="273,660,471,987"/>
 <area shape="rect" id="node3" href="$d4/d80/structvmount_1_1_control_data.html" title="This defines the common API between an input and an output of the vmount driver. " alt="" coords="7,454,169,546"/>
 <area shape="rect" id="node5" href="$de/d57/unionvmount_1_1_control_data_1_1_type_data.html" title="{vmount::ControlData\l::TypeData\n||}" alt="" coords="105,248,247,340"/>
 <area shape="rect" id="node6" href="$d1/df8/structvmount_1_1_control_data_1_1_type_data_1_1_type_angle.html" title="{vmount::ControlData\l::TypeData::TypeAngle\n|+ angles\l+ is_speed\l|}" alt="" coords="5,42,163,149"/>
 <area shape="rect" id="node7" href="$d1/d54/structvmount_1_1_control_data_1_1_type_data_1_1_type_lon_lat.html" title="{vmount::ControlData\l::TypeData::TypeLonLat\n|+ lon\l+ lat\l+ altitude\l+ roll_angle\l+ pitch_angle_offset\l+ yaw_angle_offset\l+ pitch_fixed_angle\l|}" alt="" coords="187,5,349,185"/>
 <area shape="rect" id="node8" href="$de/d7e/structmap__projection__reference__s.html" title="{map_projection_reference_s\n|+ timestamp\l+ lat_rad\l+ lon_rad\l+ sin_lat\l+ cos_lat\l+ init_done\l|}" alt="" coords="194,425,379,575"/>
 <area shape="rect" id="node9" href="$de/df2/structvmount_1_1_output_config.html" title="{vmount::OutputConfig\n|+ gimbal_retracted_mode\l_value\l+ gimbal_normal_mode\l_value\l+ pitch_scale\l+ roll_scale\l+ yaw_scale\l+ pitch_offset\land 4 more...\l|}" alt="" coords="403,403,573,597"/>
+<area shape="rect" id="node10" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html" title="{uORB::PublicationQueued\l\&lt; vehicle_command_s \&gt;\n|# _handle\l|+ PublicationQueued()\l+ ~PublicationQueued()\l+ publish()\l}" alt="" coords="538,763,713,884"/>
+<area shape="rect" id="node11" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="597,439,742,561"/>
 </map>

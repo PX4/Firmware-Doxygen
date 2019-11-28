@@ -1,0 +1,38 @@
+<map id="src/modules/sih/sih.cpp" name="src/modules/sih/sih.cpp">
+<area shape="rect" id="node2" href="$d8/d9f/sih_8hpp.html" title="sih.hpp" alt="" coords="1588,87,1652,114"/>
+<area shape="rect" id="node43" href="$d0/dbb/drv__pwm__output_8h.html" title="drivers/drv_pwm_output.h" alt="" coords="2843,177,3015,203"/>
+<area shape="rect" id="node46" href="$df/d1d/actuator__outputs_8h.html" title="uORB/topics/actuator\l_outputs.h" alt="" coords="2329,80,2477,121"/>
+<area shape="rect" id="node47" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="2501,80,2643,121"/>
+<area shape="rect" id="node6" href="$d4/d78/math_8hpp.html" title="matrix/matrix/math.hpp" alt="" coords="875,355,1031,382"/>
+<area shape="rect" id="node22" href="$d6/dfe/rotation_8h.html" title="Vector rotation library. " alt="" coords="1054,266,1197,293"/>
+<area shape="rect" id="node24" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="2465,266,2565,293"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1354,266,1470,293"/>
+<area shape="rect" id="node28" href="$d2/d54/_p_x4_accelerometer_8hpp.html" title="lib/drivers/accelerometer\l/PX4Accelerometer.hpp" alt="" coords="898,169,1062,211"/>
+<area shape="rect" id="node30" href="$d2/d0c/_p_x4_barometer_8hpp.html" title="lib/drivers/barometer\l/PX4Barometer.hpp" alt="" coords="1253,169,1393,211"/>
+<area shape="rect" id="node31" href="$df/dc3/_p_x4_gyroscope_8hpp.html" title="lib/drivers/gyroscope\l/PX4Gyroscope.hpp" alt="" coords="1086,169,1229,211"/>
+<area shape="rect" id="node32" href="$d3/d07/_p_x4_magnetometer_8hpp.html" title="lib/drivers/magnetometer\l/PX4Magnetometer.hpp" alt="" coords="1417,169,1583,211"/>
+<area shape="rect" id="node33" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="2819,266,2949,293"/>
+<area shape="rect" id="node35" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="2661,177,2819,203"/>
+<area shape="rect" id="node36" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="2158,169,2317,211"/>
+<area shape="rect" id="node37" href="$d6/d5b/vehicle__angular__velocity_8h.html" title="uORB/topics/vehicle\l_angular_velocity.h" alt="" coords="1658,169,1801,211"/>
+<area shape="rect" id="node38" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="1825,169,1967,211"/>
+<area shape="rect" id="node39" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="2341,169,2483,211"/>
+<area shape="rect" id="node40" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="1991,169,2134,211"/>
+<area shape="rect" id="node7" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="5,437,133,464"/>
+<area shape="rect" id="node8" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="158,437,301,464"/>
+<area shape="rect" id="node9" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="325,437,408,464"/>
+<area shape="rect" id="node10" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="433,437,557,464"/>
+<area shape="rect" id="node11" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="581,437,657,464"/>
+<area shape="rect" id="node12" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="681,437,767,464"/>
+<area shape="rect" id="node13" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="791,437,883,464"/>
+<area shape="rect" id="node14" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="907,437,999,464"/>
+<area shape="rect" id="node15" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1024,437,1101,464"/>
+<area shape="rect" id="node16" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="1125,437,1200,464"/>
+<area shape="rect" id="node17" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="1225,437,1309,464"/>
+<area shape="rect" id="node18" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1333,437,1443,464"/>
+<area shape="rect" id="node19" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="1468,437,1575,464"/>
+<area shape="rect" id="node20" href="$d9/d19/_least_squares_solver_8hpp.html" title="Least Squares Solver using QR householder decomposition. " alt="" coords="1599,437,1763,464"/>
+<area shape="rect" id="node21" href="$d5/dd8/_dual_8hpp.html" title="This is a dual number type for calculating automatic derivatives. " alt="" coords="1788,437,1863,464"/>
+<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="2008,266,2117,293"/>
+<area shape="rect" id="node45" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="2691,266,2795,293"/>
+</map>

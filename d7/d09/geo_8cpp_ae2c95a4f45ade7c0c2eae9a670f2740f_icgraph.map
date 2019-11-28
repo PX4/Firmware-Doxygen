@@ -1,17 +1,19 @@
 <map id="map_projection_reproject" name="map_projection_reproject">
-<area shape="rect" id="node2" href="$dc/d66/class_ekf.html#ad8c1750dd0b234d148b359666de971e8" title="Ekf::collect_gps" alt="" coords="257,5,373,32"/>
-<area shape="rect" id="node3" href="$d5/d01/class_block_local_position_estimator.html#adde32653b6623b47a0d9e5d7e2145319" title="BlockLocalPositionEstimator\l::gpsInit" alt="" coords="220,122,409,163"/>
+<area shape="rect" id="node2" href="$dc/d66/class_ekf.html#a59f137c1049591a6b2c74c2446c71475" title="Ekf::collect_gps" alt="" coords="257,5,373,32"/>
+<area shape="rect" id="node4" href="$d5/d01/class_block_local_position_estimator.html#adde32653b6623b47a0d9e5d7e2145319" title="BlockLocalPositionEstimator\l::gpsInit" alt="" coords="220,122,409,163"/>
 <area shape="rect" id="node6" href="$db/d35/geo_8h.html#ac70d0d8598b70e027f8e7aaf66278305" title="Transforms a point in the local azimuthal equidistant plane to the geographic coordinate system using..." alt="" coords="239,57,390,98"/>
-<area shape="rect" id="node8" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="234,188,395,215"/>
-<area shape="rect" id="node9" href="$d0/d58/position__estimator__inav__main_8cpp.html#acf822e9bb4a008a2a53118ccbdf951b6" title="position_estimator\l_inav_thread_main" alt="" coords="249,305,380,346"/>
-<area shape="rect" id="node11" href="$d5/d01/class_block_local_position_estimator.html#ac43c3fa609dd777e314733839a24faa4" title="BlockLocalPositionEstimator\l::publishGlobalPos" alt="" coords="220,239,409,281"/>
-<area shape="rect" id="node12" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="277,371,352,397"/>
-<area shape="rect" id="node13" href="$dd/dd4/class_prec_land.html#aed7d06d35364de7f8451ce37192b6b51" title="PrecLand::run_state\l_descend_above_target" alt="" coords="235,422,395,463"/>
-<area shape="rect" id="node16" href="$dd/dd4/class_prec_land.html#aadd0dbc9029a9b6b35e46b1a44acc8bf" title="PrecLand::run_state\l_horizontal_approach" alt="" coords="242,487,387,529"/>
-<area shape="rect" id="node4" href="$d5/d01/class_block_local_position_estimator.html#ad15c4f6a9868f57abfc5b78f4e2165d9" title="BlockLocalPositionEstimator\l::update" alt="" coords="457,181,647,222"/>
-<area shape="rect" id="node5" href="$dc/d09/class_local_position_estimator_module.html#a6e620e76d8f8c8d6a87fe2246c30bde9" title="LocalPositionEstimatorModule::run" alt="" coords="695,188,919,215"/>
-<area shape="rect" id="node7" href="$db/d35/geo_8h.html#a94906a363375b1d95abbd90fe12cd71d" title="Convert from local position coordinates to global position coordinates using the global reference..." alt="" coords="483,57,621,98"/>
-<area shape="rect" id="node10" href="$d0/d58/position__estimator__inav__main_8cpp.html#ad30a31aecbb0b3fe8c1aa84282cdbbcd" title="The position_estimator_inav_thread only briefly exists to start the background job. " alt="" coords="488,305,616,346"/>
-<area shape="rect" id="node14" href="$dd/dd4/class_prec_land.html#a0f4d8c775373884e2d3280bf8de29558" title="This function is called while the mode is active. " alt="" coords="481,461,623,488"/>
-<area shape="rect" id="node15" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="741,461,872,488"/>
+<area shape="rect" id="node12" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="234,188,395,215"/>
+<area shape="rect" id="node13" href="$d5/d01/class_block_local_position_estimator.html#ac43c3fa609dd777e314733839a24faa4" title="BlockLocalPositionEstimator\l::publishGlobalPos" alt="" coords="220,239,409,281"/>
+<area shape="rect" id="node14" href="$de/d9c/class_ekf2.html#aa9d0494340430e589883d23899a2bd76" title="Ekf2::Run" alt="" coords="274,305,355,332"/>
+<area shape="rect" id="node15" href="$dd/dd4/class_prec_land.html#aed7d06d35364de7f8451ce37192b6b51" title="PrecLand::run_state\l_descend_above_target" alt="" coords="235,357,395,398"/>
+<area shape="rect" id="node18" href="$dd/dd4/class_prec_land.html#aadd0dbc9029a9b6b35e46b1a44acc8bf" title="PrecLand::run_state\l_horizontal_approach" alt="" coords="242,422,387,463"/>
+<area shape="rect" id="node3" href="$dc/d66/class_ekf.html#a0d00f1af5ef0a7c03050ffe0d4d6f7be" title="Ekf::position_covariances" alt="" coords="482,5,654,32"/>
+<area shape="rect" id="node5" href="$d5/d01/class_block_local_position_estimator.html#a34216107cee0bbde413b794a4c76da59" title="BlockLocalPositionEstimator::Run" alt="" coords="457,188,679,215"/>
+<area shape="rect" id="node7" href="$db/d35/geo_8h.html#a94906a363375b1d95abbd90fe12cd71d" title="Convert from local position coordinates to global position coordinates using the global reference..." alt="" coords="499,57,637,98"/>
+<area shape="rect" id="node8" href="$d2/d7a/class_flight_task_orbit.html#a0e9ce6c7c066dab7daa7a200f5f6babc" title="Send out telemetry information for the log and MAVLink. " alt="" coords="727,64,932,91"/>
+<area shape="rect" id="node10" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="728,115,931,141"/>
+<area shape="rect" id="node11" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="743,13,915,40"/>
+<area shape="rect" id="node9" href="$d2/d7a/class_flight_task_orbit.html#a25fad66b24edad70e6dfcfdad04398a0" title="To be called regularly in the control loop cycle to execute the task. " alt="" coords="980,64,1139,91"/>
+<area shape="rect" id="node16" href="$dd/dd4/class_prec_land.html#a0f4d8c775373884e2d3280bf8de29558" title="This function is called while the mode is active. " alt="" coords="497,396,639,423"/>
+<area shape="rect" id="node17" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="764,396,895,423"/>
 </map>

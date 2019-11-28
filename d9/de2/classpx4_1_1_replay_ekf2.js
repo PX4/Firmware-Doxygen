@@ -16,7 +16,6 @@ var classpx4_1_1_replay_ekf2 =
     [ "_vehicle_air_data_msg_id", "d9/de2/classpx4_1_1_replay_ekf2.html#ae63148358b63c6f798f014688bc95264", null ],
     [ "_vehicle_attitude_sub", "d9/de2/classpx4_1_1_replay_ekf2.html#ae58bdec3ed17ced0f958e867aa8881f2", null ],
     [ "_vehicle_magnetometer_msg_id", "d9/de2/classpx4_1_1_replay_ekf2.html#ad4e1a33885f3b84cd42226f4c541dac8", null ],
-    [ "_vehicle_vision_attitude_msg_id", "d9/de2/classpx4_1_1_replay_ekf2.html#a76a373a3474fd3ab2f2aa7953f91928a", null ],
-    [ "_vehicle_vision_position_msg_id", "d9/de2/classpx4_1_1_replay_ekf2.html#a4902bdae4f5bf929f2a74c36b9b2a2ac", null ],
+    [ "_vehicle_visual_odometry_msg_id", "d9/de2/classpx4_1_1_replay_ekf2.html#acbc75b32b47cb6b886f1ffb7c823f869", null ],
     [ "msg_id_invalid", "d9/de2/classpx4_1_1_replay_ekf2.html#a52bdd18454111959f6150d123b58a717", null ]
 ];

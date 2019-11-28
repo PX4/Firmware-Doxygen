@@ -1,9 +1,11 @@
 var dir_8c7e8259a9bdb02056958c977e33eebe =
 [
-    [ "hc_sr04", "dir_c9dee4f4f6d42264b1ae87ce2b73ac74.html", "dir_c9dee4f4f6d42264b1ae87ce2b73ac74" ],
+    [ "cm8jl65", "dir_7a555fd5797a82bae3328eefbb61b965.html", "dir_7a555fd5797a82bae3328eefbb61b965" ],
     [ "leddar_one", "dir_a704b16e9ef5bd2c0c910e3a3290c657.html", "dir_a704b16e9ef5bd2c0c910e3a3290c657" ],
     [ "ll40ls", "dir_9123dc387330b4a5559f38b97266ae5f.html", "dir_9123dc387330b4a5559f38b97266ae5f" ],
+    [ "mappydot", "dir_fede2974a16fe16051738560afc5924e.html", "dir_fede2974a16fe16051738560afc5924e" ],
     [ "mb12xx", "dir_973831fdd2b84783954790d76937e85b.html", "dir_973831fdd2b84783954790d76937e85b" ],
+    [ "pga460", "dir_24bc03e1212adad2075a2f6920d8dd37.html", "dir_24bc03e1212adad2075a2f6920d8dd37" ],
     [ "sf0x", "dir_6fa72d6c8385b6c55acc5ed3a39bcdd8.html", "dir_6fa72d6c8385b6c55acc5ed3a39bcdd8" ],
     [ "sf1xx", "dir_ce17911ed375b65c6eb71c995d8a5f31.html", "dir_ce17911ed375b65c6eb71c995d8a5f31" ],
     [ "srf02", "dir_254118e8de3a69cb4a8681ad39175a69.html", "dir_254118e8de3a69cb4a8681ad39175a69" ],

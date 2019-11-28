@@ -1,14 +1,23 @@
 <map id="FlightTask::_setDefaultConstraints" name="FlightTask::_setDefaultConstraints">
-<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#ab720584c5da218041ec912b18286ff99" title="Set constraints to default values. " alt="" coords="279,41,464,82"/>
-<area shape="rect" id="node3" href="$da/dbc/class_flight_task.html#ac12e077bda3e2e96ffd2a4027b6ba71d" title="Call once on the event where you switch to the task. " alt="" coords="303,107,440,133"/>
-<area shape="rect" id="node4" href="$dc/d0c/class_flight_tasks.html#a6fc97bcf40943382cba6a6c54d80b99f" title="Switch to a specific task (for normal usage) " alt="" coords="521,5,686,32"/>
-<area shape="rect" id="node5" href="$d8/d0b/class_flight_task_auto.html#a9723b7ea7c26515311024a0d7cb55526" title="Call once on the event where you switch to the task. " alt="" coords="521,56,685,83"/>
-<area shape="rect" id="node7" href="$da/dbc/class_flight_task.html#adc254d6f0f38487df20a894b0fa017ab" title="FlightTask::FlightTask" alt="" coords="527,107,679,133"/>
-<area shape="rect" id="node8" href="$da/dc5/class_flight_task_manual_stabilized.html#a77961640d53500c727879d2a098fc4ff" title="Call once on the event where you switch to the task. " alt="" coords="512,158,695,199"/>
-<area shape="rect" id="node13" href="$df/d3f/class_flight_task_offboard.html#a2511be671d7e5e2ec00d32bb934aff80" title="Call once on the event where you switch to the task. " alt="" coords="537,223,670,265"/>
-<area shape="rect" id="node6" href="$d0/d5e/class_flight_task_auto_mapper.html#ad18694499b5e2a11c2284bf3a3ad59ee" title="Call once on the event where you switch to the task. " alt="" coords="751,49,904,90"/>
-<area shape="rect" id="node9" href="$d8/d4c/class_flight_task_manual_altitude.html#a0977797686e694f8dd0368de1c0dce10" title="Call once on the event where you switch to the task. " alt="" coords="743,158,912,199"/>
-<area shape="rect" id="node10" href="$da/d83/class_flight_task_manual_position.html#a7414c5bebab2609479234f6d86257a14" title="Call once on the event where you switch to the task. " alt="" coords="960,129,1132,170"/>
-<area shape="rect" id="node12" href="$d2/d7a/class_flight_task_orbit.html#ac0aeff8c5cf7e5d1f98aa812e032c199" title="Call once on the event where you switch to the task. " alt="" coords="963,195,1129,221"/>
-<area shape="rect" id="node11" href="$d9/d48/class_flight_task_sport.html#ab302c0ad2399bb1c234a9f4fbbc68dc2" title="Call once on the event where you switch to the task. " alt="" coords="1180,136,1348,163"/>
+<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#ab720584c5da218041ec912b18286ff99" title="Set constraints to default values. " alt="" coords="279,111,464,152"/>
+<area shape="rect" id="node7" href="$da/dbc/class_flight_task.html#a5c435eaddd85a158eb25a793fafdbaee" title="Call once on the event where you switch to the task. " alt="" coords="303,249,440,275"/>
+<area shape="rect" id="node3" href="$d8/d0b/class_flight_task_auto.html#a33f9f23f915d8f20c6701ea46a8fd879" title="Call once on the event where you switch to the task. " alt="" coords="515,45,679,71"/>
+<area shape="rect" id="node4" href="$d0/d5e/class_flight_task_auto_mapper.html#adb374033b9f6183dbd1997fbb3529738" title="Call once on the event where you switch to the task. " alt="" coords="739,5,892,47"/>
+<area shape="rect" id="node5" href="$d6/daa/class_flight_task_auto_mapper2.html#a62405161e521d9b9673c333c43635ded" title="Call once on the event where you switch to the task. " alt="" coords="735,71,895,112"/>
+<area shape="rect" id="node6" href="$d1/da1/class_flight_task_auto_line_smooth_vel.html#a710f93ba9337ef9cd2dcba03bb0e5790" title="Call once on the event where you switch to the task. " alt="" coords="963,71,1142,112"/>
+<area shape="rect" id="node8" href="$dc/d0c/class_flight_tasks.html#adbfe677fc3a415e08f897d938cc641d8" title="Switch to a specific task (for normal usage) " alt="" coords="514,95,679,122"/>
+<area shape="rect" id="node9" href="$d8/d7f/class_flight_task_descend.html#a56e9311bb56faa47f3c6ae33a222a161" title="Call once on the event where you switch to the task. " alt="" coords="525,147,668,188"/>
+<area shape="rect" id="node10" href="$da/dd2/class_flight_task_failsafe.html#aabc201e111b5a313362057c72b32a78f" title="Call once on the event where you switch to the task. " alt="" coords="532,212,661,253"/>
+<area shape="rect" id="node11" href="$da/dbc/class_flight_task.html#ad5bb0b1e3d751c3c106405e4b30c7348" title="Call this to reset an active Flight Task. " alt="" coords="521,278,672,305"/>
+<area shape="rect" id="node14" href="$da/dbc/class_flight_task.html#adc254d6f0f38487df20a894b0fa017ab" title="FlightTask::FlightTask" alt="" coords="739,303,891,330"/>
+<area shape="rect" id="node15" href="$d8/d4c/class_flight_task_manual_altitude.html#a8b10a2e30bf3f117352da876f12b509c" title="Call once on the event where you switch to the task. " alt="" coords="512,380,681,421"/>
+<area shape="rect" id="node21" href="$df/d3f/class_flight_task_offboard.html#a1baa5498182cb4f2ede72ec41d956ce4" title="Call once on the event where you switch to the task. " alt="" coords="530,445,663,487"/>
+<area shape="rect" id="node22" href="$d6/daf/class_flight_task_transition.html#a14066f69ad570b345fa891ee16e75a1d" title="Call once on the event where you switch to the task. " alt="" coords="527,511,667,552"/>
+<area shape="rect" id="node12" href="$dc/d0c/class_flight_tasks.html#ab0ad84cee380875369ad44f7745dacb2" title="This method will re&#45;activate current task. " alt="" coords="737,253,894,279"/>
+<area shape="rect" id="node13" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="949,253,1156,279"/>
+<area shape="rect" id="node16" href="$d4/d12/class_flight_task_manual_altitude_smooth_vel.html#a74f584ef9505b2deed2d9488075ddb26" title="Call once on the event where you switch to the task. " alt="" coords="731,355,900,396"/>
+<area shape="rect" id="node17" href="$da/d83/class_flight_task_manual_position.html#ac11168bf92c606c7332d5d77272d4255" title="Call once on the event where you switch to the task. " alt="" coords="729,420,901,461"/>
+<area shape="rect" id="node20" href="$d2/d7a/class_flight_task_orbit.html#adac43c9356388c33de18a069584b9642" title="Call once on the event where you switch to the task. " alt="" coords="733,486,898,513"/>
+<area shape="rect" id="node18" href="$d7/d80/class_flight_task_manual_position_smooth_vel.html#a6c1da77ea10aa897a9457c6885833419" title="Call once on the event where you switch to the task. " alt="" coords="967,391,1139,432"/>
+<area shape="rect" id="node19" href="$d9/d48/class_flight_task_sport.html#a835b9539a1573fd5ec3d01bda1601239" title="Call once on the event where you switch to the task. " alt="" coords="969,457,1137,483"/>
 </map>

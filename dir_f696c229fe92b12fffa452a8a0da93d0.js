@@ -1,19 +1,17 @@
 var dir_f696c229fe92b12fffa452a8a0da93d0 =
 [
+    [ "vehicle_acceleration", "dir_b5d316b56d914b486dc21adc7862fb63.html", "dir_b5d316b56d914b486dc21adc7862fb63" ],
+    [ "vehicle_angular_velocity", "dir_c1a8c3ff4ab765820b7a47a98b6e3c50.html", "dir_c1a8c3ff4ab765820b7a47a98b6e3c50" ],
     [ "common.h", "d1/d27/modules_2sensors_2common_8h.html", "d1/d27/modules_2sensors_2common_8h" ],
-    [ "parameters.cpp", "d5/d10/parameters_8cpp.html", "d5/d10/parameters_8cpp" ],
-    [ "parameters.h", "d6/d3b/parameters_8h.html", "d6/d3b/parameters_8h" ],
+    [ "parameters.cpp", "de/d9e/modules_2sensors_2parameters_8cpp.html", "de/d9e/modules_2sensors_2parameters_8cpp" ],
+    [ "parameters.h", "df/d3b/sensors_2parameters_8h.html", "df/d3b/sensors_2parameters_8h" ],
     [ "pwm_params_aux.c", "de/d41/pwm__params__aux_8c.html", "de/d41/pwm__params__aux_8c" ],
     [ "pwm_params_main.c", "dd/dcc/pwm__params__main_8c.html", "dd/dcc/pwm__params__main_8c" ],
-    [ "rc_update.cpp", "d8/d28/rc__update_8cpp.html", null ],
-    [ "rc_update.h", "d2/dd4/rc__update_8h.html", [
-      [ "RCUpdate", "d0/daf/classsensors_1_1_r_c_update.html", "d0/daf/classsensors_1_1_r_c_update" ]
-    ] ],
     [ "sensor_params_acc0.c", "d8/dc5/sensor__params__acc0_8c.html", "d8/dc5/sensor__params__acc0_8c" ],
     [ "sensor_params_acc1.c", "d1/d2c/sensor__params__acc1_8c.html", "d1/d2c/sensor__params__acc1_8c" ],
     [ "sensor_params_acc2.c", "df/dd9/sensor__params__acc2_8c.html", "df/dd9/sensor__params__acc2_8c" ],
     [ "sensor_params_accel.c", "d6/dd3/sensor__params__accel_8c.html", "d6/dd3/sensor__params__accel_8c" ],
-    [ "sensor_params_battery.c", "de/d63/sensor__params__battery_8c.html", "de/d63/sensor__params__battery_8c" ],
+    [ "sensor_params_battery.c", "d6/d08/sensors_2sensor__params__battery_8c.html", "d6/d08/sensors_2sensor__params__battery_8c" ],
     [ "sensor_params_flow.c", "db/da2/sensor__params__flow_8c.html", "db/da2/sensor__params__flow_8c" ],
     [ "sensor_params_gyro.c", "d4/dfa/sensor__params__gyro_8c.html", "d4/dfa/sensor__params__gyro_8c" ],
     [ "sensor_params_gyro0.c", "d4/d41/sensor__params__gyro0_8c.html", "d4/d41/sensor__params__gyro0_8c" ],

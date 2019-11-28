@@ -1,0 +1,10 @@
+<map id="FlightTaskOffboard::activate" name="FlightTaskOffboard::activate">
+<area shape="rect" id="node2" href="$da/dbc/class_flight_task.html#a5c435eaddd85a158eb25a793fafdbaee" title="Call once on the event where you switch to the task. " alt="" coords="187,97,324,123"/>
+<area shape="rect" id="node3" href="$da/dbc/class_flight_task.html#aa18c941259721f9145d7ebb46c12db74" title="Monitor the EKF reset counters and call the appropriate handling functions in case of a reset event..." alt="" coords="399,5,570,47"/>
+<area shape="rect" id="node5" href="$da/dbc/class_flight_task.html#a46347ff9c49771017f76291832e07f0d" title="Reset all setpoints to NAN. " alt="" coords="393,71,576,98"/>
+<area shape="rect" id="node7" href="$da/dbc/class_flight_task.html#a1b7eb2b27c8c892ccf742241f0059760" title="Set constraints to default values. " alt="" coords="372,122,597,149"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="422,173,547,199"/>
+<area shape="rect" id="node4" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="645,13,837,39"/>
+<area shape="rect" id="node6" href="$dd/df8/classmatrix_1_1_matrix.html#a4163a26330438ee8657f840c8ef13fcd" title="matrix::Matrix::setAll" alt="" coords="670,71,813,98"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="691,122,792,149"/>
+</map>

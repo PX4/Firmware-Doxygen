@@ -1,31 +1,27 @@
 <map id="src/drivers/magnetometer" name="src/drivers/magnetometer">
-<area shape="rect" id="node2" href="dir_64da0ab7d5b0fd63045520ed3794c389.html" title="bmm150" alt="" coords="37,63,109,111"/>
-<area shape="rect" id="node7" href="dir_c85d3e3c5052e9ad9ce18c6863244a25.html" title="lib" alt="" coords="259,159,331,207"/>
-<area shape="rect" id="edge11-headlabel" href="dir_000128_000122.html" title="6" alt="" coords="238,157,246,172"/>
-<area shape="rect" id="node8" href="dir_ddb4d7e95cc2d6c8e1ade10a20d7247d.html" title="modules" alt="" coords="179,255,251,303"/>
-<area shape="rect" id="edge12-headlabel" href="dir_000128_000051.html" title="2" alt="" coords="189,227,197,242"/>
-<area shape="rect" id="node9" href="dir_ceed1ce8f89ba04e240f3818f1ccc961.html" title="platforms" alt="" coords="262,351,338,399"/>
-<area shape="rect" id="edge13-headlabel" href="dir_000128_000113.html" title="3" alt="" coords="243,345,251,359"/>
-<area shape="rect" id="node3" href="dir_18fc7ba0aa93bcb239f4afb770da7224.html" title="hmc5883" alt="" coords="133,63,208,111"/>
-<area shape="rect" id="edge8-headlabel" href="dir_000129_000122.html" title="6" alt="" coords="244,135,252,149"/>
-<area shape="rect" id="edge9-headlabel" href="dir_000129_000051.html" title="2" alt="" coords="209,228,217,242"/>
-<area shape="rect" id="edge10-headlabel" href="dir_000129_000113.html" title="4" alt="" coords="243,344,251,358"/>
-<area shape="rect" id="node4" href="dir_24a8ec126359d343ee87993732759396.html" title="ist8310" alt="" coords="232,63,304,111"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000130_000122.html" title="4" alt="" coords="287,131,295,146"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000130_000051.html" title="2" alt="" coords="229,232,237,246"/>
-<area shape="rect" id="edge5-headlabel" href="dir_000130_000113.html" title="3" alt="" coords="325,331,333,345"/>
-<area shape="rect" id="node5" href="dir_7c1e54991662a7d8ad519018ae529ace.html" title="lis3mdl" alt="" coords="328,63,400,111"/>
-<area shape="rect" id="edge16-headlabel" href="dir_000131_000122.html" title="6" alt="" coords="325,142,333,156"/>
-<area shape="rect" id="edge17-headlabel" href="dir_000131_000113.html" title="4" alt="" coords="341,336,349,351"/>
-<area shape="rect" id="node6" href="dir_a0dca7000ecda2f3541805643685b546.html" title="lsm303agr" alt="" coords="424,63,507,111"/>
-<area shape="rect" id="edge18-headlabel" href="dir_000132_000122.html" title="7" alt="" coords="347,163,355,178"/>
-<area shape="rect" id="edge19-headlabel" href="dir_000132_000113.html" title="5" alt="" coords="352,339,360,354"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000122_000051.html" title="22" alt="" coords="237,238,252,253"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000122_000113.html" title="84" alt="" coords="292,324,307,339"/>
-<area shape="rect" id="edge6-headlabel" href="dir_000051_000122.html" title="232" alt="" coords="254,209,276,223"/>
-<area shape="rect" id="edge7-headlabel" href="dir_000051_000113.html" title="338" alt="" coords="254,324,275,339"/>
-<area shape="rect" id="edge14-headlabel" href="dir_000113_000122.html" title="29" alt="" coords="288,218,302,233"/>
-<area shape="rect" id="edge15-headlabel" href="dir_000113_000051.html" title="29" alt="" coords="243,315,258,329"/>
-<area shape="rect" id="clust2" href="dir_78fb06367a77b56392ef59288083778d.html" alt="" coords="27,52,645,121"/>
-<area shape="rect" id="clust1" href="dir_c718a368270b13c54d94892d20736f45.html" title="drivers" alt="" coords="16,16,656,132"/>
+<area shape="rect" id="node2" href="dir_9ee2be2ed966e1c4d140077d348ab46b.html" title="ak09916" alt="" coords="240,63,312,111"/>
+<area shape="rect" id="node10" href="dir_c85d3e3c5052e9ad9ce18c6863244a25.html" title="lib" alt="" coords="444,159,516,207"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000107_000070.html" title="6" alt="" coords="424,156,432,171"/>
+<area shape="rect" id="node3" href="dir_64da0ab7d5b0fd63045520ed3794c389.html" title="bmm150" alt="" coords="144,63,216,111"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000108_000070.html" title="8" alt="" coords="423,160,431,174"/>
+<area shape="rect" id="node4" href="dir_18fc7ba0aa93bcb239f4afb770da7224.html" title="hmc5883" alt="" coords="528,63,603,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000109_000070.html" title="8" alt="" coords="516,143,524,158"/>
+<area shape="rect" id="node11" href="dir_ddb4d7e95cc2d6c8e1ade10a20d7247d.html" title="modules" alt="" coords="529,255,601,303"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000109_000065.html" title="1" alt="" coords="570,229,578,244"/>
+<area shape="rect" id="node5" href="dir_24a8ec126359d343ee87993732759396.html" title="ist8310" alt="" coords="627,63,699,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000110_000070.html" title="5" alt="" coords="532,169,540,183"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000110_000065.html" title="1" alt="" coords="589,235,597,250"/>
+<area shape="rect" id="node6" href="dir_7c1e54991662a7d8ad519018ae529ace.html" title="lis3mdl" alt="" coords="336,63,408,111"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000111_000070.html" title="7" alt="" coords="438,133,446,147"/>
+<area shape="rect" id="node7" href="dir_a0dca7000ecda2f3541805643685b546.html" title="lsm303agr" alt="" coords="37,63,120,111"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000112_000070.html" title="8" alt="" coords="422,163,430,177"/>
+<area shape="rect" id="node8" href="dir_3fbd252e20d8857792092b9d162e6bdc.html" title="qmc5883" alt="" coords="723,63,797,111"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000113_000070.html" title="7" alt="" coords="531,180,539,195"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000113_000065.html" title="1" alt="" coords="605,241,613,255"/>
+<area shape="rect" id="node9" href="dir_e97aca8324bdc12fc3b8821fcbcb391a.html" title="rm3100" alt="" coords="432,63,504,111"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000114_000070.html" title="7" alt="" coords="479,132,487,146"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000070_000065.html" title="38" alt="" coords="522,228,536,243"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000065_000070.html" title="333" alt="" coords="505,218,527,233"/>
+<area shape="rect" id="clust2" href="dir_78fb06367a77b56392ef59288083778d.html" alt="" coords="27,52,937,121"/>
+<area shape="rect" id="clust1" href="dir_c718a368270b13c54d94892d20736f45.html" title="drivers" alt="" coords="16,16,948,132"/>
 </map>

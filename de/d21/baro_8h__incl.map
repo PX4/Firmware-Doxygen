@@ -1,24 +1,22 @@
 <map id="src/modules/events/temperature_calibration/baro.h" name="src/modules/events/temperature_calibration/baro.h">
-<area shape="rect" id="node2" href="$da/d10/modules_2events_2temperature__calibration_2common_8h.html" title="common.h" alt="" coords="852,109,935,136"/>
-<area shape="rect" id="node11" href="$da/d2b/polyfit_8hpp.html" title="polyfit.hpp" alt="" coords="967,184,1049,211"/>
-<area shape="rect" id="node3" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="361,259,439,285"/>
-<area shape="rect" id="node9" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="403,333,506,360"/>
-<area shape="rect" id="node12" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="605,259,701,285"/>
-<area shape="rect" id="node13" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="620,333,713,360"/>
-<area shape="rect" id="node15" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="827,259,919,285"/>
-<area shape="rect" id="node22" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1046,259,1133,285"/>
-<area shape="rect" id="node29" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="1919,259,2035,285"/>
-<area shape="rect" id="node20" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="830,333,917,360"/>
-<area shape="rect" id="node30" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1299,333,1427,360"/>
-<area shape="rect" id="node34" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="1451,333,1533,360"/>
-<area shape="rect" id="node37" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="1557,333,1681,360"/>
-<area shape="rect" id="node39" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="1705,333,1791,360"/>
-<area shape="rect" id="node40" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="1815,333,1907,360"/>
-<area shape="rect" id="node41" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="1931,333,2023,360"/>
-<area shape="rect" id="node42" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2048,333,2125,360"/>
-<area shape="rect" id="node43" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="2149,333,2224,360"/>
-<area shape="rect" id="node44" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="2249,333,2333,360"/>
-<area shape="rect" id="node45" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2357,333,2467,360"/>
-<area shape="rect" id="node46" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="2492,333,2599,360"/>
-<area shape="rect" id="node38" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="2407,408,2550,435"/>
+<area shape="rect" id="node2" href="$da/d10/modules_2events_2temperature__calibration_2common_8h.html" title="common.h" alt="" coords="367,109,449,136"/>
+<area shape="rect" id="node9" href="$da/d2b/polyfit_8hpp.html" title="polyfit.hpp" alt="" coords="1491,191,1573,218"/>
+<area shape="rect" id="node5" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="331,191,485,218"/>
+<area shape="rect" id="node25" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="2227,281,2343,307"/>
+<area shape="rect" id="node26" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1228,363,1356,389"/>
+<area shape="rect" id="node30" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="1381,363,1523,389"/>
+<area shape="rect" id="node31" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="1548,363,1631,389"/>
+<area shape="rect" id="node34" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="1655,363,1779,389"/>
+<area shape="rect" id="node35" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="1803,363,1879,389"/>
+<area shape="rect" id="node36" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="1904,363,1989,389"/>
+<area shape="rect" id="node37" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="2014,363,2106,389"/>
+<area shape="rect" id="node38" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="2130,363,2222,389"/>
+<area shape="rect" id="node39" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2247,363,2324,389"/>
+<area shape="rect" id="node40" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="2348,363,2423,389"/>
+<area shape="rect" id="node41" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="2447,363,2531,389"/>
+<area shape="rect" id="node42" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2555,363,2666,389"/>
+<area shape="rect" id="node43" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="2691,363,2797,389"/>
+<area shape="rect" id="node44" href="$d9/d19/_least_squares_solver_8hpp.html" title="Least Squares Solver using QR householder decomposition. " alt="" coords="2822,363,2986,389"/>
+<area shape="rect" id="node45" href="$d5/dd8/_dual_8hpp.html" title="This is a dual number type for calculating automatic derivatives. " alt="" coords="3011,363,3085,389"/>
+<area shape="rect" id="node46" href="$d0/d67/_pseudo_inverse_8hpp.html" title="Implementation of matrix pseudo inverse. " alt="" coords="3110,363,3245,389"/>
 </map>

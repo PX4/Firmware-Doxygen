@@ -1,24 +1,51 @@
 <map id="device::Device::read" name="device::Device::read">
-<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="196,394,325,421"/>
-<area shape="rect" id="node3" href="$d1/dde/class_p_x4_i_o.html#a85db0292370b5380301fa2c1422486c8" title="Detect if a PX4IO is connected. " alt="" coords="603,10,708,37"/>
-<area shape="rect" id="node6" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="1061,613,1147,639"/>
-<area shape="rect" id="node8" href="$d1/dde/class_p_x4_i_o.html#a4bf0243f97fa2911c50360783112ca31" title="Fetch RC inputs from IO. " alt="" coords="373,61,524,103"/>
-<area shape="rect" id="node11" href="$d1/dde/class_p_x4_i_o.html#af4f72301ac94392b7e3e1ae734989667" title="Fetch status and alarms from IO. " alt="" coords="805,453,951,479"/>
-<area shape="rect" id="node12" href="$d1/dde/class_p_x4_i_o.html#a38084b037d73965204fa3d339f2357da" title="Fetch and publish the PWM servo outputs. " alt="" coords="574,227,737,268"/>
-<area shape="rect" id="node13" href="$d1/dde/class_p_x4_i_o.html#ac4527fa9292ebe1900f0992b16d9fee0" title="read a register " alt="" coords="384,765,513,791"/>
-<area shape="rect" id="node14" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="373,394,524,421"/>
-<area shape="rect" id="node19" href="$d1/dde/class_p_x4_i_o.html#a37995636f5b1dacc47fa338963f38c9b" title="IO Control handler. " alt="" coords="831,175,925,202"/>
-<area shape="rect" id="node21" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="587,175,723,202"/>
-<area shape="rect" id="node22" href="$d1/dde/class_p_x4_i_o.html#aac7b9556eef5abb6fff69a791e1c3a86" title="Push RC channel configuration to IO. " alt="" coords="796,714,960,741"/>
-<area shape="rect" id="node23" href="$d1/dde/class_p_x4_i_o.html#a5f43407295337806319a6db14ff8fd70" title="Print IO status. " alt="" coords="380,815,517,842"/>
-<area shape="rect" id="node4" href="$de/dfe/px4io_8cpp.html#ab5e695dd74013984141ba0a62efe22fa" title="px4io_main" alt="" coords="834,23,922,50"/>
-<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#aa3518cfa9b8427a799fe364479aeefa3" title="Set the update rate for actuator outputs from FMU to IO. " alt="" coords="1023,23,1185,50"/>
-<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a99c74f789dc80ee9a7affdd823bae5b7" title="Initialize the PX4IO class. " alt="" coords="1260,613,1347,639"/>
-<area shape="rect" id="node9" href="$d1/dde/class_p_x4_i_o.html#a01240f13dfb3f9f51095066e25da022e" title="Fetch and publish raw RC input data. " alt="" coords="1017,106,1191,133"/>
-<area shape="rect" id="node10" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="1239,335,1368,362"/>
-<area shape="rect" id="node15" href="$d1/dde/class_p_x4_i_o.html#a74cb890a6900e694628206508712f623" title="Disable RC input handling. " alt="" coords="583,547,728,588"/>
-<area shape="rect" id="node17" href="$d1/dde/class_p_x4_i_o.html#aa0019dbf5dc3358f1c7bd9b7d9ab51a9" title="Handle a status update from IO. " alt="" coords="572,445,739,471"/>
-<area shape="rect" id="node18" href="$d1/dde/class_p_x4_i_o.html#acc9f77b9afa6a440b379c0cee93cd93f" title="Update IO&#39;s arming&#45;related state. " alt="" coords="1029,328,1179,369"/>
-<area shape="rect" id="node16" href="$d1/dde/class_p_x4_i_o.html#a8194579120b9bd1afa57bdde73cb4b14" title="Disable RC input handling. " alt="" coords="787,511,969,538"/>
-<area shape="rect" id="node20" href="$d1/dde/class_p_x4_i_o.html#ab0f88576afa5981275587ab1c4ee974a" title="Handle issuing dsm bind ioctl to px4io. " alt="" coords="1026,190,1182,217"/>
+<area shape="rect" id="node2" href="$d6/df3/class_i_c_m20948__mag.html#a4a61e602f5ad4ecf66aa8d4f1beca3d7" title="ICM20948_mag::ak09916\l_read_adjustments" alt="" coords="216,41,387,83"/>
+<area shape="rect" id="node3" href="$d5/d16/class_m_p_u9250__mag.html#af8883d49dda86c44a059a284d6c35f70" title="MPU9250_mag::ak8963\l_read_adjustments" alt="" coords="220,107,383,148"/>
+<area shape="rect" id="node5" href="$d8/d33/class_m_p_l3115_a2.html#acaa299f1264ea030f6c0cad136477d84" title="Collect the result of the most recent measurement. " alt="" coords="232,173,371,199"/>
+<area shape="rect" id="node9" href="$d3/d05/class_m_s5611.html#af8be111387f7d74224f734e274ba767a" title="Collect the result of the most recent measurement. " alt="" coords="243,299,359,326"/>
+<area shape="rect" id="node13" href="$d6/d73/class_l_p_s22_h_b.html#acb5f43d736193ecfb3d0140372887e5f" title="Collect the result of the most recent measurement. " alt="" coords="238,401,365,427"/>
+<area shape="rect" id="node15" href="$dc/d03/class_l_p_s25_h.html#a54bf0a1c6dbdbcb2c3ea7f57d6979869" title="Collect the result of the most recent measurement. " alt="" coords="243,477,360,503"/>
+<area shape="rect" id="node18" href="$d5/d19/class_m_p_u6000.html#a0b33ac62276b8e1eca7d3a3e7ffe6a8b" title="Test behaviour against factory offsets. " alt="" coords="455,527,640,554"/>
+<area shape="rect" id="node20" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="237,629,366,655"/>
+<area shape="rect" id="node31" href="$d6/df3/class_i_c_m20948__mag.html#a60c273f204c9adb45705c7f133952584" title="ICM20948_mag::measure" alt="" coords="215,679,387,706"/>
+<area shape="rect" id="node32" href="$d5/d16/class_m_p_u9250__mag.html#a14f964ed506f7c0d8907b6a46b509fbf" title="MPU9250_mag::measure" alt="" coords="216,730,387,757"/>
+<area shape="rect" id="node33" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="232,781,371,807"/>
+<area shape="rect" id="node34" href="$d6/df3/class_i_c_m20948__mag.html#aaa1559ffe36a2a926934dbdb5d424442" title="ICM20948_mag::read\l_block" alt="" coords="228,832,375,873"/>
+<area shape="rect" id="node35" href="$d5/d16/class_m_p_u9250__mag.html#af6d0217b27c0a1b0be69979fe77e0e30" title="MPU9250_mag::read_block" alt="" coords="210,898,393,925"/>
+<area shape="rect" id="node36" href="$d6/df3/class_i_c_m20948__mag.html#adf23ba99b27c421cffda546c9e9f2c9b" title="ICM20948_mag::read_reg" alt="" coords="215,949,387,975"/>
+<area shape="rect" id="node37" href="$d5/d16/class_m_p_u9250__mag.html#ad71c13a5e0b2ea6c3aa9a2faf11bc487" title="MPU9250_mag::read_reg" alt="" coords="216,999,387,1026"/>
+<area shape="rect" id="node38" href="$d6/d73/class_l_p_s22_h_b.html#ad0d021a7e38be243261769942e93d465" title="Read a register. " alt="" coords="232,1050,371,1077"/>
+<area shape="rect" id="node39" href="$dc/d03/class_l_p_s25_h.html#a5999ec991eac5b27eb8774a94b7729ef" title="Read a register. " alt="" coords="237,1101,366,1127"/>
+<area shape="rect" id="node40" href="$df/dd9/class_m_p_u9250.html#a9e211d7a42a413678b084358a0bdf055" title="Read a register from the mpu. " alt="" coords="232,1151,371,1178"/>
+<area shape="rect" id="node41" href="$d5/d19/class_m_p_u6000.html#a70789039cc750778ac57b6d9180c3195" title="Read a register from the MPU6000. " alt="" coords="232,578,371,605"/>
+<area shape="rect" id="node42" href="$da/d2e/class_i_c_m20948.html#a6a0cad351e917caebcde6f458ed4eee4" title="Read a register from the mpu. " alt="" coords="477,1253,617,1279"/>
+<area shape="rect" id="node43" href="$da/d2e/class_i_c_m20948.html#a15c271d1a998d2855897b1d20405c4ea" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="688,1227,839,1254"/>
+<area shape="rect" id="node44" href="$df/dd9/class_m_p_u9250.html#afe2a083a2a9e6be2b7627e66f7516b19" title="MPU9250::read_reg16" alt="" coords="225,1455,377,1482"/>
+<area shape="rect" id="node45" href="$d5/d19/class_m_p_u6000.html#a129b1669c0bbe000ed00c045843557b0" title="MPU6000::read_reg16" alt="" coords="225,1506,377,1533"/>
+<area shape="rect" id="node46" href="$da/d2e/class_i_c_m20948.html#ab92b436ee33376505b7861657e88ae0d" title="ICM20948::read_reg16" alt="" coords="470,1314,625,1341"/>
+<area shape="rect" id="node47" href="$df/dd9/class_m_p_u9250.html#ad6ab66db4922c00fcf9e41d6727b3598" title="Read a register range from the mpu. " alt="" coords="213,1557,390,1583"/>
+<area shape="rect" id="node48" href="$da/d2e/class_i_c_m20948.html#a612377c28415ff8f8cc9978826ab2772" title="Read a register range from the mpu. " alt="" coords="477,1387,617,1428"/>
+<area shape="rect" id="node49" href="$da/d2e/class_i_c_m20948.html#ac98dca5d5ccd271e119bd0732cf7423e" title="Select a register bank in ICM20948. " alt="" coords="196,1303,407,1330"/>
+<area shape="rect" id="node50" href="$d5/d19/class_m_p_u6000.html#a25e23533f7b862accd84954b16e58eff" title="MPU6000::test_error" alt="" coords="230,1607,373,1634"/>
+<area shape="rect" id="node4" href="$d5/d16/class_m_p_u9250__mag.html#a1c6736e5581e4034713c7c4dcc85dfc8" title="MPU9250_mag::ak8963\l_setup" alt="" coords="466,5,629,47"/>
+<area shape="rect" id="node6" href="$d8/d33/class_m_p_l3115_a2.html#a95d49936db9c6811cc825151afc280e1" title="MPL3115A2::init" alt="" coords="488,71,607,98"/>
+<area shape="rect" id="node7" href="$d8/d33/class_m_p_l3115_a2.html#a8ff4996cbb8074ba15276727250d7e73" title="MPL3115A2::read" alt="" coords="484,122,611,149"/>
+<area shape="rect" id="node8" href="$d8/d33/class_m_p_l3115_a2.html#a9d74133c26c5aa591e62be56f60b0501" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="485,173,610,199"/>
+<area shape="rect" id="node10" href="$d3/d05/class_m_s5611.html#a6ec45990defdae23baf1601542d28f84" title="MS5611::init" alt="" coords="500,223,595,250"/>
+<area shape="rect" id="node11" href="$d3/d05/class_m_s5611.html#a6a27ba57e8a43f7623eb3751ac0c2678" title="Perform a read from the device. " alt="" coords="496,274,599,301"/>
+<area shape="rect" id="node12" href="$d3/d05/class_m_s5611.html#a9a58c0ac10e8f00132e12a50ba69908e" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="496,325,599,351"/>
+<area shape="rect" id="node14" href="$d6/d73/class_l_p_s22_h_b.html#a78d011996280748d5906860f841a30b6" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="491,375,603,402"/>
+<area shape="rect" id="node16" href="$dc/d03/class_l_p_s25_h.html#aa27d6889d10944e32adbd715bd3f8a38" title="LPS25H::read" alt="" coords="495,477,599,503"/>
+<area shape="rect" id="node17" href="$dc/d03/class_l_p_s25_h.html#a90aafcaa887f8b6508945983dabf9879" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="496,426,599,453"/>
+<area shape="rect" id="node19" href="$dc/d3d/namespacempu6000.html#a1ae36ded0bacf58850b5f093638e6a47" title="Dump the register information. " alt="" coords="691,527,836,554"/>
+<area shape="rect" id="node21" href="$d1/dde/class_p_x4_i_o.html#a85db0292370b5380301fa2c1422486c8" title="Detect if a PX4IO is connected. " alt="" coords="495,862,600,889"/>
+<area shape="rect" id="node22" href="$d1/dde/class_p_x4_i_o.html#af587d72e007771e652f8f54aa8d60721" title="check and handle test_motor topic updates " alt="" coords="459,913,635,939"/>
+<area shape="rect" id="node23" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="720,989,807,1015"/>
+<area shape="rect" id="node24" href="$d1/dde/class_p_x4_i_o.html#ae391c6aa22a421dc3907a3833c6c3c1d" title="Fetch RC inputs from IO. " alt="" coords="472,680,623,721"/>
+<area shape="rect" id="node25" href="$d1/dde/class_p_x4_i_o.html#af4f72301ac94392b7e3e1ae734989667" title="Fetch status and alarms from IO. " alt="" coords="474,1014,621,1041"/>
+<area shape="rect" id="node26" href="$d1/dde/class_p_x4_i_o.html#a38084b037d73965204fa3d339f2357da" title="Fetch and publish the PWM servo outputs. " alt="" coords="466,745,629,787"/>
+<area shape="rect" id="node27" href="$d1/dde/class_p_x4_i_o.html#ac4527fa9292ebe1900f0992b16d9fee0" title="read a register " alt="" coords="483,811,612,838"/>
+<area shape="rect" id="node28" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="472,629,623,655"/>
+<area shape="rect" id="node29" href="$d1/dde/class_p_x4_i_o.html#a37995636f5b1dacc47fa338963f38c9b" title="IO Control handler. " alt="" coords="717,603,810,630"/>
+<area shape="rect" id="node30" href="$d1/dde/class_p_x4_i_o.html#aac7b9556eef5abb6fff69a791e1c3a86" title="Push RC channel configuration to IO. " alt="" coords="465,1065,629,1091"/>
 </map>

@@ -1,10 +1,11 @@
 <map id="write_uint24_t" name="write_uint24_t">
-<area shape="rect" id="node2" href="$d9/ddf/crsf_8h.html#a134bde0b918bd74e75ca723e01889a78" title="Send telemetry battery information. " alt="" coords="156,5,296,47"/>
-<area shape="rect" id="node3" href="$d0/da3/class_c_r_s_f_telemetry.html#a291dd664fb2f821fa855735ca1494563" title="CRSFTelemetry::send\l_battery" alt="" coords="344,5,497,47"/>
-<area shape="rect" id="node4" href="$d0/da3/class_c_r_s_f_telemetry.html#a8cd227cc2e9f118ddf0d0bb1cb14db2b" title="Send telemetry data. " alt="" coords="545,13,709,39"/>
-<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="757,13,868,39"/>
-<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="916,13,1093,39"/>
-<area shape="rect" id="node9" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="956,63,1053,90"/>
-<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="1141,13,1291,39"/>
-<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="1339,13,1525,39"/>
+<area shape="rect" id="node2" href="$d9/ddf/crsf_8h.html#a134bde0b918bd74e75ca723e01889a78" title="Send telemetry battery information. " alt="" coords="156,49,296,90"/>
+<area shape="rect" id="node3" href="$d0/da3/class_c_r_s_f_telemetry.html#a291dd664fb2f821fa855735ca1494563" title="CRSFTelemetry::send\l_battery" alt="" coords="344,49,497,90"/>
+<area shape="rect" id="node4" href="$d0/da3/class_c_r_s_f_telemetry.html#a8cd227cc2e9f118ddf0d0bb1cb14db2b" title="Send telemetry data. " alt="" coords="545,56,709,83"/>
+<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="757,56,868,83"/>
+<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#aa0f747b469407c03b13fa0b70876b328" title="RCInput::cycle_trampoline_init" alt="" coords="916,5,1117,32"/>
+<area shape="rect" id="node9" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="928,56,1105,83"/>
+<area shape="rect" id="node10" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="968,107,1065,133"/>
+<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="1165,5,1315,32"/>
+<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="1363,5,1549,32"/>
 </map>

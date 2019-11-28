@@ -1,0 +1,51 @@
+<map id="px4::logger::Logger::write_version" name="px4::logger::Logger::write_version">
+<area shape="rect" id="node2" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="227,883,313,910"/>
+<area shape="rect" id="node8" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="229,647,311,674"/>
+<area shape="rect" id="node32" href="$df/dfc/version_8h.html#a4a98b20dc43b646ecb59934cc3ebb2e0" title="get the board name as string (including the version if there are multiple) " alt="" coords="209,934,331,961"/>
+<area shape="rect" id="node33" href="$df/dfc/version_8h.html#a74454c67ffa9651a44bac0ac0f588213" title="get the board sub type " alt="" coords="199,985,341,1011"/>
+<area shape="rect" id="node34" href="$d2/d0b/version_8c.html#a3b1287b0f3da2031f3ff406144e4cfa6" title="ECL lib version as human readable string (git tag) " alt="" coords="202,1036,338,1077"/>
+<area shape="rect" id="node36" href="$d2/d0b/version_8c.html#a958077a453f3e737e49aa2b8d738ae26" title="get the git branch name (can be empty, for example if HEAD points to a tag) " alt="" coords="187,1102,353,1129"/>
+<area shape="rect" id="node37" href="$d2/d0b/version_8c.html#ab119771ef12ee73f56180ce56b9bd698" title="get the PX4 Firmware vendor version " alt="" coords="197,1153,343,1195"/>
+<area shape="rect" id="node39" href="$d2/d0b/version_8c.html#aa0dd602794ccff7523581abbe088b1ba" title="get the PX4 Firmware version " alt="" coords="195,1270,345,1297"/>
+<area shape="rect" id="node41" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="195,1321,345,1363"/>
+<area shape="rect" id="node42" href="$d2/d0b/version_8c.html#ae95cd926e4c13b6df7434db5771200ba" title="name of the operating system " alt="" coords="219,1387,321,1414"/>
+<area shape="rect" id="node43" href="$d2/d0b/version_8c.html#a5975808a383f520b6b92cfa71093711c" title="operating system version " alt="" coords="213,1219,327,1246"/>
+<area shape="rect" id="node44" href="$d2/d0b/version_8c.html#a7265831e3a3bb9a00a8238eaaa1f9a5f" title="Operating system version as human readable string (git tag) " alt="" coords="194,1438,346,1465"/>
+<area shape="rect" id="node45" href="$d2/d0b/version_8c.html#a31abb41bc89b145f777e122bac67a828" title="Toolchain name used to compile PX4. " alt="" coords="199,1489,341,1515"/>
+<area shape="rect" id="node46" href="$d2/d0b/version_8c.html#a9aa31fe9aa21ba54142aa49766635f56" title="Toolchain version used to compile PX4 (no particular format) " alt="" coords="195,1539,345,1566"/>
+<area shape="rect" id="node47" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a03a07ff921f52f8594d55f5dfb6267ef" title="px4::logger::Logger\l::write_info" alt="" coords="203,1591,337,1632"/>
+<area shape="rect" id="node3" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="416,883,551,910"/>
+<area shape="rect" id="node4" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1027,971,1178,998"/>
+<area shape="rect" id="node5" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="613,883,780,910"/>
+<area shape="rect" id="node6" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="655,782,738,809"/>
+<area shape="rect" id="node7" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="661,833,733,859"/>
+<area shape="rect" id="node9" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="677,158,716,185"/>
+<area shape="rect" id="node11" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1045,259,1161,286"/>
+<area shape="rect" id="node13" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="412,1037,555,1063"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="417,673,549,699"/>
+<area shape="rect" id="node19" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="648,107,745,134"/>
+<area shape="rect" id="node20" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="417,513,549,539"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="856,259,947,286"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="439,985,528,1011"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="410,774,557,801"/>
+<area shape="rect" id="node10" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="860,158,943,185"/>
+<area shape="rect" id="node12" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1231,259,1381,286"/>
+<area shape="rect" id="node14" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="843,1010,959,1037"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="828,1162,975,1189"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="625,1137,768,1163"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="651,1035,742,1062"/>
+<area shape="rect" id="node21" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="617,513,777,539"/>
+<area shape="rect" id="node22" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="637,563,756,590"/>
+<area shape="rect" id="node23" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1023,597,1183,623"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="830,462,973,489"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="625,411,768,438"/>
+<area shape="rect" id="node27" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="625,615,768,656"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="633,681,761,707"/>
+<area shape="rect" id="node29" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="629,361,765,387"/>
+<area shape="rect" id="node35" href="$df/dfc/version_8h.html#ab8a522fe1a0d5b87eabf61f0fe821b39" title="MAVLink lib version in binary form (first part of the git tag) " alt="" coords="401,1088,565,1129"/>
+<area shape="rect" id="node38" href="$d2/d0b/version_8c.html#a5c760dad22007876bc9e78f47bb13c3b" title="Convert a version tag string to a vendor version number. " alt="" coords="407,1153,560,1195"/>
+<area shape="rect" id="node40" href="$d2/d0b/version_8c.html#ad900218febe0100563d238d072ed787a" title="Convert a version tag string to a number. " alt="" coords="405,1245,562,1271"/>
+<area shape="rect" id="node48" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae10eaee85ef26391dc3a249582877661" title="px4::logger::LogWriter\l::lock" alt="" coords="408,1525,559,1567"/>
+<area shape="rect" id="node49" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a508107fb7c37d46f50405b71e5100317" title="px4::logger::LogWriter\l::unlock" alt="" coords="408,1591,559,1632"/>
+<area shape="rect" id="node50" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1742d5670c991116aa814d5db570f0cc" title="Write exactly one ulog message to the logger and handle dropouts. " alt="" coords="417,1656,550,1697"/>
+</map>

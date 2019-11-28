@@ -1,5 +1,8 @@
 <map id="WindEstimator::get_tas_scale" name="WindEstimator::get_tas_scale">
-<area shape="rect" id="node2" href="$de/df6/class_wind_estimator_module.html#a0f33419010318d9c7f836538e489d102" title="WindEstimatorModule\l::cycle" alt="" coords="188,5,339,47"/>
-<area shape="rect" id="node3" href="$de/df6/class_wind_estimator_module.html#acd4450355b2c716f6a9d2095f85f7a68" title="WindEstimatorModule\l::task_spawn" alt="" coords="387,5,537,47"/>
-<area shape="rect" id="node4" href="$de/df6/class_wind_estimator_module.html#aae0ff29609f7d7b4b2dfb6471be3a7a1" title="WindEstimatorModule\l::custom_command" alt="" coords="585,5,736,47"/>
+<area shape="rect" id="node2" href="$db/dc1/class_airspeed_validator.html#ad49c25c89dcd2959e542dfbfd3694c54" title="AirspeedValidator::\lget_wind_estimator_states" alt="" coords="188,5,367,47"/>
+<area shape="rect" id="node5" href="$db/dc1/class_airspeed_validator.html#abc1437b4d8f80b6881b89afc3d4b2df4" title="AirspeedValidator::\lupdate_EAS_scale" alt="" coords="211,71,344,112"/>
+<area shape="rect" id="node7" href="$dd/dc8/class_airspeed_module.html#aefb294a454feae92e0e6cb6e8509bf9c" title="update the wind estimator instance only fusing sideslip " alt="" coords="417,136,585,177"/>
+<area shape="rect" id="node3" href="$dd/dc8/class_airspeed_module.html#a31c120815142c267cd3a55acc9f923f9" title="select airspeed sensor (or groundspeed&#45;windspeed) " alt="" coords="422,5,581,47"/>
+<area shape="rect" id="node4" href="$dd/dc8/class_airspeed_module.html#acfce768617d019c94041021370ab8da6" title="AirspeedModule::Run" alt="" coords="636,78,783,105"/>
+<area shape="rect" id="node6" href="$db/dc1/class_airspeed_validator.html#afaf71d7053c68084e921493cfda721d0" title="AirspeedValidator::\lupdate_airspeed_validator" alt="" coords="415,71,588,112"/>
 </map>

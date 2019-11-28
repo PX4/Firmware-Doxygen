@@ -1,4 +1,12 @@
 <map id="UavcanGnssBridge" name="UavcanGnssBridge">
-<area shape="rect" id="node2" href="$de/d34/class_i_uavcan_sensor_bridge.html" title="A sensor bridge class must implement this interface. " alt="" coords="229,132,444,283"/>
-<area shape="rect" id="node4" href="$df/db4/class_list_node.html" title="{ListNode\&lt; IUavcanSensorBridge * \&gt;\n||+ ListNode()\l+ ListNode()\l+ ListNode()\l+ ~ListNode()\l+ operator=()\l+ operator=()\l+ setSibling()\l+ getSibling()\l}" alt="" coords="295,426,530,606"/>
+<area shape="rect" id="node2" href="$de/d34/class_i_uavcan_sensor_bridge.html" title="A sensor bridge class must implement this interface. " alt="" coords="133,1177,348,1328"/>
+<area shape="rect" id="node4" href="$df/db4/class_list_node.html" title="{ListNode\&lt; IUavcanSensorBridge *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="5,1552,236,1644"/>
+<area shape="rect" id="node5" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html" title="{uORB::PublicationMulti\l\&lt; vehicle_gps_position_s \&gt;\n|# _handle\l# _priority\l|+ PublicationMulti()\l+ ~PublicationMulti()\l+ publish()\l}" alt="" coords="306,988,487,1124"/>
+<area shape="rect" id="node6" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="388,270,533,391"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="486,1148,625,1357"/>
+<area shape="rect" id="node8" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="579,579,718,964"/>
+<area shape="rect" id="node11" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="659,1207,878,1299"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="557,145,740,516"/>
+<area shape="rect" id="node10" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="577,5,720,83"/>
+<area shape="rect" id="node12" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="765,285,935,377"/>
 </map>

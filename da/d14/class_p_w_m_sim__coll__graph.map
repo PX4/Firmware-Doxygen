@@ -1,13 +1,25 @@
 <map id="PWMSim" name="PWMSim">
-<area shape="rect" id="node2" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="143,704,326,1119"/>
-<area shape="rect" id="node3" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="44,351,177,619"/>
-<area shape="rect" id="node4" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="26,189,195,267"/>
-<area shape="rect" id="node5" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="5,5,216,127"/>
-<area shape="rect" id="node6" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="201,447,353,524"/>
-<area shape="rect" id="node8" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="549,851,694,972"/>
-<area shape="rect" id="node9" href="$d2/da9/structactuator__outputs__s.html" title="{actuator_outputs_s\n|+ timestamp\l+ noutputs\l+ output\l+ _padding0\l|}" alt="" coords="719,851,852,972"/>
-<area shape="rect" id="node10" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="876,858,988,965"/>
-<area shape="rect" id="node11" href="$d9/dbb/class_mixer_group.html" title="Group of mixers, built up from single mixers and processed in order when mixing. " alt="" coords="1011,814,1178,1009"/>
-<area shape="rect" id="node12" href="$de/d2d/class_mixer.html" title="Abstract class defining a mixer mixing zero or more inputs to one or more outputs. " alt="" coords="1000,329,1187,641"/>
-<area shape="rect" id="node13" href="$de/d27/structactuator__controls__s.html" title="{actuator_controls_s\n|+ timestamp\l+ timestamp_sample\l+ control\l|}" alt="" coords="1203,858,1347,965"/>
+<area shape="rect" id="node2" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="1761,145,1943,516"/>
+<area shape="rect" id="node10" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="1333,579,1472,964"/>
+<area shape="rect" id="node3" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="1781,5,1923,83"/>
+<area shape="rect" id="node5" href="$de/dfa/class_output_module_interface.html" title="Base class for an output module. " alt="" coords="1113,2089,1287,2196"/>
+<area shape="rect" id="node13" href="$da/d43/class_mixing_output.html" title="This handles the mixing, arming/disarming and all subscriptions required for that. " alt="" coords="613,2288,830,2688"/>
+<area shape="rect" id="node8" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="1256,1148,1395,1357"/>
+<area shape="rect" id="node14" href="$db/d4d/struct_mixing_output_1_1_motor_test.html" title="{MixingOutput::MotorTest\n|+ in_test_mode\l+ timeout\l|}" alt="" coords="621,1745,787,1837"/>
+<area shape="rect" id="node26" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html" title="{uORB::SubscriptionInterval\n|# _last_update\l# _interval_us\l|+ SubscriptionInterval()\l+ SubscriptionInterval()\l+ ~SubscriptionInterval()\l+ subscribe()\l+ advertised()\l+ updated()\land 7 more...\l}" alt="" coords="1429,1541,1611,1721"/>
+<area shape="rect" id="node9" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="1121,270,1266,391"/>
+<area shape="rect" id="node16" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html" title="{uORB::PublicationMulti\l\&lt; actuator_outputs_s \&gt;\n|# _handle\l# _priority\l|+ PublicationMulti()\l+ ~PublicationMulti()\l+ publish()\l}" alt="" coords="198,988,357,1124"/>
+<area shape="rect" id="node23" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html" title="{uORB::PublicationMulti\l\&lt; multirotor_motor_limits_s \&gt;\n|# _handle\l# _priority\l|+ PublicationMulti()\l+ ~PublicationMulti()\l+ publish()\l}" alt="" coords="324,1381,516,1517"/>
+<area shape="rect" id="node11" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="1424,1207,1643,1299"/>
+<area shape="rect" id="node12" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="1317,285,1488,377"/>
+<area shape="rect" id="node15" href="$d6/d11/struct_mixing_output_1_1_command.html" title="{MixingOutput::Command\n|+ command\l+ mixer_buf\l+ mixer_buf_length\l+ result\l|}" alt="" coords="870,2082,1037,2203"/>
+<area shape="rect" id="node17" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="43,2089,155,2196"/>
+<area shape="rect" id="node18" href="$d9/dbb/class_mixer_group.html" title="Group of mixers, built up from single mixers and processed in order when mixing. " alt="" coords="383,2060,500,2225"/>
+<area shape="rect" id="node19" href="$d1/d34/class_list.html" title="{List\&lt; Mixer *\&gt;\n||}" alt="" coords="389,1891,493,1968"/>
+<area shape="rect" id="node20" href="$d0/d54/structactuator__armed__s.html" title="{actuator_armed_s\n|+ timestamp\l+ armed_time_ms\l+ armed\l+ prearmed\l+ ready_to_arm\l+ lockdown\land 5 more...\l|}" alt="" coords="231,2060,358,2225"/>
+<area shape="rect" id="node21" href="$de/d27/structactuator__controls__s.html" title="{actuator_controls_s\n|+ timestamp\l+ timestamp_sample\l+ control\l|}" alt="" coords="575,2089,719,2196"/>
+<area shape="rect" id="node22" href="$d1/d60/structoutput__limit__t.html" title="{output_limit_t\n|+ state\l+ time_armed\l+ ramp_up\l|}" alt="" coords="743,2089,846,2196"/>
+<area shape="rect" id="node24" href="$d2/d23/classu_o_r_b_1_1_subscription_callback_work_item.html" title="{uORB::SubscriptionCallback\lWorkItem\n|&#45; _work_item\l|+ SubscriptionCallbackWorkItem()\l+ ~SubscriptionCallbackWorkItem()\l+ call()\l}" alt="" coords="1363,2082,1594,2203"/>
+<area shape="rect" id="node25" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html" title="{uORB::SubscriptionCallback\n||+ SubscriptionCallback()\l+ ~SubscriptionCallback()\l+ registerCallback()\l+ unregisterCallback()\l+ call()\l}" alt="" coords="1468,1861,1657,1997"/>
+<area shape="rect" id="node27" href="$df/db4/class_list_node.html" title="{ListNode\&lt; SubscriptionCallback *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="1619,2097,1845,2189"/>
 </map>

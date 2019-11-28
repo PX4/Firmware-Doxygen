@@ -1,0 +1,51 @@
+<map id="RCInput::cycle_trampoline_init" name="RCInput::cycle_trampoline_init">
+<area shape="rect" id="node2" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="431,863,541,889"/>
+<area shape="rect" id="node47" href="$d4/d39/class_r_c_input.html#ab2ef0fb044a6760fea5f02a90b0d533c" title="RCInput::init" alt="" coords="271,1284,367,1311"/>
+<area shape="rect" id="node50" href="$d4/d39/class_r_c_input.html#a927993be75de00e90333d5e89d113ee8" title="RCInput::RCInput" alt="" coords="255,1335,383,1361"/>
+<area shape="rect" id="node3" href="$d9/dd2/crsf_8cpp.html#a86b766a5b7810da79c5a9ac85e7df2be" title="Configure an UART port to be used for CRSF. " alt="" coords="862,407,949,433"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1301,609,1340,636"/>
+<area shape="rect" id="node8" href="$d9/dd2/crsf_8cpp.html#a19b978da0b528ac559d1b75fc0abf80a" title="Parse the CRSF protocol and extract RC channel data. " alt="" coords="637,483,719,509"/>
+<area shape="rect" id="node11" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="589,863,767,889"/>
+<area shape="rect" id="node12" href="$d3/d37/dsm_8cpp.html#ab38619ebbecd716b6e0757356d116039" title="dsm_config" alt="" coords="633,1335,723,1361"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="843,1149,968,1176"/>
+<area shape="rect" id="node16" href="$d3/d37/dsm_8cpp.html#a6f7fa1d6f81b4f1d8f9c97b0264664ad" title="dsm_parse" alt="" coords="635,913,721,940"/>
+<area shape="rect" id="node19" href="$d4/d39/class_r_c_input.html#ae3c75056fd62f59236fe5f28dcf7ffd8" title="RCInput::fill_rc_in" alt="" coords="615,761,741,788"/>
+<area shape="rect" id="node20" href="$d4/d39/class_r_c_input.html#ab21ef197b0b6db04a77e6a7c568f5845" title="RCInput::set_rc_scan\l_state" alt="" coords="830,762,981,803"/>
+<area shape="rect" id="node21" href="$d4/d39/class_r_c_input.html#ab2063f0609a0ea83384236f702a85f82" title="RCInput::rc_io_invert" alt="" coords="832,879,979,905"/>
+<area shape="rect" id="node22" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="637,1065,719,1092"/>
+<area shape="rect" id="node23" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="637,1233,719,1260"/>
+<area shape="rect" id="node24" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="642,964,714,991"/>
+<area shape="rect" id="node25" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="599,1117,757,1158"/>
+<area shape="rect" id="node26" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="655,1183,701,1209"/>
+<area shape="rect" id="node27" href="$d6/daa/sbus_8cpp.html#a6aa55bbe64298bb8bf02cb437b0fae23" title="Parse serial bytes on the S.BUS bus. " alt="" coords="632,1284,724,1311"/>
+<area shape="rect" id="node28" href="$d6/daa/sbus_8cpp.html#a84c2f61a727a48cff2cec629cdde176c" title="sbus_parse" alt="" coords="633,559,723,585"/>
+<area shape="rect" id="node31" href="$df/d25/st24_8cpp.html#a5315a850d1fb29c1c92b40da9cc27f7d" title="Decoder for ST24 protocol. " alt="" coords="630,660,726,687"/>
+<area shape="rect" id="node33" href="$d4/dd7/sumd_8cpp.html#ab8959b0896a37eacc9df7b3e3ccfddb3" title="Decoder for SUMD/SUMH protocol. " alt="" coords="627,56,729,83"/>
+<area shape="rect" id="node36" href="$d0/da3/class_c_r_s_f_telemetry.html#a8cd227cc2e9f118ddf0d0bb1cb14db2b" title="Send telemetry data. " alt="" coords="596,283,760,309"/>
+<area shape="rect" id="node39" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="1052,210,1191,251"/>
+<area shape="rect" id="node4" href="$d9/dd2/crsf_8cpp.html#af931ac8e000aa71e588a80b74f98cd00" title="Convert from RC to PWM value. " alt="" coords="1044,407,1199,433"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1443,609,1525,636"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1573,609,1660,636"/>
+<area shape="rect" id="node9" href="$d9/dd2/crsf_8cpp.html#a6f0ac810cf076d93d2cca7bd8f3bc9d3" title="parse the current crsf_frame buffer " alt="" coords="844,457,967,484"/>
+<area shape="rect" id="node10" href="$d9/dd2/crsf_8cpp.html#ae4fc4d987830353c889a5ccfcfd7b95d" title="crsf_frame_CRC" alt="" coords="1061,457,1182,484"/>
+<area shape="rect" id="node13" href="$d3/d37/dsm_8cpp.html#aaf6292c506d3f3601cfa8f34199023b6" title="Attempt to guess if receiving 10 or 11 bit channel values. " alt="" coords="1055,1005,1188,1032"/>
+<area shape="rect" id="node14" href="$d3/d37/dsm_8cpp.html#a155e9a9889d2e342ea3bf13aaaa4458d" title="Attempt to decode a single channel raw channel datum. " alt="" coords="1247,955,1395,981"/>
+<area shape="rect" id="node17" href="$d3/d37/dsm_8cpp.html#a3a63475bf3d8b4ac19ea396d834312f3" title="Decode the entire dsm frame (all contained channels) " alt="" coords="857,929,953,956"/>
+<area shape="rect" id="node18" href="$d9/d8a/spektrum__rssi_8h.html#a0a6a8c597ecc24014ad034af8ebfc838" title="spek_dbm_to_percent" alt="" coords="1046,955,1197,981"/>
+<area shape="rect" id="node29" href="$d6/daa/sbus_8cpp.html#a4c5eb104a13c14000bd0f04be1fe2e47" title="sbus_decode" alt="" coords="856,559,955,585"/>
+<area shape="rect" id="node30" href="$d0/d9e/test__bson_8cpp.html#aa1b6f840619b69d277672c7a42574d3e" title="decode" alt="" coords="1089,559,1153,585"/>
+<area shape="rect" id="node32" href="$df/d25/st24_8cpp.html#a40cdf7197b8430531c99d6397f3b8298" title="CRC8 implementation for ST24 protocol. " alt="" coords="837,711,973,737"/>
+<area shape="rect" id="node34" href="$d4/dd7/sumd_8cpp.html#a08cb8bc6ad5c61a437546cd852b2147c" title="CRC16 implementation for SUMD protocol. " alt="" coords="859,56,952,83"/>
+<area shape="rect" id="node35" href="$d4/dd7/sumd_8cpp.html#a86ed4655fbd7b636eb18585f55c11c5e" title="CRC8 implementation for SUMH protocol. " alt="" coords="862,5,949,32"/>
+<area shape="rect" id="node37" href="$d0/da3/class_c_r_s_f_telemetry.html#ae60b3713b4ecebab6748b5ed612197a6" title="CRSFTelemetry::send\l_attitude" alt="" coords="829,275,982,317"/>
+<area shape="rect" id="node42" href="$d0/da3/class_c_r_s_f_telemetry.html#a291dd664fb2f821fa855735ca1494563" title="CRSFTelemetry::send\l_battery" alt="" coords="829,158,982,199"/>
+<area shape="rect" id="node44" href="$d0/da3/class_c_r_s_f_telemetry.html#ac9f030b9b009c365f1bcff8e765dd4b6" title="CRSFTelemetry::send\l_flight_mode" alt="" coords="829,341,982,382"/>
+<area shape="rect" id="node46" href="$d0/da3/class_c_r_s_f_telemetry.html#a1a43efaf0777d7821ebbdf2f8ec51046" title="CRSFTelemetry::send_gps" alt="" coords="815,224,996,251"/>
+<area shape="rect" id="node38" href="$d9/dd2/crsf_8cpp.html#afd7952d55c8d970ecf1fdcc790afded1" title="Send telemetry Attitude information. " alt="" coords="1051,275,1191,317"/>
+<area shape="rect" id="node40" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="1251,178,1390,219"/>
+<area shape="rect" id="node41" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="1251,243,1390,285"/>
+<area shape="rect" id="node43" href="$d9/dd2/crsf_8cpp.html#a35a2bff65ddfe6943ca923c716c488cd" title="Send telemetry battery information. " alt="" coords="1051,145,1191,186"/>
+<area shape="rect" id="node45" href="$d9/dd2/crsf_8cpp.html#a5dd50cc4f1afd838a4900c31d65829dc" title="Send telemetry Flight Mode information. " alt="" coords="1051,341,1191,382"/>
+<area shape="rect" id="node48" href="$d3/d37/dsm_8cpp.html#a650fd06b0cf33eb946789d0490045c95" title="Initialize the DSM receive functionality. " alt="" coords="451,1335,521,1361"/>
+<area shape="rect" id="node49" href="$d3/d37/dsm_8cpp.html#af65ffa1caa34ebd22be77188397346b9" title="dsm_proto_init" alt="" coords="625,1385,731,1412"/>
+</map>

@@ -1,22 +1,21 @@
 <map id="PX4IO::ioctl" name="PX4IO::ioctl">
-<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="554,61,683,88"/>
-<area shape="rect" id="node4" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="349,101,500,128"/>
-<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#aba8d6360b436affe17f67a8df1784c55" title="write register(s) " alt="" coords="554,123,683,149"/>
-<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="156,203,292,229"/>
-<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="589,405,649,432"/>
-<area shape="rect" id="node21" href="$d1/dde/class_p_x4_i_o.html#ab1b846bd66eace9b6b685a59f41618d1" title="PX4IO::system_status" alt="" coords="147,456,301,483"/>
-<area shape="rect" id="node3" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="751,5,893,32"/>
-<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="749,56,895,83"/>
-<area shape="rect" id="node9" href="$d1/dde/class_p_x4_i_o.html#a742baa5843143d89cd3d0c9672e812c9" title="Fetch and print debug console output. " alt="" coords="357,304,493,331"/>
-<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="549,355,688,381"/>
-<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="553,245,684,272"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="551,195,686,221"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="548,304,689,331"/>
-<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="755,405,889,432"/>
-<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="753,457,891,498"/>
-<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="748,355,896,381"/>
-<area shape="rect" id="node15" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="753,107,891,149"/>
-<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="757,173,887,214"/>
-<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="745,238,899,279"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="737,304,907,331"/>
+<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="549,28,678,54"/>
+<area shape="rect" id="node4" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="349,28,500,54"/>
+<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#aba8d6360b436affe17f67a8df1784c55" title="write register(s) " alt="" coords="549,116,678,142"/>
+<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="156,104,292,130"/>
+<area shape="rect" id="node20" href="$d1/dde/class_p_x4_i_o.html#a61cf06fa1e4219e34c970ad4fd3c6dd8" title="PX4IO::system_status" alt="" coords="147,230,301,257"/>
+<area shape="rect" id="node3" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="735,28,877,54"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="733,90,879,117"/>
+<area shape="rect" id="node8" href="$d1/dde/class_p_x4_i_o.html#a742baa5843143d89cd3d0c9672e812c9" title="Fetch and print debug console output. " alt="" coords="357,318,493,345"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="549,424,677,450"/>
+<area shape="rect" id="node13" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="553,233,673,260"/>
+<area shape="rect" id="node17" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="551,318,676,345"/>
+<area shape="rect" id="node18" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="548,373,679,400"/>
+<area shape="rect" id="node10" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="744,374,868,401"/>
+<area shape="rect" id="node11" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="727,476,885,502"/>
+<area shape="rect" id="node12" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="737,425,875,452"/>
+<area shape="rect" id="node14" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="728,258,884,299"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="728,141,884,168"/>
+<area shape="rect" id="node16" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="735,192,877,234"/>
+<area shape="rect" id="node19" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="727,324,885,350"/>
 </map>

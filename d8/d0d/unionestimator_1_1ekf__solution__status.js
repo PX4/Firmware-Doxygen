@@ -3,7 +3,7 @@ var unionestimator_1_1ekf__solution__status =
     [ "accel_error", "d8/d0d/unionestimator_1_1ekf__solution__status.html#a76e94cfd0365440edaca985ae7cc1b42", null ],
     [ "attitude", "d8/d0d/unionestimator_1_1ekf__solution__status.html#af8abca7a0e9af67935a71da1f84fa98c", null ],
     [ "const_pos_mode", "d8/d0d/unionestimator_1_1ekf__solution__status.html#a97907a8deab64f5d00ffb94c11660709", null ],
-    [ "flags", "d8/d0d/unionestimator_1_1ekf__solution__status.html#aac1829c441be84ab4e7df48c844e8bc9", null ],
+    [ "flags", "d8/d0d/unionestimator_1_1ekf__solution__status.html#ae5cf814dce3fd2c20745053814f3b8fb", null ],
     [ "gps_glitch", "d8/d0d/unionestimator_1_1ekf__solution__status.html#a62cf3b7105daab6cbd881e32ffa69405", null ],
     [ "pos_horiz_abs", "d8/d0d/unionestimator_1_1ekf__solution__status.html#ae706d87b671939e6ce885ef761ae9bca", null ],
     [ "pos_horiz_rel", "d8/d0d/unionestimator_1_1ekf__solution__status.html#a14e491ac800430973b9db66940de7465", null ],

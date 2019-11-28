@@ -1,51 +1,51 @@
 <map id="px4::Replay::run" name="px4::Replay::run">
-<area shape="rect" id="node2" href="$de/dec/classpx4_1_1_replay.html#a8d9c63a915c1accbbb7124ce894a1f0f" title="handle delay until topic can be published. " alt="" coords="1053,177,1223,218"/>
-<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1316,129,1441,156"/>
-<area shape="rect" id="node5" href="$de/dec/classpx4_1_1_replay.html#ac3a160784f36f75b2afbe1ae462e8ce8" title="handle the publication of a topic update " alt="" coords="1053,278,1223,319"/>
-<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="215,492,336,519"/>
-<area shape="rect" id="node23" href="$de/dec/classpx4_1_1_replay.html#a2da8be3cba2cd599137f16ccbcaddcab" title="Find next data message for this subscription, starting with the stored file offset. " alt="" coords="172,340,379,367"/>
-<area shape="rect" id="node24" href="$de/dec/classpx4_1_1_replay.html#abd544f3f376b854795c5202a7c5cc98b" title="px4::Replay::readAndAddSubscription" alt="" coords="427,357,669,384"/>
-<area shape="rect" id="node34" href="$de/dec/classpx4_1_1_replay.html#a81e01008be004724a9da12bcce9cd164" title="read a topic from the file (offset given by the subscription) into _read_buffer " alt="" coords="1045,474,1231,515"/>
-<area shape="rect" id="node35" href="$de/dec/classpx4_1_1_replay.html#aa513e43ef58a6016fcb428d8927dbaf4" title="called when entering the main replay loop " alt="" coords="175,543,376,569"/>
-<area shape="rect" id="node36" href="$de/dec/classpx4_1_1_replay.html#a2363ea3ae290389e253501c493533a59" title="called when exiting the main replay loop " alt="" coords="179,593,372,620"/>
-<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="1763,56,1878,83"/>
-<area shape="rect" id="node38" href="$de/dec/classpx4_1_1_replay.html#a2cd5829985993453bf2a7ff8864cb717" title="Read and handle additional messages starting at current file position, while position &lt; end_position..." alt="" coords="181,645,370,686"/>
-<area shape="rect" id="node44" href="$de/dec/classpx4_1_1_replay.html#abb38a2fcb88d10634de190eeca5b3909" title="Read the file header and definitions sections. " alt="" coords="182,727,369,769"/>
-<area shape="rect" id="node4" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1349,184,1409,211"/>
-<area shape="rect" id="node6" href="$de/dec/classpx4_1_1_replay.html#ae6cd9533bdb7f030a553f75d719399a3" title="publish an orb topic " alt="" coords="1292,289,1465,316"/>
-<area shape="rect" id="node7" href="$da/d7c/classpx4_1_1_replay_1_1_compat_base.html#a0c6290466e675e453df6a70c13d40bac" title="apply compatibility to a topic " alt="" coords="1525,282,1701,323"/>
-<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="1563,224,1663,251"/>
-<area shape="rect" id="node20" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="1753,355,1888,381"/>
-<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1967,464,2055,491"/>
-<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2422,111,2565,153"/>
-<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="1749,217,1892,258"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2643,111,2785,153"/>
-<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2833,119,2960,145"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1940,347,2083,389"/>
-<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="2166,347,2309,389"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="1940,49,2083,90"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1940,217,2083,258"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1940,282,2083,323"/>
-<area shape="rect" id="node16" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="2131,56,2344,83"/>
-<area shape="rect" id="node17" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a77ca809a54e4d7a0137e89eeba22d17f" title="Interface to notify the remote entity of a topic being advertised. " alt="" coords="2392,46,2595,87"/>
-<area shape="rect" id="node25" href="$d4/d37/classpx4_1_1_replay_1_1_compat_sensor_combined_dt_type.html#a4761b853ef04080ed3f5edd58d97e6e0" title="px4::Replay::CompatSensor\lCombinedDtType::CompatSensorCombined\lDtType" alt="" coords="717,343,996,399"/>
-<area shape="rect" id="node26" href="$de/dec/classpx4_1_1_replay.html#a876e88dc1714a627002fa0899bc2c709" title="Find the offset &amp; field size in bytes for a given field name. " alt="" coords="764,524,949,551"/>
-<area shape="rect" id="node30" href="$de/dec/classpx4_1_1_replay.html#a6028297289426483caac32fcce09cc52" title="px4::Replay::findTopic" alt="" coords="1537,525,1690,552"/>
-<area shape="rect" id="node33" href="$de/dec/classpx4_1_1_replay.html#a3228ae048b7cabf6950b05cf692f13ef" title="called when a new subscription is added " alt="" coords="763,278,950,319"/>
-<area shape="rect" id="node27" href="$de/dec/classpx4_1_1_replay.html#a5f0fc035f733386b7f2702b8db5e214a" title="get the size of a type that can be an array " alt="" coords="1044,540,1232,567"/>
-<area shape="rect" id="node28" href="$de/dec/classpx4_1_1_replay.html#a13fbb4698a685dabe1119a314dc2668c" title="get the array size from a type. " alt="" coords="1280,489,1477,516"/>
-<area shape="rect" id="node29" href="$de/dec/classpx4_1_1_replay.html#aded37fe61327f1eaa576ddde08633cea" title="get the size of a type that is not an array " alt="" coords="1295,540,1462,567"/>
-<area shape="rect" id="node31" href="$d8/d9f/u_o_r_b_topics_8h.html#a1457ee2166d29f0fd6148b5ec63cf32c" title="orb_get_topics" alt="" coords="1767,551,1874,577"/>
-<area shape="rect" id="node32" href="$d8/d9f/u_o_r_b_topics_8h.html#a242e4babf1597f56989322220bd4e2f8" title="orb_topics_count" alt="" coords="1760,500,1881,527"/>
-<area shape="rect" id="node39" href="$de/dec/classpx4_1_1_replay.html#a73f66f6168106ebcb2cdc86a5ef8c5fc" title="px4::Replay::readAndApply\lParameter" alt="" coords="766,594,947,635"/>
-<area shape="rect" id="node43" href="$de/dec/classpx4_1_1_replay.html#ae5e97846b04bc764c9d656ddb87a37d6" title="px4::Replay::readDropout" alt="" coords="463,652,633,679"/>
-<area shape="rect" id="node40" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1095,657,1181,684"/>
-<area shape="rect" id="node41" href="$d9/da5/param_8c.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1089,709,1187,736"/>
-<area shape="rect" id="node42" href="$d9/da5/param_8c.html#a126ed3d305f2dd3cd9880f11ee2922a0" title="Set the value of a parameter. " alt="" coords="1097,603,1179,629"/>
-<area shape="rect" id="node45" href="$de/dec/classpx4_1_1_replay.html#a2fd6a067b58095d5ae857054b38f11b3" title="Read definitions section: check formats, apply parameters and store the start of the data section..." alt="" coords="444,703,652,729"/>
-<area shape="rect" id="node48" href="$de/dec/classpx4_1_1_replay.html#a2eaa8f3af8a9c4dcb2f3a4f424e72b51" title="px4::Replay::readFileHeader" alt="" coords="454,804,642,831"/>
-<area shape="rect" id="node49" href="$de/dec/classpx4_1_1_replay.html#a2fba59e18ac28fa1c021aa508cf3e2b8" title="px4::Replay::setUserParams" alt="" coords="761,761,952,788"/>
-<area shape="rect" id="node46" href="$de/dec/classpx4_1_1_replay.html#a1ee539b3c1fef8a47d5446820a751d90" title="px4::Replay::readFlagBits" alt="" coords="770,711,943,737"/>
-<area shape="rect" id="node47" href="$de/dec/classpx4_1_1_replay.html#af1136de2dd40d4772b7dc887379793eb" title="file parsing methods. They return false, when further parsing should be aborted. " alt="" coords="773,660,940,687"/>
-<area shape="rect" id="node50" href="$d9/da5/param_8c.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1093,761,1183,788"/>
+<area shape="rect" id="node2" href="$de/dec/classpx4_1_1_replay.html#a8d9c63a915c1accbbb7124ce894a1f0f" title="handle delay until topic can be published. " alt="" coords="1053,258,1223,300"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1304,266,1429,292"/>
+<area shape="rect" id="node4" href="$de/dec/classpx4_1_1_replay.html#ac3a160784f36f75b2afbe1ae462e8ce8" title="handle the publication of a topic update " alt="" coords="1053,846,1223,888"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="215,692,336,719"/>
+<area shape="rect" id="node23" href="$de/dec/classpx4_1_1_replay.html#a2da8be3cba2cd599137f16ccbcaddcab" title="Find next data message for this subscription, starting with the stored file offset. " alt="" coords="172,254,379,280"/>
+<area shape="rect" id="node24" href="$de/dec/classpx4_1_1_replay.html#abd544f3f376b854795c5202a7c5cc98b" title="px4::Replay::readAndAddSubscription" alt="" coords="427,203,669,230"/>
+<area shape="rect" id="node32" href="$de/dec/classpx4_1_1_replay.html#a81e01008be004724a9da12bcce9cd164" title="read a topic from the file (offset given by the subscription) into _read_buffer " alt="" coords="1045,345,1231,386"/>
+<area shape="rect" id="node33" href="$de/dec/classpx4_1_1_replay.html#aa513e43ef58a6016fcb428d8927dbaf4" title="called when entering the main replay loop " alt="" coords="175,1072,376,1099"/>
+<area shape="rect" id="node34" href="$de/dec/classpx4_1_1_replay.html#a2363ea3ae290389e253501c493533a59" title="called when exiting the main replay loop " alt="" coords="179,1123,372,1150"/>
+<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#a1c2ecd4919751835265681c212badaf4" title="orb_unadvertise" alt="" coords="1081,1022,1195,1048"/>
+<area shape="rect" id="node38" href="$de/dec/classpx4_1_1_replay.html#a2cd5829985993453bf2a7ff8864cb717" title="Read and handle additional messages starting at current file position, while position &lt; end_position..." alt="" coords="181,1174,370,1216"/>
+<area shape="rect" id="node44" href="$de/dec/classpx4_1_1_replay.html#abb38a2fcb88d10634de190eeca5b3909" title="Read the file header and definitions sections. " alt="" coords="182,1257,369,1298"/>
+<area shape="rect" id="node5" href="$de/dec/classpx4_1_1_replay.html#ae6cd9533bdb7f030a553f75d719399a3" title="publish an orb topic " alt="" coords="1280,854,1453,880"/>
+<area shape="rect" id="node6" href="$da/d7c/classpx4_1_1_replay_1_1_compat_base.html#a0c6290466e675e453df6a70c13d40bac" title="apply compatibility to a topic " alt="" coords="1520,930,1696,972"/>
+<area shape="rect" id="node7" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="1558,828,1658,855"/>
+<area shape="rect" id="node10" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="1541,879,1675,906"/>
+<area shape="rect" id="node11" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1564,778,1652,804"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1763,872,1905,913"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1953,872,2096,913"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="499,566,597,592"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="507,616,589,643"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="497,667,599,694"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="497,718,599,744"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="504,768,592,795"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="509,819,587,846"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="507,870,589,896"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="465,920,631,947"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="517,414,579,440"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="467,515,629,542"/>
+<area shape="rect" id="node25" href="$d4/d37/classpx4_1_1_replay_1_1_compat_sensor_combined_dt_type.html#a4761b853ef04080ed3f5edd58d97e6e0" title="px4::Replay::CompatSensor\lCombinedDtType::CompatSensorCombined\lDtType" alt="" coords="717,115,996,171"/>
+<area shape="rect" id="node26" href="$de/dec/classpx4_1_1_replay.html#a876e88dc1714a627002fa0899bc2c709" title="Find the offset &amp; field size in bytes for a given field name. " alt="" coords="764,195,949,222"/>
+<area shape="rect" id="node28" href="$de/dec/classpx4_1_1_replay.html#a6028297289426483caac32fcce09cc52" title="px4::Replay::findTopic" alt="" coords="780,64,933,91"/>
+<area shape="rect" id="node31" href="$de/dec/classpx4_1_1_replay.html#a3228ae048b7cabf6950b05cf692f13ef" title="called when a new subscription is added " alt="" coords="763,246,950,288"/>
+<area shape="rect" id="node27" href="$de/dec/classpx4_1_1_replay.html#a5f0fc035f733386b7f2702b8db5e214a" title="get the size of a type that can be an array " alt="" coords="1044,195,1232,222"/>
+<area shape="rect" id="node29" href="$d8/d9f/u_o_r_b_topics_8h.html#a1457ee2166d29f0fd6148b5ec63cf32c" title="orb_get_topics" alt="" coords="1085,64,1191,91"/>
+<area shape="rect" id="node30" href="$d8/d9f/u_o_r_b_topics_8h.html#a242e4babf1597f56989322220bd4e2f8" title="orb_topics_count" alt="" coords="1077,115,1199,142"/>
+<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="1295,985,1438,1026"/>
+<area shape="rect" id="node37" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1501,996,1715,1023"/>
+<area shape="rect" id="node39" href="$de/dec/classpx4_1_1_replay.html#a73f66f6168106ebcb2cdc86a5ef8c5fc" title="px4::Replay::readAndApply\lParameter" alt="" coords="766,1166,947,1208"/>
+<area shape="rect" id="node43" href="$de/dec/classpx4_1_1_replay.html#ae5e97846b04bc764c9d656ddb87a37d6" title="px4::Replay::readDropout" alt="" coords="463,1182,633,1208"/>
+<area shape="rect" id="node40" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="1095,1178,1181,1204"/>
+<area shape="rect" id="node41" href="$d5/d33/param_8h.html#a41afda73b490911d29d6eb7c4e89a58d" title="Obtain the name of a parameter. " alt="" coords="1089,1230,1187,1256"/>
+<area shape="rect" id="node42" href="$d5/d33/param_8h.html#a26cb63b426af831903dcb1193002cf48" title="Set the value of a parameter. " alt="" coords="1097,1282,1179,1308"/>
+<area shape="rect" id="node45" href="$de/dec/classpx4_1_1_replay.html#a2fd6a067b58095d5ae857054b38f11b3" title="Read definitions section: check formats, apply parameters and store the start of the data section..." alt="" coords="444,1283,652,1310"/>
+<area shape="rect" id="node48" href="$de/dec/classpx4_1_1_replay.html#a2eaa8f3af8a9c4dcb2f3a4f424e72b51" title="px4::Replay::readFileHeader" alt="" coords="454,1232,642,1259"/>
+<area shape="rect" id="node49" href="$de/dec/classpx4_1_1_replay.html#a2fba59e18ac28fa1c021aa508cf3e2b8" title="px4::Replay::setUserParams" alt="" coords="761,1334,952,1360"/>
+<area shape="rect" id="node46" href="$de/dec/classpx4_1_1_replay.html#a1ee539b3c1fef8a47d5446820a751d90" title="px4::Replay::readFlagBits" alt="" coords="770,1283,943,1310"/>
+<area shape="rect" id="node47" href="$de/dec/classpx4_1_1_replay.html#af1136de2dd40d4772b7dc887379793eb" title="file parsing methods. They return false, when further parsing should be aborted. " alt="" coords="773,1232,940,1259"/>
+<area shape="rect" id="node50" href="$d5/d33/param_8h.html#a67c031ecddf3189149d20d7ef6295748" title="Obtain the type of a parameter. " alt="" coords="1093,1334,1183,1360"/>
 </map>

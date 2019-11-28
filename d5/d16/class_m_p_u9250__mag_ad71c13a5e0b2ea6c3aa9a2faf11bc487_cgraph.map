@@ -1,7 +1,8 @@
 <map id="MPU9250_mag::read_reg" name="MPU9250_mag::read_reg">
-<area shape="rect" id="node2" href="$d5/d16/class_m_p_u9250__mag.html#ae46a0f0911a434547ce139050e0e245e" title="MPU9250_mag::passthrough_read" alt="" coords="224,81,447,108"/>
-<area shape="rect" id="node3" href="$d5/d16/class_m_p_u9250__mag.html#af6d0217b27c0a1b0be69979fe77e0e30" title="MPU9250_mag::read_block" alt="" coords="511,5,694,32"/>
-<area shape="rect" id="node4" href="$d5/d16/class_m_p_u9250__mag.html#adea1751a0228dde6dbf8dcec6a3caa9c" title="MPU9250_mag::set_passthrough" alt="" coords="495,56,711,83"/>
-<area shape="rect" id="node5" href="$df/dd9/class_m_p_u9250.html#ad1709c24cbe9e442c6f097c855b9bbb8" title="Write a register in the mpu. " alt="" coords="759,81,900,108"/>
-<area shape="rect" id="node6" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="573,157,633,184"/>
+<area shape="rect" id="node2" href="$d5/d16/class_m_p_u9250__mag.html#ae46a0f0911a434547ce139050e0e245e" title="MPU9250_mag::passthrough_read" alt="" coords="224,56,447,83"/>
+<area shape="rect" id="node4" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="759,107,901,133"/>
+<area shape="rect" id="node3" href="$d5/d16/class_m_p_u9250__mag.html#af6d0217b27c0a1b0be69979fe77e0e30" title="MPU9250_mag::read_block" alt="" coords="511,81,694,108"/>
+<area shape="rect" id="node5" href="$d5/d16/class_m_p_u9250__mag.html#adea1751a0228dde6dbf8dcec6a3caa9c" title="MPU9250_mag::set_passthrough" alt="" coords="495,31,711,57"/>
+<area shape="rect" id="node6" href="$df/dd9/class_m_p_u9250.html#ad1709c24cbe9e442c6f097c855b9bbb8" title="Write a register in the mpu. " alt="" coords="759,5,901,32"/>
+<area shape="rect" id="node7" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="949,5,1095,32"/>
 </map>

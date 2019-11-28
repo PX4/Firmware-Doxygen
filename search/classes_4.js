@@ -1,19 +1,19 @@
 var searchData=
 [
-  ['data_5fs',['data_s',['../dc/d4b/structbmp280_1_1data__s.html',1,'bmp280']]],
+  ['data_5fs',['data_s',['../dc/d4b/structbmp280_1_1data__s.html',1,'bmp280::data_s'],['../d1/d01/structdata__s.html',1,'data_s']]],
   ['datalinkloss',['DataLinkLoss',['../d9/d3a/class_data_link_loss.html',1,'']]],
   ['dataman_5fcompat_5fs',['dataman_compat_s',['../d0/d3c/structdataman__compat__s.html',1,'']]],
+  ['datatype',['DataType',['../d5/d5b/unionuavcan__kinetis_1_1flexcan_1_1_data_type.html',1,'uavcan_kinetis::flexcan']]],
   ['datavalidator',['DataValidator',['../d5/d70/class_data_validator.html',1,'']]],
   ['datavalidatorgroup',['DataValidatorGroup',['../d3/d4d/class_data_validator_group.html',1,'']]],
   ['dcm',['Dcm',['../d4/d11/classmatrix_1_1_dcm.html',1,'matrix']]],
   ['dcm_3c_20float_20_3e',['Dcm&lt; float &gt;',['../d4/d11/classmatrix_1_1_dcm.html',1,'matrix']]],
+  ['debug_5farray_5fs',['debug_array_s',['../de/dda/structdebug__array__s.html',1,'']]],
   ['debug_5fkey_5fvalue_5fs',['debug_key_value_s',['../d3/d69/structdebug__key__value__s.html',1,'']]],
   ['debug_5fvalue_5fs',['debug_value_s',['../d1/dcf/structdebug__value__s.html',1,'']]],
   ['debug_5fvect_5fs',['debug_vect_s',['../de/d18/structdebug__vect__s.html',1,'']]],
-  ['demooffboardattitudesetpoints',['DemoOffboardAttitudeSetpoints',['../da/df6/class_demo_offboard_attitude_setpoints.html',1,'']]],
-  ['demooffboardpositionsetpoints',['DemoOffboardPositionSetpoints',['../d7/d4b/class_demo_offboard_position_setpoints.html',1,'']]],
   ['devcommon',['DevCommon',['../d2/d22/class_dev_common.html',1,'']]],
-  ['device',['Device',['../dd/dd3/classdevice_1_1_device.html',1,'device::Device'],['../de/d0b/structdevice_1_1device.html',1,'device::device']]],
+  ['device',['Device',['../dd/dd3/classdevice_1_1_device.html',1,'device']]],
   ['deviceid',['DeviceId',['../df/d98/uniondevice_1_1_device_1_1_device_id.html',1,'device::Device']]],
   ['devicemaster',['DeviceMaster',['../dd/d9d/classu_o_r_b_1_1_device_master.html',1,'uORB']]],
   ['devicenode',['DeviceNode',['../d0/d18/classu_o_r_b_1_1_device_node.html',1,'uORB']]],
@@ -37,5 +37,8 @@ var searchData=
   ['dm_5foperations_5ft',['dm_operations_t',['../dd/d56/structdm__operations__t.html',1,'']]],
   ['downloadtestcase',['DownloadTestCase',['../d1/d55/struct_mavlink_ftp_test_1_1_download_test_case.html',1,'MavlinkFtpTest']]],
   ['dragsample',['dragSample',['../d5/d1e/structestimator_1_1drag_sample.html',1,'estimator']]],
-  ['dsm_5fdecode_5ft',['dsm_decode_t',['../d6/dc8/structdsm__decode__t.html',1,'']]]
+  ['dshotoutput',['DShotOutput',['../d9/d95/class_d_shot_output.html',1,'']]],
+  ['dshottelemetry',['DShotTelemetry',['../d0/dc3/class_d_shot_telemetry.html',1,'']]],
+  ['dsm_5fdecode_5ft',['dsm_decode_t',['../d6/dc8/structdsm__decode__t.html',1,'']]],
+  ['dual',['Dual',['../de/d29/structmatrix_1_1_dual.html',1,'matrix']]]
 ];

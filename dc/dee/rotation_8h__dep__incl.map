@@ -1,51 +1,51 @@
 <map id="src/lib/conversion/rotation.h" name="src/lib/conversion/rotation.h">
-<area shape="rect" id="node2" href="$dd/db0/adis16448_8cpp.html" title="Driver for the Analog device ADIS16448 connected via SPI. " alt="" coords="56,102,227,143"/>
-<area shape="rect" id="node3" href="$d7/d43/_a_d_i_s16477_8hpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.hpp" alt="" coords="251,102,421,143"/>
-<area shape="rect" id="node7" href="$dd/d64/_b_m_i055_8hpp.html" title="src/drivers/imu/bmi055\l/BMI055.hpp" alt="" coords="535,102,689,143"/>
-<area shape="rect" id="node8" href="$de/dbd/_b_m_i055__accel_8hpp.html" title="src/drivers/imu/bmi055\l/BMI055_accel.hpp" alt="" coords="445,199,600,240"/>
-<area shape="rect" id="node11" href="$dc/d1f/_b_m_i055__gyro_8hpp.html" title="src/drivers/imu/bmi055\l/BMI055_gyro.hpp" alt="" coords="624,199,779,240"/>
-<area shape="rect" id="node13" href="$d5/d87/bmi160_8hpp.html" title="src/drivers/imu/bmi160\l/bmi160.hpp" alt="" coords="764,102,919,143"/>
-<area shape="rect" id="node18" href="$d7/d97/fxas21002c_8cpp.html" title="Driver for the NXP FXAS21002C 3&#45;Axis Digital Angular Rate Gyroscope connected via SPI..." alt="" coords="943,102,1121,143"/>
-<area shape="rect" id="node19" href="$df/dc2/fxos8701cq_8cpp.html" title="Driver for the NXP FXOS8701CQ 6&#45;axis sensor with integrated linear accelerometer and magnetometer con..." alt="" coords="1145,102,1324,143"/>
-<area shape="rect" id="node20" href="$d3/dca/l3gd20_8cpp.html" title="Driver for the ST L3GD20 MEMS and L3GD20H mems gyros connected via SPI. " alt="" coords="1349,102,1499,143"/>
-<area shape="rect" id="node21" href="$d7/daa/lsm303d_8cpp.html" title="Driver for the ST LSM303D MEMS accelerometer / magnetometer connected via SPI. " alt="" coords="1523,102,1685,143"/>
-<area shape="rect" id="node22" href="$d7/d50/mpu6000_8cpp.html" title="Driver for the Invensense MPU6000, MPU6050, ICM20608, and ICM20602 connected via SPI or I2C..." alt="" coords="1709,102,1875,143"/>
-<area shape="rect" id="node23" href="$d4/deb/drivers_2imu_2mpu9250_2gyro_8cpp.html" title="src/drivers/imu/mpu9250\l/gyro.cpp" alt="" coords="1527,199,1692,240"/>
-<area shape="rect" id="node24" href="$db/d35/mpu9250_8h.html" title="src/drivers/imu/mpu9250\l/mpu9250.h" alt="" coords="2000,102,2165,143"/>
-<area shape="rect" id="node25" href="$d1/dc0/drivers_2imu_2mpu9250_2mag_8cpp.html" title="src/drivers/imu/mpu9250\l/mag.cpp" alt="" coords="1716,199,1881,240"/>
-<area shape="rect" id="node27" href="$d3/d14/imu_2mpu9250_2main_8cpp.html" title="src/drivers/imu/mpu9250\l/main.cpp" alt="" coords="2284,199,2449,240"/>
-<area shape="rect" id="node28" href="$d8/d71/mpu9250_8cpp.html" title="Driver for the Invensense MPU9250 connected via I2C or SPI. " alt="" coords="2473,199,2639,240"/>
-<area shape="rect" id="node30" href="$d5/d05/bmm150_8hpp.html" title="src/drivers/magnetometer\l/bmm150/bmm150.hpp" alt="" coords="2291,102,2461,143"/>
-<area shape="rect" id="node31" href="$d9/de0/hmc5883_8cpp.html" title="Driver for the HMC5883 / HMC5983 magnetometer connected via I2C or SPI. " alt="" coords="2485,102,2656,143"/>
-<area shape="rect" id="node32" href="$d3/dbd/ist8310_8cpp.html" title="Driver for the IST8310 magnetometer connected via I2C. " alt="" coords="2680,102,2851,143"/>
-<area shape="rect" id="node33" href="$dd/db3/lis3mdl_8h.html" title="Shared defines for the LIS3MDL driver. " alt="" coords="2875,102,3045,143"/>
-<area shape="rect" id="node34" href="$da/d2b/_l_s_m303_a_g_r_8hpp.html" title="src/drivers/magnetometer\l/lsm303agr/LSM303AGR.hpp" alt="" coords="3069,102,3261,143"/>
-<area shape="rect" id="node35" href="$d0/d55/pmw3901_8cpp.html" title="src/drivers/pmw3901\l/pmw3901.cpp" alt="" coords="3286,102,3429,143"/>
-<area shape="rect" id="node36" href="$db/d0e/px4flow_8cpp.html" title="src/drivers/px4flow\l/px4flow.cpp" alt="" coords="3453,102,3585,143"/>
-<area shape="rect" id="node37" href="$da/d0e/rotation_8cpp.html" title="Vector rotation library. " alt="" coords="3609,102,3733,143"/>
-<area shape="rect" id="node38" href="$dd/dcd/accelerometer__calibration_8cpp.html" title="Implementation of accelerometer calibration. " alt="" coords="3757,102,3955,143"/>
-<area shape="rect" id="node39" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="3979,102,4128,143"/>
-<area shape="rect" id="node40" href="$d4/d98/mc__att__control__main_8cpp.html" title="Multicopter attitude controller. " alt="" coords="4153,95,4311,151"/>
-<area shape="rect" id="node41" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="4335,102,4478,143"/>
-<area shape="rect" id="node42" href="$d3/d2f/voted__sensors__update_8cpp.html" title="src/modules/sensors\l/voted_sensors_update.cpp" alt="" coords="4502,102,4685,143"/>
-<area shape="rect" id="node43" href="$de/d76/accelsim_8cpp.html" title="Driver for a simulated accelerometer / magnetometer. " alt="" coords="4709,102,4867,143"/>
-<area shape="rect" id="node44" href="$d0/d91/gyrosim_8cpp.html" title="Driver for the simulated gyro. " alt="" coords="4891,102,5042,143"/>
-<area shape="rect" id="node45" href="$dd/d94/simulator__mavlink_8cpp.html" title="src/modules/simulator\l/simulator_mavlink.cpp" alt="" coords="5066,102,5222,143"/>
-<area shape="rect" id="node46" href="$d9/db4/df__ak8963__wrapper_8cpp.html" title="Lightweight driver to access the AK8963 of the DriverFramework. " alt="" coords="5246,95,5429,151"/>
-<area shape="rect" id="node47" href="$dc/d89/df__hmc5883__wrapper_8cpp.html" title="Lightweight driver to access the HMC5883 of the DriverFramework. " alt="" coords="5453,95,5681,151"/>
-<area shape="rect" id="node48" href="$d4/dd8/df__lsm9ds1__wrapper_8cpp.html" title="Lightweight driver to access the MPU9250 of the DriverFramework. " alt="" coords="5705,95,5929,151"/>
-<area shape="rect" id="node49" href="$df/d1a/df__mpu6050__wrapper_8cpp.html" title="Lightweight driver to access the MPU6050 of the DriverFramework. " alt="" coords="5954,95,6182,151"/>
-<area shape="rect" id="node50" href="$da/d7c/df__mpu9250__wrapper_8cpp.html" title="Lightweight driver to access the MPU9250 of the DriverFramework. " alt="" coords="6206,95,6434,151"/>
-<area shape="rect" id="node4" href="$d9/d08/_a_d_i_s16477_8cpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.cpp" alt="" coords="51,288,221,329"/>
-<area shape="rect" id="node5" href="$dc/dab/_a_d_i_s16477__gyro_8hpp.html" title="src/drivers/imu/adis16477\l/ADIS16477_gyro.hpp" alt="" coords="5,199,176,240"/>
-<area shape="rect" id="node6" href="$db/d95/_a_d_i_s16477__main_8cpp.html" title="src/drivers/imu/adis16477\l/ADIS16477_main.cpp" alt="" coords="251,199,421,240"/>
-<area shape="rect" id="node9" href="$de/d90/_b_m_i055__accel_8cpp.html" title="src/drivers/imu/bmi055\l/BMI055_accel.cpp" alt="" coords="279,288,433,329"/>
-<area shape="rect" id="node10" href="$d1/db0/bmi055__main_8cpp.html" title="src/drivers/imu/bmi055\l/bmi055_main.cpp" alt="" coords="457,288,612,329"/>
-<area shape="rect" id="node12" href="$d7/d56/_b_m_i055__gyro_8cpp.html" title="src/drivers/imu/bmi055\l/BMI055_gyro.cpp" alt="" coords="636,288,791,329"/>
-<area shape="rect" id="node14" href="$db/dc7/bmi160_8cpp.html" title="src/drivers/imu/bmi160\l/bmi160.cpp" alt="" coords="840,288,995,329"/>
-<area shape="rect" id="node15" href="$dd/df4/bmi160__gyro_8hpp.html" title="src/drivers/imu/bmi160\l/bmi160_gyro.hpp" alt="" coords="853,199,1008,240"/>
-<area shape="rect" id="node16" href="$d7/de1/bmi160__gyro_8cpp.html" title="src/drivers/imu/bmi160\l/bmi160_gyro.cpp" alt="" coords="1088,288,1243,329"/>
-<area shape="rect" id="node17" href="$db/d05/bmi160__main_8cpp.html" title="src/drivers/imu/bmi160\l/bmi160_main.cpp" alt="" coords="1032,199,1187,240"/>
-<area shape="rect" id="node26" href="$df/d74/mag__i2c_8cpp.html" title="I2C interface for AK8963. " alt="" coords="2095,199,2260,240"/>
-<area shape="rect" id="node29" href="$dc/df6/mpu9250__i2c_8cpp.html" title="I2C interface for MPU9250. " alt="" coords="1905,199,2071,240"/>
+<area shape="rect" id="node2" href="$d9/db4/df__ak8963__wrapper_8cpp.html" title="Lightweight driver to access the AK8963 of the DriverFramework. " alt="" coords="5,95,193,165"/>
+<area shape="rect" id="node3" href="$dc/d89/df__hmc5883__wrapper_8cpp.html" title="Lightweight driver to access the HMC5883 of the DriverFramework. " alt="" coords="187,213,398,284"/>
+<area shape="rect" id="node4" href="$d4/dd8/df__lsm9ds1__wrapper_8cpp.html" title="Lightweight driver to access the MPU9250 of the DriverFramework. " alt="" coords="463,95,666,165"/>
+<area shape="rect" id="node5" href="$df/d1a/df__mpu6050__wrapper_8cpp.html" title="Lightweight driver to access the MPU6050 of the DriverFramework. " alt="" coords="690,95,901,165"/>
+<area shape="rect" id="node6" href="$da/d7c/df__mpu9250__wrapper_8cpp.html" title="Lightweight driver to access the MPU9250 of the DriverFramework. " alt="" coords="925,95,1135,165"/>
+<area shape="rect" id="node7" href="$d6/dea/_a_d_i_s16448_8h.html" title="src/drivers/imu/adis16448\l/ADIS16448.h" alt="" coords="1202,228,1373,269"/>
+<area shape="rect" id="node10" href="$d7/d43/_a_d_i_s16477_8hpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.hpp" alt="" coords="1581,228,1751,269"/>
+<area shape="rect" id="node13" href="$d4/d35/_a_d_i_s16497_8hpp.html" title="src/drivers/imu/adis16497\l/ADIS16497.hpp" alt="" coords="1775,228,1946,269"/>
+<area shape="rect" id="node16" href="$d1/d11/_b_m_i088_8hpp.html" title="src/drivers/imu/bmi088\l/BMI088.hpp" alt="" coords="2311,109,2466,151"/>
+<area shape="rect" id="node17" href="$d4/d08/_b_m_i088__accel_8hpp.html" title="src/drivers/imu/bmi088\l/BMI088_accel.hpp" alt="" coords="2693,228,2847,269"/>
+<area shape="rect" id="node19" href="$d5/d87/bmi160_8hpp.html" title="src/drivers/imu/bmi160\l/bmi160.hpp" alt="" coords="2159,228,2314,269"/>
+<area shape="rect" id="node20" href="$d2/d5c/icm20948_8cpp.html" title="Driver for the Invensense ICM20948 connected via I2C or SPI. " alt="" coords="2541,109,2709,151"/>
+<area shape="rect" id="node21" href="$d2/d25/icm20948__main_8cpp.html" title="src/drivers/imu/icm20948\l/icm20948_main.cpp" alt="" coords="2733,109,2901,151"/>
+<area shape="rect" id="node22" href="$d3/dca/l3gd20_8cpp.html" title="Driver for the ST L3GD20 MEMS and L3GD20H mems gyros connected via SPI. " alt="" coords="2339,228,2489,269"/>
+<area shape="rect" id="node23" href="$d1/df6/_m_p_u6000_8hpp.html" title="src/drivers/imu/mpu6000\l/MPU6000.hpp" alt="" coords="1970,228,2135,269"/>
+<area shape="rect" id="node24" href="$db/d6a/ak09916_8cpp.html" title="src/drivers/magnetometer\l/ak09916/ak09916.cpp" alt="" coords="2925,109,3095,151"/>
+<area shape="rect" id="node25" href="$d5/d05/bmm150_8hpp.html" title="src/drivers/magnetometer\l/bmm150/bmm150.hpp" alt="" coords="3119,109,3290,151"/>
+<area shape="rect" id="node26" href="$d3/d8d/_h_m_c5883_8hpp.html" title="src/drivers/magnetometer\l/hmc5883/HMC5883.hpp" alt="" coords="269,109,439,151"/>
+<area shape="rect" id="node27" href="$d3/dbd/ist8310_8cpp.html" title="Driver for the IST8310 magnetometer connected via I2C. " alt="" coords="3314,109,3485,151"/>
+<area shape="rect" id="node28" href="$dd/db3/lis3mdl_8h.html" title="Shared defines for the LIS3MDL driver. " alt="" coords="3509,109,3679,151"/>
+<area shape="rect" id="node29" href="$da/d2b/_l_s_m303_a_g_r_8hpp.html" title="src/drivers/magnetometer\l/lsm303agr/LSM303AGR.hpp" alt="" coords="3703,109,3895,151"/>
+<area shape="rect" id="node30" href="$d8/d59/qmc5883_8cpp.html" title="Driver for the QMC5883 magnetometer connected via I2C or SPI. " alt="" coords="3919,109,4090,151"/>
+<area shape="rect" id="node31" href="$df/d7d/rm3100_8h.html" title="Shared defines for the RM3100 driver. " alt="" coords="4114,109,4285,151"/>
+<area shape="rect" id="node32" href="$d7/d82/_p_a_w3902_8hpp.html" title="src/drivers/optical\l_flow/paw3902/PAW3902.hpp" alt="" coords="4309,109,4506,151"/>
+<area shape="rect" id="node33" href="$d5/d3b/_p_m_w3901_8hpp.html" title="src/drivers/optical\l_flow/pmw3901/PMW3901.hpp" alt="" coords="4530,109,4733,151"/>
+<area shape="rect" id="node34" href="$db/d0e/px4flow_8cpp.html" title="src/drivers/optical\l_flow/px4flow/px4flow.cpp" alt="" coords="4757,109,4933,151"/>
+<area shape="rect" id="node35" href="$da/d0e/rotation_8cpp.html" title="Vector rotation library. " alt="" coords="4957,109,5081,151"/>
+<area shape="rect" id="node36" href="$d2/d54/_p_x4_accelerometer_8hpp.html" title="src/lib/drivers/accelerometer\l/PX4Accelerometer.hpp" alt="" coords="1709,109,1895,151"/>
+<area shape="rect" id="node37" href="$d8/d9f/sih_8hpp.html" title="src/modules/sih/sih.hpp" alt="" coords="1397,235,1557,262"/>
+<area shape="rect" id="node38" href="$d2/d0c/_p_x4_barometer_8hpp.html" title="src/lib/drivers/barometer\l/PX4Barometer.hpp" alt="" coords="1421,109,1583,151"/>
+<area shape="rect" id="node39" href="$df/dc3/_p_x4_gyroscope_8hpp.html" title="src/lib/drivers/gyroscope\l/PX4Gyroscope.hpp" alt="" coords="1971,109,2135,151"/>
+<area shape="rect" id="node40" href="$d3/d07/_p_x4_magnetometer_8hpp.html" title="src/lib/drivers/magnetometer\l/PX4Magnetometer.hpp" alt="" coords="1210,109,1397,151"/>
+<area shape="rect" id="node41" href="$dc/d32/_p_x4_rangefinder_8hpp.html" title="src/lib/drivers/rangefinder\l/PX4Rangefinder.hpp" alt="" coords="5106,109,5274,151"/>
+<area shape="rect" id="node42" href="$d6/d9d/battery__status_8cpp.html" title="src/modules/battery\l_status/battery_status.cpp" alt="" coords="5299,109,5476,151"/>
+<area shape="rect" id="node43" href="$dd/dcd/accelerometer__calibration_8cpp.html" title="Implementation of accelerometer calibration. " alt="" coords="5500,109,5699,151"/>
+<area shape="rect" id="node44" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="5723,109,5886,151"/>
+<area shape="rect" id="node45" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="5910,109,6059,151"/>
+<area shape="rect" id="node46" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="6147,228,6289,269"/>
+<area shape="rect" id="node47" href="$d2/d74/_vehicle_acceleration_8hpp.html" title="src/modules/sensors\l/vehicle_acceleration\l/VehicleAcceleration.hpp" alt="" coords="6135,102,6301,158"/>
+<area shape="rect" id="node48" href="$d7/ddc/_vehicle_angular_velocity_8hpp.html" title="src/modules/sensors\l/vehicle_angular_velocity\l/VehicleAngularVelocity.hpp" alt="" coords="6325,102,6511,158"/>
+<area shape="rect" id="node49" href="$d3/d2f/voted__sensors__update_8cpp.html" title="src/modules/sensors\l/voted_sensors_update.cpp" alt="" coords="6535,109,6717,151"/>
+<area shape="rect" id="node50" href="$dd/d94/simulator__mavlink_8cpp.html" title="src/modules/simulator\l/simulator_mavlink.cpp" alt="" coords="6741,109,6897,151"/>
+<area shape="rect" id="node8" href="$dc/d86/_a_d_i_s16448_8cpp.html" title="Driver for the Analog device ADIS16448 connected via SPI. " alt="" coords="1002,332,1173,373"/>
+<area shape="rect" id="node9" href="$dd/d0b/adis16448__main_8cpp.html" title="src/drivers/imu/adis16448\l/adis16448_main.cpp" alt="" coords="1197,332,1367,373"/>
+<area shape="rect" id="node11" href="$d9/d08/_a_d_i_s16477_8cpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.cpp" alt="" coords="1391,332,1562,373"/>
+<area shape="rect" id="node12" href="$de/df3/adis16477__main_8cpp.html" title="src/drivers/imu/adis16477\l/adis16477_main.cpp" alt="" coords="1586,332,1757,373"/>
+<area shape="rect" id="node14" href="$d7/dd7/_a_d_i_s16497_8cpp.html" title="src/drivers/imu/adis16497\l/ADIS16497.cpp" alt="" coords="1781,332,1951,373"/>
+<area shape="rect" id="node15" href="$d8/dbb/adis16497__main_8cpp.html" title="src/drivers/imu/adis16497\l/adis16497_main.cpp" alt="" coords="1975,332,2146,373"/>
+<area shape="rect" id="node18" href="$d9/d64/_b_m_i088__gyro_8hpp.html" title="src/drivers/imu/bmi088\l/BMI088_gyro.hpp" alt="" coords="2514,228,2669,269"/>
 </map>

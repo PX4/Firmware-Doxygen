@@ -1,23 +1,26 @@
 <map id="PrecLand::check_state_conditions" name="PrecLand::check_state_conditions">
 <area shape="rect" id="node2" href="$dd/dd4/class_prec_land.html#aed7d06d35364de7f8451ce37192b6b51" title="PrecLand::run_state\l_descend_above_target" alt="" coords="440,42,600,83"/>
-<area shape="rect" id="node5" href="$dd/dd4/class_prec_land.html#aadd0dbc9029a9b6b35e46b1a44acc8bf" title="PrecLand::run_state\l_horizontal_approach" alt="" coords="447,163,593,205"/>
-<area shape="rect" id="node6" href="$dd/dd4/class_prec_land.html#a78a5ed6ad94d9b8ba0b3698eb63f73f4" title="PrecLand::run_state\l_search" alt="" coords="451,299,589,341"/>
+<area shape="rect" id="node5" href="$dd/dd4/class_prec_land.html#aadd0dbc9029a9b6b35e46b1a44acc8bf" title="PrecLand::run_state\l_horizontal_approach" alt="" coords="447,166,593,207"/>
+<area shape="rect" id="node6" href="$dd/dd4/class_prec_land.html#a78a5ed6ad94d9b8ba0b3698eb63f73f4" title="PrecLand::run_state\l_search" alt="" coords="451,301,589,342"/>
 <area shape="rect" id="node7" href="$dd/dd4/class_prec_land.html#a31b4cf17fc9f0f030068f6ac5b93cb76" title="PrecLand::switch_to\l_state_descend_above\l_target" alt="" coords="222,220,378,276"/>
 <area shape="rect" id="node8" href="$dd/dd4/class_prec_land.html#a14efd8b70571f741511f1a334ab9a52b" title="PrecLand::switch_to\l_state_final_approach" alt="" coords="225,38,375,79"/>
-<area shape="rect" id="node9" href="$dd/dd4/class_prec_land.html#aaa6cf840e6b40a8b1088a8d26b954bb9" title="PrecLand::switch_to\l_state_horizontal_approach" alt="" coords="209,299,391,341"/>
+<area shape="rect" id="node9" href="$dd/dd4/class_prec_land.html#aaa6cf840e6b40a8b1088a8d26b954bb9" title="PrecLand::switch_to\l_state_horizontal_approach" alt="" coords="209,301,391,342"/>
 <area shape="rect" id="node11" href="$dd/dd4/class_prec_land.html#a1d8b12e28ab37195e9510c67764f5edb" title="PrecLand::switch_to\l_state_start" alt="" coords="229,103,371,145"/>
-<area shape="rect" id="node3" href="$dd/dd4/class_prec_land.html#a0f4d8c775373884e2d3280bf8de29558" title="This function is called while the mode is active. " alt="" coords="651,196,793,223"/>
-<area shape="rect" id="node4" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="861,196,991,223"/>
-<area shape="rect" id="node10" href="$dd/dd4/class_prec_land.html#aa5af8e174599c8082909d8cce8801dbe" title="PrecLand::run_state\l_start" alt="" coords="451,231,589,273"/>
+<area shape="rect" id="node3" href="$dd/dd4/class_prec_land.html#a0f4d8c775373884e2d3280bf8de29558" title="This function is called while the mode is active. " alt="" coords="651,200,793,227"/>
+<area shape="rect" id="node4" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="859,200,989,227"/>
+<area shape="rect" id="node10" href="$dd/dd4/class_prec_land.html#aa5af8e174599c8082909d8cce8801dbe" title="PrecLand::run_state\l_start" alt="" coords="451,233,589,274"/>
 <area shape="rect" id="node12" href="$dd/dd4/class_prec_land.html#adfbacda7064eccf9e0e48ecb6b35e56d" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="439,111,601,137"/>
 <area shape="rect" id="node13" href="$db/dad/class_mission.html#a2f25f09d8e1688237be7a0abb28d542a" title="Set new mission items. " alt="" coords="649,103,795,145"/>
-<area shape="rect" id="node14" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="1057,21,1203,62"/>
-<area shape="rect" id="node16" href="$db/dad/class_mission.html#a3561ffcb7a9229e67b0ff553f4853ea3" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="850,145,1002,172"/>
-<area shape="rect" id="node17" href="$db/dad/class_mission.html#ae9f26d718c3f24b86b1ee8fc19a45c35" title="Mission::set_current\l_offboard_mission_index" alt="" coords="843,79,1009,121"/>
-<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1472,112,1576,139"/>
-<area shape="rect" id="node18" href="$db/dad/class_mission.html#a0d0bfe31ec4e43f1de757a81f2b40598" title="Mission::land_start" alt="" coords="1064,137,1196,164"/>
-<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#a0a39ebe10ae1314fe8378c1d98481160" title="Navigator::start_mission\l_landing" alt="" coords="1251,189,1415,230"/>
-<area shape="rect" id="node20" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="1463,196,1585,223"/>
-<area shape="rect" id="node21" href="$d8/d7e/class_r_t_l.html#a08d3ece18df6bf8f59cbd73c05aceafe" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="1633,171,1765,197"/>
-<area shape="rect" id="node22" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="1644,221,1755,248"/>
+<area shape="rect" id="node14" href="$db/dad/class_mission.html#a33116a4afecc113b67d233f14de287ff" title="Mission::get_landing_alt" alt="" coords="843,32,1005,59"/>
+<area shape="rect" id="node18" href="$db/dad/class_mission.html#a3561ffcb7a9229e67b0ff553f4853ea3" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="848,83,1000,109"/>
+<area shape="rect" id="node19" href="$db/dad/class_mission.html#ae6c818eff59e74f3d610e9ed14b51864" title="Mission::set_current\l_mission_index" alt="" coords="854,134,994,175"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#a8e3be5708b076504322f33b7ef49f8a6" title="Navigator::get_mission\l_landing_alt" alt="" coords="1053,25,1209,66"/>
+<area shape="rect" id="node16" href="$d8/d7e/class_r_t_l.html#afa1df82479ac4da9c9d4f3d14798de22" title="RTL::find_RTL_destination" alt="" coords="1257,32,1436,59"/>
+<area shape="rect" id="node17" href="$d8/d7e/class_r_t_l.html#a70662870a113a01441428953874548e2" title="This function is called while the mode is inactive. " alt="" coords="1485,32,1606,59"/>
+<area shape="rect" id="node20" href="$db/dad/class_mission.html#a0d0bfe31ec4e43f1de757a81f2b40598" title="Mission::land_start" alt="" coords="1065,167,1197,193"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1493,167,1597,193"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a0a39ebe10ae1314fe8378c1d98481160" title="Navigator::start_mission\l_landing" alt="" coords="1265,218,1429,259"/>
+<area shape="rect" id="node23" href="$d8/d7e/class_r_t_l.html#ac93a9b9eced62dcee0c700ee8f5faca7" title="Set the RTL item. " alt="" coords="1484,225,1607,252"/>
+<area shape="rect" id="node24" href="$d8/d7e/class_r_t_l.html#a08d3ece18df6bf8f59cbd73c05aceafe" title="This function is called one time when mode becomes active, pos_sp_triplet must be initialized here..." alt="" coords="1655,200,1787,227"/>
+<area shape="rect" id="node25" href="$d8/d7e/class_r_t_l.html#a897039ae531d95ffd7f953edbc714b88" title="This function is called while the mode is active. " alt="" coords="1665,251,1776,277"/>
 </map>

@@ -1,25 +1,26 @@
 <map id="dsm_guess_format" name="dsm_guess_format">
 <area shape="rect" id="node2" href="$d1/d32/dsm_8h.html#aa204818d98f3d18a83d28682b40da44e" title="dsm_config" alt="" coords="190,208,279,235"/>
-<area shape="rect" id="node14" href="$d3/d37/dsm_8cpp.html#a3a63475bf3d8b4ac19ea396d834312f3" title="Decode the entire dsm frame (all contained channels) " alt="" coords="187,69,283,96"/>
-<area shape="rect" id="node23" href="$d1/d32/dsm_8h.html#a53173d6044974cbf8110ef6b68f2a306" title="dsm_deinit" alt="" coords="192,145,277,172"/>
-<area shape="rect" id="node3" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="541,259,651,285"/>
-<area shape="rect" id="node8" href="$d1/d32/dsm_8h.html#af29689da5d1aff63d07a4d691d2edc44" title="Initialize the DSM receive functionality. " alt="" coords="363,208,434,235"/>
-<area shape="rect" id="node4" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="725,259,903,285"/>
-<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="765,309,863,336"/>
-<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="951,259,1100,285"/>
-<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="1148,259,1335,285"/>
-<area shape="rect" id="node9" href="$d4/d39/class_r_c_input.html#ab2ef0fb044a6760fea5f02a90b0d533c" title="RCInput::init" alt="" coords="548,309,644,336"/>
-<area shape="rect" id="node10" href="$d3/d3c/namespacespektrum__rc.html#adbc95ce3e5c0c68753e572707b0e4105" title="spektrum_rc::task_main" alt="" coords="515,157,677,184"/>
-<area shape="rect" id="node12" href="$d8/d05/px4io_8h.html#adf1ebcaca340f59f4a4c8eba0b6d336a" title="R/C receiver handling. " alt="" coords="979,177,1071,204"/>
-<area shape="rect" id="node11" href="$d3/d3c/namespacespektrum__rc.html#a55e3077ae9bff2c64640679c48a3cd2a" title="spektrum_rc::start" alt="" coords="750,157,878,184"/>
-<area shape="rect" id="node13" href="$dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626" title="user_start" alt="" coords="1201,99,1281,125"/>
-<area shape="rect" id="node15" href="$d1/d32/dsm_8h.html#aba06182cac6bb51cb72e024c26ae036d" title="dsm_parse" alt="" coords="355,56,442,83"/>
-<area shape="rect" id="node16" href="$d1/d32/dsm_8h.html#ac99146e76046163b7175306a0a5e91b3" title="Called periodically to check for input data from the DSM UART. " alt="" coords="555,5,637,32"/>
-<area shape="rect" id="node19" href="$d5/d45/class_r_c_test.html#a92f778e45dea6effb9082846af2a87a0" title="RCTest::dsmTest" alt="" coords="533,56,659,83"/>
-<area shape="rect" id="node17" href="$d2/d2f/controls_8c.html#a84a30a8308775eeff0c27fcd7f3e6cd6" title="dsm_port_input" alt="" coords="759,5,869,32"/>
-<area shape="rect" id="node18" href="$d8/d05/px4io_8h.html#a5406a62b823660ef467d77e1208848b5" title="controls_tick" alt="" coords="977,19,1073,45"/>
-<area shape="rect" id="node20" href="$d5/d45/class_r_c_test.html#a7df2885604a39c0d295e812d8cb6704b" title="RCTest::dsmTest10Ch" alt="" coords="735,56,893,83"/>
-<area shape="rect" id="node22" href="$d5/d45/class_r_c_test.html#a0dac99647ca1da9789e036815e437c01" title="RCTest::dsmTest12Ch" alt="" coords="735,107,893,133"/>
-<area shape="rect" id="node21" href="$d5/d45/class_r_c_test.html#a24dc132b139993401308a4876b9b1afa" title="Override to run your unit tests. " alt="" coords="960,95,1091,121"/>
-<area shape="rect" id="node24" href="$d4/d39/class_r_c_input.html#ac516a8b0b640d2571c283c8e6bf52dd1" title="RCInput::~RCInput" alt="" coords="331,107,467,133"/>
+<area shape="rect" id="node15" href="$d3/d37/dsm_8cpp.html#a3a63475bf3d8b4ac19ea396d834312f3" title="Decode the entire dsm frame (all contained channels) " alt="" coords="187,69,283,96"/>
+<area shape="rect" id="node24" href="$d1/d32/dsm_8h.html#a53173d6044974cbf8110ef6b68f2a306" title="dsm_deinit" alt="" coords="192,132,277,159"/>
+<area shape="rect" id="node3" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="541,208,651,235"/>
+<area shape="rect" id="node9" href="$d1/d32/dsm_8h.html#af29689da5d1aff63d07a4d691d2edc44" title="Initialize the DSM receive functionality. " alt="" coords="363,259,434,285"/>
+<area shape="rect" id="node4" href="$d4/d39/class_r_c_input.html#aa0f747b469407c03b13fa0b70876b328" title="RCInput::cycle_trampoline_init" alt="" coords="725,309,927,336"/>
+<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="737,208,915,235"/>
+<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="777,259,875,285"/>
+<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="975,309,1124,336"/>
+<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="1172,309,1359,336"/>
+<area shape="rect" id="node10" href="$d4/d39/class_r_c_input.html#ab2ef0fb044a6760fea5f02a90b0d533c" title="RCInput::init" alt="" coords="548,259,644,285"/>
+<area shape="rect" id="node11" href="$d3/d3c/namespacespektrum__rc.html#adbc95ce3e5c0c68753e572707b0e4105" title="spektrum_rc::task_main" alt="" coords="515,157,677,184"/>
+<area shape="rect" id="node13" href="$d8/d05/px4io_8h.html#adf1ebcaca340f59f4a4c8eba0b6d336a" title="R/C receiver handling. " alt="" coords="1003,196,1095,223"/>
+<area shape="rect" id="node12" href="$d3/d3c/namespacespektrum__rc.html#a55e3077ae9bff2c64640679c48a3cd2a" title="spektrum_rc::start" alt="" coords="762,157,890,184"/>
+<area shape="rect" id="node14" href="$dd/d87/px4io_8c.html#aab5de16adab7a0da95ed57a9aba3c626" title="user_start" alt="" coords="1225,113,1305,140"/>
+<area shape="rect" id="node16" href="$d1/d32/dsm_8h.html#aba06182cac6bb51cb72e024c26ae036d" title="dsm_parse" alt="" coords="355,56,442,83"/>
+<area shape="rect" id="node17" href="$d1/d32/dsm_8h.html#ac99146e76046163b7175306a0a5e91b3" title="Called periodically to check for input data from the DSM UART. " alt="" coords="555,5,637,32"/>
+<area shape="rect" id="node20" href="$d5/d45/class_r_c_test.html#a92f778e45dea6effb9082846af2a87a0" title="RCTest::dsmTest" alt="" coords="533,56,659,83"/>
+<area shape="rect" id="node18" href="$d2/d2f/controls_8c.html#a84a30a8308775eeff0c27fcd7f3e6cd6" title="dsm_port_input" alt="" coords="771,5,881,32"/>
+<area shape="rect" id="node19" href="$d8/d05/px4io_8h.html#a5406a62b823660ef467d77e1208848b5" title="controls_tick" alt="" coords="1001,19,1097,45"/>
+<area shape="rect" id="node21" href="$d5/d45/class_r_c_test.html#a7df2885604a39c0d295e812d8cb6704b" title="RCTest::dsmTest10Ch" alt="" coords="747,56,905,83"/>
+<area shape="rect" id="node23" href="$d5/d45/class_r_c_test.html#a0dac99647ca1da9789e036815e437c01" title="RCTest::dsmTest12Ch" alt="" coords="747,107,905,133"/>
+<area shape="rect" id="node22" href="$d5/d45/class_r_c_test.html#a152bfd2274a3e8e6472df1602d142ba3" title="Override to run your unit tests. " alt="" coords="984,81,1115,108"/>
+<area shape="rect" id="node25" href="$d4/d39/class_r_c_input.html#ac516a8b0b640d2571c283c8e6bf52dd1" title="RCInput::~RCInput" alt="" coords="331,107,467,133"/>
 </map>

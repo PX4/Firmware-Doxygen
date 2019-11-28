@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['px4_20nodes',['PX4 Nodes',['../md_src_platforms_ros_nodes_README.html',1,'']]]
+  ['stm32_20platform_20driver',['STM32 platform driver',['../dc/d61/md_src_drivers_uavcan_uavcan_drivers_stm32__r_e_a_d_m_e.html',1,'']]]
 ];

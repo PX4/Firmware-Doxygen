@@ -1,0 +1,51 @@
+<map id="matrix::Vector::length" name="matrix::Vector::length">
+<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#a6208d517ae36af0264e68ee89e93b114" title="Computes and sets heading a 2D vector. " alt="" coords="217,58,392,100"/>
+<area shape="rect" id="node3" href="$d8/d0b/class_flight_task_auto.html#a2e511bab598739e403729afb599ac51d" title="FlightTaskAuto::_set\l_heading_from_mode" alt="" coords="481,45,628,86"/>
+<area shape="rect" id="node6" href="$d1/da1/class_flight_task_auto_line_smooth_vel.html#abe42a941a8ba93f61e9d91212e35388c" title="Generates heading along trajectory. " alt="" coords="200,226,409,268"/>
+<area shape="rect" id="node7" href="$d1/da1/class_flight_task_auto_line_smooth_vel.html#a2b68318c7a8bda4c813676bbdd877af6" title="FlightTaskAutoLineSmooth\lVel::_generateTrajectory" alt="" coords="215,292,394,333"/>
+<area shape="rect" id="node8" href="$d1/dd0/class_flight_task_auto_line.html#a86edb77a2d8f5ad58515d979b9106ce5" title="Generate velocity and position setpoints for following line along xy. " alt="" coords="225,357,384,398"/>
+<area shape="rect" id="node9" href="$d8/d0b/class_flight_task_auto.html#a7c94370d1b91ea16cf6d6a08823c9bdf" title="Computes the current vehicle state based on the vehicle position and navigator triplets. " alt="" coords="461,110,648,152"/>
+<area shape="rect" id="node10" href="$d0/d4b/class_manual_smoothing_x_y.html#a60f4fc26a2ececa04e638ed0a8e1410c" title="Gets user intention. " alt="" coords="229,488,381,529"/>
+<area shape="rect" id="node15" href="$da/d83/class_flight_task_manual_position.html#aef8e02cab92b57236fe310a02398ddcc" title="scales sticks to velocity in z " alt="" coords="469,472,641,513"/>
+<area shape="rect" id="node17" href="$d0/d4b/class_manual_smoothing_x_y.html#aad3522a44137c70b2d3d7e242719e066" title="Set acceleration depending on Intention. " alt="" coords="229,422,381,464"/>
+<area shape="rect" id="node18" href="$d8/d4c/class_flight_task_manual_altitude.html#a86d8a5cfd6e06599c5ebea6e6b772b46" title="updates all setpoints " alt="" coords="220,605,389,646"/>
+<area shape="rect" id="node23" href="$d8/d5a/class_position_control.html#a344630cfe29f6359d43b36e72e3b97d4" title="applies the P&#45;position&#45;controller " alt="" coords="219,670,390,712"/>
+<area shape="rect" id="node24" href="$d2/da2/class_obstacle_avoidance.html#a7ff259ae71a32cff685d18ec7245a947" title="Checks the vehicle progress between previous and current position waypoint of the triplet..." alt="" coords="469,176,640,217"/>
+<area shape="rect" id="node25" href="$d6/d80/class_manual_velocity_smoothing_x_y.html#a8e5dfe5f11bfb45d4e5eea6c4f4e2558" title="ManualVelocitySmoothingXY\l::checkPositionLock" alt="" coords="209,736,400,777"/>
+<area shape="rect" id="node27" href="$d5/d30/namespace_control_math.html#a93d382fefe8734cbbfef3a1e2222e50a" title="Outputs the sum of two vectors but respecting the limits and priority. " alt="" coords="219,802,391,828"/>
+<area shape="rect" id="node30" href="$d5/d30/namespace_control_math.html#a9cb32a32cb21c000358a95bc33ac20af" title="This method was used for smoothing the corners along two lines. " alt="" coords="238,853,371,894"/>
+<area shape="rect" id="node32" href="$d7/d3a/class_matrix_test.html#a0ed1d287d5567b1d22d2a1da66137a6f" title="MatrixTest::dcmRenormTests" alt="" coords="207,919,403,946"/>
+<area shape="rect" id="node33" href="$d7/d7b/class_wind_estimator.html#a0bb98630d323e3f186683fed5894ef83" title="WindEstimator::fuse_beta" alt="" coords="218,974,391,1000"/>
+<area shape="rect" id="node38" href="$d8/dee/classbezier_1_1_bezier_quad.html#a4b5584d39c0f04ec86b678474da8a9b3" title="bezier::BezierQuad\l::getArcLength" alt="" coords="238,1025,371,1066"/>
+<area shape="rect" id="node42" href="$d4/d1b/vector_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="279,1091,330,1118"/>
+<area shape="rect" id="node43" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="224,1142,385,1168"/>
+<area shape="rect" id="node44" href="$dd/dd4/class_prec_land.html#af102e3ea17700924dd250ae7c6d4ea3f" title="PrecLand::slewrate" alt="" coords="237,1208,372,1235"/>
+<area shape="rect" id="node47" href="$d5/d30/namespace_control_math.html#ad717ded6d5b709feff11c5757ce9cfd2" title="Converts thrust vector and yaw set&#45;point to a desired attitude. " alt="" coords="207,1282,402,1308"/>
+<area shape="rect" id="node4" href="$d8/d0b/class_flight_task_auto.html#a6ba395901628042b73583f6657e489bc" title="Checks and sets triplets. " alt="" coords="716,110,891,152"/>
+<area shape="rect" id="node5" href="$d8/d0b/class_flight_task_auto.html#a6632a22e2e4eebe37e94ace639930a58" title="Call before activate() or update() to initialize time and input data. " alt="" coords="955,118,1160,144"/>
+<area shape="rect" id="node11" href="$d0/d4b/class_manual_smoothing_x_y.html#a5c0cf00c23c17c94844db0d2bf69ca3f" title="Sets velocity change limits (=acceleration). " alt="" coords="479,354,631,396"/>
+<area shape="rect" id="node12" href="$d0/d4b/class_manual_smoothing_x_y.html#a9ac657e7d3f11c2da1f74d15c1f8ecb0" title="ManualSmoothingXY::\loverwriteJerkMin" alt="" coords="727,410,879,452"/>
+<area shape="rect" id="node13" href="$d0/d4b/class_manual_smoothing_x_y.html#aab3c7195e2098609e52078b5ee61ce06" title="Smoothing of velocity setpoint horizontally based on flight direction. " alt="" coords="727,345,879,386"/>
+<area shape="rect" id="node14" href="$d2/da3/class_flight_task_manual_position_smooth.html#a6bfa78892647fa049eaeb3b9040b650c" title="updates all setpoints " alt="" coords="969,440,1145,481"/>
+<area shape="rect" id="node16" href="$da/d83/class_flight_task_manual_position.html#a4a6b240320d94deaca158a5ce4d986e4" title="Sets an external yaw handler which can be used to implement a different yaw control strategy..." alt="" coords="717,476,889,517"/>
+<area shape="rect" id="node19" href="$d4/da6/class_flight_task_manual_altitude_smooth.html#a15ba661f81d605eb771ffbdb7af1bc20" title="updates all setpoints " alt="" coords="467,602,643,644"/>
+<area shape="rect" id="node20" href="$d4/d12/class_flight_task_manual_altitude_smooth_vel.html#aa7831e90f6e8cfbc8c3bf5b28004c892" title="updates all setpoints " alt="" coords="457,668,652,709"/>
+<area shape="rect" id="node21" href="$da/d83/class_flight_task_manual_position.html#a7ff41f50ab2a64a911723509539d4ca0" title="updates all setpoints " alt="" coords="469,537,641,578"/>
+<area shape="rect" id="node22" href="$d7/d80/class_flight_task_manual_position_smooth_vel.html#a5c0f729deb39703f93b42c7f7092f7b8" title="updates all setpoints " alt="" coords="706,593,901,634"/>
+<area shape="rect" id="node26" href="$d6/d80/class_manual_velocity_smoothing_x_y.html#a161b05a6cc5bc3bbe11a0024be7b226f" title="ManualVelocitySmoothingXY\l::setCurrentPositionEstimate" alt="" coords="459,733,650,774"/>
+<area shape="rect" id="node28" href="$d8/d5a/class_position_control.html#a97e0d61b3061782667ead8c77429e3af" title="PositionControl::_position\lController" alt="" coords="469,850,640,892"/>
+<area shape="rect" id="node29" href="$d8/df1/_control_math_test_8cpp.html#a19b47f524d47c944fa14aff7084c8e1a" title="TEST" alt="" coords="527,799,583,826"/>
+<area shape="rect" id="node31" href="$d8/df1/_control_math_test_8cpp.html#a391675d62125962827d85d348be935b3" title="TEST" alt="" coords="527,916,583,943"/>
+<area shape="rect" id="node34" href="$db/dc1/class_airspeed_validator.html#a3bf27b5e0ad78d0619b4de60e41f53af" title="AirspeedValidator::\lupdate_wind_estimator" alt="" coords="477,968,633,1009"/>
+<area shape="rect" id="node37" href="$dd/dc8/class_airspeed_module.html#aefb294a454feae92e0e6cb6e8509bf9c" title="update the wind estimator instance only fusing sideslip " alt="" coords="719,1029,887,1070"/>
+<area shape="rect" id="node35" href="$db/dc1/class_airspeed_validator.html#afaf71d7053c68084e921493cfda721d0" title="AirspeedValidator::\lupdate_airspeed_validator" alt="" coords="717,964,890,1005"/>
+<area shape="rect" id="node36" href="$dd/dc8/class_airspeed_module.html#acfce768617d019c94041021370ab8da6" title="AirspeedModule::Run" alt="" coords="984,1003,1131,1030"/>
+<area shape="rect" id="node39" href="$db/df7/class_bezier_quad_test.html#a7890606c9d87eaad836f8fc34b164c65" title="BezierQuadTest::_get\l_arc_length" alt="" coords="480,1150,629,1192"/>
+<area shape="rect" id="node41" href="$d8/dee/classbezier_1_1_bezier_quad.html#a145abc46534b5aca2130c046289ddf55" title="bezier::BezierQuad\l::setDuration" alt="" coords="488,1085,621,1126"/>
+<area shape="rect" id="node40" href="$db/df7/class_bezier_quad_test.html#ab86aed52021f55c7784a99079798e8d6" title="Override to run your unit tests. " alt="" coords="732,1150,875,1192"/>
+<area shape="rect" id="node45" href="$dd/dd4/class_prec_land.html#aadd0dbc9029a9b6b35e46b1a44acc8bf" title="PrecLand::run_state\l_horizontal_approach" alt="" coords="482,1216,627,1257"/>
+<area shape="rect" id="node46" href="$dd/dd4/class_prec_land.html#a0f4d8c775373884e2d3280bf8de29558" title="This function is called while the mode is active. " alt="" coords="733,1223,874,1250"/>
+<area shape="rect" id="node48" href="$d8/d5a/class_position_control.html#a4c871d392085f11713a648289714ba54" title="Get the controllers output attitude setpoint This attitude setpoint was generated from the resulting ..." alt="" coords="463,1333,646,1374"/>
+<area shape="rect" id="node50" href="$d8/df1/_control_math_test_8cpp.html#aa8d4cc0bd9d9615b84904414b015d496" title="TEST" alt="" coords="527,1282,583,1308"/>
+<area shape="rect" id="node49" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="700,1340,907,1367"/>
+</map>

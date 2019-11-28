@@ -1,21 +1,3 @@
 <map id="reboot_main" name="reboot_main">
-<area shape="rect" id="node2" href="$d6/d45/reboot_8c.html#a0edd37fe65f6a8b1e530370f6e6402f3" title="print_usage" alt="" coords="177,137,267,163"/>
-<area shape="rect" id="node7" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="179,289,265,315"/>
-<area shape="rect" id="node10" href="$df/d04/shutdown_8cpp.html#a0a597475047617990d10c9b0cead51a7" title="Grab the shutdown lock. " alt="" coords="654,694,791,721"/>
-<area shape="rect" id="node13" href="$df/d04/shutdown_8cpp.html#ac973512abb1ee1d0cacd5df9e1f68b6a" title="Request the system to shut down or reboot. " alt="" coords="381,339,537,366"/>
-<area shape="rect" id="node17" href="$df/d04/shutdown_8cpp.html#aff7598995f70b0f4dbbb3c88482d6373" title="Release the shutdown lock. " alt="" coords="147,466,297,493"/>
-<area shape="rect" id="node20" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="192,745,252,771"/>
-<area shape="rect" id="node3" href="$dd/d30/module_8cpp.html#a53dcf1637cabe04fa554ef0e38f266d2" title="Print module documentation (will also be used for online documentation). " alt="" coords="345,137,572,163"/>
-<area shape="rect" id="node4" href="$dd/d30/module_8cpp.html#ac5bfc5f17f7305a0c6e85739cfe5100d" title="print definition for an argument, which does not have the typical &#45;p &lt;val&gt; form, but for example &#39;par..." alt="" coords="350,187,567,214"/>
-<area shape="rect" id="node5" href="$dd/d30/module_8cpp.html#ad80e2d5f13645af9e1a0d78bfa65e11e" title="Print the name for a command without any sub&#45;commands (. " alt="" coords="368,5,549,47"/>
-<area shape="rect" id="node6" href="$dd/d30/module_8cpp.html#a55f27bc51df04401d95a19e0ef8caf5d" title="print a flag parameter, without any value " alt="" coords="368,71,549,112"/>
-<area shape="rect" id="node8" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="684,263,761,290"/>
-<area shape="rect" id="node9" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="427,289,490,315"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="881,542,1019,569"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="873,593,1027,619"/>
-<area shape="rect" id="node14" href="$df/d04/shutdown_8cpp.html#aadcc9bb1967e4f277d12b263f317b683" title="work queue callback method to shutdown. " alt="" coords="661,390,785,417"/>
-<area shape="rect" id="node15" href="$d8/d3d/pwr_8c.html#a7eab334f84b1c992d1a26fadff77d018" title="board_shutdown" alt="" coords="891,353,1009,379"/>
-<area shape="rect" id="node16" href="$da/d65/px4__tasks_8h.html#a582217d56f2542b506a770d840da3c5c" title="Reboots the board (without waiting for clean shutdown). " alt="" coords="889,429,1011,455"/>
-<area shape="rect" id="node18" href="$df/d04/shutdown_8cpp.html#af2091483f1d1207a9eaab5f5a7ab4613" title="Register a method that should be called when powering off (and also on reboot). " alt="" coords="627,593,818,619"/>
-<area shape="rect" id="node19" href="$df/d04/shutdown_8cpp.html#af4dcd7060ddd47b86aa6bc71eb041766" title="Unregister a shutdown hook. " alt="" coords="620,542,825,569"/>
+<area shape="rect" id="node2" href="$d6/d45/reboot_8c.html#a0edd37fe65f6a8b1e530370f6e6402f3" title="print_usage" alt="" coords="147,5,236,32"/>
 </map>

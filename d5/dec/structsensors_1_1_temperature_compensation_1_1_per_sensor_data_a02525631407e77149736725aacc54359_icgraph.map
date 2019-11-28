@@ -1,7 +1,9 @@
 <map id="sensors::TemperatureCompensation::PerSensorData::reset_temperature" name="sensors::TemperatureCompensation::PerSensorData::reset_temperature">
-<area shape="rect" id="node2" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a7d03eaca19942c19512a67acbd18db73" title="(re)load the parameters. " alt="" coords="287,5,520,47"/>
-<area shape="rect" id="node3" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a7aac51c899b41717c6ac83823c668a53" title="call this whenever parameters got updated. " alt="" coords="568,5,768,47"/>
-<area shape="rect" id="node4" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="816,5,959,47"/>
-<area shape="rect" id="node5" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="1007,5,1143,47"/>
-<area shape="rect" id="node6" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="1191,13,1287,39"/>
+<area shape="rect" id="node2" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a7d03eaca19942c19512a67acbd18db73" title="(re)load the parameters. " alt="" coords="287,39,520,80"/>
+<area shape="rect" id="node3" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a9a5599d2a2d7347ac04edc72f97250ff" title="call this whenever parameters got updated. " alt="" coords="568,39,768,80"/>
+<area shape="rect" id="node4" href="$d1/d44/class_sensors.html#a9f1f92d3d966a6c294f78b7dad6d768d" title="Update our local parameter cache. " alt="" coords="845,5,987,47"/>
+<area shape="rect" id="node7" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#af224ca20d335a068aca2208d780ed82d" title="Poll the magnetometer for updated data. " alt="" coords="816,71,1016,112"/>
+<area shape="rect" id="node5" href="$d1/d44/class_sensors.html#aacd5e3c3baacf7417f71bdb1c21acc0b" title="Check for changes in parameters. " alt="" coords="1096,5,1232,47"/>
+<area shape="rect" id="node6" href="$d1/d44/class_sensors.html#a35b423ba540194dbfee0d7b580946e79" title="Sensors::run" alt="" coords="1312,46,1408,73"/>
+<area shape="rect" id="node8" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a4caa48d90624549d9557a56e67259926" title="read new sensor data " alt="" coords="1064,71,1264,112"/>
 </map>

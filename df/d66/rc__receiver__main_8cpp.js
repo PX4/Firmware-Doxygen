@@ -14,7 +14,7 @@ var rc__receiver__main_8cpp =
     [ "_device", "df/d66/rc__receiver__main_8cpp.html#a353b7635dd14d5de97f2704b7bc97e85", null ],
     [ "_input_rc_pub", "df/d66/rc__receiver__main_8cpp.html#a889d3ec676b063645f386407893d759e", null ],
     [ "_is_running", "df/d66/rc__receiver__main_8cpp.html#a08206ffc1c5ff5b383e8e396cd08ac13", null ],
-    [ "_params_handles", "df/d66/rc__receiver__main_8cpp.html#adcabf757a9e709e4d0687f57b5bfdd02", null ],
+    [ "_params_handles", "df/d66/rc__receiver__main_8cpp.html#a2063dadb30e5eb131762fa1666f4d0b5", null ],
     [ "_params_sub", "df/d66/rc__receiver__main_8cpp.html#a9536542813665e9461bcb6f5dc416a5d", null ],
     [ "_rc_in", "df/d66/rc__receiver__main_8cpp.html#a1c23adf547977c6e298683c013f28f94", null ],
     [ "_rc_receiver_type", "df/d66/rc__receiver__main_8cpp.html#a4b2f10ca0c874687cdb72d8c682fbae8", null ],

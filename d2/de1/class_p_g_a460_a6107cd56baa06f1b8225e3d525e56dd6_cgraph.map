@@ -1,0 +1,14 @@
+<map id="PGA460::initialize_device_settings" name="PGA460::initialize_device_settings">
+<area shape="rect" id="node2" href="$d2/de1/class_p_g_a460.html#a97e921ebda39c3289f4018183b9306d6" title="Writes the user defined paramaters to device register map. " alt="" coords="180,257,307,298"/>
+<area shape="rect" id="node9" href="$d2/de1/class_p_g_a460.html#aa3cba392c1eacedd0d2b5db944fed810" title="Reads a register. " alt="" coords="565,217,719,244"/>
+<area shape="rect" id="node11" href="$d2/de1/class_p_g_a460.html#af7737132b56f05fe3b8c3594e2e2f657" title="Reads the EEPROM and checks to see if it matches the default parameters. " alt="" coords="565,319,719,345"/>
+<area shape="rect" id="node12" href="$d2/de1/class_p_g_a460.html#ad7eba50f170fa950b05a50462f3c0d72" title="Writes the user defined paramaters to device EEPROM. " alt="" coords="355,155,512,181"/>
+<area shape="rect" id="node3" href="$d2/de1/class_p_g_a460.html#a1b69dc256ac60cb9dfe6daf01702178f" title="Calculates the checksum of the transmitted commmand + data. " alt="" coords="997,65,1168,92"/>
+<area shape="rect" id="node4" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="1057,268,1108,295"/>
+<area shape="rect" id="node5" href="$d2/de1/class_p_g_a460.html#a58c2504469a78a390f1813b623293d3e" title="Reads the threshold registers. " alt="" coords="560,370,724,411"/>
+<area shape="rect" id="node8" href="$d2/de1/class_p_g_a460.html#a0d04e4ba1f4b32608e894af655f181ca" title="Reports the diagnostic data from device status registers 1 and 2 if there is anything to report..." alt="" coords="359,257,508,298"/>
+<area shape="rect" id="node6" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="837,369,884,396"/>
+<area shape="rect" id="node7" href="$d2/de1/class_p_g_a460.html#a2769387ceba52f7f6b2d034249bec020" title="Reports the diagnostic data the diagnostic byte (first byte from slave). " alt="" coords="772,319,949,345"/>
+<area shape="rect" id="node10" href="$d2/de1/class_p_g_a460.html#a8e4e7002fbeb7cf50a321c0e52c8fcb1" title="Send the unlock command to the EEPROM to enable reading and writing – not needed w/ bulk write..." alt="" coords="777,217,944,244"/>
+<area shape="rect" id="node13" href="$d2/de1/class_p_g_a460.html#a380e300f9163e3c85bc6f52c1d738d37" title="Send the program command to the EEPROM to start the flash process. " alt="" coords="782,65,939,92"/>
+</map>

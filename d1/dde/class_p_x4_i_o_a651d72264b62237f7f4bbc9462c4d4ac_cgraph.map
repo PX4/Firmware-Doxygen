@@ -1,0 +1,51 @@
+<map id="PX4IO::init" name="PX4IO::init">
+<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="140,944,227,971"/>
+<area shape="rect" id="node3" href="$d8/d98/circuit__breaker_8cpp.html#a0eb495f286c64c70c007505210ec5df4" title="circuit_breaker_enabled" alt="" coords="293,497,452,524"/>
+<area shape="rect" id="node4" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="561,657,647,684"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1161,827,1286,853"/>
+<area shape="rect" id="node11" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="563,320,645,347"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="312,1096,433,1123"/>
+<area shape="rect" id="node33" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="305,701,441,742"/>
+<area shape="rect" id="node34" href="$d1/dde/class_p_x4_i_o.html#a74cb890a6900e694628206508712f623" title="Disable RC input handling. " alt="" coords="300,1663,445,1705"/>
+<area shape="rect" id="node35" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="737,1679,888,1705"/>
+<area shape="rect" id="node36" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="955,1603,1084,1629"/>
+<area shape="rect" id="node38" href="$d1/dde/class_p_x4_i_o.html#aba8d6360b436affe17f67a8df1784c55" title="write register(s) " alt="" coords="955,1679,1084,1705"/>
+<area shape="rect" id="node40" href="$d1/dde/class_p_x4_i_o.html#af4f72301ac94392b7e3e1ae734989667" title="Fetch status and alarms from IO. " alt="" coords="299,1476,446,1503"/>
+<area shape="rect" id="node45" href="$d1/dde/class_p_x4_i_o.html#aac7b9556eef5abb6fff69a791e1c3a86" title="Push RC channel configuration to IO. " alt="" coords="291,767,455,793"/>
+<area shape="rect" id="node46" href="$d5/d33/param_8h.html#a26cb63b426af831903dcb1193002cf48" title="Set the value of a parameter. " alt="" coords="331,599,414,625"/>
+<area shape="rect" id="node48" href="$d5/d33/param_8h.html#a817e6f9a6a2b732e09e5c446af02ed45" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="285,548,460,575"/>
+<area shape="rect" id="node49" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="321,1831,425,1857"/>
+<area shape="rect" id="node50" href="$d1/dde/class_p_x4_i_o.html#ac6a12ab95aeb8fd73f9f0e86c17a2471" title="Trampoline to the worker task. " alt="" coords="275,1881,471,1908"/>
+<area shape="rect" id="node5" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="745,700,880,727"/>
+<area shape="rect" id="node6" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="944,649,1095,676"/>
+<area shape="rect" id="node7" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="936,700,1103,727"/>
+<area shape="rect" id="node8" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="978,548,1061,575"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="983,599,1055,625"/>
+<area shape="rect" id="node12" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1000,295,1039,321"/>
+<area shape="rect" id="node14" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1165,168,1281,195"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="741,497,884,524"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="747,41,879,68"/>
+<area shape="rect" id="node17" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="971,193,1068,220"/>
+<area shape="rect" id="node18" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="747,244,879,271"/>
+<area shape="rect" id="node19" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="974,143,1065,169"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="768,447,857,473"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="739,193,886,220"/>
+<area shape="rect" id="node13" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1182,295,1265,321"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="555,1223,653,1249"/>
+<area shape="rect" id="node24" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="563,1273,645,1300"/>
+<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="553,1324,655,1351"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="553,1375,655,1401"/>
+<area shape="rect" id="node27" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="560,919,648,945"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="565,969,643,996"/>
+<area shape="rect" id="node29" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="563,1020,645,1047"/>
+<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="521,1071,687,1097"/>
+<area shape="rect" id="node31" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="573,1121,635,1148"/>
+<area shape="rect" id="node32" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="523,1172,685,1199"/>
+<area shape="rect" id="node37" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="1152,1603,1295,1629"/>
+<area shape="rect" id="node39" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="1151,1679,1296,1705"/>
+<area shape="rect" id="node41" href="$d1/dde/class_p_x4_i_o.html#aa0019dbf5dc3358f1c7bd9b7d9ab51a9" title="Handle a status update from IO. " alt="" coords="521,1527,687,1553"/>
+<area shape="rect" id="node43" href="$d1/dde/class_p_x4_i_o.html#a903ca8768dd5456c52f685e4caf1fa94" title="Handle an alarm update from IO. " alt="" coords="519,1476,689,1503"/>
+<area shape="rect" id="node44" href="$d1/dde/class_p_x4_i_o.html#a8370b5b7c33419d0c130b54de68b745c" title="Handle a servorail update from IO. " alt="" coords="519,1425,689,1452"/>
+<area shape="rect" id="node42" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="743,1429,882,1470"/>
+<area shape="rect" id="node47" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="538,548,670,575"/>
+</map>

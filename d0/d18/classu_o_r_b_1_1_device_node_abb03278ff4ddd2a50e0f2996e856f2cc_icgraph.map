@@ -1,3 +1,51 @@
 <map id="uORB::DeviceNode::add_internal_subscriber" name="uORB::DeviceNode::add_internal_subscriber">
-<area shape="rect" id="node2" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a213a71e5dcbc06a6b0f3749325814ca9" title="Method to create a subscriber instance and return the struct pointing to the subscriber as a file poi..." alt="" coords="220,13,395,39"/>
+<area shape="rect" id="node2" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a515a8172e098db6dbd1641aa9dd389bc" title="Method to create a subscriber instance and return the struct pointing to the subscriber as a file poi..." alt="" coords="220,363,395,389"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="238,414,377,455"/>
+<area shape="rect" id="node4" href="$da/d43/class_mixing_output.html#afd4303f54b160cbff130a1e8b8fd0cf3" title="Contructor. " alt="" coords="443,5,627,32"/>
+<area shape="rect" id="node5" href="$d3/dc6/class_commander.html#a213cb965de91f0076403c2b18d188b70" title="Commander::offboard\l_control_update" alt="" coords="1120,49,1268,90"/>
+<area shape="rect" id="node7" href="$de/dea/class_mavlink_orb_subscription.html#a10b522a40df5d4cefc3326841a7b84e0" title="Check if the topic has been published. " alt="" coords="876,473,1036,514"/>
+<area shape="rect" id="node13" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="465,385,604,426"/>
+<area shape="rect" id="node24" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a1c8b2b68441e61d7c460efe94617b3c4" title="uORB::SubscriptionCallback\l::registerCallback" alt="" coords="861,795,1051,837"/>
+<area shape="rect" id="node47" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a8851d25ec7fc746ed71214cb65500006" title="Constructor. " alt="" coords="465,619,604,661"/>
+<area shape="rect" id="node48" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a7520c849582c1887f3851fd319b3bf45" title="uORB::Subscription\l::~Subscription" alt="" coords="465,685,604,726"/>
+<area shape="rect" id="node49" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#a1febf0b92009d71a8866e759c6fc0e6d" title="uORB::SubscriptionInterval\l::subscribe" alt="" coords="444,287,625,329"/>
+<area shape="rect" id="node6" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1377,115,1495,141"/>
+<area shape="rect" id="node8" href="$d6/df6/class_mavlink_stream_home_position.html#a73d7dc5e33e9be363781d8ea484792ea" title="MavlinkStreamHomePosition\l::send" alt="" coords="1099,469,1289,510"/>
+<area shape="rect" id="node9" href="$de/dea/class_mavlink_orb_subscription.html#a073fbec3307fd1d809155c35e72f234f" title="Check if the subscription has been updated. " alt="" coords="1114,403,1274,445"/>
+<area shape="rect" id="node10" href="$d9/d9b/class_mavlink_stream_command_long.html#a6c63c0fc5cdbce0d54902865f6f405f5" title="MavlinkStreamCommandLong\l::send" alt="" coords="1337,394,1535,435"/>
+<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1369,460,1503,487"/>
+<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1583,460,1725,487"/>
+<area shape="rect" id="node14" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="675,355,813,397"/>
+<area shape="rect" id="node23" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acfefc1961589348321e83851139512ce" title="uORB::Subscription\l::get_node" alt="" coords="675,502,813,543"/>
+<area shape="rect" id="node15" href="$de/d1d/class_heater.html#a8e84b71bda3a0753bd26981418ff603f" title="Called once to initialize uORB topics. " alt="" coords="1136,326,1252,367"/>
+<area shape="rect" id="node17" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a5388936e4ec1e7b2a25c817d2ca95de2" title="Check if subscription updated based on timestamp. " alt="" coords="887,355,1025,397"/>
+<area shape="rect" id="node18" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="887,107,1025,149"/>
+<area shape="rect" id="node21" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="887,290,1025,331"/>
+<area shape="rect" id="node22" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#ad37eaf4990b69463eb3f3c53db76874d" title="uORB::SubscriptionInterval\l::advertised" alt="" coords="865,225,1047,266"/>
+<area shape="rect" id="node16" href="$de/d1d/class_heater.html#a58a38b405a9b76191495c9abb555d68f" title="Initiates the heater driver work queue, starts a new background task, and fails if it is already runn..." alt="" coords="1389,333,1483,360"/>
+<area shape="rect" id="node19" href="$d9/d95/class_d_shot_output.html#a9afbb119ec319b88b6b3c38b8ae47a92" title="DShotOutput::Run" alt="" coords="1129,165,1259,192"/>
+<area shape="rect" id="node20" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="1115,216,1273,243"/>
+<area shape="rect" id="node46" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a42885c3adf9615ae6516728e295c589b" title="uORB::SubscriptionCallback\l::unregisterCallback" alt="" coords="861,538,1051,579"/>
+<area shape="rect" id="node25" href="$db/d2b/class_attitude_estimator_q.html#a5b87ddeb200fdacc8d937ae86a4cad3a" title="AttitudeEstimatorQ\l::init" alt="" coords="1127,1057,1261,1098"/>
+<area shape="rect" id="node27" href="$de/d9c/class_ekf2.html#a821c78fddeeea3be3a6ecb862fd39515" title="Ekf2::init" alt="" coords="1157,1123,1231,1149"/>
+<area shape="rect" id="node29" href="$d3/d25/class_fixedwing_attitude_control.html#a076bf132ecd9b2c7be43c1422643d347" title="FixedwingAttitudeControl\l::init" alt="" coords="1110,1174,1278,1215"/>
+<area shape="rect" id="node31" href="$d9/d31/class_fixedwing_position_control.html#a577797e3ff0db4f2fa3aa83354b024f3" title="FixedwingPositionControl\l::init" alt="" coords="1109,534,1279,575"/>
+<area shape="rect" id="node33" href="$d5/d01/class_block_local_position_estimator.html#a18d8b9b6da3bfa1448ab6d4e8862cd89" title="BlockLocalPositionEstimator\l::init" alt="" coords="1099,599,1289,641"/>
+<area shape="rect" id="node35" href="$d9/d0c/class_multicopter_attitude_control.html#a08118f067babbafd629358045f2a89c3" title="MulticopterAttitudeControl\l::init" alt="" coords="1107,665,1281,706"/>
+<area shape="rect" id="node37" href="$dd/d4e/class_multicopter_position_control.html#a47d5382dd52f7d47aa413d701f07530f" title="MulticopterPositionControl\l::init" alt="" coords="1107,730,1281,771"/>
+<area shape="rect" id="node39" href="$d2/df8/class_multicopter_rate_control.html#a711f2344aab6306a4278641a702d7df5" title="MulticopterRateControl\l::init" alt="" coords="1116,795,1272,837"/>
+<area shape="rect" id="node41" href="$d0/d83/class_vehicle_acceleration.html#a3f37bf6078933a8b50097bfab6c22a4d" title="VehicleAcceleration\l::Start" alt="" coords="1125,926,1263,967"/>
+<area shape="rect" id="node43" href="$db/daf/class_vehicle_angular_velocity.html#a232ee740944d85514ffc475749938c03" title="VehicleAngularVelocity\l::Start" alt="" coords="1116,861,1272,902"/>
+<area shape="rect" id="node44" href="$d7/d6f/class_vtol_attitude_control.html#ac6cf0cc3baa481e47b034834fc9491bf" title="VtolAttitudeControl\l::init" alt="" coords="1128,991,1260,1033"/>
+<area shape="rect" id="node26" href="$db/d2b/class_attitude_estimator_q.html#a35b6f13a21a5192820a68f17ba1448fa" title="AttitudeEstimatorQ\l::task_spawn" alt="" coords="1369,1057,1503,1098"/>
+<area shape="rect" id="node28" href="$de/d9c/class_ekf2.html#a56cc5a0c3a48ce7202fe81899a29a734" title="Ekf2::task_spawn" alt="" coords="1373,1123,1499,1149"/>
+<area shape="rect" id="node30" href="$d3/d25/class_fixedwing_attitude_control.html#abdd8887b1fbd3cdcd3418d2042f251e5" title="FixedwingAttitudeControl\l::task_spawn" alt="" coords="1352,1174,1520,1215"/>
+<area shape="rect" id="node32" href="$d9/d31/class_fixedwing_position_control.html#a9d4fdbccdeba3c1142dd1b606dee76e3" title="FixedwingPositionControl\l::task_spawn" alt="" coords="1351,534,1521,575"/>
+<area shape="rect" id="node34" href="$d5/d01/class_block_local_position_estimator.html#a9cfa9874e136db26069de19fe3c725cf" title="BlockLocalPositionEstimator\l::task_spawn" alt="" coords="1341,599,1531,641"/>
+<area shape="rect" id="node36" href="$d9/d0c/class_multicopter_attitude_control.html#aedbb9921f179ce507362d251764bd4c5" title="MulticopterAttitudeControl\l::task_spawn" alt="" coords="1349,665,1523,706"/>
+<area shape="rect" id="node38" href="$dd/d4e/class_multicopter_position_control.html#ab3049b28fad126f4cb6a0322b4b2852c" title="MulticopterPositionControl\l::task_spawn" alt="" coords="1349,730,1523,771"/>
+<area shape="rect" id="node40" href="$d2/df8/class_multicopter_rate_control.html#ac430d1283034090f2da0bf9bc1b41fee" title="MulticopterRateControl\l::task_spawn" alt="" coords="1358,795,1514,837"/>
+<area shape="rect" id="node42" href="$d1/d44/class_sensors.html#a46b70fc5abd5e1b6ac63a2dcb51e7bcd" title="Sensors::Sensors" alt="" coords="1373,901,1499,928"/>
+<area shape="rect" id="node45" href="$d7/d6f/class_vtol_attitude_control.html#a2a8545b28708ff845add1eb53fe1cdfe" title="VtolAttitudeControl\l::task_spawn" alt="" coords="1370,991,1502,1033"/>
+<area shape="rect" id="node50" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2c8d085b33fbc7ae967153421159ad7b" title="px4::logger::Logger\l::copy_if_updated" alt="" coords="677,227,811,269"/>
 </map>

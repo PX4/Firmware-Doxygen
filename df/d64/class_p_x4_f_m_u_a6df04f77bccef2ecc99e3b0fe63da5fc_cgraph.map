@@ -1,51 +1,51 @@
 <map id="PX4FMU::test" name="PX4FMU::test">
-<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#a07eaf4b71a7f442f116b88d2166cfe52" title="PX4FMU::capture_trampoline" alt="" coords="160,407,355,434"/>
-<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="423,611,565,638"/>
-<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="203,681,311,707"/>
-<area shape="rect" id="node42" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="425,541,563,567"/>
-<area shape="rect" id="node44" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="192,1211,323,1238"/>
-<area shape="rect" id="node48" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="190,1262,325,1289"/>
-<area shape="rect" id="node49" href="$df/d64/class_p_x4_f_m_u.html#a882bf22e36e24f3d5877703f950d585f" title="PX4FMU::write" alt="" coords="201,1102,313,1129"/>
-<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a29c65fbc3ff3761991c0798e00040391" title="PX4FMU::capture_callback" alt="" coords="403,310,585,337"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="659,529,794,555"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="642,579,811,606"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="653,630,801,657"/>
-<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#a7845444c5a576641e216286124712840" title="PX4FMU::capture_ioctl" alt="" coords="415,361,573,387"/>
-<area shape="rect" id="node23" href="$df/d64/class_p_x4_f_m_u.html#ac26eab0dd0ccff5aec76a91011a56eb3" title="PX4FMU::gpio_ioctl" alt="" coords="425,681,563,707"/>
-<area shape="rect" id="node27" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="423,1051,565,1078"/>
-<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a14ec7f47e6be4f509c4a28c6cf1b35fd" title="PX4FMU::set_mode" alt="" coords="656,833,797,859"/>
-<area shape="rect" id="node11" href="$dc/d5d/drv__input__capture_8h.html#ab86ba2023ce7e2c504afa11874b1acc7" title="up_input_capture_set" alt="" coords="878,463,1025,490"/>
-<area shape="rect" id="node15" href="$dc/d5d/drv__input__capture_8h.html#aacd6c3071bb2563eff11bcb6cd6aa878" title="up_input_capture_get\l_callback" alt="" coords="878,136,1025,177"/>
-<area shape="rect" id="node17" href="$dc/d5d/drv__input__capture_8h.html#ad52e79b19080b1ae9efcfbc15bc18e02" title="up_input_capture_get\l_filter" alt="" coords="878,201,1025,243"/>
-<area shape="rect" id="node18" href="$dc/d5d/drv__input__capture_8h.html#af5fed677232688f7bba921a771674099" title="up_input_capture_get\l_stats" alt="" coords="878,397,1025,439"/>
-<area shape="rect" id="node19" href="$dc/d5d/drv__input__capture_8h.html#a66379a81406a892e5c7eeb3e7fb7dd32" title="up_input_capture_get\l_trigger" alt="" coords="878,267,1025,308"/>
-<area shape="rect" id="node20" href="$dc/d5d/drv__input__capture_8h.html#a7306a37e4c820793b84006f7d8ec6e77" title="up_input_capture_set\l_callback" alt="" coords="878,332,1025,373"/>
-<area shape="rect" id="node21" href="$dc/d5d/drv__input__capture_8h.html#a3c5eef4154d6daa0b01f37d059b907e5" title="up_input_capture_set\l_filter" alt="" coords="878,5,1025,47"/>
-<area shape="rect" id="node22" href="$dc/d5d/drv__input__capture_8h.html#a99d902765aa5bdc01470b61ce20221a0" title="up_input_capture_set\l_trigger" alt="" coords="878,71,1025,112"/>
-<area shape="rect" id="node14" href="$d0/dbb/drv__pwm__output_8h.html#a53f946d554caa8bfbfe13782395de840" title="De&#45;initialise the PWM servo outputs. " alt="" coords="877,833,1025,859"/>
-<area shape="rect" id="node12" href="$de/d39/kinetis_2drv__input__capture_8c.html#a6256f92a47b52f2ec418d1a2fe2a9403" title="input_capture_bind" alt="" coords="1109,402,1240,429"/>
-<area shape="rect" id="node13" href="$df/d04/kinetis_2drv__io__timer_8c.html#ac36040b08c9f34faaecdd736f7143eeb" title="io_timer_validate_channel\l_index" alt="" coords="1089,248,1261,289"/>
-<area shape="rect" id="node16" href="$df/d04/kinetis_2drv__io__timer_8c.html#a36f50c3e99f425107d1bb6523dff98a2" title="io_timer_get_channel_mode" alt="" coords="1083,177,1267,203"/>
-<area shape="rect" id="node24" href="$df/d64/class_p_x4_f_m_u.html#a3a4a09b6690d6ee3f5694b17ab6c78c2" title="PX4FMU::gpio_reset" alt="" coords="655,782,799,809"/>
-<area shape="rect" id="node25" href="$df/d64/class_p_x4_f_m_u.html#a9827bf22d91668685fe29f8a8783e4e0" title="PX4FMU::gpio_set_function" alt="" coords="633,681,820,707"/>
-<area shape="rect" id="node26" href="$df/d64/class_p_x4_f_m_u.html#a3bbb7e6e14092fead4a6da491077e840" title="PX4FMU::gpio_write" alt="" coords="655,731,798,758"/>
-<area shape="rect" id="node28" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="873,1077,1030,1103"/>
-<area shape="rect" id="node29" href="$d3/dc4/class_simple_mixer.html#ab191e02e844721ff723b79413d82f90e" title="Check that the mixer configuration as loaded is sensible. " alt="" coords="658,1153,795,1179"/>
-<area shape="rect" id="node30" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="637,1203,816,1230"/>
-<area shape="rect" id="node31" href="$d9/dbb/class_mixer_group.html#a4fa3714b990c2552696fae0dbed90212" title="MixerGroup::get_trims" alt="" coords="651,1254,802,1281"/>
-<area shape="rect" id="node32" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="659,1305,795,1347"/>
-<area shape="rect" id="node33" href="$d9/dbb/class_mixer_group.html#a7bd735772388a8b1d9f4cc41dd8ec7d1" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="637,1051,816,1078"/>
-<area shape="rect" id="node34" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="868,1430,1035,1457"/>
-<area shape="rect" id="node35" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="1093,1393,1257,1435"/>
-<area shape="rect" id="node36" href="$d9/dbb/class_mixer_group.html#a7c805254119d62180adbab7ed49e389b" title="MixerGroup::set_trims" alt="" coords="876,921,1027,947"/>
-<area shape="rect" id="node37" href="$d0/dbb/drv__pwm__output_8h.html#a6bb192ea76b78953f6b5a54ddda3c471" title="Get the current output value for a channel. " alt="" coords="659,1001,794,1027"/>
-<area shape="rect" id="node38" href="$d0/dbb/drv__pwm__output_8h.html#a4e3ecac6bbb17ef4c38ffd288a2a11e3" title="Set the current output value for a channel. " alt="" coords="659,1539,794,1566"/>
-<area shape="rect" id="node40" href="$df/d64/class_p_x4_f_m_u.html#a8cfa12dc982c977be9d0f9e00642d92c" title="PX4FMU::update_pwm\l_out_state" alt="" coords="647,1423,806,1464"/>
-<area shape="rect" id="node41" href="$df/d64/class_p_x4_f_m_u.html#a56ad319ce8088b6122e7cf96c07d4136" title="PX4FMU::update_pwm\l_trims" alt="" coords="647,884,806,925"/>
-<area shape="rect" id="node39" href="$df/d04/kinetis_2drv__io__timer_8c.html#acfa2c0476476cc15c4aa6b6148f0d8b8" title="io_timer_set_ccr" alt="" coords="892,1539,1011,1566"/>
-<area shape="rect" id="node43" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="657,463,796,504"/>
-<area shape="rect" id="node45" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="425,1204,563,1245"/>
-<area shape="rect" id="node46" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="429,1269,559,1311"/>
-<area shape="rect" id="node47" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="417,1335,571,1376"/>
-<area shape="rect" id="node50" href="$df/d64/class_p_x4_f_m_u.html#a5fc5cd1c4427d6ed1f083d8c128cfeff" title="Reorder PWM outputs according to _motor_ordering. " alt="" coords="407,1102,581,1129"/>
+<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#a07eaf4b71a7f442f116b88d2166cfe52" title="PX4FMU::capture_trampoline" alt="" coords="160,83,355,109"/>
+<area shape="rect" id="node4" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="429,107,559,133"/>
+<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="203,412,311,439"/>
+<area shape="rect" id="node44" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="430,157,558,184"/>
+<area shape="rect" id="node46" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="197,1047,317,1073"/>
+<area shape="rect" id="node50" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="195,1097,320,1124"/>
+<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a29c65fbc3ff3761991c0798e00040391" title="PX4FMU::capture_callback" alt="" coords="403,56,585,83"/>
+<area shape="rect" id="node5" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="687,107,811,133"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="669,5,828,32"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="679,157,818,184"/>
+<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#a7845444c5a576641e216286124712840" title="PX4FMU::capture_ioctl" alt="" coords="415,412,573,439"/>
+<area shape="rect" id="node20" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="423,988,565,1015"/>
+<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a14ec7f47e6be4f509c4a28c6cf1b35fd" title="PX4FMU::set_mode" alt="" coords="678,719,819,745"/>
+<area shape="rect" id="node11" href="$dc/d5d/drv__input__capture_8h.html#ab86ba2023ce7e2c504afa11874b1acc7" title="up_input_capture_set" alt="" coords="922,569,1069,596"/>
+<area shape="rect" id="node13" href="$dc/d5d/drv__input__capture_8h.html#aacd6c3071bb2563eff11bcb6cd6aa878" title="up_input_capture_get\l_callback" alt="" coords="675,522,822,563"/>
+<area shape="rect" id="node14" href="$dc/d5d/drv__input__capture_8h.html#ad52e79b19080b1ae9efcfbc15bc18e02" title="up_input_capture_get\l_filter" alt="" coords="675,587,822,629"/>
+<area shape="rect" id="node15" href="$dc/d5d/drv__input__capture_8h.html#af5fed677232688f7bba921a771674099" title="up_input_capture_get\l_stats" alt="" coords="675,653,822,694"/>
+<area shape="rect" id="node16" href="$dc/d5d/drv__input__capture_8h.html#a66379a81406a892e5c7eeb3e7fb7dd32" title="up_input_capture_get\l_trigger" alt="" coords="675,209,822,250"/>
+<area shape="rect" id="node17" href="$dc/d5d/drv__input__capture_8h.html#a7306a37e4c820793b84006f7d8ec6e77" title="up_input_capture_set\l_callback" alt="" coords="675,274,822,315"/>
+<area shape="rect" id="node18" href="$dc/d5d/drv__input__capture_8h.html#a3c5eef4154d6daa0b01f37d059b907e5" title="up_input_capture_set\l_filter" alt="" coords="675,339,822,381"/>
+<area shape="rect" id="node19" href="$dc/d5d/drv__input__capture_8h.html#a99d902765aa5bdc01470b61ce20221a0" title="up_input_capture_set\l_trigger" alt="" coords="675,405,822,446"/>
+<area shape="rect" id="node12" href="$d0/dbb/drv__pwm__output_8h.html#a53f946d554caa8bfbfe13782395de840" title="De&#45;initialise the PWM servo outputs. " alt="" coords="921,719,1069,745"/>
+<area shape="rect" id="node21" href="$da/d43/class_mixing_output.html#a192f988f1c417be18fc5120ee882672c" title="Disarmed values: disarmedValue &lt; minValue needs to hold. " alt="" coords="652,1272,845,1299"/>
+<area shape="rect" id="node22" href="$da/d43/class_mixing_output.html#a15fe4af41977674e38a31ccc1dc337d2" title="MixingOutput::failsafeValue" alt="" coords="657,1323,840,1349"/>
+<area shape="rect" id="node23" href="$d9/dbb/class_mixer_group.html#a4fa3714b990c2552696fae0dbed90212" title="MixerGroup::get_trims" alt="" coords="673,1424,824,1451"/>
+<area shape="rect" id="node25" href="$da/d43/class_mixing_output.html#afcb0e6214f5b6f2a7f3dbcd15f11d28c" title="Load (append) a new mixer from a buffer, called from another thread. " alt="" coords="633,1373,864,1400"/>
+<area shape="rect" id="node28" href="$da/d43/class_mixing_output.html#a0ef4e6a83960bf7c77e8db423ba26f29" title="MixingOutput::maxValue" alt="" coords="666,1475,831,1501"/>
+<area shape="rect" id="node29" href="$da/d43/class_mixing_output.html#af645b07af63294c4da74fee862328579" title="MixingOutput::minValue" alt="" coords="668,1525,829,1552"/>
+<area shape="rect" id="node30" href="$da/d43/class_mixing_output.html#a6c31083f937f72fe6b6b17b1d424422c" title="MixingOutput::mixers" alt="" coords="922,868,1069,895"/>
+<area shape="rect" id="node31" href="$da/d43/class_mixing_output.html#a2468e5db2b2f06f64e58f02c6cbf3952" title="Reset (unload) the complete mixer, called from another thread. " alt="" coords="665,1206,833,1247"/>
+<area shape="rect" id="node32" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="912,995,1079,1021"/>
+<area shape="rect" id="node33" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="1127,930,1291,971"/>
+<area shape="rect" id="node35" href="$d9/dbb/class_mixer_group.html#a7c805254119d62180adbab7ed49e389b" title="MixerGroup::set_trims" alt="" coords="920,799,1071,825"/>
+<area shape="rect" id="node39" href="$d0/dbb/drv__pwm__output_8h.html#a6bb192ea76b78953f6b5a54ddda3c471" title="Get the current output value for a channel. " alt="" coords="681,1039,816,1065"/>
+<area shape="rect" id="node40" href="$d0/dbb/drv__pwm__output_8h.html#a4e3ecac6bbb17ef4c38ffd288a2a11e3" title="Set the current output value for a channel. " alt="" coords="681,1089,816,1116"/>
+<area shape="rect" id="node41" href="$df/d64/class_p_x4_f_m_u.html#a8cfa12dc982c977be9d0f9e00642d92c" title="PX4FMU::update_pwm\l_out_state" alt="" coords="669,1141,828,1182"/>
+<area shape="rect" id="node43" href="$df/d64/class_p_x4_f_m_u.html#a56ad319ce8088b6122e7cf96c07d4136" title="PX4FMU::update_pwm\l_trims" alt="" coords="669,821,828,862"/>
+<area shape="rect" id="node24" href="$d5/dd1/class_multirotor_mixer.html#ac893bacf6384f31c18e7c08b657ec4c6" title="Get trim offset for this mixer. " alt="" coords="914,1424,1077,1451"/>
+<area shape="rect" id="node26" href="$da/d43/class_mixing_output.html#a68f6d2d353b0760d70368169b2d540c7" title="MixingOutput::lock" alt="" coords="930,1240,1061,1267"/>
+<area shape="rect" id="node27" href="$da/d43/class_mixing_output.html#ab5e3af89fb50a1e7224a65352cc4f451" title="MixingOutput::unlock" alt="" coords="923,1319,1068,1345"/>
+<area shape="rect" id="node34" href="$d0/dbb/drv__pwm__output_8h.html#aace3976c339490fde77b5691afb34fcc" title="Set the update rate for a given rate group. " alt="" coords="1127,995,1291,1037"/>
+<area shape="rect" id="node36" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="1153,748,1265,775"/>
+<area shape="rect" id="node37" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1189,799,1228,825"/>
+<area shape="rect" id="node38" href="$d5/dd1/class_multirotor_mixer.html#af584e93b6d2fc36111bc3152d34406d5" title="Set trim offset for this mixer. " alt="" coords="1127,849,1290,876"/>
+<area shape="rect" id="node42" href="$d0/dbb/drv__pwm__output_8h.html#a282045de007d89d6943369f466628546" title="Intialise the PWM servo outputs using the specified configuration. " alt="" coords="928,1148,1063,1175"/>
+<area shape="rect" id="node45" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="670,56,827,83"/>
+<area shape="rect" id="node47" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="416,1039,572,1081"/>
+<area shape="rect" id="node48" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="416,1105,572,1132"/>
+<area shape="rect" id="node49" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="423,1157,565,1198"/>
 </map>

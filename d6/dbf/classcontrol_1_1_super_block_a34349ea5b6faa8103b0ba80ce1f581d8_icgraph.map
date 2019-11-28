@@ -1,24 +1,20 @@
 <map id="control::SuperBlock::setDt" name="control::SuperBlock::setDt">
-<area shape="rect" id="node2" href="$dd/d7b/namespacecontrol.html#a2767c4d0fe673354db2954c831c64970" title="control::blockDerivativeTest" alt="" coords="194,5,379,32"/>
-<area shape="rect" id="node7" href="$d9/de9/controllib__test__main_8cpp.html#a2767c4d0fe673354db2954c831c64970" title="blockDerivativeTest" alt="" coords="217,309,356,336"/>
-<area shape="rect" id="node8" href="$dd/d7b/namespacecontrol.html#a19be8e1de3005e69886bbefbfc283172" title="control::blockIntegralTest" alt="" coords="202,56,371,83"/>
-<area shape="rect" id="node9" href="$d9/de9/controllib__test__main_8cpp.html#a19be8e1de3005e69886bbefbfc283172" title="blockIntegralTest" alt="" coords="225,360,348,387"/>
-<area shape="rect" id="node10" href="$dd/d7b/namespacecontrol.html#ad068a6f167dcc9f46daae99169287091" title="control::blockIntegralTrapTest" alt="" coords="189,107,384,133"/>
-<area shape="rect" id="node11" href="$d9/de9/controllib__test__main_8cpp.html#ad068a6f167dcc9f46daae99169287091" title="blockIntegralTrapTest" alt="" coords="213,411,361,437"/>
-<area shape="rect" id="node12" href="$d9/de9/controllib__test__main_8cpp.html#ab7d854377ec051b372ad6b1639dcd26b" title="blockPDTest" alt="" coords="237,461,336,488"/>
-<area shape="rect" id="node13" href="$dd/d7b/namespacecontrol.html#ab7d854377ec051b372ad6b1639dcd26b" title="control::blockPDTest" alt="" coords="214,157,359,184"/>
-<area shape="rect" id="node14" href="$d9/de9/controllib__test__main_8cpp.html#ad9c6cef485ad53d7676095006ee03e15" title="blockPIDTest" alt="" coords="235,512,338,539"/>
-<area shape="rect" id="node15" href="$dd/d7b/namespacecontrol.html#ad9c6cef485ad53d7676095006ee03e15" title="control::blockPIDTest" alt="" coords="212,208,361,235"/>
-<area shape="rect" id="node16" href="$dd/d7b/namespacecontrol.html#a4305298b1841544e311b6c6a119074b2" title="control::blockPITest" alt="" coords="217,259,356,285"/>
-<area shape="rect" id="node17" href="$d9/de9/controllib__test__main_8cpp.html#a4305298b1841544e311b6c6a119074b2" title="blockPITest" alt="" coords="241,563,333,589"/>
-<area shape="rect" id="node18" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="199,614,374,655"/>
-<area shape="rect" id="node22" href="$d5/d01/class_block_local_position_estimator.html#ad15c4f6a9868f57abfc5b78f4e2165d9" title="BlockLocalPositionEstimator\l::update" alt="" coords="192,679,381,721"/>
-<area shape="rect" id="node3" href="$dd/d7b/namespacecontrol.html#a213586553ff1fb69f41627504f7e7309" title="control::basicBlocksTest" alt="" coords="461,107,627,133"/>
-<area shape="rect" id="node6" href="$d9/de9/controllib__test__main_8cpp.html#a213586553ff1fb69f41627504f7e7309" title="basicBlocksTest" alt="" coords="485,157,603,184"/>
-<area shape="rect" id="node4" href="$d5/d69/tests__main_8h.html#a6d80dfe13b380ca974674e83117d03a9" title="controllib_test_main" alt="" coords="722,107,861,133"/>
-<area shape="rect" id="node5" href="$d9/de9/controllib__test__main_8cpp.html#aa61b9540192392bfe67a791ff3c65e05" title="blockDelayTest" alt="" coords="945,107,1058,133"/>
-<area shape="rect" id="node19" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="457,614,631,655"/>
-<area shape="rect" id="node20" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="704,614,879,655"/>
-<area shape="rect" id="node21" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="927,621,1076,648"/>
-<area shape="rect" id="node23" href="$dc/d09/class_local_position_estimator_module.html#a6e620e76d8f8c8d6a87fe2246c30bde9" title="LocalPositionEstimatorModule::run" alt="" coords="432,687,656,713"/>
+<area shape="rect" id="node2" href="$dd/d7b/namespacecontrol.html#a2767c4d0fe673354db2954c831c64970" title="control::blockDerivativeTest" alt="" coords="207,5,393,32"/>
+<area shape="rect" id="node7" href="$d9/de9/controllib__test__main_8cpp.html#a2767c4d0fe673354db2954c831c64970" title="blockDerivativeTest" alt="" coords="231,309,369,336"/>
+<area shape="rect" id="node8" href="$dd/d7b/namespacecontrol.html#a19be8e1de3005e69886bbefbfc283172" title="control::blockIntegralTest" alt="" coords="215,56,385,83"/>
+<area shape="rect" id="node9" href="$d9/de9/controllib__test__main_8cpp.html#a19be8e1de3005e69886bbefbfc283172" title="blockIntegralTest" alt="" coords="239,360,361,387"/>
+<area shape="rect" id="node10" href="$dd/d7b/namespacecontrol.html#ad068a6f167dcc9f46daae99169287091" title="control::blockIntegralTrapTest" alt="" coords="203,107,397,133"/>
+<area shape="rect" id="node11" href="$d9/de9/controllib__test__main_8cpp.html#ad068a6f167dcc9f46daae99169287091" title="blockIntegralTrapTest" alt="" coords="226,411,374,437"/>
+<area shape="rect" id="node12" href="$d9/de9/controllib__test__main_8cpp.html#ab7d854377ec051b372ad6b1639dcd26b" title="blockPDTest" alt="" coords="251,461,349,488"/>
+<area shape="rect" id="node13" href="$dd/d7b/namespacecontrol.html#ab7d854377ec051b372ad6b1639dcd26b" title="control::blockPDTest" alt="" coords="227,157,373,184"/>
+<area shape="rect" id="node14" href="$d9/de9/controllib__test__main_8cpp.html#ad9c6cef485ad53d7676095006ee03e15" title="blockPIDTest" alt="" coords="249,512,351,539"/>
+<area shape="rect" id="node15" href="$dd/d7b/namespacecontrol.html#ad9c6cef485ad53d7676095006ee03e15" title="control::blockPIDTest" alt="" coords="225,208,375,235"/>
+<area shape="rect" id="node16" href="$dd/d7b/namespacecontrol.html#a4305298b1841544e311b6c6a119074b2" title="control::blockPITest" alt="" coords="231,259,369,285"/>
+<area shape="rect" id="node17" href="$d9/de9/controllib__test__main_8cpp.html#a4305298b1841544e311b6c6a119074b2" title="blockPITest" alt="" coords="254,563,346,589"/>
+<area shape="rect" id="node18" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="197,613,403,640"/>
+<area shape="rect" id="node19" href="$d5/d01/class_block_local_position_estimator.html#a34216107cee0bbde413b794a4c76da59" title="BlockLocalPositionEstimator::Run" alt="" coords="189,664,411,691"/>
+<area shape="rect" id="node3" href="$dd/d7b/namespacecontrol.html#a213586553ff1fb69f41627504f7e7309" title="control::basicBlocksTest" alt="" coords="459,107,625,133"/>
+<area shape="rect" id="node6" href="$d9/de9/controllib__test__main_8cpp.html#a213586553ff1fb69f41627504f7e7309" title="basicBlocksTest" alt="" coords="483,157,601,184"/>
+<area shape="rect" id="node4" href="$d5/d69/tests__main_8h.html#a6d80dfe13b380ca974674e83117d03a9" title="controllib_test_main" alt="" coords="673,107,812,133"/>
+<area shape="rect" id="node5" href="$d9/de9/controllib__test__main_8cpp.html#aa61b9540192392bfe67a791ff3c65e05" title="blockDelayTest" alt="" coords="860,107,973,133"/>
 </map>

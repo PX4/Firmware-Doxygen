@@ -1,9 +1,5 @@
 <map id="FlightTasks::switchVehicleCommand" name="FlightTasks::switchVehicleCommand">
-<area shape="rect" id="node2" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="232,35,436,61"/>
-<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="484,35,621,61"/>
-<area shape="rect" id="node4" href="$dc/d0c/class_flight_tasks.html#a480987e23ccc705b407d5ad5b40ac4f6" title="FlightTasks::~FlightTasks" alt="" coords="669,5,844,32"/>
-<area shape="rect" id="node5" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="669,57,844,98"/>
-<area shape="rect" id="node6" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="892,57,1067,98"/>
-<area shape="rect" id="node7" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="1115,57,1289,98"/>
-<area shape="rect" id="node8" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="1337,64,1487,91"/>
+<area shape="rect" id="node2" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="232,13,436,39"/>
+<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="484,13,621,39"/>
+<area shape="rect" id="node4" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="669,13,876,39"/>
 </map>

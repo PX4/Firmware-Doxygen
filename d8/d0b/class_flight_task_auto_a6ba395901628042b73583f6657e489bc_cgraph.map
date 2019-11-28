@@ -1,7 +1,38 @@
 <map id="FlightTaskAuto::_evaluateTriplets" name="FlightTaskAuto::_evaluateTriplets">
-<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="287,5,325,32"/>
-<area shape="rect" id="node3" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="228,56,384,83"/>
-<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="461,5,573,32"/>
-<area shape="rect" id="node5" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="432,56,603,83"/>
-<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="467,107,568,133"/>
+<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#a7c94370d1b91ea16cf6d6a08823c9bdf" title="Computes the current vehicle state based on the vehicle position and navigator triplets. " alt="" coords="249,517,436,558"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="582,360,621,387"/>
+<area shape="rect" id="node7" href="$d8/d0b/class_flight_task_auto.html#ab2ab1b914ffdcb9f52f3660458dcfdc5" title="Checks if all waypoint triplets are finite. " alt="" coords="259,957,426,984"/>
+<area shape="rect" id="node8" href="$d8/d0b/class_flight_task_auto.html#a2e511bab598739e403729afb599ac51d" title="FlightTaskAuto::_set\l_heading_from_mode" alt="" coords="269,790,416,831"/>
+<area shape="rect" id="node9" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="505,915,697,941"/>
+<area shape="rect" id="node10" href="$dd/df8/classmatrix_1_1_matrix.html#a4163a26330438ee8657f840c8ef13fcd" title="matrix::Matrix::setAll" alt="" coords="530,965,673,992"/>
+<area shape="rect" id="node17" href="$d8/d0b/class_flight_task_auto.html#acb35e3d8a4ff193dcceb34b2478623b4" title="Depending on state of vehicle, the internal waypoints might differ from target (for instance if offtr..." alt="" coords="239,1009,446,1050"/>
+<area shape="rect" id="node18" href="$d0/d24/class_weather_vane.html#a890f1d51d0a68ecc38aef0ca199c3cfe" title="WeatherVane::activate" alt="" coords="265,1075,420,1101"/>
+<area shape="rect" id="node19" href="$d2/da2/class_obstacle_avoidance.html#a7ff259ae71a32cff685d18ec7245a947" title="Checks the vehicle progress between previous and current position waypoint of the triplet..." alt="" coords="257,582,428,623"/>
+<area shape="rect" id="node26" href="$d0/d24/class_weather_vane.html#a57c9b82b94312f9c0ae20ebd36886986" title="WeatherVane::deactivate" alt="" coords="258,1125,427,1152"/>
+<area shape="rect" id="node27" href="$d0/d24/class_weather_vane.html#a5cd3def7a9bfddc877ac1369ac9dbec9" title="WeatherVane::get_weathervane\l_yawrate" alt="" coords="239,302,447,343"/>
+<area shape="rect" id="node30" href="$d0/d24/class_weather_vane.html#a49eaebbc5639a8db84ae107f76a7a561" title="WeatherVane::is_active" alt="" coords="262,1176,423,1203"/>
+<area shape="rect" id="node31" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="265,157,421,184"/>
+<area shape="rect" id="node35" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="303,1227,383,1253"/>
+<area shape="rect" id="node36" href="$d2/da2/class_obstacle_avoidance.html#a6d09dece2f4df92c8d916884f8341114" title="Updates the desired waypoints to send to the obstacle avoidance system. " alt="" coords="228,725,457,766"/>
+<area shape="rect" id="node6" href="$d1/d71/classmatrix_1_1_vector.html#abd91dec134022f2adbd739b4ced6806d" title="matrix::Vector::length" alt="" coords="762,700,909,727"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="794,157,877,184"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1005,157,1091,184"/>
+<area shape="rect" id="node11" href="$d8/d0b/class_flight_task_auto.html#a6208d517ae36af0264e68ee89e93b114" title="Computes and sets heading a 2D vector. " alt="" coords="514,849,689,890"/>
+<area shape="rect" id="node12" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="751,520,919,547"/>
+<area shape="rect" id="node13" href="$dd/d47/namespacemath.html#a170c8bc1488f2665d663d8234e3356a6" title="math::sign" alt="" coords="794,881,877,908"/>
+<area shape="rect" id="node14" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="780,831,891,857"/>
+<area shape="rect" id="node15" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="1001,831,1095,857"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="1171,831,1261,857"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="539,696,664,723"/>
+<area shape="rect" id="node21" href="$de/da3/classsystemlib_1_1_hysteresis.html#a9f0030350385b6706985db5c89ffff37" title="systemlib::Hysteresis\l::set_state_and_update" alt="" coords="756,403,915,445"/>
+<area shape="rect" id="node23" href="$de/da3/classsystemlib_1_1_hysteresis.html#aaf083e00c155bef129f1b06c2c0d3b1b" title="systemlib::Hysteresis\l::get_state" alt="" coords="527,462,676,503"/>
+<area shape="rect" id="node25" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="532,579,671,621"/>
+<area shape="rect" id="node22" href="$de/da3/classsystemlib_1_1_hysteresis.html#a829e7ae5e2a4888b2045503c1073366c" title="systemlib::Hysteresis\l::update" alt="" coords="973,433,1123,474"/>
+<area shape="rect" id="node24" href="$de/da3/classsystemlib_1_1_hysteresis.html#ab6beddd49f853bc44d352bff928944fa" title="systemlib::Hysteresis\l::set_hysteresis_time_from" alt="" coords="745,571,925,613"/>
+<area shape="rect" id="node28" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="551,259,652,285"/>
+<area shape="rect" id="node29" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="545,208,657,235"/>
+<area shape="rect" id="node32" href="$d0/de4/namespacematrix.html#a86262fad1a82743f455537b64e00fc2e" title="matrix::acos" alt="" coords="554,5,649,32"/>
+<area shape="rect" id="node34" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="516,107,687,133"/>
+<area shape="rect" id="node33" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="791,5,879,32"/>
+<area shape="rect" id="node37" href="$dd/df8/classmatrix_1_1_matrix.html#a46af950c7f4bdbba51525788362f1d85" title="matrix::Matrix::copyTo" alt="" coords="525,747,678,773"/>
 </map>

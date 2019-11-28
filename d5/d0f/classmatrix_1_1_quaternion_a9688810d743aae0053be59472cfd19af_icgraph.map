@@ -1,15 +1,22 @@
 <map id="matrix::Quaternion::Quaternion" name="matrix::Quaternion::Quaternion">
-<area shape="rect" id="node2" href="$d5/d0f/classmatrix_1_1_quaternion.html#a08faf8e3f24ad91d4b690ee3f924f709" title="XXX DEPRECATED, can use assignment or ctor. " alt="" coords="183,86,312,127"/>
-<area shape="rect" id="node7" href="$d5/d0f/classmatrix_1_1_quaternion.html#a062e2b2e59cf4d95df01a2ce7bdb837c" title="Invert quaternion. " alt="" coords="183,283,312,325"/>
-<area shape="rect" id="node3" href="$d9/d0a/attitude_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="723,173,774,200"/>
-<area shape="rect" id="node4" href="$d0/d09/class_mathlib_test.html#a7e123045430eced26d47e0952c1e71a0" title="MathlibTest::testQuaternionfrom_dcm" alt="" coords="360,5,601,32"/>
-<area shape="rect" id="node6" href="$d0/d09/class_mathlib_test.html#a15df8ca8d3e886076ee8989e96e38cd1" title="MathlibTest::testQuaternionfrom\l_euler" alt="" coords="376,57,585,98"/>
-<area shape="rect" id="node5" href="$d0/d09/class_mathlib_test.html#a04830b727cb00cfdbc31c2b689bb2874" title="Override to run your unit tests. " alt="" coords="673,35,825,61"/>
-<area shape="rect" id="node8" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4a0548cee9d5d5658ee7e30cf3da8ad6" title="Invert quaternion in place. " alt="" coords="416,225,545,266"/>
-<area shape="rect" id="node9" href="$d7/d3a/class_matrix_test.html#a1e8a2ae6c70329c9d9a6459beda83146" title="MatrixTest::attitudeTests" alt="" coords="665,261,833,288"/>
-<area shape="rect" id="node10" href="$de/d9c/class_ekf2.html#ada49ce22a95deeddaaa869cad8e144ef" title="Ekf2::get_vel_body_wind" alt="" coords="397,341,565,368"/>
-<area shape="rect" id="node12" href="$d9/d0c/class_multicopter_attitude_control.html#af1a62e2fc06cb9482dd8cc533803f630" title="Attitude controller. " alt="" coords="394,393,567,434"/>
-<area shape="rect" id="node14" href="$de/df2/class_standard.html#a246f162605bcb85415bb40efaf0fec83" title="Update vtol state. " alt="" coords="406,458,555,499"/>
-<area shape="rect" id="node11" href="$de/d9c/class_ekf2.html#afaaaf8e67b274673c3ab59fe147d570b" title="Ekf2::run" alt="" coords="711,341,786,368"/>
-<area shape="rect" id="node13" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="649,400,848,427"/>
+<area shape="rect" id="node2" href="$d5/d0f/classmatrix_1_1_quaternion.html#a48d78d0eafa1e47ade092eb5a8d2c153" title="Return canonical form of the quaternion. " alt="" coords="183,207,312,248"/>
+<area shape="rect" id="node5" href="$d5/d0f/classmatrix_1_1_quaternion.html#aeb1c696edf4f6d7214a6141beeddab94" title="XXX DEPRECATED, can use assignment or ctor. " alt="" coords="183,89,312,131"/>
+<area shape="rect" id="node9" href="$d5/d0f/classmatrix_1_1_quaternion.html#a927139e64c756ccec9a55c3047dd047d" title="Invert quaternion. " alt="" coords="183,371,312,412"/>
+<area shape="rect" id="node3" href="$d5/d0f/classmatrix_1_1_quaternion.html#ad28aa2672a7da8d783d7bd5069f17d85" title="Bring quaternion to canonical form. " alt="" coords="416,173,545,215"/>
+<area shape="rect" id="node4" href="$d9/d0a/attitude_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="705,239,756,266"/>
+<area shape="rect" id="node6" href="$d0/d09/class_mathlib_test.html#a7e123045430eced26d47e0952c1e71a0" title="MathlibTest::testQuaternionfrom_dcm" alt="" coords="360,71,601,98"/>
+<area shape="rect" id="node8" href="$d0/d09/class_mathlib_test.html#a15df8ca8d3e886076ee8989e96e38cd1" title="MathlibTest::testQuaternionfrom\l_euler" alt="" coords="376,5,585,47"/>
+<area shape="rect" id="node7" href="$d0/d09/class_mathlib_test.html#a04830b727cb00cfdbc31c2b689bb2874" title="Override to run your unit tests. " alt="" coords="655,42,807,69"/>
+<area shape="rect" id="node10" href="$d5/d0f/classmatrix_1_1_quaternion.html#a4a0548cee9d5d5658ee7e30cf3da8ad6" title="Invert quaternion in place. " alt="" coords="416,341,545,383"/>
+<area shape="rect" id="node11" href="$d7/d3a/class_matrix_test.html#acdd54e5697b95fb9103ee7623957180d" title="Override to run your unit tests. " alt="" coords="657,371,804,398"/>
+<area shape="rect" id="node12" href="$de/d9c/class_ekf2.html#ada49ce22a95deeddaaa869cad8e144ef" title="Ekf2::get_vel_body_wind" alt="" coords="397,458,565,485"/>
+<area shape="rect" id="node14" href="$d9/d57/class_attitude_control.html#aac180ba23a01fc3d0c4fe158ff706fac" title="Run one control loop cycle calculation. " alt="" coords="403,521,559,547"/>
+<area shape="rect" id="node13" href="$de/d9c/class_ekf2.html#aa9d0494340430e589883d23899a2bd76" title="Ekf2::Run" alt="" coords="690,445,771,471"/>
+<area shape="rect" id="node15" href="$d9/d0c/class_multicopter_attitude_control.html#a5cdb410d4601bb24ebed927788237717" title="Attitude controller. " alt="" coords="860,536,1033,577"/>
+<area shape="rect" id="node17" href="$d9/d57/class_attitude_control.html#ac3d0e5d227e086eddbae4a46f8866d68" title="Set hard limit for output rate setpoints. " alt="" coords="649,599,812,640"/>
+<area shape="rect" id="node21" href="$d8/d08/_attitude_control_test_8cpp.html#a4a8c74b301722c1222e1ae2fbb3ae784" title="TEST" alt="" coords="703,495,759,522"/>
+<area shape="rect" id="node16" href="$d9/d0c/class_multicopter_attitude_control.html#af1b60dba92718a043b3dd37ad9bdec58" title="MulticopterAttitudeControl::Run" alt="" coords="1081,547,1287,574"/>
+<area shape="rect" id="node18" href="$d9/d0c/class_multicopter_attitude_control.html#a72315657f11582aefd1777046ee6b036" title="initialize some vectors/matrices from parameters " alt="" coords="860,601,1033,643"/>
+<area shape="rect" id="node19" href="$d9/d0c/class_multicopter_attitude_control.html#ae4d5bc070557f794173355cb3e3257ba" title="MulticopterAttitudeControl\l::MulticopterAttitudeControl" alt="" coords="1093,601,1275,643"/>
+<area shape="rect" id="node20" href="$d9/d0c/class_multicopter_attitude_control.html#aedbb9921f179ce507362d251764bd4c5" title="MulticopterAttitudeControl\l::task_spawn" alt="" coords="1335,601,1508,643"/>
 </map>

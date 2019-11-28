@@ -1,12 +1,17 @@
 <map id="Mission::heading_sp_update" name="Mission::heading_sp_update">
-<area shape="rect" id="node2" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="195,5,373,47"/>
-<area shape="rect" id="node3" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="215,136,353,177"/>
-<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="421,171,532,198"/>
-<area shape="rect" id="node7" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="211,71,357,112"/>
-<area shape="rect" id="node8" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="211,253,357,295"/>
-<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="206,319,362,360"/>
-<area shape="rect" id="node10" href="$d0/df9/class_navigator.html#a8ba03fdfd363df17b639828bc7f37d5d" title="Navigator::get_vroi" alt="" coords="218,385,350,411"/>
-<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="201,436,367,477"/>
-<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="426,117,527,143"/>
-<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="580,171,691,198"/>
+<area shape="rect" id="node2" href="$d0/df9/class_navigator.html#a20d05a024791b62ea3b6ce5ca57f969e" title="Get the acceptance radius. " alt="" coords="195,78,373,119"/>
+<area shape="rect" id="node3" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="215,209,353,250"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="421,309,532,336"/>
+<area shape="rect" id="node10" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="211,143,357,185"/>
+<area shape="rect" id="node13" href="$d0/df9/class_navigator.html#a6b29aee2334c4b825cc3bb95a5c51452" title="Navigator::get_global\l_position" alt="" coords="211,326,357,367"/>
+<area shape="rect" id="node14" href="$d0/df9/class_navigator.html#a2ac36f2fb34363f3ca882cd8cbeb4171" title="Navigator::get_position\l_setpoint_triplet" alt="" coords="206,391,362,433"/>
+<area shape="rect" id="node15" href="$d0/df9/class_navigator.html#a8ba03fdfd363df17b639828bc7f37d5d" title="Navigator::get_vroi" alt="" coords="218,457,350,484"/>
+<area shape="rect" id="node16" href="$d0/df9/class_navigator.html#a5f3df0372d7fe932f8d158c2401890b0" title="Navigator::set_position\l_setpoint_triplet_updated" alt="" coords="201,509,367,550"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="433,208,520,235"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="586,208,669,235"/>
+<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="426,157,527,184"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="580,309,675,336"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="723,309,813,336"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="427,56,526,83"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="433,5,521,32"/>
 </map>

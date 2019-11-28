@@ -1,9 +1,7 @@
 <map id="LPS22HB::write_reg" name="LPS22HB::write_reg">
-<area shape="rect" id="node2" href="$d6/d73/class_l_p_s22_h_b.html#aa8442fac57341a97bde24c5beb16aafc" title="Issue a measurement command. " alt="" coords="195,56,333,83"/>
-<area shape="rect" id="node8" href="$d6/d73/class_l_p_s22_h_b.html#a26c3714f696818153dd8832eb4e29560" title="Reset the device. " alt="" coords="783,107,900,133"/>
-<area shape="rect" id="node3" href="$d6/d73/class_l_p_s22_h_b.html#ac722012817a2e619faa9a8b3337631d6" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="381,31,500,57"/>
-<area shape="rect" id="node4" href="$d6/d73/class_l_p_s22_h_b.html#accc060122f5b4be3d86669d948f82e2f" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="548,5,735,32"/>
-<area shape="rect" id="node5" href="$d6/d73/class_l_p_s22_h_b.html#aaf9e229231b16402ebe8502a38090f96" title="Initialise the automatic measurement state machine and start it. " alt="" coords="784,56,899,83"/>
-<area shape="rect" id="node6" href="$d6/d73/class_l_p_s22_h_b.html#a548a333218c13130dcf2a9dafe90c337" title="Initialise the driver and make it ready for use. " alt="" coords="951,56,1057,83"/>
-<area shape="rect" id="node7" href="$d6/d73/class_l_p_s22_h_b.html#ad7f1d0a77b815836c0a794b9128af38c" title="LPS22HB::ioctl" alt="" coords="948,107,1060,133"/>
+<area shape="rect" id="node2" href="$d6/d73/class_l_p_s22_h_b.html#aa8442fac57341a97bde24c5beb16aafc" title="Issue a measurement command. " alt="" coords="195,5,333,32"/>
+<area shape="rect" id="node4" href="$d6/d73/class_l_p_s22_h_b.html#a26c3714f696818153dd8832eb4e29560" title="Reset the device. " alt="" coords="205,56,323,83"/>
+<area shape="rect" id="node3" href="$d6/d73/class_l_p_s22_h_b.html#a78d011996280748d5906860f841a30b6" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="381,5,493,32"/>
+<area shape="rect" id="node5" href="$d6/d73/class_l_p_s22_h_b.html#a548a333218c13130dcf2a9dafe90c337" title="LPS22HB::init" alt="" coords="385,56,490,83"/>
+<area shape="rect" id="node6" href="$d6/d73/class_l_p_s22_h_b.html#ad7f1d0a77b815836c0a794b9128af38c" title="LPS22HB::ioctl" alt="" coords="381,107,493,133"/>
 </map>

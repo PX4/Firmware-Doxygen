@@ -1,51 +1,51 @@
 <map id="df_mpu9250_wrapper::start" name="df_mpu9250_wrapper::start">
-<area shape="rect" id="node2" href="$df/d4c/class_df_mpu9250_wrapper.html#a04188fb131ac23574b920086af8177ad" title="DfMpu9250Wrapper::DfMpu9250\lWrapper" alt="" coords="420,934,633,976"/>
-<area shape="rect" id="node8" href="$df/d4c/class_df_mpu9250_wrapper.html#a477211cd7ee571404813ba49a6e92746" title="Start automatic measurement. " alt="" coords="200,779,372,806"/>
-<area shape="rect" id="node3" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="720,818,807,844"/>
-<area shape="rect" id="node4" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="722,868,805,895"/>
-<area shape="rect" id="node5" href="$de/de9/px4__param_8h.html#a2b8101dab7f22f9995c2db92891af07e" title="get the parameter handle from a parameter enum " alt="" coords="712,934,815,960"/>
-<area shape="rect" id="node6" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a5c1390c1bca03d0eb9229ddccfbede24" title="Change filter parameters. " alt="" coords="685,752,841,793"/>
-<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1891,791,1929,818"/>
-<area shape="rect" id="node9" href="$df/d4c/class_df_mpu9250_wrapper.html#a842d663abb44465ab01ace2842616746" title="DfMpu9250Wrapper::\l_update_accel_calibration" alt="" coords="441,738,613,780"/>
-<area shape="rect" id="node10" href="$df/d4c/class_df_mpu9250_wrapper.html#a74ed0641f01554994ccb99bd75c23f53" title="DfMpu9250Wrapper::\l_update_gyro_calibration" alt="" coords="443,804,610,845"/>
-<area shape="rect" id="node11" href="$df/d4c/class_df_mpu9250_wrapper.html#abc01ce104d0d68c12b5a7f348c277a36" title="DfMpu9250Wrapper::\l_update_mag_calibration" alt="" coords="443,869,610,910"/>
-<area shape="rect" id="node12" href="$df/dd9/class_m_p_u9250.html#a850810ef1e5c7b8a8effca5db13c9ef1" title="Initialise the driver and make it ready for use. " alt="" coords="474,431,579,458"/>
-<area shape="rect" id="node21" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="930,35,1065,62"/>
-<area shape="rect" id="node45" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="475,1000,578,1027"/>
-<area shape="rect" id="node47" href="$df/dd9/class_m_p_u9250.html#a2485fa3239d5d585b8768119ef7e3a64" title="Start automatic measurement. " alt="" coords="940,675,1055,702"/>
-<area shape="rect" id="node13" href="$d5/d16/class_m_p_u9250__mag.html#aec7b5654264bfdf2846f94b4887fdd3d" title="MPU9250_mag::ak8963\l_reset" alt="" coords="682,482,845,524"/>
-<area shape="rect" id="node16" href="$d5/d99/class_m_p_u9250__gyro.html#ae2b4e50a7692528350af42c1bbce5297" title="Initialise the driver and make it ready for use. " alt="" coords="695,380,832,407"/>
-<area shape="rect" id="node17" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="953,380,1041,407"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="921,314,1074,356"/>
-<area shape="rect" id="node20" href="$d5/d16/class_m_p_u9250__mag.html#aa95c429ad9828b8fb83fca27b616b74a" title="Initialise the driver and make it ready for use. " alt="" coords="695,330,832,356"/>
-<area shape="rect" id="node24" href="$df/dd9/class_m_p_u9250.html#a62cbaf302a8d3d0c25f5d82f8fbf1964" title="Get the internal / external state. " alt="" coords="688,599,839,626"/>
-<area shape="rect" id="node25" href="$df/dd9/class_m_p_u9250.html#ae6781878f2714e8085819dd5d9ef9287" title="MPU9250::is_i2c" alt="" coords="936,228,1059,255"/>
-<area shape="rect" id="node26" href="$d5/d16/class_m_p_u9250__mag.html#a3bc4a1e9f946a7ff41b0dd11dd54554f" title="MPU9250_mag::is_passthrough" alt="" coords="893,178,1101,204"/>
-<area shape="rect" id="node28" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="1403,548,1541,575"/>
-<area shape="rect" id="node42" href="$df/dd9/class_m_p_u9250.html#a68479d1283b0fcbfff0bb45d8823578e" title="MPU9250::probe" alt="" coords="703,650,823,676"/>
-<area shape="rect" id="node43" href="$df/dd9/class_m_p_u9250.html#a167b38dd4cb9e7db71bf5e32c520d34d" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="689,178,838,204"/>
-<area shape="rect" id="node44" href="$d6/d55/class_integrator.html#ac18c37714b408b9b7aeb6150dbdda380" title="Set auto reset interval during runtime. " alt="" coords="681,112,845,153"/>
-<area shape="rect" id="node14" href="$d5/d16/class_m_p_u9250__mag.html#aab10b88fc5d1bbabf250b516da7c331a" title="MPU9250_mag::ak8963\l_setup" alt="" coords="916,482,1079,524"/>
-<area shape="rect" id="node15" href="$d5/d16/class_m_p_u9250__mag.html#adc6747d96e400031f52949fabef851f8" title="MPU9250_mag::write_reg" alt="" coords="1165,460,1339,487"/>
-<area shape="rect" id="node18" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="1189,380,1315,407"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="2221,777,2364,818"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1181,86,1323,128"/>
-<area shape="rect" id="node27" href="$df/dd9/class_m_p_u9250.html#ae55bce6cc4d0e75fcebe8a6f41b24daf" title="Measurement self test. " alt="" coords="1183,178,1321,204"/>
-<area shape="rect" id="node32" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="2049,211,2172,238"/>
-<area shape="rect" id="node29" href="$d5/d16/class_m_p_u9250__mag.html#a8680a969755273d73edba631d7cf32ff" title="MPU9250_mag::_measure" alt="" coords="1821,515,1999,542"/>
-<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="2048,566,2173,592"/>
-<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="2067,784,2155,811"/>
-<area shape="rect" id="node33" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="1603,784,1759,825"/>
-<area shape="rect" id="node34" href="$df/dd9/class_m_p_u9250.html#ac6a98f3cdd7d0de404b532d9b6b5b5e8" title="MPU9250::check_duplicate" alt="" coords="1589,363,1772,390"/>
-<area shape="rect" id="node35" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1874,363,1946,390"/>
-<area shape="rect" id="node36" href="$df/dd9/class_m_p_u9250.html#a9c745af99b7d4d55d899ae5b016313eb" title="MPU9250::check_null_data" alt="" coords="1589,312,1772,339"/>
-<area shape="rect" id="node37" href="$df/dd9/class_m_p_u9250.html#ab7ffef3c6d49afbaebdb7caa8ce5098d" title="MPU9250::check_registers" alt="" coords="1820,566,2000,592"/>
-<area shape="rect" id="node38" href="$d6/d1e/conversions_8c.html#adcfc38898c99b0a7987a8c53de2e37b8" title="Converts a signed 16 bit integer from big endian to little endian. " alt="" coords="1614,667,1747,694"/>
-<area shape="rect" id="node39" href="$d5/d16/class_m_p_u9250__mag.html#a14f964ed506f7c0d8907b6a46b509fbf" title="MPU9250_mag::measure" alt="" coords="1595,464,1766,491"/>
-<area shape="rect" id="node40" href="$d5/d99/class_m_p_u9250__gyro.html#a8c75646e9b0b8f340c0a2d3d06687cc6" title="MPU9250_gyro::parent\l_poll_notify" alt="" coords="1603,718,1759,760"/>
-<area shape="rect" id="node41" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1639,262,1722,288"/>
-<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="692,985,835,1026"/>
-<area shape="rect" id="node48" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1201,700,1303,727"/>
-<area shape="rect" id="node49" href="$df/dd9/class_m_p_u9250.html#a971325edc6663ed643a8113617f7e7bd" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="1149,650,1355,676"/>
-<area shape="rect" id="node50" href="$df/dd9/class_m_p_u9250.html#a117a8049159359180786726a7abcd9f6" title="Stop automatic measurement. " alt="" coords="1195,599,1309,626"/>
+<area shape="rect" id="node2" href="$df/d4c/class_df_mpu9250_wrapper.html#a04188fb131ac23574b920086af8177ad" title="DfMpu9250Wrapper::DfMpu9250\lWrapper" alt="" coords="420,691,633,732"/>
+<area shape="rect" id="node33" href="$df/d4c/class_df_mpu9250_wrapper.html#a477211cd7ee571404813ba49a6e92746" title="Start automatic measurement. " alt="" coords="200,601,372,627"/>
+<area shape="rect" id="node3" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="719,567,806,594"/>
+<area shape="rect" id="node10" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="721,641,804,667"/>
+<area shape="rect" id="node32" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a5c1390c1bca03d0eb9229ddccfbede24" title="math::LowPassFilter2p\l::set_cutoff_frequency" alt="" coords="918,793,1074,835"/>
+<area shape="rect" id="node4" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="929,489,1063,515"/>
+<area shape="rect" id="node5" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1562,387,1713,414"/>
+<area shape="rect" id="node6" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="1148,539,1315,566"/>
+<area shape="rect" id="node7" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1190,641,1273,667"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1195,590,1267,617"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1373,615,1499,642"/>
+<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1212,691,1251,718"/>
+<area shape="rect" id="node13" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1579,995,1695,1022"/>
+<area shape="rect" id="node15" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="925,387,1067,414"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="930,742,1062,769"/>
+<area shape="rect" id="node21" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1183,1214,1280,1241"/>
+<area shape="rect" id="node22" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="930,859,1062,886"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1391,995,1481,1022"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="951,337,1041,363"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="923,539,1069,566"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1395,691,1477,718"/>
+<area shape="rect" id="node14" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1765,995,1916,1022"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1378,261,1494,287"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1363,362,1509,389"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1160,387,1303,414"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1186,235,1277,262"/>
+<area shape="rect" id="node23" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="1151,742,1311,769"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="1172,1046,1291,1073"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1557,818,1717,845"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1365,843,1507,870"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1160,945,1303,971"/>
+<area shape="rect" id="node29" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="1160,1097,1303,1139"/>
+<area shape="rect" id="node34" href="$df/d4c/class_df_mpu9250_wrapper.html#a842d663abb44465ab01ace2842616746" title="DfMpu9250Wrapper::\l_update_accel_calibration" alt="" coords="441,625,613,667"/>
+<area shape="rect" id="node35" href="$df/d4c/class_df_mpu9250_wrapper.html#a74ed0641f01554994ccb99bd75c23f53" title="DfMpu9250Wrapper::\l_update_gyro_calibration" alt="" coords="443,495,610,536"/>
+<area shape="rect" id="node36" href="$df/d4c/class_df_mpu9250_wrapper.html#abc01ce104d0d68c12b5a7f348c277a36" title="DfMpu9250Wrapper::\l_update_mag_calibration" alt="" coords="443,560,610,601"/>
+<area shape="rect" id="node37" href="$df/dd9/class_m_p_u9250.html#a850810ef1e5c7b8a8effca5db13c9ef1" title="MPU9250::init" alt="" coords="474,223,579,250"/>
+<area shape="rect" id="node44" href="$df/dd9/class_m_p_u9250.html#a2485fa3239d5d585b8768119ef7e3a64" title="MPU9250::start" alt="" coords="705,325,820,351"/>
+<area shape="rect" id="node46" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="459,757,594,783"/>
+<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="475,822,578,849"/>
+<area shape="rect" id="node38" href="$d5/d16/class_m_p_u9250__mag.html#ae13ace90a4918b9b438b79884c95b370" title="MPU9250_mag::ak8963\l_reset" alt="" coords="681,5,844,47"/>
+<area shape="rect" id="node39" href="$dd/dd3/classdevice_1_1_device.html#ab1fa70de857611a978e518a7c8e170df" title="Return the bus type the device is connected to. " alt="" coords="929,220,1063,261"/>
+<area shape="rect" id="node40" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="695,71,830,98"/>
+<area shape="rect" id="node41" href="$d5/d16/class_m_p_u9250__mag.html#a3bc4a1e9f946a7ff41b0dd11dd54554f" title="MPU9250_mag::is_passthrough" alt="" coords="892,169,1100,195"/>
+<area shape="rect" id="node42" href="$df/dd9/class_m_p_u9250.html#a68479d1283b0fcbfff0bb45d8823578e" title="whoami result " alt="" coords="703,122,823,149"/>
+<area shape="rect" id="node43" href="$df/dd9/class_m_p_u9250.html#a167b38dd4cb9e7db71bf5e32c520d34d" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="688,223,837,250"/>
+<area shape="rect" id="node45" href="$df/dd9/class_m_p_u9250.html#a117a8049159359180786726a7abcd9f6" title="MPU9250::stop" alt="" coords="939,286,1053,313"/>
+<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="691,815,834,856"/>
+<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="691,749,834,791"/>
+<area shape="rect" id="node50" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="691,880,834,921"/>
 </map>

@@ -3,7 +3,7 @@ var class_battery =
     [ "Battery", "dc/df2/class_battery.html#a36a6234c583e3b3506f4a77e3eb49989", null ],
     [ "cell_count", "dc/df2/class_battery.html#a1173757e4aa7b322d024fe99ff4055da", null ],
     [ "computeScale", "dc/df2/class_battery.html#a86cc6b86a8d8c303cedec5b0d92c41e8", null ],
-    [ "DEFINE_PARAMETERS", "dc/df2/class_battery.html#ab1280552acce7062fd7c1403aba48f26", null ],
+    [ "DEFINE_PARAMETERS", "dc/df2/class_battery.html#a7edfb4be234d2b518f89222abdc88939", null ],
     [ "determineWarning", "dc/df2/class_battery.html#a82b5818fadc040214d7be5624ece7890", null ],
     [ "empty_cell_voltage", "dc/df2/class_battery.html#ae3de4b91b6ae264904ae6589ce1e9b08", null ],
     [ "estimateRemaining", "dc/df2/class_battery.html#a34d7f6fbe91611d2112349bd27aa3596", null ],

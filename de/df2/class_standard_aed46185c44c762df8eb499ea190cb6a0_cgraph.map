@@ -1,0 +1,32 @@
+<map id="Standard::update_mc_state" name="Standard::update_mc_state">
+<area shape="rect" id="node2" href="$dd/df8/classmatrix_1_1_matrix.html#a46af950c7f4bdbba51525788362f1d85" title="matrix::Matrix::copyTo" alt="" coords="207,5,361,32"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="265,56,303,83"/>
+<area shape="rect" id="node6" href="$d7/d6f/class_vtol_attitude_control.html#af8a1c337ceb90854064d8a92de8fb577" title="VtolAttitudeControl\l::get_pos_sp_triplet" alt="" coords="216,107,352,149"/>
+<area shape="rect" id="node7" href="$d7/d6f/class_vtol_attitude_control.html#a4051cbc87bc00219b25350eef3571160" title="VtolAttitudeControl\l::get_vtol_vehicle_status" alt="" coords="201,173,367,214"/>
+<area shape="rect" id="node8" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="200,239,368,265"/>
+<area shape="rect" id="node9" href="$d4/d15/class_vtol_type.html#a99d48c88f434ea1c33f48be0ffc28ae2" title="Update multicopter state. " alt="" coords="211,290,357,331"/>
+<area shape="rect" id="node29" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="229,356,339,383"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="451,56,533,83"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="657,56,744,83"/>
+<area shape="rect" id="node10" href="$d4/d15/class_vtol_type.html#a367043e4c812cfa87a92d4b8c1e881e8" title="Sets mc motor minimum pwm to VT_IDLE_PWM_MC which ensures that they are spinning in mc mode..." alt="" coords="416,239,568,265"/>
+<area shape="rect" id="node28" href="$d4/d15/class_vtol_type.html#a4c3058921d945bdeca03fcefd38764c4" title="Sets state of a selection of motors, see struct motor_state. " alt="" coords="422,290,562,331"/>
+<area shape="rect" id="node11" href="$d4/d15/class_vtol_type.html#a66908aafced2aa645e529044f85ac848" title="Determines if channel is set in target. " alt="" coords="616,239,785,265"/>
+<area shape="rect" id="node12" href="$d4/d15/class_vtol_type.html#af7839e1eee1a6b0b392ab22286b90171" title="Adjust minimum/maximum pwm values for the output channels. " alt="" coords="627,290,775,331"/>
+<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="835,221,913,248"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="837,348,911,375"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="833,297,915,324"/>
+<area shape="rect" id="node14" href="$dc/db4/classcdev_1_1_v_file.html#a76418692ad24fb60ee14bdb5ae66d19d" title="cdev::VFile::createFile" alt="" coords="963,145,1116,172"/>
+<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a3fe15a0fdcd00e34f4a29b3cea4c7c46" title="getDev" alt="" coords="1007,196,1071,223"/>
+<area shape="rect" id="node18" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="975,247,1103,273"/>
+<area shape="rect" id="node15" href="$dc/db4/classcdev_1_1_v_file.html#a48ae3db836c0e14085465455ebbc9c99" title="cdev::VFile::VFile" alt="" coords="1180,95,1307,121"/>
+<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="1191,145,1295,172"/>
+<area shape="rect" id="node19" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="1181,247,1305,273"/>
+<area shape="rect" id="node20" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="1165,196,1322,223"/>
+<area shape="rect" id="node21" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="1174,297,1313,324"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1002,348,1077,375"/>
+<area shape="rect" id="node24" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="977,399,1101,425"/>
+<area shape="rect" id="node26" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="974,297,1105,324"/>
+<area shape="rect" id="node27" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="1164,348,1323,375"/>
+<area shape="rect" id="node30" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="445,356,539,383"/>
+<area shape="rect" id="node31" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="655,356,746,383"/>
+</map>

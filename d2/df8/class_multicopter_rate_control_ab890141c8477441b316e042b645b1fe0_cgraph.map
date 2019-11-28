@@ -1,0 +1,51 @@
+<map id="MulticopterRateControl::Run" name="MulticopterRateControl::Run">
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="520,33,632,60"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="721,183,860,225"/>
+<area shape="rect" id="node6" href="$dd/df8/classmatrix_1_1_matrix.html#ab5da1a35f0384913634db9515865d474" title="matrix::Matrix::emult" alt="" coords="505,379,647,405"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="771,521,810,548"/>
+<area shape="rect" id="node9" href="$d2/df8/class_multicopter_rate_control.html#a468a8ccecf7fd7ae576da9bd99419882" title="Get the landing gear state based on the manual control switch position. " alt="" coords="254,598,418,639"/>
+<area shape="rect" id="node10" href="$d6/d3c/class_rate_control.html#a0e99c1d07f00fd8014546bf256e27689" title="Get status message of controller for logging/debugging. " alt="" coords="482,598,670,639"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="513,664,639,691"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="275,917,397,944"/>
+<area shape="rect" id="node23" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="276,1348,396,1375"/>
+<area shape="rect" id="node36" href="$d2/df8/class_multicopter_rate_control.html#a3ccc8b4c3ff02888fbfcec0f437dbae1" title="initialize some vectors/matrices from parameters " alt="" coords="258,430,414,471"/>
+<area shape="rect" id="node37" href="$d6/d3c/class_rate_control.html#aaa137d91cb2d929eb4a5b19f8101ca65" title="Set update frequency and low&#45;pass filter cutoff that is applied to the derivative term..." alt="" coords="479,496,673,523"/>
+<area shape="rect" id="node38" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="295,816,377,843"/>
+<area shape="rect" id="node39" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="300,867,372,893"/>
+<area shape="rect" id="node40" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="267,1399,405,1441"/>
+<area shape="rect" id="node41" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="257,1465,415,1506"/>
+<area shape="rect" id="node42" href="$d6/d3c/class_rate_control.html#a70fa54b1879b74578fb76a59c7e07572" title="Set the integral term to 0 to prevent windup. " alt="" coords="250,715,422,741"/>
+<area shape="rect" id="node43" href="$d6/d3c/class_rate_control.html#ab0cbee9fffa83ad3302582c13e237a31" title="Set saturation status. " alt="" coords="247,1530,425,1571"/>
+<area shape="rect" id="node44" href="$dd/d47/namespacemath.html#a86772083eb6c0acbc8a6bbf10a26a3b7" title="math::superexpo" alt="" coords="277,59,395,85"/>
+<area shape="rect" id="node45" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a42885c3adf9615ae6516728e295c589b" title="uORB::SubscriptionCallback\l::unregisterCallback" alt="" coords="241,1595,431,1637"/>
+<area shape="rect" id="node46" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#ac9198cc23c666df10af2a8fb3f809508" title="Copy the struct if updated. " alt="" coords="245,1661,427,1702"/>
+<area shape="rect" id="node47" href="$d6/d3c/class_rate_control.html#a3b36b2fa949a0f9d2524ae461f5cc2ac" title="Run one control loop cycle calculation. " alt="" coords="267,379,405,405"/>
+<area shape="rect" id="node48" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="507,197,645,238"/>
+<area shape="rect" id="node49" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="721,249,860,290"/>
+<area shape="rect" id="node50" href="$d2/df8/class_multicopter_rate_control.html#af8503e4437e3fa455ddba8aad5a0b9c9" title="MulticopterRateControl\l::vehicle_status_poll" alt="" coords="258,211,414,253"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="926,246,1065,287"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="908,191,1083,217"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="954,521,1037,548"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="527,765,625,792"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="535,816,617,843"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="525,867,627,893"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="525,917,627,944"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="532,968,620,995"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="537,1019,615,1045"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="535,1069,617,1096"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="493,1120,659,1147"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="545,1171,607,1197"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="495,715,657,741"/>
+<area shape="rect" id="node24" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="509,1576,643,1603"/>
+<area shape="rect" id="node25" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="535,1627,617,1653"/>
+<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="539,1677,613,1704"/>
+<area shape="rect" id="node27" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="535,1728,617,1755"/>
+<area shape="rect" id="node28" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="519,1779,633,1805"/>
+<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="517,1221,635,1248"/>
+<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="533,1272,619,1299"/>
+<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="532,1323,620,1349"/>
+<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="519,1373,633,1400"/>
+<area shape="rect" id="node33" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="541,1424,611,1451"/>
+<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="525,1475,627,1501"/>
+<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="507,1525,645,1552"/>
+</map>

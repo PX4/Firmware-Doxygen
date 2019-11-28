@@ -1,0 +1,31 @@
+<map id="AirspeedValidator::update_airspeed_validator" name="AirspeedValidator::update_airspeed_validator">
+<area shape="rect" id="node2" href="$db/dc1/class_airspeed_validator.html#ad35526bc046016a57c06906ca125c52b" title="AirspeedValidator::\lcheck_airspeed_innovation" alt="" coords="661,103,840,144"/>
+<area shape="rect" id="node10" href="$db/dc1/class_airspeed_validator.html#a76ccd26e79b724faaa65c8aab267986d" title="AirspeedValidator::\lcheck_load_factor" alt="" coords="239,465,371,507"/>
+<area shape="rect" id="node12" href="$db/dc1/class_airspeed_validator.html#a89f19a5e4128041d1568c755e2005716" title="AirspeedValidator::\lupdate_airspeed_valid\l_status" alt="" coords="229,597,380,653"/>
+<area shape="rect" id="node13" href="$db/dc1/class_airspeed_validator.html#abc1437b4d8f80b6881b89afc3d4b2df4" title="AirspeedValidator::\lupdate_EAS_scale" alt="" coords="238,531,371,572"/>
+<area shape="rect" id="node17" href="$db/dc1/class_airspeed_validator.html#ae712aa7f35e1aa01214f5488314562ee" title="AirspeedValidator::\lupdate_EAS_TAS" alt="" coords="239,677,371,719"/>
+<area shape="rect" id="node21" href="$db/dc1/class_airspeed_validator.html#af216c9cb213375badc28d9dcec260ccd" title="AirspeedValidator::\lupdate_in_fixed_wing\l_flight" alt="" coords="231,743,378,799"/>
+<area shape="rect" id="node22" href="$db/dc1/class_airspeed_validator.html#a3bf27b5e0ad78d0619b4de60e41f53af" title="AirspeedValidator::\lupdate_wind_estimator" alt="" coords="227,360,383,401"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="952,329,991,355"/>
+<area shape="rect" id="node6" href="$d7/d7b/class_wind_estimator.html#ab243b15f6f0fbaaedab2f7448e8a0e38" title="WindEstimator::get\l_tas_innov" alt="" coords="904,71,1039,112"/>
+<area shape="rect" id="node7" href="$d7/d7b/class_wind_estimator.html#ae26b2d8577ace5901a54088463da8636" title="WindEstimator::get\l_tas_innov_var" alt="" coords="904,136,1039,177"/>
+<area shape="rect" id="node8" href="$d7/d7b/class_wind_estimator.html#ae2546c27366e07a1b8027aa4e07b8d9d" title="WindEstimator::get\l_wind_estimator_reset" alt="" coords="895,5,1048,47"/>
+<area shape="rect" id="node9" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="929,202,1013,229"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1103,329,1185,355"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1233,329,1320,355"/>
+<area shape="rect" id="node11" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="466,493,578,519"/>
+<area shape="rect" id="node14" href="$d7/d7b/class_wind_estimator.html#af1b7354c723cac0334d192201c18b8ef" title="WindEstimator::is_estimate\l_valid" alt="" coords="431,544,613,585"/>
+<area shape="rect" id="node16" href="$d7/d7b/class_wind_estimator.html#a25ce1823cd3c540614533dee830adeea" title="WindEstimator::get\l_tas_scale" alt="" coords="455,609,589,651"/>
+<area shape="rect" id="node15" href="$d7/d7b/class_wind_estimator.html#aeb09cc25e64ec79176e5ecc95889ca63" title="WindEstimator::check\l_if_meas_is_rejected" alt="" coords="675,692,826,733"/>
+<area shape="rect" id="node18" href="$de/d8b/airspeed_2airspeed_8cpp.html#afa6118b050c1d07ff092af1b113a3848" title="Calculate equivalent airspeed (EAS) from indicated airspeed (IAS). " alt="" coords="451,685,593,711"/>
+<area shape="rect" id="node19" href="$de/d8b/airspeed_2airspeed_8cpp.html#ab5a7272bd73d18895fc77505a1b3c642" title="Calculate true airspeed (TAS) from equivalent airspeed (EAS). " alt="" coords="449,753,595,779"/>
+<area shape="rect" id="node20" href="$de/d8b/airspeed_2airspeed_8cpp.html#adc63ff9f86b6f9f94a1949df74a31552" title="Calculates air density. " alt="" coords="695,758,806,785"/>
+<area shape="rect" id="node23" href="$d7/d7b/class_wind_estimator.html#a1c2f83e8439d64509296f2d8ebec395b" title="WindEstimator::update" alt="" coords="673,219,828,246"/>
+<area shape="rect" id="node24" href="$d7/d7b/class_wind_estimator.html#a0bb98630d323e3f186683fed5894ef83" title="WindEstimator::fuse_beta" alt="" coords="435,442,609,469"/>
+<area shape="rect" id="node30" href="$d7/d7b/class_wind_estimator.html#aead5efdbc747eabbdf5860911672a628" title="WindEstimator::fuse\l_airspeed" alt="" coords="451,321,593,363"/>
+<area shape="rect" id="node25" href="$d7/d7b/class_wind_estimator.html#a21ab924e5595e66ab372afd4596e4954" title="WindEstimator::initialise" alt="" coords="669,489,832,515"/>
+<area shape="rect" id="node27" href="$dd/df8/classmatrix_1_1_matrix.html#ac931fb47e8bf39b3c9865952e3842fea" title="matrix::Matrix::transpose" alt="" coords="888,539,1055,566"/>
+<area shape="rect" id="node28" href="$d1/d71/classmatrix_1_1_vector.html#abd91dec134022f2adbd739b4ced6806d" title="matrix::Vector::length" alt="" coords="677,590,824,617"/>
+<area shape="rect" id="node29" href="$d7/d7b/class_wind_estimator.html#aaba72a71cdff463e8cb0f59713db4cf6" title="WindEstimator::run\l_sanity_checks" alt="" coords="683,321,818,363"/>
+<area shape="rect" id="node26" href="$dd/df8/classmatrix_1_1_matrix.html#aa9a39da3eafb7684a4f22038bc3f8414" title="matrix::Matrix::setZero" alt="" coords="894,489,1049,515"/>
+</map>

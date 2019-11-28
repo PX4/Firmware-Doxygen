@@ -1,4 +1,12 @@
 <map id="CameraTrigger" name="CameraTrigger">
-<area shape="rect" id="node2" href="$dc/d0d/structhrt__call.html" title="Callout record. " alt="" coords="5,49,88,185"/>
-<area shape="rect" id="node3" href="$d3/d91/class_camera_interface.html" title="{CameraInterface\n|# _p_pin\l# _pins\l|+ CameraInterface()\l+ ~CameraInterface()\l+ trigger()\l+ send_toggle_power()\l+ send_keep_alive()\l+ info()\l+ has_power_control()\l+ is_powered_on()\l# setup()\l# get_pins()\l}" alt="" coords="153,5,308,229"/>
+<area shape="rect" id="node3" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html" title="{uORB::PublicationQueued\l\&lt; vehicle_command_ack_s \&gt;\n|# _handle\l|+ PublicationQueued()\l+ ~PublicationQueued()\l+ publish()\l}" alt="" coords="100,988,293,1109"/>
+<area shape="rect" id="node4" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="201,270,347,391"/>
+<area shape="rect" id="node5" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="315,1141,454,1350"/>
+<area shape="rect" id="node6" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="393,579,531,964"/>
+<area shape="rect" id="node9" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="478,1199,697,1291"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="371,145,553,516"/>
+<area shape="rect" id="node8" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="391,5,533,83"/>
+<area shape="rect" id="node10" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="578,285,749,377"/>
+<area shape="rect" id="node11" href="$dc/d0d/structhrt__call.html" title="Callout record. " alt="" coords="721,1177,803,1313"/>
+<area shape="rect" id="node12" href="$d3/d91/class_camera_interface.html" title="{CameraInterface\n|# _p_pin\l# _pins\l|+ CameraInterface()\l+ ~CameraInterface()\l+ trigger()\l+ send_toggle_power()\l+ send_keep_alive()\l+ info()\l+ has_power_control()\l+ is_powered_on()\l# setup()\l# get_pins()\l}" alt="" coords="847,1133,1002,1357"/>
 </map>

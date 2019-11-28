@@ -1,0 +1,51 @@
+<map id="sensors::VotedSensorsUpdate::sensorsPoll" name="sensors::VotedSensorsUpdate::sensorsPoll">
+<area shape="rect" id="node2" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#ae133875386f231a9eec9c0a8cde90b73" title="Poll the accelerometer for updated data. " alt="" coords="253,361,453,403"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="555,601,681,627"/>
+<area shape="rect" id="node26" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a2d178d049111469f09dedcf2010a5e20" title="Poll the barometer for updated data. " alt="" coords="253,557,453,599"/>
+<area shape="rect" id="node29" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a54657c2c77016e3a2545bdeaece3de37" title="Poll the gyro for updated data. " alt="" coords="253,427,453,468"/>
+<area shape="rect" id="node31" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#af224ca20d335a068aca2208d780ed82d" title="Poll the magnetometer for updated data. " alt="" coords="253,492,453,533"/>
+<area shape="rect" id="node50" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="284,675,423,716"/>
+<area shape="rect" id="node3" href="$d3/ded/classsensors_1_1_temperature_compensation.html#aaecd9f6f547eb119d23cf2476cd249a4" title="sensors::TemperatureCompensation\l::apply_corrections_accel" alt="" coords="501,43,735,84"/>
+<area shape="rect" id="node5" href="$d3/d4d/class_data_validator_group.html#a4d9ec49141c2d4515ad7744bc3fbea70" title="Get the best data triplet of the group. " alt="" coords="550,281,686,323"/>
+<area shape="rect" id="node14" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="577,449,659,475"/>
+<area shape="rect" id="node19" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="862,674,937,701"/>
+<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a6758c1fb5768986a21aa993152f6956b" title="orb_priority" alt="" coords="575,499,661,526"/>
+<area shape="rect" id="node24" href="$d3/d4d/class_data_validator_group.html#a1c60e55b37a6a489678ee2b158d7ceaf" title="Put an item into the validator group. " alt="" coords="537,398,699,425"/>
+<area shape="rect" id="node4" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a8ee971351abf739c1f52f4deab7c2df2" title="Calculate the offsets required to compensate the sensor for temperature effects If the measured tempe..." alt="" coords="783,5,1016,47"/>
+<area shape="rect" id="node6" href="$d5/d70/class_data_validator.html#a672ea71241439cb19d613ed9eb4d2b32" title="Get the confidence of this validator. " alt="" coords="1067,187,1239,214"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1341,187,1380,214"/>
+<area shape="rect" id="node9" href="$d5/d70/class_data_validator.html#a07140caca7f2df669ba4458f7c88000f" title="Get the priority of this validator. " alt="" coords="825,289,973,315"/>
+<area shape="rect" id="node10" href="$d5/d70/class_data_validator.html#a91d70b1301d02d1f1abd496e7265b4b8" title="Reset the error state of this validator. " alt="" coords="830,71,969,112"/>
+<area shape="rect" id="node11" href="$d5/d70/class_data_validator.html#a82fe9bb4260cfb4ee1d43982693431a2" title="Get the next sibling in the group. " alt="" coords="826,339,973,366"/>
+<area shape="rect" id="node12" href="$d5/d70/class_data_validator.html#a24d9bdfb86351d6b236a8d2a2643e9a4" title="Get the values of this validator. " alt="" coords="829,238,969,265"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1480,187,1563,214"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1081,612,1224,653"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="828,441,971,483"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1289,612,1432,653"/>
+<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1115,482,1190,509"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1064,678,1241,705"/>
+<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1323,678,1398,705"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="828,507,971,548"/>
+<area shape="rect" id="node25" href="$d5/d70/class_data_validator.html#aceabb7ed565eaee66ce1442dff081b0d" title="Put an item into the validator. " alt="" coords="836,390,963,417"/>
+<area shape="rect" id="node27" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a7fe1879fcba927ecbaf5c3be74abc821" title="sensors::TemperatureCompensation\l::apply_corrections_baro" alt="" coords="501,1245,735,1287"/>
+<area shape="rect" id="node28" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a59892873101822b88fe8c689d7a44288" title="Calculate the offset required to compensate the sensor for temperature effects using a 5th order meth..." alt="" coords="783,1439,1016,1480"/>
+<area shape="rect" id="node30" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a68c87e92660743833d716e6d9bbc12d3" title="Apply Thermal corrections to gyro (&amp; other) sensor data. " alt="" coords="501,144,735,185"/>
+<area shape="rect" id="node32" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a9a5599d2a2d7347ac04edc72f97250ff" title="call this whenever parameters got updated. " alt="" coords="518,1020,718,1061"/>
+<area shape="rect" id="node33" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a8e04e12417ad307e6477943275010ed1" title="Apply a accel calibration. " alt="" coords="799,921,999,963"/>
+<area shape="rect" id="node34" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a42a5624520d9ea4cd1d9d9fd70f75e5e" title="Apply a gyro calibration. " alt="" coords="799,987,999,1028"/>
+<area shape="rect" id="node35" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a754a7e72e9facbb648fc9bc9b65d8241" title="Apply a mag calibration. " alt="" coords="799,1052,999,1093"/>
+<area shape="rect" id="node36" href="$da/d0e/rotation_8cpp.html#a84c0b599a5a1540d49a8ecae6cfed266" title="Get the rotation matrix. " alt="" coords="847,1118,952,1145"/>
+<area shape="rect" id="node38" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="856,1387,943,1414"/>
+<area shape="rect" id="node40" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="1111,1177,1194,1203"/>
+<area shape="rect" id="node44" href="$d5/d33/param_8h.html#a26cb63b426af831903dcb1193002cf48" title="Set the value of a parameter. " alt="" coords="858,1286,941,1313"/>
+<area shape="rect" id="node45" href="$d5/d33/param_8h.html#a817e6f9a6a2b732e09e5c446af02ed45" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="812,1337,987,1363"/>
+<area shape="rect" id="node46" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a7d03eaca19942c19512a67acbd18db73" title="(re)load the parameters. " alt="" coords="783,1169,1016,1211"/>
+<area shape="rect" id="node47" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a4865806cbaabc780cf85bacd377e628c" title="sensors::TemperatureCompensation\l::set_sensor_id_accel" alt="" coords="783,725,1016,767"/>
+<area shape="rect" id="node48" href="$d3/ded/classsensors_1_1_temperature_compensation.html#a8a27a1541cf0046605adf868487038c0" title="sensors::TemperatureCompensation\l::set_sensor_id_baro" alt="" coords="783,791,1016,832"/>
+<area shape="rect" id="node49" href="$d3/ded/classsensors_1_1_temperature_compensation.html#af01ba5436dbee473d0675187003b25a6" title="supply information which device_id matches a specific uORB topic_instance (needed if a system has mul..." alt="" coords="783,856,1016,897"/>
+<area shape="rect" id="node37" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="1102,1118,1203,1145"/>
+<area shape="rect" id="node39" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="1085,1387,1220,1414"/>
+<area shape="rect" id="node41" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1303,1177,1419,1203"/>
+<area shape="rect" id="node42" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1289,1227,1432,1254"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1295,1126,1427,1153"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="RoverPositionControl" name="RoverPositionControl">
+<area shape="rect" id="node4" href="$d9/dbb/class_e_c_l___l1___pos___controller.html" title="L1 Nonlinear Guidance Logic. " alt="" coords="352,1527,527,1824"/>
+<area shape="rect" id="node5" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html" title="{uORB::SubscriptionData\l\&lt; vehicle_acceleration_s \&gt;\n||+ SubscriptionData()\l+ SubscriptionData()\l+ SubscriptionData()\l+ ~SubscriptionData()\l+ operator=()\l+ operator=()\l+ update()\l+ get()\l}" alt="" coords="1019,1578,1198,1773"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="778,1148,917,1357"/>
+<area shape="rect" id="node7" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="671,270,816,391"/>
+<area shape="rect" id="node8" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="887,579,1026,964"/>
+<area shape="rect" id="node25" href="$d3/de9/classu_o_r_b_1_1_publication.html" title="{uORB::Publication\&lt;\l position_controller\l_status_s \&gt;\n|# _handle\l|+ Publication()\l+ ~Publication()\l+ publish()\l}" alt="" coords="519,988,658,1124"/>
+<area shape="rect" id="node27" href="$d3/de9/classu_o_r_b_1_1_publication.html" title="{uORB::Publication\&lt;\l actuator_controls_s \&gt;\n|# _handle\l|+ Publication()\l+ ~Publication()\l+ publish()\l}" alt="" coords="675,1381,827,1503"/>
+<area shape="rect" id="node11" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="941,1207,1159,1299"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="852,145,1035,516"/>
+<area shape="rect" id="node10" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="872,5,1015,83"/>
+<area shape="rect" id="node12" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="1059,285,1230,377"/>
+<area shape="rect" id="node13" href="$d5/d64/structvehicle__acceleration__s.html" title="{vehicle_acceleration_s\n|+ timestamp\l+ timestamp_sample\l+ xyz\l+ _padding0\l|}" alt="" coords="1183,1192,1338,1313"/>
+<area shape="rect" id="node14" href="$d3/d52/structvehicle__control__mode__s.html" title="{vehicle_control_mode_s\n|+ timestamp\l+ flag_armed\l+ flag_external_manual\l_override_ok\l+ flag_control_manual\l_enabled\l+ flag_control_auto_enabled\l+ flag_control_offboard\l_enabled\land 13 more...\l|}" alt="" coords="1223,1571,1408,1780"/>
+<area shape="rect" id="node15" href="$d7/d2e/structposition__setpoint__triplet__s.html" title="{position_setpoint_triplet_s\n|+ timestamp\l|}" alt="" coords="1433,1637,1606,1714"/>
+<area shape="rect" id="node16" href="$d2/d42/structposition__setpoint__s.html" title="{position_setpoint_s\n|+ timestamp\l+ lat\l+ lon\l+ x\l+ y\l+ z\land 28 more...\l|}" alt="" coords="1452,1170,1587,1335"/>
+<area shape="rect" id="node17" href="$de/de6/structmanual__control__setpoint__s.html" title="{manual_control_setpoint_s\n|+ timestamp\l+ x\l+ y\l+ z\l+ r\l+ flaps\land 22 more...\l|}" alt="" coords="1631,1593,1808,1758"/>
+<area shape="rect" id="node18" href="$da/dcb/structvehicle__global__position__s.html" title="{vehicle_global_position_s\n|+ timestamp\l+ lat\l+ lon\l+ alt\l+ alt_ellipsoid\l+ delta_alt\land 12 more...\l|}" alt="" coords="1833,1593,2003,1758"/>
+<area shape="rect" id="node19" href="$de/d31/structvehicle__attitude__setpoint__s.html" title="{vehicle_attitude_setpoint_s\n|+ timestamp\l+ roll_body\l+ pitch_body\l+ yaw_body\l+ yaw_sp_move_rate\l+ q_d\land 8 more...\l|}" alt="" coords="2028,1593,2208,1758"/>
+<area shape="rect" id="node20" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="2233,1622,2345,1729"/>
+<area shape="rect" id="node21" href="$d8/db9/structsensor__combined__s.html" title="{sensor_combined_s\n|+ timestamp\l+ gyro_rad\l+ gyro_integral_dt\l+ accelerometer_timestamp\l_relative\l+ accelerometer_m_s2\l+ accelerometer_integral_dt\l+ _padding0\l|}" alt="" coords="2369,1585,2553,1765"/>
+<area shape="rect" id="node22" href="$d4/d36/structvehicle__local__position__s.html" title="{vehicle_local_position_s\n|+ timestamp\l+ ref_timestamp\l+ ref_lat\l+ ref_lon\l+ x\l+ y\land 36 more...\l|}" alt="" coords="2577,1593,2739,1758"/>
+<area shape="rect" id="node23" href="$d9/da3/struct_p_i_d__t.html" title="{PID_t\n|+ mode\l+ dt_min\l+ kp\l+ ki\l+ kd\l+ integral\land 4 more...\l|}" alt="" coords="2763,1593,2862,1758"/>
+<area shape="rect" id="node24" href="$de/d27/structactuator__controls__s.html" title="{actuator_controls_s\n|+ timestamp\l+ timestamp_sample\l+ control\l|}" alt="" coords="2886,1622,3030,1729"/>
+<area shape="rect" id="node26" href="$db/db4/structvehicle__attitude__s.html" title="{vehicle_attitude_s\n|+ timestamp\l+ q\l+ delta_q_reset\l+ quat_reset_counter\l+ _padding0\l|}" alt="" coords="3055,1607,3200,1743"/>
+</map>

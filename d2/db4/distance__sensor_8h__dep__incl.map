@@ -1,51 +1,51 @@
 <map id="build/doxygen/uORB/topics/distance_sensor.h" name="build/doxygen/uORB/topics/distance_sensor.h">
-<area shape="rect" id="node2" href="$d9/d50/hc__sr04_8cpp.html" title="Driver for the hc_sr04 sonar range finders . " alt="" coords="5,109,199,151"/>
-<area shape="rect" id="node3" href="$d5/d80/leddar__one_8cpp.html" title="src/drivers/distance\l_sensor/leddar_one/leddar\l_one.cpp" alt="" coords="223,102,397,158"/>
-<area shape="rect" id="node4" href="$d4/d8a/_lidar_lite_i2_c_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLiteI2C.h" alt="" coords="422,109,609,151"/>
-<area shape="rect" id="node7" href="$de/d12/_lidar_lite_p_w_m_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLitePWM.h" alt="" coords="633,109,832,151"/>
-<area shape="rect" id="node9" href="$d5/d45/mb12xx_8cpp.html" title="src/drivers/distance\l_sensor/mb12xx/mb12xx.cpp" alt="" coords="856,109,1049,151"/>
-<area shape="rect" id="node10" href="$d6/d95/sf0x_8cpp.html" title="src/drivers/distance\l_sensor/sf0x/sf0x.cpp" alt="" coords="1073,109,1224,151"/>
-<area shape="rect" id="node11" href="$d6/df1/sf1xx_8cpp.html" title="src/drivers/distance\l_sensor/sf1xx/sf1xx.cpp" alt="" coords="1249,109,1414,151"/>
-<area shape="rect" id="node12" href="$d8/d1c/srf02_8cpp.html" title="Driver for the SRF02 sonar range finder adapted from the Maxbotix sonar range finder driver (mb12xx)..." alt="" coords="1439,109,1597,151"/>
-<area shape="rect" id="node13" href="$d7/db0/teraranger_8cpp.html" title="src/drivers/distance\l_sensor/teraranger/teraranger.cpp" alt="" coords="1621,109,1839,151"/>
-<area shape="rect" id="node14" href="$dc/d77/tfmini_8cpp.html" title="src/drivers/distance\l_sensor/tfmini/tfmini.cpp" alt="" coords="1863,109,2029,151"/>
-<area shape="rect" id="node15" href="$d4/dd7/ulanding_8cpp.html" title="src/drivers/distance\l_sensor/ulanding/ulanding.cpp" alt="" coords="2053,109,2250,151"/>
-<area shape="rect" id="node16" href="$d6/d2e/vl53lxx_8cpp.html" title="src/drivers/distance\l_sensor/vl53lxx/vl53lxx.cpp" alt="" coords="2275,109,2457,151"/>
-<area shape="rect" id="node17" href="$d0/d55/pmw3901_8cpp.html" title="src/drivers/pmw3901\l/pmw3901.cpp" alt="" coords="2481,109,2624,151"/>
-<area shape="rect" id="node18" href="$db/d0e/px4flow_8cpp.html" title="src/drivers/px4flow\l/px4flow.cpp" alt="" coords="2648,109,2780,151"/>
-<area shape="rect" id="node19" href="$d4/d78/terrain__estimator_8h.html" title="src/lib/terrain_estimation\l/terrain_estimator.h" alt="" coords="2804,109,2968,151"/>
-<area shape="rect" id="node21" href="$d0/d58/position__estimator__inav__main_8cpp.html" title="src/modules/position\l_estimator_inav/position\l_estimator_inav_main.cpp" alt="" coords="1623,213,1797,269"/>
-<area shape="rect" id="node22" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="3044,109,3195,151"/>
-<area shape="rect" id="node23" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="3219,109,3497,151"/>
-<area shape="rect" id="node35" href="$da/dab/mavlink__receiver_8h.html" title="MAVLink receiver thread. " alt="" coords="3521,109,3664,151"/>
-<area shape="rect" id="node38" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="3689,109,3851,151"/>
-<area shape="rect" id="node39" href="$d7/ddc/replay__main_8cpp.html" title="This module reads messages from an ULog file and publishes them. " alt="" coords="3876,109,4008,151"/>
-<area shape="rect" id="node40" href="$d3/d9e/simulator_8h.html" title="A device simulator. " alt="" coords="4789,109,4940,151"/>
-<area shape="rect" id="node48" href="$d8/dbc/df__bebop__rangefinder__wrapper_8cpp.html" title="Driver to access the Bebop rangefinder of the DriverFramework. " alt="" coords="4965,95,5167,165"/>
-<area shape="rect" id="node49" href="$d3/d63/df__isl29501__wrapper_8cpp.html" title="Driver to access the ISL29501 of the DriverFramework. " alt="" coords="5192,95,5337,165"/>
-<area shape="rect" id="node50" href="$d8/d6c/df__trone__wrapper_8cpp.html" title="Driver to access the TROne of the DriverFramework. " alt="" coords="5361,102,5531,158"/>
-<area shape="rect" id="node5" href="$d4/d59/_lidar_lite_i2_c_8cpp.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLiteI2C.cpp" alt="" coords="315,221,516,262"/>
-<area shape="rect" id="node6" href="$df/d98/ll40ls_8cpp.html" title="src/drivers/distance\l_sensor/ll40ls/ll40ls.cpp" alt="" coords="540,221,701,262"/>
-<area shape="rect" id="node8" href="$d1/d17/_lidar_lite_p_w_m_8cpp.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLitePWM.cpp" alt="" coords="726,221,939,262"/>
-<area shape="rect" id="node20" href="$dc/dac/terrain__estimation_2terrain__estimator_8cpp.html" title="src/lib/terrain_estimation\l/terrain_estimator.cpp" alt="" coords="1435,221,1599,262"/>
-<area shape="rect" id="node24" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="1821,221,2100,262"/>
-<area shape="rect" id="node25" href="$d1/db5/local__position__estimator__main_8cpp.html" title="src/modules/local_position\l_estimator/local_position\l_estimator_main.cpp" alt="" coords="2125,213,2301,269"/>
-<area shape="rect" id="node26" href="$db/d09/local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="2325,221,2511,262"/>
-<area shape="rect" id="node27" href="$d5/d89/flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="2535,221,2722,262"/>
-<area shape="rect" id="node28" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="2747,221,2929,262"/>
-<area shape="rect" id="node29" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="2954,221,3141,262"/>
-<area shape="rect" id="node30" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="3165,213,3343,269"/>
-<area shape="rect" id="node31" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="3367,221,3554,262"/>
-<area shape="rect" id="node32" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="3579,221,3780,262"/>
-<area shape="rect" id="node33" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="3805,221,3999,262"/>
-<area shape="rect" id="node34" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="4024,221,4220,262"/>
-<area shape="rect" id="node36" href="$de/d24/mavlink__main_8cpp.html" title="MAVLink 1.0 protocol implementation. " alt="" coords="4244,221,4387,262"/>
-<area shape="rect" id="node37" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="4410,221,4559,262"/>
-<area shape="rect" id="node41" href="$de/d76/accelsim_8cpp.html" title="Driver for a simulated accelerometer / magnetometer. " alt="" coords="4584,221,4743,262"/>
-<area shape="rect" id="node42" href="$d3/dd5/airspeedsim_8cpp.html" title="src/modules/simulator\l/airspeedsim/airspeedsim.cpp" alt="" coords="4767,221,4962,262"/>
-<area shape="rect" id="node43" href="$dc/dba/simulator_2barosim_2baro_8cpp.html" title="src/modules/simulator\l/barosim/baro.cpp" alt="" coords="4987,221,5137,262"/>
-<area shape="rect" id="node44" href="$de/d29/gpssim_8cpp.html" title="Simulated GPS driver. " alt="" coords="5161,221,5312,262"/>
-<area shape="rect" id="node45" href="$db/d47/ubx__sim_8cpp.html" title="src/modules/simulator\l/gpssim/ubx_sim.cpp" alt="" coords="5336,221,5487,262"/>
-<area shape="rect" id="node46" href="$d0/d91/gyrosim_8cpp.html" title="Driver for the simulated gyro. " alt="" coords="5511,221,5661,262"/>
-<area shape="rect" id="node47" href="$da/d56/simulator_8cpp.html" title="A device simulator. " alt="" coords="5685,221,5836,262"/>
+<area shape="rect" id="node2" href="$d5/d80/leddar__one_8cpp.html" title="src/drivers/distance\l_sensor/leddar_one/leddar\l_one.cpp" alt="" coords="5,213,180,269"/>
+<area shape="rect" id="node3" href="$de/d65/_mappy_dot_8cpp.html" title="src/drivers/distance\l_sensor/mappydot/MappyDot.cpp" alt="" coords="554,109,773,151"/>
+<area shape="rect" id="node4" href="$d5/d45/mb12xx_8cpp.html" title="src/drivers/distance\l_sensor/mb12xx/mb12xx.cpp" alt="" coords="797,109,991,151"/>
+<area shape="rect" id="node5" href="$d5/d01/pga460_8h.html" title="src/drivers/distance\l_sensor/pga460/pga460.h" alt="" coords="1015,109,1186,151"/>
+<area shape="rect" id="node7" href="$d6/d95/sf0x_8cpp.html" title="src/drivers/distance\l_sensor/sf0x/sf0x.cpp" alt="" coords="1211,109,1361,151"/>
+<area shape="rect" id="node8" href="$d6/df1/sf1xx_8cpp.html" title="src/drivers/distance\l_sensor/sf1xx/sf1xx.cpp" alt="" coords="1386,109,1551,151"/>
+<area shape="rect" id="node9" href="$d8/d1c/srf02_8cpp.html" title="Driver for the SRF02 sonar range finder adapted from the Maxbotix sonar range finder driver (srf02)..." alt="" coords="1576,109,1735,151"/>
+<area shape="rect" id="node10" href="$d7/db0/teraranger_8cpp.html" title="src/drivers/distance\l_sensor/teraranger/teraranger.cpp" alt="" coords="1759,109,1976,151"/>
+<area shape="rect" id="node11" href="$d5/d50/_t_f_m_i_n_i_8hpp.html" title="src/drivers/distance\l_sensor/tfmini/TFMINI.hpp" alt="" coords="205,221,383,262"/>
+<area shape="rect" id="node14" href="$d4/dd7/ulanding_8cpp.html" title="src/drivers/distance\l_sensor/ulanding/ulanding.cpp" alt="" coords="2001,109,2198,151"/>
+<area shape="rect" id="node15" href="$d6/d2e/vl53lxx_8cpp.html" title="src/drivers/distance\l_sensor/vl53lxx/vl53lxx.cpp" alt="" coords="2223,109,2405,151"/>
+<area shape="rect" id="node16" href="$d8/dbc/df__bebop__rangefinder__wrapper_8cpp.html" title="Driver to access the Bebop rangefinder of the DriverFramework. " alt="" coords="2429,95,2657,165"/>
+<area shape="rect" id="node17" href="$d3/d63/df__isl29501__wrapper_8cpp.html" title="Driver to access the ISL29501 of the DriverFramework. " alt="" coords="2682,95,2882,165"/>
+<area shape="rect" id="node18" href="$d8/d6c/df__trone__wrapper_8cpp.html" title="Driver to access the TROne of the DriverFramework. " alt="" coords="2906,95,3069,165"/>
+<area shape="rect" id="node19" href="$db/d0e/px4flow_8cpp.html" title="src/drivers/optical\l_flow/px4flow/px4flow.cpp" alt="" coords="3093,109,3269,151"/>
+<area shape="rect" id="node20" href="$d8/dfe/_collision_prevention_8hpp.html" title="src/lib/collision_prevention\l/CollisionPrevention.hpp" alt="" coords="3293,109,3468,151"/>
+<area shape="rect" id="node24" href="$dc/d32/_p_x4_rangefinder_8hpp.html" title="src/lib/drivers/rangefinder\l/PX4Rangefinder.hpp" alt="" coords="362,109,530,151"/>
+<area shape="rect" id="node28" href="$d4/d78/terrain__estimator_8h.html" title="src/lib/terrain_estimation\l/terrain_estimator.h" alt="" coords="3492,109,3656,151"/>
+<area shape="rect" id="node30" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="3680,109,3831,151"/>
+<area shape="rect" id="node31" href="$da/db4/_block_local_position_estimator_8hpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.hpp" alt="" coords="3855,109,4133,151"/>
+<area shape="rect" id="node42" href="$da/dab/mavlink__receiver_8h.html" title="MAVLink receiver thread. " alt="" coords="4157,109,4300,151"/>
+<area shape="rect" id="node45" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="4325,109,4487,151"/>
+<area shape="rect" id="node46" href="$de/d1a/_replay_ekf2_8cpp.html" title="src/modules/replay\l/ReplayEkf2.cpp" alt="" coords="4512,109,4644,151"/>
+<area shape="rect" id="node47" href="$d3/d9e/simulator_8h.html" title="This module interfaces via MAVLink to a software in the loop simulator (SITL) such as jMAVSim or Gaze..." alt="" coords="5687,109,5837,151"/>
+<area shape="rect" id="node6" href="$db/d66/pga460_8cpp.html" title="src/drivers/distance\l_sensor/pga460/pga460.cpp" alt="" coords="1019,221,1204,262"/>
+<area shape="rect" id="node12" href="$d1/d92/_t_f_m_i_n_i_8cpp.html" title="src/drivers/distance\l_sensor/tfmini/TFMINI.cpp" alt="" coords="113,325,291,366"/>
+<area shape="rect" id="node13" href="$da/d89/tfmini__main_8cpp.html" title="src/drivers/distance\l_sensor/tfmini/tfmini\l_main.cpp" alt="" coords="316,317,456,373"/>
+<area shape="rect" id="node21" href="$d1/d2b/_collision_prevention_8cpp.html" title="CollisionPrevention controller. " alt="" coords="2209,221,2384,262"/>
+<area shape="rect" id="node22" href="$db/dc6/_collision_prevention_test_8cpp.html" title="src/lib/collision_prevention\l/CollisionPreventionTest.cpp" alt="" coords="2409,221,2598,262"/>
+<area shape="rect" id="node23" href="$d6/d5b/_flight_task_manual_position_8hpp.html" title="Flight task for manual position controlled mode. " alt="" coords="2623,213,2824,269"/>
+<area shape="rect" id="node25" href="$d0/d17/_c_m8_j_l65_8hpp.html" title="src/drivers/distance\l_sensor/cm8jl65/CM8JL65.hpp" alt="" coords="407,221,610,262"/>
+<area shape="rect" id="node26" href="$d3/d00/_lidar_lite_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLite.h" alt="" coords="635,221,801,262"/>
+<area shape="rect" id="node27" href="$d5/de8/_p_x4_rangefinder_8cpp.html" title="src/lib/drivers/rangefinder\l/PX4Rangefinder.cpp" alt="" coords="826,221,994,262"/>
+<area shape="rect" id="node29" href="$dc/dac/terrain__estimation_2terrain__estimator_8cpp.html" title="src/lib/terrain_estimation\l/terrain_estimator.cpp" alt="" coords="2848,221,3012,262"/>
+<area shape="rect" id="node32" href="$d9/d04/_block_local_position_estimator_8cpp.html" title="src/modules/local_position\l_estimator/BlockLocalPositionEstimator.cpp" alt="" coords="4116,221,4395,262"/>
+<area shape="rect" id="node33" href="$de/dac/modules_2local__position__estimator_2sensors_2baro_8cpp.html" title="src/modules/local_position\l_estimator/sensors/baro.cpp" alt="" coords="4419,221,4606,262"/>
+<area shape="rect" id="node34" href="$d9/df4/modules_2local__position__estimator_2sensors_2flow_8cpp.html" title="src/modules/local_position\l_estimator/sensors/flow.cpp" alt="" coords="4630,221,4817,262"/>
+<area shape="rect" id="node35" href="$da/d8c/modules_2local__position__estimator_2sensors_2gps_8cpp.html" title="src/modules/local_position\l_estimator/sensors/gps.cpp" alt="" coords="4841,221,5024,262"/>
+<area shape="rect" id="node36" href="$d8/d4f/local__position__estimator_2sensors_2land_8cpp.html" title="src/modules/local_position\l_estimator/sensors/land.cpp" alt="" coords="5049,221,5235,262"/>
+<area shape="rect" id="node37" href="$d8/dc4/landing__target_8cpp.html" title="src/modules/local_position\l_estimator/sensors/landing\l_target.cpp" alt="" coords="3037,213,3215,269"/>
+<area shape="rect" id="node38" href="$d6/d48/lidar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/lidar.cpp" alt="" coords="3239,221,3426,262"/>
+<area shape="rect" id="node39" href="$d6/ddf/mocap_8cpp.html" title="src/modules/local_position\l_estimator/sensors/mocap.cpp" alt="" coords="3451,221,3652,262"/>
+<area shape="rect" id="node40" href="$df/dbe/sonar_8cpp.html" title="src/modules/local_position\l_estimator/sensors/sonar.cpp" alt="" coords="3677,221,3871,262"/>
+<area shape="rect" id="node41" href="$d2/d54/vision_8cpp.html" title="src/modules/local_position\l_estimator/sensors/vision.cpp" alt="" coords="3896,221,4092,262"/>
+<area shape="rect" id="node43" href="$de/d24/mavlink__main_8cpp.html" title="MAVLink 1.0 protocol implementation. " alt="" coords="5433,221,5576,262"/>
+<area shape="rect" id="node44" href="$d2/d57/mavlink__receiver_8cpp.html" title="MAVLink protocol message receive and dispatch. " alt="" coords="5259,221,5409,262"/>
+<area shape="rect" id="node48" href="$de/d29/gpssim_8cpp.html" title="Simulated GPS driver. " alt="" coords="5600,221,5751,262"/>
+<area shape="rect" id="node49" href="$db/d47/ubx__sim_8cpp.html" title="src/modules/simulator\l/gpssim/ubx_sim.cpp" alt="" coords="5775,221,5925,262"/>
+<area shape="rect" id="node50" href="$da/d56/simulator_8cpp.html" title="This module interfaces via MAVLink to a software in the loop simulator (SITL) such as jMAVSim or Gaze..." alt="" coords="5949,221,6100,262"/>
 </map>

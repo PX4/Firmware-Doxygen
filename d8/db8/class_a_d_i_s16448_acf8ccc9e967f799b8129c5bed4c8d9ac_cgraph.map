@@ -1,0 +1,17 @@
+<map id="ADIS16448::reset" name="ADIS16448::reset">
+<area shape="rect" id="node2" href="$d8/db8/class_a_d_i_s16448.html#ab3c21138543b78b377de39f849ef8f8a" title="ADIS16448::self_test" alt="" coords="455,28,602,55"/>
+<area shape="rect" id="node3" href="$d8/db8/class_a_d_i_s16448.html#a59f97de670dc632ea9261d69aa10c164" title="Write a register in the ADIS16448. " alt="" coords="705,28,869,55"/>
+<area shape="rect" id="node5" href="$d8/db8/class_a_d_i_s16448.html#a77167ff40524b0b4643467503f55c6f8" title="Set sample rate (approximate) &#45; 1kHz to 5Hz. " alt="" coords="180,130,373,156"/>
+<area shape="rect" id="node4" href="$d8/db8/class_a_d_i_s16448.html#a223c2dadab88eee98f6985f23ebd9b01" title="Read a register from the ADIS16448. " alt="" coords="706,79,867,106"/>
+<area shape="rect" id="node6" href="$d8/db8/class_a_d_i_s16448.html#a0a15e08d066468870fd840cd4e3d8198" title="Modify a register in the ADIS16448 Bits are cleared before bits are set. " alt="" coords="441,79,616,106"/>
+<area shape="rect" id="node7" href="$db/def/class_p_x4_accelerometer.html#aee383c85338f3b950515f72892bf93af" title="PX4Accelerometer::set\l_sample_rate" alt="" coords="450,181,607,222"/>
+<area shape="rect" id="node16" href="$d4/d1b/class_p_x4_gyroscope.html#ac8c2799d14ec524670b7ac460412086d" title="PX4Gyroscope::set_sample_rate" alt="" coords="421,247,636,274"/>
+<area shape="rect" id="node8" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ab4843feee1dc19dbb68a28220c69533d" title="math::LowPassFilter2pVector3f\l::set_cutoff_frequency" alt="" coords="684,242,889,284"/>
+<area shape="rect" id="node13" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ac586a1dbb0bda72b081c296326746d0b" title="math::LowPassFilter2pVector3f\l::get_cutoff_freq" alt="" coords="684,177,889,218"/>
+<area shape="rect" id="node9" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="973,296,1107,323"/>
+<area shape="rect" id="node10" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1021,246,1059,272"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1252,246,1335,272"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1444,246,1531,272"/>
+<area shape="rect" id="node14" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a95c2514501357aced2d8c1b5282bc710" title="math::LowPassFilter2pVector3f\l::reset" alt="" coords="937,177,1143,218"/>
+<area shape="rect" id="node15" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a3a354392866066751ae5d5e318d563a5" title="Add a new raw value to the filter. " alt="" coords="1191,177,1396,218"/>
+</map>

@@ -1,51 +1,51 @@
 <map id="LIS3MDL::ioctl" name="LIS3MDL::ioctl">
-<area shape="rect" id="node2" href="$d4/df1/class_l_i_s3_m_d_l.html#a24f554061c135d3c6cfdfc695ca523e0" title="Performs the on&#45;sensor scale calibration routine. " alt="" coords="345,233,480,259"/>
-<area shape="rect" id="node43" href="$d4/df1/class_l_i_s3_m_d_l.html#a45b33da9ef047fd12f8dd22a59f94b02" title="Sets the sensor internal range to handle at least the argument in Gauss. " alt="" coords="568,469,711,495"/>
-<area shape="rect" id="node45" href="$d4/df1/class_l_i_s3_m_d_l.html#a3007cfc9b50253ac0e16ca54ea6090d5" title="Resets the device. " alt="" coords="355,435,470,462"/>
-<area shape="rect" id="node46" href="$d4/df1/class_l_i_s3_m_d_l.html#ad942e1306e6fc507cd8f170b8fdfec63" title="Performs the on&#45;sensor scale calibration routine. " alt="" coords="552,549,727,575"/>
-<area shape="rect" id="node47" href="$d4/df1/class_l_i_s3_m_d_l.html#ace19749fe909ea8c0db922e9899c5e2f" title="Initialises the automatic measurement state machine and start it. " alt="" coords="163,359,273,386"/>
-<area shape="rect" id="node50" href="$d4/df1/class_l_i_s3_m_d_l.html#a4c4685c84009183dd60578e703596316" title="Stop the automatic measurement state machine. " alt="" coords="163,587,273,614"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="620,114,659,141"/>
-<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="574,165,705,191"/>
-<area shape="rect" id="node8" href="$d4/df1/class_l_i_s3_m_d_l.html#a2d3dc1393f41ca032f1d72fb00ab7f4e" title="LIS3MDL::read" alt="" coords="584,274,695,301"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="821,223,881,250"/>
-<area shape="rect" id="node42" href="$d4/df1/class_l_i_s3_m_d_l.html#a317d0ea8acbc0994d6e2267293711649" title="Configures the device with default register values. " alt="" coords="565,385,714,427"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="782,27,921,68"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="786,92,917,133"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="775,157,928,199"/>
-<area shape="rect" id="node9" href="$d4/df1/class_l_i_s3_m_d_l.html#a7877310c671cc294fd7c01e7f5594c79" title="Issue a measurement command. " alt="" coords="784,325,919,351"/>
-<area shape="rect" id="node13" href="$d4/df1/class_l_i_s3_m_d_l.html#a4f9991a60bec3e89c424a4c526f22a04" title="Collect the result of the most recent measurement. " alt="" coords="790,274,913,301"/>
-<area shape="rect" id="node10" href="$d4/df1/class_l_i_s3_m_d_l.html#a6911f88651146683e05bf5b6c0d242e3" title="Writes a register. " alt="" coords="976,477,1115,503"/>
-<area shape="rect" id="node11" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1004,426,1087,453"/>
-<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="983,325,1108,351"/>
-<area shape="rect" id="node15" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="978,223,1113,250"/>
-<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1190,354,1278,381"/>
-<area shape="rect" id="node36" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1004,71,1087,98"/>
-<area shape="rect" id="node37" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1009,122,1081,149"/>
-<area shape="rect" id="node38" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="984,173,1107,199"/>
-<area shape="rect" id="node39" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="980,5,1111,47"/>
-<area shape="rect" id="node41" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="1009,274,1082,301"/>
-<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1839,288,1981,329"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1163,511,1305,552"/>
-<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2029,339,2172,380"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2220,346,2347,373"/>
-<area shape="rect" id="node20" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1381,493,1513,519"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1353,543,1540,570"/>
-<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1873,798,1947,825"/>
-<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1869,747,1951,774"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1375,347,1518,388"/>
-<area shape="rect" id="node22" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1600,543,1779,570"/>
-<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1871,657,1949,683"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1613,711,1765,752"/>
-<area shape="rect" id="node30" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1588,645,1791,687"/>
-<area shape="rect" id="node31" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1616,427,1763,468"/>
-<area shape="rect" id="node32" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1665,493,1713,519"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="2063,773,2138,799"/>
-<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="2033,823,2168,850"/>
-<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="2030,722,2171,749"/>
-<area shape="rect" id="node34" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1596,325,1783,351"/>
-<area shape="rect" id="node40" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1169,5,1299,47"/>
-<area shape="rect" id="node44" href="$d4/df1/class_l_i_s3_m_d_l.html#a0987d5f6d767c628e8e88c2b4fab30fd" title="Reads a register. " alt="" coords="784,527,919,554"/>
-<area shape="rect" id="node48" href="$d4/df1/class_l_i_s3_m_d_l.html#a3cadf8aae06181cb7565516380c3c2d4" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="321,334,504,361"/>
-<area shape="rect" id="node49" href="$d4/df1/class_l_i_s3_m_d_l.html#abc976f937b431e89d76c2b610fb1cec8" title="Performs a poll cycle; collect from the previous measurement and start a new one. ..." alt="" coords="581,325,697,351"/>
+<area shape="rect" id="node2" href="$d4/df1/class_l_i_s3_m_d_l.html#a24f554061c135d3c6cfdfc695ca523e0" title="Performs the on&#45;sensor scale calibration routine. " alt="" coords="163,360,297,387"/>
+<area shape="rect" id="node46" href="$d4/df1/class_l_i_s3_m_d_l.html#a45b33da9ef047fd12f8dd22a59f94b02" title="Sets the sensor internal range to handle at least the argument in Gauss. " alt="" coords="361,411,504,437"/>
+<area shape="rect" id="node48" href="$d4/df1/class_l_i_s3_m_d_l.html#a3007cfc9b50253ac0e16ca54ea6090d5" title="Resets the device. " alt="" coords="173,461,287,488"/>
+<area shape="rect" id="node49" href="$d4/df1/class_l_i_s3_m_d_l.html#ad942e1306e6fc507cd8f170b8fdfec63" title="Performs the on&#45;sensor scale calibration routine. " alt="" coords="345,563,520,589"/>
+<area shape="rect" id="node50" href="$d4/df1/class_l_i_s3_m_d_l.html#ace19749fe909ea8c0db922e9899c5e2f" title="Initialises the automatic measurement state machine and start it. " alt="" coords="175,512,285,539"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="413,48,452,75"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="373,171,493,197"/>
+<area shape="rect" id="node10" href="$d4/df1/class_l_i_s3_m_d_l.html#a2d3dc1393f41ca032f1d72fb00ab7f4e" title="LIS3MDL::read" alt="" coords="377,360,488,387"/>
+<area shape="rect" id="node45" href="$d4/df1/class_l_i_s3_m_d_l.html#a317d0ea8acbc0994d6e2267293711649" title="Configures the device with default register values. " alt="" coords="358,479,507,521"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="605,5,687,32"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="798,5,885,32"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="568,75,724,117"/>
+<area shape="rect" id="node8" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="568,141,724,168"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="575,193,717,234"/>
+<area shape="rect" id="node11" href="$d4/df1/class_l_i_s3_m_d_l.html#a7877310c671cc294fd7c01e7f5594c79" title="Issue a measurement command. " alt="" coords="579,360,713,387"/>
+<area shape="rect" id="node15" href="$d4/df1/class_l_i_s3_m_d_l.html#a4f9991a60bec3e89c424a4c526f22a04" title="Collect the result of the most recent measurement. " alt="" coords="585,259,707,285"/>
+<area shape="rect" id="node12" href="$d4/df1/class_l_i_s3_m_d_l.html#a6911f88651146683e05bf5b6c0d242e3" title="Writes a register. " alt="" coords="772,512,911,539"/>
+<area shape="rect" id="node13" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="800,461,883,488"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1842,157,1967,184"/>
+<area shape="rect" id="node16" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="774,411,909,437"/>
+<area shape="rect" id="node37" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1825,267,1984,293"/>
+<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="986,309,1074,336"/>
+<area shape="rect" id="node41" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="989,157,1071,184"/>
+<area shape="rect" id="node42" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="994,56,1066,83"/>
+<area shape="rect" id="node43" href="$df/d7b/perf__counter_8cpp.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="780,309,903,336"/>
+<area shape="rect" id="node44" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="805,360,878,387"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1605,377,1747,418"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="959,419,1101,461"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1833,435,1976,477"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1340,609,1527,636"/>
+<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1183,427,1258,453"/>
+<area shape="rect" id="node32" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1180,477,1261,504"/>
+<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1149,361,1292,402"/>
+<area shape="rect" id="node21" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1587,493,1765,520"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1637,844,1715,871"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1600,778,1752,819"/>
+<area shape="rect" id="node26" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1575,545,1777,586"/>
+<area shape="rect" id="node27" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1603,610,1749,651"/>
+<area shape="rect" id="node28" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1652,676,1700,703"/>
+<area shape="rect" id="node23" href="$dc/db4/classcdev_1_1_v_file.html#a76418692ad24fb60ee14bdb5ae66d19d" title="cdev::VFile::createFile" alt="" coords="1828,819,1981,845"/>
+<area shape="rect" id="node24" href="$da/dc9/posix_2cdev__platform_8cpp.html#a3fe15a0fdcd00e34f4a29b3cea4c7c46" title="getDev" alt="" coords="1873,869,1937,896"/>
+<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1396,427,1471,453"/>
+<area shape="rect" id="node31" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1371,376,1495,403"/>
+<area shape="rect" id="node33" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1368,477,1499,504"/>
+<area shape="rect" id="node35" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1340,267,1527,293"/>
+<area shape="rect" id="node36" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a86db9fc8d841b0a4748611cec14ea546" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1589,325,1763,352"/>
+<area shape="rect" id="node39" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1575,259,1777,301"/>
+<area shape="rect" id="node38" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="2032,267,2219,293"/>
+<area shape="rect" id="node47" href="$d4/df1/class_l_i_s3_m_d_l.html#a0987d5f6d767c628e8e88c2b4fab30fd" title="Reads a register. " alt="" coords="579,461,713,488"/>
 </map>

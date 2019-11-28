@@ -2,6 +2,12 @@ var pwm__input_8cpp =
 [
     [ "PWMIN", "d7/d95/class_p_w_m_i_n.html", "d7/d95/class_p_w_m_i_n" ],
     [ "GPIO_VDD_RANGEFINDER_EN", "d9/d8a/pwm__input_8cpp.html#a3a2753bd5a77beb1e02abd2a691d46a2", null ],
+    [ "INPUT_TIMER", "d9/d8a/pwm__input_8cpp.html#a2fc6ed12c41cea5ae3ea1f504444f438", null ],
+    [ "PWMIN_TIMER_BASE", "d9/d8a/pwm__input_8cpp.html#a08089152a6e17f5af7bdc22578a811c9", null ],
+    [ "PWMIN_TIMER_CLOCK", "d9/d8a/pwm__input_8cpp.html#ad1185955b60c7aa892524e0faeab0e52", null ],
+    [ "PWMIN_TIMER_POWER_BIT", "d9/d8a/pwm__input_8cpp.html#a8b87a09428f0a9ea62801f49c7fc3b8b", null ],
+    [ "PWMIN_TIMER_POWER_REG", "d9/d8a/pwm__input_8cpp.html#a78caaf8bc64ad9becda03ee0f7206c5b", null ],
+    [ "PWMIN_TIMER_VECTOR", "d9/d8a/pwm__input_8cpp.html#abf67ad9a6afb04483f6884a45cec78af", null ],
     [ "rARR", "d9/d8a/pwm__input_8cpp.html#ac2b8b5c49eb6e8d8e8a7180b1a65ac60", null ],
     [ "rCCER", "d9/d8a/pwm__input_8cpp.html#aabe094025539d23a970fbdb7ab87e6d3", null ],
     [ "rCCMR1", "d9/d8a/pwm__input_8cpp.html#aa1e6b281ef382ce9e98083671d56f513", null ],

@@ -1,0 +1,6 @@
+<map id="GPSBaseStationSupport" name="GPSBaseStationSupport">
+<area shape="rect" id="node2" href="$d2/d20/class_g_p_s_helper.html" title="{GPSHelper\n|# _callback\l# _callback_user\l# _rate_count_lat_lon\l# _rate_count_vel\l# _rate_lat_lon\l# _rate_vel\l# _interval_rate_start\l|+ GPSHelper()\l+ ~GPSHelper()\l+ configure()\l+ receive()\l+ reset()\l+ getPositionUpdateRate()\l+ getVelocityUpdateRate()\l+ resetUpdateRates()\l+ storeUpdateRates()\l# read()\l# write()\l# setBaudrate()\l# surveyInStatus()\l# gotRTCMMessage()\l# setClock()\l# ECEF2lla()\l}" alt="" coords="5,204,183,589"/>
+<area shape="rect" id="node3" href="$d8/d91/struct_g_p_s_base_station_support_1_1_base_settings.html" title="{GPSBaseStationSupport\l::BaseSettings\n|+ type\l+ settings\l|}" alt="" coords="207,343,373,450"/>
+<area shape="rect" id="node4" href="$d2/d43/struct_g_p_s_base_station_support_1_1_survey_in_settings.html" title="{GPSBaseStationSupport\l::SurveyInSettings\n|+ acc_limit\l+ min_dur\l|}" alt="" coords="111,20,277,127"/>
+<area shape="rect" id="node5" href="$d7/de0/struct_g_p_s_base_station_support_1_1_fixed_position_settings.html" title="{GPSBaseStationSupport\l::FixedPositionSettings\n|+ latitude\l+ longitude\l+ altitude\l+ position_accuracy\l|}" alt="" coords="301,5,468,141"/>
+</map>

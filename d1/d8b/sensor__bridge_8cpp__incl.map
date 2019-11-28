@@ -1,27 +1,32 @@
-<map id="src/modules/uavcan/sensors/sensor_bridge.cpp" name="src/modules/uavcan/sensors/sensor_bridge.cpp">
-<area shape="rect" id="node2" href="$d4/dd7/sensor__bridge_8hpp.html" title="sensor_bridge.hpp" alt="" coords="793,177,921,203"/>
-<area shape="rect" id="node33" href="$d9/d86/gnss_8hpp.html" title="UAVCAN &lt;–&gt; ORB bridge for GNSS messages: uavcan.equipment.gnss.Fix (deprecated, but still supported ..." alt="" coords="459,95,533,121"/>
-<area shape="rect" id="node38" href="$d5/ddf/mag_8hpp.html" title="mag.hpp" alt="" coords="948,95,1020,121"/>
-<area shape="rect" id="node42" href="$d3/d35/baro_8hpp.html" title="baro.hpp" alt="" coords="1620,95,1692,121"/>
-<area shape="rect" id="node3" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="893,259,1025,285"/>
-<area shape="rect" id="node5" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="713,259,869,285"/>
-<area shape="rect" id="node27" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1084,579,1188,606"/>
-<area shape="rect" id="node6" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="909,423,997,449"/>
-<area shape="rect" id="node29" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="750,341,831,367"/>
-<area shape="rect" id="node7" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="821,497,917,524"/>
-<area shape="rect" id="node8" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="803,579,895,606"/>
-<area shape="rect" id="node24" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="1411,497,1549,524"/>
-<area shape="rect" id="node9" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1101,661,1203,688"/>
-<area shape="rect" id="node16" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="465,661,559,688"/>
-<area shape="rect" id="node22" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="887,661,974,688"/>
-<area shape="rect" id="node10" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="1113,736,1191,763"/>
-<area shape="rect" id="node26" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="1365,579,1462,606"/>
-<area shape="rect" id="node30" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="670,423,834,449"/>
-<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="332,661,441,688"/>
-<area shape="rect" id="node35" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="425,333,567,375"/>
-<area shape="rect" id="node39" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="1101,497,1227,524"/>
-<area shape="rect" id="node40" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="475,572,615,613"/>
-<area shape="rect" id="node43" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="1259,497,1386,524"/>
-<area shape="rect" id="node45" href="$d6/da4/ringbuffer_8h.html" title="A flexible ringbuffer class. " alt="" coords="1722,736,1894,763"/>
-<area shape="rect" id="node44" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="639,572,779,613"/>
+<map id="src/drivers/uavcan/sensors/sensor_bridge.cpp" name="src/drivers/uavcan/sensors/sensor_bridge.cpp">
+<area shape="rect" id="node2" href="$d4/dd7/sensor__bridge_8hpp.html" title="sensor_bridge.hpp" alt="" coords="1179,177,1307,203"/>
+<area shape="rect" id="node22" href="$d9/d86/gnss_8hpp.html" title="UAVCAN &lt;–&gt; ORB bridge for GNSS messages: uavcan.equipment.gnss.Fix (deprecated, but still supported ..." alt="" coords="517,95,592,121"/>
+<area shape="rect" id="node35" href="$d5/ddf/mag_8hpp.html" title="mag.hpp" alt="" coords="1180,95,1252,121"/>
+<area shape="rect" id="node40" href="$d3/d35/baro_8hpp.html" title="baro.hpp" alt="" coords="1672,95,1744,121"/>
+<area shape="rect" id="node45" href="$d5/d21/flow_8hpp.html" title="flow.hpp" alt="" coords="2061,95,2131,121"/>
+<area shape="rect" id="node48" href="$d9/dc2/battery_8hpp.html" title="battery.hpp" alt="" coords="1327,95,1414,121"/>
+<area shape="rect" id="node3" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="185,519,317,546"/>
+<area shape="rect" id="node6" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="1314,266,1470,293"/>
+<area shape="rect" id="node15" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1745,601,1849,628"/>
+<area shape="rect" id="node19" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="773,601,883,628"/>
+<area shape="rect" id="node7" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="1467,437,1555,464"/>
+<area shape="rect" id="node17" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="CDev.hpp" alt="" coords="1351,355,1433,382"/>
+<area shape="rect" id="node10" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="2101,519,2240,546"/>
+<area shape="rect" id="node13" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="2153,601,2250,628"/>
+<area shape="rect" id="node18" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="1211,437,1341,464"/>
+<area shape="rect" id="node23" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="323,266,482,293"/>
+<area shape="rect" id="node30" href="$d3/dfb/_publication_multi_8hpp.html" title="uORB/PublicationMulti.hpp" alt="" coords="552,519,731,546"/>
+<area shape="rect" id="node31" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="581,259,723,300"/>
+<area shape="rect" id="node24" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="uORBDeviceNode.hpp" alt="" coords="317,355,472,382"/>
+<area shape="rect" id="node28" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="uORBManager.hpp" alt="" coords="496,355,629,382"/>
+<area shape="rect" id="node29" href="$d9/d38/u_o_r_b_utils_8hpp.html" title="uORBUtils.hpp" alt="" coords="182,355,293,382"/>
+<area shape="rect" id="node25" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="392,519,528,546"/>
+<area shape="rect" id="node27" href="$d5/d10/u_o_r_b_device_master_8hpp.html" title="uORBDeviceMaster.hpp" alt="" coords="378,437,542,464"/>
+<area shape="rect" id="node26" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="406,601,514,628"/>
+<area shape="rect" id="node36" href="$d7/d80/drv__mag_8h.html" title="drivers/drv_mag.h" alt="" coords="2001,437,2127,464"/>
+<area shape="rect" id="node37" href="$d9/d27/sensor__mag_8h.html" title="uORB/topics/sensor\l_mag.h" alt="" coords="1835,512,1975,553"/>
+<area shape="rect" id="node41" href="$de/d76/drv__baro_8h.html" title="Barometric pressure sensor driver interface. " alt="" coords="1850,437,1977,464"/>
+<area shape="rect" id="node42" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="1569,512,1709,553"/>
+<area shape="rect" id="node46" href="$df/d48/optical__flow_8h.html" title="uORB/topics/optical\l_flow.h" alt="" coords="1067,259,1205,300"/>
+<area shape="rect" id="node49" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="957,348,1099,389"/>
 </map>

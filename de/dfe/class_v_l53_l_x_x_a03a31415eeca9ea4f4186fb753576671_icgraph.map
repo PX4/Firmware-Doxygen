@@ -1,11 +1,6 @@
 <map id="VL53LXX::measure" name="VL53LXX::measure">
-<area shape="rect" id="node2" href="$de/dfe/class_v_l53_l_x_x.html#a9c2b215b950e1147df89d2d232535933" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="188,5,304,32"/>
-<area shape="rect" id="node9" href="$de/dfe/class_v_l53_l_x_x.html#a16d2b809d50a67ee68e345ec6988aa36" title="VL53LXX::read" alt="" coords="388,107,499,133"/>
-<area shape="rect" id="node3" href="$de/dfe/class_v_l53_l_x_x.html#a1f4fb0a69945fb5d415c33ce66dd5b52" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="352,5,535,32"/>
-<area shape="rect" id="node4" href="$de/dfe/class_v_l53_l_x_x.html#a26d07b3cdd75fe0a173505d1dea83161" title="Initialise the automatic measurement state machine and start it. " alt="" coords="583,5,693,32"/>
-<area shape="rect" id="node5" href="$de/dfe/class_v_l53_l_x_x.html#a0f5242b3e9bb37934b7af59445fefdf8" title="VL53LXX::ioctl" alt="" coords="741,5,851,32"/>
-<area shape="rect" id="node6" href="$da/dee/namespacevl53lxx.html#ae3bd92b05f8af664f80fe19776c60089" title="Start the driver on a specific bus. " alt="" coords="899,5,1024,32"/>
-<area shape="rect" id="node7" href="$da/dee/namespacevl53lxx.html#aef8cec8200f6f979fbeb993abf488092" title="Attempt to start driver on all available I2C busses. " alt="" coords="1072,5,1169,32"/>
-<area shape="rect" id="node8" href="$d6/d2e/vl53lxx_8cpp.html#af3637f016a50348b8a23067d1c323dcf" title="vl53lxx_main" alt="" coords="1217,56,1316,83"/>
-<area shape="rect" id="node10" href="$da/dee/namespacevl53lxx.html#a11f808f55cd0df517636891fb378a869" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="591,107,685,133"/>
+<area shape="rect" id="node2" href="$de/dfe/class_v_l53_l_x_x.html#a1b94d84101214ca38eb57be2b59dd224" title="VL53LXX::read" alt="" coords="188,5,299,32"/>
+<area shape="rect" id="node5" href="$de/dfe/class_v_l53_l_x_x.html#ac3fe6c0869eef0879137f4d1974a3dfc" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="189,56,298,83"/>
+<area shape="rect" id="node3" href="$da/dee/namespacevl53lxx.html#a11f808f55cd0df517636891fb378a869" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="347,5,440,32"/>
+<area shape="rect" id="node4" href="$d6/d2e/vl53lxx_8cpp.html#af7b0a668f2867a37ee3902a54b045309" title="Driver &#39;main&#39; command. " alt="" coords="488,5,587,32"/>
 </map>

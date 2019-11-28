@@ -1,7 +1,4 @@
 <map id="FlightTasks::getPositionSetpoint" name="FlightTasks::getPositionSetpoint">
-<area shape="rect" id="node2" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="216,5,391,47"/>
-<area shape="rect" id="node6" href="$dc/d0c/class_flight_tasks.html#a480987e23ccc705b407d5ad5b40ac4f6" title="FlightTasks::~FlightTasks" alt="" coords="216,71,391,98"/>
-<area shape="rect" id="node3" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="439,5,613,47"/>
-<area shape="rect" id="node4" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="661,5,836,47"/>
-<area shape="rect" id="node5" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="884,13,1033,39"/>
+<area shape="rect" id="node2" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="216,5,423,32"/>
+<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#adbfe677fc3a415e08f897d938cc641d8" title="Switch to a specific task (for normal usage) " alt="" coords="237,56,402,83"/>
 </map>

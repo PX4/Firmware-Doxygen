@@ -1,51 +1,51 @@
 <map id="df_ms5611_wrapper_main" name="df_ms5611_wrapper_main">
-<area shape="rect" id="node2" href="$d4/d93/namespacedf__ms5611__wrapper.html#afd97b415ecefca93dd3095535c52b51c" title="Print a little info about the driver. " alt="" coords="230,757,398,784"/>
-<area shape="rect" id="node3" href="$d4/d93/namespacedf__ms5611__wrapper.html#a3e157f7b329ad42d7d531a5cdff247bb" title="Attempt to start driver on all available I2C busses. " alt="" coords="241,809,387,850"/>
-<area shape="rect" id="node47" href="$d4/d93/namespacedf__ms5611__wrapper.html#a1911074d7d9ecf494b9c106059c2a07d" title="Stop the driver. " alt="" coords="228,875,400,901"/>
-<area shape="rect" id="node50" href="$d4/d93/namespacedf__ms5611__wrapper.html#ad3388f212e1acce4f7b180130e7630b6" title="Prints info about the driver argument usage. " alt="" coords="241,926,387,967"/>
-<area shape="rect" id="node4" href="$d4/d4a/class_df_m_s5611_wrapper.html#af80a344746af57446a15bf9d183cb1f5" title="DfMS5611Wrapper::DfMS5611\lWrapper" alt="" coords="448,754,651,795"/>
-<area shape="rect" id="node5" href="$d4/d4a/class_df_m_s5611_wrapper.html#a51007c0bfa2a97abd646152500a8d4fd" title="Start automatic measurement. " alt="" coords="466,820,633,847"/>
-<area shape="rect" id="node6" href="$d3/d05/class_m_s5611.html#a6ec45990defdae23baf1601542d28f84" title="Initialise the driver and make it ready for use. " alt="" coords="699,208,793,235"/>
-<area shape="rect" id="node34" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1519,652,1567,679"/>
-<area shape="rect" id="node7" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="865,5,953,32"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="1466,165,1619,206"/>
-<area shape="rect" id="node13" href="$d3/d05/class_m_s5611.html#a6bc57ecfabd24cde7c74b53969141c3c" title="Issue a measurement command for the current state. " alt="" coords="845,157,973,184"/>
-<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="879,208,939,235"/>
-<area shape="rect" id="node18" href="$d3/d05/class_m_s5611.html#af8be111387f7d74224f734e274ba767a" title="Collect the result of the most recent measurement. " alt="" coords="851,259,967,285"/>
-<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="841,528,976,555"/>
-<area shape="rect" id="node8" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="1033,5,1158,32"/>
-<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2249,365,2353,392"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2409,365,2547,392"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2401,416,2555,443"/>
-<area shape="rect" id="node14" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1054,107,1137,133"/>
-<area shape="rect" id="node15" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1054,157,1137,184"/>
-<area shape="rect" id="node16" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1059,208,1131,235"/>
-<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1033,259,1158,285"/>
-<area shape="rect" id="node20" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1034,309,1157,336"/>
-<area shape="rect" id="node21" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1076,360,1115,387"/>
-<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1051,411,1139,437"/>
-<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1030,462,1161,503"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1689,397,1831,438"/>
-<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1237,397,1379,438"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1884,397,2027,438"/>
-<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2075,365,2201,392"/>
-<area shape="rect" id="node27" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1449,404,1636,431"/>
-<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1243,462,1373,503"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1024,601,1167,642"/>
-<area shape="rect" id="node32" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="1242,579,1374,605"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1215,629,1401,656"/>
-<area shape="rect" id="node45" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1271,680,1345,707"/>
-<area shape="rect" id="node46" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="2261,416,2342,443"/>
-<area shape="rect" id="node35" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1684,619,1836,645"/>
-<area shape="rect" id="node36" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1719,669,1801,696"/>
-<area shape="rect" id="node37" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="1886,467,2025,493"/>
-<area shape="rect" id="node39" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="2095,517,2181,544"/>
-<area shape="rect" id="node41" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="1916,568,1995,595"/>
-<area shape="rect" id="node42" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="1929,619,1982,645"/>
-<area shape="rect" id="node43" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1912,669,1999,696"/>
-<area shape="rect" id="node44" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1914,720,1997,747"/>
-<area shape="rect" id="node38" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="2094,416,2182,443"/>
-<area shape="rect" id="node40" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="2087,467,2189,493"/>
-<area shape="rect" id="node48" href="$d4/d4a/class_df_m_s5611_wrapper.html#a73f99faa47f7bbb2c8f5aa38c90ddc0f" title="Stop automatic measurement. " alt="" coords="466,875,633,901"/>
-<area shape="rect" id="node49" href="$d6/d47/dataman_8cpp.html#acc7baf226fbd7801b4118c7a009ff257" title="stop" alt="" coords="723,875,769,901"/>
+<area shape="rect" id="node2" href="$d4/d93/namespacedf__ms5611__wrapper.html#afd97b415ecefca93dd3095535c52b51c" title="Print a little info about the driver. " alt="" coords="230,335,398,361"/>
+<area shape="rect" id="node3" href="$d4/d93/namespacedf__ms5611__wrapper.html#a3e157f7b329ad42d7d531a5cdff247bb" title="Attempt to start driver on all available I2C busses. " alt="" coords="241,386,387,427"/>
+<area shape="rect" id="node47" href="$d4/d93/namespacedf__ms5611__wrapper.html#a1911074d7d9ecf494b9c106059c2a07d" title="Stop the driver. " alt="" coords="228,452,400,479"/>
+<area shape="rect" id="node50" href="$d4/d93/namespacedf__ms5611__wrapper.html#ad3388f212e1acce4f7b180130e7630b6" title="Prints info about the driver argument usage. " alt="" coords="241,503,387,545"/>
+<area shape="rect" id="node4" href="$d4/d4a/class_df_m_s5611_wrapper.html#af80a344746af57446a15bf9d183cb1f5" title="DfMS5611Wrapper::DfMS5611\lWrapper" alt="" coords="448,386,651,427"/>
+<area shape="rect" id="node5" href="$d4/d4a/class_df_m_s5611_wrapper.html#a51007c0bfa2a97abd646152500a8d4fd" title="Start automatic measurement. " alt="" coords="466,335,633,361"/>
+<area shape="rect" id="node6" href="$d3/d05/class_m_s5611.html#a6ec45990defdae23baf1601542d28f84" title="MS5611::init" alt="" coords="703,360,798,387"/>
+<area shape="rect" id="node46" href="$d3/d05/class_m_s5611.html#a46b16275dcabbeb24f72ee243846d287" title="Initialize the automatic measurement state machine and start it. " alt="" coords="699,309,803,336"/>
+<area shape="rect" id="node7" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="864,51,1000,93"/>
+<area shape="rect" id="node8" href="$d8/d26/classcdev_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="861,117,1003,158"/>
+<area shape="rect" id="node10" href="$d3/d05/class_m_s5611.html#a6bc57ecfabd24cde7c74b53969141c3c" title="Issue a measurement command for the current state. " alt="" coords="868,183,996,209"/>
+<area shape="rect" id="node16" href="$d3/d05/class_m_s5611.html#af8be111387f7d74224f734e274ba767a" title="Collect the result of the most recent measurement. " alt="" coords="874,335,990,361"/>
+<area shape="rect" id="node22" href="$dd/dd3/classdevice_1_1_device.html#afc3a32d110f64bbd5f2b83f0c19d8ed2" title="device::Device::get\l_device_id" alt="" coords="1073,563,1208,605"/>
+<area shape="rect" id="node30" href="$dd/dd3/classdevice_1_1_device.html#ace540715b6dc15c2bedc3f7d05c377ca" title="device::Device::set\l_device_type" alt="" coords="865,437,999,478"/>
+<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="865,553,999,580"/>
+<area shape="rect" id="node45" href="$dd/dd3/classdevice_1_1_device.html#ab790d7c14f13dbd54b3fab8d4d202ec0" title="device::Device::external" alt="" coords="851,604,1013,631"/>
+<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="1089,5,1193,32"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1099,107,1182,133"/>
+<area shape="rect" id="node13" href="$dd/dd3/classdevice_1_1_device.html#a48f38b84572d31ca4ff699213907437e" title="Perform a device&#45;specific operation. " alt="" coords="1070,56,1211,83"/>
+<area shape="rect" id="node14" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1099,157,1182,184"/>
+<area shape="rect" id="node15" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1105,208,1177,235"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1299,183,1424,209"/>
+<area shape="rect" id="node17" href="$df/d7b/perf__counter_8cpp.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="1079,461,1202,488"/>
+<area shape="rect" id="node18" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="1069,309,1212,336"/>
+<area shape="rect" id="node19" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1121,360,1160,387"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1097,512,1185,539"/>
+<area shape="rect" id="node28" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1061,411,1220,437"/>
+<area shape="rect" id="node20" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1320,360,1403,387"/>
+<area shape="rect" id="node21" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1553,360,1639,387"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1767,501,1910,542"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1290,559,1433,601"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1988,559,2131,601"/>
+<area shape="rect" id="node27" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1503,563,1689,589"/>
+<area shape="rect" id="node29" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1268,411,1455,437"/>
+<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="1069,683,1212,725"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1503,691,1689,717"/>
+<area shape="rect" id="node40" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1324,741,1399,768"/>
+<area shape="rect" id="node43" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1321,792,1402,819"/>
+<area shape="rect" id="node34" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1749,865,1928,892"/>
+<area shape="rect" id="node35" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1799,916,1878,943"/>
+<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1763,683,1915,725"/>
+<area shape="rect" id="node37" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1737,618,1940,659"/>
+<area shape="rect" id="node38" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1765,749,1912,790"/>
+<area shape="rect" id="node39" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1815,815,1863,841"/>
+<area shape="rect" id="node41" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1559,792,1633,819"/>
+<area shape="rect" id="node42" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1534,741,1658,768"/>
+<area shape="rect" id="node44" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1531,843,1661,869"/>
+<area shape="rect" id="node48" href="$d4/d4a/class_df_m_s5611_wrapper.html#a73f99faa47f7bbb2c8f5aa38c90ddc0f" title="Stop automatic measurement. " alt="" coords="466,452,633,479"/>
+<area shape="rect" id="node49" href="$d3/d05/class_m_s5611.html#a13b627a1efe22119fadfd8d15f56e889" title="Stop the automatic measurement state machine. " alt="" coords="699,452,802,479"/>
 </map>

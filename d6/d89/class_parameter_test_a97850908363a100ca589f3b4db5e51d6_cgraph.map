@@ -1,28 +1,51 @@
 <map id="ParameterTest::run_tests" name="ParameterTest::run_tests">
-<area shape="rect" id="node2" href="$d6/d89/class_parameter_test.html#a50e40a2a9f3282c662dcca0a92a809c8" title="ParameterTest::exportImport" alt="" coords="216,157,405,184"/>
-<area shape="rect" id="node9" href="$d6/d89/class_parameter_test.html#a612b8826b7d08994dfde86e42b594641" title="ParameterTest::exportImportAll" alt="" coords="209,360,413,387"/>
-<area shape="rect" id="node15" href="$d9/da5/param_8c.html#ac91eacb1364e8aed5a7e84c964ffeb7b" title="Enable/disable the param autosaving. " alt="" coords="229,1000,393,1027"/>
-<area shape="rect" id="node16" href="$d6/d89/class_parameter_test.html#ac5b26863b8ac3b2f9d8c4d0ef982c442" title="ParameterTest::ResetAll" alt="" coords="227,639,394,665"/>
-<area shape="rect" id="node20" href="$d6/d89/class_parameter_test.html#a70a796e7bb2d38c2e8ac74694acaa1c3" title="ParameterTest::ResetAllExcludes\lBoundaryCheck" alt="" coords="201,715,421,757"/>
-<area shape="rect" id="node22" href="$d6/d89/class_parameter_test.html#a5c5654e02f1a32cdeae20908ed7fa163" title="ParameterTest::ResetAllExcludesOne" alt="" coords="189,781,433,808"/>
-<area shape="rect" id="node23" href="$d6/d89/class_parameter_test.html#a3d852f8d3b759c3c742f0604aafdcd7b" title="ParameterTest::ResetAllExcludesTwo" alt="" coords="188,832,433,859"/>
-<area shape="rect" id="node24" href="$d6/d89/class_parameter_test.html#ae38f1d5b0843e00e2735ac692e89c6a0" title="ParameterTest::ResetAllExcludes\lWildcard" alt="" coords="201,883,421,925"/>
-<area shape="rect" id="node25" href="$d6/d89/class_parameter_test.html#a9571f9dd5b04cbc25ff6a89343d04fde" title="ParameterTest::SimpleFind" alt="" coords="220,949,401,976"/>
-<area shape="rect" id="node27" href="$d5/d69/tests__main_8h.html#a8cb887404b7a28f12519a5766a75407c" title="test_parameters" alt="" coords="253,1051,369,1077"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="549,5,588,32"/>
-<area shape="rect" id="node4" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="911,581,993,608"/>
-<area shape="rect" id="node5" href="$d9/da5/param_8c.html#a7ec8a852f20e4bc7577b8698120db585" title="Load parameters from the default parameter file. " alt="" coords="501,208,636,235"/>
-<area shape="rect" id="node6" href="$d9/da5/param_8c.html#a8c23617be66d165d07cc3bd42e9acffd" title="Save parameters to the default file. " alt="" coords="499,259,638,285"/>
-<area shape="rect" id="node7" href="$d9/da5/param_8c.html#a803f9e8aef28899d6311b39e482584eb" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="481,107,656,133"/>
-<area shape="rect" id="node8" href="$d9/da5/param_8c.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="523,157,614,184"/>
-<area shape="rect" id="node10" href="$d9/da5/param_8c.html#aa0c96c4056546b1d6af9b697d45b0dd3" title="Return the total number of parameters. " alt="" coords="520,461,617,488"/>
-<area shape="rect" id="node11" href="$d9/da5/param_8c.html#a9684c9aefbfb9f1addd8fd14b4776555" title="Export changed parameters to a file. " alt="" coords="518,512,619,539"/>
-<area shape="rect" id="node12" href="$d9/da5/param_8c.html#a96dd784b4955aa23c9ef222afce869ab" title="Look up a parameter by index. " alt="" coords="509,309,628,336"/>
-<area shape="rect" id="node13" href="$d9/da5/param_8c.html#a1e5338d93ed1b5bf9e6438b4f6cb8e22" title="Import parameters from a file, discarding any unrecognized parameters. " alt="" coords="518,360,619,387"/>
-<area shape="rect" id="node14" href="$d9/da5/param_8c.html#aab3a3324b8f2b8a6d4d33583024ea7cc" title="Reset all parameters to their default values. " alt="" coords="511,563,626,589"/>
-<area shape="rect" id="node17" href="$d6/d89/class_parameter_test.html#a44974a4950da224684296dd0ab73338f" title="ParameterTest::_assert\l_parameter_int_value" alt="" coords="704,745,863,786"/>
-<area shape="rect" id="node18" href="$d6/d89/class_parameter_test.html#a4852dcf0d5c863c145ad4ded860d6a17" title="ParameterTest::_set\l_all_int_parameters_to" alt="" coords="492,715,645,757"/>
-<area shape="rect" id="node19" href="$d9/da5/param_8c.html#a126ed3d305f2dd3cd9880f11ee2922a0" title="Set the value of a parameter. " alt="" coords="742,693,825,720"/>
-<area shape="rect" id="node21" href="$d9/da5/param_8c.html#ac579e1a9910cc9e997cceeefbbf51d05" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="492,832,645,859"/>
-<area shape="rect" id="node26" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="525,1035,612,1061"/>
+<area shape="rect" id="node2" href="$d6/d89/class_parameter_test.html#a50e40a2a9f3282c662dcca0a92a809c8" title="ParameterTest::exportImport" alt="" coords="690,626,879,653"/>
+<area shape="rect" id="node33" href="$d6/d89/class_parameter_test.html#a612b8826b7d08994dfde86e42b594641" title="ParameterTest::exportImportAll" alt="" coords="683,809,887,836"/>
+<area shape="rect" id="node39" href="$d5/d33/param_8h.html#a4740c2be9c9e4aefe8d69c4c9db3d209" title="Enable/disable the param autosaving. " alt="" coords="1157,145,1321,172"/>
+<area shape="rect" id="node40" href="$d6/d89/class_parameter_test.html#ac5b26863b8ac3b2f9d8c4d0ef982c442" title="ParameterTest::ResetAll" alt="" coords="227,1004,394,1030"/>
+<area shape="rect" id="node43" href="$d6/d89/class_parameter_test.html#a70a796e7bb2d38c2e8ac74694acaa1c3" title="ParameterTest::ResetAllExcludes\lBoundaryCheck" alt="" coords="201,1055,421,1096"/>
+<area shape="rect" id="node45" href="$d6/d89/class_parameter_test.html#a5c5654e02f1a32cdeae20908ed7fa163" title="ParameterTest::ResetAllExcludesOne" alt="" coords="189,1121,433,1148"/>
+<area shape="rect" id="node46" href="$d6/d89/class_parameter_test.html#a3d852f8d3b759c3c742f0604aafdcd7b" title="ParameterTest::ResetAllExcludesTwo" alt="" coords="188,1172,433,1198"/>
+<area shape="rect" id="node47" href="$d6/d89/class_parameter_test.html#ae38f1d5b0843e00e2735ac692e89c6a0" title="ParameterTest::ResetAllExcludes\lWildcard" alt="" coords="201,1223,421,1264"/>
+<area shape="rect" id="node48" href="$d6/d89/class_parameter_test.html#a9571f9dd5b04cbc25ff6a89343d04fde" title="ParameterTest::SimpleFind" alt="" coords="220,910,401,937"/>
+<area shape="rect" id="node50" href="$d5/d69/tests__main_8h.html#a8cb887404b7a28f12519a5766a75407c" title="test_parameters" alt="" coords="253,1289,369,1316"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1437,917,1475,944"/>
+<area shape="rect" id="node5" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="981,956,1063,982"/>
+<area shape="rect" id="node18" href="$d5/d33/param_8h.html#a522cbacb68bd0295f89c216d3fe9efbd" title="Load parameters from the default parameter file. " alt="" coords="955,196,1089,222"/>
+<area shape="rect" id="node22" href="$d5/d33/param_8h.html#aac114d47fe21936442ef251b4af6e81d" title="Save parameters to the default file. " alt="" coords="953,626,1091,653"/>
+<area shape="rect" id="node30" href="$d5/d33/param_8h.html#a817e6f9a6a2b732e09e5c446af02ed45" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="935,576,1109,602"/>
+<area shape="rect" id="node32" href="$d5/d33/param_8h.html#a67c031ecddf3189149d20d7ef6295748" title="Obtain the type of a parameter. " alt="" coords="977,525,1067,552"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1609,917,1691,944"/>
+<area shape="rect" id="node6" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1592,1133,1708,1160"/>
+<area shape="rect" id="node7" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1385,380,1527,406"/>
+<area shape="rect" id="node10" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1390,714,1522,741"/>
+<area shape="rect" id="node11" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1407,1108,1505,1134"/>
+<area shape="rect" id="node12" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1173,1057,1305,1084"/>
+<area shape="rect" id="node13" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1411,1158,1501,1185"/>
+<area shape="rect" id="node14" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1415,866,1497,893"/>
+<area shape="rect" id="node15" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1420,816,1492,842"/>
+<area shape="rect" id="node16" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1411,430,1501,457"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="1383,765,1529,792"/>
+<area shape="rect" id="node8" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1592,405,1708,432"/>
+<area shape="rect" id="node9" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1757,1310,1908,1337"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#afda82358866a406e1f7cc92756cf6995" title="flash_param_load" alt="" coords="1394,18,1518,45"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad4fc9185c20459575602433809d96bb2" title="Get the default parameter file name. " alt="" coords="1163,196,1316,222"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a455cd138f80934ec65400e099cd4086b" title="Load parameters from a file. " alt="" coords="1195,44,1284,70"/>
+<area shape="rect" id="node23" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a6a623630c18c0cbe4c4ae055b60e19bc" title="flash_param_save" alt="" coords="1392,481,1520,508"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9684c9aefbfb9f1addd8fd14b4776555" title="Export changed parameters to a file. " alt="" coords="1189,550,1290,577"/>
+<area shape="rect" id="node28" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1392,278,1520,305"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="1385,329,1527,356"/>
+<area shape="rect" id="node25" href="$d5/d62/tinybson_8cpp.html#ae6846a464cb07e60f23fd19576ca41e3" title="Append a binary blob to the encoded stream. " alt="" coords="1380,583,1532,624"/>
+<area shape="rect" id="node26" href="$d5/d62/tinybson_8cpp.html#a235ae0ad9932f9e47d45079679b533e8" title="Append a double to the encoded stream. " alt="" coords="1380,648,1532,690"/>
+<area shape="rect" id="node27" href="$d5/d62/tinybson_8cpp.html#ab5c00674251b182fb67849151f0470e8" title="Append an integer to the encoded stream. " alt="" coords="1369,532,1543,558"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1173,348,1305,374"/>
+<area shape="rect" id="node34" href="$d5/d33/param_8h.html#a5db0a03d71b22ef1fee779618c3fd218" title="Return the total number of parameters. " alt="" coords="1601,1310,1699,1337"/>
+<area shape="rect" id="node35" href="$d5/d33/param_8h.html#ae7c8a59918c92ba45e23e7ca59c98381" title="Export changed parameters to a file. " alt="" coords="1189,601,1290,628"/>
+<area shape="rect" id="node36" href="$d5/d33/param_8h.html#a9c1329f79bf8904382bd00072ba448cf" title="Look up a parameter by index. " alt="" coords="1591,1361,1709,1388"/>
+<area shape="rect" id="node37" href="$d5/d33/param_8h.html#a511e483b33bd8bd0e77c9ca5b91074c0" title="Import parameters from a file, discarding any unrecognized parameters. " alt="" coords="971,905,1073,932"/>
+<area shape="rect" id="node38" href="$d5/d33/param_8h.html#aba23d08f1756d0ab3e8cbd610abaf6af" title="Reset all parameters to their default values. " alt="" coords="965,1209,1079,1236"/>
+<area shape="rect" id="node41" href="$d6/d89/class_parameter_test.html#a44974a4950da224684296dd0ab73338f" title="ParameterTest::_assert\l_parameter_int_value" alt="" coords="705,1106,864,1147"/>
+<area shape="rect" id="node42" href="$d6/d89/class_parameter_test.html#a4852dcf0d5c863c145ad4ded860d6a17" title="ParameterTest::_set\l_all_int_parameters_to" alt="" coords="481,1164,635,1206"/>
+<area shape="rect" id="node44" href="$d5/d33/param_8h.html#ab6c1c91bd7dcb9fc540805e112e22d9a" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="481,1230,635,1257"/>
+<area shape="rect" id="node49" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="515,910,601,937"/>
 </map>

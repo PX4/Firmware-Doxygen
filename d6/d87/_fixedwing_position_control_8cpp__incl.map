@@ -1,42 +1,38 @@
 <map id="src/modules/fw_pos_control_l1/FixedwingPositionControl.cpp" name="src/modules/fw_pos_control_l1/FixedwingPositionControl.cpp">
-<area shape="rect" id="node2" href="$dc/dee/_fixedwing_position_control_8hpp.html" title="FixedwingPositionControl.hpp" alt="" coords="2130,109,2325,136"/>
-<area shape="rect" id="node3" href="$d2/dbc/_landingslope_8hpp.html" title="Landingslope.hpp" alt="" coords="618,191,741,218"/>
-<area shape="rect" id="node5" href="$d8/d9c/_launch_detector_8h.html" title="Auto Detection for different launch methods (e.g. " alt="" coords="11,191,231,218"/>
-<area shape="rect" id="node7" href="$d5/dd2/px4__module__params_8h.html" title="C++ base class for modules/classes using configuration parameters. " alt="" coords="148,281,301,307"/>
-<area shape="rect" id="node8" href="$dc/dd5/_runway_takeoff_8h.html" title="Runway takeoff handling for fixed&#45;wing UAVs with steerable wheels. " alt="" coords="845,191,1063,218"/>
-<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="325,281,441,307"/>
-<area shape="rect" id="node17" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1974,363,2083,389"/>
-<area shape="rect" id="node21" href="$d0/dfb/ecl__l1__pos__controller_8h.html" title="Implementation of L1 position control. " alt="" coords="1441,191,1632,218"/>
-<area shape="rect" id="node22" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="3676,363,3755,389"/>
-<area shape="rect" id="node24" href="$d6/d35/tecs_8h.html" title="ecl/tecs/tecs.h" alt="" coords="1309,191,1417,218"/>
-<area shape="rect" id="node25" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="1189,191,1285,218"/>
-<area shape="rect" id="node26" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="3652,281,3755,307"/>
-<area shape="rect" id="node28" href="$d7/dc9/px4__module_8h.html" title="px4_module.h" alt="" coords="3207,191,3309,218"/>
-<area shape="rect" id="node30" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="3483,281,3577,307"/>
-<area shape="rect" id="node31" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="3568,191,3660,218"/>
-<area shape="rect" id="node32" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="3867,191,3998,218"/>
-<area shape="rect" id="node33" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="3333,191,3492,218"/>
-<area shape="rect" id="node34" href="$df/de5/build_2doxygen_2u_o_r_b_2topics_2airspeed_8h.html" title="uORB/topics/airspeed.h" alt="" coords="2143,281,2304,307"/>
-<area shape="rect" id="node35" href="$dc/dd4/fw__pos__ctrl__status_8h.html" title="uORB/topics/fw_pos\l_ctrl_status.h" alt="" coords="2328,273,2471,315"/>
-<area shape="rect" id="node36" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="2495,273,2637,315"/>
-<area shape="rect" id="node37" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="2661,273,2820,315"/>
-<area shape="rect" id="node38" href="$d9/d94/position__setpoint__triplet_8h.html" title="uORB/topics/position\l_setpoint_triplet.h" alt="" coords="2895,273,3042,315"/>
-<area shape="rect" id="node39" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="3067,273,3207,315"/>
-<area shape="rect" id="node40" href="$de/d05/sensor__bias_8h.html" title="uORB/topics/sensor\l_bias.h" alt="" coords="465,273,605,315"/>
-<area shape="rect" id="node41" href="$d9/d18/tecs__status_8h.html" title="uORB/topics/tecs_status.h" alt="" coords="629,281,809,307"/>
-<area shape="rect" id="node42" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="1209,273,1352,315"/>
-<area shape="rect" id="node43" href="$df/dd2/vehicle__attitude__setpoint_8h.html" title="uORB/topics/vehicle\l_attitude_setpoint.h" alt="" coords="1656,184,1799,225"/>
-<area shape="rect" id="node44" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="1823,184,1965,225"/>
-<area shape="rect" id="node45" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="1989,184,2132,225"/>
-<area shape="rect" id="node46" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="2156,184,2299,225"/>
-<area shape="rect" id="node47" href="$d8/ddd/vehicle__land__detected_8h.html" title="uORB/topics/vehicle\l_land_detected.h" alt="" coords="2323,184,2465,225"/>
-<area shape="rect" id="node48" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="2489,184,2632,225"/>
-<area shape="rect" id="node49" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="2656,184,2799,225"/>
-<area shape="rect" id="node50" href="$dd/d64/vtol__type_8h.html" title="vtol_att_control/vtol\l_type.h" alt="" coords="306,184,442,225"/>
-<area shape="rect" id="node6" href="$de/d7e/_launch_method_8h.html" title="Base class for different launch methods. " alt="" coords="5,281,124,307"/>
-<area shape="rect" id="node16" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="1022,281,1185,307"/>
-<area shape="rect" id="node19" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="1521,281,1637,307"/>
-<area shape="rect" id="node14" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="340,363,427,389"/>
-<area shape="rect" id="node23" href="$d2/d53/ecl_8h.html" title="Adapter / shim layer for system calls needed by ECL. " alt="" coords="1662,281,1713,307"/>
-<area shape="rect" id="node27" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="3573,363,3652,389"/>
+<area shape="rect" id="node2" href="$dc/dee/_fixedwing_position_control_8hpp.html" title="FixedwingPositionControl.hpp" alt="" coords="2549,109,2743,136"/>
+<area shape="rect" id="node3" href="$d8/d9c/_launch_detector_8h.html" title="Auto Detection for different launch methods (e.g. " alt="" coords="31,191,251,218"/>
+<area shape="rect" id="node6" href="$dc/dd5/_runway_takeoff_8h.html" title="Runway takeoff handling for fixed&#45;wing UAVs with steerable wheels. " alt="" coords="755,191,974,218"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="784,281,900,307"/>
+<area shape="rect" id="node14" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="3402,363,3511,389"/>
+<area shape="rect" id="node18" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="747,363,865,389"/>
+<area shape="rect" id="node19" href="$d0/dfb/ecl__l1__pos__controller_8h.html" title="Implementation of L1 position control. " alt="" coords="1307,184,1443,225"/>
+<area shape="rect" id="node20" href="$d6/d35/tecs_8h.html" title="lib/ecl/tecs/tecs.h" alt="" coords="1158,191,1283,218"/>
+<area shape="rect" id="node21" href="$d2/dbc/_landingslope_8hpp.html" title="lib/landing_slope/Landingslope.hpp" alt="" coords="376,191,599,218"/>
+<area shape="rect" id="node22" href="$d9/dbc/mathlib_2mathlib_8h.html" title="lib/mathlib/mathlib.h" alt="" coords="1499,281,1638,307"/>
+<area shape="rect" id="node23" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="2775,191,2923,218"/>
+<area shape="rect" id="node29" href="$dc/de7/_publication_8hpp.html" title="uORB/Publication.hpp" alt="" coords="3165,191,3316,218"/>
+<area shape="rect" id="node30" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="3340,191,3499,218"/>
+<area shape="rect" id="node31" href="$d0/de8/_subscription_callback_8hpp.html" title="uORB/SubscriptionCallback.hpp" alt="" coords="2541,191,2751,218"/>
+<area shape="rect" id="node32" href="$df/de6/airspeed__validated_8h.html" title="uORB/topics/airspeed\l_validated.h" alt="" coords="3647,273,3797,315"/>
+<area shape="rect" id="node33" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="3821,273,3964,315"/>
+<area shape="rect" id="node34" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="3988,273,4147,315"/>
+<area shape="rect" id="node35" href="$de/da3/position__controller__landing__status_8h.html" title="uORB/topics/position\l_controller_landing_status.h" alt="" coords="4171,273,4355,315"/>
+<area shape="rect" id="node36" href="$da/d97/position__controller__status_8h.html" title="uORB/topics/position\l_controller_status.h" alt="" coords="4379,273,4526,315"/>
+<area shape="rect" id="node37" href="$d9/d94/position__setpoint__triplet_8h.html" title="uORB/topics/position\l_setpoint_triplet.h" alt="" coords="4550,273,4697,315"/>
+<area shape="rect" id="node38" href="$d8/d05/sensor__baro_8h.html" title="uORB/topics/sensor\l_baro.h" alt="" coords="4721,273,4861,315"/>
+<area shape="rect" id="node39" href="$d9/d18/tecs__status_8h.html" title="uORB/topics/tecs_status.h" alt="" coords="4885,281,5065,307"/>
+<area shape="rect" id="node40" href="$d2/d7f/vehicle__acceleration_8h.html" title="uORB/topics/vehicle\l_acceleration.h" alt="" coords="5089,273,5232,315"/>
+<area shape="rect" id="node41" href="$d6/d5b/vehicle__angular__velocity_8h.html" title="uORB/topics/vehicle\l_angular_velocity.h" alt="" coords="1732,273,1875,315"/>
+<area shape="rect" id="node42" href="$d8/d3a/vehicle__attitude_8h.html" title="uORB/topics/vehicle\l_attitude.h" alt="" coords="2065,273,2208,315"/>
+<area shape="rect" id="node43" href="$df/dd2/vehicle__attitude__setpoint_8h.html" title="uORB/topics/vehicle\l_attitude_setpoint.h" alt="" coords="2156,184,2299,225"/>
+<area shape="rect" id="node44" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="2323,184,2465,225"/>
+<area shape="rect" id="node45" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="2947,184,3089,225"/>
+<area shape="rect" id="node46" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="3523,184,3665,225"/>
+<area shape="rect" id="node47" href="$d8/ddd/vehicle__land__detected_8h.html" title="uORB/topics/vehicle\l_land_detected.h" alt="" coords="3689,184,3832,225"/>
+<area shape="rect" id="node48" href="$d7/d34/vehicle__local__position_8h.html" title="uORB/topics/vehicle\l_local_position.h" alt="" coords="3856,184,3999,225"/>
+<area shape="rect" id="node49" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="4023,184,4165,225"/>
+<area shape="rect" id="node50" href="$dd/d64/vtol__type_8h.html" title="vtol_att_control/vtol\l_type.h" alt="" coords="998,184,1134,225"/>
+<area shape="rect" id="node4" href="$de/d7e/_launch_method_8h.html" title="Base class for different launch methods. " alt="" coords="5,281,124,307"/>
+<area shape="rect" id="node13" href="$d2/d58/src_2lib_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="975,281,1138,307"/>
+<area shape="rect" id="node16" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="1163,281,1279,307"/>
 </map>

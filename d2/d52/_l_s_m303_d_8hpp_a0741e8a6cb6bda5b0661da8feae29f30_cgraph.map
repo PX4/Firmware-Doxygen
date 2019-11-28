@@ -1,0 +1,35 @@
+<map id="lsm303d_main" name="lsm303d_main">
+<area shape="rect" id="node2" href="$de/d88/namespacelsm303d.html#a4421e77a20d23bc6e1a12f5498670eaa" title="Print a little info about the driver. " alt="" coords="167,49,267,76"/>
+<area shape="rect" id="node7" href="$de/d88/namespacelsm303d.html#a2316166d8e80b3eef8f72ec316f82f61" title="Start the driver. " alt="" coords="165,114,270,141"/>
+<area shape="rect" id="node34" href="$de/d88/namespacelsm303d.html#a010cc5b90dab66273ba5ba9f6dc32a2a" title="Prints info about the driver argument usage. " alt="" coords="160,165,275,192"/>
+<area shape="rect" id="node3" href="$d6/dd5/class_l_s_m303_d.html#a122af9f1ef2d0c9a84cf53fa96e29c16" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="323,41,464,68"/>
+<area shape="rect" id="node4" href="$df/d7b/perf__counter_8cpp.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="517,41,643,68"/>
+<area shape="rect" id="node6" href="$d6/dd5/class_l_s_m303_d.html#a5dc0b5d0de4a3ef9ccdf79326cc5b416" title="Read a register from the LSM303D. " alt="" coords="1195,200,1334,226"/>
+<area shape="rect" id="node5" href="$df/d7b/perf__counter_8cpp.html#ac15423e549766f6c8eaca3478223e5f2" title="Print one performance counter to a fd. " alt="" coords="729,41,873,68"/>
+<area shape="rect" id="node8" href="$d6/dd5/class_l_s_m303_d.html#a0f48892381aa5a928264d370302e97c2" title="LSM303D::init" alt="" coords="341,121,446,148"/>
+<area shape="rect" id="node9" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="512,143,648,184"/>
+<area shape="rect" id="node10" href="$d6/dd5/class_l_s_m303_d.html#a5f1f4db34131f350507192dbe4dd46b2" title="LSM303D::reset" alt="" coords="521,294,639,321"/>
+<area shape="rect" id="node32" href="$d6/dd5/class_l_s_m303_d.html#a90993a1bfd5a7d396989ff88d75db82d" title="LSM303D::start" alt="" coords="523,92,637,118"/>
+<area shape="rect" id="node11" href="$d6/dd5/class_l_s_m303_d.html#a312b66c90c9134bf7421cd430d23b9e0" title="disable I2C on the chip " alt="" coords="955,149,1109,176"/>
+<area shape="rect" id="node13" href="$d6/dd5/class_l_s_m303_d.html#ae01c393885c97b626a1b1bdb66057b86" title="Write a register in the LSM303D, updating _checked_values. " alt="" coords="1166,258,1363,285"/>
+<area shape="rect" id="node14" href="$d6/dd5/class_l_s_m303_d.html#a6b43adb7eb7739c63f278d291b7f481b" title="Set the LSM303D accel measurement range. " alt="" coords="729,524,873,566"/>
+<area shape="rect" id="node21" href="$d6/dd5/class_l_s_m303_d.html#a171677a1939ed7c4d73be3e8be59a01f" title="Set the LSM303D internal accel sampling frequency. " alt="" coords="729,324,873,366"/>
+<area shape="rect" id="node28" href="$d6/dd5/class_l_s_m303_d.html#ab8f45a014207b3e5afad605ba5e0b89b" title="Set the LSM303D on&#45;chip anti&#45;alias filter bandwith. " alt="" coords="723,244,878,300"/>
+<area shape="rect" id="node29" href="$d6/dd5/class_l_s_m303_d.html#ae00d2da66e47872a89bcfbbe2612f6e3" title="Set the LSM303D mag measurement range. " alt="" coords="712,441,889,468"/>
+<area shape="rect" id="node31" href="$d6/dd5/class_l_s_m303_d.html#a07c0af476f2b847a25282eef1b6a0f8d" title="Set the LSM303D internal mag sampling frequency. " alt="" coords="696,193,905,220"/>
+<area shape="rect" id="node12" href="$d6/dd5/class_l_s_m303_d.html#a8b8e71c3287211a03712a1be26fc2f09" title="Write a register in the LSM303D. " alt="" coords="1451,201,1592,228"/>
+<area shape="rect" id="node15" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1502,441,1541,468"/>
+<area shape="rect" id="node18" href="$db/def/class_p_x4_accelerometer.html#a13af2eac41b4baaf5b0238e2b2a3891c" title="PX4Accelerometer::set\l_scale" alt="" coords="953,558,1111,599"/>
+<area shape="rect" id="node20" href="$d6/dd5/class_l_s_m303_d.html#a94d120e35d1ccfe5917a58ba03572138" title="Modify a register in the LSM303D. " alt="" coords="956,258,1108,285"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1733,441,1816,468"/>
+<area shape="rect" id="node17" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1925,441,2012,468"/>
+<area shape="rect" id="node19" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="1159,532,1371,558"/>
+<area shape="rect" id="node22" href="$db/def/class_p_x4_accelerometer.html#aee383c85338f3b950515f72892bf93af" title="PX4Accelerometer::set\l_sample_rate" alt="" coords="953,375,1111,416"/>
+<area shape="rect" id="node23" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ab4843feee1dc19dbb68a28220c69533d" title="math::LowPassFilter2pVector3f\l::set_cutoff_frequency" alt="" coords="1162,375,1367,416"/>
+<area shape="rect" id="node25" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ac586a1dbb0bda72b081c296326746d0b" title="math::LowPassFilter2pVector3f\l::get_cutoff_freq" alt="" coords="1162,310,1367,351"/>
+<area shape="rect" id="node24" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1454,382,1589,409"/>
+<area shape="rect" id="node26" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a95c2514501357aced2d8c1b5282bc710" title="math::LowPassFilter2pVector3f\l::reset" alt="" coords="1419,310,1624,351"/>
+<area shape="rect" id="node27" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a3a354392866066751ae5d5e318d563a5" title="Add a new raw value to the filter. " alt="" coords="1672,310,1877,351"/>
+<area shape="rect" id="node30" href="$df/d71/class_p_x4_magnetometer.html#ad2f1706b978f073b10d14815e501134e" title="PX4Magnetometer::set\l_scale" alt="" coords="954,492,1110,534"/>
+<area shape="rect" id="node33" href="$d6/dd5/class_l_s_m303_d.html#a7517d7fd402d1d94baf02a9c35ba3a94" title="LSM303D::stop" alt="" coords="744,92,857,118"/>
+</map>

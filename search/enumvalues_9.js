@@ -27,5 +27,12 @@ var searchData=
   ['kerrnosessionsavailable',['kErrNoSessionsAvailable',['../d4/d6b/class_mavlink_f_t_p.html#ac30306181943c18db3c2bbd7c1855bada02e083f263159ddc83d7b129a9978e04',1,'MavlinkFTP']]],
   ['kerrunknowncommand',['kErrUnknownCommand',['../d4/d6b/class_mavlink_f_t_p.html#ac30306181943c18db3c2bbd7c1855bada4e7710957ef7ed7be0104d6591a1551d',1,'MavlinkFTP']]],
   ['krspack',['kRspAck',['../d4/d6b/class_mavlink_f_t_p.html#aea852d09a897fdc9b6b8ef148a7650faab5fa78f43fb90c08b344e8419459338f',1,'MavlinkFTP']]],
-  ['krspnak',['kRspNak',['../d4/d6b/class_mavlink_f_t_p.html#aea852d09a897fdc9b6b8ef148a7650faae43f0c43517b9d27766398115ba9d499',1,'MavlinkFTP']]]
+  ['krspnak',['kRspNak',['../d4/d6b/class_mavlink_f_t_p.html#aea852d09a897fdc9b6b8ef148a7650faae43f0c43517b9d27766398115ba9d499',1,'MavlinkFTP']]],
+  ['krxmbbusy',['kRxMbBusy',['../d8/df4/namespaceuavcan__kinetis_1_1flexcan.html#a23499d8642f8aebb40b97db519fcd2ffaed1150699cfced55677fe2ad08817518',1,'uavcan_kinetis::flexcan']]],
+  ['krxmbempty',['kRxMbEmpty',['../d8/df4/namespaceuavcan__kinetis_1_1flexcan.html#a23499d8642f8aebb40b97db519fcd2ffaa0d1f64e7055d07977cab24b7ade94f2',1,'uavcan_kinetis::flexcan']]],
+  ['krxmbfull',['kRxMbFull',['../d8/df4/namespaceuavcan__kinetis_1_1flexcan.html#a23499d8642f8aebb40b97db519fcd2ffab824966f1d6e12c05734501a08203bbd',1,'uavcan_kinetis::flexcan']]],
+  ['krxmbinactive',['kRxMbInactive',['../d8/df4/namespaceuavcan__kinetis_1_1flexcan.html#a23499d8642f8aebb40b97db519fcd2ffac63127d942319a57a415cc6739dc6f95',1,'uavcan_kinetis::flexcan']]],
+  ['krxmbnotused',['kRxMbNotUsed',['../d8/df4/namespaceuavcan__kinetis_1_1flexcan.html#a23499d8642f8aebb40b97db519fcd2ffa92f1e3c43b8dd7bb76bd87abd696af73',1,'uavcan_kinetis::flexcan']]],
+  ['krxmboverrun',['kRxMbOverrun',['../d8/df4/namespaceuavcan__kinetis_1_1flexcan.html#a23499d8642f8aebb40b97db519fcd2ffafcd3e78a00829de5583dff5035f5e27c',1,'uavcan_kinetis::flexcan']]],
+  ['krxmbranswer',['kRxMbRanswer',['../d8/df4/namespaceuavcan__kinetis_1_1flexcan.html#a23499d8642f8aebb40b97db519fcd2ffaf883f4abd5f9a0f9ce7cf5f0fd7d8160',1,'uavcan_kinetis::flexcan']]]
 ];

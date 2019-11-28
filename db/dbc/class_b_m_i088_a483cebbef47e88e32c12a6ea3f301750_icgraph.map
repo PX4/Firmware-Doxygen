@@ -1,0 +1,15 @@
+<map id="BMI088::read_reg" name="BMI088::read_reg">
+<area shape="rect" id="node2" href="$d9/dfa/class_b_m_i088__gyro.html#a2d0a5d60420a48e00b46a73700f1c0b7" title="BMI088_gyro::check\l_registers" alt="" coords="193,59,335,101"/>
+<area shape="rect" id="node6" href="$d9/dfa/class_b_m_i088__gyro.html#a44966f3cee5f996939d543605d572651" title="Modify a register in the BMI088_gyro. " alt="" coords="179,159,349,185"/>
+<area shape="rect" id="node8" href="$d9/dfa/class_b_m_i088__gyro.html#a8084cd2dca8a67e424dc8de44015c168" title="Reset chip. " alt="" coords="619,159,755,185"/>
+<area shape="rect" id="node11" href="$d9/dfa/class_b_m_i088__gyro.html#a7ed17896f5b2df8606a1a19a186b6db5" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="184,268,344,295"/>
+<area shape="rect" id="node12" href="$d9/dfa/class_b_m_i088__gyro.html#a306129c487f6c4efb33b5025dc119300" title="BMI088_gyro::print\l_registers" alt="" coords="198,319,330,361"/>
+<area shape="rect" id="node14" href="$d9/dfa/class_b_m_i088__gyro.html#a10adc2d01db086d8b9615b1f2576574b" title="BMI088_gyro::probe" alt="" coords="195,385,333,412"/>
+<area shape="rect" id="node3" href="$d9/dfa/class_b_m_i088__gyro.html#aff44644993a4f0b3085ac4293b854044" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="400,35,557,61"/>
+<area shape="rect" id="node4" href="$d9/dfa/class_b_m_i088__gyro.html#a94b59e40e41a1dbb1f42b2cb9b3a15dd" title="BMI088_gyro::Run" alt="" coords="621,5,752,32"/>
+<area shape="rect" id="node5" href="$d9/dfa/class_b_m_i088__gyro.html#aef2d6c27c963a8d9602a74a9af0694f5" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="608,57,765,98"/>
+<area shape="rect" id="node7" href="$d9/dfa/class_b_m_i088__gyro.html#a85d32ebd9b1f8fba6ef5b72b6b8f16ab" title="BMI088_gyro::gyro_set\l_sample_rate" alt="" coords="400,86,557,127"/>
+<area shape="rect" id="node10" href="$d9/dfa/class_b_m_i088__gyro.html#a5f5c8e0f56463da445a98968b56f56eb" title="Set the BMI088_gyro measurement range. " alt="" coords="400,151,557,193"/>
+<area shape="rect" id="node9" href="$d9/dfa/class_b_m_i088__gyro.html#a02a49f1e0a2790f17d6bc83153a12c31" title="BMI088_gyro::init" alt="" coords="813,159,937,185"/>
+<area shape="rect" id="node13" href="$d9/dfa/class_b_m_i088__gyro.html#a7f0e75e4feca48c9700e0a9211050a82" title="BMI088_gyro::test_error" alt="" coords="397,327,560,353"/>
+</map>

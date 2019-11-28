@@ -1,11 +1,10 @@
 <map id="UavcanCDevSensorBridgeBase" name="UavcanCDevSensorBridgeBase">
-<area shape="rect" id="node2" href="$de/d34/class_i_uavcan_sensor_bridge.html" title="A sensor bridge class must implement this interface. " alt="" coords="14,792,229,943"/>
-<area shape="rect" id="node4" href="$df/db4/class_list_node.html" title="{ListNode\&lt; IUavcanSensorBridge * \&gt;\n||+ ListNode()\l+ ListNode()\l+ ListNode()\l+ ~ListNode()\l+ operator=()\l+ operator=()\l+ setSibling()\l+ getSibling()\l}" alt="" coords="5,1137,240,1317"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="253,660,435,1075"/>
-<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="235,329,368,597"/>
-<area shape="rect" id="node7" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="217,189,386,267"/>
-<area shape="rect" id="node8" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="196,5,407,127"/>
-<area shape="rect" id="node9" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="392,425,544,502"/>
-<area shape="rect" id="node10" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="459,807,605,928"/>
-<area shape="rect" id="node11" href="$d8/da0/struct_uavcan_c_dev_sensor_bridge_base_1_1_channel.html" title="{UavcanCDevSensorBridgeBase\l::Channel\n|+ node_id\l+ orb_advert\l+ class_instance\l+ orb_instance\l|}" alt="" coords="629,799,838,935"/>
+<area shape="rect" id="node2" href="$de/d34/class_i_uavcan_sensor_bridge.html" title="A sensor bridge class must implement this interface. " alt="" coords="11,565,225,716"/>
+<area shape="rect" id="node4" href="$df/db4/class_list_node.html" title="{ListNode\&lt; IUavcanSensorBridge *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="5,823,236,915"/>
+<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="249,580,363,701"/>
+<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="205,204,377,457"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="401,145,584,516"/>
+<area shape="rect" id="node8" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="421,5,564,83"/>
+<area shape="rect" id="node9" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="387,580,532,701"/>
+<area shape="rect" id="node10" href="$d8/da0/struct_uavcan_c_dev_sensor_bridge_base_1_1_channel.html" title="{UavcanCDevSensorBridgeBase\l::Channel\n|+ node_id\l+ orb_advert\l+ class_instance\l+ orb_instance\l|}" alt="" coords="556,573,765,709"/>
 </map>

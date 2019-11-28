@@ -2,9 +2,12 @@ var dir_7e9ecf8e1245c574dd7c2ecefc59fb71 =
 [
     [ "bl_update", "dir_7f7b9ab0cf97de148dbf191953dbed50.html", "dir_7f7b9ab0cf97de148dbf191953dbed50" ],
     [ "config", "dir_baacd1731fea4c75d6d2282c0f00f3dd.html", "dir_baacd1731fea4c75d6d2282c0f00f3dd" ],
+    [ "dmesg", "dir_8017c5f1849aaeec58d96f97b8ee2fae.html", "dir_8017c5f1849aaeec58d96f97b8ee2fae" ],
     [ "dumpfile", "dir_0f81ff05d8f0a3b25c976ab277bd3ebd.html", "dir_0f81ff05d8f0a3b25c976ab277bd3ebd" ],
+    [ "dyn", "dir_407618e636599fc4ed346e8862385417.html", "dir_407618e636599fc4ed346e8862385417" ],
     [ "esc_calib", "dir_5ec04f1f615e5878da5314e43bf21ca1.html", "dir_5ec04f1f615e5878da5314e43bf21ca1" ],
     [ "hardfault_log", "dir_24407878f9dccf89b18d4112122642a8.html", "dir_24407878f9dccf89b18d4112122642a8" ],
+    [ "i2cdetect", "dir_54efd7938b02d7a2e89e79dd8f9defb3.html", "dir_54efd7938b02d7a2e89e79dd8f9defb3" ],
     [ "led_control", "dir_eeea567ca8bc3bc16f5ee590b50a8c7e.html", "dir_eeea567ca8bc3bc16f5ee590b50a8c7e" ],
     [ "mixer", "dir_496e364be8155daf533bc234e378c2b9.html", "dir_496e364be8155daf533bc234e378c2b9" ],
     [ "motor_ramp", "dir_d79840cdc25bbc064bc6332cb754ffe6.html", "dir_d79840cdc25bbc064bc6332cb754ffe6" ],
@@ -23,5 +26,6 @@ var dir_7e9ecf8e1245c574dd7c2ecefc59fb71 =
     [ "topic_listener", "dir_5aed4fcc42f6e4b5b8f29b9400e8d310.html", "dir_5aed4fcc42f6e4b5b8f29b9400e8d310" ],
     [ "tune_control", "dir_ce3078a1c7017a61dd41e1299f186613.html", "dir_ce3078a1c7017a61dd41e1299f186613" ],
     [ "usb_connected", "dir_e2b5aa4405a398996181c27e0665d64a.html", "dir_e2b5aa4405a398996181c27e0665d64a" ],
-    [ "ver", "dir_6be3149784cb5674f9a4722a2881e33e.html", "dir_6be3149784cb5674f9a4722a2881e33e" ]
+    [ "ver", "dir_6be3149784cb5674f9a4722a2881e33e.html", "dir_6be3149784cb5674f9a4722a2881e33e" ],
+    [ "work_queue", "dir_8947e7fcedf838d960d530bbf6d85d55.html", "dir_8947e7fcedf838d960d530bbf6d85d55" ]
 ];

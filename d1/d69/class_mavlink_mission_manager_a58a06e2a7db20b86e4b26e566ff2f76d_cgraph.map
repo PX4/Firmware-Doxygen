@@ -1,44 +1,51 @@
 <map id="MavlinkMissionManager::send" name="MavlinkMissionManager::send">
-<area shape="rect" id="node2" href="$da/d7f/class_mavlink_rate_limiter.html#acd1ba4c18e8cd0966103269cc8007e6a" title="MavlinkRateLimiter\l::check" alt="" coords="246,38,381,79"/>
-<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a67a95440e0812524f655a87ebb737bbe" title="Mavlink::get_mode" alt="" coords="247,104,379,131"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="253,155,374,181"/>
-<area shape="rect" id="node5" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="272,205,355,232"/>
-<area shape="rect" id="node17" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="276,256,351,283"/>
-<area shape="rect" id="node21" href="$d1/d69/class_mavlink_mission_manager.html#a93cb1189782e237e365c441feff5a242" title="Broadcasts the new target waypoint and directs the MAV to fly there. " alt="" coords="232,537,395,578"/>
-<area shape="rect" id="node23" href="$df/d1f/class_mavlink.html#a6772377272b44d6a50eefd7ece27f0a9" title="Send a status text with loglevel CRITICAL. " alt="" coords="476,595,644,637"/>
-<area shape="rect" id="node24" href="$d1/d69/class_mavlink_mission_manager.html#a5d33cecfa4470f9ca56efd220c9cbc35" title="MavlinkMissionManager\l::send_mission_item" alt="" coords="232,419,395,461"/>
-<area shape="rect" id="node39" href="$d1/d69/class_mavlink_mission_manager.html#a2d8155748e4f76fcc0037e445a64b42c" title="emits a message that a waypoint reached " alt="" coords="216,770,411,811"/>
-<area shape="rect" id="node40" href="$d1/d69/class_mavlink_mission_manager.html#aa5c2b4dda4230a6cb7bc1b9b46c1720f" title="MavlinkMissionManager\l::send_mission_request" alt="" coords="232,654,395,695"/>
-<area shape="rect" id="node42" href="$d1/d69/class_mavlink_mission_manager.html#a2a07c3e54fc60c534e5210f767334452" title="set _state to idle (and do necessary cleanup) " alt="" coords="232,307,395,349"/>
-<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="489,142,631,183"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="489,62,631,103"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="721,142,864,183"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="928,157,1055,184"/>
-<area shape="rect" id="node9" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1107,183,1241,209"/>
-<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1122,132,1226,159"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1297,81,1435,108"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1289,132,1443,159"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="755,56,830,83"/>
-<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1137,81,1211,108"/>
-<area shape="rect" id="node16" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="924,5,1059,32"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="471,208,649,235"/>
-<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="755,208,830,235"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="924,208,1059,235"/>
-<area shape="rect" id="node22" href="$df/d1f/class_mavlink.html#a194a3b8f53d8f45849ad522c7f273215" title="Mavlink::get_channel" alt="" coords="720,544,865,571"/>
-<area shape="rect" id="node25" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="524,309,596,336"/>
-<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="497,661,623,688"/>
-<area shape="rect" id="node36" href="$d1/d69/class_mavlink_mission_manager.html#a31cea0f6092cb0c0aad679eb9743e237" title="Format mission_item_s as mavlink MISSION_ITEM(_INT) message. " alt="" coords="459,361,661,402"/>
-<area shape="rect" id="node38" href="$d1/d69/class_mavlink_mission_manager.html#a8679217c8cb18f563c5631f46ce5b5b0" title="Sends an waypoint ack message. " alt="" coords="479,478,641,519"/>
-<area shape="rect" id="node26" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="929,461,1054,488"/>
-<area shape="rect" id="node31" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="709,310,876,351"/>
-<area shape="rect" id="node34" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="752,259,833,285"/>
-<area shape="rect" id="node27" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1130,360,1218,387"/>
-<area shape="rect" id="node28" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1131,461,1217,488"/>
-<area shape="rect" id="node29" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1131,512,1217,539"/>
-<area shape="rect" id="node30" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1123,411,1225,437"/>
-<area shape="rect" id="node32" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="925,411,1057,437"/>
-<area shape="rect" id="node33" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="949,259,1034,285"/>
-<area shape="rect" id="node37" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="740,427,845,453"/>
-<area shape="rect" id="node41" href="$d1/d69/class_mavlink_mission_manager.html#a46f76568ce76148b6129c792bc881f6e" title="get the maximum number of item count for the current _mission_type " alt="" coords="473,763,647,805"/>
-<area shape="rect" id="node43" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="517,259,603,285"/>
+<area shape="rect" id="node2" href="$da/d7f/class_mavlink_rate_limiter.html#acd1ba4c18e8cd0966103269cc8007e6a" title="MavlinkRateLimiter\l::check" alt="" coords="246,151,381,193"/>
+<area shape="rect" id="node3" href="$df/d1f/class_mavlink.html#a67a95440e0812524f655a87ebb737bbe" title="Mavlink::get_mode" alt="" coords="247,217,379,244"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="253,956,374,983"/>
+<area shape="rect" id="node16" href="$d1/d69/class_mavlink_mission_manager.html#a93cb1189782e237e365c441feff5a242" title="Broadcasts the new target waypoint and directs the MAV to fly there. " alt="" coords="232,517,395,558"/>
+<area shape="rect" id="node21" href="$df/d1f/class_mavlink.html#a6772377272b44d6a50eefd7ece27f0a9" title="Send a status text with loglevel CRITICAL. " alt="" coords="476,393,644,434"/>
+<area shape="rect" id="node22" href="$d1/d69/class_mavlink_mission_manager.html#a5d33cecfa4470f9ca56efd220c9cbc35" title="MavlinkMissionManager\l::send_mission_item" alt="" coords="232,334,395,375"/>
+<area shape="rect" id="node35" href="$d1/d69/class_mavlink_mission_manager.html#a2d8155748e4f76fcc0037e445a64b42c" title="emits a message that a waypoint reached " alt="" coords="216,626,411,667"/>
+<area shape="rect" id="node36" href="$d1/d69/class_mavlink_mission_manager.html#aa5c2b4dda4230a6cb7bc1b9b46c1720f" title="MavlinkMissionManager\l::send_mission_request" alt="" coords="232,451,395,493"/>
+<area shape="rect" id="node38" href="$d1/d69/class_mavlink_mission_manager.html#a2a07c3e54fc60c534e5210f767334452" title="set _state to idle (and do necessary cleanup) " alt="" coords="232,269,395,310"/>
+<area shape="rect" id="node40" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="244,1286,383,1327"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="957,325,1082,352"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="511,779,609,805"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="519,829,601,856"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="509,880,611,907"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="509,931,611,957"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="516,981,604,1008"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="521,1032,599,1059"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="519,1083,601,1109"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="477,1133,643,1160"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="529,1184,591,1211"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="479,1235,641,1261"/>
+<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#a685f6edd65eead49486f2af05325e178" title="Mavlink::get_channel" alt="" coords="724,509,869,536"/>
+<area shape="rect" id="node18" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1000,509,1039,536"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1183,509,1265,536"/>
+<area shape="rect" id="node20" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1399,509,1485,536"/>
+<area shape="rect" id="node23" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="524,173,596,200"/>
+<area shape="rect" id="node32" href="$d1/d69/class_mavlink_mission_manager.html#a31cea0f6092cb0c0aad679eb9743e237" title="Format mission_item_s as mavlink MISSION_ITEM(_INT) message. " alt="" coords="459,107,661,149"/>
+<area shape="rect" id="node34" href="$d1/d69/class_mavlink_mission_manager.html#a8679217c8cb18f563c5631f46ce5b5b0" title="Sends an waypoint ack message. " alt="" coords="479,275,641,317"/>
+<area shape="rect" id="node24" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="957,111,1082,137"/>
+<area shape="rect" id="node27" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="713,158,880,199"/>
+<area shape="rect" id="node29" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="756,56,837,83"/>
+<area shape="rect" id="node30" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="755,275,838,301"/>
+<area shape="rect" id="node31" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="761,224,833,251"/>
+<area shape="rect" id="node25" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1180,161,1268,188"/>
+<area shape="rect" id="node26" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1173,111,1275,137"/>
+<area shape="rect" id="node28" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="953,161,1085,188"/>
+<area shape="rect" id="node33" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="744,5,849,32"/>
+<area shape="rect" id="node37" href="$d1/d69/class_mavlink_mission_manager.html#a46f76568ce76148b6129c792bc881f6e" title="get the maximum number of item count for the current _mission_type " alt="" coords="473,561,647,602"/>
+<area shape="rect" id="node39" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="517,56,603,83"/>
+<area shape="rect" id="node41" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="491,1351,629,1393"/>
+<area shape="rect" id="node48" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="491,1286,629,1327"/>
+<area shape="rect" id="node42" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="727,1318,866,1359"/>
+<area shape="rect" id="node47" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1341,1413,1543,1454"/>
+<area shape="rect" id="node43" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="950,1318,1089,1359"/>
+<area shape="rect" id="node44" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="941,1253,1097,1294"/>
+<area shape="rect" id="node45" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="950,1383,1089,1425"/>
+<area shape="rect" id="node46" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1155,1383,1293,1425"/>
+<area shape="rect" id="node49" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="709,1231,884,1257"/>
+<area shape="rect" id="node50" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="932,1187,1107,1229"/>
 </map>

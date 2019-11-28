@@ -1,6 +1,12 @@
 <map id="waypoint_from_heading_and_distance" name="waypoint_from_heading_and_distance">
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="219,5,324,32"/>
-<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="221,56,322,83"/>
-<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="matrix::wrap_2pi" alt="" coords="212,107,331,133"/>
-<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="379,107,489,133"/>
+<area shape="rect" id="node2" href="$d0/de4/namespacematrix.html#ad28ff6800d723360aae80240711a31a1" title="matrix::asin" alt="" coords="226,5,317,32"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="222,56,321,83"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="228,107,315,133"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="385,107,467,133"/>
+<area shape="rect" id="node7" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="219,208,324,235"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="221,259,322,285"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="Wrap value in range [0, 2π) " alt="" coords="212,309,331,336"/>
+<area shape="rect" id="node3" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="382,5,470,32"/>
+<area shape="rect" id="node10" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="379,309,473,336"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="521,309,612,336"/>
 </map>

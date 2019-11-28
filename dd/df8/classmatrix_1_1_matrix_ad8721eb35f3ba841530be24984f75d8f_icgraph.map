@@ -1,51 +1,51 @@
 <map id="matrix::Matrix::zero" name="matrix::Matrix::zero">
-<area shape="rect" id="node2" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="225,483,346,510"/>
-<area shape="rect" id="node29" href="$d9/d0c/class_multicopter_attitude_control.html#a102ebec1dd741cebdef571e565fe0bde" title="Attitude rates controller. " alt="" coords="199,585,372,627"/>
-<area shape="rect" id="node30" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="431,577,630,603"/>
-<area shape="rect" id="node31" href="$d9/d8a/class_follow_target.html#a4030d8eda3fb65308523da6a0ad8ef38" title="FollowTarget::FollowTarget" alt="" coords="195,651,375,678"/>
-<area shape="rect" id="node32" href="$dd/d4e/class_multicopter_position_control.html#aaf3afe1b1b5c4959ee17a03f5dc1906b" title="Adjust the thrust setpoint during landing. " alt="" coords="193,885,377,927"/>
-<area shape="rect" id="node35" href="$d2/d4f/matrix_assignment_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="260,769,311,795"/>
-<area shape="rect" id="node36" href="$d9/d0c/class_multicopter_attitude_control.html#ae4d5bc070557f794173355cb3e3257ba" title="MulticopterAttitudeControl\l::MulticopterAttitudeControl" alt="" coords="195,703,376,744"/>
-<area shape="rect" id="node38" href="$d9/d8a/class_follow_target.html#a8ceb0d56b243da12ab62778e110b2678" title="FollowTarget::reset\l_target_validity" alt="" coords="218,820,353,861"/>
-<area shape="rect" id="node41" href="$df/d5c/class_control_math_test.html#a2271455e35fc99a737177c816c84673e" title="ControlMathTest::testPrioritize\lVector" alt="" coords="431,1081,631,1123"/>
-<area shape="rect" id="node43" href="$d0/d09/class_mathlib_test.html#a61612f15235bf5ec26c24bfdd93b9681" title="MathlibTest::testVector2" alt="" coords="203,1002,368,1029"/>
-<area shape="rect" id="node45" href="$d0/d09/class_mathlib_test.html#a3e7ba70b259dc98a04a8e8feb44f5d91" title="MathlibTest::testVector3" alt="" coords="203,1053,368,1079"/>
-<area shape="rect" id="node46" href="$d5/d30/namespace_control_math.html#a996c36f73fc0f40cc72f16c2957a0f80" title="Converts thrust vector and yaw set&#45;point to a desired attitude. " alt="" coords="188,951,383,978"/>
-<area shape="rect" id="node48" href="$d3/d6e/classlanding__target__estimator_1_1_landing_target_estimator.html#a178ba4487440a747729aba8b471a74b2" title="landing_target_estimator\l::LandingTargetEstimator\l::update" alt="" coords="201,1154,369,1210"/>
-<area shape="rect" id="node3" href="$d6/d55/class_integrator.html#a8943d78049033cde41d94ecfcfc8a170" title="Get the current integral and reset the integrator if needed. " alt="" coords="479,510,582,537"/>
-<area shape="rect" id="node4" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="479,459,582,486"/>
-<area shape="rect" id="node5" href="$da/d7e/class_g_y_r_o_s_i_m.html#a7fa7591e3e3e61bc96e09b53cc3724cd" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="707,189,857,215"/>
-<area shape="rect" id="node10" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="707,240,857,281"/>
-<area shape="rect" id="node11" href="$df/d4c/class_df_mpu9250_wrapper.html#a731b19d90418d3ec545122f2d097040e" title="DfMpu9250Wrapper::\l_publish" alt="" coords="709,305,855,347"/>
-<area shape="rect" id="node12" href="$d7/d07/class_b_m_i055__gyro.html#a4f3db255e14576ecd002aed271c8f3ec" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="703,371,861,398"/>
-<area shape="rect" id="node17" href="$d2/d34/class_b_m_i055__accel.html#ac362d079edf5896e2370325932bf576e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="701,422,863,449"/>
-<area shape="rect" id="node18" href="$db/d27/class_f_x_o_s8701_c_q.html#ab6b6bd9cebddecaa1732c34ba2f8fe03" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="700,473,864,499"/>
-<area shape="rect" id="node19" href="$de/dc0/class_l3_g_d20.html#a443a2de5bcb8c6fe473b0abeb66319c2" title="Fetch measurements from the sensor and update the report ring. " alt="" coords="718,523,846,550"/>
-<area shape="rect" id="node20" href="$d5/d19/class_m_p_u6000.html#aefad5dab0bf3f86d49c0589d09d54ebf" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="713,574,851,601"/>
-<area shape="rect" id="node21" href="$df/d3b/class_f_x_a_s21002_c.html#ab9d78d3c80768c5c4eda82e1427f6d98" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="702,625,862,651"/>
-<area shape="rect" id="node22" href="$d8/db8/class_a_d_i_s16448.html#a6bf03658298f1137f5e15fa7921a5c09" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="709,675,855,702"/>
-<area shape="rect" id="node23" href="$d6/dd5/class_l_s_m303_d.html#a9e12ef7f12febb7f4d8e900e848b3dbd" title="Fetch accel measurements from the sensor and update the report ring. " alt="" coords="713,726,851,753"/>
-<area shape="rect" id="node24" href="$df/d9d/class_b_m_i160.html#a73c594edaf8f617904ad5907fa2eac33" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="719,777,845,803"/>
-<area shape="rect" id="node25" href="$df/dd9/class_m_p_u9250.html#a4c8e7c2be73eff1802454865daa1bf78" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="713,827,851,854"/>
-<area shape="rect" id="node26" href="$d8/de0/class_a_d_i_s16477.html#ab4cabdb6a745b81db63ad1bff49c8cf7" title="ADIS16477::publish\l_accel" alt="" coords="713,5,851,47"/>
-<area shape="rect" id="node27" href="$d8/de0/class_a_d_i_s16477.html#a620c17ab45fdb7ed955242decb3f6cd7" title="ADIS16477::publish_gyro" alt="" coords="697,71,867,98"/>
-<area shape="rect" id="node28" href="$d6/d55/class_integrator.html#a3e90de0afccfcec99ebdfaa8af3256ff" title="Put an item into the integral but provide an interval instead of a timestamp. " alt="" coords="715,123,849,164"/>
-<area shape="rect" id="node6" href="$da/d7e/class_g_y_r_o_s_i_m.html#a9223a90a215cf698fe9837cc51b2e2a4" title="GYROSIM::devRead" alt="" coords="939,98,1085,125"/>
-<area shape="rect" id="node7" href="$da/d7e/class_g_y_r_o_s_i_m.html#a7d6ccb13f688ecd32d1c44c28b14375e" title="GYROSIM::gyro_read" alt="" coords="937,149,1087,175"/>
-<area shape="rect" id="node8" href="$da/d7e/class_g_y_r_o_s_i_m.html#a709e3b57fa2c977fd4c6e4159429dafc" title="GYROSIM::init" alt="" coords="957,199,1067,226"/>
-<area shape="rect" id="node9" href="$da/d7e/class_g_y_r_o_s_i_m.html#a4c21bccd7106db7f2fdc2a542950834d" title="Measurement self test. " alt="" coords="941,250,1083,277"/>
-<area shape="rect" id="node13" href="$d7/d07/class_b_m_i055__gyro.html#a800a1772bcf8fc4bef5157362f78e58f" title="BMI055_gyro::init" alt="" coords="950,306,1074,333"/>
-<area shape="rect" id="node14" href="$d7/d07/class_b_m_i055__gyro.html#a31cdfc0d76f39813b9ad6fa7dbc5884c" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="933,357,1091,399"/>
-<area shape="rect" id="node15" href="$d7/d07/class_b_m_i055__gyro.html#a8b835dd6de960687c35a6cf45d039c01" title="BMI055_gyro::read" alt="" coords="946,423,1078,450"/>
-<area shape="rect" id="node16" href="$d7/d07/class_b_m_i055__gyro.html#a87d62368b9b1bb5bae341039b546c5d1" title="Measurement self test. " alt="" coords="933,474,1091,501"/>
-<area shape="rect" id="node33" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="443,891,618,932"/>
-<area shape="rect" id="node34" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="695,891,869,932"/>
-<area shape="rect" id="node37" href="$d9/d0c/class_multicopter_attitude_control.html#a58525c619a2b60b31cfaf3e63efd0459" title="MulticopterAttitudeControl\l::instantiate" alt="" coords="444,703,617,744"/>
-<area shape="rect" id="node39" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="450,833,611,859"/>
-<area shape="rect" id="node40" href="$d9/d8a/class_follow_target.html#ad0ef75b14e2d2408cbe3de0ce1cface0" title="This function is called while the mode is inactive. " alt="" coords="445,782,616,809"/>
-<area shape="rect" id="node42" href="$df/d5c/class_control_math_test.html#a618ac1a2a90834bfe3379ef1197beff4" title="Override to run your unit tests. " alt="" coords="709,1020,855,1061"/>
-<area shape="rect" id="node44" href="$d0/d09/class_mathlib_test.html#a04830b727cb00cfdbc31c2b689bb2874" title="Override to run your unit tests. " alt="" coords="455,1026,607,1053"/>
-<area shape="rect" id="node47" href="$df/d5c/class_control_math_test.html#aea5cd678471be90909d035228389122e" title="ControlMathTest::testThr\lAttMapping" alt="" coords="447,957,615,999"/>
-<area shape="rect" id="node49" href="$d0/def/namespacelanding__target__estimator.html#a0ebf814a809f42f4e95626f0cc9d08f0" title="Mainloop of daemon. " alt="" coords="445,1154,617,1210"/>
-<area shape="rect" id="node50" href="$d0/def/namespacelanding__target__estimator.html#aadaacb76f344235d5a1df57481bdc95a" title="Landing target position estimator app start / stop handling function This makes the module accessible..." alt="" coords="679,1161,885,1203"/>
+<area shape="rect" id="node2" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="230,173,351,199"/>
+<area shape="rect" id="node12" href="$da/dd2/class_flight_task_failsafe.html#aabc201e111b5a313362057c72b32a78f" title="Call once on the event where you switch to the task. " alt="" coords="226,351,355,392"/>
+<area shape="rect" id="node13" href="$d9/d8a/class_follow_target.html#a4030d8eda3fb65308523da6a0ad8ef38" title="FollowTarget::FollowTarget" alt="" coords="201,417,381,443"/>
+<area shape="rect" id="node14" href="$d2/d4f/matrix_assignment_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="265,467,316,494"/>
+<area shape="rect" id="node15" href="$d2/d50/class_terrain_estimator.html#a83768b34286123a4c179ecd77ae00eb9" title="TerrainEstimator::measurement\l_update" alt="" coords="188,519,393,560"/>
+<area shape="rect" id="node16" href="$d9/d8a/class_follow_target.html#a8ceb0d56b243da12ab62778e110b2678" title="FollowTarget::reset\l_target_validity" alt="" coords="223,584,358,625"/>
+<area shape="rect" id="node19" href="$d6/d3c/class_rate_control.html#a70fa54b1879b74578fb76a59c7e07572" title="Set the integral term to 0 to prevent windup. " alt="" coords="205,650,377,677"/>
+<area shape="rect" id="node21" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ab4843feee1dc19dbb68a28220c69533d" title="math::LowPassFilter2pVector3f\l::set_cutoff_frequency" alt="" coords="441,431,647,472"/>
+<area shape="rect" id="node35" href="$d0/d83/class_vehicle_acceleration.html#a3f37bf6078933a8b50097bfab6c22a4d" title="VehicleAcceleration\l::Start" alt="" coords="222,701,359,743"/>
+<area shape="rect" id="node38" href="$db/daf/class_vehicle_angular_velocity.html#a232ee740944d85514ffc475749938c03" title="VehicleAngularVelocity\l::Start" alt="" coords="213,767,369,808"/>
+<area shape="rect" id="node39" href="$d2/d50/class_terrain_estimator.html#a7024898d24ba775a8836aa3baeca6520" title="TerrainEstimator::Terrain\lEstimator" alt="" coords="207,832,374,873"/>
+<area shape="rect" id="node40" href="$d8/df1/_control_math_test_8cpp.html#a19b47f524d47c944fa14aff7084c8e1a" title="TEST" alt="" coords="263,898,319,925"/>
+<area shape="rect" id="node41" href="$d0/d09/class_mathlib_test.html#a61612f15235bf5ec26c24bfdd93b9681" title="MathlibTest::testVector2" alt="" coords="208,949,373,975"/>
+<area shape="rect" id="node43" href="$d0/d09/class_mathlib_test.html#a3e7ba70b259dc98a04a8e8feb44f5d91" title="MathlibTest::testVector3" alt="" coords="208,999,373,1026"/>
+<area shape="rect" id="node44" href="$d5/d30/namespace_control_math.html#ad717ded6d5b709feff11c5757ce9cfd2" title="Converts thrust vector and yaw set&#45;point to a desired attitude. " alt="" coords="193,1050,388,1077"/>
+<area shape="rect" id="node49" href="$d3/d6e/classlanding__target__estimator_1_1_landing_target_estimator.html#a178ba4487440a747729aba8b471a74b2" title="landing_target_estimator\l::LandingTargetEstimator\l::update" alt="" coords="207,1109,375,1165"/>
+<area shape="rect" id="node3" href="$d6/d55/class_integrator.html#a8943d78049033cde41d94ecfcfc8a170" title="Get the current integral and reset the integrator if needed. " alt="" coords="493,122,595,149"/>
+<area shape="rect" id="node4" href="$d6/d55/class_integrator.html#ad97763793cd85018552cd3cd8ae626ed" title="Put an item into the integral. " alt="" coords="493,173,595,199"/>
+<area shape="rect" id="node5" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="727,5,877,47"/>
+<area shape="rect" id="node6" href="$df/d4c/class_df_mpu9250_wrapper.html#a731b19d90418d3ec545122f2d097040e" title="DfMpu9250Wrapper::\l_publish" alt="" coords="729,71,875,112"/>
+<area shape="rect" id="node7" href="$d6/d55/class_integrator.html#a3e90de0afccfcec99ebdfaa8af3256ff" title="Put an item into the integral but provide an interval instead of a timestamp. " alt="" coords="735,136,869,177"/>
+<area shape="rect" id="node8" href="$db/def/class_p_x4_accelerometer.html#a98146e730c3d460ecae82545a1ba8fd4" title="PX4Accelerometer::update" alt="" coords="713,202,891,229"/>
+<area shape="rect" id="node10" href="$d4/d1b/class_p_x4_gyroscope.html#a4e890722f5c54f832cfc5eca1aa1b216" title="PX4Gyroscope::update" alt="" coords="723,253,881,279"/>
+<area shape="rect" id="node9" href="$db/def/class_p_x4_accelerometer.html#aae188e31a6b5919ff82025f3c8600142" title="PX4Accelerometer::set\l_temperature" alt="" coords="1003,121,1160,163"/>
+<area shape="rect" id="node11" href="$d4/d1b/class_p_x4_gyroscope.html#a6c904031bc9a43feabd1cec6ae0b3f3b" title="PX4Gyroscope::set_temperature" alt="" coords="975,253,1187,279"/>
+<area shape="rect" id="node17" href="$d9/d8a/class_follow_target.html#a27f30874e77b0abcf37ce44265e84892" title="This function is called while the mode is active. " alt="" coords="463,545,625,571"/>
+<area shape="rect" id="node18" href="$d9/d8a/class_follow_target.html#ad0ef75b14e2d2408cbe3de0ce1cface0" title="This function is called while the mode is inactive. " alt="" coords="459,595,629,622"/>
+<area shape="rect" id="node20" href="$d2/df8/class_multicopter_rate_control.html#ab890141c8477441b316e042b645b1fe0" title="MulticopterRateControl::Run" alt="" coords="450,650,638,677"/>
+<area shape="rect" id="node22" href="$db/def/class_p_x4_accelerometer.html#a63f8c4641e7536cbe6c3aebbb7c00a52" title="PX4Accelerometer::configure\l_filter" alt="" coords="706,460,898,501"/>
+<area shape="rect" id="node24" href="$d4/d1b/class_p_x4_gyroscope.html#a2d72e0464baf5ae1814a02e2b4458a93" title="PX4Gyroscope::configure\l_filter" alt="" coords="717,525,887,567"/>
+<area shape="rect" id="node26" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a14e98cfebfe47830c0b099effa125e2e" title="math::LowPassFilter2pVector3f\l::LowPassFilter2pVector3f" alt="" coords="699,591,905,632"/>
+<area shape="rect" id="node27" href="$db/def/class_p_x4_accelerometer.html#aee383c85338f3b950515f72892bf93af" title="PX4Accelerometer::set\l_sample_rate" alt="" coords="723,343,881,384"/>
+<area shape="rect" id="node33" href="$d4/d1b/class_p_x4_gyroscope.html#ac8c2799d14ec524670b7ac460412086d" title="PX4Gyroscope::set_sample_rate" alt="" coords="695,409,909,435"/>
+<area shape="rect" id="node23" href="$db/def/class_p_x4_accelerometer.html#a8afa02cc9e1400342d74fcef5a36bee7" title="PX4Accelerometer::PX4Accelerometer" alt="" coords="957,557,1205,583"/>
+<area shape="rect" id="node25" href="$d4/d1b/class_p_x4_gyroscope.html#ac720d999b8cf208ec178b2baf8351e2a" title="PX4Gyroscope::PX4Gyroscope" alt="" coords="978,607,1185,634"/>
+<area shape="rect" id="node28" href="$d6/dd5/class_l_s_m303_d.html#a171677a1939ed7c4d73be3e8be59a01f" title="Set the LSM303D internal accel sampling frequency. " alt="" coords="1009,187,1153,228"/>
+<area shape="rect" id="node29" href="$d8/de0/class_a_d_i_s16477.html#a03b184cd4e84ca09bba95fb9b073c93f" title="ADIS16477::ADIS16477" alt="" coords="999,354,1163,381"/>
+<area shape="rect" id="node30" href="$d7/d43/class_a_d_i_s16497.html#a2c839d21dcda5822bd67aac89fcd64dc" title="ADIS16497::ADIS16497" alt="" coords="999,405,1163,431"/>
+<area shape="rect" id="node31" href="$df/d9d/class_b_m_i160.html#a958945385e92afa71494687bca4c5e0a" title="BMI160::BMI160" alt="" coords="1021,303,1141,330"/>
+<area shape="rect" id="node32" href="$d8/db8/class_a_d_i_s16448.html#a77167ff40524b0b4643467503f55c6f8" title="Set sample rate (approximate) &#45; 1kHz to 5Hz. " alt="" coords="985,455,1178,482"/>
+<area shape="rect" id="node34" href="$df/d3b/class_f_x_a_s21002_c.html#a8224995be50a08c41eb6de4353e6775b" title="Set the FXAS21002C internal sampling frequency. " alt="" coords="982,506,1181,533"/>
+<area shape="rect" id="node36" href="$d1/d44/class_sensors.html#a46b70fc5abd5e1b6ac63a2dcb51e7bcd" title="Sensors::Sensors" alt="" coords="481,742,607,769"/>
+<area shape="rect" id="node37" href="$d1/d44/class_sensors.html#adc06f0ba8de4843aa1ec5d4b3ec38c83" title="Sensors::instantiate" alt="" coords="733,742,871,769"/>
+<area shape="rect" id="node42" href="$d0/d09/class_mathlib_test.html#a04830b727cb00cfdbc31c2b689bb2874" title="Override to run your unit tests. " alt="" coords="468,949,620,975"/>
+<area shape="rect" id="node45" href="$d8/d5a/class_position_control.html#a4c871d392085f11713a648289714ba54" title="Get the controllers output attitude setpoint This attitude setpoint was generated from the resulting ..." alt="" coords="453,1000,635,1041"/>
+<area shape="rect" id="node48" href="$d8/df1/_control_math_test_8cpp.html#aa8d4cc0bd9d9615b84904414b015d496" title="TEST" alt="" coords="516,1066,572,1093"/>
+<area shape="rect" id="node46" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="699,982,905,1009"/>
+<area shape="rect" id="node47" href="$d8/d36/_position_control_test_8cpp.html#ac6d3cd16938d51958121f33b5b2d354c" title="TEST" alt="" coords="774,1033,830,1059"/>
+<area shape="rect" id="node50" href="$d0/def/namespacelanding__target__estimator.html#a0ebf814a809f42f4e95626f0cc9d08f0" title="Mainloop of daemon. " alt="" coords="458,1117,630,1173"/>
 </map>

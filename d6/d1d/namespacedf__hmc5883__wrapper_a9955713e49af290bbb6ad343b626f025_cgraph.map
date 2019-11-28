@@ -1,51 +1,51 @@
 <map id="df_hmc5883_wrapper::start" name="df_hmc5883_wrapper::start">
-<area shape="rect" id="node2" href="$d7/d3e/class_df_hmc5883_wrapper.html#aa418a092a7f7c08b4d87206666bc1a79" title="DfHmc5883Wrapper::DfHmc5883\lWrapper" alt="" coords="200,160,419,201"/>
-<area shape="rect" id="node5" href="$d7/d3e/class_df_hmc5883_wrapper.html#a6eb1f21a85e59b3d84ed3ff802b6ab73" title="Start automatic measurement. " alt="" coords="222,374,397,401"/>
-<area shape="rect" id="node3" href="$da/d0e/rotation_8cpp.html#a84c0b599a5a1540d49a8ecae6cfed266" title="Get the rotation matrix. " alt="" coords="471,21,577,47"/>
-<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="672,21,773,47"/>
-<area shape="rect" id="node6" href="$d7/d3e/class_df_hmc5883_wrapper.html#a97b32adb51e7b41fc5895a230ce7ae7d" title="DfHmc5883Wrapper::\l_update_mag_calibration" alt="" coords="1349,5,1516,47"/>
-<area shape="rect" id="node9" href="$d5/dad/class_h_m_c5883.html#ac71ae8705d5d23e970a25adeeb9434c7" title="Initialise the driver and make it ready for use. " alt="" coords="669,559,776,586"/>
-<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="473,374,575,401"/>
-<area shape="rect" id="node46" href="$d5/dad/class_h_m_c5883.html#a950b9f8dcc129a3c2fe31898ca4e2dae" title="Initialise the automatic measurement state machine and start it. " alt="" coords="467,779,581,806"/>
-<area shape="rect" id="node7" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1602,15,1689,42"/>
-<area shape="rect" id="node8" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1604,67,1687,94"/>
-<area shape="rect" id="node10" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="913,607,1001,634"/>
-<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="881,207,1034,248"/>
-<area shape="rect" id="node16" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="898,703,1017,730"/>
-<area shape="rect" id="node11" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="1137,653,1263,679"/>
-<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1804,274,1908,301"/>
-<area shape="rect" id="node14" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1993,350,2131,377"/>
-<area shape="rect" id="node15" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1985,414,2139,441"/>
-<area shape="rect" id="node17" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1413,703,1452,730"/>
-<area shape="rect" id="node18" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="1127,754,1273,781"/>
-<area shape="rect" id="node19" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="1391,805,1474,831"/>
-<area shape="rect" id="node20" href="$d5/dad/class_h_m_c5883.html#a9d5489645f22162a84da1229c5ff0c6d" title="Read a register. " alt="" coords="1363,754,1502,781"/>
-<area shape="rect" id="node21" href="$d5/dad/class_h_m_c5883.html#aadf85bdd284aaadc929fcac0e08c2fb3" title="Write a register. " alt="" coords="1361,855,1504,882"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="651,333,794,375"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="651,403,794,444"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1129,301,1271,343"/>
-<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1369,223,1496,250"/>
-<area shape="rect" id="node26" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1578,223,1713,250"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="864,423,1051,450"/>
-<area shape="rect" id="node29" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1111,535,1289,562"/>
-<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1393,375,1472,402"/>
-<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1124,419,1276,460"/>
-<area shape="rect" id="node40" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1099,587,1301,628"/>
-<area shape="rect" id="node41" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1572,629,1719,671"/>
-<area shape="rect" id="node43" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="1176,122,1224,149"/>
-<area shape="rect" id="node31" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="1564,274,1727,301"/>
-<area shape="rect" id="node32" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1824,375,1888,402"/>
-<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1576,527,1715,554"/>
-<area shape="rect" id="node36" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1599,578,1692,605"/>
-<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1789,527,1923,554"/>
-<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1782,578,1930,605"/>
-<area shape="rect" id="node38" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1395,477,1470,503"/>
-<area shape="rect" id="node39" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1815,426,1897,453"/>
-<area shape="rect" id="node42" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a09e6cdb4967bc03e666621319a3ee8f0" title="Find a node give its name. " alt="" coords="1775,629,1937,671"/>
-<area shape="rect" id="node44" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1357,122,1509,149"/>
-<area shape="rect" id="node45" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="1391,71,1474,98"/>
-<area shape="rect" id="node47" href="$d5/dad/class_h_m_c5883.html#a682125ac270c159056296e6114b726df" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="629,779,816,806"/>
-<area shape="rect" id="node48" href="$d5/dad/class_h_m_c5883.html#a86f898010fb03199a13e4704615509ce" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="897,805,1017,831"/>
-<area shape="rect" id="node49" href="$d5/dad/class_h_m_c5883.html#aa274541257c488a9b67e239737e73034" title="Collect the result of the most recent measurement. " alt="" coords="1137,805,1263,831"/>
-<area shape="rect" id="node50" href="$d5/dad/class_h_m_c5883.html#acf2f888edd9226f2c6ecc4981560363c" title="Issue a measurement command. " alt="" coords="1131,855,1269,882"/>
+<area shape="rect" id="node2" href="$d7/d3e/class_df_hmc5883_wrapper.html#aa418a092a7f7c08b4d87206666bc1a79" title="DfHmc5883Wrapper::DfHmc5883\lWrapper" alt="" coords="200,956,419,998"/>
+<area shape="rect" id="node5" href="$d7/d3e/class_df_hmc5883_wrapper.html#a6eb1f21a85e59b3d84ed3ff802b6ab73" title="Start automatic measurement. " alt="" coords="222,1258,397,1285"/>
+<area shape="rect" id="node3" href="$da/d0e/rotation_8cpp.html#a84c0b599a5a1540d49a8ecae6cfed266" title="Get the rotation matrix. " alt="" coords="497,521,603,548"/>
+<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="702,500,803,526"/>
+<area shape="rect" id="node6" href="$d7/d3e/class_df_hmc5883_wrapper.html#a97b32adb51e7b41fc5895a230ce7ae7d" title="DfHmc5883Wrapper::\l_update_mag_calibration" alt="" coords="467,594,633,635"/>
+<area shape="rect" id="node39" href="$d5/dad/class_h_m_c5883.html#ac71ae8705d5d23e970a25adeeb9434c7" title="HMC5883::init" alt="" coords="497,1258,603,1285"/>
+<area shape="rect" id="node45" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="499,1349,601,1376"/>
+<area shape="rect" id="node50" href="$d5/dad/class_h_m_c5883.html#a950b9f8dcc129a3c2fe31898ca4e2dae" title="Initialise the automatic measurement state machine and start it. " alt="" coords="493,1400,607,1426"/>
+<area shape="rect" id="node7" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="709,550,796,577"/>
+<area shape="rect" id="node13" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="711,601,794,628"/>
+<area shape="rect" id="node8" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="898,170,1033,197"/>
+<area shape="rect" id="node9" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1521,94,1671,121"/>
+<area shape="rect" id="node10" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="1107,44,1273,70"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1149,348,1231,374"/>
+<area shape="rect" id="node12" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1154,398,1226,425"/>
+<area shape="rect" id="node14" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1171,1225,1209,1252"/>
+<area shape="rect" id="node16" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1538,896,1654,922"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="894,221,1037,248"/>
+<area shape="rect" id="node23" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="899,782,1031,809"/>
+<area shape="rect" id="node24" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1141,449,1239,476"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="899,732,1031,758"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1349,870,1440,897"/>
+<area shape="rect" id="node37" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="921,297,1010,324"/>
+<area shape="rect" id="node38" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="892,1149,1039,1176"/>
+<area shape="rect" id="node15" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1353,1225,1436,1252"/>
+<area shape="rect" id="node17" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1724,896,1875,922"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1337,221,1453,248"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1321,120,1468,146"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1119,145,1261,172"/>
+<area shape="rect" id="node22" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1145,246,1235,273"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="1110,702,1270,729"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="1131,652,1249,678"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1516,1098,1676,1125"/>
+<area shape="rect" id="node29" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1323,1073,1466,1100"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1119,972,1261,998"/>
+<area shape="rect" id="node32" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="1119,754,1261,795"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1126,820,1254,846"/>
+<area shape="rect" id="node34" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="1122,870,1258,897"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1145,921,1235,948"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="1119,1022,1261,1049"/>
+<area shape="rect" id="node40" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="685,1316,821,1358"/>
+<area shape="rect" id="node41" href="$d8/d26/classcdev_1_1_c_dev.html#a36b09a6e917caa1a1ac7ee6f189cb247" title="Register a class device name, automatically adding device class instance suffix if need be..." alt="" coords="681,1251,824,1292"/>
+<area shape="rect" id="node43" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="693,1200,812,1226"/>
+<area shape="rect" id="node42" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="913,1301,1017,1328"/>
+<area shape="rect" id="node44" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="892,1250,1039,1277"/>
+<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="681,1447,824,1488"/>
+<area shape="rect" id="node48" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="681,1382,824,1423"/>
+<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1119,1414,1261,1455"/>
+<area shape="rect" id="node49" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="872,1396,1059,1422"/>
 </map>

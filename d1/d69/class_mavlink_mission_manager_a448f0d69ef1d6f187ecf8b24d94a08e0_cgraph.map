@@ -1,12 +1,12 @@
 <map id="MavlinkMissionManager::load_safepoint_stats" name="MavlinkMissionManager::load_safepoint_stats">
-<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="216,115,288,141"/>
-<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="554,56,679,83"/>
-<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="336,107,503,149"/>
-<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="379,173,460,200"/>
+<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="216,152,288,179"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="554,5,679,32"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="336,86,503,127"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="379,152,460,179"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="378,253,461,280"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="383,203,455,229"/>
 <area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="738,56,826,83"/>
-<area shape="rect" id="node5" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="739,107,825,133"/>
-<area shape="rect" id="node6" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="739,5,825,32"/>
-<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="731,157,833,184"/>
-<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="551,107,683,133"/>
-<area shape="rect" id="node10" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="574,208,659,235"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="731,107,833,133"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="551,107,683,133"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="554,224,679,251"/>
 </map>

@@ -1,12 +1,6 @@
 <map id="FlightTasks::getPositionSetpoint" name="FlightTasks::getPositionSetpoint">
-<area shape="rect" id="node2" href="$da/dbc/class_flight_task.html#aa57d35ea8258f1d45cbf7c43b16106a7" title="Get the output data. " alt="" coords="216,56,420,83"/>
-<area shape="rect" id="node5" href="$dc/d0c/class_flight_tasks.html#a06712d8dac53a150d02c8fbf5db38c49" title="Check if any task is active. " alt="" coords="219,115,417,141"/>
-<area shape="rect" id="node3" href="$dd/df8/classmatrix_1_1_matrix.html#aa1b34844ff0b1b168a71bfaa5735639a" title="matrix::Matrix::copyTo" alt="" coords="489,5,643,32"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="503,56,629,83"/>
-<area shape="rect" id="node6" href="$dc/d0c/class_flight_tasks.html#af790ba4505548862724e41d5f25122b6" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="468,107,664,149"/>
-<area shape="rect" id="node11" href="$dc/d0c/class_flight_tasks.html#aecfb5285ba3a8c4a289e74b6c82552d7" title="Call this method to get the description of a task error. " alt="" coords="479,173,653,200"/>
-<area shape="rect" id="node7" href="$da/dbc/class_flight_task.html#aaebc7d92ecf165895988b76b7f1381d7" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="712,107,901,149"/>
-<area shape="rect" id="node8" href="$db/db3/class_module_params.html#acf08d1a67a584f7b6e0feaa9182bede1" title="Call this whenever the module gets a parameter change notification. " alt="" coords="949,115,1151,141"/>
-<area shape="rect" id="node9" href="$df/db4/class_list_node.html#a39f4f8a789ee9684a10a4289f964f4dc" title="ListNode::getSibling" alt="" coords="1243,89,1381,116"/>
-<area shape="rect" id="node10" href="$db/db3/class_module_params.html#a2048201c06a6cc6602ab20a53e7d75cb" title="The implementation for this is generated with the macro DEFINE_PARAMETERS() " alt="" coords="1199,140,1425,167"/>
+<area shape="rect" id="node2" href="$da/dbc/class_flight_task.html#aa57d35ea8258f1d45cbf7c43b16106a7" title="Get the output data. " alt="" coords="216,31,420,57"/>
+<area shape="rect" id="node5" href="$dc/d0c/class_flight_tasks.html#adc5fd990fa35885a275ac5c6b3621d78" title="Check if any task is active. " alt="" coords="219,81,417,108"/>
+<area shape="rect" id="node3" href="$dd/df8/classmatrix_1_1_matrix.html#a46af950c7f4bdbba51525788362f1d85" title="matrix::Matrix::copyTo" alt="" coords="468,5,621,32"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="482,56,607,83"/>
 </map>

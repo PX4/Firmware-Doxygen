@@ -1,51 +1,51 @@
 <map id="src/lib/drivers/device/posix/I2C.hpp" name="src/lib/drivers/device/posix/I2C.hpp">
-<area shape="rect" id="node2" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="3177,95,3320,136"/>
-<area shape="rect" id="node50" href="$d4/d8d/posix_2_i2_c_8cpp.html" title="src/lib/drivers/device\l/posix/I2C.cpp" alt="" coords="3344,95,3487,136"/>
-<area shape="rect" id="node3" href="$d2/dec/aerofc__adc_8cpp.html" title="src/drivers/aerofc\l_adc/aerofc_adc.cpp" alt="" coords="5,191,148,233"/>
-<area shape="rect" id="node4" href="$d6/d00/bmp280__i2c_8cpp.html" title="src/drivers/barometer\l/bmp280/bmp280_i2c.cpp" alt="" coords="173,191,343,233"/>
-<area shape="rect" id="node5" href="$d9/de1/_l_p_s22_h_b___i2_c_8cpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB_I2C.cpp" alt="" coords="367,191,554,233"/>
-<area shape="rect" id="node6" href="$d5/d75/lps25h_8cpp.html" title="Driver for the LPS25H barometer connected via I2C or SPI. " alt="" coords="579,191,724,233"/>
-<area shape="rect" id="node7" href="$d5/d8e/lps25h__i2c_8cpp.html" title="src/drivers/barometer\l/lps25h/lps25h_i2c.cpp" alt="" coords="749,191,903,233"/>
-<area shape="rect" id="node8" href="$db/dc5/mpl3115a2__i2c_8cpp.html" title="I2C interface for MPL3115A2. " alt="" coords="928,184,1084,240"/>
-<area shape="rect" id="node9" href="$df/db8/ms5611__i2c_8cpp.html" title="I2C interface for MS5611. " alt="" coords="1109,191,1279,233"/>
-<area shape="rect" id="node10" href="$d0/d08/batt__smbus_8h.html" title="Header for a battery monitor connected via SMBus (I2C). " alt="" coords="1303,191,1458,233"/>
-<area shape="rect" id="node12" href="$d9/dec/batt__smbus__i2c_8cpp.html" title="I2C interface for batt_smbus. " alt="" coords="1275,295,1430,337"/>
-<area shape="rect" id="node14" href="$d8/d15/blinkm_8cpp.html" title="Driver for the BlinkM LED controller connected via I2C. " alt="" coords="1533,191,1658,233"/>
-<area shape="rect" id="node15" href="$d3/ddb/ets__airspeed_8cpp.html" title="src/drivers/differential\l_pressure/ets/ets_airspeed.cpp" alt="" coords="1455,295,1659,337"/>
-<area shape="rect" id="node16" href="$db/dc7/ms4525__airspeed_8cpp.html" title="src/drivers/differential\l_pressure/ms4525/ms4525\l_airspeed.cpp" alt="" coords="1683,288,1862,344"/>
-<area shape="rect" id="node17" href="$dc/db6/_m_s5525_8hpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525.hpp" alt="" coords="1887,295,2093,337"/>
-<area shape="rect" id="node20" href="$dc/d99/_s_d_p3_x_8hpp.html" title="Driver for Sensirion SDP3X Differential Pressure Sensor. " alt="" coords="2117,295,2308,337"/>
-<area shape="rect" id="node21" href="$d4/d8a/_lidar_lite_i2_c_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLiteI2C.h" alt="" coords="2114,191,2301,233"/>
-<area shape="rect" id="node22" href="$d5/d45/mb12xx_8cpp.html" title="src/drivers/distance\l_sensor/mb12xx/mb12xx.cpp" alt="" coords="2325,191,2519,233"/>
-<area shape="rect" id="node23" href="$d6/df1/sf1xx_8cpp.html" title="src/drivers/distance\l_sensor/sf1xx/sf1xx.cpp" alt="" coords="2543,191,2709,233"/>
-<area shape="rect" id="node24" href="$d8/d1c/srf02_8cpp.html" title="Driver for the SRF02 sonar range finder adapted from the Maxbotix sonar range finder driver (mb12xx)..." alt="" coords="2733,191,2892,233"/>
-<area shape="rect" id="node25" href="$d7/db0/teraranger_8cpp.html" title="src/drivers/distance\l_sensor/teraranger/teraranger.cpp" alt="" coords="2916,191,3133,233"/>
-<area shape="rect" id="node26" href="$d6/d2e/vl53lxx_8cpp.html" title="src/drivers/distance\l_sensor/vl53lxx/vl53lxx.cpp" alt="" coords="3157,191,3340,233"/>
-<area shape="rect" id="node27" href="$d7/d50/mpu6000_8cpp.html" title="Driver for the Invensense MPU6000, MPU6050, ICM20608, and ICM20602 connected via SPI or I2C..." alt="" coords="3365,191,3530,233"/>
-<area shape="rect" id="node28" href="$d4/dcc/mpu6000__i2c_8cpp.html" title="I2C interface for MPU6000 /MPU6050. " alt="" coords="3554,191,3719,233"/>
-<area shape="rect" id="node29" href="$df/d74/mag__i2c_8cpp.html" title="I2C interface for AK8963. " alt="" coords="3743,191,3909,233"/>
-<area shape="rect" id="node30" href="$dc/df6/mpu9250__i2c_8cpp.html" title="I2C interface for MPU9250. " alt="" coords="3933,191,4098,233"/>
-<area shape="rect" id="node31" href="$dc/d8f/irlock_8cpp.html" title="src/drivers/irlock\l/irlock.cpp" alt="" coords="4121,191,4240,233"/>
-<area shape="rect" id="node32" href="$d5/d05/bmm150_8hpp.html" title="src/drivers/magnetometer\l/bmm150/bmm150.hpp" alt="" coords="4265,191,4435,233"/>
-<area shape="rect" id="node33" href="$d9/de0/hmc5883_8cpp.html" title="Driver for the HMC5883 / HMC5983 magnetometer connected via I2C or SPI. " alt="" coords="4459,191,4630,233"/>
-<area shape="rect" id="node34" href="$de/dea/hmc5883__i2c_8cpp.html" title="src/drivers/magnetometer\l/hmc5883/hmc5883_i2c.cpp" alt="" coords="4655,191,4840,233"/>
-<area shape="rect" id="node35" href="$d3/dbd/ist8310_8cpp.html" title="Driver for the IST8310 magnetometer connected via I2C. " alt="" coords="4865,191,5035,233"/>
-<area shape="rect" id="node36" href="$dd/db3/lis3mdl_8h.html" title="Shared defines for the LIS3MDL driver. " alt="" coords="5059,191,5230,233"/>
-<area shape="rect" id="node37" href="$d6/d74/lis3mdl__i2c_8cpp.html" title="I2C interface for LIS3MDL. " alt="" coords="5121,295,5291,337"/>
-<area shape="rect" id="node38" href="$d5/d81/md25_8hpp.html" title="src/drivers/md25/md25.hpp" alt="" coords="5305,199,5485,225"/>
-<area shape="rect" id="node39" href="$df/db3/mkblctrl_8cpp.html" title="Driver/configurator for the Mikrokopter BL&#45;Ctrl. " alt="" coords="5510,191,5643,233"/>
-<area shape="rect" id="node40" href="$d5/d4d/oreoled_8cpp.html" title="Driver for oreoled ESCs found in solo, connected via I2C. " alt="" coords="5668,191,5797,233"/>
-<area shape="rect" id="node41" href="$df/d33/pca8574_8cpp.html" title="Driver for an 8 I/O controller (PC8574) connected via I2C. " alt="" coords="5821,191,5957,233"/>
-<area shape="rect" id="node42" href="$d4/d74/pca9685_8cpp.html" title="Driver for the PCA9685 I2C PWM module The chip is used on the Adafruit I2C/PWM converter https://www..." alt="" coords="5981,191,6117,233"/>
-<area shape="rect" id="node43" href="$db/d0e/px4flow_8cpp.html" title="src/drivers/px4flow\l/px4flow.cpp" alt="" coords="6141,191,6273,233"/>
-<area shape="rect" id="node44" href="$de/d74/fmu_8cpp.html" title="Driver/configurator for the PX4 FMU. " alt="" coords="6298,191,6429,233"/>
-<area shape="rect" id="node45" href="$d6/d45/rgbled_8cpp.html" title="Driver for the onboard RGB LED controller (TCA62724FMG) connected via I2C. " alt="" coords="6453,191,6575,233"/>
-<area shape="rect" id="node46" href="$da/dc8/_robo_claw_8hpp.html" title="src/drivers/roboclaw\l/RoboClaw.hpp" alt="" coords="6599,191,6738,233"/>
-<area shape="rect" id="node47" href="$df/dae/bst_8cpp.html" title="Black Sheep Telemetry driver. " alt="" coords="6762,191,6903,233"/>
-<area shape="rect" id="node48" href="$d0/d00/drivers_2airspeed_2airspeed_8cpp.html" title="src/lib/drivers/airspeed\l/airspeed.cpp" alt="" coords="2332,295,2485,337"/>
-<area shape="rect" id="node49" href="$d4/d56/src_2lib_2drivers_2airspeed_2airspeed_8h.html" title="src/lib/drivers/airspeed\l/airspeed.h" alt="" coords="1835,191,1988,233"/>
-<area shape="rect" id="node11" href="$d0/d0b/batt__smbus_8cpp.html" title="Driver for a battery monitor connected via SMBus (I2C). " alt="" coords="1097,295,1251,337"/>
-<area shape="rect" id="node13" href="$d0/de7/batt__smbus__main_8cpp.html" title="src/drivers/batt_smbus\l/batt_smbus_main.cpp" alt="" coords="918,295,1073,337"/>
-<area shape="rect" id="node18" href="$d6/dca/_m_s5525_8cpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525.cpp" alt="" coords="1777,399,1984,441"/>
-<area shape="rect" id="node19" href="$d7/d6a/_m_s5525__main_8cpp.html" title="src/drivers/differential\l_pressure/ms5525/MS5525\l_main.cpp" alt="" coords="2009,392,2190,448"/>
+<area shape="rect" id="node2" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="4003,95,4146,136"/>
+<area shape="rect" id="node50" href="$d4/d8d/posix_2_i2_c_8cpp.html" title="src/lib/drivers/device\l/posix/I2C.cpp" alt="" coords="4170,95,4313,136"/>
+<area shape="rect" id="node3" href="$d6/d00/_b_m_p280___i2_c_8cpp.html" title="src/drivers/barometer\l/bmp280/BMP280_I2C.cpp" alt="" coords="5,191,184,233"/>
+<area shape="rect" id="node4" href="$d0/dbc/bmp388__i2c_8cpp.html" title="I2C interface for BMP388. " alt="" coords="208,191,379,233"/>
+<area shape="rect" id="node5" href="$d0/d7e/_l_p_s22_h_b_8hpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.hpp" alt="" coords="403,191,562,233"/>
+<area shape="rect" id="node6" href="$d6/d51/lps25h_8h.html" title="Shared defines for the lps25h driver. " alt="" coords="586,191,731,233"/>
+<area shape="rect" id="node7" href="$d6/d0c/mpl3115a2_8h.html" title="Shared defines for the mpl3115a2 driver. " alt="" coords="755,191,922,233"/>
+<area shape="rect" id="node8" href="$d7/d46/_m_s5611_8hpp.html" title="src/drivers/barometer\l/ms5611/MS5611.hpp" alt="" coords="941,288,1091,329"/>
+<area shape="rect" id="node9" href="$d3/d79/ms5611_8h.html" title="Shared defines for the ms5611 driver. " alt="" coords="998,191,1143,233"/>
+<area shape="rect" id="node10" href="$d4/d8a/_lidar_lite_i2_c_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLiteI2C.h" alt="" coords="1168,191,1355,233"/>
+<area shape="rect" id="node11" href="$df/d98/ll40ls_8cpp.html" title="src/drivers/distance\l_sensor/ll40ls/ll40ls.cpp" alt="" coords="1246,288,1407,329"/>
+<area shape="rect" id="node12" href="$de/d65/_mappy_dot_8cpp.html" title="src/drivers/distance\l_sensor/mappydot/MappyDot.cpp" alt="" coords="1429,191,1648,233"/>
+<area shape="rect" id="node13" href="$d5/d45/mb12xx_8cpp.html" title="src/drivers/distance\l_sensor/mb12xx/mb12xx.cpp" alt="" coords="1673,191,1866,233"/>
+<area shape="rect" id="node14" href="$d6/df1/sf1xx_8cpp.html" title="src/drivers/distance\l_sensor/sf1xx/sf1xx.cpp" alt="" coords="1891,191,2056,233"/>
+<area shape="rect" id="node15" href="$d8/d1c/srf02_8cpp.html" title="Driver for the SRF02 sonar range finder adapted from the Maxbotix sonar range finder driver (srf02)..." alt="" coords="2081,191,2239,233"/>
+<area shape="rect" id="node16" href="$d7/db0/teraranger_8cpp.html" title="src/drivers/distance\l_sensor/teraranger/teraranger.cpp" alt="" coords="2263,191,2481,233"/>
+<area shape="rect" id="node17" href="$d6/d2e/vl53lxx_8cpp.html" title="src/drivers/distance\l_sensor/vl53lxx/vl53lxx.cpp" alt="" coords="2505,191,2687,233"/>
+<area shape="rect" id="node18" href="$de/d30/icm20948__i2c_8cpp.html" title="I2C interface for ICM20948. " alt="" coords="2712,191,2880,233"/>
+<area shape="rect" id="node19" href="$df/d74/mag__i2c_8cpp.html" title="I2C interface for AK09916. " alt="" coords="2904,191,3072,233"/>
+<area shape="rect" id="node20" href="$d1/df6/_m_p_u6000_8hpp.html" title="src/drivers/imu/mpu6000\l/MPU6000.hpp" alt="" coords="3096,191,3261,233"/>
+<area shape="rect" id="node21" href="$d6/d78/_m_p_u6000___i2_c_8cpp.html" title="I2C interface for MPU6000 /MPU6050. " alt="" coords="3156,288,3321,329"/>
+<area shape="rect" id="node22" href="$d2/d38/_a_k8963___i2_c_8cpp.html" title="src/drivers/imu/mpu9250\l/AK8963_I2C.cpp" alt="" coords="3336,191,3501,233"/>
+<area shape="rect" id="node23" href="$dc/df6/mpu9250__i2c_8cpp.html" title="I2C interface for MPU9250. " alt="" coords="3525,191,3691,233"/>
+<area shape="rect" id="node24" href="$dc/d8f/irlock_8cpp.html" title="src/drivers/irlock\l/irlock.cpp" alt="" coords="3715,191,3834,233"/>
+<area shape="rect" id="node25" href="$d8/d15/blinkm_8cpp.html" title="Driver for the BlinkM LED controller connected via I2C. " alt="" coords="3857,191,3988,233"/>
+<area shape="rect" id="node26" href="$d6/d45/rgbled_8cpp.html" title="Driver for the onboard RGB LED controller (TCA62724FMG) connected via I2C. " alt="" coords="4012,191,4137,233"/>
+<area shape="rect" id="node27" href="$d8/dc8/rgbled__ncp5623c_8cpp.html" title="Driver for the onboard RGB LED controller (NCP5623C) connected via I2C. " alt="" coords="4161,184,4324,240"/>
+<area shape="rect" id="node28" href="$d9/dca/ak09916_8hpp.html" title="src/drivers/magnetometer\l/ak09916/ak09916.hpp" alt="" coords="4348,191,4519,233"/>
+<area shape="rect" id="node29" href="$d5/d05/bmm150_8hpp.html" title="src/drivers/magnetometer\l/bmm150/bmm150.hpp" alt="" coords="4543,191,4713,233"/>
+<area shape="rect" id="node30" href="$d3/d8d/_h_m_c5883_8hpp.html" title="src/drivers/magnetometer\l/hmc5883/HMC5883.hpp" alt="" coords="4737,191,4908,233"/>
+<area shape="rect" id="node31" href="$de/dea/hmc5883__i2c_8cpp.html" title="I2C interface for HMC5883 / HMC 5983. " alt="" coords="4933,191,5118,233"/>
+<area shape="rect" id="node32" href="$d3/dbd/ist8310_8cpp.html" title="Driver for the IST8310 magnetometer connected via I2C. " alt="" coords="5143,191,5313,233"/>
+<area shape="rect" id="node33" href="$dd/db3/lis3mdl_8h.html" title="Shared defines for the LIS3MDL driver. " alt="" coords="5337,191,5508,233"/>
+<area shape="rect" id="node34" href="$d6/d74/lis3mdl__i2c_8cpp.html" title="I2C interface for LIS3MDL. " alt="" coords="5399,288,5569,329"/>
+<area shape="rect" id="node35" href="$d8/d59/qmc5883_8cpp.html" title="Driver for the QMC5883 magnetometer connected via I2C or SPI. " alt="" coords="5583,191,5753,233"/>
+<area shape="rect" id="node36" href="$de/db2/qmc5883__i2c_8cpp.html" title="I2C interface for QMC5883. " alt="" coords="5778,191,5963,233"/>
+<area shape="rect" id="node37" href="$df/d7d/rm3100_8h.html" title="Shared defines for the RM3100 driver. " alt="" coords="5988,191,6159,233"/>
+<area shape="rect" id="node38" href="$d1/d14/rm3100__i2c_8cpp.html" title="I2C interface for RM3100. " alt="" coords="6049,288,6220,329"/>
+<area shape="rect" id="node39" href="$df/db3/mkblctrl_8cpp.html" title="Driver/configurator for the Mikrokopter BL&#45;Ctrl. " alt="" coords="6233,191,6367,233"/>
+<area shape="rect" id="node40" href="$db/d0e/px4flow_8cpp.html" title="src/drivers/optical\l_flow/px4flow/px4flow.cpp" alt="" coords="6391,191,6567,233"/>
+<area shape="rect" id="node41" href="$d3/d4c/pca9685_2_p_c_a9685_8cpp.html" title="src/drivers/pca9685\l/pca9685.cpp" alt="" coords="6591,191,6727,233"/>
+<area shape="rect" id="node42" href="$de/dd9/ina226_8cpp.html" title="src/drivers/power_monitor\l/ina226/ina226.cpp" alt="" coords="6751,191,6923,233"/>
+<area shape="rect" id="node43" href="$df/d8e/voxlpm_8hpp.html" title="Shared defines for the voxlpm (QTY2 LTC2946) driver. " alt="" coords="6947,191,7119,233"/>
+<area shape="rect" id="node44" href="$de/d74/fmu_8cpp.html" title="Driver/configurator for the PX4 FMU. " alt="" coords="7144,191,7275,233"/>
+<area shape="rect" id="node45" href="$da/dc8/_robo_claw_8hpp.html" title="src/drivers/roboclaw\l/RoboClaw.hpp" alt="" coords="7299,191,7437,233"/>
+<area shape="rect" id="node46" href="$df/dae/bst_8cpp.html" title="Black Sheep Telemetry driver. " alt="" coords="7461,191,7603,233"/>
+<area shape="rect" id="node47" href="$d0/d00/drivers_2airspeed_2airspeed_8cpp.html" title="src/lib/drivers/airspeed\l/airspeed.cpp" alt="" coords="7621,288,7774,329"/>
+<area shape="rect" id="node48" href="$d4/d56/src_2lib_2drivers_2airspeed_2airspeed_8h.html" title="src/lib/drivers/airspeed\l/airspeed.h" alt="" coords="7678,191,7831,233"/>
+<area shape="rect" id="node49" href="$d6/d7e/_s_m_bus_8hpp.html" title="SMBus v2.0 protocol implementation. " alt="" coords="7855,191,7998,233"/>
 </map>

@@ -1,0 +1,34 @@
+<map id="ICM20948::init" name="ICM20948::init">
+<area shape="rect" id="node2" href="$d6/df3/class_i_c_m20948__mag.html#a0e984b8f397e4bdccf1b47ce40d5f389" title="ICM20948_mag::ak09916\l_reset" alt="" coords="160,639,331,680"/>
+<area shape="rect" id="node20" href="$dd/dd3/classdevice_1_1_device.html#ab1fa70de857611a978e518a7c8e170df" title="Return the bus type the device is connected to. " alt="" coords="858,50,993,91"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="183,705,308,732"/>
+<area shape="rect" id="node22" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="178,756,313,782"/>
+<area shape="rect" id="node23" href="$d6/df3/class_i_c_m20948__mag.html#a1b9bd635008cb3ca3ca6204d5d1e5b48" title="ICM20948_mag::is_passthrough" alt="" coords="820,604,1031,630"/>
+<area shape="rect" id="node24" href="$da/d2e/class_i_c_m20948.html#a1f13d7a82e3e56bb814da546d20d9ae9" title="whoami result " alt="" coords="1130,132,1253,158"/>
+<area shape="rect" id="node25" href="$da/d2e/class_i_c_m20948.html#a15c271d1a998d2855897b1d20405c4ea" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="609,360,760,386"/>
+<area shape="rect" id="node32" href="$da/d2e/class_i_c_m20948.html#adf0479b9baa7b5631c3699db643f9dc5" title="ICM20948::start" alt="" coords="187,836,303,862"/>
+<area shape="rect" id="node3" href="$d6/df3/class_i_c_m20948__mag.html#a490d7c0e4c29dc3858c44be3cbbd4e05" title="ICM20948_mag::ak09916\l_setup" alt="" coords="379,748,549,790"/>
+<area shape="rect" id="node12" href="$d6/df3/class_i_c_m20948__mag.html#ac47774e85be36f261caf87f29c74bfe5" title="ICM20948_mag::write_reg" alt="" coords="597,970,772,997"/>
+<area shape="rect" id="node4" href="$d6/df3/class_i_c_m20948__mag.html#aa38ba3c4cb94c15edf00f15848c4aba9" title="ICM20948_mag::ak09916\l_setup_master_i2c" alt="" coords="840,908,1011,950"/>
+<area shape="rect" id="node5" href="$da/d2e/class_i_c_m20948.html#aaa9b0fac9c4b5a8530a93dd8d5b7b806" title="Modify a checked register in the mpu. " alt="" coords="1086,401,1297,428"/>
+<area shape="rect" id="node11" href="$da/d2e/class_i_c_m20948.html#afa4709b478278444a9da6f8c87428902" title="Write a register in the mpu. " alt="" coords="1621,756,1763,782"/>
+<area shape="rect" id="node14" href="$d6/df3/class_i_c_m20948__mag.html#a14c0ac756dda2a94ec26298144d912e0" title="ICM20948_mag::set_passthrough" alt="" coords="1352,857,1571,884"/>
+<area shape="rect" id="node15" href="$d6/df3/class_i_c_m20948__mag.html#aaa215e741a53c2e3c5cadc92b265c9e9" title="ICM20948_mag::ak09916\l_check_id" alt="" coords="599,690,770,731"/>
+<area shape="rect" id="node19" href="$da/d2e/class_i_c_m20948.html#a7bc338666d735203ff1e49cd129d0b74" title="Modify a register in the mpu. " alt="" coords="1114,705,1269,732"/>
+<area shape="rect" id="node6" href="$da/d2e/class_i_c_m20948.html#a6a0cad351e917caebcde6f458ed4eee4" title="Read a register from the mpu. " alt="" coords="1391,350,1531,377"/>
+<area shape="rect" id="node10" href="$da/d2e/class_i_c_m20948.html#aceecea47eb08c8033d34799f0ba60202" title="Write a register in the mpu, updating _checked_values. " alt="" coords="1362,452,1561,478"/>
+<area shape="rect" id="node7" href="$da/d2e/class_i_c_m20948.html#ac98dca5d5ccd271e119bd0732cf7423e" title="Select a register bank in ICM20948. " alt="" coords="1813,654,2024,681"/>
+<area shape="rect" id="node9" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="2073,553,2216,580"/>
+<area shape="rect" id="node8" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="2072,756,2217,782"/>
+<area shape="rect" id="node13" href="$d6/df3/class_i_c_m20948__mag.html#a42a2a3e7ce0ea9cd9f3db7f3b96ba338" title="ICM20948_mag::passthrough\l_write" alt="" coords="1095,959,1288,1000"/>
+<area shape="rect" id="node16" href="$d6/df3/class_i_c_m20948__mag.html#adf23ba99b27c421cffda546c9e9f2c9b" title="ICM20948_mag::read_reg" alt="" coords="839,705,1011,732"/>
+<area shape="rect" id="node17" href="$d6/df3/class_i_c_m20948__mag.html#a586f33b88f6b51fcb7043bd890caa2f7" title="ICM20948_mag::passthrough_read" alt="" coords="1079,756,1304,782"/>
+<area shape="rect" id="node18" href="$d6/df3/class_i_c_m20948__mag.html#aaa1559ffe36a2a926934dbdb5d424442" title="ICM20948_mag::read\l_block" alt="" coords="1619,655,1765,696"/>
+<area shape="rect" id="node26" href="$da/d2e/class_i_c_m20948.html#a2e3865c431fe28908dcc1be6fc661313" title="ICM20948::_set_sample_rate" alt="" coords="1095,350,1288,377"/>
+<area shape="rect" id="node27" href="$da/d2e/class_i_c_m20948.html#a0906640f147d4e6838f1d443a38c8b34" title="ICM20948::_set_dlpf\l_filter" alt="" coords="854,436,997,478"/>
+<area shape="rect" id="node28" href="$d4/d1b/class_p_x4_gyroscope.html#a27d736cf0d7c8c3a16add049def9ad07" title="PX4Gyroscope::set_scale" alt="" coords="838,166,1013,193"/>
+<area shape="rect" id="node30" href="$da/d2e/class_i_c_m20948.html#a107acc9c81bb04d3526bb75e66e6771a" title="Set the mpu measurement range. " alt="" coords="852,268,999,310"/>
+<area shape="rect" id="node29" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="1355,270,1567,297"/>
+<area shape="rect" id="node31" href="$db/def/class_p_x4_accelerometer.html#a13af2eac41b4baaf5b0238e2b2a3891c" title="PX4Accelerometer::set\l_scale" alt="" coords="1113,234,1270,275"/>
+<area shape="rect" id="node33" href="$da/d2e/class_i_c_m20948.html#a67a47e58c051f6ef0e0d219f45cd7ed2" title="ICM20948::stop" alt="" coords="407,865,521,892"/>
+</map>

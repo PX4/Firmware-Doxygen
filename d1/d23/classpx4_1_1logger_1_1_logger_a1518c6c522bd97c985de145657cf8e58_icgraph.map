@@ -1,7 +1,9 @@
 <map id="px4::logger::Logger::perf_iterate_callback" name="px4::logger::Logger::perf_iterate_callback">
-<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a77b27d1ea4cc84e531d4f63b02b6587b" title="write performance counters " alt="" coords="204,71,337,112"/>
-<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="385,5,519,47"/>
-<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aabf3bd800d91afa723ca1c7086a94c39" title="px4::logger::Logger\l::stop_log_file" alt="" coords="385,71,519,112"/>
-<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="385,136,519,177"/>
-<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="567,78,725,105"/>
+<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a77b27d1ea4cc84e531d4f63b02b6587b" title="write performance counters " alt="" coords="204,86,337,127"/>
+<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="385,20,519,62"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a01d0690aa8610bad2df8be594ec52b32" title="px4::logger::Logger\l::stop_log_file" alt="" coords="385,86,519,127"/>
+<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="385,151,519,192"/>
+<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="795,64,953,90"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="589,27,725,68"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="567,144,747,200"/>
 </map>

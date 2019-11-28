@@ -1,7 +1,5 @@
 <map id="ECL_L1_Pos_Controller::target_bearing" name="ECL_L1_Pos_Controller::target_bearing">
-<area shape="rect" id="node2" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="216,5,412,32"/>
-<area shape="rect" id="node3" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="220,57,408,98"/>
-<area shape="rect" id="node4" href="$d7/d8c/class_ground_rover_position_control.html#aa2ea14b3608ff1d5a718e79ba2de7a88" title="Shim for calling task_main from task_create. " alt="" coords="460,57,648,98"/>
-<area shape="rect" id="node5" href="$d7/d8c/class_ground_rover_position_control.html#a037e8b87973e3f89c49f3124d2da228b" title="Start the sensors task. " alt="" coords="696,57,884,98"/>
-<area shape="rect" id="node6" href="$db/d79/_ground_rover_position_control_8cpp.html#aea00b48df935476be5ad8e9ad7149791" title="L1 control app start / stop handling function. " alt="" coords="932,64,1084,91"/>
+<area shape="rect" id="node2" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="216,5,388,32"/>
+<area shape="rect" id="node3" href="$d9/d31/class_fixedwing_position_control.html#a34ddf5cd85e2b8b4c98f576dda0e3c11" title="FixedwingPositionControl\l::status_publish" alt="" coords="217,57,387,98"/>
+<area shape="rect" id="node4" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="436,64,639,91"/>
 </map>

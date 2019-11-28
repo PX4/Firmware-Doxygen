@@ -16,7 +16,8 @@ var dir_527b3761145ee34f67664504dad0c18c =
     ] ],
     [ "mavlink_high_latency2.cpp", "df/d31/mavlink__high__latency2_8cpp.html", null ],
     [ "mavlink_high_latency2.h", "db/d91/mavlink__high__latency2_8h.html", [
-      [ "MavlinkStreamHighLatency2", "d9/d2e/class_mavlink_stream_high_latency2.html", "d9/d2e/class_mavlink_stream_high_latency2" ]
+      [ "MavlinkStreamHighLatency2", "d9/d2e/class_mavlink_stream_high_latency2.html", "d9/d2e/class_mavlink_stream_high_latency2" ],
+      [ "PerBatteryData", "d8/d04/struct_mavlink_stream_high_latency2_1_1_per_battery_data.html", "d8/d04/struct_mavlink_stream_high_latency2_1_1_per_battery_data" ]
     ] ],
     [ "mavlink_log_handler.cpp", "db/d99/mavlink__log__handler_8cpp.html", "db/d99/mavlink__log__handler_8cpp" ],
     [ "mavlink_log_handler.h", "da/dd1/mavlink__log__handler_8h.html", [
@@ -42,7 +43,7 @@ var dir_527b3761145ee34f67664504dad0c18c =
     [ "mavlink_rate_limiter.h", "d5/d0d/mavlink__rate__limiter_8h.html", [
       [ "MavlinkRateLimiter", "da/d7f/class_mavlink_rate_limiter.html", "da/d7f/class_mavlink_rate_limiter" ]
     ] ],
-    [ "mavlink_receiver.cpp", "d2/d57/mavlink__receiver_8cpp.html", null ],
+    [ "mavlink_receiver.cpp", "d2/d57/mavlink__receiver_8cpp.html", "d2/d57/mavlink__receiver_8cpp" ],
     [ "mavlink_receiver.h", "da/dab/mavlink__receiver_8h.html", [
       [ "MavlinkReceiver", "da/d89/class_mavlink_receiver.html", "da/d89/class_mavlink_receiver" ]
     ] ],
@@ -50,7 +51,7 @@ var dir_527b3761145ee34f67664504dad0c18c =
     [ "mavlink_shell.h", "d0/d76/mavlink__shell_8h.html", [
       [ "MavlinkShell", "d1/dbf/class_mavlink_shell.html", "d1/dbf/class_mavlink_shell" ]
     ] ],
-    [ "mavlink_simple_analyzer.cpp", "dd/d21/mavlink__simple__analyzer_8cpp.html", null ],
+    [ "mavlink_simple_analyzer.cpp", "dd/d21/mavlink__simple__analyzer_8cpp.html", "dd/d21/mavlink__simple__analyzer_8cpp" ],
     [ "mavlink_simple_analyzer.h", "de/d39/mavlink__simple__analyzer_8h.html", "de/d39/mavlink__simple__analyzer_8h" ],
     [ "mavlink_stream.cpp", "dc/dc1/mavlink__stream_8cpp.html", null ],
     [ "mavlink_stream.h", "d8/d99/mavlink__stream_8h.html", [

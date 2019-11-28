@@ -1,5 +1,8 @@
 <map id="UavcanServers" name="UavcanServers">
-<area shape="rect" id="node2" href="$db/db6/class_virtual_can_driver.html" title="Objects of this class are owned by the sub&#45;node thread. " alt="" coords="367,219,517,428"/>
-<area shape="rect" id="node5" href="$d2/d2d/class_i_tx_queue_injector.html" title="This interface defines one method that will be called by the main node thread periodically in order t..." alt="" coords="365,35,519,127"/>
-<area shape="rect" id="node7" href="$db/d3f/class_virtual_can_driver_1_1_event.html" title="{VirtualCanDriver::Event\n|&#45; sem\l|+ init()\l+ deinit()\l+ Event()\l+ ~Event()\l+ waitFor()\l+ signal()\l}" alt="" coords="666,5,826,156"/>
+<area shape="rect" id="node2" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html" title="{uORB::PublicationQueued\l\&lt; vehicle_command_ack_s \&gt;\n|# _handle\l|+ PublicationQueued()\l+ ~PublicationQueued()\l+ publish()\l}" alt="" coords="5,263,199,384"/>
+<area shape="rect" id="node3" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="32,20,177,141"/>
+<area shape="rect" id="node4" href="$d3/de9/classu_o_r_b_1_1_publication.html" title="{uORB::Publication\&lt;\l uavcan_parameter_value_s \&gt;\n|# _handle\l|+ Publication()\l+ ~Publication()\l+ publish()\l}" alt="" coords="223,263,421,384"/>
+<area shape="rect" id="node5" href="$db/db6/class_virtual_can_driver.html" title="Objects of this class are owned by the sub&#45;node thread. " alt="" coords="491,219,641,428"/>
+<area shape="rect" id="node8" href="$d2/d2d/class_i_tx_queue_injector.html" title="This interface defines one method that will be called by the main node thread periodically in order t..." alt="" coords="513,35,667,127"/>
+<area shape="rect" id="node10" href="$db/d3f/class_virtual_can_driver_1_1_event.html" title="{VirtualCanDriver::Event\n|&#45; sem\l|+ init()\l+ deinit()\l+ Event()\l+ ~Event()\l+ waitFor()\l+ signal()\l}" alt="" coords="814,5,974,156"/>
 </map>

@@ -1,8 +1,10 @@
 var dir_303783c36f10d27e903dca461e42714a =
 [
     [ "matlab", "dir_9d4598198c0739aa79c078fd3b0a224f.html", "dir_9d4598198c0739aa79c078fd3b0a224f" ],
-    [ "tests", "dir_62fe46ff80c630065b3ce03a9a61002a.html", "dir_62fe46ff80c630065b3ce03a9a61002a" ],
     [ "airspeed_fusion.cpp", "d6/db6/airspeed__fusion_8cpp.html", null ],
+    [ "AlphaFilter.hpp", "db/d85/_alpha_filter_8hpp.html", [
+      [ "AlphaFilter", "dc/d8f/class_alpha_filter.html", "dc/d8f/class_alpha_filter" ]
+    ] ],
     [ "common.h", "d5/d60/lib_2ecl_2_e_k_f_2common_8h.html", "d5/d60/lib_2ecl_2_e_k_f_2common_8h" ],
     [ "control.cpp", "d0/d92/control_8cpp.html", null ],
     [ "covariance.cpp", "d5/d38/covariance_8cpp.html", null ],
@@ -19,9 +21,12 @@ var dir_303783c36f10d27e903dca461e42714a =
       [ "_gps_pos_prev", "dc/d4a/struct_estimator_interface_1_1__gps__pos__prev.html", null ]
     ] ],
     [ "gps_checks.cpp", "d5/ddc/gps__checks_8cpp.html", "d5/ddc/gps__checks_8cpp" ],
+    [ "gps_yaw_fusion.cpp", "d3/de9/gps__yaw__fusion_8cpp.html", null ],
+    [ "mag_control.cpp", "d8/dbf/mag__control_8cpp.html", null ],
     [ "mag_fusion.cpp", "d7/d21/mag__fusion_8cpp.html", null ],
     [ "optflow_fusion.cpp", "d9/d01/optflow__fusion_8cpp.html", null ],
-    [ "RingBuffer.h", "d0/d17/_ring_buffer_8h.html", [
+    [ "range_finder_checks.cpp", "d5/d95/range__finder__checks_8cpp.html", null ],
+    [ "RingBuffer.h", "d6/d13/ecl_2_e_k_f_2ringbuffer_8h.html", [
       [ "RingBuffer", "d4/d8f/class_ring_buffer.html", "d4/d8f/class_ring_buffer" ]
     ] ],
     [ "sideslip_fusion.cpp", "d8/d93/sideslip__fusion_8cpp.html", null ],

@@ -1,0 +1,13 @@
+<map id="RGBLED_NPC5623C" name="RGBLED_NPC5623C">
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="416,1027,555,1236"/>
+<area shape="rect" id="node11" href="$d9/def/class_led_controller.html" title="class LedController Handles the led_control topic: blinking, priorities and state updates..." alt="" coords="237,1299,451,1537"/>
+<area shape="rect" id="node5" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="394,270,539,391"/>
+<area shape="rect" id="node6" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="557,579,696,964"/>
+<area shape="rect" id="node9" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="611,1085,829,1177"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="563,145,746,516"/>
+<area shape="rect" id="node8" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="583,5,726,83"/>
+<area shape="rect" id="node10" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="771,285,941,377"/>
+<area shape="rect" id="node12" href="$d9/dfe/struct_led_controller_1_1_per_led_data.html" title="{LedController::PerLedData\n|+ current_blinking_time\l|+ set()\l+ apply_next_state()\l}" alt="" coords="203,1085,379,1177"/>
+<area shape="rect" id="node13" href="$d8/d70/struct_led_controller_1_1_per_priority_data.html" title="{LedController::PerPriorityData\n|+ color\l+ mode\l+ blink_times_left\l|}" alt="" coords="14,718,210,825"/>
+<area shape="rect" id="node14" href="$db/db9/struct_led_controller_1_1_next_state.html" title="{LedController::NextState\n|+ color\l+ mode\l+ num_blinks\l+ priority\l|+ set()\l+ reset()\l+ is_valid()\l}" alt="" coords="234,696,401,847"/>
+</map>

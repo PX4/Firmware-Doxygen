@@ -1,35 +1,27 @@
 <map id="version_tag_to_number" name="version_tag_to_number">
-<area shape="rect" id="node2" href="$dd/d77/class_versioning_test.html#aeca504c27442e9ded77d40aefc0b01e9" title="VersioningTest::_test\l_tag_to_version_number" alt="" coords="211,5,375,47"/>
-<area shape="rect" id="node4" href="$df/dfc/version_8h.html#ac35bb2fd94f5d8b7b3bebeb1e54a2321" title="get the board HW revision " alt="" coords="423,71,581,98"/>
-<area shape="rect" id="node7" href="$df/dfc/version_8h.html#a3bf1bbb4ed59ea40e3ab9e82a8aff605" title="get the PX4 Firmware version " alt="" coords="218,122,367,149"/>
-<area shape="rect" id="node34" href="$df/dfc/version_8h.html#aec2016b0efbabe76a0381a21c439f97c" title="operating system version " alt="" coords="236,173,349,199"/>
+<area shape="rect" id="node2" href="$dd/d77/class_versioning_test.html#aeca504c27442e9ded77d40aefc0b01e9" title="VersioningTest::_test\l_tag_to_version_number" alt="" coords="211,19,375,60"/>
+<area shape="rect" id="node4" href="$df/dfc/version_8h.html#ac35bb2fd94f5d8b7b3bebeb1e54a2321" title="get the board HW revision " alt="" coords="423,122,581,149"/>
+<area shape="rect" id="node7" href="$df/dfc/version_8h.html#a3bf1bbb4ed59ea40e3ab9e82a8aff605" title="get the PX4 Firmware version " alt="" coords="218,161,367,187"/>
+<area shape="rect" id="node26" href="$df/dfc/version_8h.html#aec2016b0efbabe76a0381a21c439f97c" title="operating system version " alt="" coords="236,211,349,238"/>
 <area shape="rect" id="node3" href="$dd/d77/class_versioning_test.html#a8836b9458c8dc91be9d802a910fcce01" title="Override to run your unit tests. " alt="" coords="435,5,569,47"/>
-<area shape="rect" id="node5" href="$d4/d9b/ver_8c.html#a4b346a510f04a4e5463db2141bb46ce8" title="ver_main" alt="" coords="665,107,739,134"/>
-<area shape="rect" id="node6" href="$d4/d9b/ver_8c.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="873,107,931,134"/>
-<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ac0af196c7ee13d419fc7e43bb826e4a2" title="px4::logger::Logger\l::write_version" alt="" coords="435,224,569,265"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#a183dfdfc1fbde1b34127c76f4ff2c695" title="Send the capabilities of this autopilot in terms of the MAVLink spec. " alt="" coords="423,323,581,364"/>
-<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="635,159,769,200"/>
-<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="635,224,769,265"/>
-<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="823,162,981,189"/>
-<area shape="rect" id="node13" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="635,330,769,357"/>
-<area shape="rect" id="node30" href="$df/d1f/class_mavlink.html#a6829c4f2061c8b36c6c392b75e7ac986" title="Mavlink::get_mavlink\l_log_pub" alt="" coords="629,536,775,577"/>
-<area shape="rect" id="node31" href="$da/d89/class_mavlink_receiver.html#a72518d540ed247b6fcc0fb63592dd319" title="common method to handle both mavlink command types. " alt="" coords="1445,497,1624,539"/>
-<area shape="rect" id="node14" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="831,375,973,402"/>
-<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="1045,434,1146,461"/>
-<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#af06ea4dffa8d7b911690a99456a4814a" title="Mavlink::broadcast\l_enabled" alt="" coords="1029,368,1161,409"/>
-<area shape="rect" id="node16" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="mavlink app start / stop handling function " alt="" coords="1483,446,1586,473"/>
-<area shape="rect" id="node18" href="$df/d1f/class_mavlink.html#aacd190d885c0a9f521f0d7d0673f2b6f" title="Flush the transmit buffer and send one MAVLink packet. " alt="" coords="1227,322,1377,349"/>
-<area shape="rect" id="node26" href="$df/d1f/class_mavlink.html#afcac36b1b581d47b7181374d35edbd54" title="Set the boot complete flag on all instances. " alt="" coords="1209,379,1395,406"/>
-<area shape="rect" id="node19" href="$de/d24/mavlink__main_8cpp.html#a646c2f3486de3d8574422fc4ef1940a2" title="mavlink_end_uart_send" alt="" coords="1455,263,1614,290"/>
-<area shape="rect" id="node20" href="$df/d1f/class_mavlink.html#a3aa1fb0ca3f0d77b10a8954618a51abb" title="Get the manual input generation mode. " alt="" coords="1453,315,1616,356"/>
-<area shape="rect" id="node21" href="$da/d89/class_mavlink_receiver.html#af99bf01b6ae13dab05c36c0125e179bc" title="MavlinkReceiver::handle\l_message_manual_control" alt="" coords="1678,315,1855,356"/>
-<area shape="rect" id="node22" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="1916,445,2081,487"/>
-<area shape="rect" id="node23" href="$da/d89/class_mavlink_receiver.html#abf05ea2b60baafd446100f897f9274ab" title="Receive data from UART. " alt="" coords="2139,380,2308,421"/>
-<area shape="rect" id="node24" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="2356,323,2509,364"/>
-<area shape="rect" id="node25" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="2557,264,2727,305"/>
-<area shape="rect" id="node27" href="$df/d61/class_mavlink_parameters_manager.html#acd8734b77582ad7626f5230c1707e04c" title="send a single param if a PARAM_REQUEST_LIST is in progress " alt="" coords="1443,380,1627,421"/>
-<area shape="rect" id="node28" href="$df/d61/class_mavlink_parameters_manager.html#a3a6dff51ef5aba4f3dda19610510a45d" title="Handle any open param send transfer. " alt="" coords="1675,380,1859,421"/>
-<area shape="rect" id="node29" href="$df/d61/class_mavlink_parameters_manager.html#adbcd587c4ec1c0b94fe259047f8ec82e" title="Handle sending of messages. " alt="" coords="1907,380,2091,421"/>
-<area shape="rect" id="node32" href="$da/d89/class_mavlink_receiver.html#a5345e8389c1ac373ab61074c9b849e22" title="MavlinkReceiver::handle\l_message_command_long" alt="" coords="1678,511,1855,552"/>
-<area shape="rect" id="node33" href="$da/d89/class_mavlink_receiver.html#aa94397b70b0418675a2934b022de6df4" title="MavlinkReceiver::handle\l_message_command_int" alt="" coords="1683,445,1850,487"/>
+<area shape="rect" id="node5" href="$d4/d9b/ver_8c.html#a4b346a510f04a4e5463db2141bb46ce8" title="ver_main" alt="" coords="681,71,756,98"/>
+<area shape="rect" id="node6" href="$d4/d9b/ver_8c.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="917,59,975,86"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#adabb1202e3004811712411172155abb4" title="px4::logger::Logger\l::write_version" alt="" coords="435,224,569,265"/>
+<area shape="rect" id="node14" href="$df/d1f/class_mavlink.html#a183dfdfc1fbde1b34127c76f4ff2c695" title="Send the capabilities of this autopilot in terms of the MAVLink spec. " alt="" coords="423,293,581,335"/>
+<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="652,169,785,211"/>
+<area shape="rect" id="node12" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="652,235,785,276"/>
+<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="1087,177,1246,203"/>
+<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="878,111,1014,152"/>
+<area shape="rect" id="node13" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="856,227,1036,283"/>
+<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1915,410,2049,437"/>
+<area shape="rect" id="node19" href="$da/d89/class_mavlink_receiver.html#a72518d540ed247b6fcc0fb63592dd319" title="Common method to handle both mavlink command types. " alt="" coords="629,308,808,349"/>
+<area shape="rect" id="node16" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="2097,410,2240,437"/>
+<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="2288,410,2389,437"/>
+<area shape="rect" id="node18" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="Mavlink app start / stop handling function. " alt="" coords="2437,410,2540,437"/>
+<area shape="rect" id="node20" href="$da/d89/class_mavlink_receiver.html#a5345e8389c1ac373ab61074c9b849e22" title="MavlinkReceiver::handle\l_message_command_long" alt="" coords="857,373,1035,415"/>
+<area shape="rect" id="node25" href="$da/d89/class_mavlink_receiver.html#aa94397b70b0418675a2934b022de6df4" title="MavlinkReceiver::handle\l_message_command_int" alt="" coords="863,308,1029,349"/>
+<area shape="rect" id="node21" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="1084,373,1249,415"/>
+<area shape="rect" id="node22" href="$da/d89/class_mavlink_receiver.html#a2a2904ed386bbb6a4ff3528527006a58" title="Receive data from UART/UDP. " alt="" coords="1297,381,1448,407"/>
+<area shape="rect" id="node23" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1496,373,1649,415"/>
+<area shape="rect" id="node24" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1697,373,1867,415"/>
 </map>

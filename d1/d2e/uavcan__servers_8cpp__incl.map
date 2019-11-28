@@ -1,22 +1,18 @@
-<map id="src/modules/uavcan/uavcan_servers.cpp" name="src/modules/uavcan/uavcan_servers.cpp">
-<area shape="rect" id="node2" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="330,102,423,129"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="188,102,304,129"/>
-<area shape="rect" id="node16" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="644,102,752,129"/>
-<area shape="rect" id="node22" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="450,102,589,129"/>
-<area shape="rect" id="node23" href="$d9/dc3/lib_2mixer_2mixer_8h.html" title="lib/mixer/mixer.h" alt="" coords="1153,102,1272,129"/>
-<area shape="rect" id="node27" href="$df/dfc/version_8h.html" title="Tools for system version detection. " alt="" coords="1000,191,1121,218"/>
-<area shape="rect" id="node31" href="$d5/d80/uavcan__main_8hpp.html" title="Defines basic functinality of UAVCAN node. " alt="" coords="2211,102,2335,129"/>
-<area shape="rect" id="node41" href="$d3/dc1/uavcan__servers_8hpp.html" title="Defines basic functionality of UAVCAN node. " alt="" coords="2679,191,2818,218"/>
-<area shape="rect" id="node45" href="$d0/d9d/uavcan__virtual__can__driver_8hpp.html" title="uavcan_virtual_can\l_driver.hpp" alt="" coords="1469,281,1604,322"/>
-<area shape="rect" id="node46" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="3575,95,3717,136"/>
-<area shape="rect" id="node47" href="$db/d2e/vehicle__command__ack_8h.html" title="uORB/topics/vehicle\l_command_ack.h" alt="" coords="3741,95,3884,136"/>
-<area shape="rect" id="node48" href="$de/d60/uavcan__parameter__request_8h.html" title="uORB/topics/uavcan\l_parameter_request.h" alt="" coords="3908,95,4056,136"/>
-<area shape="rect" id="node49" href="$df/d84/uavcan__parameter__value_8h.html" title="uORB/topics/uavcan\l_parameter_value.h" alt="" coords="4080,95,4223,136"/>
-<area shape="rect" id="node7" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="5,191,92,218"/>
-<area shape="rect" id="node17" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="461,191,540,218"/>
-<area shape="rect" id="node24" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="1182,288,1278,315"/>
-<area shape="rect" id="node25" href="$d5/d7b/drv__mixer_8h.html" title="Mixer ioctl interfaces. " alt="" coords="842,191,975,218"/>
-<area shape="rect" id="node26" href="$d1/d63/mixer__load_8h.html" title="mixer_load.h" alt="" coords="1146,191,1242,218"/>
-<area shape="rect" id="node28" href="$de/d37/px4__macros_8h.html" title="A set of useful macros for enhanced runtime and compile time error detection and warning suppression..." alt="" coords="979,288,1143,315"/>
-<area shape="rect" id="node40" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="2173,288,2329,315"/>
+<map id="src/drivers/uavcan/uavcan_servers.cpp" name="src/drivers/uavcan/uavcan_servers.cpp">
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="438,303,554,329"/>
+<area shape="rect" id="node17" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="746,303,854,329"/>
+<area shape="rect" id="node22" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="80,199,219,225"/>
+<area shape="rect" id="node24" href="$df/dfc/version_8h.html" title="Tools for system version detection. " alt="" coords="271,199,393,225"/>
+<area shape="rect" id="node29" href="$d5/d80/uavcan__main_8hpp.html" title="Defines basic functinality of UAVCAN node. " alt="" coords="1735,102,1859,129"/>
+<area shape="rect" id="node33" href="$d3/dc1/uavcan__servers_8hpp.html" title="Defines basic functionality of UAVCAN node. " alt="" coords="2267,199,2405,225"/>
+<area shape="rect" id="node34" href="$db/d2e/vehicle__command__ack_8h.html" title="uORB/topics/vehicle\l_command_ack.h" alt="" coords="2098,295,2241,337"/>
+<area shape="rect" id="node40" href="$d0/d9d/uavcan__virtual__can__driver_8hpp.html" title="uavcan_virtual_can\l_driver.hpp" alt="" coords="2957,295,3091,337"/>
+<area shape="rect" id="node48" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="3798,95,3941,136"/>
+<area shape="rect" id="node49" href="$de/d60/uavcan__parameter__request_8h.html" title="uORB/topics/uavcan\l_parameter_request.h" alt="" coords="3965,95,4113,136"/>
+<area shape="rect" id="node26" href="$de/d37/px4__macros_8h.html" title="A set of useful macros for enhanced runtime and compile time error detection and warning suppression..." alt="" coords="250,303,414,329"/>
+<area shape="rect" id="node32" href="$df/d79/uavcan__driver_8hpp.html" title="uavcan_driver.hpp" alt="" coords="1767,303,1895,329"/>
+<area shape="rect" id="node41" href="$d5/d61/allocator_8hpp.html" title="allocator.hpp" alt="" coords="671,199,767,225"/>
+<area shape="rect" id="node43" href="$d9/df9/esc_8hpp.html" title="UAVCAN &lt;–&gt; ORB bridge for ESC messages: uavcan.equipment.esc.RawCommand uavcan.equipment.esc.RPMCommand uavcan.equipment.esc.Status. " alt="" coords="469,199,595,225"/>
+<area shape="rect" id="node44" href="$dd/d5b/hardpoint_8hpp.html" title="actuators/hardpoint.hpp" alt="" coords="1035,199,1194,225"/>
+<area shape="rect" id="node45" href="$d4/dd7/sensor__bridge_8hpp.html" title="sensors/sensor_bridge.hpp" alt="" coords="1219,199,1397,225"/>
 </map>

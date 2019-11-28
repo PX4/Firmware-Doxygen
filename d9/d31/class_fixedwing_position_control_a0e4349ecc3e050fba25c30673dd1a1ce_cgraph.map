@@ -1,6 +1,19 @@
 <map id="FixedwingPositionControl::do_takeoff_help" name="FixedwingPositionControl::do_takeoff_help">
-<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="290,5,329,32"/>
-<area shape="rect" id="node3" href="$d9/d31/class_fixedwing_position_control.html#a440b6480b4d4c85cf97d931ed4e4c113" title="Check if we are in a takeoff situation. " alt="" coords="224,57,395,98"/>
-<area shape="rect" id="node5" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="259,123,360,149"/>
-<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="443,64,564,91"/>
+<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="290,115,329,141"/>
+<area shape="rect" id="node5" href="$d9/d31/class_fixedwing_position_control.html#a440b6480b4d4c85cf97d931ed4e4c113" title="Check if we are in a takeoff situation. " alt="" coords="224,222,395,263"/>
+<area shape="rect" id="node18" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="259,288,360,315"/>
+<area shape="rect" id="node3" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="462,5,545,32"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="652,5,739,32"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="443,284,564,311"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="633,56,758,83"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="647,107,744,133"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="654,157,737,184"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="644,208,747,235"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="644,259,747,285"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="651,309,739,336"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="656,360,735,387"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="654,411,737,437"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="612,461,779,488"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="665,512,726,539"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="615,563,776,589"/>
 </map>

@@ -1,4 +1,7 @@
 <map id="Mission::set_closest_item_as_current" name="Mission::set_closest_item_as_current">
-<area shape="rect" id="node2" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="196,5,341,47"/>
-<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="389,42,493,69"/>
+<area shape="rect" id="node2" href="$db/dad/class_mission.html#a33116a4afecc113b67d233f14de287ff" title="Mission::get_landing_alt" alt="" coords="196,13,359,39"/>
+<area shape="rect" id="node6" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="225,63,329,90"/>
+<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#a8e3be5708b076504322f33b7ef49f8a6" title="Navigator::get_mission\l_landing_alt" alt="" coords="407,5,563,47"/>
+<area shape="rect" id="node4" href="$d8/d7e/class_r_t_l.html#afa1df82479ac4da9c9d4f3d14798de22" title="RTL::find_RTL_destination" alt="" coords="611,13,789,39"/>
+<area shape="rect" id="node5" href="$d8/d7e/class_r_t_l.html#a70662870a113a01441428953874548e2" title="This function is called while the mode is inactive. " alt="" coords="837,13,959,39"/>
 </map>

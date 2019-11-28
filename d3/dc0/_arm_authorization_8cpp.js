@@ -1,0 +1,28 @@
+var _arm_authorization_8cpp =
+[
+    [ "ARM_AUTH_IDLE", "d3/dc0/_arm_authorization_8cpp.html#ad63240694c6dc2a28c24bfc2db90ad7aaa5f7b835897316aad9695e3213b10319", null ],
+    [ "ARM_AUTH_WAITING_AUTH", "d3/dc0/_arm_authorization_8cpp.html#ad63240694c6dc2a28c24bfc2db90ad7aa42a7b37ee04682c4a5357f18566697c0", null ],
+    [ "ARM_AUTH_WAITING_AUTH_WITH_ACK", "d3/dc0/_arm_authorization_8cpp.html#ad63240694c6dc2a28c24bfc2db90ad7aa8fbace0509a15f26a1cdd512b50da6df", null ],
+    [ "ARM_AUTH_MISSION_APPROVED", "d3/dc0/_arm_authorization_8cpp.html#ad63240694c6dc2a28c24bfc2db90ad7aa9902b1a889a1b89e4d92b84d4e8134c6", null ],
+    [ "_auth_method_arm_req_check", "d3/dc0/_arm_authorization_8cpp.html#a7a0fca3f0eb9d65d9173525ef2454567", null ],
+    [ "_auth_method_two_arm_check", "d3/dc0/_arm_authorization_8cpp.html#ac89c73f479d089e2629283c00161ce3e", null ],
+    [ "arm_auth_check", "d3/dc0/_arm_authorization_8cpp.html#a4760c5a750686a3000fc8dbde4cc203d", null ],
+    [ "arm_auth_init", "d3/dc0/_arm_authorization_8cpp.html#a0a9c9025843ead7dbd98608fabd36d2a", null ],
+    [ "arm_auth_method_get", "d3/dc0/_arm_authorization_8cpp.html#abc82b4fdfbc526b9f4b06a5b921a3144", null ],
+    [ "arm_auth_request_msg_send", "d3/dc0/_arm_authorization_8cpp.html#a1f118b321455de2ded7edd143fc5676b", null ],
+    [ "arm_auth_update", "d3/dc0/_arm_authorization_8cpp.html#a036d498309eb1ec19b5293503a4e1e21", null ],
+    [ "arm_check_method", "d3/dc0/_arm_authorization_8cpp.html#acf907ba1082ae7d46b4257e460f42f4c", null ],
+    [ "arm_parameters", "d3/dc0/_arm_authorization_8cpp.html#a691f9d067712bba5f0146e8c7cd98f26", null ],
+    [ "auth_method_arm_timeout_msec", "d3/dc0/_arm_authorization_8cpp.html#ac3d769497ce6358cf0a19b5d03eddc0a", null ],
+    [ "auth_method_param", "d3/dc0/_arm_authorization_8cpp.html#ae54435f19e0af7c1963e8f912a9c1714", null ],
+    [ "auth_method_two_arm_timeout_msec", "d3/dc0/_arm_authorization_8cpp.html#a859ecdb6cae72716e2f9c60c8ecd0445", null ],
+    [ "auth_timeout", "d3/dc0/_arm_authorization_8cpp.html#af42b9253a1ec32efcfefe7f3091f7166", null ],
+    [ "authentication_method", "d3/dc0/_arm_authorization_8cpp.html#a4d0327e73b0906e6022e36c20103c37b", null ],
+    [ "authorizer_system_id", "d3/dc0/_arm_authorization_8cpp.html#a0a96e43228ccb011f889536f18fbb754", null ],
+    [ "command_ack_sub", "d3/dc0/_arm_authorization_8cpp.html#ac2083566ff9c66802aa6844482a1c75c", null ],
+    [ "mavlink_log_pub", "d3/dc0/_arm_authorization_8cpp.html#aba16e49488854395b931358429edca3f", null ],
+    [ "param_arm_parameters", "d3/dc0/_arm_authorization_8cpp.html#a7f7aaaf2c12e29c2e224bbe109fb52bc", null ],
+    [ "param_value", "d3/dc0/_arm_authorization_8cpp.html#aa576469564bf0849889401031803fc95", null ],
+    [ "state", "d3/dc0/_arm_authorization_8cpp.html#af06c723c3b5220b3ef9839275a0cf051", null ],
+    [ "system_id", "d3/dc0/_arm_authorization_8cpp.html#ad77fe301fea18a12c85353a807737e35", null ]
+];

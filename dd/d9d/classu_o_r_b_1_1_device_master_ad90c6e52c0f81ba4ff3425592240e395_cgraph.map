@@ -1,5 +1,12 @@
 <map id="uORB::DeviceMaster::printStatistics" name="uORB::DeviceMaster::printStatistics">
-<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="211,5,337,32"/>
-<area shape="rect" id="node3" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="207,56,341,83"/>
-<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="200,107,348,133"/>
+<area shape="rect" id="node2" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a0754ab2bcada030d12ac2e3bb309c3a0" title="uORB::DeviceMaster\l::addNewDeviceNodes" alt="" coords="207,57,364,98"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="223,123,348,149"/>
+<area shape="rect" id="node7" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="212,174,359,215"/>
+<area shape="rect" id="node8" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a4f8a7f487159aacf572cf049a8920f71" title="Print statistics (nr of lost messages) " alt="" coords="200,239,371,281"/>
+<area shape="rect" id="node11" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="212,305,359,346"/>
+<area shape="rect" id="node3" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a8de74e0e15d84cc83fb916c33fd87fba" title="uORB::DeviceNode::get_meta" alt="" coords="419,5,619,32"/>
+<area shape="rect" id="node4" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a3e579f965bfc823e4cb65ecdbbd22ffa" title="uORB::DeviceNode::lost\l_message_count" alt="" coords="436,57,603,98"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="419,122,620,163"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="457,221,581,248"/>
+<area shape="rect" id="node10" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="450,272,589,299"/>
 </map>

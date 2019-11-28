@@ -1,9 +1,6 @@
 <map id="build/doxygen/uORB/topics/system_power.h" name="build/doxygen/uORB/topics/system_power.h">
-<area shape="rect" id="node2" href="$db/dc7/ms4525__airspeed_8cpp.html" title="src/drivers/differential\l_pressure/ms4525/ms4525\l_airspeed.cpp" alt="" coords="5,95,184,151"/>
-<area shape="rect" id="node3" href="$de/d97/kinetis_2adc_2adc_8cpp.html" title="src/drivers/kinetis\l/adc/adc.cpp" alt="" coords="208,102,333,143"/>
-<area shape="rect" id="node4" href="$df/dc9/samv7_2adc_2adc_8cpp.html" title="src/drivers/samv7/adc\l/adc.cpp" alt="" coords="358,102,509,143"/>
-<area shape="rect" id="node5" href="$df/d49/stm32_2adc_2adc_8cpp.html" title="src/drivers/stm32/adc\l/adc.cpp" alt="" coords="533,102,681,143"/>
-<area shape="rect" id="node6" href="$da/d73/_commander_8cpp.html" title="src/modules/commander\l/Commander.cpp" alt="" coords="705,102,871,143"/>
-<area shape="rect" id="node7" href="$d7/d24/_preflight_check_8cpp.html" title="Preflight check for main system components. " alt="" coords="895,102,1060,143"/>
-<area shape="rect" id="node8" href="$db/d28/meas__airspeed__sim_8cpp.html" title="src/modules/simulator\l/airspeedsim/meas_airspeed\l_sim.cpp" alt="" coords="1085,95,1273,151"/>
+<area shape="rect" id="node2" href="$db/d33/adc_8cpp.html" title="Driver for an ADC. " alt="" coords="5,109,164,136"/>
+<area shape="rect" id="node3" href="$db/dc7/ms4525__airspeed_8cpp.html" title="src/drivers/differential\l_pressure/ms4525/ms4525\l_airspeed.cpp" alt="" coords="189,95,367,151"/>
+<area shape="rect" id="node4" href="$dd/d03/power_check_8cpp.html" title="src/modules/commander\l/Arming/PreFlightCheck\l/checks/powerCheck.cpp" alt="" coords="391,95,562,151"/>
+<area shape="rect" id="node5" href="$da/d73/_commander_8cpp.html" title="Main state machine / business logic. " alt="" coords="586,102,751,143"/>
 </map>

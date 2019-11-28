@@ -1,0 +1,51 @@
+<map id="Sih::inner_loop" name="Sih::inner_loop">
+<area shape="rect" id="node2" href="$d7/d28/class_sih.html#ab40c65f36595815641750ca76e13ab45" title="Sih::equations_of_motion" alt="" coords="170,148,339,175"/>
+<area shape="rect" id="node8" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="949,777,987,804"/>
+<area shape="rect" id="node11" href="$d7/d28/class_sih.html#ae6097f71336b7c203995dcbb6714885b" title="Sih::generate_force\l_and_torques" alt="" coords="187,897,322,938"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="905,1335,1031,1361"/>
+<area shape="rect" id="node13" href="$d7/d28/class_sih.html#ab3b113ad9dd4b96426709da3447052e1" title="Check for parameter changes and update them if needed. " alt="" coords="161,647,348,673"/>
+<area shape="rect" id="node23" href="$d7/d28/class_sih.html#a177102f443fd1dcbf870062b1ec5a3b4" title="Sih::publish_sih" alt="" coords="197,1056,312,1083"/>
+<area shape="rect" id="node28" href="$d7/d28/class_sih.html#a802c5c0dff576775d91222257a35be23" title="Sih::read_motors" alt="" coords="194,1208,315,1235"/>
+<area shape="rect" id="node32" href="$d7/d28/class_sih.html#a91008c2e2357a601852a3a0548780051" title="Sih::reconstruct_sensors\l_signals" alt="" coords="171,410,338,451"/>
+<area shape="rect" id="node37" href="$d7/d28/class_sih.html#aeae8ae0a634fc15b031e8c72784e2b88" title="Sih::send_gps" alt="" coords="202,980,307,1007"/>
+<area shape="rect" id="node39" href="$d7/d28/class_sih.html#a2a4e25760195cdd49239c8c0704ee18d" title="Sih::send_IMU" alt="" coords="200,1629,309,1656"/>
+<area shape="rect" id="node3" href="$d3/d87/classmatrix_1_1_vector3.html#a72befba7b19291263b9b02269cc37784" title="matrix::Vector3::cross" alt="" coords="427,5,577,32"/>
+<area shape="rect" id="node4" href="$d5/d0f/classmatrix_1_1_quaternion.html#a7aebc8a64025d3c5ac2accbf5a5e0de9" title="Computes the derivative of q_21 when rotated with angular velocity expressed in frame 1 v_2 = q_21 * ..." alt="" coords="437,57,567,98"/>
+<area shape="rect" id="node5" href="$d1/d71/classmatrix_1_1_vector.html#a365e3830426a4718bd625f6826319aaf" title="matrix::Vector::normalize" alt="" coords="418,123,586,149"/>
+<area shape="rect" id="node6" href="$dd/df8/classmatrix_1_1_matrix.html#aa9a39da3eafb7684a4f22038bc3f8414" title="matrix::Matrix::setZero" alt="" coords="425,173,579,200"/>
+<area shape="rect" id="node7" href="$d5/d0f/classmatrix_1_1_quaternion.html#a76dc887f1cf8812236b1dbf182858570" title="XXX DEPRECATED, can use assignment or ctor. " alt="" coords="437,225,567,266"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1079,777,1161,804"/>
+<area shape="rect" id="node10" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1209,777,1296,804"/>
+<area shape="rect" id="node14" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="433,545,571,586"/>
+<area shape="rect" id="node17" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="433,610,571,651"/>
+<area shape="rect" id="node19" href="$d7/d28/class_sih.html#ae941fad0194d423161e24f183fac765b" title="Sih::parameters_updated" alt="" coords="419,676,585,703"/>
+<area shape="rect" id="node15" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="687,509,826,550"/>
+<area shape="rect" id="node16" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="656,443,857,485"/>
+<area shape="rect" id="node18" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="669,575,844,601"/>
+<area shape="rect" id="node20" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="706,625,807,652"/>
+<area shape="rect" id="node21" href="$d0/de4/namespacematrix.html#afd883a2284d1422148487462d22762db" title="matrix::diag" alt="" coords="711,676,802,703"/>
+<area shape="rect" id="node22" href="$d0/de4/namespacematrix.html#adaef80ebe20e783994e72de048383bd3" title="inverse based on LU factorization with partial pivotting " alt="" coords="715,777,798,804"/>
+<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="458,1031,546,1057"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="452,1132,552,1159"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="685,1158,828,1199"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="685,1023,828,1065"/>
+<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="461,1183,543,1209"/>
+<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="465,1233,539,1260"/>
+<area shape="rect" id="node31" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="446,1284,558,1311"/>
+<area shape="rect" id="node33" href="$dd/df8/classmatrix_1_1_matrix.html#ac931fb47e8bf39b3c9865952e3842fea" title="matrix::Matrix::transpose" alt="" coords="419,443,585,469"/>
+<area shape="rect" id="node34" href="$d7/d28/class_sih.html#a39853317642fefc7af2e6d89db9ae42a" title="Sih::noiseGauss3f" alt="" coords="437,291,567,317"/>
+<area shape="rect" id="node35" href="$d7/d28/class_sih.html#add44b14105b0dca154eb990665e67691" title="Sih::generate_wgn" alt="" coords="691,341,822,368"/>
+<area shape="rect" id="node36" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="449,493,555,520"/>
+<area shape="rect" id="node38" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="453,929,551,956"/>
+<area shape="rect" id="node40" href="$d4/d1b/class_p_x4_gyroscope.html#a27d736cf0d7c8c3a16add049def9ad07" title="PX4Gyroscope::set_scale" alt="" coords="415,1705,589,1732"/>
+<area shape="rect" id="node41" href="$d4/d1b/class_p_x4_gyroscope.html#a6c904031bc9a43feabd1cec6ae0b3f3b" title="PX4Gyroscope::set_temperature" alt="" coords="396,1436,608,1463"/>
+<area shape="rect" id="node42" href="$d4/d1b/class_p_x4_gyroscope.html#a4e890722f5c54f832cfc5eca1aa1b216" title="PX4Gyroscope::update" alt="" coords="678,1385,835,1412"/>
+<area shape="rect" id="node43" href="$db/def/class_p_x4_accelerometer.html#a13af2eac41b4baaf5b0238e2b2a3891c" title="PX4Accelerometer::set\l_scale" alt="" coords="423,1757,581,1798"/>
+<area shape="rect" id="node44" href="$db/def/class_p_x4_accelerometer.html#aae188e31a6b5919ff82025f3c8600142" title="PX4Accelerometer::set\l_temperature" alt="" coords="423,1874,581,1915"/>
+<area shape="rect" id="node45" href="$db/def/class_p_x4_accelerometer.html#a98146e730c3d460ecae82545a1ba8fd4" title="PX4Accelerometer::update" alt="" coords="667,1852,846,1879"/>
+<area shape="rect" id="node46" href="$df/d71/class_p_x4_magnetometer.html#ad2f1706b978f073b10d14815e501134e" title="PX4Magnetometer::set\l_scale" alt="" coords="424,1939,580,1981"/>
+<area shape="rect" id="node47" href="$df/d71/class_p_x4_magnetometer.html#a7de4f34048ad6bebbb551eccaa1deb16" title="PX4Magnetometer::set\l_temperature" alt="" coords="424,1487,580,1529"/>
+<area shape="rect" id="node48" href="$df/d71/class_p_x4_magnetometer.html#a4c4f95cfec9c4b4b0515bfd8475f3f3a" title="PX4Magnetometer::update" alt="" coords="413,1553,591,1580"/>
+<area shape="rect" id="node49" href="$db/dc8/class_p_x4_barometer.html#a1d9a64015354387d2effd941a5f3c7b3" title="PX4Barometer::set_temperature" alt="" coords="397,1655,607,1681"/>
+<area shape="rect" id="node50" href="$db/dc8/class_p_x4_barometer.html#a28512b74ef68a64fc8dbef91ea54a23f" title="PX4Barometer::update" alt="" coords="679,1629,834,1656"/>
+</map>

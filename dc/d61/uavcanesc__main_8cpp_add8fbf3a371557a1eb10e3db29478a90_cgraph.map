@@ -1,47 +1,51 @@
 <map id="uavcanesc_main" name="uavcanesc_main">
-<area shape="rect" id="node2" href="$d9/dc3/class_uavcan_esc.html#ae21373eee9ecab48e7fbdd227114365b" title="UavcanEsc::instance" alt="" coords="173,5,320,32"/>
-<area shape="rect" id="node3" href="$d9/dc3/class_uavcan_esc.html#a03c656d2694ba2744b2317c9f57677fe" title="UavcanEsc::print_info" alt="" coords="1256,107,1407,133"/>
-<area shape="rect" id="node6" href="$dc/d61/uavcanesc__main_8cpp.html#a5abe0071a53c95b01791701e62cc1e07" title="print_usage" alt="" coords="202,843,291,869"/>
-<area shape="rect" id="node7" href="$dc/d61/uavcanesc__main_8cpp.html#a16adee96eeada417e1332a004828a996" title="uavcannode_start" alt="" coords="368,843,493,869"/>
-<area shape="rect" id="node4" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1465,120,1603,147"/>
-<area shape="rect" id="node5" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1457,196,1611,223"/>
-<area shape="rect" id="node8" href="$da/d60/boot__app__shared_8c.html#a780afb55be5626bb77d89a5b0cebb5e6" title="bootloader_app_shared_read" alt="" coords="541,843,729,869"/>
-<area shape="rect" id="node12" href="$da/d60/boot__app__shared_8c.html#a995c6541a81eeef466e1d1f1dfd44b02" title="bootloader_app_shared\l_invalidate" alt="" coords="557,894,713,935"/>
-<area shape="rect" id="node15" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="594,960,677,987"/>
-<area shape="rect" id="node16" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="592,1011,679,1037"/>
-<area shape="rect" id="node17" href="$d9/dc3/class_uavcan_esc.html#a90153d0ace69a255b9255a0851a43d73" title="UavcanEsc::start" alt="" coords="573,735,697,761"/>
-<area shape="rect" id="node9" href="$da/d60/boot__app__shared_8c.html#ae63185b9fe9f1ec2b23a0eab0c739ee3" title="calulate_signature" alt="" coords="1471,872,1597,899"/>
-<area shape="rect" id="node11" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="844,893,891,920"/>
-<area shape="rect" id="node10" href="$d8/d13/crc_8c.html#ad87f30b63f3d0517139326fb89eb82e6" title="crc64_add_word" alt="" coords="1659,872,1776,899"/>
-<area shape="rect" id="node13" href="$da/d60/boot__app__shared_8c.html#a6030249c2770231d7def811796b9975a" title="bootloader_app_shared_init" alt="" coords="777,944,957,971"/>
-<area shape="rect" id="node14" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="1509,981,1559,1008"/>
-<area shape="rect" id="node18" href="$d9/dc3/class_uavcan_esc.html#a266274046f9e0345d71b62b99a731203" title="UavcanEsc::UavcanEsc" alt="" coords="784,672,951,699"/>
-<area shape="rect" id="node20" href="$d9/dc3/class_uavcan_esc.html#aae43385913d0cbc5546d4b832780ad16" title="UavcanEsc::init" alt="" coords="810,735,925,761"/>
-<area shape="rect" id="node32" href="$d9/dc3/class_uavcan_esc.html#ac631eda8b8247e3210e721fd8bbc2be5" title="UavcanEsc::run" alt="" coords="809,340,925,367"/>
-<area shape="rect" id="node46" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="791,785,943,812"/>
-<area shape="rect" id="node19" href="$d6/dfb/stubs__posix_8c.html#a7454d249ed94ad5d5e57ba1529d7a7f2" title="pthread_mutex_init" alt="" coords="1039,665,1171,692"/>
-<area shape="rect" id="node21" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="1061,716,1149,743"/>
-<area shape="rect" id="node23" href="$d9/dc3/class_uavcan_esc.html#a786548f78897b7a9db129d73078764eb" title="UavcanEsc::fill_node_info" alt="" coords="1018,767,1193,793"/>
-<area shape="rect" id="node27" href="$d9/dc3/class_uavcan_esc.html#a796d005dcc6308f370cd604556c70f70" title="UavcanEsc::cb_beginfirmware\l_update" alt="" coords="1005,919,1205,961"/>
-<area shape="rect" id="node22" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="1269,675,1394,701"/>
-<area shape="rect" id="node24" href="$d2/d0b/version_8c.html#a2b61e6d6e2ce066f99957701e89840af" title="Firmware version as human readable string (git tag) " alt="" coords="1257,726,1406,767"/>
-<area shape="rect" id="node25" href="$d6/df6/board__common_8h.html#a42e6780351af1b68466a54e199244a51" title="board_get_mfguid" alt="" coords="1269,792,1394,819"/>
-<area shape="rect" id="node26" href="$dc/ddc/kinetis_2board__identity_8c.html#a4c8de8daee2516d5243e7a1a2787709d" title="board_get_uuid" alt="" coords="1479,792,1589,819"/>
-<area shape="rect" id="node28" href="$da/d60/boot__app__shared_8c.html#aba701c81c7bb5ddd1ea59f0160e85dcd" title="bootloader_app_shared\l_write" alt="" coords="1253,894,1409,935"/>
-<area shape="rect" id="node29" href="$d6/d53/modules_2uavcanesc_2led_8cpp.html#a52d3e3cf761c064681d082183516e904" title="rgb_led" alt="" coords="1299,960,1363,987"/>
-<area shape="rect" id="node30" href="$dc/d61/uavcanesc__main_8cpp.html#a36488eba6a200d2fdc3c0d91cd1cc293" title="cb_reboot" alt="" coords="1292,1061,1371,1088"/>
-<area shape="rect" id="node31" href="$da/d65/px4__tasks_8h.html#a582217d56f2542b506a770d840da3c5c" title="Reboots the board (without waiting for clean shutdown). " alt="" coords="1473,1061,1595,1088"/>
-<area shape="rect" id="node33" href="$d9/dc3/class_uavcan_esc.html#a6f450cb8e7ab2a99dae874d464f4157b" title="UavcanEsc::get_node" alt="" coords="1030,107,1181,133"/>
-<area shape="rect" id="node34" href="$d9/dc3/class_uavcan_esc.html#a16106186b092453a16b795a0ccbbcdbd" title="UavcanEsc::teardown" alt="" coords="1256,259,1407,285"/>
-<area shape="rect" id="node35" href="$d6/d4d/uavcanesc_2indication__controller_8cpp.html#af56aa90c1905a7c6533f02b1a0f0b7f1" title="init_indication_controller" alt="" coords="1025,315,1186,341"/>
-<area shape="rect" id="node36" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1036,365,1175,392"/>
-<area shape="rect" id="node40" href="$d9/dc3/class_uavcan_esc.html#a27194d0e1f19d6178d7abf6b8e0b52c3" title="add a fd to poll list, returning index into _poll_fds[] " alt="" coords="1023,416,1187,443"/>
-<area shape="rect" id="node41" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="1040,485,1171,512"/>
-<area shape="rect" id="node45" href="$d9/dc3/class_uavcan_esc.html#acae591e7fa2d9dfbfbe0f420a2e4385d" title="UavcanEsc::node_spin_once" alt="" coords="1009,536,1201,563"/>
-<area shape="rect" id="node37" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1264,309,1399,336"/>
-<area shape="rect" id="node38" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1262,361,1401,402"/>
-<area shape="rect" id="node39" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1257,427,1405,453"/>
-<area shape="rect" id="node42" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="1262,478,1401,519"/>
-<area shape="rect" id="node43" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="1266,543,1397,585"/>
-<area shape="rect" id="node44" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="1255,609,1408,650"/>
+<area shape="rect" id="node2" href="$d9/dc3/class_uavcan_esc.html#ae21373eee9ecab48e7fbdd227114365b" title="UavcanEsc::instance" alt="" coords="175,99,322,125"/>
+<area shape="rect" id="node3" href="$d9/dc3/class_uavcan_esc.html#a03c656d2694ba2744b2317c9f57677fe" title="UavcanEsc::print_info" alt="" coords="173,149,324,176"/>
+<area shape="rect" id="node4" href="$dc/d61/uavcanesc__main_8cpp.html#a5abe0071a53c95b01791701e62cc1e07" title="print_usage" alt="" coords="204,275,293,301"/>
+<area shape="rect" id="node5" href="$dc/d61/uavcanesc__main_8cpp.html#a16adee96eeada417e1332a004828a996" title="uavcannode_start" alt="" coords="372,212,497,239"/>
+<area shape="rect" id="node6" href="$da/d60/boot__app__shared_8c.html#a780afb55be5626bb77d89a5b0cebb5e6" title="bootloader_app_shared_read" alt="" coords="545,56,733,83"/>
+<area shape="rect" id="node10" href="$da/d60/boot__app__shared_8c.html#a995c6541a81eeef466e1d1f1dfd44b02" title="bootloader_app_shared\l_invalidate" alt="" coords="561,146,717,187"/>
+<area shape="rect" id="node13" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="598,487,681,513"/>
+<area shape="rect" id="node42" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="596,212,683,239"/>
+<area shape="rect" id="node44" href="$d9/dc3/class_uavcan_esc.html#a90153d0ace69a255b9255a0851a43d73" title="UavcanEsc::start" alt="" coords="577,1489,701,1516"/>
+<area shape="rect" id="node7" href="$da/d60/boot__app__shared_8c.html#ae63185b9fe9f1ec2b23a0eab0c739ee3" title="calulate_signature" alt="" coords="815,5,942,32"/>
+<area shape="rect" id="node9" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="855,56,902,83"/>
+<area shape="rect" id="node8" href="$d8/d13/crc_8c.html#ad87f30b63f3d0517139326fb89eb82e6" title="crc64_add_word" alt="" coords="1045,5,1163,32"/>
+<area shape="rect" id="node11" href="$da/d60/boot__app__shared_8c.html#a6030249c2770231d7def811796b9975a" title="bootloader_app_shared_init" alt="" coords="789,107,969,133"/>
+<area shape="rect" id="node12" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="853,157,904,184"/>
+<area shape="rect" id="node14" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="813,1313,945,1340"/>
+<area shape="rect" id="node15" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1063,259,1145,285"/>
+<area shape="rect" id="node17" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="807,1212,950,1239"/>
+<area shape="rect" id="node22" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="834,1263,923,1289"/>
+<area shape="rect" id="node23" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1068,309,1140,336"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="805,309,952,336"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1449,756,1565,783"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="813,723,945,749"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1260,731,1351,757"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1055,461,1153,488"/>
+<area shape="rect" id="node37" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1085,1136,1123,1163"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1243,309,1368,336"/>
+<area shape="rect" id="node18" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1232,1212,1379,1239"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1247,1339,1363,1365"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1033,1237,1175,1264"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1059,1339,1149,1365"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1635,756,1785,783"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1040,883,1168,909"/>
+<area shape="rect" id="node29" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1234,1035,1377,1061"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1427,1060,1587,1087"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1059,781,1149,808"/>
+<area shape="rect" id="node33" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="1045,933,1163,960"/>
+<area shape="rect" id="node34" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="1033,563,1175,589"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="1024,411,1184,437"/>
+<area shape="rect" id="node39" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="1036,664,1172,691"/>
+<area shape="rect" id="node40" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="1033,715,1175,757"/>
+<area shape="rect" id="node41" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1033,832,1175,859"/>
+<area shape="rect" id="node38" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1264,1136,1347,1163"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="811,208,946,235"/>
+<area shape="rect" id="node45" href="$dc/d56/classuavcan__stm32_1_1_can_init_helper.html#a07f61d36cee19a013ec72df88f59ec0b" title="This overload simply configures the provided bitrate. " alt="" coords="781,1365,976,1406"/>
+<area shape="rect" id="node46" href="$d9/dc3/class_uavcan_esc.html#a266274046f9e0345d71b62b99a731203" title="UavcanEsc::UavcanEsc" alt="" coords="795,1431,962,1457"/>
+<area shape="rect" id="node47" href="$d6/d30/classuavcan__stm32_1_1_system_clock.html#abf67042a30b52de038fed14bcb346e2b" title="Calls clock::init() as needed. " alt="" coords="781,1482,976,1523"/>
+<area shape="rect" id="node48" href="$d9/dc3/class_uavcan_esc.html#a044e1dbf84c0580b1df5052f9fc57114" title="UavcanEsc::init" alt="" coords="821,1548,936,1575"/>
+<area shape="rect" id="node49" href="$d4/d9d/classuavcan__stm32_1_1_can_driver.html#aa4d502b60a26b9a79a7e31102390962c" title="uavcan_stm32::CanDriver\l::updateEvent" alt="" coords="791,1599,966,1641"/>
+<area shape="rect" id="node50" href="$d9/dc3/class_uavcan_esc.html#ac631eda8b8247e3210e721fd8bbc2be5" title="UavcanEsc::run" alt="" coords="821,1665,937,1692"/>
 </map>

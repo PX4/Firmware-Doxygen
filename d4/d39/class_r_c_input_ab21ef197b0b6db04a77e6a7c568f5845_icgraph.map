@@ -1,8 +1,9 @@
 <map id="RCInput::set_rc_scan_state" name="RCInput::set_rc_scan_state">
-<area shape="rect" id="node2" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="379,13,489,39"/>
-<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#ae3c75056fd62f59236fe5f28dcf7ffd8" title="RCInput::fill_rc_in" alt="" coords="204,38,331,65"/>
-<area shape="rect" id="node3" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="537,13,715,39"/>
-<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="577,63,675,90"/>
-<area shape="rect" id="node4" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="763,13,912,39"/>
-<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="960,13,1147,39"/>
+<area shape="rect" id="node2" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="379,31,489,57"/>
+<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#ae3c75056fd62f59236fe5f28dcf7ffd8" title="RCInput::fill_rc_in" alt="" coords="204,56,331,83"/>
+<area shape="rect" id="node3" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="549,5,727,32"/>
+<area shape="rect" id="node4" href="$d4/d39/class_r_c_input.html#aa0f747b469407c03b13fa0b70876b328" title="RCInput::cycle_trampoline_init" alt="" coords="537,56,739,83"/>
+<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="589,107,687,133"/>
+<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="787,56,936,83"/>
+<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="984,56,1171,83"/>
 </map>

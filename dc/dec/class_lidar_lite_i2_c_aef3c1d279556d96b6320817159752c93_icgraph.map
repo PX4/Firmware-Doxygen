@@ -1,10 +1,5 @@
 <map id="LidarLiteI2C::reset_sensor" name="LidarLiteI2C::reset_sensor">
 <area shape="rect" id="node2" href="$dc/dec/class_lidar_lite_i2_c.html#aff0c3615e32f0b251e36cb76c64c4557" title="LidarLiteI2C::collect" alt="" coords="189,5,327,32"/>
-<area shape="rect" id="node7" href="$dc/dec/class_lidar_lite_i2_c.html#a3d16881e23a324ed38a35283bd9acc82" title="LidarLiteI2C::measure" alt="" coords="183,56,333,83"/>
-<area shape="rect" id="node9" href="$dc/dec/class_lidar_lite_i2_c.html#a06c908c6fe2e007e73ad05a6e4018ac5" title="LidarLiteI2C::probe" alt="" coords="192,107,324,133"/>
-<area shape="rect" id="node3" href="$dc/dec/class_lidar_lite_i2_c.html#a7b4c0603bc98fdd09ccc9a267feb0bc6" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="381,56,512,83"/>
-<area shape="rect" id="node6" href="$dc/dec/class_lidar_lite_i2_c.html#a1f9b81475d188624a5374d25c2c1f1b9" title="LidarLiteI2C::read" alt="" coords="384,5,509,32"/>
-<area shape="rect" id="node4" href="$dc/dec/class_lidar_lite_i2_c.html#ae2983f4f8b4fa813a683e583b40e5f89" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="560,49,691,90"/>
-<area shape="rect" id="node5" href="$dc/dec/class_lidar_lite_i2_c.html#a40b3442828fffb7f7484be66bcd4fe59" title="Initialise the automatic measurement state machine and start it. " alt="" coords="739,56,865,83"/>
-<area shape="rect" id="node8" href="$dc/dec/class_lidar_lite_i2_c.html#a30f027ae49609d2fe3d46eef3f1f59e2" title="LidarLiteI2C::init" alt="" coords="388,107,505,133"/>
+<area shape="rect" id="node4" href="$dc/dec/class_lidar_lite_i2_c.html#a3d16881e23a324ed38a35283bd9acc82" title="LidarLiteI2C::measure" alt="" coords="183,56,333,83"/>
+<area shape="rect" id="node3" href="$dc/dec/class_lidar_lite_i2_c.html#a5edcdf85501deae3eef0367b71140d85" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="381,31,505,57"/>
 </map>

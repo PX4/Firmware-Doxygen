@@ -1,12 +1,10 @@
 <map id="Battery::sumDischarged" name="Battery::sumDischarged">
-<area shape="rect" id="node2" href="$dc/df2/class_battery.html#aaf615839517b301b114ef7502ee95991" title="Get the full voltage per cell. " alt="" coords="482,5,598,47"/>
-<area shape="rect" id="node3" href="$dc/df2/class_battery.html#ae05f523641daf24845fbdf88ec921d3d" title="Update current battery status message. " alt="" coords="216,71,407,98"/>
-<area shape="rect" id="node4" href="$d3/d4d/class_syslink.html#a48dfb5defaa7034db4f1eb265a29690a" title="Syslink::handle_message" alt="" coords="455,71,625,98"/>
-<area shape="rect" id="node10" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="463,123,617,164"/>
-<area shape="rect" id="node11" href="$d4/d83/class_df_ltc2946_wrapper.html#aaabb2a34a98fbeb166871a08a046f8c3" title="DfLtc2946Wrapper::\l_publish" alt="" coords="471,188,609,229"/>
-<area shape="rect" id="node5" href="$d3/d4d/class_syslink.html#ad48197f365d94be31b2fbaaa5aaa1e08" title="Syslink::task_main" alt="" coords="673,71,807,98"/>
-<area shape="rect" id="node6" href="$d3/d4d/class_syslink.html#aa49712b0a9781bd745b08f0b2f564d5f" title="Syslink::task_main\l_trampoline" alt="" coords="855,64,988,105"/>
-<area shape="rect" id="node7" href="$d3/d4d/class_syslink.html#a6e982e6562a2a6ef0eaafc84482d4b96" title="Syslink::start" alt="" coords="1036,71,1135,98"/>
-<area shape="rect" id="node8" href="$dc/d18/namespacesyslink.html#a402103699f560ef0a647afbdec634347" title="Attempt to start driver on all available I2C busses. " alt="" coords="1183,71,1280,98"/>
-<area shape="rect" id="node9" href="$de/dbe/syslink__main_8cpp.html#ad94fd8d66995ec8573205ce6e3bc8f07" title="syslink_main" alt="" coords="1328,71,1427,98"/>
+<area shape="rect" id="node2" href="$dc/df2/class_battery.html#aaf615839517b301b114ef7502ee95991" title="Get the full voltage per cell. " alt="" coords="476,5,592,47"/>
+<area shape="rect" id="node3" href="$dc/df2/class_battery.html#ae05f523641daf24845fbdf88ec921d3d" title="Update current battery status message. " alt="" coords="216,111,407,138"/>
+<area shape="rect" id="node4" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="457,71,611,112"/>
+<area shape="rect" id="node5" href="$d4/d83/class_df_ltc2946_wrapper.html#aaabb2a34a98fbeb166871a08a046f8c3" title="DfLtc2946Wrapper::\l_publish" alt="" coords="465,136,603,177"/>
+<area shape="rect" id="node6" href="$d5/de1/class_v_o_x_l_p_m.html#ab15a13cfb85e57338a9220cfd6c60249" title="VOXLPM::measure" alt="" coords="467,202,601,229"/>
+<area shape="rect" id="node8" href="$de/dc2/class_battery_status.html#a669b3686139ffbb7ca409ef7a6d2319b" title="Poll the ADC and update readings to suit. " alt="" coords="455,253,613,279"/>
+<area shape="rect" id="node7" href="$d5/de1/class_v_o_x_l_p_m.html#ab3a426fcdb0980116cd07041a9f84414" title="VOXLPM::Run" alt="" coords="674,202,783,229"/>
+<area shape="rect" id="node9" href="$de/dc2/class_battery_status.html#a8f9de0611cdd19c1bab753644e37b325" title="BatteryStatus::Run" alt="" coords="661,253,796,279"/>
 </map>

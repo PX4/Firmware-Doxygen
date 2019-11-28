@@ -1,18 +1,33 @@
 <map id="FixedwingPositionControl::vehicle_control_mode_poll" name="FixedwingPositionControl::vehicle_control_mode_poll">
-<area shape="rect" id="node2" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="236,73,319,100"/>
-<area shape="rect" id="node14" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="240,124,315,151"/>
-<area shape="rect" id="node3" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="384,91,527,133"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="384,26,527,67"/>
-<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="592,89,735,130"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="787,56,913,83"/>
-<area shape="rect" id="node6" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="965,81,1100,108"/>
-<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="981,31,1085,57"/>
-<area shape="rect" id="node8" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1155,107,1294,133"/>
-<area shape="rect" id="node9" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1148,44,1301,71"/>
-<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="626,33,701,60"/>
-<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="995,132,1070,159"/>
-<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="783,5,917,32"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="367,157,544,184"/>
-<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="626,157,701,184"/>
-<area shape="rect" id="node17" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="783,208,917,235"/>
+<area shape="rect" id="node2" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="252,339,391,380"/>
+<area shape="rect" id="node21" href="$d9/d31/class_fixedwing_position_control.html#a1ecc7c32eca03e0536d89d8089dd3afd" title="FixedwingPositionControl\l::reset_landing_state" alt="" coords="236,248,407,289"/>
+<area shape="rect" id="node29" href="$d9/d31/class_fixedwing_position_control.html#a2cc82301dc1a499162c1ed9571745107" title="FixedwingPositionControl\l::reset_takeoff_state" alt="" coords="236,553,407,595"/>
+<area shape="rect" id="node32" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="252,404,391,445"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="492,371,631,412"/>
+<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="474,283,649,310"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="734,371,873,412"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="725,436,881,477"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="734,305,873,347"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="951,319,1089,360"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1429,367,1571,408"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1649,272,1792,313"/>
+<area shape="rect" id="node10" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1177,301,1323,343"/>
+<area shape="rect" id="node13" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abb03278ff4ddd2a50e0f2996e856f2cc" title="Add the subscriber to the node&#39;s list of subscriber. " alt="" coords="1167,429,1333,471"/>
+<area shape="rect" id="node17" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1149,495,1351,536"/>
+<area shape="rect" id="node18" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a7877236ac1912c32c2ab6ae06899392d" title="uORB::DeviceNode::get\l_queue_size" alt="" coords="1168,119,1332,160"/>
+<area shape="rect" id="node11" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="1427,301,1573,343"/>
+<area shape="rect" id="node12" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="1427,236,1573,277"/>
+<area shape="rect" id="node14" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="1438,498,1562,525"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="1431,549,1569,575"/>
+<area shape="rect" id="node16" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a2fdcab300f1c9ccf8c43858493ca9358" title="Interface to notify the remote entity of a topic being unadvertised and is no longer publishing messa..." alt="" coords="1399,432,1601,473"/>
+<area shape="rect" id="node20" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="716,240,891,281"/>
+<area shape="rect" id="node22" href="$d9/d31/class_fixedwing_position_control.html#a46baeee07f801e2e83c0972050cdca65" title="FixedwingPositionControl\l::abort_landing" alt="" coords="476,196,647,237"/>
+<area shape="rect" id="node23" href="$d9/d31/class_fixedwing_position_control.html#aa61e3f2cd93486424394305a23416fab" title="FixedwingPositionControl\l::landing_status_publish" alt="" coords="718,149,889,191"/>
+<area shape="rect" id="node24" href="$d1/d36/class_landingslope.html#ac91d88c92d86cebd74b6ebfa8cfea576" title="Landingslope::flare\l_length" alt="" coords="955,136,1085,177"/>
+<area shape="rect" id="node25" href="$d1/d36/class_landingslope.html#a70cc1db8969ac60a6c7a202c16ad52f4" title="Landingslope::horizontal\l_slope_displacement" alt="" coords="939,201,1101,243"/>
+<area shape="rect" id="node26" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="957,267,1083,294"/>
+<area shape="rect" id="node27" href="$d1/d36/class_landingslope.html#afe2a20650d29d59aaaf2b2eb8c629fe8" title="Landingslope::landing\l_slope_angle_rad" alt="" coords="947,5,1093,47"/>
+<area shape="rect" id="node28" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="951,71,1089,112"/>
+<area shape="rect" id="node30" href="$d0/d89/classlaunchdetection_1_1_launch_detector.html#a681eb5921ef67a5b6ba4eae7cc876fff" title="launchdetection::LaunchDetector\l::reset" alt="" coords="455,553,668,595"/>
+<area shape="rect" id="node31" href="$db/d40/classrunwaytakeoff_1_1_runway_takeoff.html#a5189a4c32911a82d24f2567b1c76638b" title="runwaytakeoff::RunwayTakeoff\l::reset" alt="" coords="459,619,663,660"/>
 </map>

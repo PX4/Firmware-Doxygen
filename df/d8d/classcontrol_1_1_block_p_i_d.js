@@ -1,7 +1,7 @@
 var classcontrol_1_1_block_p_i_d =
 [
     [ "BlockPID", "df/d8d/classcontrol_1_1_block_p_i_d.html#a0ea89a2c8b486ddb65c54490825cb1ca", null ],
-    [ "~BlockPID", "df/d8d/classcontrol_1_1_block_p_i_d.html#a3e158633b45d845de65cd2442b9f5150", null ],
+    [ "~BlockPID", "df/d8d/classcontrol_1_1_block_p_i_d.html#a3923fbe118dece004009dbe2fb8a548f", null ],
     [ "getDerivative", "df/d8d/classcontrol_1_1_block_p_i_d.html#a9cf87645afc3202234ff4b0ae80991dc", null ],
     [ "getIntegral", "df/d8d/classcontrol_1_1_block_p_i_d.html#a8f706dbecb64537eeb9ac3c4b2fd885b", null ],
     [ "getKD", "df/d8d/classcontrol_1_1_block_p_i_d.html#a5e9fecb6ed114476de1cfbf1fcdc261d", null ],

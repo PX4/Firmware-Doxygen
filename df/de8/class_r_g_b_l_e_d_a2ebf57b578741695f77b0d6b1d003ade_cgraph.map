@@ -1,0 +1,51 @@
+<map id="RGBLED::Run" name="RGBLED::Run">
+<area shape="rect" id="node2" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="425,208,564,249"/>
+<area shape="rect" id="node11" href="$d9/def/class_led_controller.html#a8821e2feee0bc9b6a7a5fae5aa18f55d" title="get maxium time between two consecutive calls to update() in us. " alt="" coords="172,739,336,780"/>
+<area shape="rect" id="node12" href="$df/de8/class_r_g_b_l_e_d.html#afc2b5517ff20c67393a4160f142f9b8c" title="Sent ENABLE flag to LED driver. " alt="" coords="163,805,345,831"/>
+<area shape="rect" id="node13" href="$df/de8/class_r_g_b_l_e_d.html#a2ea44ef71dd2946ceff141f7d90e210d" title="Send RGB PWM settings to LED driver according to current color and brightness. " alt="" coords="173,687,335,714"/>
+<area shape="rect" id="node17" href="$d9/def/class_led_controller.html#a653ecf725ac29f859bbb0aeea4561f9d" title="Update and retrieve the Led state. " alt="" coords="181,505,327,531"/>
+<area shape="rect" id="node24" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="425,285,564,327"/>
+<area shape="rect" id="node25" href="$df/de8/class_r_g_b_l_e_d.html#aa8d22c88c145fbbc5e226589fffe33ec" title="RGBLED::update_params" alt="" coords="167,637,341,663"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="662,201,801,243"/>
+<area shape="rect" id="node9" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="644,82,819,109"/>
+<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="885,71,1023,112"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="876,136,1032,177"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="885,201,1023,243"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1093,201,1232,243"/>
+<area shape="rect" id="node8" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1284,231,1485,272"/>
+<area shape="rect" id="node10" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="867,5,1041,47"/>
+<area shape="rect" id="node14" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="935,1347,973,1374"/>
+<area shape="rect" id="node15" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1121,1347,1204,1374"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1341,1347,1428,1374"/>
+<area shape="rect" id="node18" href="$d9/dfe/struct_led_controller_1_1_per_led_data.html#ad36db976e71b3060051ff4cce671e1ff" title="LedController::PerLedData\l::apply_next_state" alt="" coords="407,607,583,648"/>
+<area shape="rect" id="node19" href="$d9/def/class_led_controller.html#afdc877fe761a00c1778a319ed74ceed4" title="set control_data based on current Led states " alt="" coords="432,373,557,415"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1100,1221,1225,1247"/>
+<area shape="rect" id="node21" href="$db/db9/struct_led_controller_1_1_next_state.html#aa038e1cbda9f15f1672d943de63cc099" title="LedController::NextState\l::reset" alt="" coords="411,439,578,480"/>
+<area shape="rect" id="node22" href="$db/db9/struct_led_controller_1_1_next_state.html#a97ad80f3c76c1d540e228e80e90f9b92" title="LedController::NextState::set" alt="" coords="399,505,591,531"/>
+<area shape="rect" id="node23" href="$d9/dfe/struct_led_controller_1_1_per_led_data.html#a90d2771e8d714470f8dc05562b63e763" title="LedController::PerLedData::set" alt="" coords="393,555,596,582"/>
+<area shape="rect" id="node26" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="453,718,536,745"/>
+<area shape="rect" id="node49" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="451,1221,538,1247"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1327,723,1443,750"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="660,470,803,497"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="665,774,797,801"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="905,622,1003,649"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="665,951,797,978"/>
+<area shape="rect" id="node42" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1117,723,1208,750"/>
+<area shape="rect" id="node45" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="913,1297,995,1323"/>
+<area shape="rect" id="node46" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="918,1246,990,1273"/>
+<area shape="rect" id="node47" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="687,369,776,395"/>
+<area shape="rect" id="node48" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="658,723,805,750"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1533,723,1684,750"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1105,369,1221,395"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1089,495,1236,522"/>
+<area shape="rect" id="node32" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="883,470,1025,497"/>
+<area shape="rect" id="node33" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="909,369,999,395"/>
+<area shape="rect" id="node37" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="874,1145,1034,1171"/>
+<area shape="rect" id="node38" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="895,1027,1013,1054"/>
+<area shape="rect" id="node39" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1305,926,1465,953"/>
+<area shape="rect" id="node40" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1091,875,1234,902"/>
+<area shape="rect" id="node41" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="883,774,1025,801"/>
+<area shape="rect" id="node43" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="883,1079,1025,1120"/>
+<area shape="rect" id="node44" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="890,926,1018,953"/>
+<area shape="rect" id="node50" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="664,1246,799,1273"/>
+</map>

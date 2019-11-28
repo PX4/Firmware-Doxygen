@@ -1,0 +1,26 @@
+<map id="HMC5883::calibrate" name="HMC5883::calibrate">
+<area shape="rect" id="node2" href="$d5/dad/class_h_m_c5883.html#a6d98d26b5ebb191f2947f313199018d5" title="Check the current scale calibration. " alt="" coords="192,89,355,115"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="859,51,897,78"/>
+<area shape="rect" id="node6" href="$d5/dad/class_h_m_c5883.html#a3c5540b877b825b7d2cb1969e0131e7f" title="Perform an ioctl operation on the device. " alt="" coords="217,203,330,230"/>
+<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="236,381,311,407"/>
+<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="238,330,309,357"/>
+<area shape="rect" id="node24" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="236,431,311,458"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1019,51,1101,78"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1171,51,1257,78"/>
+<area shape="rect" id="node7" href="$d5/dad/class_h_m_c5883.html#a950b9f8dcc129a3c2fe31898ca4e2dae" title="Initialise the automatic measurement state machine and start it. " alt="" coords="408,178,523,205"/>
+<area shape="rect" id="node8" href="$d5/dad/class_h_m_c5883.html#a25f18bd1680efc7366da137cbbede0bb" title="Reset the device. " alt="" coords="406,77,525,103"/>
+<area shape="rect" id="node9" href="$d5/dad/class_h_m_c5883.html#a5e852f65f43978d9d0f24ffa664645db" title="Set the sensor range. " alt="" coords="594,127,741,154"/>
+<area shape="rect" id="node14" href="$d5/dad/class_h_m_c5883.html#a72f96fab429f29a8660ddaac5f97cc83" title="Perform the on&#45;sensor scale calibration routine. " alt="" coords="578,245,757,271"/>
+<area shape="rect" id="node15" href="$d5/dad/class_h_m_c5883.html#a9f6a2b974feee741d57b82542dd5c376" title="enable hmc5983 temperature compensation " alt="" coords="576,179,759,220"/>
+<area shape="rect" id="node10" href="$d5/dad/class_h_m_c5883.html#aadf85bdd284aaadc929fcac0e08c2fb3" title="Write a register. " alt="" coords="807,135,949,162"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="837,186,919,213"/>
+<area shape="rect" id="node13" href="$d5/dad/class_h_m_c5883.html#a9d5489645f22162a84da1229c5ff0c6d" title="Read a register. " alt="" coords="809,237,947,263"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="997,186,1123,213"/>
+<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="428,431,503,458"/>
+<area shape="rect" id="node18" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="403,381,527,407"/>
+<area shape="rect" id="node20" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="405,330,525,357"/>
+<area shape="rect" id="node21" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="589,296,745,337"/>
+<area shape="rect" id="node22" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="589,362,745,389"/>
+<area shape="rect" id="node23" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="596,413,739,455"/>
+<area shape="rect" id="node25" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="403,482,528,509"/>
+</map>

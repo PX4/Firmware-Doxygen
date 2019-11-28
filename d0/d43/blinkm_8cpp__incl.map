@@ -1,28 +1,28 @@
-<map id="src/drivers/blinkm/blinkm.cpp" name="src/drivers/blinkm/blinkm.cpp">
-<area shape="rect" id="node3" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="1275,408,1371,435"/>
-<area shape="rect" id="node14" href="$d8/dc7/px4__workqueue_8h.html" title="px4_workqueue.h" alt="" coords="977,102,1101,129"/>
-<area shape="rect" id="node15" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="299,483,429,509"/>
-<area shape="rect" id="node21" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="213,102,321,129"/>
-<area shape="rect" id="node24" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="1177,102,1311,129"/>
-<area shape="rect" id="node40" href="$db/d46/drv__blinkm_8h.html" title="BlinkM driver API. " alt="" coords="504,483,643,509"/>
-<area shape="rect" id="node41" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1819,184,1928,211"/>
-<area shape="rect" id="node42" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="2281,95,2423,136"/>
-<area shape="rect" id="node43" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="1387,95,1528,136"/>
-<area shape="rect" id="node44" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="1551,95,1694,136"/>
-<area shape="rect" id="node45" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="1718,95,1866,136"/>
-<area shape="rect" id="node46" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="1890,95,2033,136"/>
-<area shape="rect" id="node47" href="$d9/da0/safety_8h.html" title="uORB/topics/safety.h" alt="" coords="2057,102,2205,129"/>
-<area shape="rect" id="node16" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="430,557,533,584"/>
-<area shape="rect" id="node17" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="275,632,354,659"/>
-<area shape="rect" id="node25" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="1177,184,1279,211"/>
-<area shape="rect" id="node26" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="1180,259,1273,285"/>
-<area shape="rect" id="node39" href="$dd/d8a/px4__i2c_8h.html" title="Includes device headers depending on the build target. " alt="" coords="1298,259,1377,285"/>
-<area shape="rect" id="node27" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="971,333,1059,360"/>
-<area shape="rect" id="node28" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="887,408,979,435"/>
-<area shape="rect" id="node37" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="1329,333,1493,360"/>
-<area shape="rect" id="node32" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="1061,408,1200,435"/>
-<area shape="rect" id="node29" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="1604,483,1697,509"/>
-<area shape="rect" id="node30" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="971,483,1058,509"/>
-<area shape="rect" id="node34" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="1082,483,1179,509"/>
-<area shape="rect" id="node35" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1255,483,1359,509"/>
+<map id="src/drivers/lights/blinkm/blinkm.cpp" name="src/drivers/lights/blinkm/blinkm.cpp">
+<area shape="rect" id="node5" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="439,109,574,136"/>
+<area shape="rect" id="node23" href="$db/d46/drv__blinkm_8h.html" title="BlinkM driver API. " alt="" coords="339,556,477,583"/>
+<area shape="rect" id="node25" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="1134,206,1293,233"/>
+<area shape="rect" id="node45" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="1369,199,1517,240"/>
+<area shape="rect" id="node46" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="1541,199,1683,240"/>
+<area shape="rect" id="node47" href="$d9/da0/safety_8h.html" title="uORB/topics/safety.h" alt="" coords="1707,206,1855,233"/>
+<area shape="rect" id="node48" href="$d5/d30/vehicle__control__mode_8h.html" title="uORB/topics/vehicle\l_control_mode.h" alt="" coords="1821,288,1963,329"/>
+<area shape="rect" id="node49" href="$d3/d5a/vehicle__gps__position_8h.html" title="uORB/topics/vehicle\l_gps_position.h" alt="" coords="1931,102,2074,143"/>
+<area shape="rect" id="node50" href="$d4/da5/vehicle__status_8h.html" title="uORB/topics/vehicle\l_status.h" alt="" coords="1257,102,1399,143"/>
+<area shape="rect" id="node6" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="375,206,478,233"/>
+<area shape="rect" id="node7" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="../CDev.hpp" alt="" coords="429,295,523,322"/>
+<area shape="rect" id="node8" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="432,385,520,411"/>
+<area shape="rect" id="node18" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="595,385,725,411"/>
+<area shape="rect" id="node11" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="464,474,603,501"/>
+<area shape="rect" id="node14" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="553,556,650,583"/>
+<area shape="rect" id="node16" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="675,556,779,583"/>
+<area shape="rect" id="node19" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="907,474,1071,501"/>
+<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1651,556,1760,583"/>
+<area shape="rect" id="node28" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="uORBDeviceNode.hpp" alt="" coords="1011,295,1165,322"/>
+<area shape="rect" id="node41" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="uORBManager.hpp" alt="" coords="1215,295,1348,322"/>
+<area shape="rect" id="node44" href="$d9/d38/u_o_r_b_utils_8hpp.html" title="uORBUtils.hpp" alt="" coords="1401,295,1511,322"/>
+<area shape="rect" id="node29" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="1405,474,1541,501"/>
+<area shape="rect" id="node38" href="$d5/d10/u_o_r_b_device_master_8hpp.html" title="uORBDeviceMaster.hpp" alt="" coords="979,385,1143,411"/>
+<area shape="rect" id="node39" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="1249,474,1381,501"/>
+<area shape="rect" id="node30" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1518,556,1626,583"/>
+<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1335,556,1451,583"/>
 </map>

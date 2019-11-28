@@ -1,0 +1,51 @@
+<map id="FixedwingAttitudeControl::Run" name="FixedwingAttitudeControl::Run">
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="751,793,863,820"/>
+<area shape="rect" id="node3" href="$da/dac/class_e_c_l___yaw_controller.html#a59dc7c7b2b1981225e61de9aaf5a7848" title="ECL_YawController::\lcontrol_attitude" alt="" coords="281,276,427,318"/>
+<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="756,234,857,261"/>
+<area shape="rect" id="node7" href="$d5/d82/class_e_c_l___wheel_controller.html#ad355d2cb8303384e97376c6dc52c3a50" title="ECL_WheelController\l::control_attitude" alt="" coords="280,342,428,383"/>
+<area shape="rect" id="node8" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="787,597,826,624"/>
+<area shape="rect" id="node10" href="$d7/d35/class_e_c_l___pitch_controller.html#a5dc1c6cdf30327f38ea5e83665d64809" title="ECL_PitchController\l::control_attitude" alt="" coords="283,407,425,448"/>
+<area shape="rect" id="node11" href="$da/dac/class_e_c_l___yaw_controller.html#afaf9906e4a4682d4c01b0b3264f94105" title="ECL_YawController::\lcontrol_bodyrate" alt="" coords="523,655,669,696"/>
+<area shape="rect" id="node12" href="$d5/d82/class_e_c_l___wheel_controller.html#aacd7e5a6f9c1f7fe2f0776436a6dcbd6" title="ECL_WheelController\l::control_bodyrate" alt="" coords="522,590,670,631"/>
+<area shape="rect" id="node13" href="$d7/d35/class_e_c_l___pitch_controller.html#a964fe99420ac1915c29376932414c072" title="ECL_PitchController\l::control_bodyrate" alt="" coords="525,720,667,762"/>
+<area shape="rect" id="node14" href="$da/dac/class_e_c_l___yaw_controller.html#aed874a2d2a0ddbe03244d9b09dd2c80e" title="ECL_YawController::\lcontrol_euler_rate" alt="" coords="281,727,427,768"/>
+<area shape="rect" id="node15" href="$da/d99/class_e_c_l___controller.html#aebfbcb3b4e6111f7f8c30e83f78a5078" title="ECL_Controller::set\l_bodyrate_setpoint" alt="" coords="527,786,665,827"/>
+<area shape="rect" id="node16" href="$d7/d35/class_e_c_l___pitch_controller.html#afb101cd267875485eec4ca4a22f2a0f8" title="ECL_PitchController\l::control_euler_rate" alt="" coords="283,844,425,886"/>
+<area shape="rect" id="node17" href="$d7/d35/class_e_c_l___pitch_controller.html#ab9e43ee1004f4b8c485be78b986ea0b5" title="ECL_PitchController\l::set_bodyrate_setpoint" alt="" coords="517,851,675,892"/>
+<area shape="rect" id="node18" href="$d3/d25/class_fixedwing_attitude_control.html#a09117b440067e4978f1ec850bb8dc500" title="FixedwingAttitudeControl\l::control_flaps" alt="" coords="512,524,680,566"/>
+<area shape="rect" id="node19" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="737,2395,876,2436"/>
+<area shape="rect" id="node20" href="$d3/d25/class_fixedwing_attitude_control.html#a9f3a9ce891d253f1d417f6ea30c225a2" title="FixedwingAttitudeControl\l::get_airspeed_and_update\l_scaling" alt="" coords="265,961,443,1017"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="535,1092,657,1118"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="744,1398,869,1425"/>
+<area shape="rect" id="node23" href="$da/d99/class_e_c_l___controller.html#acc9e4d172d4f483313afcd57f97348c2" title="ECL_Controller::get\l_desired_bodyrate" alt="" coords="285,1143,423,1184"/>
+<area shape="rect" id="node24" href="$da/d99/class_e_c_l___controller.html#a3e161bd3312cfd1371fea59405353548" title="ECL_Controller::get\l_desired_rate" alt="" coords="285,1208,423,1250"/>
+<area shape="rect" id="node25" href="$da/d99/class_e_c_l___controller.html#a2a722438e871466f011ea8ceb9d33232" title="ECL_Controller::get\l_integrator" alt="" coords="285,1274,423,1315"/>
+<area shape="rect" id="node26" href="$dd/d47/namespacemath.html#a3b552335be63703c6dbe05879f63cf3b" title="math::gradual" alt="" coords="303,1340,405,1366"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="546,1449,646,1476"/>
+<area shape="rect" id="node28" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="552,1702,640,1729"/>
+<area shape="rect" id="node29" href="$d3/d25/class_fixedwing_attitude_control.html#a0d94ef6aa988cbf9ca6b5ac57afb0b1d" title="Update our local parameter cache. " alt="" coords="270,154,438,195"/>
+<area shape="rect" id="node30" href="$da/d99/class_e_c_l___controller.html#aff2d45d83c17688aed42d7f7cf881cf9" title="ECL_Controller::set\l_max_rate" alt="" coords="527,95,665,136"/>
+<area shape="rect" id="node31" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="555,1398,637,1425"/>
+<area shape="rect" id="node32" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="560,1753,632,1780"/>
+<area shape="rect" id="node33" href="$d5/dcc/classmatrix_1_1_euler.html#a02ac02872c4d9453c012e28c328dd48d" title="matrix::Euler::phi" alt="" coords="293,1710,415,1737"/>
+<area shape="rect" id="node34" href="$d5/dcc/classmatrix_1_1_euler.html#a304f83fd76dde0ee87aede8506a60746" title="matrix::Euler::psi" alt="" coords="293,1761,415,1788"/>
+<area shape="rect" id="node35" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="527,1804,665,1846"/>
+<area shape="rect" id="node36" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="275,1863,433,1904"/>
+<area shape="rect" id="node37" href="$da/d99/class_e_c_l___controller.html#a6b7cf7b50187d38644dc06a355fc6b19" title="ECL_Controller::reset\l_integrator" alt="" coords="280,1928,428,1970"/>
+<area shape="rect" id="node38" href="$d7/d35/class_e_c_l___pitch_controller.html#a7c2f54d281540527d03151e2a42aa9b0" title="ECL_PitchController\l::set_max_rate_neg" alt="" coords="283,1994,425,2035"/>
+<area shape="rect" id="node39" href="$d7/d35/class_e_c_l___pitch_controller.html#aecd2b8f1b4a4aff816aed8b70b22ea16" title="ECL_PitchController\l::set_max_rate_pos" alt="" coords="283,2059,425,2100"/>
+<area shape="rect" id="node40" href="$d5/dcc/classmatrix_1_1_euler.html#a2fe75bec2af37a95ceaec18f0039e79b" title="matrix::Euler::theta" alt="" coords="287,2125,421,2152"/>
+<area shape="rect" id="node41" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a42885c3adf9615ae6516728e295c589b" title="uORB::SubscriptionCallback\l::unregisterCallback" alt="" coords="259,2176,449,2218"/>
+<area shape="rect" id="node42" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#ac9198cc23c666df10af2a8fb3f809508" title="Copy the struct if updated. " alt="" coords="263,2242,445,2283"/>
+<area shape="rect" id="node43" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="527,2490,665,2531"/>
+<area shape="rect" id="node44" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="737,2606,876,2647"/>
+<area shape="rect" id="node45" href="$d3/d25/class_fixedwing_attitude_control.html#af8120db2814ea742590ccbfefa62d75b" title="FixedwingAttitudeControl\l::vehicle_attitude_setpoint_poll" alt="" coords="253,2359,455,2400"/>
+<area shape="rect" id="node46" href="$d3/d25/class_fixedwing_attitude_control.html#ae380129e5970d05eb4b954fa5f85de77" title="FixedwingAttitudeControl\l::vehicle_control_mode_poll" alt="" coords="263,2424,445,2466"/>
+<area shape="rect" id="node47" href="$d3/d25/class_fixedwing_attitude_control.html#acd36f67d7ea5b1af22d3c65931f2237c" title="FixedwingAttitudeControl\l::vehicle_land_detected_poll" alt="" coords="503,2606,689,2647"/>
+<area shape="rect" id="node48" href="$d3/d25/class_fixedwing_attitude_control.html#a600eb9e39647390a573171217ee8f6f1" title="FixedwingAttitudeControl\l::vehicle_manual_poll" alt="" coords="270,1543,438,1584"/>
+<area shape="rect" id="node49" href="$d3/d25/class_fixedwing_attitude_control.html#ad873f4b2589fbc51ea9926238b4455fd" title="FixedwingAttitudeControl\l::vehicle_rates_setpoint_poll" alt="" coords="261,2490,447,2531"/>
+<area shape="rect" id="node50" href="$d3/d25/class_fixedwing_attitude_control.html#a6690701cf78c068dc42242a9fb05a87e" title="FixedwingAttitudeControl\l::vehicle_status_poll" alt="" coords="270,2555,438,2596"/>
+<area shape="rect" id="node4" href="$da/dac/class_e_c_l___yaw_controller.html#a29373ee62ee64acbbbe4ba7b06627020" title="ECL_YawController::\lcontrol_attitude_impl\l_accclosedloop" alt="" coords="523,212,669,268"/>
+<area shape="rect" id="node5" href="$da/dac/class_e_c_l___yaw_controller.html#a69fda3b7d8c503b99c0616e1ebe20d33" title="ECL_YawController::\lcontrol_attitude_impl\l_openloop" alt="" coords="523,292,669,348"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="541,372,651,398"/>
+</map>

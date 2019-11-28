@@ -1,51 +1,51 @@
 <map id="DfLtc2946Wrapper::_publish" name="DfLtc2946Wrapper::_publish">
-<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="225,647,350,674"/>
-<area shape="rect" id="node3" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="485,51,560,78"/>
-<area shape="rect" id="node11" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="227,749,347,775"/>
-<area shape="rect" id="node39" href="$dc/df2/class_battery.html#ae05f523641daf24845fbdf88ec921d3d" title="Update current battery status message. " alt="" coords="192,1522,383,1549"/>
-<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="910,691,1053,732"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="663,51,840,78"/>
-<area shape="rect" id="node5" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1123,880,1265,921"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1313,887,1440,914"/>
-<area shape="rect" id="node8" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="944,51,1019,78"/>
-<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1157,77,1231,103"/>
-<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1127,26,1261,53"/>
-<area shape="rect" id="node12" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="455,1161,590,1187"/>
-<area shape="rect" id="node17" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="481,571,564,598"/>
-<area shape="rect" id="node19" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="485,102,560,129"/>
-<area shape="rect" id="node20" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="710,993,793,1019"/>
-<area shape="rect" id="node22" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="465,454,580,481"/>
-<area shape="rect" id="node24" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="463,673,582,699"/>
-<area shape="rect" id="node26" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="479,825,566,851"/>
-<area shape="rect" id="node28" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="707,1278,795,1305"/>
-<area shape="rect" id="node29" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="465,219,580,246"/>
-<area shape="rect" id="node31" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="488,749,557,775"/>
-<area shape="rect" id="node33" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="471,1110,574,1137"/>
-<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="453,942,592,969"/>
-<area shape="rect" id="node37" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="464,337,581,363"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="680,1329,823,1371"/>
-<area shape="rect" id="node14" href="$da/d65/px4__tasks_8h.html#af6c11880a3864f43327eb465a930abc2" title="return the name of the current task " alt="" coords="915,1337,1047,1363"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="888,1135,1075,1162"/>
-<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="910,1271,1053,1312"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="680,505,823,547"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="910,871,1053,912"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="680,388,823,429"/>
-<area shape="rect" id="node25" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="710,673,793,699"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="680,876,823,917"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="680,153,823,195"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="666,774,837,801"/>
-<area shape="rect" id="node34" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="680,1212,823,1253"/>
-<area shape="rect" id="node36" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="680,1044,823,1085"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="680,271,823,312"/>
-<area shape="rect" id="node40" href="$dc/df2/class_battery.html#a86cc6b86a8d8c303cedec5b0d92c41e8" title="Battery::computeScale" alt="" coords="445,1750,600,1777"/>
-<area shape="rect" id="node41" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="732,1674,771,1701"/>
-<area shape="rect" id="node42" href="$dc/df2/class_battery.html#a82b5818fadc040214d7be5624ece7890" title="Battery::determineWarning" alt="" coords="434,1345,611,1371"/>
-<area shape="rect" id="node43" href="$dc/df2/class_battery.html#a34d7f6fbe91611d2112349bd27aa3596" title="Battery::estimateRemaining" alt="" coords="431,1395,615,1422"/>
-<area shape="rect" id="node46" href="$dc/df2/class_battery.html#ad334d2a70bc89095799e002869cb493c" title="Battery::filterCurrent" alt="" coords="453,1446,593,1473"/>
-<area shape="rect" id="node47" href="$dc/df2/class_battery.html#a73fa526cd780caa17ad6946a44d9885a" title="Battery::filterThrottle" alt="" coords="452,1497,593,1523"/>
-<area shape="rect" id="node48" href="$dc/df2/class_battery.html#a4c855e8edc749168d53c5bab75c30d18" title="Battery::filterVoltage" alt="" coords="452,1547,593,1574"/>
-<area shape="rect" id="node49" href="$dc/df2/class_battery.html#a6ed4b0c9880d58358bf3d768c24e6354" title="Reset all battery stats and report invalid/nothing. " alt="" coords="472,1598,573,1625"/>
-<area shape="rect" id="node50" href="$dc/df2/class_battery.html#a12790d1c9689e244db13f36407c5750f" title="Battery::sumDischarged" alt="" coords="441,1699,604,1726"/>
-<area shape="rect" id="node44" href="$dd/d47/namespacemath.html#a3b552335be63703c6dbe05879f63cf3b" title="math::gradual" alt="" coords="701,1446,802,1473"/>
-<area shape="rect" id="node45" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="709,1395,793,1422"/>
+<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="225,382,350,409"/>
+<area shape="rect" id="node3" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="697,999,771,1026"/>
+<area shape="rect" id="node10" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="227,433,347,459"/>
+<area shape="rect" id="node38" href="$dc/df2/class_battery.html#ae05f523641daf24845fbdf88ec921d3d" title="Update current battery status message. " alt="" coords="192,965,383,991"/>
+<area shape="rect" id="node4" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="875,384,1018,425"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="858,949,1035,975"/>
+<area shape="rect" id="node5" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1088,384,1231,425"/>
+<area shape="rect" id="node7" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1122,699,1197,726"/>
+<area shape="rect" id="node8" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1304,579,1379,606"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="1279,699,1404,726"/>
+<area shape="rect" id="node11" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="455,433,590,459"/>
+<area shape="rect" id="node16" href="$db/dd6/u_o_r_b_8h.html#a07321835961fc4716cef539db2fde628" title="orb_check" alt="" coords="693,230,775,257"/>
+<area shape="rect" id="node18" href="$db/dd6/u_o_r_b_8h.html#a030a9593ab6f22453bfd6f96783833db" title="orb_copy" alt="" coords="697,949,771,975"/>
+<area shape="rect" id="node19" href="$db/dd6/u_o_r_b_8h.html#a6680e65205e6f009984d8a84d3a6ca29" title="orb_exists" alt="" coords="693,281,775,307"/>
+<area shape="rect" id="node21" href="$db/dd6/u_o_r_b_8h.html#aa71feb460b66039dd4c1a51060e1ab6f" title="orb_get_interval" alt="" coords="677,27,791,54"/>
+<area shape="rect" id="node23" href="$db/dd6/u_o_r_b_8h.html#ab4036414496f0acdecee053de9fc2677" title="Get the number of published instances of a topic group. " alt="" coords="463,382,582,409"/>
+<area shape="rect" id="node25" href="$db/dd6/u_o_r_b_8h.html#ac63318cfad9d466ec2fef7cd3471e705" title="orb_priority" alt="" coords="691,78,777,105"/>
+<area shape="rect" id="node27" href="$db/dd6/u_o_r_b_8h.html#aa44cd93a90796ff013e700e88fd5eb85" title="orb_publish" alt="" coords="690,534,778,561"/>
+<area shape="rect" id="node28" href="$db/dd6/u_o_r_b_8h.html#ac3d9d5f8ee24c8f3f0cbff00496cc91f" title="orb_set_interval" alt="" coords="677,129,791,155"/>
+<area shape="rect" id="node30" href="$db/dd6/u_o_r_b_8h.html#aef585f71e378a0a754c768d94f270565" title="orb_stat" alt="" coords="699,179,769,206"/>
+<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html#a55455bcada0f796a3194a66cc4eda6c8" title="orb_subscribe" alt="" coords="471,483,574,510"/>
+<area shape="rect" id="node34" href="$db/dd6/u_o_r_b_8h.html#ab5e0205ef72514d53655f4e783d2431f" title="orb_subscribe_multi" alt="" coords="453,585,592,611"/>
+<area shape="rect" id="node36" href="$db/dd6/u_o_r_b_8h.html#a66a07a94cbd09e9858fedb65ac6794ff" title="orb_unsubscribe" alt="" coords="464,635,581,662"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="663,687,805,728"/>
+<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="853,739,1040,766"/>
+<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1122,231,1197,258"/>
+<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="875,552,1018,593"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="875,253,1018,295"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="875,319,1018,360"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="875,5,1018,47"/>
+<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="693,331,775,358"/>
+<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="875,71,1018,112"/>
+<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="875,136,1018,177"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="861,202,1032,229"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="663,752,805,793"/>
+<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="663,817,805,859"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="663,883,805,924"/>
+<area shape="rect" id="node39" href="$dc/df2/class_battery.html#a86cc6b86a8d8c303cedec5b0d92c41e8" title="Battery::computeScale" alt="" coords="445,1041,600,1067"/>
+<area shape="rect" id="node40" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="715,1103,753,1130"/>
+<area shape="rect" id="node42" href="$dc/df2/class_battery.html#a82b5818fadc040214d7be5624ece7890" title="Battery::determineWarning" alt="" coords="434,787,611,814"/>
+<area shape="rect" id="node43" href="$dc/df2/class_battery.html#a34d7f6fbe91611d2112349bd27aa3596" title="Battery::estimateRemaining" alt="" coords="431,1193,615,1219"/>
+<area shape="rect" id="node46" href="$dc/df2/class_battery.html#ad334d2a70bc89095799e002869cb493c" title="Battery::filterCurrent" alt="" coords="453,838,593,865"/>
+<area shape="rect" id="node47" href="$dc/df2/class_battery.html#a73fa526cd780caa17ad6946a44d9885a" title="Battery::filterThrottle" alt="" coords="452,889,593,915"/>
+<area shape="rect" id="node48" href="$dc/df2/class_battery.html#a4c855e8edc749168d53c5bab75c30d18" title="Battery::filterVoltage" alt="" coords="452,939,593,966"/>
+<area shape="rect" id="node49" href="$dc/df2/class_battery.html#a6ed4b0c9880d58358bf3d768c24e6354" title="Reset all battery stats and report invalid/nothing. " alt="" coords="472,990,573,1017"/>
+<area shape="rect" id="node50" href="$dc/df2/class_battery.html#a12790d1c9689e244db13f36407c5750f" title="Battery::sumDischarged" alt="" coords="441,1091,604,1118"/>
+<area shape="rect" id="node41" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="905,1103,988,1130"/>
+<area shape="rect" id="node44" href="$dd/d47/namespacemath.html#a3b552335be63703c6dbe05879f63cf3b" title="math::gradual" alt="" coords="683,1179,785,1206"/>
+<area shape="rect" id="node45" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="692,1230,776,1257"/>
 </map>

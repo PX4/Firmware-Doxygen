@@ -1,23 +1,21 @@
 <map id="Mavlink::update_rate_mult" name="Mavlink::update_rate_mult">
-<area shape="rect" id="node2" href="$d1/df2/class_mavlink_stream.html#aa00cbc49b71d724045ac6da83c66c80f" title="MavlinkStream::const_rate" alt="" coords="674,69,853,95"/>
-<area shape="rect" id="node4" href="$dd/dcb/class_mavlink_u_log.html#ab5a17138fdb8967bd36342fea210771f" title="MavlinkULog::current\l_data_rate" alt="" coords="240,188,387,229"/>
-<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="294,254,333,281"/>
-<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#a4a705b15447cef4001c85a9b60de2f0d" title="Mavlink::get_flow_control\l_enabled" alt="" coords="228,305,399,347"/>
-<area shape="rect" id="node7" href="$d1/df2/class_mavlink_stream.html#a3f00bff476cba7a35bf8fd1e4a07a211" title="Get the interval. " alt="" coords="246,123,381,164"/>
-<area shape="rect" id="node21" href="$df/d1f/class_mavlink.html#ac7e6401c33a6cfb7222da5211e57c66e" title="Get the receive status of this MAVLink link. " alt="" coords="236,371,391,398"/>
-<area shape="rect" id="node22" href="$d1/df2/class_mavlink_stream.html#a306473fbadf74cfa298e8df56a4b17b8" title="Get the average message size. " alt="" coords="467,5,601,47"/>
-<area shape="rect" id="node3" href="$d1/df2/class_mavlink_stream.html#a23d06f17eff1931144643c31a0a3da98" title="Get maximal total messages size on update. " alt="" coords="905,43,1072,70"/>
-<area shape="rect" id="node8" href="$d1/df2/class_mavlink_stream.html#ac861aa2bd187c1856606d25c2b33df95" title="Update subscriptions and send message if necessary. " alt="" coords="456,223,612,250"/>
-<area shape="rect" id="node19" href="$d1/df2/class_mavlink_stream.html#a75d050c5a923090ea9ec902f40b6eefe" title="MavlinkStream::get_name" alt="" coords="447,122,621,149"/>
-<area shape="rect" id="node20" href="$d1/df2/class_mavlink_stream.html#a534f79fa465e183d9a541e181732ae5a" title="MavlinkStream::get_id" alt="" coords="458,173,610,199"/>
-<area shape="rect" id="node9" href="$d1/df2/class_mavlink_stream.html#abafe90590f10c8160169d0bfaf2486cb" title="Function to collect/update data for the streams at a high rate independant of actual stream rate..." alt="" coords="669,237,857,263"/>
-<area shape="rect" id="node10" href="$d1/df2/class_mavlink_stream.html#a0af635adceca3e4bbfac5dc91070946e" title="MavlinkStream::send" alt="" coords="691,287,836,314"/>
-<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="701,338,826,365"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#a77f4c47c8ed0a9148932fd0a3a65c167" title="Mavlink::get_rate_mult" alt="" coords="686,119,841,146"/>
-<area shape="rect" id="node13" href="$df/d1f/class_mavlink.html#af44bc86938a6f14962231c7e16582222" title="Mavlink::get_main_loop\l_delay" alt="" coords="684,171,843,212"/>
-<area shape="rect" id="node14" href="$df/d1f/class_mavlink.html#af1b0ab44faaf26afe3c974e8438ab47f" title="close the Mavlink shell if it is open " alt="" coords="919,203,1059,230"/>
-<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#ab0cacfa66680d7b28ae3a9eb774b8819" title="get the Mavlink shell. " alt="" coords="925,153,1052,179"/>
-<area shape="rect" id="node16" href="$d1/dbf/class_mavlink_shell.html#a2a27fc2462e7b2e9fa227dcf6d493955" title="Start the mavlink shell. " alt="" coords="1120,153,1251,179"/>
-<area shape="rect" id="node17" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="1299,123,1451,150"/>
-<area shape="rect" id="node18" href="$d1/dbf/class_mavlink_shell.html#ad12b833de772b01102a5b1f707d7c847" title="MavlinkShell::shell\l_start_thread" alt="" coords="1309,175,1440,216"/>
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="257,49,369,76"/>
+<area shape="rect" id="node3" href="$dd/dcb/class_mavlink_u_log.html#a70eefad9c98ed7071576f680b4ee36b2" title="MavlinkULog::current\l_data_rate" alt="" coords="240,101,387,142"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="294,167,333,193"/>
+<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#a4a705b15447cef4001c85a9b60de2f0d" title="Mavlink::get_flow_control\l_enabled" alt="" coords="228,218,399,259"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="253,284,374,311"/>
+<area shape="rect" id="node20" href="$df/d1f/class_mavlink.html#a6b297b0985b81978c73d82e413d7b256" title="Mavlink::set_telemetry\l_status_type" alt="" coords="236,335,391,377"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="489,5,571,32"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="661,5,748,32"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="467,56,593,83"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="481,107,579,133"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="489,157,571,184"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="479,208,581,235"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="479,259,581,285"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="486,309,574,336"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="491,360,569,387"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="489,411,571,437"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="447,461,613,488"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="499,512,561,539"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="449,563,611,589"/>
 </map>

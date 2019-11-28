@@ -1,0 +1,12 @@
+<map id="BMP388" name="BMP388">
+<area shape="rect" id="node3" href="$db/dc8/class_p_x4_barometer.html" title="{PX4Barometer\n|&#45; _class_device_instance\l|+ PX4Barometer()\l+ ~PX4Barometer()\l+ set_device_type()\l+ set_error_count()\l+ set_temperature()\l+ update()\l+ print_status()\l}" alt="" coords="169,843,339,1009"/>
+<area shape="rect" id="node4" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="37,403,220,773"/>
+<area shape="rect" id="node5" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="57,226,200,303"/>
+<area shape="rect" id="node6" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html" title="{uORB::PublicationMultiData\l\&lt; sensor_baro_s \&gt;\n||+ PublicationMultiData()\l+ ~PublicationMultiData()\l+ get()\l+ set()\l+ update()\l+ update()\l}" alt="" coords="245,505,431,671"/>
+<area shape="rect" id="node7" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html" title="{uORB::PublicationMulti\l\&lt; sensor_baro_s \&gt;\n|# _handle\l# _priority\l|+ PublicationMulti()\l+ ~PublicationMulti()\l+ publish()\l}" alt="" coords="241,197,400,333"/>
+<area shape="rect" id="node8" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="248,5,393,127"/>
+<area shape="rect" id="node9" href="$d8/dfe/structsensor__baro__s.html" title="{sensor_baro_s\n|+ timestamp\l+ error_count\l+ device_id\l+ pressure\l+ temperature\l+ _padding0\l|}" alt="" coords="425,189,531,340"/>
+<area shape="rect" id="node10" href="$d9/dc1/class_i_b_m_p388.html" title="{IBMP388\n||+ ~IBMP388()\l+ init()\l+ get_reg()\l+ get_reg_buf()\l+ set_reg()\l+ get_data()\l+ get_calibration()\l+ get_device_id()\l}" alt="" coords="363,836,489,1016"/>
+<area shape="rect" id="node11" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="514,873,626,979"/>
+<area shape="rect" id="node12" href="$d0/df2/structcalibration__s.html" title="{calibration_s\n|+ par_t1\l+ par_t2\l+ par_t3\l+ par_p1\l+ par_p2\l+ par_p3\land 8 more...\l|}" alt="" coords="650,843,749,1009"/>
+</map>

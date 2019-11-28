@@ -1,7 +1,7 @@
 var classcontrol_1_1_block_integral_trap =
 [
     [ "BlockIntegralTrap", "db/df5/classcontrol_1_1_block_integral_trap.html#a41ed98575aa3c5e4dfbdca4ca7bec36a", null ],
-    [ "~BlockIntegralTrap", "db/df5/classcontrol_1_1_block_integral_trap.html#afc392b7f9b03f8e140be51310f3a35e7", null ],
+    [ "~BlockIntegralTrap", "db/df5/classcontrol_1_1_block_integral_trap.html#a0fa869a72169e1d4e6b299d637054f08", null ],
     [ "getMax", "db/df5/classcontrol_1_1_block_integral_trap.html#a61b253f4d5329ab75b7d05a32957fde8", null ],
     [ "getU", "db/df5/classcontrol_1_1_block_integral_trap.html#a1ff2cc7c15533b0bfaa73db1be212284", null ],
     [ "getY", "db/df5/classcontrol_1_1_block_integral_trap.html#ad81839104f8a60ecd9fd7686269d8e6b", null ],

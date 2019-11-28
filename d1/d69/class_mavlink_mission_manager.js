@@ -1,7 +1,7 @@
 var class_mavlink_mission_manager =
 [
     [ "MavlinkMissionManager", "d1/d69/class_mavlink_mission_manager.html#a2f58b27e3ec0b76a1846a2b63a7b2bdd", null ],
-    [ "~MavlinkMissionManager", "d1/d69/class_mavlink_mission_manager.html#abc306929b0cf58bb6484d47cb2d3601a", null ],
+    [ "~MavlinkMissionManager", "d1/d69/class_mavlink_mission_manager.html#a2fb91090d4d1861860c40eb90f3cf37f", null ],
     [ "MavlinkMissionManager", "d1/d69/class_mavlink_mission_manager.html#a39b0c15934faf63ce47fc941a7ab256a", null ],
     [ "check_active_mission", "d1/d69/class_mavlink_mission_manager.html#ab5fc476d60791d2738cd207619a7f52e", null ],
     [ "current_item_count", "d1/d69/class_mavlink_mission_manager.html#ace485a5195b65fc39ca8bc9cdbbacc23", null ],
@@ -45,11 +45,11 @@ var class_mavlink_mission_manager =
     [ "_int_mode", "d1/d69/class_mavlink_mission_manager.html#ad7804b4a5c543472a59e1420c025ba44", null ],
     [ "_last_reached", "d1/d69/class_mavlink_mission_manager.html#a743f3b62c512f1089a20f35cb92806b6", null ],
     [ "_mavlink", "d1/d69/class_mavlink_mission_manager.html#a6cd61be5af6f2f17fde8c3f6b45ec753", null ],
-    [ "_mission_result_sub", "d1/d69/class_mavlink_mission_manager.html#a619d598c0fba8e7777bbb151016c31c5", null ],
+    [ "_mission_result_sub", "d1/d69/class_mavlink_mission_manager.html#a1335d783918fca65a0ca0c30df5be984", null ],
     [ "_my_dataman_id", "d1/d69/class_mavlink_mission_manager.html#aacede0e7c7b43b56bc1e36e4e1fc8eff", null ],
-    [ "_offboard_mission_pub", "d1/d69/class_mavlink_mission_manager.html#a5382d826d1fe87b08a797c7a19ff38ab", null ],
-    [ "_offboard_mission_sub", "d1/d69/class_mavlink_mission_manager.html#a80587bc0b6f21c5ac5b3b224e7ae4514", null ],
+    [ "_offboard_mission_pub", "d1/d69/class_mavlink_mission_manager.html#a0c735d6b903f3e075d481434729ad5f2", null ],
     [ "_reached_sent_count", "d1/d69/class_mavlink_mission_manager.html#ac71e5c7dc35091f02aaccbd4a1369207", null ],
+    [ "_safepoint_update_counter", "d1/d69/class_mavlink_mission_manager.html#aae2122ade7268dfca0258b3550c2e4b5", null ],
     [ "_slow_rate_limiter", "d1/d69/class_mavlink_mission_manager.html#ac072dfd91bcc225be7acb25c349337e4", null ],
     [ "_time_last_recv", "d1/d69/class_mavlink_mission_manager.html#a744d3e03faa8ddb8fe2834d5b7ec00e7", null ],
     [ "_time_last_sent", "d1/d69/class_mavlink_mission_manager.html#a474e526c3c5fec1f0c5622386dafd343", null ],

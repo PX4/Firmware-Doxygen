@@ -1,8 +1,15 @@
 <map id="UavcanCDevSensorBridgeBase::publish" name="UavcanCDevSensorBridgeBase::publish">
-<area shape="rect" id="node2" href="$df/d71/class_uavcan_barometer_bridge.html#ad4a54749157291cb13d33fc7747794d5" title="UavcanBarometerBridge\l::air_pressure_sub_cb" alt="" coords="274,24,438,66"/>
-<area shape="rect" id="node5" href="$d2/d84/class_uavcan_magnetometer_bridge.html#ae7742c4ca8efed71edd53772c0f587df" title="UavcanMagnetometerBridge\l::mag_sub_cb" alt="" coords="263,90,449,131"/>
-<area shape="rect" id="node3" href="$df/d71/class_uavcan_barometer_bridge.html#a508b3790b85efa9fa47451131a234974" title="Returns ASCII name of the bridge. " alt="" coords="743,10,907,51"/>
-<area shape="rect" id="node4" href="$df/d71/class_uavcan_barometer_bridge.html#a9c7110eb65133c5ffadf3ce445f4d8af" title="Initialise the driver and make it ready for use. " alt="" coords="509,24,673,66"/>
-<area shape="rect" id="node6" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a2db82fe9dd1e8122ab33ce1028dadb99" title="Initialise the driver and make it ready for use. " alt="" coords="497,90,684,131"/>
-<area shape="rect" id="node7" href="$d2/d84/class_uavcan_magnetometer_bridge.html#accc12d5f6c222bce34170d754b07c79a" title="Returns ASCII name of the bridge. " alt="" coords="732,104,919,146"/>
+<area shape="rect" id="node2" href="$df/d71/class_uavcan_barometer_bridge.html#ad4a54749157291cb13d33fc7747794d5" title="UavcanBarometerBridge\l::air_pressure_sub_cb" alt="" coords="274,35,438,76"/>
+<area shape="rect" id="node5" href="$de/d9f/class_uavcan_battery_bridge.html#a4920415f6be3a75b1009a351ff036f1e" title="UavcanBatteryBridge\l::battery_sub_cb" alt="" coords="283,152,429,193"/>
+<area shape="rect" id="node8" href="$d6/d93/class_uavcan_flow_bridge.html#a02ac07266b017ee96fc250dd4a3d5c70" title="UavcanFlowBridge::flow\l_sub_cb" alt="" coords="274,229,438,271"/>
+<area shape="rect" id="node11" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a030ab8d234bcc6ef5850b4d8fabf1ba5" title="UavcanMagnetometerBridge\l::mag2_sub_cb" alt="" coords="263,309,449,351"/>
+<area shape="rect" id="node14" href="$d2/d84/class_uavcan_magnetometer_bridge.html#ae7742c4ca8efed71edd53772c0f587df" title="UavcanMagnetometerBridge\l::mag_sub_cb" alt="" coords="263,375,449,416"/>
+<area shape="rect" id="node3" href="$df/d71/class_uavcan_barometer_bridge.html#a508b3790b85efa9fa47451131a234974" title="Returns ASCII name of the bridge. " alt="" coords="749,5,913,47"/>
+<area shape="rect" id="node4" href="$df/d71/class_uavcan_barometer_bridge.html#a9c7110eb65133c5ffadf3ce445f4d8af" title="Starts the bridge. " alt="" coords="509,35,673,76"/>
+<area shape="rect" id="node6" href="$de/d9f/class_uavcan_battery_bridge.html#a4faa472246d8daa662dfc936a6c09ccd" title="Returns ASCII name of the bridge. " alt="" coords="757,123,904,164"/>
+<area shape="rect" id="node7" href="$de/d9f/class_uavcan_battery_bridge.html#ac17fefc4aab090351768be9647339f9a" title="Starts the bridge. " alt="" coords="517,152,664,193"/>
+<area shape="rect" id="node9" href="$d6/d93/class_uavcan_flow_bridge.html#a9045b228d73a8a195a578bc5200a278f" title="Starts the bridge. " alt="" coords="512,218,669,245"/>
+<area shape="rect" id="node10" href="$d6/d93/class_uavcan_flow_bridge.html#ad683a3c7f55f3de3901e0821025b5740" title="Returns ASCII name of the bridge. " alt="" coords="732,243,929,270"/>
+<area shape="rect" id="node12" href="$d2/d84/class_uavcan_magnetometer_bridge.html#a2db82fe9dd1e8122ab33ce1028dadb99" title="Starts the bridge. " alt="" coords="497,371,684,412"/>
+<area shape="rect" id="node13" href="$d2/d84/class_uavcan_magnetometer_bridge.html#accc12d5f6c222bce34170d754b07c79a" title="Returns ASCII name of the bridge. " alt="" coords="737,371,924,412"/>
 </map>

@@ -5,7 +5,7 @@ var class_mavlink_stream =
     [ "MavlinkStream", "d1/df2/class_mavlink_stream.html#a4613d3128b837d429117e78d7a5073e7", null ],
     [ "MavlinkStream", "d1/df2/class_mavlink_stream.html#a3520c9f7fbb0b7959440eb9323f7784e", null ],
     [ "const_rate", "d1/df2/class_mavlink_stream.html#aa00cbc49b71d724045ac6da83c66c80f", null ],
-    [ "first_message_sent", "d1/df2/class_mavlink_stream.html#aba11fcd4c1d8cb88a79b0c236ad614ab", null ],
+    [ "first_message_sent", "d1/df2/class_mavlink_stream.html#a8359e17ea92872ca056d292bd0171bd9", null ],
     [ "get_id", "d1/df2/class_mavlink_stream.html#a534f79fa465e183d9a541e181732ae5a", null ],
     [ "get_interval", "d1/df2/class_mavlink_stream.html#a3f00bff476cba7a35bf8fd1e4a07a211", null ],
     [ "get_name", "d1/df2/class_mavlink_stream.html#a75d050c5a923090ea9ec902f40b6eefe", null ],
@@ -21,6 +21,5 @@ var class_mavlink_stream =
     [ "_first_message_sent", "d1/df2/class_mavlink_stream.html#a9866c62477f2cf8f3c55bdce666be372", null ],
     [ "_interval", "d1/df2/class_mavlink_stream.html#af740c4ecf9182c40d30c275c78deddab", null ],
     [ "_last_sent", "d1/df2/class_mavlink_stream.html#adff0400feac18e5e85f9663d3d3ef959", null ],
-    [ "_mavlink", "d1/df2/class_mavlink_stream.html#ae59026ca7c76fc55017cf603a99f3492", null ],
-    [ "next", "d1/df2/class_mavlink_stream.html#a11c4ed0fef01763c867d413a9d8969b0", null ]
+    [ "_mavlink", "d1/df2/class_mavlink_stream.html#ae59026ca7c76fc55017cf603a99f3492", null ]
 ];

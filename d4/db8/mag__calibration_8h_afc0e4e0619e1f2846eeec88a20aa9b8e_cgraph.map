@@ -1,51 +1,51 @@
 <map id="do_mag_calibration" name="do_mag_calibration">
-<area shape="rect" id="node2" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="203,662,326,689"/>
-<area shape="rect" id="node18" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1111,1325,1171,1352"/>
-<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="682,1477,763,1504"/>
-<area shape="rect" id="node38" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="896,584,971,610"/>
-<area shape="rect" id="node42" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="443,1426,529,1453"/>
-<area shape="rect" id="node45" href="$d9/da5/param_8c.html#a803f9e8aef28899d6311b39e482584eb" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="399,1477,573,1504"/>
-<area shape="rect" id="node46" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="894,1629,973,1656"/>
-<area shape="rect" id="node50" href="$d9/da5/param_8c.html#a931ce7ddb5c7a36a3fbe20cb9066d82b" title="Notify the system about parameter changes. " alt="" coords="188,1730,341,1757"/>
-<area shape="rect" id="node3" href="$d0/d5a/calibration__routines_8cpp.html#a46ca24c838119ecf02a550ce172451fb" title="Called at the beginning of calibration in order to subscribe to the cancel command. " alt="" coords="397,485,575,512"/>
-<area shape="rect" id="node6" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="896,798,971,825"/>
-<area shape="rect" id="node9" href="$d0/d5a/calibration__routines_8cpp.html#a7e13a224a2052683d37f94004f84452e" title="Called to cancel the subscription to the cancel command. " alt="" coords="389,89,583,116"/>
-<area shape="rect" id="node10" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="664,93,781,120"/>
-<area shape="rect" id="node11" href="$d0/d5a/calibration__routines_8cpp.html#a135bf801f22007af4747fd6956a5063a" title="Perform calibration sequence which require a rest orientation detection prior to calibration. " alt="" coords="401,1173,571,1200"/>
-<area shape="rect" id="node22" href="$d0/d5a/calibration__routines_8cpp.html#a94f6b1a11b3993f923e8c0be70531951" title="Returns the human readable string representation of the orientation. " alt="" coords="649,1072,796,1098"/>
-<area shape="rect" id="node27" href="$de/d14/mag__calibration_8cpp.html#a09d317cfe5e5a967ead1c1c9d0f3590e" title="check_calibration_result" alt="" coords="405,738,567,765"/>
-<area shape="rect" id="node28" href="$d0/d5a/calibration__routines_8cpp.html#a0dee154570febce6c7f20f810536ea62" title="ellipsoid_fit_least\l_squares" alt="" coords="425,191,547,232"/>
-<area shape="rect" id="node31" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="407,982,565,1009"/>
-<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#a10876a56e0054909b8e40fedd8baa624" title="Get the number of published instances of a topic group. " alt="" coords="663,245,782,272"/>
-<area shape="rect" id="node36" href="$d9/d97/u_o_r_b_8cpp.html#a6758c1fb5768986a21aa993152f6956b" title="orb_priority" alt="" coords="443,434,529,461"/>
-<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="876,296,991,322"/>
-<area shape="rect" id="node41" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="864,53,1003,80"/>
-<area shape="rect" id="node43" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="445,586,527,613"/>
-<area shape="rect" id="node44" href="$d9/da5/param_8c.html#a126ed3d305f2dd3cd9880f11ee2922a0" title="Set the value of a parameter. " alt="" coords="445,637,527,664"/>
-<area shape="rect" id="node4" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="892,397,975,424"/>
-<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="671,768,774,794"/>
-<area shape="rect" id="node5" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1069,288,1212,330"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1052,798,1229,825"/>
-<area shape="rect" id="node12" href="$d0/d5a/calibration__routines_8cpp.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="643,1122,802,1149"/>
-<area shape="rect" id="node19" href="$d0/d5a/calibration__routines_8cpp.html#a895bda05ccf0fa040e29a90e60be893d" title="Wait for vehicle to become still and detect it&#39;s orientation. " alt="" coords="660,1224,785,1250"/>
-<area shape="rect" id="node25" href="$df/d08/commander__helper_8cpp.html#a305f75480edf19f6dccc6ea8bf7c46d5" title="rgbled_set_color_and_mode" alt="" coords="631,1325,815,1352"/>
-<area shape="rect" id="node26" href="$df/d08/commander__helper_8cpp.html#a85bd5445469c33c209c0947ec5050d67" title="set_tune" alt="" coords="687,1173,759,1200"/>
-<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="898,1224,969,1250"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1103,1274,1178,1301"/>
-<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1094,1376,1187,1402"/>
-<area shape="rect" id="node15" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1285,1452,1423,1478"/>
-<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1277,1654,1431,1681"/>
-<area shape="rect" id="node20" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="914,869,953,896"/>
-<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="871,1173,996,1200"/>
-<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="863,1477,1004,1504"/>
-<area shape="rect" id="node29" href="$d0/d5a/calibration__routines_8cpp.html#a952e8c554c5abab172ed93cc60a6f0e1" title="run_lm_ellipsoid_fit" alt="" coords="656,144,789,170"/>
-<area shape="rect" id="node30" href="$d0/d5a/calibration__routines_8cpp.html#a0b331b37a66c57fe327b1552b9ce224e" title="run_lm_sphere_fit" alt="" coords="660,194,785,221"/>
-<area shape="rect" id="node32" href="$de/d14/mag__calibration_8cpp.html#a1264ff95b6ae1ae83cffa8babbf037c2" title="progress_percentage" alt="" coords="651,920,794,946"/>
-<area shape="rect" id="node33" href="$de/d14/mag__calibration_8cpp.html#ab1a4390eb6ca80184071d6d5ae3e7dea" title="reject_sample" alt="" coords="671,869,774,896"/>
-<area shape="rect" id="node35" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="892,194,975,221"/>
-<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="651,448,794,490"/>
-<area shape="rect" id="node39" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1073,584,1208,610"/>
-<area shape="rect" id="node47" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="1059,1528,1222,1554"/>
-<area shape="rect" id="node48" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1109,1629,1173,1656"/>
-<area shape="rect" id="node49" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1071,1578,1210,1605"/>
+<area shape="rect" id="node2" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="203,887,326,914"/>
+<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="669,126,751,152"/>
+<area shape="rect" id="node34" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="892,1366,967,1392"/>
+<area shape="rect" id="node39" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="443,1526,529,1552"/>
+<area shape="rect" id="node45" href="$d5/d33/param_8h.html#a817e6f9a6a2b732e09e5c446af02ed45" title="Set the value of a parameter, but do not notify the system about the change. " alt="" coords="399,75,573,102"/>
+<area shape="rect" id="node46" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="447,1576,525,1603"/>
+<area shape="rect" id="node50" href="$d5/d33/param_8h.html#ab06a0e7c50f2ca170c058bd3147b4688" title="Notify the system about parameter changes. " alt="" coords="188,12,341,39"/>
+<area shape="rect" id="node3" href="$d0/d5a/calibration__routines_8cpp.html#a46ca24c838119ecf02a550ce172451fb" title="Called at the beginning of calibration in order to subscribe to the cancel command. " alt="" coords="397,704,575,731"/>
+<area shape="rect" id="node6" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="892,568,967,595"/>
+<area shape="rect" id="node9" href="$d0/d5a/calibration__routines_8cpp.html#a7e13a224a2052683d37f94004f84452e" title="Called to cancel the subscription to the cancel command. " alt="" coords="389,1252,583,1279"/>
+<area shape="rect" id="node10" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="651,1256,769,1283"/>
+<area shape="rect" id="node11" href="$d0/d5a/calibration__routines_8cpp.html#a135bf801f22007af4747fd6956a5063a" title="Perform calibration sequence which require a rest orientation detection prior to calibration. " alt="" coords="401,328,571,355"/>
+<area shape="rect" id="node18" href="$d0/d5a/calibration__routines_8cpp.html#a94f6b1a11b3993f923e8c0be70531951" title="Returns the human readable string representation of the orientation. " alt="" coords="637,176,783,203"/>
+<area shape="rect" id="node23" href="$de/d14/mag__calibration_8cpp.html#a09d317cfe5e5a967ead1c1c9d0f3590e" title="check_calibration_result" alt="" coords="405,991,567,1018"/>
+<area shape="rect" id="node24" href="$d0/d5a/calibration__routines_8cpp.html#a0dee154570febce6c7f20f810536ea62" title="ellipsoid_fit_least\l_squares" alt="" coords="425,777,547,818"/>
+<area shape="rect" id="node27" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="407,430,565,456"/>
+<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#a10876a56e0054909b8e40fedd8baa624" title="Get the number of published instances of a topic group. " alt="" coords="651,835,769,862"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a6758c1fb5768986a21aa993152f6956b" title="orb_priority" alt="" coords="443,1307,529,1334"/>
+<area shape="rect" id="node36" href="$d9/d97/u_o_r_b_8cpp.html#a5ddf366cd5c691af0d027c0bc0b173ba" title="orb_set_interval" alt="" coords="429,1139,543,1166"/>
+<area shape="rect" id="node38" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="860,1063,999,1090"/>
+<area shape="rect" id="node41" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="445,918,527,944"/>
+<area shape="rect" id="node42" href="$d5/d33/param_8h.html#a26cb63b426af831903dcb1193002cf48" title="Set the value of a parameter. " alt="" coords="445,126,527,152"/>
+<area shape="rect" id="node4" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="888,936,971,963"/>
+<area shape="rect" id="node8" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="659,582,761,608"/>
+<area shape="rect" id="node5" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1087,929,1229,970"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1069,568,1247,595"/>
+<area shape="rect" id="node12" href="$d0/d5a/calibration__routines_8cpp.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="631,379,789,406"/>
+<area shape="rect" id="node15" href="$d0/d5a/calibration__routines_8cpp.html#a895bda05ccf0fa040e29a90e60be893d" title="Wait for vehicle to become still and detect it&#39;s orientation. " alt="" coords="647,328,773,355"/>
+<area shape="rect" id="node21" href="$df/d08/commander__helper_8cpp.html#a305f75480edf19f6dccc6ea8bf7c46d5" title="rgbled_set_color_and_mode" alt="" coords="837,75,1021,102"/>
+<area shape="rect" id="node22" href="$df/d08/commander__helper_8cpp.html#a85bd5445469c33c209c0947ec5050d67" title="set_tune" alt="" coords="674,227,746,254"/>
+<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="894,430,965,456"/>
+<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1121,430,1195,456"/>
+<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="910,987,949,1014"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1095,227,1221,254"/>
+<area shape="rect" id="node20" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="864,126,995,152"/>
+<area shape="rect" id="node25" href="$d0/d5a/calibration__routines_8cpp.html#a952e8c554c5abab172ed93cc60a6f0e1" title="run_lm_ellipsoid_fit" alt="" coords="643,734,777,760"/>
+<area shape="rect" id="node26" href="$d0/d5a/calibration__routines_8cpp.html#a0b331b37a66c57fe327b1552b9ce224e" title="run_lm_sphere_fit" alt="" coords="647,784,773,811"/>
+<area shape="rect" id="node28" href="$de/d14/mag__calibration_8cpp.html#a1264ff95b6ae1ae83cffa8babbf037c2" title="progress_percentage" alt="" coords="639,480,781,507"/>
+<area shape="rect" id="node29" href="$de/d14/mag__calibration_8cpp.html#ab1a4390eb6ca80184071d6d5ae3e7dea" title="reject_sample" alt="" coords="659,936,761,963"/>
+<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="888,886,971,912"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="639,1358,781,1400"/>
+<area shape="rect" id="node35" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1096,1366,1220,1392"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="639,1190,781,1232"/>
+<area shape="rect" id="node40" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="643,1526,777,1552"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="644,24,776,51"/>
+<area shape="rect" id="node44" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="849,24,1009,51"/>
+<area shape="rect" id="node47" href="$dc/db4/classcdev_1_1_v_file.html#a76418692ad24fb60ee14bdb5ae66d19d" title="cdev::VFile::createFile" alt="" coords="633,1678,787,1704"/>
+<area shape="rect" id="node48" href="$da/dc9/posix_2cdev__platform_8cpp.html#a3fe15a0fdcd00e34f4a29b3cea4c7c46" title="getDev" alt="" coords="678,1576,742,1603"/>
+<area shape="rect" id="node49" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="646,1627,774,1654"/>
 </map>

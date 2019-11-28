@@ -1,51 +1,51 @@
 <map id="Mavlink::start" name="Mavlink::start">
-<area shape="rect" id="node2" href="$df/d31/class_mavlink_command_sender.html#a41e7a82544d7301509109cfc9c863cfb" title="initialize: call this once on startup (this function is not thread&#45;safe!) " alt="" coords="155,107,323,149"/>
-<area shape="rect" id="node4" href="$dd/dcb/class_mavlink_u_log.html#a65d2d1e3d7b00cee85c61af3fa468a35" title="initialize: call this once on startup (this function is not thread&#45;safe!) " alt="" coords="162,173,315,200"/>
-<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a667d5be915318a999790fa8250724b00" title="Mavlink::instance_count" alt="" coords="609,5,772,32"/>
-<area shape="rect" id="node6" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="163,2427,315,2453"/>
-<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="167,275,310,301"/>
-<area shape="rect" id="node20" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="904,2288,964,2315"/>
-<area shape="rect" id="node3" href="$df/d31/class_mavlink_command_sender.html#a8c07f16f1a4bf3272aba1ff049fa598b" title="MavlinkCommandSender\l::MavlinkCommandSender" alt="" coords="371,107,547,149"/>
-<area shape="rect" id="node8" href="$df/d1f/class_mavlink.html#abe680ee09055cbca6db07d2854df44f7" title="Constructor. " alt="" coords="399,275,519,301"/>
-<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="391,1200,526,1227"/>
-<area shape="rect" id="node9" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="915,753,953,780"/>
-<area shape="rect" id="node10" href="$da/d65/px4__tasks_8h.html#a242f0d89422bbfafc38856f4cb4a520c" title="Exit current task with return value. " alt="" coords="639,56,742,83"/>
-<area shape="rect" id="node12" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="647,829,734,856"/>
-<area shape="rect" id="node13" href="$df/d1f/class_mavlink.html#a1074c37d66a406a9bb9fdf07c9ea765b" title="Set communication protocol for this mavlink instance. " alt="" coords="617,880,764,907"/>
-<area shape="rect" id="node14" href="$de/d24/mavlink__main_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="usage" alt="" coords="662,728,719,755"/>
-<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#a474006ce18119a292b0819abbb038180" title="Mavlink::get_protocol" alt="" coords="861,1225,1007,1252"/>
-<area shape="rect" id="node16" href="$df/d1f/class_mavlink.html#af7a2ef6822e68b4425d8f2f4cf924ed0" title="Mavlink::instance_exists" alt="" coords="607,997,774,1024"/>
-<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#a1a3679fecd88196b45d96c7cf12e4d99" title="Mavlink::mavlink_mode_str" alt="" coords="600,1048,781,1075"/>
-<area shape="rect" id="node18" href="$df/d1f/class_mavlink.html#ad703164ffb6c5834e2a76d305b93e1cb" title="Mavlink::mavlink_open_uart" alt="" coords="599,1771,783,1797"/>
-<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="871,1511,997,1537"/>
-<area shape="rect" id="node21" href="$df/d1f/class_mavlink.html#a0e8d4290bd52d2e3f4fd6cf9e5911ef0" title="Mavlink::get_instance\l_for_network_port" alt="" coords="616,1419,765,1461"/>
-<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#a7454d249ed94ad5d5e57ba1529d7a7f2" title="pthread_mutex_init" alt="" coords="625,1485,757,1512"/>
-<area shape="rect" id="node23" href="$df/d1f/class_mavlink.html#ae152fab0ff59236da31db9ba9030087f" title="Mavlink::message_buffer_init" alt="" coords="595,1536,787,1563"/>
-<area shape="rect" id="node24" href="$df/d1f/class_mavlink.html#ad8fa688a2405620180ff54b89070d991" title="Mavlink::mavlink_update\l_system" alt="" coords="607,1587,774,1629"/>
-<area shape="rect" id="node25" href="$df/d1f/class_mavlink.html#aa903cb030109392e8d42287cc7a17074" title="Add a mavlink orb topic subscription while ensuring that only a single object exists for a given topi..." alt="" coords="835,136,1033,163"/>
-<area shape="rect" id="node26" href="$de/dea/class_mavlink_orb_subscription.html#a16e38ac1413c564c03dcfb86713831c8" title="MavlinkOrbSubscription\l::subscribe_from_beginning" alt="" coords="600,1705,781,1746"/>
-<area shape="rect" id="node27" href="$de/dea/class_mavlink_orb_subscription.html#a9f219e480311597a86a3f7a5366aac25" title="Check if subscription updated based on timestamp. " alt="" coords="854,347,1014,389"/>
-<area shape="rect" id="node28" href="$df/d1f/class_mavlink.html#aa7d5e775c84eff02abe0b2f18eca801a" title="Configure a single stream. " alt="" coords="870,1091,998,1133"/>
-<area shape="rect" id="node29" href="$df/d1f/class_mavlink.html#a2c2faa389a98a04f107256280c699405" title="Configure default streams according to _mode for either all streams or only a single stream..." alt="" coords="621,931,761,973"/>
-<area shape="rect" id="node30" href="$df/d1f/class_mavlink.html#ac052c2ae0980c7f279b5786ce63bd2df" title="Mavlink::init_udp" alt="" coords="631,1821,751,1848"/>
-<area shape="rect" id="node31" href="$df/d1f/class_mavlink.html#a183dfdfc1fbde1b34127c76f4ff2c695" title="Send the capabilities of this autopilot in terms of the MAVLink spec. " alt="" coords="611,158,770,199"/>
-<area shape="rect" id="node32" href="$df/d1f/class_mavlink.html#a194a3b8f53d8f45849ad522c7f273215" title="Mavlink::get_channel" alt="" coords="861,205,1007,232"/>
-<area shape="rect" id="node33" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="606,1873,775,1914"/>
-<area shape="rect" id="node34" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="649,1939,732,1965"/>
-<area shape="rect" id="node35" href="$df/d1f/class_mavlink.html#a34de929d78ada1d08dec376b869d917b" title="Update rate mult so total bitrate will be equal to _datarate. " alt="" coords="603,779,778,805"/>
-<area shape="rect" id="node36" href="$df/d1f/class_mavlink.html#af3884ba03f416aebafd1aaf8509c7dc6" title="Check the configuration of a connected radio. " alt="" coords="618,2310,763,2351"/>
-<area shape="rect" id="node37" href="$df/d1f/class_mavlink.html#aad92fc54f22931354d829d906b1dcb87" title="Enable / disable Hardware in the Loop simulation mode. " alt="" coords="608,1099,773,1125"/>
-<area shape="rect" id="node38" href="$df/d1f/class_mavlink.html#a0a62fa7169999aa2ae6f7a622ef9fa0f" title="Set manual input generation mode. " alt="" coords="609,1990,772,2031"/>
-<area shape="rect" id="node39" href="$de/dea/class_mavlink_orb_subscription.html#a073fbec3307fd1d809155c35e72f234f" title="Check if the subscription has been updated. " alt="" coords="611,377,771,418"/>
-<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="647,2056,735,2083"/>
-<area shape="rect" id="node41" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="619,2107,762,2133"/>
-<area shape="rect" id="node42" href="$d1/dbf/class_mavlink_shell.html#aab54392d8602e3f8c024170a15630900" title="Get the number of bytes that can be read. " alt="" coords="613,2157,768,2184"/>
-<area shape="rect" id="node43" href="$df/d1f/class_mavlink.html#a2d450930bd605c13ed783a1d02b42e13" title="Get the free space in the transmit buffer. " alt="" coords="608,1251,773,1277"/>
-<area shape="rect" id="node44" href="$d1/dbf/class_mavlink_shell.html#a0dd5f37a51f3a3f54dd6be428d2bc325" title="Read from the shell. " alt="" coords="626,2208,755,2235"/>
-<area shape="rect" id="node45" href="$dd/dcb/class_mavlink_u_log.html#ae5a3e12caf8c06a1b05cac3a315ff9e3" title="stop the stream. " alt="" coords="625,443,756,469"/>
-<area shape="rect" id="node46" href="$dd/dcb/class_mavlink_u_log.html#ae91afd76c35f0e59159594776ad491a4" title="this is called when we got an vehicle_command_ack from the logger " alt="" coords="625,494,757,535"/>
-<area shape="rect" id="node47" href="$dd/dcb/class_mavlink_u_log.html#a0139fd25db11f0ce3159b7cdd5b5622d" title="periodic update method: check for ulog stream messages and handle retransmission. ..." alt="" coords="619,1302,763,1343"/>
-<area shape="rect" id="node48" href="$d1/df2/class_mavlink_stream.html#ac861aa2bd187c1856606d25c2b33df95" title="Update subscriptions and send message if necessary. " alt="" coords="613,1368,769,1395"/>
-<area shape="rect" id="node49" href="$d1/df2/class_mavlink_stream.html#a534f79fa465e183d9a541e181732ae5a" title="MavlinkStream::get_id" alt="" coords="615,560,767,587"/>
-<area shape="rect" id="node50" href="$d1/df2/class_mavlink_stream.html#aba11fcd4c1d8cb88a79b0c236ad614ab" title="MavlinkStream::first\l_message_sent" alt="" coords="621,611,760,653"/>
+<area shape="rect" id="node2" href="$df/d31/class_mavlink_command_sender.html#a41e7a82544d7301509109cfc9c863cfb" title="initialize: call this once on startup (this function is not thread&#45;safe!) " alt="" coords="155,5,323,47"/>
+<area shape="rect" id="node4" href="$dd/dcb/class_mavlink_u_log.html#a65d2d1e3d7b00cee85c61af3fa468a35" title="initialize: call this once on startup (this function is not thread&#45;safe!) " alt="" coords="162,71,315,98"/>
+<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a667d5be915318a999790fa8250724b00" title="Mavlink::instance_count" alt="" coords="853,257,1015,283"/>
+<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="167,202,310,229"/>
+<area shape="rect" id="node3" href="$df/d31/class_mavlink_command_sender.html#a8c07f16f1a4bf3272aba1ff049fa598b" title="MavlinkCommandSender\l::MavlinkCommandSender" alt="" coords="371,5,547,47"/>
+<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#abe680ee09055cbca6db07d2854df44f7" title="Constructor. " alt="" coords="399,202,519,229"/>
+<area shape="rect" id="node10" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="391,1345,526,1371"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1083,1002,1208,1029"/>
+<area shape="rect" id="node9" href="$df/d1f/class_mavlink.html#a114ea0396d1db767fff6704325ec81d8" title="Mavlink::mavlink_update\l_parameters" alt="" coords="607,224,774,265"/>
+<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a1074c37d66a406a9bb9fdf07c9ea765b" title="Set communication protocol for this mavlink instance. " alt="" coords="617,2051,764,2078"/>
+<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#a6b297b0985b81978c73d82e413d7b256" title="Mavlink::set_telemetry\l_status_type" alt="" coords="857,1053,1011,1095"/>
+<area shape="rect" id="node13" href="$de/d24/mavlink__main_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="usage" alt="" coords="1117,1505,1174,1531"/>
+<area shape="rect" id="node14" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1257,1661,1296,1687"/>
+<area shape="rect" id="node15" href="$df/d1f/class_mavlink.html#aec8d15f58a1fca8faf7b9dd70ad5b8d7" title="Mavlink::get_protocol" alt="" coords="861,1854,1007,1881"/>
+<area shape="rect" id="node16" href="$df/d1f/class_mavlink.html#ab7532a691565ac8f173bb4668b2fd105" title="Mavlink::serial_instance\l_exists" alt="" coords="609,1884,772,1925"/>
+<area shape="rect" id="node17" href="$df/d1f/class_mavlink.html#a1a3679fecd88196b45d96c7cf12e4d99" title="Mavlink::mavlink_mode_str" alt="" coords="600,2102,781,2129"/>
+<area shape="rect" id="node18" href="$df/d1f/class_mavlink.html#a001b60f3651938cc19dc15a1505f0bda" title="Mavlink::mavlink_open_uart" alt="" coords="599,1025,783,1051"/>
+<area shape="rect" id="node19" href="$df/d1f/class_mavlink.html#ae152fab0ff59236da31db9ba9030087f" title="Mavlink::message_buffer_init" alt="" coords="595,2153,787,2179"/>
+<area shape="rect" id="node20" href="$df/d1f/class_mavlink.html#aa903cb030109392e8d42287cc7a17074" title="Add a mavlink orb topic subscription while ensuring that only a single object exists for a given topi..." alt="" coords="835,1577,1033,1603"/>
+<area shape="rect" id="node21" href="$de/dea/class_mavlink_orb_subscription.html#a16e38ac1413c564c03dcfb86713831c8" title="MavlinkOrbSubscription\l::subscribe_from_beginning" alt="" coords="600,2204,781,2245"/>
+<area shape="rect" id="node22" href="$de/dea/class_mavlink_orb_subscription.html#a9f219e480311597a86a3f7a5366aac25" title="Check if subscription updated based on timestamp. " alt="" coords="611,2269,771,2311"/>
+<area shape="rect" id="node23" href="$df/d1f/class_mavlink.html#aa7d5e775c84eff02abe0b2f18eca801a" title="Configure a single stream. " alt="" coords="1081,1804,1209,1845"/>
+<area shape="rect" id="node24" href="$df/d1f/class_mavlink.html#a2c2faa389a98a04f107256280c699405" title="Configure default streams according to _mode for either all streams or only a single stream..." alt="" coords="864,1687,1004,1728"/>
+<area shape="rect" id="node25" href="$df/d1f/class_mavlink.html#a35dad52881a2c1b35e6cee6a858ac90c" title="Mavlink::set_instance_id" alt="" coords="607,290,774,317"/>
+<area shape="rect" id="node26" href="$df/d1f/class_mavlink.html#aa4dd97a95fa8efb92a9f23dedc416fc8" title="Mavlink::set_channel" alt="" coords="618,2335,763,2362"/>
+<area shape="rect" id="node27" href="$df/d1f/class_mavlink.html#a183dfdfc1fbde1b34127c76f4ff2c695" title="Send the capabilities of this autopilot in terms of the MAVLink spec. " alt="" coords="611,1599,770,1640"/>
+<area shape="rect" id="node28" href="$df/d1f/class_mavlink.html#a685f6edd65eead49486f2af05325e178" title="Mavlink::get_channel" alt="" coords="861,1635,1007,1662"/>
+<area shape="rect" id="node29" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="606,2387,775,2428"/>
+<area shape="rect" id="node30" href="$df/d1f/class_mavlink.html#a4a775bd09b746cc56f26c3b7b2438e12" title="Mavlink::should_transmit" alt="" coords="607,2453,774,2479"/>
+<area shape="rect" id="node31" href="$df/d1f/class_mavlink.html#a9322dd828f95b4d15913d064d4f027ff" title="Mavlink::check_requested\l_subscriptions" alt="" coords="603,1767,778,1808"/>
+<area shape="rect" id="node32" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="893,737,975,763"/>
+<area shape="rect" id="node33" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="893,951,975,978"/>
+<area shape="rect" id="node34" href="$df/d1f/class_mavlink.html#a34de929d78ada1d08dec376b869d917b" title="Update rate mult so total bitrate will be equal to _datarate. " alt="" coords="603,1227,778,1254"/>
+<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="873,1337,995,1363"/>
+<area shape="rect" id="node36" href="$df/d1f/class_mavlink.html#af3884ba03f416aebafd1aaf8509c7dc6" title="Check the configuration of a connected radio. " alt="" coords="618,2504,763,2545"/>
+<area shape="rect" id="node37" href="$df/d1f/class_mavlink.html#aad92fc54f22931354d829d906b1dcb87" title="Enable / disable Hardware in the Loop simulation mode. " alt="" coords="851,2001,1017,2027"/>
+<area shape="rect" id="node38" href="$df/d1f/class_mavlink.html#a0a62fa7169999aa2ae6f7a622ef9fa0f" title="Set manual input generation mode. " alt="" coords="609,341,772,383"/>
+<area shape="rect" id="node39" href="$de/dea/class_mavlink_orb_subscription.html#a073fbec3307fd1d809155c35e72f234f" title="Check if the subscription has been updated. " alt="" coords="611,407,771,448"/>
+<area shape="rect" id="node40" href="$d1/dbf/class_mavlink_shell.html#aab54392d8602e3f8c024170a15630900" title="Get the number of bytes that can be read. " alt="" coords="613,473,768,499"/>
+<area shape="rect" id="node41" href="$df/d1f/class_mavlink.html#a2d450930bd605c13ed783a1d02b42e13" title="Get the free space in the transmit buffer. " alt="" coords="608,1497,773,1523"/>
+<area shape="rect" id="node42" href="$d1/dbf/class_mavlink_shell.html#a0dd5f37a51f3a3f54dd6be428d2bc325" title="Read from the shell. " alt="" coords="626,625,755,651"/>
+<area shape="rect" id="node43" href="$dd/dcb/class_mavlink_u_log.html#ae5a3e12caf8c06a1b05cac3a315ff9e3" title="stop the stream. " alt="" coords="625,675,756,702"/>
+<area shape="rect" id="node44" href="$dd/dcb/class_mavlink_u_log.html#ae91afd76c35f0e59159594776ad491a4" title="this is called when we got an vehicle_command_ack from the logger " alt="" coords="625,727,757,768"/>
+<area shape="rect" id="node45" href="$dd/dcb/class_mavlink_u_log.html#a0139fd25db11f0ce3159b7cdd5b5622d" title="periodic update method: check for ulog stream messages and handle retransmission. ..." alt="" coords="619,1279,763,1320"/>
+<area shape="rect" id="node46" href="$df/d1f/class_mavlink.html#ae9057e924cfde9ca8a46449ae0af9d42" title="Mavlink::message_buffer\l_get_ptr" alt="" coords="607,792,775,833"/>
+<area shape="rect" id="node47" href="$df/d1f/class_mavlink.html#a4162168e5581960e9b9ac2423d621dae" title="Mavlink::message_buffer\l_mark_read" alt="" coords="607,857,775,899"/>
+<area shape="rect" id="node48" href="$df/d1f/class_mavlink.html#ad877d1533c90218f89a30607acb60206" title="Resend message as is, don&#39;t change sequence number and CRC. " alt="" coords="603,923,778,950"/>
+<area shape="rect" id="node49" href="$df/d1f/class_mavlink.html#ab4e6e3917729f253abebb4e6c48ed1d4" title="Mavlink::publish_telemetry\l_status" alt="" coords="845,1119,1023,1160"/>
+<area shape="rect" id="node50" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="898,1185,970,1211"/>
 </map>

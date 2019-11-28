@@ -1,0 +1,16 @@
+<map id="VelocitySmoothing::updateDurations" name="VelocitySmoothing::updateDurations">
+<area shape="rect" id="node2" href="$d2/d64/class_velocity_smoothing.html#ab38d40c590dfa0be49f20053569a4e4d" title="Compute the direction of the jerk to be applied in order to drive the current state to the desired on..." alt="" coords="236,33,375,74"/>
+<area shape="rect" id="node5" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="249,101,361,128"/>
+<area shape="rect" id="node6" href="$d2/d64/class_velocity_smoothing.html#a18544960773a1d51991694ffadbc4dda" title="Compute T1, T2, T3 depending on the current state and velocity setpoint. " alt="" coords="192,159,419,201"/>
+<area shape="rect" id="node3" href="$d2/d64/class_velocity_smoothing.html#a013ee02af48f11e926f9ecc2f7bd9164" title="Compute the velocity at which the trajectory will be if the maximum jerk is applied during the time r..." alt="" coords="467,33,620,74"/>
+<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a170c8bc1488f2665d663d8234e3356a6" title="math::sign" alt="" coords="696,5,779,32"/>
+<area shape="rect" id="node7" href="$d2/d64/class_velocity_smoothing.html#ae5035257c82d8e41d020139f4627e3c8" title="Compute increasing acceleration time. " alt="" coords="474,98,613,139"/>
+<area shape="rect" id="node13" href="$d2/d64/class_velocity_smoothing.html#a695059ec4a5d6ca0114c0c43c7422a4a" title="Compute decreasing acceleration time. " alt="" coords="474,163,613,205"/>
+<area shape="rect" id="node14" href="$d2/d64/class_velocity_smoothing.html#aaa01a5b0dc16a3963ebe6644aef6d8b6" title="Compute constant acceleration time. " alt="" coords="474,229,613,270"/>
+<area shape="rect" id="node8" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="718,196,757,223"/>
+<area shape="rect" id="node11" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="695,145,779,172"/>
+<area shape="rect" id="node12" href="$d2/d64/class_velocity_smoothing.html#a0d95708c5c39b5efdc42a0ae1d09909f" title="Saturate T1 in order to respect the maximum acceleration constraint. " alt="" coords="668,79,807,121"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="855,196,937,223"/>
+<area shape="rect" id="node10" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="985,196,1072,223"/>
+<area shape="rect" id="node15" href="$dd/d47/namespacemath.html#affae255211081a0cea17be3b29bfb87a" title="math::abs_t" alt="" coords="692,247,783,273"/>
+</map>

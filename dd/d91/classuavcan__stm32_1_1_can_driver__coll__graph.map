@@ -1,0 +1,10 @@
+<map id="uavcan_stm32::CanDriver" name="uavcan_stm32::CanDriver">
+<area shape="rect" id="node4" href="$d9/de6/classuavcan__stm32_1_1_can_iface.html" title="Single CAN iface. " alt="" coords="268,505,483,861"/>
+<area shape="rect" id="node6" href="$d2/d82/structuavcan__stm32_1_1bxcan_1_1_can_type.html" title="{uavcan_stm32::bxcan\l::CanType\n|+ MCR\l+ MSR\l+ TSR\l+ RF0R\l+ RF1R\l+ IER\land 13 more...\l|}" alt="" coords="369,233,520,413"/>
+<area shape="rect" id="node7" href="$d4/d0b/structuavcan__stm32_1_1bxcan_1_1_tx_mailbox_type.html" title="{uavcan_stm32::bxcan\l::TxMailboxType\n|+ TIR\l+ TDTR\l+ TDLR\l+ TDHR\l|}" alt="" coords="107,5,257,141"/>
+<area shape="rect" id="node8" href="$d3/db5/structuavcan__stm32_1_1bxcan_1_1_filter_register_type.html" title="{uavcan_stm32::bxcan\l::FilterRegisterType\n|+ FR1\l+ FR2\l|}" alt="" coords="281,20,432,127"/>
+<area shape="rect" id="node9" href="$df/d07/structuavcan__stm32_1_1bxcan_1_1_rx_mailbox_type.html" title="{uavcan_stm32::bxcan\l::RxMailboxType\n|+ RIR\l+ RDTR\l+ RDLR\l+ RDHR\l|}" alt="" coords="456,5,607,141"/>
+<area shape="rect" id="node10" href="$df/d88/classuavcan__stm32_1_1_can_iface_1_1_rx_queue.html" title="{uavcan_stm32::CanIface\l::RxQueue\n|&#45; capacity_\l&#45; in_\l&#45; out_\l&#45; len_\l&#45; overflow_cnt_\l|+ RxQueue()\l+ push()\l+ pop()\l+ reset()\l+ getLength()\l+ getOverflowCount()\l&#45; registerOverflow()\l}" alt="" coords="545,204,713,443"/>
+<area shape="rect" id="node11" href="$d5/d4d/structuavcan__stm32_1_1_can_rx_item.html" title="RX queue item. " alt="" coords="631,20,813,127"/>
+<area shape="rect" id="node12" href="$d6/db5/structuavcan__stm32_1_1_can_iface_1_1_tx_item.html" title="{uavcan_stm32::CanIface\l::TxItem\n|+ deadline\l+ frame\l+ pending\l+ loopback\l+ abort_on_error\l|+ TxItem()\l}" alt="" coords="737,248,905,399"/>
+</map>

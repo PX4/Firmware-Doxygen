@@ -1,0 +1,25 @@
+var class_v_o_x_l_p_m =
+[
+    [ "VOXLPM", "d5/de1/class_v_o_x_l_p_m.html#a28a8f9ff28efb5d4fde69f9aca475627", null ],
+    [ "~VOXLPM", "d5/de1/class_v_o_x_l_p_m.html#a355dd223dd3594421a24405b1426c68e", null ],
+    [ "init", "d5/de1/class_v_o_x_l_p_m.html#a464f87480b728fb229c867b61e306754", null ],
+    [ "measure", "d5/de1/class_v_o_x_l_p_m.html#ab15a13cfb85e57338a9220cfd6c60249", null ],
+    [ "print_info", "d5/de1/class_v_o_x_l_p_m.html#ac47c54fb75cf11de0b29623aaad848b6", null ],
+    [ "read_reg", "d5/de1/class_v_o_x_l_p_m.html#a0e5f9c1697055b60a16b0fe2e6b61653", null ],
+    [ "read_reg_buf", "d5/de1/class_v_o_x_l_p_m.html#aea3a8bbdc1735aff59adfd4e9920b7d6", null ],
+    [ "Run", "d5/de1/class_v_o_x_l_p_m.html#ab3a426fcdb0980116cd07041a9f84414", null ],
+    [ "start", "d5/de1/class_v_o_x_l_p_m.html#af6891a1f4249f6153d26c78158a1459d", null ],
+    [ "stop", "d5/de1/class_v_o_x_l_p_m.html#ac4284437ebfff0adb51f42f442c386ab", null ],
+    [ "write_reg", "d5/de1/class_v_o_x_l_p_m.html#a9be2a4b221be18a785462b7b6ee60b17", null ],
+    [ "_amperage", "d5/de1/class_v_o_x_l_p_m.html#a798a9228e8b45cce4951f69331473390", null ],
+    [ "_bat_pub_topic", "d5/de1/class_v_o_x_l_p_m.html#a5c0a03c03644a6b2b1e877b4482f6bc7", null ],
+    [ "_bat_status", "d5/de1/class_v_o_x_l_p_m.html#a082e18f6468850b4612e77f7f4153e1a", null ],
+    [ "_battery", "d5/de1/class_v_o_x_l_p_m.html#a443dfd7c33c01f9a9c3889da4614aee9", null ],
+    [ "_ch_type", "d5/de1/class_v_o_x_l_p_m.html#a6798be3e7962be2b512fd5a7bc7b43ba", null ],
+    [ "_meas_interval", "d5/de1/class_v_o_x_l_p_m.html#aace29e1aba1b9de62bc6b7d4fb49312c", null ],
+    [ "_pm_pub_topic", "d5/de1/class_v_o_x_l_p_m.html#a3e21c494ae53408092c1f728cc61f58c", null ],
+    [ "_pm_status", "d5/de1/class_v_o_x_l_p_m.html#abd921e872f0e0bf9089f0682bc058c66", null ],
+    [ "_rsense", "d5/de1/class_v_o_x_l_p_m.html#a601828f2b58dc77d79fdcd6f999ff8eb", null ],
+    [ "_sample_perf", "d5/de1/class_v_o_x_l_p_m.html#a4c9a448abefd0dbde00a6bfad1cfb0fa", null ],
+    [ "_voltage", "d5/de1/class_v_o_x_l_p_m.html#afcc13192850dfc7c042517e2958ca249", null ]
+];

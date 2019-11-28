@@ -1,9 +1,8 @@
 <map id="LIS3MDL::set_default_register_values" name="LIS3MDL::set_default_register_values">
-<area shape="rect" id="node2" href="$d4/df1/class_l_i_s3_m_d_l.html#a24f554061c135d3c6cfdfc695ca523e0" title="Performs the on&#45;sensor scale calibration routine. " alt="" coords="203,5,337,32"/>
-<area shape="rect" id="node4" href="$d4/df1/class_l_i_s3_m_d_l.html#a3007cfc9b50253ac0e16ca54ea6090d5" title="Resets the device. " alt="" coords="213,56,327,83"/>
+<area shape="rect" id="node2" href="$d4/df1/class_l_i_s3_m_d_l.html#a24f554061c135d3c6cfdfc695ca523e0" title="Performs the on&#45;sensor scale calibration routine. " alt="" coords="203,56,337,83"/>
+<area shape="rect" id="node4" href="$d4/df1/class_l_i_s3_m_d_l.html#a3007cfc9b50253ac0e16ca54ea6090d5" title="Resets the device. " alt="" coords="213,5,327,32"/>
 <area shape="rect" id="node6" href="$d4/df1/class_l_i_s3_m_d_l.html#ace19749fe909ea8c0db922e9899c5e2f" title="Initialises the automatic measurement state machine and start it. " alt="" coords="215,107,325,133"/>
-<area shape="rect" id="node3" href="$d4/df1/class_l_i_s3_m_d_l.html#a968958961a68b4ebc91259b50e6a91a2" title="LIS3MDL::ioctl" alt="" coords="389,5,498,32"/>
-<area shape="rect" id="node5" href="$d4/df1/class_l_i_s3_m_d_l.html#ab022627e0411c4c68d255083290ac1eb" title="Initialise the driver and make it ready for use. " alt="" coords="392,56,495,83"/>
-<area shape="rect" id="node7" href="$d4/df1/class_l_i_s3_m_d_l.html#abc976f937b431e89d76c2b610fb1cec8" title="Performs a poll cycle; collect from the previous measurement and start a new one. ..." alt="" coords="385,107,501,133"/>
-<area shape="rect" id="node8" href="$d4/df1/class_l_i_s3_m_d_l.html#a3cadf8aae06181cb7565516380c3c2d4" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="549,107,732,133"/>
+<area shape="rect" id="node3" href="$d4/df1/class_l_i_s3_m_d_l.html#a968958961a68b4ebc91259b50e6a91a2" title="LIS3MDL::ioctl" alt="" coords="385,56,495,83"/>
+<area shape="rect" id="node5" href="$d4/df1/class_l_i_s3_m_d_l.html#ab022627e0411c4c68d255083290ac1eb" title="LIS3MDL::init" alt="" coords="389,5,491,32"/>
+<area shape="rect" id="node7" href="$d4/df1/class_l_i_s3_m_d_l.html#a71538cc466ad82bab8afd83701580878" title="Performs a poll cycle; collect from the previous measurement and start a new one. ..." alt="" coords="385,107,495,133"/>
 </map>

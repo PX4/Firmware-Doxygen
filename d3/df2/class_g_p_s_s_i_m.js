@@ -1,12 +1,12 @@
 var class_g_p_s_s_i_m =
 [
-    [ "GPSSIM", "d3/df2/class_g_p_s_s_i_m.html#a90dd39adafb0980fe8069f192f606e90", null ],
-    [ "~GPSSIM", "d3/df2/class_g_p_s_s_i_m.html#a21b332f218ecabd00a7ba7cc3a0a2d7a", null ],
-    [ "_measure", "d3/df2/class_g_p_s_s_i_m.html#a31122e9f7389ea65ee8b3bd55ee40600", null ],
+    [ "GPSSIM", "d3/df2/class_g_p_s_s_i_m.html#a17af5189dd20d1b5f4b0983693ae043c", null ],
+    [ "~GPSSIM", "d3/df2/class_g_p_s_s_i_m.html#afdbac2fd543b64da68bbbcb5215ea3d4", null ],
+    [ "_measure", "d3/df2/class_g_p_s_s_i_m.html#adee3ef51609f94436bc422788b938e7e", null ],
     [ "cmd_reset", "d3/df2/class_g_p_s_s_i_m.html#ae718d4bb4edba93381d2cab8d28ec18a", null ],
     [ "config", "d3/df2/class_g_p_s_s_i_m.html#a5ccdbc9c5c5a80bdc604f156ffd9ed89", null ],
-    [ "devIOCTL", "d3/df2/class_g_p_s_s_i_m.html#a04a3a26909e846b13458612aae9367c8", null ],
-    [ "init", "d3/df2/class_g_p_s_s_i_m.html#a02de6e83d25cfb1e02abb9ccd98faba8", null ],
+    [ "devIOCTL", "d3/df2/class_g_p_s_s_i_m.html#ae22438aaca703f3aee708431c8493884", null ],
+    [ "init", "d3/df2/class_g_p_s_s_i_m.html#a341c1f702210cf0b7e5639d58d573567", null ],
     [ "print_info", "d3/df2/class_g_p_s_s_i_m.html#a7b8c02984c1474840b7066e9de18aa3d", null ],
     [ "receive", "d3/df2/class_g_p_s_s_i_m.html#a8bace2610ad8ad89b17ed62dcfa75018", null ],
     [ "set", "d3/df2/class_g_p_s_s_i_m.html#a7b0ee13956d030b4899c4a77ba824cab", null ],

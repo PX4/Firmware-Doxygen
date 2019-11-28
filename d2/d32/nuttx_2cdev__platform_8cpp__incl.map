@@ -1,16 +1,8 @@
-<map id="src/lib/drivers/device/nuttx/cdev_platform.cpp" name="src/lib/drivers/device/nuttx/cdev_platform.cpp">
-<area shape="rect" id="node2" href="$d9/de5/nuttx_2cdev__platform_8hpp.html" title="cdev_platform.hpp" alt="" coords="162,95,291,121"/>
-<area shape="rect" id="node6" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="519,95,612,121"/>
-<area shape="rect" id="node9" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="553,244,645,271"/>
-<area shape="rect" id="node25" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="849,244,988,271"/>
-<area shape="rect" id="node5" href="$d3/d0f/px4__micro__hal_8h.html" title="px4_micro_hal.h" alt="" coords="120,169,237,196"/>
-<area shape="rect" id="node7" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="603,169,691,196"/>
-<area shape="rect" id="node8" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="432,244,528,271"/>
-<area shape="rect" id="node30" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="313,169,477,196"/>
-<area shape="rect" id="node10" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="871,393,974,420"/>
-<area shape="rect" id="node17" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="308,319,401,345"/>
-<area shape="rect" id="node23" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="119,319,206,345"/>
-<area shape="rect" id="node11" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="1030,468,1109,495"/>
-<area shape="rect" id="node27" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="933,319,1030,345"/>
-<area shape="rect" id="node28" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="804,319,908,345"/>
+<map id="src/lib/cdev/nuttx/cdev_platform.cpp" name="src/lib/cdev/nuttx/cdev_platform.cpp">
+<area shape="rect" id="node2" href="$d9/de5/nuttx_2cdev__platform_8hpp.html" title="cdev_platform.hpp" alt="" coords="583,95,713,121"/>
+<area shape="rect" id="node6" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="../CDev.hpp" alt="" coords="360,95,453,121"/>
+<area shape="rect" id="node11" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="1105,95,1244,121"/>
+<area shape="rect" id="node9" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="185,177,349,203"/>
+<area shape="rect" id="node14" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="1126,177,1223,203"/>
+<area shape="rect" id="node16" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="997,177,1101,203"/>
 </map>

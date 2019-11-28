@@ -1,34 +1,48 @@
 <map id="Geofence::checkPolygons" name="Geofence::checkPolygons">
-<area shape="rect" id="node2" href="$d7/dbe/class_geofence.html#a39dc1f54930821f1e7d0b488590605ca" title="implementation of updateFence(), but without locking " alt="" coords="228,371,396,398"/>
-<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="486,473,558,499"/>
-<area shape="rect" id="node23" href="$d6/d47/dataman_8cpp.html#a25194d86b5b868f96ccb42843d3dda8e" title="Try to lock all items of a type (. " alt="" coords="479,574,565,601"/>
-<area shape="rect" id="node24" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="269,523,355,550"/>
-<area shape="rect" id="node25" href="$d7/dbe/class_geofence.html#a1ce8999e183228080ae6b4e9be3e8b5a" title="Check if a single point is within a circle. " alt="" coords="235,625,389,651"/>
-<area shape="rect" id="node32" href="$d7/dbe/class_geofence.html#a11637131c4a1374b8caf70d1e075e898" title="Check if a single point is within a polygon. " alt="" coords="229,473,395,499"/>
-<area shape="rect" id="node33" href="$d7/dbe/class_geofence.html#ad99fc4b19328d3472168c834a2f1688e" title="Geofence::isEmpty" alt="" coords="245,675,379,702"/>
-<area shape="rect" id="node3" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="454,267,590,294"/>
-<area shape="rect" id="node4" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="665,5,814,47"/>
-<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="668,71,811,112"/>
-<area shape="rect" id="node6" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="661,136,817,177"/>
-<area shape="rect" id="node7" href="$d0/df9/class_navigator.html#ac06b22528a29f5026a17c3a94ebefc0f" title="Navigator::home_position\l_valid" alt="" coords="654,201,825,243"/>
-<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="677,267,802,294"/>
-<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="679,318,800,345"/>
-<area shape="rect" id="node10" href="$d7/dbe/class_geofence.html#a4320f677f09ba52177dfb86e09875bfe" title="Geofence::isHomeRequired" alt="" coords="648,369,831,395"/>
-<area shape="rect" id="node11" href="$d7/dbe/class_geofence.html#a97ff2969e0fa939eca32a56e8ff631b9" title="Geofence::getGeofenceAction" alt="" coords="879,353,1076,379"/>
-<area shape="rect" id="node12" href="$d7/dbe/class_geofence.html#ad1154e56e295e9920d2b8707ba0e0883" title="print Geofence status to the console " alt="" coords="1124,353,1273,379"/>
-<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="915,454,1040,481"/>
-<area shape="rect" id="node19" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="656,497,823,539"/>
-<area shape="rect" id="node22" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="699,563,780,590"/>
-<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1155,454,1243,481"/>
-<area shape="rect" id="node16" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1155,505,1242,531"/>
-<area shape="rect" id="node17" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1155,403,1242,430"/>
-<area shape="rect" id="node18" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1147,555,1250,582"/>
-<area shape="rect" id="node20" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="911,555,1043,582"/>
-<area shape="rect" id="node21" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="935,505,1020,531"/>
-<area shape="rect" id="node26" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="654,681,825,707"/>
-<area shape="rect" id="node27" href="$d7/d09/geo_8cpp.html#a0233fe4ad7352b7918faeaf7aa5d8818" title="Initializes the map transformation given by the argument and sets the timestamp to now..." alt="" coords="455,625,589,651"/>
-<area shape="rect" id="node30" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="444,731,600,758"/>
-<area shape="rect" id="node28" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="672,615,807,656"/>
-<area shape="rect" id="node29" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="927,694,1028,721"/>
-<area shape="rect" id="node31" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="683,782,795,809"/>
+<area shape="rect" id="node2" href="$d7/dbe/class_geofence.html#a39dc1f54930821f1e7d0b488590605ca" title="implementation of updateFence(), but without locking " alt="" coords="228,325,396,352"/>
+<area shape="rect" id="node27" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="486,212,558,239"/>
+<area shape="rect" id="node36" href="$d6/d47/dataman_8cpp.html#a25194d86b5b868f96ccb42843d3dda8e" title="Try to lock all items of a type (. " alt="" coords="479,268,565,295"/>
+<area shape="rect" id="node37" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="269,376,355,403"/>
+<area shape="rect" id="node38" href="$d7/dbe/class_geofence.html#a1ce8999e183228080ae6b4e9be3e8b5a" title="Check if a single point is within a circle. " alt="" coords="235,1005,389,1032"/>
+<area shape="rect" id="node46" href="$d7/dbe/class_geofence.html#a11637131c4a1374b8caf70d1e075e898" title="Check if a single point is within a polygon. " alt="" coords="229,224,395,251"/>
+<area shape="rect" id="node47" href="$d7/dbe/class_geofence.html#ad99fc4b19328d3472168c834a2f1688e" title="Geofence::isEmpty" alt="" coords="245,477,379,504"/>
+<area shape="rect" id="node3" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="454,437,590,464"/>
+<area shape="rect" id="node4" href="$d7/d09/geo_8cpp.html#a5e68ad5e5e2cbff411bc04cd80724856" title="get_distance_to_point\l_global_wgs84" alt="" coords="665,830,814,871"/>
+<area shape="rect" id="node9" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Getters. " alt="" coords="668,598,811,639"/>
+<area shape="rect" id="node10" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="661,365,817,406"/>
+<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#ac06b22528a29f5026a17c3a94ebefc0f" title="Navigator::home_position\l_valid" alt="" coords="654,430,825,471"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="915,212,1040,239"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="679,547,800,573"/>
+<area shape="rect" id="node24" href="$d7/dbe/class_geofence.html#a4320f677f09ba52177dfb86e09875bfe" title="Geofence::isHomeRequired" alt="" coords="648,496,831,523"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="928,820,1027,847"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="934,972,1021,999"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1157,972,1240,999"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="933,921,1021,948"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="929,415,1026,441"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="936,465,1019,492"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="926,516,1029,543"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="926,567,1029,593"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="933,617,1021,644"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="938,668,1017,695"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="936,719,1019,745"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="894,769,1061,796"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="947,313,1008,340"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="897,364,1058,391"/>
+<area shape="rect" id="node25" href="$d7/dbe/class_geofence.html#a97ff2969e0fa939eca32a56e8ff631b9" title="Geofence::getGeofenceAction" alt="" coords="879,263,1076,289"/>
+<area shape="rect" id="node26" href="$d7/dbe/class_geofence.html#ad1154e56e295e9920d2b8707ba0e0883" title="print Geofence status to the console " alt="" coords="1124,263,1273,289"/>
+<area shape="rect" id="node28" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="915,5,1040,32"/>
+<area shape="rect" id="node31" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="656,95,823,137"/>
+<area shape="rect" id="node33" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="699,263,780,289"/>
+<area shape="rect" id="node34" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="698,212,781,239"/>
+<area shape="rect" id="node35" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="703,161,775,188"/>
+<area shape="rect" id="node29" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1155,56,1243,83"/>
+<area shape="rect" id="node30" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1147,107,1250,133"/>
+<area shape="rect" id="node32" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="911,107,1043,133"/>
+<area shape="rect" id="node39" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="654,1216,825,1243"/>
+<area shape="rect" id="node40" href="$d7/d09/geo_8cpp.html#a0233fe4ad7352b7918faeaf7aa5d8818" title="Initializes the map transformation given by the argument and sets the timestamp to now..." alt="" coords="455,1005,589,1032"/>
+<area shape="rect" id="node43" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="444,1064,600,1091"/>
+<area shape="rect" id="node41" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="672,998,807,1039"/>
+<area shape="rect" id="node42" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="927,1085,1028,1112"/>
+<area shape="rect" id="node44" href="$d0/de4/namespacematrix.html#a86262fad1a82743f455537b64e00fc2e" title="matrix::acos" alt="" coords="692,896,787,923"/>
+<area shape="rect" id="node45" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="683,1064,795,1091"/>
 </map>

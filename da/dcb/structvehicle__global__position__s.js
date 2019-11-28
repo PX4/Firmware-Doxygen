@@ -1,6 +1,8 @@
 var structvehicle__global__position__s =
 [
+    [ "_padding0", "da/dcb/structvehicle__global__position__s.html#ae52ec507e4977208ef461b18659b6a1a", null ],
     [ "alt", "da/dcb/structvehicle__global__position__s.html#a9a576ebabe4dc0ef1bff7c709d3b6e9a", null ],
+    [ "alt_ellipsoid", "da/dcb/structvehicle__global__position__s.html#a7470473c2f7acc03be19447934b8dbd1", null ],
     [ "alt_reset_counter", "da/dcb/structvehicle__global__position__s.html#abc551f38a61e48bc324ebd0b6a229ba0", null ],
     [ "dead_reckoning", "da/dcb/structvehicle__global__position__s.html#ad1359b7c020183393c11d324f6f48048", null ],
     [ "delta_alt", "da/dcb/structvehicle__global__position__s.html#a4e6977a137d86c44f0e7b825f6838ac1", null ],

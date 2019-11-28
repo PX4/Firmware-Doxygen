@@ -1,20 +1,22 @@
 <map id="src/modules/commander/esc_calibration.cpp" name="src/modules/commander/esc_calibration.cpp">
-<area shape="rect" id="node2" href="$d1/d14/esc__calibration_8h.html" title="Definition of esc calibration. " alt="" coords="735,102,855,129"/>
-<area shape="rect" id="node4" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="990,273,1099,300"/>
-<area shape="rect" id="node8" href="$d0/dc4/calibration__messages_8h.html" title="Common calibration messages. " alt="" coords="1956,102,2115,129"/>
-<area shape="rect" id="node9" href="$d7/da9/calibration__routines_8h.html" title="Don Gagne don@thegagnes.com " alt="" coords="2139,102,2284,129"/>
-<area shape="rect" id="node15" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="501,102,609,129"/>
-<area shape="rect" id="node20" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1183,273,1285,300"/>
-<area shape="rect" id="node23" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="1737,191,1829,218"/>
-<area shape="rect" id="node28" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="5,273,92,300"/>
-<area shape="rect" id="node30" href="$d0/dbb/drv__pwm__output_8h.html" title="drivers/drv_pwm_output.h" alt="" coords="1405,102,1577,129"/>
-<area shape="rect" id="node33" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="907,184,1049,225"/>
-<area shape="rect" id="node34" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="931,95,1073,136"/>
-<area shape="rect" id="node35" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="164,191,280,218"/>
-<area shape="rect" id="node37" href="$de/dac/src_2modules_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="1098,102,1261,129"/>
-<area shape="rect" id="node3" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="736,184,884,225"/>
-<area shape="rect" id="node16" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="356,191,435,218"/>
-<area shape="rect" id="node24" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="1569,273,1662,300"/>
-<area shape="rect" id="node26" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="1788,273,1875,300"/>
-<area shape="rect" id="node32" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1457,191,1561,218"/>
+<area shape="rect" id="node2" href="$d1/d14/esc__calibration_8h.html" title="Definition of esc calibration. " alt="" coords="550,95,670,121"/>
+<area shape="rect" id="node8" href="$d0/dc4/calibration__messages_8h.html" title="Common calibration messages. " alt="" coords="45,95,204,121"/>
+<area shape="rect" id="node9" href="$d7/da9/calibration__routines_8h.html" title="calibration_routines.h" alt="" coords="228,95,373,121"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="759,437,875,464"/>
+<area shape="rect" id="node15" href="$d0/dbb/drv__pwm__output_8h.html" title="drivers/drv_pwm_output.h" alt="" coords="500,355,672,382"/>
+<area shape="rect" id="node20" href="$d2/d58/src_2lib_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="694,95,857,121"/>
+<area shape="rect" id="node22" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="1073,95,1232,121"/>
+<area shape="rect" id="node41" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="877,169,1018,211"/>
+<area shape="rect" id="node3" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="551,169,699,211"/>
+<area shape="rect" id="node4" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="950,437,1059,464"/>
+<area shape="rect" id="node18" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="630,437,734,464"/>
+<area shape="rect" id="node23" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="uORBDeviceNode.hpp" alt="" coords="1315,177,1470,203"/>
+<area shape="rect" id="node37" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="uORBManager.hpp" alt="" coords="1707,177,1841,203"/>
+<area shape="rect" id="node40" href="$d9/d38/u_o_r_b_utils_8hpp.html" title="uORBUtils.hpp" alt="" coords="1144,177,1255,203"/>
+<area shape="rect" id="node24" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="978,355,1114,382"/>
+<area shape="rect" id="node30" href="$d5/d10/u_o_r_b_device_master_8hpp.html" title="uORBDeviceMaster.hpp" alt="" coords="1600,266,1764,293"/>
+<area shape="rect" id="node32" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="1837,355,1969,382"/>
+<area shape="rect" id="node33" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="1363,266,1494,293"/>
+<area shape="rect" id="node25" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1772,437,1880,464"/>
+<area shape="rect" id="node35" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="1317,355,1481,382"/>
 </map>

@@ -1,14 +1,7 @@
 <map id="PX4FMU::update_pwm_out_state" name="PX4FMU::update_pwm_out_state">
-<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="212,78,379,105"/>
-<area shape="rect" id="node8" href="$d0/dbb/drv__pwm__output_8h.html#acae7bc2a82d7fb3cfffab568cfccdaee" title="Arm or disarm servo outputs. " alt="" coords="226,137,365,163"/>
-<area shape="rect" id="node10" href="$d0/dbb/drv__pwm__output_8h.html#a282045de007d89d6943369f466628546" title="Intialise the PWM servo outputs using the specified configuration. " alt="" coords="228,238,363,265"/>
-<area shape="rect" id="node3" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="428,71,592,112"/>
-<area shape="rect" id="node6" href="$d0/dbb/drv__pwm__output_8h.html#aace3976c339490fde77b5691afb34fcc" title="Set the update rate for a given rate group. " alt="" coords="428,5,592,47"/>
-<area shape="rect" id="node4" href="$df/d04/kinetis_2drv__io__timer_8c.html#aad3a035250ee099bc93058614b0c0991" title="io_timer_get_group" alt="" coords="671,78,803,105"/>
-<area shape="rect" id="node5" href="$df/d04/kinetis_2drv__io__timer_8c.html#aa05b59458783481df45d51f51d8eb30f" title="io_timer_get_mode_channels" alt="" coords="641,234,832,261"/>
-<area shape="rect" id="node7" href="$df/d04/kinetis_2drv__io__timer_8c.html#ac0ff22c1218384d5e8d2a1edd783e8eb" title="io_timer_set_rate" alt="" coords="675,13,798,39"/>
-<area shape="rect" id="node9" href="$df/d04/kinetis_2drv__io__timer_8c.html#a8d131a07acda51dc5e4f5422f845e9fe" title="io_timer_set_enable" alt="" coords="441,137,579,163"/>
-<area shape="rect" id="node11" href="$df/d04/kinetis_2drv__io__timer_8c.html#a343379143ce0393538db2d45ecc62937" title="io_timer_channel_init" alt="" coords="438,187,582,214"/>
-<area shape="rect" id="node12" href="$df/d04/kinetis_2drv__io__timer_8c.html#af4ccab9ca17f8ab3707ce27720c598b1" title="io_timer_free_channel" alt="" coords="435,238,585,265"/>
-<area shape="rect" id="node13" href="$df/d04/kinetis_2drv__io__timer_8c.html#a8652ddbf6db397a7600db2712eea5b44" title="io_timer_is_channel_free" alt="" coords="427,289,593,315"/>
+<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#ad7cf9fdfc88afa49cfc167e13b214420" title="PX4FMU::set_pwm_rate" alt="" coords="212,45,379,71"/>
+<area shape="rect" id="node5" href="$d0/dbb/drv__pwm__output_8h.html#acae7bc2a82d7fb3cfffab568cfccdaee" title="Arm or disarm servo outputs. " alt="" coords="226,95,365,122"/>
+<area shape="rect" id="node6" href="$d0/dbb/drv__pwm__output_8h.html#a282045de007d89d6943369f466628546" title="Intialise the PWM servo outputs using the specified configuration. " alt="" coords="228,146,363,173"/>
+<area shape="rect" id="node3" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="427,5,591,47"/>
+<area shape="rect" id="node4" href="$d0/dbb/drv__pwm__output_8h.html#aace3976c339490fde77b5691afb34fcc" title="Set the update rate for a given rate group. " alt="" coords="427,71,591,112"/>
 </map>

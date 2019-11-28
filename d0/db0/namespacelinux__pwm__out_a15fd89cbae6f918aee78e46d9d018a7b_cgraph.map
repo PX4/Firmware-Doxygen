@@ -1,51 +1,51 @@
 <map id="linux_pwm_out::start" name="linux_pwm_out::start">
-<area shape="rect" id="node2" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="196,693,348,720"/>
-<area shape="rect" id="node3" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="201,745,343,786"/>
-<area shape="rect" id="node4" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="396,752,573,779"/>
-<area shape="rect" id="node5" href="$d0/db0/namespacelinux__pwm__out.html#a83d0434bdab40f1bc6fc21c6fc5df515" title="linux_pwm_out::initialize\l_mixer" alt="" coords="640,99,804,141"/>
-<area shape="rect" id="node12" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1167,191,1205,217"/>
-<area shape="rect" id="node14" href="$d4/dc0/classlinux__pwm__out_1_1_p_w_m_out_base.html#af1e2d06997be00ae130fd87da63fc305" title="linux_pwm_out::PWMOutBase\l::init" alt="" coords="621,275,823,317"/>
-<area shape="rect" id="node15" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="654,341,790,382"/>
-<area shape="rect" id="node17" href="$d0/db0/namespacelinux__pwm__out.html#abeed8907528a770b555496e3b00d01b9" title="linux_pwm_out::subscribe" alt="" coords="635,407,809,433"/>
-<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="909,368,1011,395"/>
-<area shape="rect" id="node21" href="$d0/db0/namespacelinux__pwm__out.html#a76625f6969e00428b2148820126b748e" title="linux_pwm_out::update\l_params" alt="" coords="644,509,800,550"/>
-<area shape="rect" id="node25" href="$d2/d09/pwm__limit_8cpp.html#ae3de6fee4531aea8b7281b9876803c09" title="pwm_limit_init" alt="" coords="669,575,775,601"/>
-<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="919,571,1001,597"/>
-<area shape="rect" id="node28" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="923,992,997,1019"/>
-<area shape="rect" id="node30" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="638,676,806,703"/>
-<area shape="rect" id="node32" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="687,727,757,753"/>
-<area shape="rect" id="node36" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="930,824,990,851"/>
-<area shape="rect" id="node37" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="663,929,781,956"/>
-<area shape="rect" id="node39" href="$d2/d09/pwm__limit_8cpp.html#a1f8a7620629f6261224f8c4c9c28ee7d" title="pwm_limit_calc" alt="" coords="666,1097,778,1124"/>
-<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="897,1093,1023,1120"/>
-<area shape="rect" id="node42" href="$d4/dc0/classlinux__pwm__out_1_1_p_w_m_out_base.html#ac1205e0cece1c918d5626fde03a92583" title="linux_pwm_out::PWMOutBase\l::send_output_pwm" alt="" coords="621,1031,823,1073"/>
-<area shape="rect" id="node43" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="916,1195,1004,1221"/>
-<area shape="rect" id="node45" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="672,828,772,855"/>
-<area shape="rect" id="node48" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="661,1199,783,1225"/>
-<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="901,1245,1019,1272"/>
-<area shape="rect" id="node50" href="$dd/d78/perf__counter_8c.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="685,1300,759,1327"/>
-<area shape="rect" id="node6" href="$d9/dbb/class_mixer_group.html#a3b230aef7d69cab162cc2b3f36e3834d" title="Count the mixers in the group. " alt="" coords="895,5,1025,32"/>
-<area shape="rect" id="node7" href="$d9/dbb/class_mixer_group.html#a7bd735772388a8b1d9f4cc41dd8ec7d1" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="871,56,1049,83"/>
-<area shape="rect" id="node11" href="$db/def/mixer__load_8c.html#a602ebf0e58595c0a7e1a1553969b4fa8" title="load_mixer_file" alt="" coords="905,107,1015,133"/>
-<area shape="rect" id="node13" href="$d0/db0/namespacelinux__pwm__out.html#aae66b89b72ef89c70dcc1651768e050b" title="linux_pwm_out::mixer\l_control_callback" alt="" coords="885,158,1035,199"/>
-<area shape="rect" id="node8" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="1107,5,1265,32"/>
-<area shape="rect" id="node9" href="$d8/d40/class_null_mixer.html#a898d2500fcf86c626c17c9080497eb65" title="Factory method. " alt="" coords="1116,56,1256,83"/>
-<area shape="rect" id="node10" href="$d3/dc4/class_simple_mixer.html#a4db178ad15ab4ff1815f92fccb472bb3" title="Factory method with full external configuration. " alt="" coords="1107,107,1265,133"/>
-<area shape="rect" id="node16" href="$de/d2d/class_mixer.html#a7490fba3e26745dcf8ea90d1286bc013" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="883,317,1037,344"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1115,973,1257,1014"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1115,498,1257,539"/>
-<area shape="rect" id="node22" href="$de/de9/px4__param_8h.html#a2b8101dab7f22f9995c2db92891af07e" title="get the parameter handle from a parameter enum " alt="" coords="909,419,1011,445"/>
-<area shape="rect" id="node23" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="917,469,1003,496"/>
-<area shape="rect" id="node24" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="919,520,1001,547"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1115,702,1257,743"/>
-<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1097,908,1275,935"/>
-<area shape="rect" id="node31" href="$de/d2d/class_mixer.html#a6438664d6059e84a1689cca3637ce8d4" title="Set airmode. " alt="" coords="893,621,1027,648"/>
-<area shape="rect" id="node33" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="923,672,997,699"/>
-<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="895,723,1025,749"/>
-<area shape="rect" id="node35" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="913,773,1007,800"/>
-<area shape="rect" id="node38" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="919,1043,1001,1069"/>
-<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="899,1144,1021,1171"/>
-<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1115,1069,1257,1110"/>
-<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="889,875,1031,917"/>
-<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1115,1195,1257,1237"/>
+<area shape="rect" id="node2" href="$d0/db0/namespacelinux__pwm__out.html#abc075bdbbcfd59040e2522b15f6dca75" title="linux_pwm_out::task\l_main_trampoline" alt="" coords="196,912,339,953"/>
+<area shape="rect" id="node3" href="$d0/db0/namespacelinux__pwm__out.html#a430e02c86db26f5d5bf6c2db3af002d3" title="linux_pwm_out::task_main" alt="" coords="387,919,564,946"/>
+<area shape="rect" id="node4" href="$d0/db0/namespacelinux__pwm__out.html#a83d0434bdab40f1bc6fc21c6fc5df515" title="linux_pwm_out::initialize\l_mixer" alt="" coords="631,221,795,263"/>
+<area shape="rect" id="node10" href="$d9/dbb/class_mixer_group.html#a7b494ee1ca8c3b215a5be0ffec0328ab" title="MixerGroup::set_airmode" alt="" coords="1069,17,1237,43"/>
+<area shape="rect" id="node15" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1350,469,1389,495"/>
+<area shape="rect" id="node19" href="$d4/dc0/classlinux__pwm__out_1_1_p_w_m_out_base.html#af1e2d06997be00ae130fd87da63fc305" title="linux_pwm_out::PWMOutBase\l::init" alt="" coords="612,636,813,677"/>
+<area shape="rect" id="node20" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="MixerGroup::groups\l_required" alt="" coords="645,701,781,743"/>
+<area shape="rect" id="node22" href="$d0/db0/namespacelinux__pwm__out.html#abeed8907528a770b555496e3b00d01b9" title="linux_pwm_out::subscribe" alt="" coords="626,767,799,794"/>
+<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="887,755,990,782"/>
+<area shape="rect" id="node26" href="$d0/db0/namespacelinux__pwm__out.html#a4d9494fb11b55182e8eacd946c52652b" title="linux_pwm_out::update\l_params" alt="" coords="635,571,791,612"/>
+<area shape="rect" id="node29" href="$d6/d1e/output__limit_8cpp.html#a00b867cb288ca411052bb2430e20ad78" title="output_limit_init" alt="" coords="656,1122,769,1149"/>
+<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="897,806,980,833"/>
+<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="901,857,976,883"/>
+<area shape="rect" id="node34" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="677,1173,748,1199"/>
+<area shape="rect" id="node37" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="MixerGroup::mix" alt="" coords="653,519,772,546"/>
+<area shape="rect" id="node39" href="$d6/d1e/output__limit_8cpp.html#a089de4a9d701e540686e6fcb1ffcc457" title="output_limit_calc" alt="" coords="653,1227,773,1254"/>
+<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1091,1278,1216,1305"/>
+<area shape="rect" id="node42" href="$d4/dc0/classlinux__pwm__out_1_1_p_w_m_out_base.html#ac1205e0cece1c918d5626fde03a92583" title="linux_pwm_out::PWMOutBase\l::send_output_pwm" alt="" coords="612,1355,813,1396"/>
+<area shape="rect" id="node43" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="895,1025,983,1051"/>
+<area shape="rect" id="node45" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="663,970,763,997"/>
+<area shape="rect" id="node48" href="$df/d7b/perf__counter_8cpp.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="652,1421,773,1447"/>
+<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="880,1075,997,1102"/>
+<area shape="rect" id="node50" href="$df/d7b/perf__counter_8cpp.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="676,1471,749,1498"/>
+<area shape="rect" id="node5" href="$d9/dbb/class_mixer_group.html#a60d004c35b31da2b677b6a433fa07540" title="Count the mixers in the group. " alt="" coords="874,229,1003,255"/>
+<area shape="rect" id="node8" href="$d9/dbb/class_mixer_group.html#a5f745eabec06661908cbbfa7c656d0a6" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="1064,67,1243,94"/>
+<area shape="rect" id="node17" href="$db/da6/load__mixer__file_8cpp.html#a602ebf0e58595c0a7e1a1553969b4fa8" title="load_mixer_file" alt="" coords="1099,418,1208,445"/>
+<area shape="rect" id="node18" href="$d0/db0/namespacelinux__pwm__out.html#aae66b89b72ef89c70dcc1651768e050b" title="linux_pwm_out::mixer\l_control_callback" alt="" coords="864,112,1013,153"/>
+<area shape="rect" id="node6" href="$d9/dbb/class_mixer_group.html#af26886a788b8da2d0355b282db942d9f" title="MixerGroup::get_multirotor\l_count" alt="" coords="1065,119,1241,160"/>
+<area shape="rect" id="node7" href="$d9/dbb/class_mixer_group.html#a4fa3714b990c2552696fae0dbed90212" title="MixerGroup::get_trims" alt="" coords="1078,185,1229,211"/>
+<area shape="rect" id="node12" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="1080,236,1227,277"/>
+<area shape="rect" id="node13" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to motor control signal output..." alt="" coords="1076,301,1231,343"/>
+<area shape="rect" id="node14" href="$d9/dbb/class_mixer_group.html#a7c805254119d62180adbab7ed49e389b" title="MixerGroup::set_trims" alt="" coords="1078,367,1229,394"/>
+<area shape="rect" id="node9" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="1291,71,1448,98"/>
+<area shape="rect" id="node11" href="$d5/dd1/class_multirotor_mixer.html#a1283227e5bec15d91fb4d50147560dae" title="Set airmode. " alt="" coords="1302,5,1437,47"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1496,469,1579,495"/>
+<area shape="rect" id="node21" href="$d5/dd1/class_multirotor_mixer.html#a2eefd0c3d4a7538596809cf7f7df6732" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="861,689,1016,731"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1082,881,1225,923"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1082,751,1225,792"/>
+<area shape="rect" id="node27" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="895,621,982,647"/>
+<area shape="rect" id="node28" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="897,570,980,597"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1082,816,1225,857"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1065,947,1242,974"/>
+<area shape="rect" id="node35" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="901,1126,976,1153"/>
+<area shape="rect" id="node36" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="879,1177,999,1203"/>
+<area shape="rect" id="node38" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="870,519,1007,546"/>
+<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="878,1278,999,1305"/>
+<area shape="rect" id="node44" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1082,1000,1225,1041"/>
+<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="867,959,1010,1000"/>
+<area shape="rect" id="node47" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1082,1067,1225,1108"/>
 </map>

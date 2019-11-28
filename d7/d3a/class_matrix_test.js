@@ -9,6 +9,7 @@ var class_matrix_test =
     [ "matrixAssignmentTests", "d7/d3a/class_matrix_test.html#a94d5c8f7f86ab750150fd1f8ceffda32", null ],
     [ "matrixMultTests", "d7/d3a/class_matrix_test.html#a574db94aff287447bc5ba1b4b8de8543", null ],
     [ "matrixScalarMultTests", "d7/d3a/class_matrix_test.html#a049f3e0b8430ee8d417b94dbdbf85d95", null ],
+    [ "pseudoInverseTests", "d7/d3a/class_matrix_test.html#abe7770890ee1edb573c8d62e3bc40d7a", null ],
     [ "run_tests", "d7/d3a/class_matrix_test.html#acdd54e5697b95fb9103ee7623957180d", null ],
     [ "setIdentityTests", "d7/d3a/class_matrix_test.html#a047f1c6f418b4ac1616e699bd397197a", null ],
     [ "sliceTests", "d7/d3a/class_matrix_test.html#a4009f5a1bb0dde4b04b321af75992c05", null ],

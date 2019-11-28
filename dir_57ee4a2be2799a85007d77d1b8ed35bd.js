@@ -53,9 +53,10 @@ var dir_57ee4a2be2799a85007d77d1b8ed35bd =
     ] ],
     [ "rtl.cpp", "dc/d9b/rtl_8cpp.html", "dc/d9b/rtl_8cpp" ],
     [ "rtl.h", "dd/d87/rtl_8h.html", [
-      [ "RTL", "d8/d7e/class_r_t_l.html", "d8/d7e/class_r_t_l" ]
+      [ "RTL", "d8/d7e/class_r_t_l.html", "d8/d7e/class_r_t_l" ],
+      [ "RTLPosition", "d0/d58/struct_r_t_l_1_1_r_t_l_position.html", "d0/d58/struct_r_t_l_1_1_r_t_l_position" ]
     ] ],
-    [ "takeoff.cpp", "d0/d7a/takeoff_8cpp.html", null ],
+    [ "takeoff.cpp", "d7/d13/navigator_2_takeoff_8cpp.html", null ],
     [ "takeoff.h", "d0/d7b/takeoff_8h.html", [
       [ "Takeoff", "d8/d13/class_takeoff.html", "d8/d13/class_takeoff" ]
     ] ]

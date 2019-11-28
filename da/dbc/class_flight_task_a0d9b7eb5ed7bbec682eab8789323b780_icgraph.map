@@ -2,10 +2,6 @@
 <area shape="rect" id="node2" href="$da/dbc/class_flight_task.html#a28fcf5bd24f6d3ccf3ebb23a37a76093" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="184,57,367,98"/>
 <area shape="rect" id="node4" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="687,64,824,91"/>
 <area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="425,5,629,32"/>
-<area shape="rect" id="node10" href="$de/de4/class_flight_task_manual.html#a16249ae1f0f40c812e0c58265e707916" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="415,57,639,98"/>
-<area shape="rect" id="node5" href="$dc/d0c/class_flight_tasks.html#a480987e23ccc705b407d5ad5b40ac4f6" title="FlightTasks::~FlightTasks" alt="" coords="872,35,1047,61"/>
-<area shape="rect" id="node6" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="872,86,1047,127"/>
-<area shape="rect" id="node7" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="1095,86,1269,127"/>
-<area shape="rect" id="node8" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="1317,86,1492,127"/>
-<area shape="rect" id="node9" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="1540,93,1689,120"/>
+<area shape="rect" id="node6" href="$de/de4/class_flight_task_manual.html#a16249ae1f0f40c812e0c58265e707916" title="To be called to adopt parameters from an arrived vehicle command. " alt="" coords="415,57,639,98"/>
+<area shape="rect" id="node5" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="872,64,1079,91"/>
 </map>

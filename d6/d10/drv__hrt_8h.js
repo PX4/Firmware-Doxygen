@@ -12,9 +12,10 @@ var drv__hrt_8h =
     [ "hrt_call_init", "d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d", null ],
     [ "hrt_called", "d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d", null ],
     [ "hrt_cancel", "d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837", null ],
-    [ "hrt_elapsed_time", "d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d", null ],
+    [ "hrt_elapsed_time", "d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b", null ],
+    [ "hrt_elapsed_time_atomic", "d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8", null ],
     [ "hrt_init", "d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c", null ],
     [ "hrt_store_absolute_time", "d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8", null ],
-    [ "ts_to_abstime", "d6/d10/drv__hrt_8h.html#a46fb32db2412d39005fccc9f366dd017", null ],
+    [ "ts_to_abstime", "d6/d10/drv__hrt_8h.html#a5c6831e8da6bd379d6b3ec43d6c82bf0", null ],
     [ "hrt_abstime", "d6/d10/drv__hrt_8h.html#a9f8bbf0e883115e04a457a268533a87c", null ]
 ];

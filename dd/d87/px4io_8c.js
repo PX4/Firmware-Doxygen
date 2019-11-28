@@ -4,6 +4,9 @@ var px4io_8c =
     [ "APP_SIZE_MAX", "dd/d87/px4io_8c.html#aac463e9ed8001726c79f9dd09023028a", null ],
     [ "DEBUG", "dd/d87/px4io_8c.html#ad72dbcf6d0153db1b8d8a58001feed83", null ],
     [ "NUM_MSG", "dd/d87/px4io_8c.html#accaecfff6769aa8ea7c1707cbaffeed4", null ],
+    [ "atomic_modify_and", "dd/d87/px4io_8c.html#af67cfd9fb69b0e7a88b21343445a8b1e", null ],
+    [ "atomic_modify_clear", "dd/d87/px4io_8c.html#ab0b723e43f1feba5124006d3003ae109", null ],
+    [ "atomic_modify_or", "dd/d87/px4io_8c.html#a57935b5b5a854cd9b16c87df5ef8ada2", null ],
     [ "calculate_fw_crc", "dd/d87/px4io_8c.html#a24a82e1f711b1cc0384cb4956018c779", null ],
     [ "check_reboot", "dd/d87/px4io_8c.html#a85a11dcbfa69bcd044a15054bc1c1bd4", null ],
     [ "heartbeat_blink", "dd/d87/px4io_8c.html#af73613b49b20605ed407450b98b38861", null ],
@@ -19,7 +22,7 @@ var px4io_8c =
     [ "msg_counter", "dd/d87/px4io_8c.html#a306f1d5395ce1a5f5fb95c25cfc2ba0c", null ],
     [ "msg_next_in", "dd/d87/px4io_8c.html#a95c9c4fc3b0bba8ca95116fb1cc49bd2", null ],
     [ "msg_next_out", "dd/d87/px4io_8c.html#af6314208463f20ed0bb4c39a618f6b81", null ],
-    [ "pwm_limit", "dd/d87/px4io_8c.html#a3dbadd8f93f7d27611c1b9d38bd713ab", null ],
+    [ "pwm_limit", "dd/d87/px4io_8c.html#a54cd11575bccbc6ae5c59508581b34e7", null ],
     [ "reboot_time", "dd/d87/px4io_8c.html#aa0636b186dbcb26a2c90ab5b4c275889", null ],
     [ "serial_dma_call", "dd/d87/px4io_8c.html#a175528061aeb04cece8730ccce085fe0", null ],
     [ "system_state", "dd/d87/px4io_8c.html#a75dc2223e47e6a1bd7509f3d074fbf1a", null ]

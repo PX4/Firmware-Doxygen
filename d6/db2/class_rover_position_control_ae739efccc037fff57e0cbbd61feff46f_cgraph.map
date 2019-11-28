@@ -1,0 +1,37 @@
+<map id="RoverPositionControl::control_position" name="RoverPositionControl::control_position">
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#affae255211081a0cea17be3b29bfb87a" title="math::abs_t" alt="" coords="251,202,341,229"/>
+<area shape="rect" id="node3" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="663,985,775,1012"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="699,917,738,944"/>
+<area shape="rect" id="node7" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="200,354,392,381"/>
+<area shape="rect" id="node8" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="454,10,601,51"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="465,76,590,102"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="235,405,357,432"/>
+<area shape="rect" id="node24" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a6981ae139b114e17944206a7bb50e4b7" title="Get lateral acceleration demand. " alt="" coords="211,1057,381,1113"/>
+<area shape="rect" id="node25" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a4812a285e3309e23e33f86f5cb86cf78" title="Navigate between two waypoints. " alt="" coords="215,860,377,902"/>
+<area shape="rect" id="node34" href="$d1/d71/classmatrix_1_1_vector.html#a654e7329525d3818abf20afe965f3b5b" title="matrix::Vector::norm\l_squared" alt="" coords="225,1188,367,1230"/>
+<area shape="rect" id="node35" href="$d8/dcb/pid_8cpp.html#a9922a32e0572e0961cb34ba0440da32c" title="pid_calculate" alt="" coords="247,1254,345,1281"/>
+<area shape="rect" id="node36" href="$dd/d47/namespacemath.html#a170c8bc1488f2665d663d8234e3356a6" title="math::sign" alt="" coords="255,1305,337,1332"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="829,805,911,832"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="967,780,1054,806"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="669,144,768,170"/>
+<area shape="rect" id="node10" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="668,700,769,726"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="675,93,763,120"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="479,532,576,558"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="486,582,569,609"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="476,126,579,153"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="476,177,579,204"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="483,228,571,254"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="488,278,567,305"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="486,329,569,356"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="444,380,611,406"/>
+<area shape="rect" id="node22" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="497,430,558,457"/>
+<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="447,481,608,508"/>
+<area shape="rect" id="node26" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="458,802,597,843"/>
+<area shape="rect" id="node30" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#af693c7fe83fbb45f103062f97e412aae" title="Convert a 2D vector from WGS84 to planar coordinates. " alt="" coords="444,684,611,726"/>
+<area shape="rect" id="node31" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="485,1036,569,1062"/>
+<area shape="rect" id="node32" href="$d1/d71/classmatrix_1_1_vector.html#aaed6e2f480ce5d7031d1547e05f8fe76" title="matrix::Vector::normalized" alt="" coords="440,633,615,660"/>
+<area shape="rect" id="node33" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#adcbf0ee88d4daf62942f15100a689af3" title="Update roll angle setpoint. " alt="" coords="446,919,609,960"/>
+<area shape="rect" id="node27" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="663,856,774,882"/>
+<area shape="rect" id="node28" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="823,856,917,882"/>
+<area shape="rect" id="node29" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="965,856,1056,882"/>
+</map>

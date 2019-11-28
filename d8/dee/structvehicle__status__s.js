@@ -1,20 +1,22 @@
 var structvehicle__status__s =
 [
-    [ "_padding0", "d8/dee/structvehicle__status__s.html#ab56165b1a35f895d94e5316ce2aaa974", null ],
+    [ "_padding0", "d8/dee/structvehicle__status__s.html#ad81218e5399cd4c3a8112a400d8e5644", null ],
     [ "arming_state", "d8/dee/structvehicle__status__s.html#af719bbd029ae6e9bc3eac64e9071b40d", null ],
     [ "component_id", "d8/dee/structvehicle__status__s.html#a1a3cc064f154b4354a8fdcab80eeac4a", null ],
     [ "data_link_lost", "d8/dee/structvehicle__status__s.html#acf14f5fa1366e5fd4b23c9f708abfc46", null ],
     [ "data_link_lost_counter", "d8/dee/structvehicle__status__s.html#ab2fee9d4848de8e97f275d3bdd6acddf", null ],
     [ "engine_failure", "d8/dee/structvehicle__status__s.html#ad0ebc3155e091da9b5f84578af8627aa", null ],
     [ "failsafe", "d8/dee/structvehicle__status__s.html#a960168242069cb0cac89e460e0ce391b", null ],
-    [ "high_latency_data_link_active", "d8/dee/structvehicle__status__s.html#a791f24dab19dc433eabd2f32b8024638", null ],
+    [ "failure_detector_status", "d8/dee/structvehicle__status__s.html#a8ba9086428c85b570545a4ec58142801", null ],
+    [ "high_latency_data_link_lost", "d8/dee/structvehicle__status__s.html#ab8c69da0c8f5d0672fd5da3ede56eff4", null ],
     [ "hil_state", "d8/dee/structvehicle__status__s.html#a477f9050e58a25f419da7f643b4c52fb", null ],
     [ "in_transition_mode", "d8/dee/structvehicle__status__s.html#a79ea24b417038eeffbcd2465e94af16b", null ],
     [ "in_transition_to_fw", "d8/dee/structvehicle__status__s.html#ac8d6d35a973defcbdd48f855ee191044", null ],
-    [ "is_rotary_wing", "d8/dee/structvehicle__status__s.html#a440de8c15ef23284bb5041b54b4edd35", null ],
     [ "is_vtol", "d8/dee/structvehicle__status__s.html#a6933ad99aa1ab7be2ca6bac09268fe7d", null ],
+    [ "is_vtol_tailsitter", "d8/dee/structvehicle__status__s.html#a0ac7f49b2791a05114610bd7cd4403bd", null ],
     [ "mission_failure", "d8/dee/structvehicle__status__s.html#af4cedc421ae8ff1d0036ffae953f4ff1", null ],
     [ "nav_state", "d8/dee/structvehicle__status__s.html#ae26ef24bdabb5128240bc28750ef0dd2", null ],
+    [ "nav_state_timestamp", "d8/dee/structvehicle__status__s.html#a5e708e60494b8d8e592dd0112470e41c", null ],
     [ "onboard_control_sensors_enabled", "d8/dee/structvehicle__status__s.html#a8dc044f495c9c3d4db3e384bd82ca26b", null ],
     [ "onboard_control_sensors_health", "d8/dee/structvehicle__status__s.html#ac32351ca1addd7bc3d1f003997192db5", null ],
     [ "onboard_control_sensors_present", "d8/dee/structvehicle__status__s.html#a730666be4d1b4ffbf3ff02effa7d04d2", null ],
@@ -23,5 +25,6 @@ var structvehicle__status__s =
     [ "system_id", "d8/dee/structvehicle__status__s.html#adaecaa390e38921923f07353069200d0", null ],
     [ "system_type", "d8/dee/structvehicle__status__s.html#a77354aa68f159914167923823d9b3969", null ],
     [ "timestamp", "d8/dee/structvehicle__status__s.html#a565a5ab4cfcae22faba52debbd7d855f", null ],
+    [ "vehicle_type", "d8/dee/structvehicle__status__s.html#a0f926ec27b7328942df68e06ba922efd", null ],
     [ "vtol_fw_permanent_stab", "d8/dee/structvehicle__status__s.html#ab1296ede7579a9dc43aa8a9a6bd06b3a", null ]
 ];

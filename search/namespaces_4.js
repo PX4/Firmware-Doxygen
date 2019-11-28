@@ -13,6 +13,5 @@ var searchData=
   ['df_5fmpu9250_5fwrapper',['df_mpu9250_wrapper',['../d9/d33/namespacedf__mpu9250__wrapper.html',1,'']]],
   ['df_5fms5607_5fwrapper',['df_ms5607_wrapper',['../de/d89/namespacedf__ms5607__wrapper.html',1,'']]],
   ['df_5fms5611_5fwrapper',['df_ms5611_wrapper',['../d4/d93/namespacedf__ms5611__wrapper.html',1,'']]],
-  ['df_5ftrone_5fwrapper',['df_trone_wrapper',['../d8/d32/namespacedf__trone__wrapper.html',1,'']]],
-  ['do_5fnot_5fexplicitly_5fuse_5fthis_5fnamespace',['do_not_explicitly_use_this_namespace',['../d6/dee/namespacedo__not__explicitly__use__this__namespace.html',1,'']]]
+  ['df_5ftrone_5fwrapper',['df_trone_wrapper',['../d8/d32/namespacedf__trone__wrapper.html',1,'']]]
 ];

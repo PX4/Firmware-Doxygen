@@ -59,14 +59,12 @@ var mpu9250_8h =
     [ "MPU9250_IS_HIGH_SPEED", "db/d35/mpu9250_8h.html#acb865c25a7cce0756affc040aa3647d4", null ],
     [ "MPU9250_LOW_BUS_SPEED", "db/d35/mpu9250_8h.html#a378799add6017b1ee57294cc5c71c6fd", null ],
     [ "MPU9250_LOW_SPEED_OP", "db/d35/mpu9250_8h.html#aabdaac96145c5c6d14b3846e73d9310b", null ],
-    [ "MPU9250_NUM_CHECKED_REGISTERS", "db/d35/mpu9250_8h.html#a35124f973bf10f92c889be61746e1318", null ],
     [ "MPU9250_REG", "db/d35/mpu9250_8h.html#a07363a0a15ddef0f341051d037225e76", null ],
+    [ "MPU9250_REG_MASK", "db/d35/mpu9250_8h.html#aebb89c7d0cc1c145ec4e6497a84f6118", null ],
     [ "MPU9250_SET_SPEED", "db/d35/mpu9250_8h.html#aca805fd274fd682775574c1f3f714a2b", null ],
     [ "MPU_CLK_SEL_AUTO", "db/d35/mpu9250_8h.html#aca7540bd74c76e0acd77d4f1259f59f3", null ],
-    [ "MPU_MAX_WRITE_BUFFER_SIZE", "db/d35/mpu9250_8h.html#adda7e65b59549c3ca4dacbbb706e6142", null ],
     [ "MPU_WHOAMI_6500", "db/d35/mpu9250_8h.html#a99d7ab7a9943050a7819e7a5c1519486", null ],
     [ "MPU_WHOAMI_9250", "db/d35/mpu9250_8h.html#a10d4cb05c51eac0efde9b3520c61f121", null ],
-    [ "MPUIOCGIS_I2C", "db/d35/mpu9250_8h.html#aa213026c928c3bc5ff42e524d031572a", null ],
     [ "MPUREG_ACCEL_CONFIG", "db/d35/mpu9250_8h.html#a8a9ed30b1f8ade85d63d9de15a6450bc", null ],
     [ "MPUREG_ACCEL_CONFIG2", "db/d35/mpu9250_8h.html#a7c59a019be9fc4e45b7796176c32dde5", null ],
     [ "MPUREG_ACCEL_XOUT_H", "db/d35/mpu9250_8h.html#ae2c995f4d257a72ccc833cb1ae6917a0", null ],
@@ -126,8 +124,8 @@ var mpu9250_8h =
     [ "MPUREG_USER_CTRL", "db/d35/mpu9250_8h.html#a8f4f5a02247e0dc78f3c1b796a19225c", null ],
     [ "MPUREG_WHOAMI", "db/d35/mpu9250_8h.html#af5367cbad74bc39a3ebe8777e1115642", null ],
     [ "MPUREG_WOM_THRESH", "db/d35/mpu9250_8h.html#a02910357df2387a4304a43b58eeac251", null ],
-    [ "MPU9250_constructor", "db/d35/mpu9250_8h.html#a5be62aa4b3ff29ba3492ca5ca4584ec5", null ],
-    [ "MPU9250_I2C_interface", "db/d35/mpu9250_8h.html#a3d78677d58c05c969eec2c2f8426ab61", null ],
-    [ "MPU9250_probe", "db/d35/mpu9250_8h.html#ac07d10058f06e015b30c41e84f0c638b", null ],
-    [ "MPU9250_SPI_interface", "db/d35/mpu9250_8h.html#a7aa16699afb2eb082c97cf8c8d11198b", null ]
+    [ "MPU9250_constructor", "db/d35/mpu9250_8h.html#a0a1e9eb4e7ebab986bf60d202662b715", null ],
+    [ "MPU9250_I2C_interface", "db/d35/mpu9250_8h.html#a4780a83ee8ff3aa0d24d46fffc021fce", null ],
+    [ "MPU9250_probe", "db/d35/mpu9250_8h.html#abc79c8a3ef3ea39ff44318a250b4ef5a", null ],
+    [ "MPU9250_SPI_interface", "db/d35/mpu9250_8h.html#abf1047796a7256a46dfcfb8f670629b4", null ]
 ];

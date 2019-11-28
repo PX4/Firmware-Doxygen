@@ -1,0 +1,51 @@
+<map id="uORB::PublicationQueued::publish" name="uORB::PublicationQueued::publish">
+<area shape="rect" id="node2" href="$d2/da2/class_obstacle_avoidance.html#a4338ad0447c38b52c51fdacc972d0660" title="Publishes vehicle command. " alt="" coords="242,5,433,47"/>
+<area shape="rect" id="node4" href="$d7/d08/class_collision_prevention.html#a4b0c3ac2900d1bb98cad399c1484add1" title="Publishes vehicle command. " alt="" coords="238,71,437,112"/>
+<area shape="rect" id="node6" href="$dc/d0c/class_flight_tasks.html#a8264a8ba9d1c4535dcfbca0a414d16de" title="Check for vehicle commands (received via MAVLink), evaluate and acknowledge them. ..." alt="" coords="235,137,439,163"/>
+<area shape="rect" id="node8" href="$da/d89/class_mavlink_receiver.html#a18e5148a99c349728e4a3f596f78d06d" title="MavlinkReceiver::acknowledge" alt="" coords="236,238,439,265"/>
+<area shape="rect" id="node9" href="$da/d89/class_mavlink_receiver.html#a72518d540ed247b6fcc0fb63592dd319" title="Common method to handle both mavlink command types. " alt="" coords="521,188,699,229"/>
+<area shape="rect" id="node14" href="$da/d73/_commander_8cpp.html#adc02d6b4e57dff77e6f3fe5d6c1002cd" title="answer_command" alt="" coords="273,659,401,686"/>
+<area shape="rect" id="node17" href="$d9/dc3/classsensors_1_1_voted_sensors_update.html#a8262dea5f54584f5f8cef7ac9540c664" title="Check &amp; handle failover of a sensor. " alt="" coords="237,711,437,752"/>
+<area shape="rect" id="node18" href="$d1/d58/class_g_p_s.html#a573fb27a45939a216883d5acf62cecd6" title="Dump gps communication. " alt="" coords="266,777,409,803"/>
+<area shape="rect" id="node22" href="$df/d61/class_mavlink_parameters_manager.html#afe519f27916dd036565efe8c0b9904d0" title="MavlinkParametersManager\l::handle_message" alt="" coords="518,559,702,600"/>
+<area shape="rect" id="node23" href="$da/d89/class_mavlink_receiver.html#a99ccc8a95c622b330a7dbf6834683015" title="MavlinkReceiver::handle\l_message_adsb_vehicle" alt="" coords="793,253,958,295"/>
+<area shape="rect" id="node24" href="$da/d89/class_mavlink_receiver.html#a60de862706af04370f629a561a665f35" title="MavlinkReceiver::handle\l_message_command_ack" alt="" coords="788,319,963,360"/>
+<area shape="rect" id="node25" href="$da/d89/class_mavlink_receiver.html#aace4112bca36d5dfe6fd105751e425e8" title="MavlinkReceiver::handle\l_message_gps_rtcm_data" alt="" coords="788,384,963,425"/>
+<area shape="rect" id="node26" href="$da/d89/class_mavlink_receiver.html#a37bf03e77ef1081e6d0074d30a009965" title="MavlinkReceiver::handle\l_message_set_mode" alt="" coords="793,449,958,491"/>
+<area shape="rect" id="node27" href="$da/d89/class_mavlink_receiver.html#a041e5a1dd65b8c2282d97f98c6ce8422" title="MavlinkReceiver::handle\l_message_utm_global_position" alt="" coords="773,515,977,556"/>
+<area shape="rect" id="node28" href="$d1/d58/class_g_p_s.html#a13e4563d284fe4aae21b190fd2388cda" title="GPS::initializeCommunicationDump" alt="" coords="495,827,725,854"/>
+<area shape="rect" id="node29" href="$d3/d55/classevents_1_1status_1_1_status_display.html#ab02f42314609963a41e26fb854361288" title="publish LED control " alt="" coords="240,879,435,920"/>
+<area shape="rect" id="node31" href="$d5/dce/class_temperature_calibration.html#ad539884f3c76fdcedf530271965b27b5" title="TemperatureCalibration\l::publish_led_control" alt="" coords="259,944,416,985"/>
+<area shape="rect" id="node33" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a9198b429adaaa9df6ba778ffed5a44ba" title="publish message, wait for ack if needed &amp; reset message " alt="" coords="240,1009,435,1051"/>
+<area shape="rect" id="node37" href="$d9/d04/class_iridium_s_b_d.html#ace803bbf3423bf87f4a661a49eeec31a" title="IridiumSBD::publish\l_subsystem_status" alt="" coords="268,1075,407,1116"/>
+<area shape="rect" id="node39" href="$df/d1f/class_mavlink.html#ab4e6e3917729f253abebb4e6c48ed1d4" title="Mavlink::publish_telemetry\l_status" alt="" coords="249,1140,426,1181"/>
+<area shape="rect" id="node41" href="$d0/df9/class_navigator.html#aa0008ff5b06fc82b3d3707b0779ea01b" title="Navigator::publish\l_vehicle_cmd" alt="" coords="274,1205,401,1247"/>
+<area shape="rect" id="node44" href="$d0/df9/class_navigator.html#a5eb0dae68c83a6b2b0d60af7f82c5f5a" title="Navigator::publish\l_vehicle_command_ack" alt="" coords="256,1271,419,1312"/>
+<area shape="rect" id="node45" href="$df/d61/class_mavlink_parameters_manager.html#a07214754e58d3ff89e8cf7f689e16ec7" title="Request the next uavcan parameter. " alt="" coords="228,593,447,635"/>
+<area shape="rect" id="node46" href="$d0/db8/class_camera_capture.html#ab9a782c55f4f83992d0b362de46031f1" title="CameraCapture::Run" alt="" coords="264,1337,411,1363"/>
+<area shape="rect" id="node47" href="$d3/df7/class_uavcan_servers.html#a6c443712b288a4dfc98ea47af36921f6" title="UavcanServers::run" alt="" coords="268,1387,407,1414"/>
+<area shape="rect" id="node48" href="$dc/d86/class_camera_trigger.html#a0e0f8ce74b4be6591a0c5f6e63d4da46" title="Vehicle command handler. " alt="" coords="267,1438,407,1465"/>
+<area shape="rect" id="node49" href="$dd/d4e/class_multicopter_position_control.html#a05fdc46b25c32028edf6b1f1422b1600" title="send vehicle command to inform commander about failsafe " alt="" coords="250,1489,425,1531"/>
+<area shape="rect" id="node50" href="$d8/db5/classvmount_1_1_output_mavlink.html#a54444810002c7cdb0a2b5fec407c14c7" title="Update the output. " alt="" coords="259,1555,416,1596"/>
+<area shape="rect" id="node3" href="$d2/da2/class_obstacle_avoidance.html#a6534d510a7244924fea4f14ac877ca08" title="Inject setpoints from obstacle avoidance system into FlightTasks. " alt="" coords="525,5,695,47"/>
+<area shape="rect" id="node5" href="$d7/d08/class_collision_prevention.html#a32489852aa49005701d6a91e463c2497" title="Computes collision free setpoints. " alt="" coords="507,71,713,112"/>
+<area shape="rect" id="node7" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="541,137,679,163"/>
+<area shape="rect" id="node10" href="$da/d89/class_mavlink_receiver.html#aa94397b70b0418675a2934b022de6df4" title="MavlinkReceiver::handle\l_message_command_int" alt="" coords="792,123,959,164"/>
+<area shape="rect" id="node13" href="$da/d89/class_mavlink_receiver.html#a5345e8389c1ac373ab61074c9b849e22" title="MavlinkReceiver::handle\l_message_command_long" alt="" coords="787,188,964,229"/>
+<area shape="rect" id="node11" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="1025,352,1191,393"/>
+<area shape="rect" id="node12" href="$da/d89/class_mavlink_receiver.html#a2a2904ed386bbb6a4ff3528527006a58" title="Receive data from UART/UDP. " alt="" coords="1239,486,1389,513"/>
+<area shape="rect" id="node15" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="522,625,698,651"/>
+<area shape="rect" id="node16" href="$d3/dc6/class_commander.html#a92e07914c36f1325d54f9b4112702503" title="Commander::handle_command" alt="" coords="509,675,711,702"/>
+<area shape="rect" id="node19" href="$d1/d58/class_g_p_s.html#ade51b469c95a168441874ae0456bb297" title="callback from the driver for the platform specific stuff " alt="" coords="557,726,663,753"/>
+<area shape="rect" id="node21" href="$d1/d58/class_g_p_s.html#a920f6f592f2e07e965ac96196e009d55" title="send data to the device, such as an RTCM stream " alt="" coords="551,777,669,803"/>
+<area shape="rect" id="node20" href="$d1/d58/class_g_p_s.html#a52498a258feaecacc37c22365971b6c5" title="GPS::run" alt="" coords="837,777,913,803"/>
+<area shape="rect" id="node30" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a86f88d8db43b2dd3da32f36765c1c3b4" title="events::status::StatusDisplay\l::StatusDisplay" alt="" coords="513,879,707,920"/>
+<area shape="rect" id="node32" href="$d5/dce/class_temperature_calibration.html#a50994214f2993c3ddf3b35828e3e946a" title="TemperatureCalibration\l::task_main" alt="" coords="531,944,689,985"/>
+<area shape="rect" id="node34" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a0d002ef0e5210c2d39f24b0ff9a11dda" title="px4::logger::LogWriterMavlink\l::need_reliable_transfer" alt="" coords="513,1009,707,1051"/>
+<area shape="rect" id="node35" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#ad98bea03afa190941133b7ea37c5ac07" title="px4::logger::LogWriterMavlink\l::set_need_reliable_transfer" alt="" coords="513,1075,707,1116"/>
+<area shape="rect" id="node36" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a715caf561d7426e6d75b47ea69c26b8b" title="px4::logger::LogWriterMavlink\l::write_message" alt="" coords="513,1140,707,1181"/>
+<area shape="rect" id="node38" href="$d9/d04/class_iridium_s_b_d.html#a6dd3144baaf960466525fe7cbdc9741b" title="IridiumSBD::main_loop" alt="" coords="532,1206,688,1233"/>
+<area shape="rect" id="node40" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="543,1257,677,1283"/>
+<area shape="rect" id="node42" href="$d0/df9/class_navigator.html#a34945eedcd82eda8a50bd1890c0d09cc" title="Check nearby traffic for potential collisions. " alt="" coords="529,1307,691,1334"/>
+<area shape="rect" id="node43" href="$db/dad/class_mission.html#a6113488baa83bdbc2be2f536c2833ab9" title="Abort landing. " alt="" coords="523,1358,697,1385"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="Ekf::position_covariances" name="Ekf::position_covariances">
+<area shape="rect" id="node2" href="$dc/d66/class_ekf.html#a59f137c1049591a6b2c74c2446c71475" title="Ekf::collect_gps" alt="" coords="261,259,377,285"/>
+<area shape="rect" id="node21" href="$dc/d66/class_ekf.html#add9f94883d2738c2fdeee5d2a12521fc" title="Ekf::collect_imu" alt="" coords="701,415,817,441"/>
+<area shape="rect" id="node24" href="$dc/d66/class_ekf.html#a73da8472a390f8a3a497e16479bc10d0" title="Ekf::covariances" alt="" coords="259,516,379,543"/>
+<area shape="rect" id="node25" href="$dc/d66/class_ekf.html#aeee1ded47822f0a25038a49cf8de1ebf" title="Ekf::get_ekf_ctrl_limits" alt="" coords="461,5,617,32"/>
+<area shape="rect" id="node26" href="$dc/d66/class_ekf.html#abee756b6f0a6d25a6b9870b1f8949fda" title="Ekf::get_ekf_gpos_accuracy" alt="" coords="225,617,413,644"/>
+<area shape="rect" id="node37" href="$dc/d66/class_ekf.html#ac2f3572994b79118429989ba1ffe305c" title="Ekf::get_ekf_lpos_accuracy" alt="" coords="227,668,411,695"/>
+<area shape="rect" id="node38" href="$dc/d66/class_ekf.html#af8c72fef6bd53ba62d8b49578be035e6" title="Ekf::get_ekf_origin" alt="" coords="254,769,385,796"/>
+<area shape="rect" id="node39" href="$dc/d66/class_ekf.html#a50773b1a5047bbe92274eda9cb3b79ba" title="Ekf::get_ekf_vel_accuracy" alt="" coords="231,567,408,593"/>
+<area shape="rect" id="node40" href="$dc/d66/class_ekf.html#a24b2ca7a7cc4aac13a651324e1a82a39" title="Ekf::get_gps_drift\l_metrics" alt="" coords="257,821,382,862"/>
+<area shape="rect" id="node41" href="$dc/d66/class_ekf.html#aafc973511c85e2645fbb71c48d67bd0b" title="Ekf::get_imu_vibe_metrics" alt="" coords="231,887,408,913"/>
+<area shape="rect" id="node42" href="$dc/d66/class_ekf.html#aa6284f74a392c2b1e1a8293b71911118" title="Ekf::get_output_tracking\l_error" alt="" coords="237,938,401,979"/>
+<area shape="rect" id="node43" href="$dc/d66/class_ekf.html#a6eefdb491c045a48690a637dceafe041" title="Ekf::get_pos_var" alt="" coords="259,1004,380,1031"/>
+<area shape="rect" id="node44" href="$dc/d66/class_ekf.html#a6db4632334ca657f8cb042641d96a9c5" title="Ekf::get_vel_var" alt="" coords="261,1055,378,1081"/>
+<area shape="rect" id="node45" href="$dc/d66/class_ekf.html#a6b0b68ac1364f0bfe5bb2b3055666259" title="Ekf::getTerrainVertPos" alt="" coords="242,1105,397,1132"/>
+<area shape="rect" id="node46" href="$dc/d66/class_ekf.html#a413ed6bcf2f318fffc624672360d6907" title="Ekf::global_position\l_is_valid" alt="" coords="251,1157,387,1198"/>
+<area shape="rect" id="node47" href="$dc/d66/class_ekf.html#aa4df90e91dd289376fb0935c9facd7e2" title="Ekf::isTerrainEstimateValid" alt="" coords="229,1223,410,1249"/>
+<area shape="rect" id="node48" href="$dc/d66/class_ekf.html#af0f6c95caa2f0bf5cf7e56b658f88230" title="Ekf::reset_imu_bias" alt="" coords="250,719,389,745"/>
+<area shape="rect" id="node49" href="$dc/d66/class_ekf.html#a074bf8fe22c02e2a06ff16950d894964" title="Ekf::update_deadreckoning\l_status" alt="" coords="229,1274,409,1315"/>
+<area shape="rect" id="node50" href="$dc/d66/class_ekf.html#abeb8be4c6b1348e89d14a43b3db3c075" title="Ekf::updateTerrainValidity" alt="" coords="233,1340,405,1367"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="964,95,1003,121"/>
+<area shape="rect" id="node6" href="$d5/d69/geo__mag__declination_8cpp.html#af1908193dae3b457761e99c0c275a9e3" title="get_mag_declination" alt="" coords="469,56,610,83"/>
+<area shape="rect" id="node9" href="$d5/d69/geo__mag__declination_8cpp.html#a867511a76b538624fd79546d011ffe6d" title="get_mag_inclination" alt="" coords="471,107,608,133"/>
+<area shape="rect" id="node10" href="$d5/d69/geo__mag__declination_8cpp.html#a87e0655bfb3f77efdc9095960d435580" title="get_mag_strength" alt="" coords="476,157,603,184"/>
+<area shape="rect" id="node11" href="$dc/d66/class_ekf.html#a7fd160ae7d8e35ec754f0dce8c5d8153" title="Ekf::gps_is_good" alt="" coords="697,259,820,285"/>
+<area shape="rect" id="node12" href="$d7/d09/geo_8cpp.html#a0ff8a684ef6077d3ec262336b303a7f9" title="Initializes the map transformation given by the argument. " alt="" coords="916,298,1051,339"/>
+<area shape="rect" id="node13" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="1149,303,1251,329"/>
+<area shape="rect" id="node16" href="$d7/d09/geo_8cpp.html#ae2c95a4f45ade7c0c2eae9a670f2740f" title="Transforms a point in the local azimuthal equidistant plane to the geographic coordinate system using..." alt="" coords="900,516,1067,543"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1159,252,1241,279"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1334,252,1421,279"/>
+<area shape="rect" id="node7" href="$d5/d69/geo__mag__declination_8cpp.html#ac11a09d4a8063fb636d330d178ed4bc2" title="get_table_data" alt="" coords="705,95,812,121"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="1144,147,1256,173"/>
+<area shape="rect" id="node14" href="$d7/d09/geo_8cpp.html#a5ea48079b8cf05b1b7f7d2b96e07b7f3" title="map_projection_project" alt="" coords="905,247,1061,273"/>
+<area shape="rect" id="node15" href="$d7/d09/geo_8cpp.html#a7e99116663d8760b551bd9d901273207" title="Checks if projection given as argument was initialized. " alt="" coords="1115,353,1285,380"/>
+<area shape="rect" id="node17" href="$d0/de4/namespacematrix.html#ad28ff6800d723360aae80240711a31a1" title="matrix::asin" alt="" coords="1155,657,1245,684"/>
+<area shape="rect" id="node18" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="1333,581,1421,608"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="1151,556,1249,583"/>
+<area shape="rect" id="node20" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="1147,607,1253,633"/>
+<area shape="rect" id="node22" href="$d4/d8f/class_ring_buffer.html#ade93f1295cbfbe9316eabc70ed3569c4" title="RingBuffer::get_oldest" alt="" coords="907,465,1059,492"/>
+<area shape="rect" id="node23" href="$d4/d8f/class_ring_buffer.html#a0ffbb0f1986c0641f9daade0dda2a013" title="RingBuffer::push" alt="" coords="923,415,1043,441"/>
+<area shape="rect" id="node27" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="497,617,581,644"/>
+<area shape="rect" id="node28" href="$dc/d66/class_ekf.html#ac557eacd06bd597b3ab097cab74c1c39" title="Ekf::sq" alt="" coords="507,668,571,695"/>
+<area shape="rect" id="node29" href="$dc/d66/class_ekf.html#aa34f4d9d89e096b542a287fbe1b91d92" title="Ekf::setControlBaroHeight" alt="" coords="671,516,846,543"/>
+<area shape="rect" id="node30" href="$dc/d66/class_ekf.html#a3a839968be88e4e47f265d8f62b0155a" title="Ekf::setControlRangeHeight" alt="" coords="665,567,852,593"/>
+<area shape="rect" id="node31" href="$dc/d66/class_ekf.html#a8b687c82c5dfbdeebae02685783fc2ef" title="Ekf::setControlGPSHeight" alt="" coords="671,617,847,644"/>
+<area shape="rect" id="node32" href="$dc/d66/class_ekf.html#aaf80ea102825ba5755fba7f2a7446578" title="Ekf::setControlEVHeight" alt="" coords="675,668,842,695"/>
+<area shape="rect" id="node33" href="$dc/d66/class_ekf.html#aa3557241350622e78d0ef053e28177dc" title="Ekf::stopMagFusion" alt="" coords="689,769,828,796"/>
+<area shape="rect" id="node34" href="$dc/d66/class_ekf.html#aa148e57137bf741e4ea5797152d1fe19" title="Ekf::stopMag3DFusion" alt="" coords="905,744,1061,771"/>
+<area shape="rect" id="node35" href="$dc/d66/class_ekf.html#a49a4da2e831b46876b307eb8e0560a12" title="Ekf::zeroRows" alt="" coords="704,820,813,847"/>
+<area shape="rect" id="node36" href="$dc/d66/class_ekf.html#a421983af018ca82e2c5c0ba3fa5ad769" title="Ekf::zeroCols" alt="" coords="707,871,810,897"/>
+</map>

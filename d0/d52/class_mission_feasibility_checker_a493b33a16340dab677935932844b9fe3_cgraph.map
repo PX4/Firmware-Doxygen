@@ -1,51 +1,51 @@
 <map id="MissionFeasibilityChecker::MissionFeasibilityChecker" name="MissionFeasibilityChecker::MissionFeasibilityChecker">
-<area shape="rect" id="node2" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="244,638,419,679"/>
-<area shape="rect" id="node49" href="$d0/d52/class_mission_feasibility_checker.html#acc6eadf1181db7673c7a8aec91531667" title="MissionFeasibilityChecker\l::operator=" alt="" coords="244,703,419,745"/>
-<area shape="rect" id="node50" href="$d0/d52/class_mission_feasibility_checker.html#aeb7da672aa92a533c4ba989c4c176a86" title="MissionFeasibilityChecker\l::~MissionFeasibilityChecker" alt="" coords="236,769,427,810"/>
-<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#ac06b22528a29f5026a17c3a94ebefc0f" title="Navigator::home_position\l_valid" alt="" coords="1211,37,1382,78"/>
-<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#af420cf45eb57f6d30688e5be39f6b5be" title="Navigator::home_alt\l_valid" alt="" coords="493,149,631,190"/>
-<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="1219,561,1375,602"/>
-<area shape="rect" id="node6" href="$d0/d52/class_mission_feasibility_checker.html#ad2f505f8086fe3cf231ee07b96e354fa" title="MissionFeasibilityChecker\l::checkDistanceToFirstWaypoint" alt="" coords="932,525,1145,566"/>
-<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="1225,255,1368,297"/>
-<area shape="rect" id="node23" href="$d0/d52/class_mission_feasibility_checker.html#acd2aa67347aa222e7fbfc810e6ddc41d" title="MissionFeasibilityChecker\l::checkMissionItemValidity" alt="" coords="949,693,1128,734"/>
-<area shape="rect" id="node25" href="$d0/d52/class_mission_feasibility_checker.html#ac4a0f0b4cc2f87d4631c882428afe85d" title="MissionFeasibilityChecker\l::checkDistancesBetweenWaypoints" alt="" coords="920,758,1157,799"/>
-<area shape="rect" id="node26" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="475,385,649,426"/>
-<area shape="rect" id="node37" href="$d0/d52/class_mission_feasibility_checker.html#a5e0f002d5237c920181f7d13c0e199d9" title="MissionFeasibilityChecker\l::checkHomePositionAltitude" alt="" coords="943,407,1134,449"/>
-<area shape="rect" id="node38" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="1457,1257,1612,1284"/>
-<area shape="rect" id="node39" href="$d0/d52/class_mission_feasibility_checker.html#ac20191a66873ba5a153419de9924162d" title="MissionFeasibilityChecker\l::checkRotarywing" alt="" coords="951,823,1126,865"/>
-<area shape="rect" id="node42" href="$d0/d52/class_mission_feasibility_checker.html#a0c21dc24c2ca1a2c2619abb34b565ddb" title="MissionFeasibilityChecker\l::checkFixedwing" alt="" coords="697,889,872,930"/>
-<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1277,795,1316,821"/>
-<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="1499,627,1571,653"/>
-<area shape="rect" id="node18" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="1230,495,1363,537"/>
-<area shape="rect" id="node19" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="1223,947,1370,989"/>
-<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a195ae35247b8133508746e9cbb4ba287" title="Navigator::get_mission\l_result" alt="" coords="1219,430,1375,471"/>
-<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="1899,677,2025,704"/>
-<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="1681,561,1848,602"/>
-<area shape="rect" id="node17" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="1724,627,1805,653"/>
-<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="2083,500,2171,527"/>
-<area shape="rect" id="node11" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="2084,551,2171,577"/>
-<area shape="rect" id="node12" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="2084,677,2171,704"/>
-<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="2076,601,2179,628"/>
-<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="1896,525,2028,552"/>
-<area shape="rect" id="node16" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="1919,627,2005,653"/>
-<area shape="rect" id="node20" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="1484,955,1585,981"/>
-<area shape="rect" id="node24" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="1229,678,1364,719"/>
-<area shape="rect" id="node27" href="$d0/df9/class_navigator.html#a76da78150b850b4aec9b736a24f7a158" title="Navigator::get_geofence" alt="" coords="703,468,867,495"/>
-<area shape="rect" id="node28" href="$d7/dbe/class_geofence.html#a4320f677f09ba52177dfb86e09875bfe" title="Geofence::isHomeRequired" alt="" coords="1205,103,1388,129"/>
-<area shape="rect" id="node31" href="$d7/dbe/class_geofence.html#a6626b0d55b90e7a588a8ab2aeb080fce" title="Geofence::valid" alt="" coords="728,367,841,393"/>
-<area shape="rect" id="node32" href="$d7/dbe/class_geofence.html#aa8dd3c6149afaae4694495e8eb831520" title="Return whether the system obeys the geofence. " alt="" coords="724,316,845,343"/>
-<area shape="rect" id="node29" href="$d7/dbe/class_geofence.html#a97ff2969e0fa939eca32a56e8ff631b9" title="Geofence::getGeofenceAction" alt="" coords="1436,103,1633,129"/>
-<area shape="rect" id="node30" href="$d7/dbe/class_geofence.html#ad1154e56e295e9920d2b8707ba0e0883" title="print Geofence status to the console " alt="" coords="1690,103,1839,129"/>
-<area shape="rect" id="node33" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="971,204,1107,231"/>
-<area shape="rect" id="node35" href="$d7/dbe/class_geofence.html#a424eaff9bec3a2198b5df52ce4cb9b24" title="Geofence::getAltitudeMode" alt="" coords="949,305,1129,332"/>
-<area shape="rect" id="node36" href="$d7/dbe/class_geofence.html#adc2bcc67c6908e32226bf3010df19a23" title="Geofence::getSource" alt="" coords="966,356,1111,383"/>
-<area shape="rect" id="node34" href="$d7/dbe/class_geofence.html#ad04469e1fc121106b04be1492d00c158" title="Check if a point passes the Geofence test. " alt="" coords="1209,204,1384,231"/>
-<area shape="rect" id="node40" href="$d0/df9/class_navigator.html#a99ffced3ab485575b385454433aa105f" title="Get the altitude acceptance radius. " alt="" coords="1220,1065,1373,1106"/>
-<area shape="rect" id="node41" href="$df/d08/commander__helper_8cpp.html#a90a80fd140e5e1feba80ba0c5ef25c7c" title="is_rotary_wing" alt="" coords="1481,1072,1588,1099"/>
-<area shape="rect" id="node43" href="$d0/d52/class_mission_feasibility_checker.html#acfcea251043eb561a4fbe3294f6eccee" title="MissionFeasibilityChecker\l::checkFixedWingTakeoff" alt="" coords="951,889,1126,930"/>
-<area shape="rect" id="node45" href="$d0/d52/class_mission_feasibility_checker.html#acd3269d879ba473e39791b25411490c1" title="MissionFeasibilityChecker\l::checkFixedWingLanding" alt="" coords="951,979,1126,1021"/>
-<area shape="rect" id="node44" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="1221,1130,1372,1171"/>
-<area shape="rect" id="node46" href="$d0/df9/class_navigator.html#a00cbed688be4151ecc0614b889c6802a" title="Getters. " alt="" coords="1220,1326,1373,1367"/>
-<area shape="rect" id="node47" href="$d1/d36/class_landingslope.html#a91d82d5a8f9bc17ac382d07c6e620823" title="Landingslope::getLanding\lSlopeAbsoluteAltitude" alt="" coords="1212,1195,1381,1237"/>
-<area shape="rect" id="node48" href="$d1/d36/class_landingslope.html#a8a3052648c16d34fec59ab8269c716c5" title="Landingslope::getLanding\lSlopeWPDistance" alt="" coords="1212,1261,1381,1302"/>
+<area shape="rect" id="node2" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="244,773,419,814"/>
+<area shape="rect" id="node49" href="$d0/d52/class_mission_feasibility_checker.html#acc6eadf1181db7673c7a8aec91531667" title="MissionFeasibilityChecker\l::operator=" alt="" coords="244,838,419,880"/>
+<area shape="rect" id="node50" href="$d0/d52/class_mission_feasibility_checker.html#aeb7da672aa92a533c4ba989c4c176a86" title="MissionFeasibilityChecker\l::~MissionFeasibilityChecker" alt="" coords="236,904,427,945"/>
+<area shape="rect" id="node3" href="$d0/df9/class_navigator.html#ac06b22528a29f5026a17c3a94ebefc0f" title="Navigator::home_position\l_valid" alt="" coords="1217,1294,1387,1336"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#af420cf45eb57f6d30688e5be39f6b5be" title="Navigator::home_alt\l_valid" alt="" coords="493,1388,631,1429"/>
+<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="1224,522,1380,564"/>
+<area shape="rect" id="node6" href="$d0/d52/class_mission_feasibility_checker.html#ad2f505f8086fe3cf231ee07b96e354fa" title="MissionFeasibilityChecker\l::checkDistanceToFirstWaypoint" alt="" coords="709,804,923,845"/>
+<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Getters. " alt="" coords="1231,1076,1373,1117"/>
+<area shape="rect" id="node27" href="$d0/d52/class_mission_feasibility_checker.html#acd2aa67347aa222e7fbfc810e6ddc41d" title="MissionFeasibilityChecker\l::checkMissionItemValidity" alt="" coords="727,112,905,153"/>
+<area shape="rect" id="node29" href="$d0/d52/class_mission_feasibility_checker.html#ac4a0f0b4cc2f87d4631c882428afe85d" title="MissionFeasibilityChecker\l::checkDistancesBetweenWaypoints" alt="" coords="697,738,935,780"/>
+<area shape="rect" id="node30" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="475,1050,649,1092"/>
+<area shape="rect" id="node39" href="$d0/d52/class_mission_feasibility_checker.html#a5e0f002d5237c920181f7d13c0e199d9" title="MissionFeasibilityChecker\l::checkHomePositionAltitude" alt="" coords="721,673,911,714"/>
+<area shape="rect" id="node40" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="485,1454,639,1480"/>
+<area shape="rect" id="node41" href="$d0/d52/class_mission_feasibility_checker.html#a4404f88391d8d4d060609381c43ec6ed" title="MissionFeasibilityChecker\l::checkRotarywing" alt="" coords="475,337,649,378"/>
+<area shape="rect" id="node45" href="$d0/d52/class_mission_feasibility_checker.html#ad9970b6f3d1584b0a33461e4c4bc960d" title="MissionFeasibilityChecker\l::checkFixedwing" alt="" coords="475,449,649,490"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1053,748,1092,775"/>
+<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="1037,246,1109,272"/>
+<area shape="rect" id="node20" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="1006,800,1139,841"/>
+<area shape="rect" id="node21" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="999,682,1146,724"/>
+<area shape="rect" id="node26" href="$d0/df9/class_navigator.html#a195ae35247b8133508746e9cbb4ba287" title="Navigator::get_mission\l_result" alt="" coords="995,865,1151,906"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1261,791,1343,818"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1497,791,1583,818"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="1477,126,1603,152"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="1219,209,1385,250"/>
+<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="1261,326,1343,352"/>
+<area shape="rect" id="node17" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1261,275,1343,302"/>
+<area shape="rect" id="node19" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1266,376,1338,403"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1694,176,1782,203"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1687,227,1789,254"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="1474,227,1606,254"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1477,376,1603,403"/>
+<area shape="rect" id="node22" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="1253,690,1351,716"/>
+<area shape="rect" id="node23" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="1251,639,1353,666"/>
+<area shape="rect" id="node24" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="1258,588,1346,615"/>
+<area shape="rect" id="node28" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="1005,49,1140,90"/>
+<area shape="rect" id="node31" href="$d0/df9/class_navigator.html#a76da78150b850b4aec9b736a24f7a158" title="Navigator::get_geofence" alt="" coords="734,1032,898,1059"/>
+<area shape="rect" id="node32" href="$d7/dbe/class_geofence.html#a4320f677f09ba52177dfb86e09875bfe" title="Geofence::isHomeRequired" alt="" coords="1211,1175,1393,1202"/>
+<area shape="rect" id="node34" href="$d7/dbe/class_geofence.html#a6626b0d55b90e7a588a8ab2aeb080fce" title="Geofence::valid" alt="" coords="759,1235,873,1262"/>
+<area shape="rect" id="node35" href="$d7/dbe/class_geofence.html#aa8dd3c6149afaae4694495e8eb831520" title="Return whether the system obeys the geofence. " alt="" coords="755,1134,877,1160"/>
+<area shape="rect" id="node33" href="$d7/dbe/class_geofence.html#a97ff2969e0fa939eca32a56e8ff631b9" title="Geofence::getGeofenceAction" alt="" coords="1441,1175,1639,1202"/>
+<area shape="rect" id="node36" href="$d7/dbe/class_geofence.html#a983dbd34d984dc8309f5f8f44c4460f7" title="Check if a point passes the Geofence test. " alt="" coords="1005,1083,1141,1110"/>
+<area shape="rect" id="node37" href="$d7/dbe/class_geofence.html#a424eaff9bec3a2198b5df52ce4cb9b24" title="Geofence::getAltitudeMode" alt="" coords="983,1184,1163,1211"/>
+<area shape="rect" id="node38" href="$d7/dbe/class_geofence.html#adc2bcc67c6908e32226bf3010df19a23" title="Geofence::getSource" alt="" coords="1000,1134,1145,1160"/>
+<area shape="rect" id="node42" href="$d0/d52/class_mission_feasibility_checker.html#aadd293300066f3618a637a12f13ab92a" title="MissionFeasibilityChecker\l::checkTakeoff" alt="" coords="729,264,903,305"/>
+<area shape="rect" id="node43" href="$d0/df9/class_navigator.html#ab4600f9e8ecaef71a52085115d382b44" title="Returns the default acceptance radius defined by the parameter. " alt="" coords="997,180,1148,221"/>
+<area shape="rect" id="node44" href="$d0/df9/class_navigator.html#a8184c82ab55e1343d9b2ae672341d3b0" title="Navigator::get_takeoff\l_required" alt="" coords="997,114,1148,156"/>
+<area shape="rect" id="node46" href="$d0/d52/class_mission_feasibility_checker.html#acd3269d879ba473e39791b25411490c1" title="MissionFeasibilityChecker\l::checkFixedWingLanding" alt="" coords="729,449,903,490"/>
+<area shape="rect" id="node47" href="$d1/d36/class_landingslope.html#a3321156bab0110d60528ee6d6c8e4fdf" title="Landingslope::getLanding\lSlopeAbsoluteAltitude" alt="" coords="988,348,1157,389"/>
+<area shape="rect" id="node48" href="$d1/d36/class_landingslope.html#a80ae3e92630dd2a911fd7c9441008982" title="Landingslope::getLanding\lSlopeWPDistance" alt="" coords="988,413,1157,454"/>
 </map>

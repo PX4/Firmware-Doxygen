@@ -1,5 +1,6 @@
 <map id="WindEstimator::fuse_beta" name="WindEstimator::fuse_beta">
-<area shape="rect" id="node2" href="$de/df6/class_wind_estimator_module.html#a0f33419010318d9c7f836538e489d102" title="WindEstimatorModule\l::cycle" alt="" coords="227,5,377,47"/>
-<area shape="rect" id="node3" href="$de/df6/class_wind_estimator_module.html#acd4450355b2c716f6a9d2095f85f7a68" title="WindEstimatorModule\l::task_spawn" alt="" coords="425,5,576,47"/>
-<area shape="rect" id="node4" href="$de/df6/class_wind_estimator_module.html#aae0ff29609f7d7b4b2dfb6471be3a7a1" title="WindEstimatorModule\l::custom_command" alt="" coords="624,5,775,47"/>
+<area shape="rect" id="node2" href="$db/dc1/class_airspeed_validator.html#a3bf27b5e0ad78d0619b4de60e41f53af" title="AirspeedValidator::\lupdate_wind_estimator" alt="" coords="227,8,383,49"/>
+<area shape="rect" id="node5" href="$dd/dc8/class_airspeed_module.html#aefb294a454feae92e0e6cb6e8509bf9c" title="update the wind estimator instance only fusing sideslip " alt="" coords="433,71,601,112"/>
+<area shape="rect" id="node3" href="$db/dc1/class_airspeed_validator.html#afaf71d7053c68084e921493cfda721d0" title="AirspeedValidator::\lupdate_airspeed_validator" alt="" coords="431,5,604,47"/>
+<area shape="rect" id="node4" href="$dd/dc8/class_airspeed_module.html#acfce768617d019c94041021370ab8da6" title="AirspeedModule::Run" alt="" coords="652,46,799,73"/>
 </map>

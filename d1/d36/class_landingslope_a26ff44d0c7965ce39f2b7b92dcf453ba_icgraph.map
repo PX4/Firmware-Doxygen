@@ -1,17 +1,19 @@
 <map id="Landingslope::getLandingSlopeRelativeAltitude" name="Landingslope::getLandingSlopeRelativeAltitude">
-<area shape="rect" id="node2" href="$d1/d36/class_landingslope.html#a91d82d5a8f9bc17ac382d07c6e620823" title="Landingslope::getLanding\lSlopeAbsoluteAltitude" alt="" coords="227,111,396,153"/>
-<area shape="rect" id="node13" href="$d1/d36/class_landingslope.html#a330f45a5a7bd89d69f2d21486f882c9d" title="Landingslope::getLanding\lSlopeRelativeAltitudeSave" alt="" coords="223,177,400,218"/>
-<area shape="rect" id="node3" href="$d0/d52/class_mission_feasibility_checker.html#acd3269d879ba473e39791b25411490c1" title="MissionFeasibilityChecker\l::checkFixedWingLanding" alt="" coords="448,111,623,153"/>
-<area shape="rect" id="node4" href="$d0/d52/class_mission_feasibility_checker.html#a0c21dc24c2ca1a2c2619abb34b565ddb" title="MissionFeasibilityChecker\l::checkFixedwing" alt="" coords="671,111,845,153"/>
-<area shape="rect" id="node5" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="904,111,1079,153"/>
-<area shape="rect" id="node6" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="1147,78,1310,119"/>
-<area shape="rect" id="node12" href="$d0/d52/class_mission_feasibility_checker.html#a493b33a16340dab677935932844b9fe3" title="MissionFeasibilityChecker\l::MissionFeasibilityChecker" alt="" coords="1137,143,1320,185"/>
-<area shape="rect" id="node7" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="1586,5,1727,32"/>
-<area shape="rect" id="node8" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="1591,85,1722,112"/>
-<area shape="rect" id="node9" href="$db/dad/class_mission.html#af0f2816fb1303ccc94827f7f7f2d2b99" title="Update offboard mission topic. " alt="" coords="1368,49,1536,90"/>
-<area shape="rect" id="node10" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="1584,151,1729,193"/>
-<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="1777,159,1881,185"/>
-<area shape="rect" id="node14" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="450,177,621,218"/>
-<area shape="rect" id="node15" href="$d9/d31/class_fixedwing_position_control.html#ad90bcc3a1e81fdd41fd6d8b8ec462529" title="FixedwingPositionControl\l::control_position" alt="" coords="673,177,843,218"/>
-<area shape="rect" id="node16" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="893,184,1089,211"/>
+<area shape="rect" id="node2" href="$d1/d36/class_landingslope.html#a3321156bab0110d60528ee6d6c8e4fdf" title="Landingslope::getLanding\lSlopeAbsoluteAltitude" alt="" coords="227,99,396,141"/>
+<area shape="rect" id="node15" href="$d1/d36/class_landingslope.html#a330f45a5a7bd89d69f2d21486f882c9d" title="Landingslope::getLanding\lSlopeRelativeAltitudeSave" alt="" coords="223,165,400,206"/>
+<area shape="rect" id="node3" href="$d0/d52/class_mission_feasibility_checker.html#acd3269d879ba473e39791b25411490c1" title="MissionFeasibilityChecker\l::checkFixedWingLanding" alt="" coords="448,99,623,141"/>
+<area shape="rect" id="node4" href="$d0/d52/class_mission_feasibility_checker.html#ad9970b6f3d1584b0a33461e4c4bc960d" title="MissionFeasibilityChecker\l::checkFixedwing" alt="" coords="671,99,845,141"/>
+<area shape="rect" id="node5" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="907,99,1082,141"/>
+<area shape="rect" id="node6" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="1154,67,1317,109"/>
+<area shape="rect" id="node14" href="$d0/d52/class_mission_feasibility_checker.html#a493b33a16340dab677935932844b9fe3" title="MissionFeasibilityChecker\l::MissionFeasibilityChecker" alt="" coords="1144,133,1327,174"/>
+<area shape="rect" id="node7" href="$db/dad/class_mission.html#a0bace66f00a7f0219e7d1665d3903d66" title="This function is called while the mode is inactive. " alt="" coords="1600,5,1741,32"/>
+<area shape="rect" id="node8" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="1605,63,1736,89"/>
+<area shape="rect" id="node9" href="$db/dad/class_mission.html#aa717a0c8f848c0feaff1307664e749e6" title="Update mission topic. " alt="" coords="1375,49,1541,76"/>
+<area shape="rect" id="node10" href="$db/dad/class_mission.html#a33116a4afecc113b67d233f14de287ff" title="Mission::get_landing_alt" alt="" coords="1589,125,1752,152"/>
+<area shape="rect" id="node11" href="$d0/df9/class_navigator.html#a8e3be5708b076504322f33b7ef49f8a6" title="Navigator::get_mission\l_landing_alt" alt="" coords="1800,118,1956,159"/>
+<area shape="rect" id="node12" href="$d8/d7e/class_r_t_l.html#afa1df82479ac4da9c9d4f3d14798de22" title="RTL::find_RTL_destination" alt="" coords="2004,125,2183,152"/>
+<area shape="rect" id="node13" href="$d8/d7e/class_r_t_l.html#a70662870a113a01441428953874548e2" title="This function is called while the mode is inactive. " alt="" coords="2231,125,2352,152"/>
+<area shape="rect" id="node16" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="450,165,621,206"/>
+<area shape="rect" id="node17" href="$d9/d31/class_fixedwing_position_control.html#a4b6c09ae04794bb21ea7b0705313390b" title="FixedwingPositionControl\l::control_position" alt="" coords="673,165,843,206"/>
+<area shape="rect" id="node18" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="893,172,1096,199"/>
 </map>

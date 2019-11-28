@@ -1,8 +1,8 @@
 <map id="events::status::StatusDisplay::check_for_updates" name="events::status::StatusDisplay::check_for_updates">
 <area shape="rect" id="node2" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a9538b93eb3a14e08c31e1b272d1e70b8" title="regularily called to handle state updates " alt="" coords="248,5,443,47"/>
-<area shape="rect" id="node3" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="call process_commands() and schedule the next cycle. " alt="" coords="491,5,632,47"/>
-<area shape="rect" id="node4" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Trampoline for the work queue. " alt="" coords="680,5,821,47"/>
-<area shape="rect" id="node5" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Start background listening for commands. " alt="" coords="680,71,821,112"/>
+<area shape="rect" id="node3" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="Calls process_commands() and schedules the next cycle. " alt="" coords="491,5,632,47"/>
+<area shape="rect" id="node4" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Process cycle trampoline for the work queue. " alt="" coords="680,5,821,47"/>
+<area shape="rect" id="node5" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Starts background task listening for commands. " alt="" coords="680,71,821,112"/>
 <area shape="rect" id="node6" href="$d4/dc6/structevents_1_1_send_event.html#a716f60497ef234cfb7faead37f08d1df" title="Trampoline for initialisation. " alt="" coords="869,71,1011,112"/>
-<area shape="rect" id="node7" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Initialize class in the same context as the work queue. " alt="" coords="1059,71,1200,112"/>
+<area shape="rect" id="node7" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Spawns and initializes the class in the same context as the work queue and starts the background list..." alt="" coords="1059,71,1200,112"/>
 </map>

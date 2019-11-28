@@ -1,5 +1,6 @@
 var structmission__fence__point__s =
 [
+    [ "_padding0", "df/dd3/structmission__fence__point__s.html#a0a07cf9e07a5a5647f29a1c1f33a247e", null ],
     [ "alt", "df/dd3/structmission__fence__point__s.html#adf3853cc5168a374016f8fac245e7809", null ],
     [ "circle_radius", "df/dd3/structmission__fence__point__s.html#a95ed723005c0ae29942943cd04a62d6f", null ],
     [ "frame", "df/dd3/structmission__fence__point__s.html#a7310fc0c5a51b499cbde03aa9c4d32c7", null ],

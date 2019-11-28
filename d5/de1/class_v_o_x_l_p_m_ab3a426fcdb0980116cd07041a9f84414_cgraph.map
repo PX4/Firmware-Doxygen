@@ -1,0 +1,51 @@
+<map id="VOXLPM::Run" name="VOXLPM::Run">
+<area shape="rect" id="node2" href="$d5/de1/class_v_o_x_l_p_m.html#ab15a13cfb85e57338a9220cfd6c60249" title="VOXLPM::measure" alt="" coords="163,853,297,880"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="613,508,739,535"/>
+<area shape="rect" id="node4" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="391,853,491,880"/>
+<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="861,917,949,944"/>
+<area shape="rect" id="node35" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="399,700,482,727"/>
+<area shape="rect" id="node36" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="405,521,477,548"/>
+<area shape="rect" id="node37" href="$d5/de1/class_v_o_x_l_p_m.html#aea3a8bbdc1735aff59adfd4e9920b7d6" title="VOXLPM::read_reg_buf" alt="" coords="361,968,521,995"/>
+<area shape="rect" id="node38" href="$dc/df2/class_battery.html#ae05f523641daf24845fbdf88ec921d3d" title="Update current battery status message. " alt="" coords="345,1145,536,1172"/>
+<area shape="rect" id="node5" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1539,859,1682,901"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="605,559,747,601"/>
+<area shape="rect" id="node6" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1750,675,1893,717"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="833,618,976,659"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1041,577,1228,604"/>
+<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1307,645,1459,686"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1063,801,1206,842"/>
+<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="833,851,976,893"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="833,435,976,477"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="833,501,976,542"/>
+<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="833,683,976,725"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="816,5,993,32"/>
+<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="833,253,976,294"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="819,319,990,345"/>
+<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="833,370,976,411"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="833,57,976,98"/>
+<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="833,122,976,163"/>
+<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="833,187,976,229"/>
+<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1097,223,1172,249"/>
+<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1094,628,1175,655"/>
+<area shape="rect" id="node10" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1732,457,1911,484"/>
+<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1343,476,1422,503"/>
+<area shape="rect" id="node15" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1309,527,1456,569"/>
+<area shape="rect" id="node13" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a722d86a2e0c4b133a64f3fe835c98d4e" title="uORB::DeviceMaster\l::advertise" alt="" coords="1537,509,1684,550"/>
+<area shape="rect" id="node14" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="1743,311,1899,353"/>
+<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1289,812,1476,839"/>
+<area shape="rect" id="node21" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a07672cd375d8067080b76b8773659289" title="uORB::DeviceNode::unadvertise" alt="" coords="1276,867,1489,893"/>
+<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1097,5,1172,32"/>
+<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="1089,324,1181,351"/>
+<area shape="rect" id="node39" href="$dc/df2/class_battery.html#a86cc6b86a8d8c303cedec5b0d92c41e8" title="Battery::computeScale" alt="" coords="599,1221,753,1248"/>
+<area shape="rect" id="node40" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="885,1196,924,1223"/>
+<area shape="rect" id="node42" href="$dc/df2/class_battery.html#a82b5818fadc040214d7be5624ece7890" title="Battery::determineWarning" alt="" coords="587,1272,765,1299"/>
+<area shape="rect" id="node43" href="$dc/df2/class_battery.html#a34d7f6fbe91611d2112349bd27aa3596" title="Battery::estimateRemaining" alt="" coords="584,1323,768,1349"/>
+<area shape="rect" id="node46" href="$dc/df2/class_battery.html#ad334d2a70bc89095799e002869cb493c" title="Battery::filterCurrent" alt="" coords="606,1373,746,1400"/>
+<area shape="rect" id="node47" href="$dc/df2/class_battery.html#a73fa526cd780caa17ad6946a44d9885a" title="Battery::filterThrottle" alt="" coords="605,968,747,995"/>
+<area shape="rect" id="node48" href="$dc/df2/class_battery.html#a4c855e8edc749168d53c5bab75c30d18" title="Battery::filterVoltage" alt="" coords="605,1019,747,1045"/>
+<area shape="rect" id="node49" href="$dc/df2/class_battery.html#a6ed4b0c9880d58358bf3d768c24e6354" title="Reset all battery stats and report invalid/nothing. " alt="" coords="625,1069,727,1096"/>
+<area shape="rect" id="node50" href="$dc/df2/class_battery.html#a12790d1c9689e244db13f36407c5750f" title="Battery::sumDischarged" alt="" coords="595,1171,757,1197"/>
+<area shape="rect" id="node41" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1093,1196,1176,1223"/>
+<area shape="rect" id="node44" href="$dd/d47/namespacemath.html#a3b552335be63703c6dbe05879f63cf3b" title="math::gradual" alt="" coords="854,1297,955,1324"/>
+<area shape="rect" id="node45" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="863,1348,947,1375"/>
+</map>

@@ -1,24 +1,51 @@
 <map id="matrix::Vector::normalize" name="matrix::Vector::normalize">
-<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#a6208d517ae36af0264e68ee89e93b114" title="Computes and sets heading a 2D vector. " alt="" coords="231,5,406,47"/>
-<area shape="rect" id="node3" href="$d0/d4b/class_manual_smoothing_x_y.html#a60f4fc26a2ececa04e638ed0a8e1410c" title="Gets user intention. " alt="" coords="243,71,395,112"/>
-<area shape="rect" id="node9" href="$d7/d3a/class_matrix_test.html#a1e8a2ae6c70329c9d9a6459beda83146" title="MatrixTest::attitudeTests" alt="" coords="235,137,403,163"/>
-<area shape="rect" id="node10" href="$d9/d0c/class_multicopter_attitude_control.html#af1a62e2fc06cb9482dd8cc533803f630" title="Attitude controller. " alt="" coords="232,188,405,229"/>
-<area shape="rect" id="node12" href="$d5/d30/namespace_control_math.html#a9cb32a32cb21c000358a95bc33ac20af" title="This method was used for smoothing the corners along two lines. " alt="" coords="252,253,385,295"/>
-<area shape="rect" id="node15" href="$d9/d0a/attitude_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="293,319,344,346"/>
-<area shape="rect" id="node16" href="$d5/d30/namespace_control_math.html#a996c36f73fc0f40cc72f16c2957a0f80" title="Converts thrust vector and yaw set&#45;point to a desired attitude. " alt="" coords="221,370,416,397"/>
-<area shape="rect" id="node22" href="$de/df2/class_standard.html#a6f4b65c091e9b635d836fe1dffaae48b" title="Update multicopter state. " alt="" coords="245,421,392,463"/>
-<area shape="rect" id="node23" href="$d7/d3a/class_matrix_test.html#acae559c1792451df7cc34466a0c03cd1" title="MatrixTest::vectorTests" alt="" coords="238,487,399,514"/>
-<area shape="rect" id="node4" href="$d0/d4b/class_manual_smoothing_x_y.html#a5c0cf00c23c17c94844db0d2bf69ca3f" title="Sets velocity change limits (=acceleration). " alt="" coords="488,100,640,141"/>
-<area shape="rect" id="node5" href="$d0/d4b/class_manual_smoothing_x_y.html#a9ac657e7d3f11c2da1f74d15c1f8ecb0" title="ManualSmoothingXY::\loverwriteJerkMin" alt="" coords="723,41,875,83"/>
-<area shape="rect" id="node6" href="$d0/d4b/class_manual_smoothing_x_y.html#aab3c7195e2098609e52078b5ee61ce06" title="Smoothing of velocity setpoint horizontally based on flight direction. " alt="" coords="723,107,875,148"/>
-<area shape="rect" id="node7" href="$d2/da3/class_flight_task_manual_position_smooth.html#a6bfa78892647fa049eaeb3b9040b650c" title="updates all setpoints " alt="" coords="1157,107,1333,148"/>
-<area shape="rect" id="node8" href="$d0/d4b/class_manual_smoothing_x_y.html#a16b85d7af767308bcb78ef48d3c7b07d" title="Maximum velocity is required to detect user intention. " alt="" coords="946,136,1098,177"/>
-<area shape="rect" id="node11" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="465,195,663,222"/>
-<area shape="rect" id="node13" href="$df/d5c/class_control_math_test.html#ade363f1bd061f3101ff7eb164edfd600" title="ControlMathTest::crossSphere\lLineTest" alt="" coords="464,253,664,295"/>
-<area shape="rect" id="node14" href="$df/d5c/class_control_math_test.html#a618ac1a2a90834bfe3379ef1197beff4" title="Override to run your unit tests. " alt="" coords="727,287,872,328"/>
-<area shape="rect" id="node17" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="477,384,651,425"/>
-<area shape="rect" id="node21" href="$df/d5c/class_control_math_test.html#aea5cd678471be90909d035228389122e" title="ControlMathTest::testThr\lAttMapping" alt="" coords="480,319,648,360"/>
-<area shape="rect" id="node18" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="712,384,887,425"/>
-<area shape="rect" id="node19" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="935,384,1109,425"/>
-<area shape="rect" id="node20" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="1171,391,1320,418"/>
+<area shape="rect" id="node2" href="$d8/d0b/class_flight_task_auto.html#a6208d517ae36af0264e68ee89e93b114" title="Computes and sets heading a 2D vector. " alt="" coords="238,192,413,233"/>
+<area shape="rect" id="node6" href="$d0/d4b/class_manual_smoothing_x_y.html#a60f4fc26a2ececa04e638ed0a8e1410c" title="Gets user intention. " alt="" coords="249,68,401,109"/>
+<area shape="rect" id="node12" href="$d8/d4c/class_flight_task_manual_altitude.html#a86d8a5cfd6e06599c5ebea6e6b772b46" title="updates all setpoints " alt="" coords="241,415,410,456"/>
+<area shape="rect" id="node18" href="$d5/d30/namespace_control_math.html#a9cb32a32cb21c000358a95bc33ac20af" title="This method was used for smoothing the corners along two lines. " alt="" coords="259,571,392,612"/>
+<area shape="rect" id="node20" href="$d7/d28/class_sih.html#ab40c65f36595815641750ca76e13ab45" title="Sih::equations_of_motion" alt="" coords="241,637,410,663"/>
+<area shape="rect" id="node23" href="$d0/d24/class_weather_vane.html#a5cd3def7a9bfddc877ac1369ac9dbec9" title="WeatherVane::get_weathervane\l_yawrate" alt="" coords="221,287,429,328"/>
+<area shape="rect" id="node26" href="$da/d89/class_mavlink_receiver.html#ad68e912762debb0112dbf26302c1e9ee" title="MavlinkReceiver::handle\l_message_odometry" alt="" coords="243,688,408,729"/>
+<area shape="rect" id="node34" href="$d9/d0a/attitude_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="300,754,351,781"/>
+<area shape="rect" id="node35" href="$d7/d3a/class_matrix_test.html#acdd54e5697b95fb9103ee7623957180d" title="Override to run your unit tests. " alt="" coords="252,805,399,831"/>
+<area shape="rect" id="node36" href="$d8/d08/_attitude_control_test_8cpp.html#a000f7a87a9fd050dde5c116056db9988" title="TEST_F" alt="" coords="290,855,361,882"/>
+<area shape="rect" id="node37" href="$d5/d30/namespace_control_math.html#ad717ded6d5b709feff11c5757ce9cfd2" title="Converts thrust vector and yaw set&#45;point to a desired attitude. " alt="" coords="228,519,423,546"/>
+<area shape="rect" id="node41" href="$d9/d57/class_attitude_control.html#aac180ba23a01fc3d0c4fe158ff706fac" title="Run one control loop cycle calculation. " alt="" coords="247,906,403,933"/>
+<area shape="rect" id="node49" href="$de/df2/class_standard.html#aed46185c44c762df8eb499ea190cb6a0" title="Update multicopter state. " alt="" coords="252,957,399,999"/>
+<area shape="rect" id="node50" href="$d7/d3a/class_matrix_test.html#acae559c1792451df7cc34466a0c03cd1" title="MatrixTest::vectorTests" alt="" coords="245,1023,406,1050"/>
+<area shape="rect" id="node3" href="$d8/d0b/class_flight_task_auto.html#a2e511bab598739e403729afb599ac51d" title="FlightTaskAuto::_set\l_heading_from_mode" alt="" coords="501,133,648,175"/>
+<area shape="rect" id="node4" href="$d8/d0b/class_flight_task_auto.html#a6ba395901628042b73583f6657e489bc" title="Checks and sets triplets. " alt="" coords="736,136,911,177"/>
+<area shape="rect" id="node5" href="$d8/d0b/class_flight_task_auto.html#a6632a22e2e4eebe37e94ace639930a58" title="Call before activate() or update() to initialize time and input data. " alt="" coords="975,147,1180,174"/>
+<area shape="rect" id="node7" href="$d0/d4b/class_manual_smoothing_x_y.html#a5c0cf00c23c17c94844db0d2bf69ca3f" title="Sets velocity change limits (=acceleration). " alt="" coords="499,68,651,109"/>
+<area shape="rect" id="node8" href="$d0/d4b/class_manual_smoothing_x_y.html#a9ac657e7d3f11c2da1f74d15c1f8ecb0" title="ManualSmoothingXY::\loverwriteJerkMin" alt="" coords="747,5,899,47"/>
+<area shape="rect" id="node9" href="$d0/d4b/class_manual_smoothing_x_y.html#aab3c7195e2098609e52078b5ee61ce06" title="Smoothing of velocity setpoint horizontally based on flight direction. " alt="" coords="747,71,899,112"/>
+<area shape="rect" id="node10" href="$d2/da3/class_flight_task_manual_position_smooth.html#a6bfa78892647fa049eaeb3b9040b650c" title="updates all setpoints " alt="" coords="1228,89,1404,131"/>
+<area shape="rect" id="node11" href="$d0/d4b/class_manual_smoothing_x_y.html#a16b85d7af767308bcb78ef48d3c7b07d" title="Maximum velocity is required to detect user intention. " alt="" coords="1001,31,1153,72"/>
+<area shape="rect" id="node13" href="$d4/da6/class_flight_task_manual_altitude_smooth.html#a15ba661f81d605eb771ffbdb7af1bc20" title="updates all setpoints " alt="" coords="487,381,663,423"/>
+<area shape="rect" id="node14" href="$d4/d12/class_flight_task_manual_altitude_smooth_vel.html#aa7831e90f6e8cfbc8c3bf5b28004c892" title="updates all setpoints " alt="" coords="477,447,672,488"/>
+<area shape="rect" id="node15" href="$da/d83/class_flight_task_manual_position.html#a7ff41f50ab2a64a911723509539d4ca0" title="updates all setpoints " alt="" coords="489,251,661,292"/>
+<area shape="rect" id="node16" href="$d7/d80/class_flight_task_manual_position_smooth_vel.html#a5c0f729deb39703f93b42c7f7092f7b8" title="updates all setpoints " alt="" coords="726,253,921,295"/>
+<area shape="rect" id="node17" href="$da/d83/class_flight_task_manual_position.html#a4a6b240320d94deaca158a5ce4d986e4" title="Sets an external yaw handler which can be used to implement a different yaw control strategy..." alt="" coords="737,319,909,360"/>
+<area shape="rect" id="node19" href="$d8/df1/_control_math_test_8cpp.html#a391675d62125962827d85d348be935b3" title="TEST" alt="" coords="547,629,603,655"/>
+<area shape="rect" id="node21" href="$d7/d28/class_sih.html#ae9c730a3bcefba814a268e9ce715834e" title="Sih::inner_loop" alt="" coords="521,679,629,706"/>
+<area shape="rect" id="node22" href="$d7/d28/class_sih.html#a50305f3a277e16908d0866e1e3f33a1f" title="Sih::run" alt="" coords="790,679,857,706"/>
+<area shape="rect" id="node24" href="$d0/d24/class_weather_vane.html#ac65b8e32a199cc1e71d6cf6afbdc21b2" title="WeatherVane::weathervane\l_enabled" alt="" coords="483,316,666,357"/>
+<area shape="rect" id="node25" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="720,425,927,451"/>
+<area shape="rect" id="node27" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="492,731,657,772"/>
+<area shape="rect" id="node28" href="$da/d89/class_mavlink_receiver.html#a2a2904ed386bbb6a4ff3528527006a58" title="Receive data from UART/UDP. " alt="" coords="748,738,899,765"/>
+<area shape="rect" id="node29" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1001,731,1154,772"/>
+<area shape="rect" id="node30" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1231,731,1401,772"/>
+<area shape="rect" id="node31" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1452,738,1587,765"/>
+<area shape="rect" id="node32" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1635,738,1777,765"/>
+<area shape="rect" id="node33" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="1825,738,1927,765"/>
+<area shape="rect" id="node38" href="$d8/d5a/class_position_control.html#a4c871d392085f11713a648289714ba54" title="Get the controllers output attitude setpoint This attitude setpoint was generated from the resulting ..." alt="" coords="483,512,666,553"/>
+<area shape="rect" id="node40" href="$d8/df1/_control_math_test_8cpp.html#aa8d4cc0bd9d9615b84904414b015d496" title="TEST" alt="" coords="547,578,603,605"/>
+<area shape="rect" id="node39" href="$d8/d36/_position_control_test_8cpp.html#ac6d3cd16938d51958121f33b5b2d354c" title="TEST" alt="" coords="795,519,851,546"/>
+<area shape="rect" id="node42" href="$d9/d0c/class_multicopter_attitude_control.html#a5cdb410d4601bb24ebed927788237717" title="Attitude controller. " alt="" coords="737,835,910,876"/>
+<area shape="rect" id="node44" href="$d9/d57/class_attitude_control.html#ac3d0e5d227e086eddbae4a46f8866d68" title="Set hard limit for output rate setpoints. " alt="" coords="493,899,656,940"/>
+<area shape="rect" id="node48" href="$d8/d08/_attitude_control_test_8cpp.html#a4a8c74b301722c1222e1ae2fbb3ae784" title="TEST" alt="" coords="547,965,603,991"/>
+<area shape="rect" id="node43" href="$d9/d0c/class_multicopter_attitude_control.html#af1b60dba92718a043b3dd37ad9bdec58" title="MulticopterAttitudeControl::Run" alt="" coords="975,845,1180,871"/>
+<area shape="rect" id="node45" href="$d9/d0c/class_multicopter_attitude_control.html#a72315657f11582aefd1777046ee6b036" title="initialize some vectors/matrices from parameters " alt="" coords="737,900,910,941"/>
+<area shape="rect" id="node46" href="$d9/d0c/class_multicopter_attitude_control.html#ae4d5bc070557f794173355cb3e3257ba" title="MulticopterAttitudeControl\l::MulticopterAttitudeControl" alt="" coords="987,900,1168,941"/>
+<area shape="rect" id="node47" href="$d9/d0c/class_multicopter_attitude_control.html#aedbb9921f179ce507362d251764bd4c5" title="MulticopterAttitudeControl\l::task_spawn" alt="" coords="1229,900,1403,941"/>
 </map>

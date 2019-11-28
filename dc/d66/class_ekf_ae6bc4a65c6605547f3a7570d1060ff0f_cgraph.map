@@ -1,0 +1,20 @@
+<map id="Ekf::selectMagAuto" name="Ekf::selectMagAuto">
+<area shape="rect" id="node2" href="$dc/d66/class_ekf.html#aed683ba8a5652b59c7a3df47bfeab4e7" title="Ekf::canUse3DMagFusion" alt="" coords="214,95,390,121"/>
+<area shape="rect" id="node3" href="$dc/d66/class_ekf.html#adedc1dc5e57f319a2b0d70452ea36238" title="Ekf::check3DMagFusionSuitability" alt="" coords="191,145,413,172"/>
+<area shape="rect" id="node11" href="$dc/d66/class_ekf.html#a8722aaa3baa6b8fb1a837b9478f35105" title="Ekf::startMag3DFusion" alt="" coords="223,221,381,248"/>
+<area shape="rect" id="node17" href="$dc/d66/class_ekf.html#a0828d9e222ff448c3686d36d3eafbad3" title="Ekf::startMagHdgFusion" alt="" coords="220,323,384,349"/>
+<area shape="rect" id="node4" href="$dc/d66/class_ekf.html#ac9be4a8a86dc2398d6b9a053ae8ac472" title="Ekf::checkMagBiasObservability" alt="" coords="465,5,677,32"/>
+<area shape="rect" id="node8" href="$dc/d66/class_ekf.html#a668eac17be299fcd8995f28be4151266" title="Ekf::checkYawAngleObservability" alt="" coords="461,56,681,83"/>
+<area shape="rect" id="node9" href="$dc/d66/class_ekf.html#a80f10caaa9a04cf28d0cd7b26159f067" title="Ekf::isMagBiasObservable" alt="" coords="483,107,660,133"/>
+<area shape="rect" id="node10" href="$dc/d66/class_ekf.html#a962d6be8242144203599b519d6376f52" title="Ekf::isYawAngleObservable" alt="" coords="479,157,664,184"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="787,5,826,32"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="932,5,1015,32"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1063,5,1149,32"/>
+<area shape="rect" id="node12" href="$dc/d66/class_ekf.html#ab01e08a118d9778ea0a79d552f286ba3" title="Ekf::stopMagHdgFusion" alt="" coords="490,208,653,235"/>
+<area shape="rect" id="node13" href="$dc/d66/class_ekf.html#a54621e0a885dc41a71820a64cae0b13f" title="Ekf::zeroMagCov" alt="" coords="509,259,633,285"/>
+<area shape="rect" id="node16" href="$dc/d66/class_ekf.html#a79d7543c05ace38a2864e3f600597f3e" title="Ekf::loadMagCovData" alt="" coords="496,309,647,336"/>
+<area shape="rect" id="node14" href="$dc/d66/class_ekf.html#a49a4da2e831b46876b307eb8e0560a12" title="Ekf::zeroRows" alt="" coords="752,233,861,260"/>
+<area shape="rect" id="node15" href="$dc/d66/class_ekf.html#a421983af018ca82e2c5c0ba3fa5ad769" title="Ekf::zeroCols" alt="" coords="755,284,858,311"/>
+<area shape="rect" id="node18" href="$dc/d66/class_ekf.html#aa148e57137bf741e4ea5797152d1fe19" title="Ekf::stopMag3DFusion" alt="" coords="493,360,649,387"/>
+<area shape="rect" id="node19" href="$dc/d66/class_ekf.html#a8a167edfb8ae0887a7f965b6876ea422" title="Ekf::saveMagCovData" alt="" coords="729,360,884,387"/>
+</map>

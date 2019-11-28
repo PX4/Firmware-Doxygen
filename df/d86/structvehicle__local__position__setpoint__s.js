@@ -1,8 +1,8 @@
 var structvehicle__local__position__setpoint__s =
 [
-    [ "acc_x", "df/d86/structvehicle__local__position__setpoint__s.html#a51e14496770cdf869b9f1ac451273021", null ],
-    [ "acc_y", "df/d86/structvehicle__local__position__setpoint__s.html#a03f1da1d0dfd828141c907f7be6049a1", null ],
-    [ "acc_z", "df/d86/structvehicle__local__position__setpoint__s.html#ab9027660e3be254195187dc9fb4c4367", null ],
+    [ "_padding0", "df/d86/structvehicle__local__position__setpoint__s.html#aee856e8762c087f4072a8d430a742c46", null ],
+    [ "acceleration", "df/d86/structvehicle__local__position__setpoint__s.html#a61b9f2b85b911bdac7dc233753ec68a6", null ],
+    [ "jerk", "df/d86/structvehicle__local__position__setpoint__s.html#a9f21ee17b5b24344427f8b8ae6587f8e", null ],
     [ "thrust", "df/d86/structvehicle__local__position__setpoint__s.html#a980b5aef9930393601c4539ddd124e01", null ],
     [ "timestamp", "df/d86/structvehicle__local__position__setpoint__s.html#a94b6bf6ee4d1b6f5f6b3d45ce49fddcc", null ],
     [ "vx", "df/d86/structvehicle__local__position__setpoint__s.html#a71b0385103c1a885953ea5148b68c7c0", null ],

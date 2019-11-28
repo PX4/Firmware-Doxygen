@@ -1,27 +1,14 @@
 var _a_d_i_s16477_8cpp =
 [
-    [ "ACCELDYNAMICRANGE", "d9/d08/_a_d_i_s16477_8cpp.html#a4b7adac06e8fc8adedc1ae5bfac2819e", null ],
-    [ "ACCELINITIALSENSITIVITY", "d9/d08/_a_d_i_s16477_8cpp.html#ab4f7d3040d033ce66890262c922feb35", null ],
     [ "DIR_READ", "d9/d08/_a_d_i_s16477_8cpp.html#a63ac557544e4f6e3c6928e8a73dd2d77", null ],
     [ "DIR_WRITE", "d9/d08/_a_d_i_s16477_8cpp.html#ac084b6b62ecc11b60fc1c4cc0b775ae1", null ],
-    [ "GYROINITIALSENSITIVITY", "d9/d08/_a_d_i_s16477_8cpp.html#a784b0b411885aa08e198188ba3cb6aaf", null ],
+    [ "ADIS16477_DEFAULT_RATE", "d9/d08/_a_d_i_s16477_8cpp.html#a93be0321693d1d5cf93c7f28038ee2be", null ],
+    [ "DEC_RATE", "d9/d08/_a_d_i_s16477_8cpp.html#a12e081a2bbbe75669e6f1dc708f25069", null ],
     [ "DIAG_STAT", "d9/d08/_a_d_i_s16477_8cpp.html#a467c9290c3c728199895b1a9106d05f9", null ],
+    [ "FILT_CTRL", "d9/d08/_a_d_i_s16477_8cpp.html#a0977690b39d0b40918e5b34b734ede99", null ],
     [ "GLOB_CMD", "d9/d08/_a_d_i_s16477_8cpp.html#afc47741a7ab5aedd43bffcf2a22cfd10", null ],
+    [ "MSC_CTRL", "d9/d08/_a_d_i_s16477_8cpp.html#a20bfec7ec4cfd9676fd06b1fd2771457", null ],
     [ "PROD_ID", "d9/d08/_a_d_i_s16477_8cpp.html#ae475d32e702a96b3775b85af071174d9", null ],
     [ "PROD_ID_ADIS16477", "d9/d08/_a_d_i_s16477_8cpp.html#a86cded9399bcad24aaaa0a72f5f953d4", null ],
-    [ "T_STALL", "d9/d08/_a_d_i_s16477_8cpp.html#a7a250fb2ffb21953631590df43b94d5c", null ],
-    [ "TEMP_OUT", "d9/d08/_a_d_i_s16477_8cpp.html#a044ad81495ccb063a6662f29a3a578ec", null ],
-    [ "TIME_STAMP", "d9/d08/_a_d_i_s16477_8cpp.html#a2329e5637db396a9f099bd4a5834f036", null ],
-    [ "X_ACCL_LOW", "d9/d08/_a_d_i_s16477_8cpp.html#a05d41fcbb898eab980a342b6ea0587bc", null ],
-    [ "X_ACCL_OUT", "d9/d08/_a_d_i_s16477_8cpp.html#a8566d87d7847aa05fc862db90d306585", null ],
-    [ "X_GYRO_LOW", "d9/d08/_a_d_i_s16477_8cpp.html#a8fa0e56eeb373a2474df89364a5a2ed2", null ],
-    [ "X_GYRO_OUT", "d9/d08/_a_d_i_s16477_8cpp.html#aaa2eef650f1819406af01eb7011d9878", null ],
-    [ "Y_ACCL_LOW", "d9/d08/_a_d_i_s16477_8cpp.html#ac805b6b468a608903fc51dc20ba2c640", null ],
-    [ "Y_ACCL_OUT", "d9/d08/_a_d_i_s16477_8cpp.html#aeb0a6d04439fd445325eebe87d71b5ab", null ],
-    [ "Y_GYRO_LOW", "d9/d08/_a_d_i_s16477_8cpp.html#a755547b63fd5dfa4ae3736807fbad99e", null ],
-    [ "Y_GYRO_OUT", "d9/d08/_a_d_i_s16477_8cpp.html#a268110b97a002a26fa324e54298b9246", null ],
-    [ "Z_ACCL_LOW", "d9/d08/_a_d_i_s16477_8cpp.html#a89a45ea275aff6a49cf6935bf5414f97", null ],
-    [ "Z_ACCL_OUT", "d9/d08/_a_d_i_s16477_8cpp.html#aeb063ded85474d325ad324cee0752887", null ],
-    [ "Z_GYRO_LOW", "d9/d08/_a_d_i_s16477_8cpp.html#a2187fd606ee5765cad8bf986c2a4698c", null ],
-    [ "Z_GYRO_OUT", "d9/d08/_a_d_i_s16477_8cpp.html#af51a44de899ff8dc299f33b0563af48b", null ]
+    [ "T_STALL", "d9/d08/_a_d_i_s16477_8cpp.html#ad0ff9e68dcbe5d516f9bbaeda945b368", null ]
 ];

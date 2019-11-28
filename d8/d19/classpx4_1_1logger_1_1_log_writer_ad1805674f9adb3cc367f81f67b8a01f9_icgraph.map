@@ -1,10 +1,12 @@
 <map id="px4::logger::LogWriter::set_need_reliable_transfer" name="px4::logger::LogWriter::set_need_reliable_transfer">
-<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="677,115,811,156"/>
-<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="677,180,811,221"/>
-<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aabf3bd800d91afa723ca1c7086a94c39" title="px4::logger::Logger\l::stop_log_file" alt="" coords="471,239,605,280"/>
-<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aa40b58ace4c34d57e28bbe5eb18c134e" title="Write an ADD_LOGGED_MSG to the log for a given subscription and instance. " alt="" coords="236,71,399,112"/>
-<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a4e5bcf7638c7e8c4e51333c9b56d70f4" title="write the process load, which was previously initialized with initialize_load_output() ..." alt="" coords="251,295,384,336"/>
-<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="859,187,1017,214"/>
-<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a55a07bd6f5959c9b8bdeeb7d63e4817a" title="px4::logger::Logger\l::copy_if_updated_multi" alt="" coords="458,5,618,47"/>
-<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a5c827b9922d8f6587745fc990fe7855a" title="Write an ADD_LOGGED_MSG to the log for a all current subscriptions and instances. ..." alt="" coords="447,71,629,112"/>
+<area shape="rect" id="node2" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="677,89,811,131"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="677,165,811,207"/>
+<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a01d0690aa8610bad2df8be594ec52b32" title="px4::logger::Logger\l::stop_log_file" alt="" coords="677,5,811,47"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2d8f54ad11f3535de14a989b546342ae" title="Write an ADD_LOGGED_MSG to the log for a given subscription and instance. " alt="" coords="236,148,399,189"/>
+<area shape="rect" id="node11" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a4e5bcf7638c7e8c4e51333c9b56d70f4" title="write the process load, which was previously initialized with initialize_load_output() ..." alt="" coords="251,297,384,339"/>
+<area shape="rect" id="node3" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="1087,141,1245,167"/>
+<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="881,41,1017,83"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="859,158,1039,214"/>
+<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a2c8d085b33fbc7ae967153421159ad7b" title="px4::logger::Logger\l::copy_if_updated" alt="" coords="471,180,605,221"/>
+<area shape="rect" id="node10" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a5a7b3e8c52210eab82a598a50000ad83" title="Write an ADD_LOGGED_MSG to the log for a all current subscriptions and instances. ..." alt="" coords="447,115,629,156"/>
 </map>

@@ -1,0 +1,35 @@
+<map id="BMP388::init" name="BMP388::init">
+<area shape="rect" id="node2" href="$d8/d99/class_b_m_p388.html#aace5f9b3c6ccd60dd359030207ee9f73" title="BMP388::collect" alt="" coords="183,409,301,436"/>
+<area shape="rect" id="node23" href="$d9/dc1/class_i_b_m_p388.html#a445943d74f867bb8de89e415fb3d32ab" title="IBMP388::get_calibration" alt="" coords="158,561,326,588"/>
+<area shape="rect" id="node24" href="$d9/dc1/class_i_b_m_p388.html#a7874c1bf8c63493fb87abe4c8b6ef259" title="IBMP388::get_reg" alt="" coords="673,815,800,841"/>
+<area shape="rect" id="node25" href="$d8/d99/class_b_m_p388.html#a6b8165f11dafcaf5e8d67a8edabdb653" title="BMP388::measure" alt="" coords="177,612,307,639"/>
+<area shape="rect" id="node28" href="$d8/d99/class_b_m_p388.html#a9fd096ead1ec48a4ba58dc924756971e" title="This API sets the power control(pressure enable and temperature enable), over sampling, odr and filter settings in the sensor. " alt="" coords="170,799,314,841"/>
+<area shape="rect" id="node30" href="$d8/d99/class_b_m_p388.html#a6ab9e115cf8ae8cbf65c53384950b7d8" title="This API performs the soft reset of the sensor. " alt="" coords="420,764,559,791"/>
+<area shape="rect" id="node31" href="$d8/d99/class_b_m_p388.html#adf16fee590779e91dd097781dfd60232" title="BMP388::start" alt="" coords="189,916,295,943"/>
+<area shape="rect" id="node33" href="$d8/d99/class_b_m_p388.html#a0640411284d291ff4bfb9780075ab89d" title="BMP388::validate_trimming\l_param" alt="" coords="151,967,333,1009"/>
+<area shape="rect" id="node3" href="$d8/d99/class_b_m_p388.html#ace07f51ea155a8821b12ffdcc09123e6" title="This API reads the pressure, temperature or both data from the sensor, compensates the data and store..." alt="" coords="401,107,577,133"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="674,536,799,563"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="448,561,531,588"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#a6d3e31559fa1530eb17e6273ae9fffb4" title="Cancel a performance event. " alt="" coords="445,460,534,487"/>
+<area shape="rect" id="node12" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="448,612,531,639"/>
+<area shape="rect" id="node13" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="453,511,525,537"/>
+<area shape="rect" id="node14" href="$df/d7b/perf__counter_8cpp.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="428,257,551,284"/>
+<area shape="rect" id="node15" href="$db/dc8/class_p_x4_barometer.html#a766f4e6ec4d16308f412e74b65767b19" title="PX4Barometer::set_error\l_count" alt="" coords="653,183,820,225"/>
+<area shape="rect" id="node17" href="$db/dc8/class_p_x4_barometer.html#a1d9a64015354387d2effd941a5f3c7b3" title="PX4Barometer::set_temperature" alt="" coords="385,308,594,335"/>
+<area shape="rect" id="node18" href="$db/dc8/class_p_x4_barometer.html#a28512b74ef68a64fc8dbef91ea54a23f" title="PX4Barometer::update" alt="" coords="659,365,814,392"/>
+<area shape="rect" id="node4" href="$d8/d99/class_b_m_p388.html#a27acfe6100d8ee9a5d8f1a35cbf86d14" title="This internal API is used to compensate the pressure or temperature or both the data according to the..." alt="" coords="645,31,828,57"/>
+<area shape="rect" id="node7" href="$d9/dc1/class_i_b_m_p388.html#a759ec1381857769e6e5e885f7651c273" title="IBMP388::get_reg_buf" alt="" coords="661,81,813,108"/>
+<area shape="rect" id="node8" href="$da/da5/bmp388_8cpp.html#a20da06fe77b3d93f19a83f6a0cd59b48" title="This internal API is used to parse the pressure or temperature or both the data and store it in the b..." alt="" coords="671,132,803,159"/>
+<area shape="rect" id="node5" href="$da/da5/bmp388_8cpp.html#a337216f62d4bfe2c15d419e0280d4533" title="This internal API is used to compensate the raw pressure data and return the compensated pressure dat..." alt="" coords="907,56,1057,83"/>
+<area shape="rect" id="node6" href="$da/da5/bmp388_8cpp.html#aebfef6e8d4cf5beb7690d469aa953b26" title="This internal API is used to compensate the raw temperature data and return the compensated temperatu..." alt="" coords="897,5,1067,32"/>
+<area shape="rect" id="node16" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="876,268,1088,295"/>
+<area shape="rect" id="node22" href="$db/dc8/class_p_x4_barometer.html#ac9183625a4b2a9db01d416045a383ba3" title="PX4Barometer::print\l_status" alt="" coords="667,249,807,290"/>
+<area shape="rect" id="node19" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="903,411,1061,437"/>
+<area shape="rect" id="node21" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#a42d8c47f80211bac32dfdf1792609a83" title="uORB::PublicationMultiData\l::update" alt="" coords="889,345,1075,386"/>
+<area shape="rect" id="node20" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1136,411,1323,437"/>
+<area shape="rect" id="node26" href="$d8/d99/class_b_m_p388.html#af4a3e882aecb26e8ad95cb1f25be50ef" title="This API sets the power mode of the sensor. " alt="" coords="410,663,569,689"/>
+<area shape="rect" id="node27" href="$d9/dc1/class_i_b_m_p388.html#a2a3e35210bd4a5f5f3bf0ea8f205e68a" title="IBMP388::set_reg" alt="" coords="673,713,800,740"/>
+<area shape="rect" id="node29" href="$d8/d99/class_b_m_p388.html#af312ce9b29c3b7dba41279eaa6b768ce" title="BMP388::get_measurement_time" alt="" coords="381,815,597,841"/>
+<area shape="rect" id="node32" href="$d8/d99/class_b_m_p388.html#a5371d047dac0e57a56f776938fa75ca6" title="BMP388::stop" alt="" coords="437,916,542,943"/>
+<area shape="rect" id="node34" href="$da/da5/bmp388_8cpp.html#a3556c10b7c17b01a66685153d98b72b5" title="cal_crc" alt="" coords="457,1017,521,1044"/>
+</map>

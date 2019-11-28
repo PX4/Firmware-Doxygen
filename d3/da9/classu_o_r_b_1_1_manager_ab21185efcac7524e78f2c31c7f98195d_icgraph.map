@@ -1,51 +1,51 @@
 <map id="uORB::Manager::orb_advertise_multi" name="uORB::Manager::orb_advertise_multi">
-<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="196,104,339,145"/>
-<area shape="rect" id="node8" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="391,1183,525,1210"/>
-<area shape="rect" id="node50" href="$db/dd6/u_o_r_b_8h.html#aed3e419c14dc98a09884a96fb3b4975b" title="orb_advertise_multi\l_queue" alt="" coords="200,712,335,753"/>
-<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="408,111,508,138"/>
-<area shape="rect" id="node7" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="387,61,529,87"/>
-<area shape="rect" id="node4" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="599,5,752,47"/>
-<area shape="rect" id="node5" href="$da/d89/class_mavlink_receiver.html#af2203fd6dcc4173ab24f7ee9e80c35a7" title="MavlinkReceiver::handle\l_message_hil_optical_flow" alt="" coords="586,71,765,112"/>
-<area shape="rect" id="node6" href="$da/d89/class_mavlink_receiver.html#abd0b32b8284600ab24573009339db4b6" title="MavlinkReceiver::handle\l_message_optical_flow_rad" alt="" coords="584,136,767,177"/>
-<area shape="rect" id="node9" href="$da/d97/classrpi__rc__in_1_1_rc_input.html#afc8e5a07f0c085f53540e9a64f3167b8" title="rpi_rc_in::RcInput\l::_measure" alt="" coords="613,659,738,700"/>
-<area shape="rect" id="node10" href="$d9/dec/class_df_m_s5607_wrapper.html#a780b87c04d5aeb76407b14cd037f246b" title="DfMS5607Wrapper::_publish" alt="" coords="581,725,770,751"/>
-<area shape="rect" id="node11" href="$d4/d4a/class_df_m_s5611_wrapper.html#ad3d712a650a52cbaa3b4fdb8885ccd8b" title="DfMS5611Wrapper::_publish" alt="" coords="581,775,770,802"/>
-<area shape="rect" id="node12" href="$db/de6/class_df_bmp280_wrapper.html#a47170b63f5f004e91d1178d55e98f806" title="DfBmp280Wrapper::_publish" alt="" coords="581,826,770,853"/>
-<area shape="rect" id="node13" href="$d1/d27/class_df_bebop_range_finder_wrapper.html#a7729f33ce0de1a5b017e6acbde0020c2" title="DfBebopRangeFinderWrapper\l::_publish" alt="" coords="577,877,773,919"/>
-<area shape="rect" id="node14" href="$d7/d3e/class_df_hmc5883_wrapper.html#a9a09f3f8a4592611e2c99b42c6e14104" title="DfHmc5883Wrapper::\l_publish" alt="" coords="601,943,750,984"/>
-<area shape="rect" id="node15" href="$d8/ddf/class_df_t_r_one_wrapper.html#affdb9162cff3d0c7457212b6518bc8e0" title="DfTROneWrapper::_publish" alt="" coords="584,1009,767,1035"/>
-<area shape="rect" id="node16" href="$d9/d0b/class_df_a_k8963_wrapper.html#ab55ed30cea532bcb2cccf58268e9bb40" title="DfAK8963Wrapper::_publish" alt="" coords="582,1059,769,1086"/>
-<area shape="rect" id="node17" href="$d8/d40/class_df_i_s_l29501_wrapper.html#aecdcfd8970a916edd1658c48a86e602e" title="DfISL29501Wrapper::\l_publish" alt="" coords="601,1111,749,1152"/>
-<area shape="rect" id="node18" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="600,1176,751,1217"/>
-<area shape="rect" id="node19" href="$df/d4c/class_df_mpu9250_wrapper.html#a731b19d90418d3ec545122f2d097040e" title="DfMpu9250Wrapper::\l_publish" alt="" coords="602,1241,749,1283"/>
-<area shape="rect" id="node20" href="$dc/d46/class_l_s_m303_a_g_r.html#af81f559db8124d052eed917f7138f226" title="Collect the result of the most recent measurement. " alt="" coords="603,1307,748,1334"/>
-<area shape="rect" id="node21" href="$d6/d73/class_l_p_s22_h_b.html#acb5f43d736193ecfb3d0140372887e5f" title="Collect the result of the most recent measurement. " alt="" coords="612,1358,739,1385"/>
-<area shape="rect" id="node22" href="$d4/df1/class_l_i_s3_m_d_l.html#a4f9991a60bec3e89c424a4c526f22a04" title="Collect the result of the most recent measurement. " alt="" coords="614,1409,737,1435"/>
-<area shape="rect" id="node23" href="$dc/d03/class_l_p_s25_h.html#a54bf0a1c6dbdbcb2c3ea7f57d6979869" title="Collect the result of the most recent measurement. " alt="" coords="617,1459,734,1486"/>
-<area shape="rect" id="node24" href="$d5/dad/class_h_m_c5883.html#aa274541257c488a9b67e239737e73034" title="Collect the result of the most recent measurement. " alt="" coords="612,1510,739,1537"/>
-<area shape="rect" id="node25" href="$db/df0/class_i_s_t8310.html#ae609ef037deee4a823131d9a83295a9a" title="Collect the result of the most recent measurement. " alt="" coords="617,1561,734,1587"/>
-<area shape="rect" id="node26" href="$d6/dd7/namespacempu9x50.html#a089002fbb19a0fe49bdd46a5e3c86f77" title="create and advertise all publicatoins " alt="" coords="598,1611,753,1638"/>
-<area shape="rect" id="node27" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="618,1662,733,1689"/>
-<area shape="rect" id="node28" href="$d1/dc6/class_mavlink_timesync.html#af2c41d81e08bf1be67e7c74d33a5dc12" title="MavlinkTimesync::handle\l_message" alt="" coords="590,1713,761,1755"/>
-<area shape="rect" id="node29" href="$da/d89/class_mavlink_receiver.html#ae58b129ca91f1ddf0595371abba81c85" title="MavlinkReceiver::handle\l_message_distance_sensor" alt="" coords="583,1779,767,1820"/>
-<area shape="rect" id="node30" href="$da/d89/class_mavlink_receiver.html#a6a4348467cd6ab4ed1a99342268378be" title="MavlinkReceiver::handle\l_message_heartbeat" alt="" coords="593,1844,758,1885"/>
-<area shape="rect" id="node31" href="$da/d89/class_mavlink_receiver.html#ab2adf7831cc88f6dae4d0ca841bde1d9" title="MavlinkReceiver::handle\l_message_ping" alt="" coords="593,1909,758,1951"/>
-<area shape="rect" id="node32" href="$da/d89/class_mavlink_receiver.html#a4d8e84998fa00b9a967e0b5c56375e8b" title="MavlinkReceiver::handle\l_message_radio_status" alt="" coords="593,1975,758,2016"/>
-<area shape="rect" id="node33" href="$d8/daf/class_airspeed.html#a8a2f9a36f6bf04dfa1c7cd189559bf78" title="Airspeed::init" alt="" coords="626,2041,725,2067"/>
-<area shape="rect" id="node34" href="$dc/d3d/class_lidar_lite_p_w_m.html#afa9c5ac4cf49d2149c3d3f9afd922743" title="LidarLitePWM::init" alt="" coords="611,2091,740,2118"/>
-<area shape="rect" id="node35" href="$d8/de0/class_a_d_i_s16477.html#afbeb398ddc48ec8f8d9395e7e5ddc04d" title="ADIS16477::init" alt="" coords="618,2142,733,2169"/>
-<area shape="rect" id="node36" href="$dc/dec/class_lidar_lite_i2_c.html#a30f027ae49609d2fe3d46eef3f1f59e2" title="LidarLiteI2C::init" alt="" coords="617,2193,734,2219"/>
-<area shape="rect" id="node37" href="$dc/dc5/class_b_a_r_o_s_i_m.html#a4885508cb3acc4c827d68ac073fac946" title="BAROSIM::init" alt="" coords="621,2243,730,2270"/>
-<area shape="rect" id="node38" href="$d8/d56/class_t_f_m_i_n_i.html#ae8f20e4ccdeb8f3f4f35547095f0abfc" title="Initialise the driver and make it ready for use. " alt="" coords="629,2294,721,2321"/>
-<area shape="rect" id="node39" href="$d7/dd9/class_s_f0_x.html#a0d821146fd6ef52b9914b5b28d84e8d9" title="Initialise the driver and make it ready for use. " alt="" coords="635,2345,715,2371"/>
-<area shape="rect" id="node40" href="$d4/dd4/class_s_f1_x_x.html#a7fd8a9e91f695698235aec4ce5d3b931" title="SF1XX::init" alt="" coords="631,2395,720,2422"/>
-<area shape="rect" id="node41" href="$dc/d68/class_h_c___s_r04.html#a2c1948c8e753e7c08d29c3c3ad9672ea" title="Initialise the driver and make it ready for use. " alt="" coords="622,202,729,229"/>
-<area shape="rect" id="node42" href="$de/d74/class_a_c_c_e_l_s_i_m.html#a8ea3c20dc5faa4e7250e634ea69842a4" title="ACCELSIM::init" alt="" coords="617,253,733,279"/>
-<area shape="rect" id="node43" href="$d1/daf/class_b_m_p280.html#a19cb357451895c41f211837684d90f84" title="Initialise the driver and make it ready for use. " alt="" coords="627,303,724,330"/>
-<area shape="rect" id="node44" href="$d5/d16/class_m_p_u9250__mag.html#aa95c429ad9828b8fb83fca27b616b74a" title="Initialise the driver and make it ready for use. " alt="" coords="607,354,744,381"/>
-<area shape="rect" id="node45" href="$d9/dfb/class_m_b12_x_x.html#a01f702164f8aeafe4ef2570bda8a9771" title="MB12XX::init" alt="" coords="626,405,725,431"/>
-<area shape="rect" id="node46" href="$d8/dad/class_s_r_f02.html#a5093c174a1cf2a82e55a3019781227b2" title="SRF02::init" alt="" coords="631,455,719,482"/>
-<area shape="rect" id="node47" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#aa786894e092d97d92c1bbcabd594ccf0" title="TERARANGER::init" alt="" coords="605,506,746,533"/>
-<area shape="rect" id="node48" href="$d0/d2a/classulanding_1_1_radar.html#a2f9378980e9c7d5ab23607a1105eeb70" title="Initialise the driver and make it ready for use. " alt="" coords="606,557,745,583"/>
-<area shape="rect" id="node49" href="$d8/d33/class_m_p_l3115_a2.html#a95d49936db9c6811cc825151afc280e1" title="Initialise the driver and make it ready for use. " alt="" coords="616,607,735,634"/>
+<area shape="rect" id="node2" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="196,49,339,90"/>
+<area shape="rect" id="node8" href="$db/dd6/u_o_r_b_8h.html#a7868bb2be3b1b10e09ee14d2cbcdb8aa" title="orb_advertise_multi" alt="" coords="391,1244,525,1271"/>
+<area shape="rect" id="node50" href="$db/dd6/u_o_r_b_8h.html#aed3e419c14dc98a09884a96fb3b4975b" title="orb_advertise_multi\l_queue" alt="" coords="200,731,335,773"/>
+<area shape="rect" id="node3" href="$db/dd6/u_o_r_b_8h.html#a4fb3ce3262e359641938be9b6e0019f0" title="orb_advertise" alt="" coords="408,56,508,83"/>
+<area shape="rect" id="node7" href="$db/dd6/u_o_r_b_8h.html#a3caf751f3b3ad790628fc954a541bb85" title="orb_advertise_queue" alt="" coords="387,5,529,32"/>
+<area shape="rect" id="node4" href="$d6/d61/class_df_bebop_bus_wrapper.html#ac928b278f82a561cb5dd7618de88c3aa" title="DfBebopBusWrapper::\l_publish" alt="" coords="605,107,759,149"/>
+<area shape="rect" id="node5" href="$de/dec/classpx4_1_1_replay.html#ae6cd9533bdb7f030a553f75d719399a3" title="publish an orb topic " alt="" coords="595,56,769,83"/>
+<area shape="rect" id="node6" href="$d8/de7/class_m_k.html#ad13b541644dbd5cf29587f580537a8e0" title="MK::task_main" alt="" coords="627,5,737,32"/>
+<area shape="rect" id="node9" href="$da/d97/classrpi__rc__in_1_1_rc_input.html#afc8e5a07f0c085f53540e9a64f3167b8" title="rpi_rc_in::RcInput\l::_measure" alt="" coords="619,719,745,761"/>
+<area shape="rect" id="node10" href="$d9/dec/class_df_m_s5607_wrapper.html#a780b87c04d5aeb76407b14cd037f246b" title="DfMS5607Wrapper::_publish" alt="" coords="587,785,777,812"/>
+<area shape="rect" id="node11" href="$d4/d4a/class_df_m_s5611_wrapper.html#ad3d712a650a52cbaa3b4fdb8885ccd8b" title="DfMS5611Wrapper::_publish" alt="" coords="587,836,777,863"/>
+<area shape="rect" id="node12" href="$db/de6/class_df_bmp280_wrapper.html#a47170b63f5f004e91d1178d55e98f806" title="DfBmp280Wrapper::_publish" alt="" coords="587,887,777,913"/>
+<area shape="rect" id="node13" href="$d1/d27/class_df_bebop_range_finder_wrapper.html#a7729f33ce0de1a5b017e6acbde0020c2" title="DfBebopRangeFinderWrapper\l::_publish" alt="" coords="584,938,780,979"/>
+<area shape="rect" id="node14" href="$d8/ddf/class_df_t_r_one_wrapper.html#affdb9162cff3d0c7457212b6518bc8e0" title="DfTROneWrapper::_publish" alt="" coords="591,1004,773,1031"/>
+<area shape="rect" id="node15" href="$d9/d0b/class_df_a_k8963_wrapper.html#ab55ed30cea532bcb2cccf58268e9bb40" title="DfAK8963Wrapper::_publish" alt="" coords="589,1055,775,1081"/>
+<area shape="rect" id="node16" href="$d7/d3e/class_df_hmc5883_wrapper.html#a9a09f3f8a4592611e2c99b42c6e14104" title="DfHmc5883Wrapper::\l_publish" alt="" coords="607,1106,757,1147"/>
+<area shape="rect" id="node17" href="$d8/d40/class_df_i_s_l29501_wrapper.html#aecdcfd8970a916edd1658c48a86e602e" title="DfISL29501Wrapper::\l_publish" alt="" coords="608,1171,756,1213"/>
+<area shape="rect" id="node18" href="$d8/dfe/class_df_m_p_u6050_wrapper.html#a6751a630160031b4901b8269d87452ef" title="DfMPU6050Wrapper::\l_publish" alt="" coords="607,1237,757,1278"/>
+<area shape="rect" id="node19" href="$df/d4c/class_df_mpu9250_wrapper.html#a731b19d90418d3ec545122f2d097040e" title="DfMpu9250Wrapper::\l_publish" alt="" coords="609,1302,755,1343"/>
+<area shape="rect" id="node20" href="$dc/d46/class_l_s_m303_a_g_r.html#af81f559db8124d052eed917f7138f226" title="Collect the result of the most recent measurement. " alt="" coords="609,1368,755,1395"/>
+<area shape="rect" id="node21" href="$d6/d73/class_l_p_s22_h_b.html#acb5f43d736193ecfb3d0140372887e5f" title="Collect the result of the most recent measurement. " alt="" coords="619,1419,745,1445"/>
+<area shape="rect" id="node22" href="$dd/dd6/class_r_m3100.html#a351581d1bd8a68a03448978ce25b663c" title="Collect the result of the most recent measurement. " alt="" coords="623,1469,741,1496"/>
+<area shape="rect" id="node23" href="$d4/df1/class_l_i_s3_m_d_l.html#a4f9991a60bec3e89c424a4c526f22a04" title="Collect the result of the most recent measurement. " alt="" coords="621,1520,743,1547"/>
+<area shape="rect" id="node24" href="$dc/d03/class_l_p_s25_h.html#a54bf0a1c6dbdbcb2c3ea7f57d6979869" title="Collect the result of the most recent measurement. " alt="" coords="623,1571,741,1597"/>
+<area shape="rect" id="node25" href="$d9/d1a/class_q_m_c5883.html#a10b58034b3af1fa360f8bda49353e99f" title="Collect the result of the most recent measurement. " alt="" coords="619,1621,745,1648"/>
+<area shape="rect" id="node26" href="$d5/dad/class_h_m_c5883.html#aa274541257c488a9b67e239737e73034" title="Collect the result of the most recent measurement. " alt="" coords="619,1672,745,1699"/>
+<area shape="rect" id="node27" href="$db/df0/class_i_s_t8310.html#ae609ef037deee4a823131d9a83295a9a" title="Collect the result of the most recent measurement. " alt="" coords="623,1723,741,1749"/>
+<area shape="rect" id="node28" href="$d6/dd7/namespacempu9x50.html#a089002fbb19a0fe49bdd46a5e3c86f77" title="create and advertise all publicatoins " alt="" coords="605,1773,759,1800"/>
+<area shape="rect" id="node29" href="$d8/daf/class_airspeed.html#a8a2f9a36f6bf04dfa1c7cd189559bf78" title="Airspeed::init" alt="" coords="633,1824,731,1851"/>
+<area shape="rect" id="node30" href="$d8/d33/class_m_p_l3115_a2.html#a95d49936db9c6811cc825151afc280e1" title="MPL3115A2::init" alt="" coords="623,1875,741,1901"/>
+<area shape="rect" id="node31" href="$d1/d78/class_p_x4_f_l_o_w.html#ae46781ce68b8f5f644ab3ff6cc4a7515" title="PX4FLOW::init" alt="" coords="627,1925,737,1952"/>
+<area shape="rect" id="node32" href="$d7/dd9/class_s_f0_x.html#a3783342d7cf4d0ef19539aa78d99ad1f" title="SF0X::init" alt="" coords="642,1976,722,2003"/>
+<area shape="rect" id="node33" href="$d4/dd4/class_s_f1_x_x.html#a62b15bfd232cb150acff9a9317d4b7c1" title="SF1XX::init" alt="" coords="637,2027,727,2053"/>
+<area shape="rect" id="node34" href="$d8/dad/class_s_r_f02.html#aa5833a73ca5cbe3d1173936a4237078c" title="SRF02::init" alt="" coords="638,2077,726,2104"/>
+<area shape="rect" id="node35" href="$de/dfe/class_v_l53_l_x_x.html#ab50147142f0498ee1b3313410a72d26d" title="VL53LXX::init" alt="" coords="631,2128,733,2155"/>
+<area shape="rect" id="node36" href="$d3/d05/class_m_s5611.html#a6ec45990defdae23baf1601542d28f84" title="MS5611::init" alt="" coords="635,2179,729,2205"/>
+<area shape="rect" id="node37" href="$d7/d01/class_radar.html#a0be937d46364d4166f4e4341a01706cf" title="Method : init() This method initializes the general driver for a range finder sensor. " alt="" coords="641,2229,723,2256"/>
+<area shape="rect" id="node38" href="$d2/d75/class_b_m_m150.html#a0c573a756a4823d6364239958341a543" title="BMM150::init" alt="" coords="633,2280,731,2307"/>
+<area shape="rect" id="node39" href="$db/dd6/u_o_r_b_8h.html#a4a2a6be7bae58b1cdc07486eaac7907d" title="Advertise as the publisher of a topic. " alt="" coords="622,2331,742,2357"/>
+<area shape="rect" id="node40" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a23a1c13d49ddd445685d16fb6b59b47e" title="uORBTest::UnitTest\l::pub_test_multi2_main" alt="" coords="603,2382,761,2423"/>
+<area shape="rect" id="node41" href="$d5/d79/classu_o_r_b_1_1_publication_multi.html#a4af79dc500945d9d71efd25d301ddc92" title="Publish the struct. " alt="" coords="603,173,761,229"/>
+<area shape="rect" id="node42" href="$de/d4e/class_uavcan_c_dev_sensor_bridge_base.html#aa1eb955a3ac240d7380438a9a81adc44" title="Sends one measurement into appropriate ORB topic. " alt="" coords="577,254,787,295"/>
+<area shape="rect" id="node43" href="$d3/d5d/class_i_r_l_o_c_k.html#a5abdba38ba712aec8b04efac9e8b0ef7" title="low level communication with sensor " alt="" coords="607,320,757,347"/>
+<area shape="rect" id="node44" href="$df/d43/class_df_lsm9ds1_wrapper.html#a0c7329b3e9cf227080d58527cc72c5f2" title="Start automatic measurement. " alt="" coords="596,371,768,397"/>
+<area shape="rect" id="node45" href="$df/d4c/class_df_mpu9250_wrapper.html#a477211cd7ee571404813ba49a6e92746" title="Start automatic measurement. " alt="" coords="596,421,768,448"/>
+<area shape="rect" id="node46" href="$d2/dba/class_robo_claw.html#a820fece7896338301c92ff889f4954ef" title="RoboClaw::taskMain" alt="" coords="610,472,754,499"/>
+<area shape="rect" id="node47" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a8bfd6340987229d4da1efdbd07410c3c" title="uORBTest::UnitTest\l::test_multi" alt="" coords="611,523,753,565"/>
+<area shape="rect" id="node48" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#ad47b0676ca28811ce9dce9029a7d8c53" title="uORBTest::UnitTest\l::test_multi_reversed" alt="" coords="610,589,754,630"/>
+<area shape="rect" id="node49" href="$dd/d3a/classu_o_r_b_test_1_1_unit_test.html#a4669df3fd1ee45ace02caf5b1726f75a" title="uORBTest::UnitTest\l::test_unadvertise" alt="" coords="611,654,753,695"/>
 </map>

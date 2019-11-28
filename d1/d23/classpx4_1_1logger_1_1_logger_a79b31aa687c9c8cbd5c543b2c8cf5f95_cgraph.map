@@ -1,0 +1,43 @@
+<map id="px4::logger::Logger::write_format" name="px4::logger::Logger::write_format">
+<area shape="rect" id="node2" href="$d8/d9f/u_o_r_b_topics_8h.html#a1457ee2166d29f0fd6148b5ec63cf32c" title="orb_get_topics" alt="" coords="200,5,307,32"/>
+<area shape="rect" id="node3" href="$d8/d9f/u_o_r_b_topics_8h.html#a242e4babf1597f56989322220bd4e2f8" title="orb_topics_count" alt="" coords="193,56,314,83"/>
+<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1742d5670c991116aa814d5db570f0cc" title="Write exactly one ulog message to the logger and handle dropouts. " alt="" coords="187,107,320,149"/>
+<area shape="rect" id="node5" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af979624205da69c1b164b3cfdb30376e" title="Write a single ulog message (including header). " alt="" coords="368,297,519,338"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1574,343,1695,369"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1806,64,1931,91"/>
+<area shape="rect" id="node6" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a115908f72e48f3e751c6d96b2db83de2" title="px4::logger::LogWriterFile\l::write_message" alt="" coords="579,297,749,338"/>
+<area shape="rect" id="node25" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a715caf561d7426e6d75b47ea69c26b8b" title="px4::logger::LogWriterMavlink\l::write_message" alt="" coords="567,471,761,513"/>
+<area shape="rect" id="node7" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ae7e53eb1e103f2b51f7d7f16dd9526b8" title="write w/o waiting/blocking " alt="" coords="821,362,992,403"/>
+<area shape="rect" id="node21" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#aa4e03b937b0e70adddaf9eee2dab41e4" title="px4::logger::LogWriterFile\l::unlock" alt="" coords="821,166,992,207"/>
+<area shape="rect" id="node22" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#a327a2d7285da3ee38df18c4533741916" title="px4::logger::LogWriterFile\l::notify" alt="" coords="821,231,992,273"/>
+<area shape="rect" id="node23" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ac55359827358061773fea15364377152" title="px4::logger::LogWriterFile\l::lock" alt="" coords="821,297,992,338"/>
+<area shape="rect" id="node24" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="867,428,947,455"/>
+<area shape="rect" id="node8" href="$df/d78/classpx4_1_1logger_1_1_log_writer_file.html#ad6b90cdb5047aeb065939164cd840493" title="px4::logger::LogWriterFile\l::is_started" alt="" coords="1064,303,1235,345"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="1820,267,1917,293"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="1827,317,1910,344"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="1817,368,1920,395"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1817,419,1920,445"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="1825,469,1913,496"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="1829,520,1908,547"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="1827,571,1910,597"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="1785,115,1952,141"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="1838,165,1899,192"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="1788,216,1949,243"/>
+<area shape="rect" id="node26" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#ae16e2d991c4911e53ce21a2eccbc6296" title="px4::logger::LogWriterMavlink\l::is_started" alt="" coords="809,530,1004,571"/>
+<area shape="rect" id="node28" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a9198b429adaaa9df6ba778ffed5a44ba" title="publish message, wait for ack if needed &amp; reset message " alt="" coords="1295,510,1489,551"/>
+<area shape="rect" id="node27" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#ad98bea03afa190941133b7ea37c5ac07" title="px4::logger::LogWriterMavlink\l::set_need_reliable_transfer" alt="" coords="1052,530,1247,571"/>
+<area shape="rect" id="node29" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="1547,533,1722,574"/>
+<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="1599,621,1670,648"/>
+<area shape="rect" id="node36" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1597,723,1672,749"/>
+<area shape="rect" id="node42" href="$d9/d99/classpx4_1_1logger_1_1_log_writer_mavlink.html#a35bca730eef6b144418144edee4262df" title="px4::logger::LogWriterMavlink\l::stop_log" alt="" coords="1537,467,1732,509"/>
+<area shape="rect" id="node31" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="2235,672,2309,699"/>
+<area shape="rect" id="node32" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="1809,621,1929,648"/>
+<area shape="rect" id="node33" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="2005,621,2161,648"/>
+<area shape="rect" id="node34" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="2012,490,2155,531"/>
+<area shape="rect" id="node35" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="2005,555,2161,597"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1797,774,1940,815"/>
+<area shape="rect" id="node39" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1780,723,1957,749"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2012,774,2155,815"/>
+<area shape="rect" id="node40" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="2046,723,2121,749"/>
+<area shape="rect" id="node41" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="2209,723,2335,749"/>
+</map>

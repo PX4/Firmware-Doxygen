@@ -4,6 +4,8 @@ var classevents_1_1rc__loss_1_1_r_c___loss___alarm =
     [ "check_for_updates", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5a61fa7b58fe3f8ea8442b61893f924b", null ],
     [ "play_tune", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5c61178b0b9292f5ba14392f73d73d75", null ],
     [ "process", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a43d944ccf84dbe7561e4f6d2711d08d0", null ],
+    [ "stop_tune", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#acef2607178ecb5910d50e008eae1c675", null ],
+    [ "_alarm_playing", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#af3516de13619ffd92da85b23a7322705", null ],
     [ "_had_rc", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a94fb30bc64fdce45855b95ecab483a91", null ],
     [ "_subscriber_handler", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a9a5104db39c1525372db10f265a294af", null ],
     [ "_tune_control_pub", "de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#ae6dc4066a0f990ade08cf10549676f67", null ],

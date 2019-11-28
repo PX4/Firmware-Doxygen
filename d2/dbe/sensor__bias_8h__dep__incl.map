@@ -1,20 +1,20 @@
 <map id="build/doxygen/uORB/topics/sensor_bias.h" name="build/doxygen/uORB/topics/sensor_bias.h">
-<area shape="rect" id="node2" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="5,102,156,143"/>
-<area shape="rect" id="node3" href="$dc/dee/_fixedwing_position_control_8hpp.html" title="src/modules/fw_pos\l_control_l1/FixedwingPosition\lControl.hpp" alt="" coords="181,95,375,151"/>
-<area shape="rect" id="node5" href="$d1/d44/_ground_rover_position_control_8hpp.html" title="src/modules/gnd_pos\l_control/GroundRoverPosition\lControl.hpp" alt="" coords="400,95,596,151"/>
-<area shape="rect" id="node7" href="$d6/d25/_fixedwing_land_detector_8h.html" title="Land detector implementation for fixedwing. " alt="" coords="620,102,795,143"/>
-<area shape="rect" id="node10" href="$d9/d62/_multicopter_land_detector_8h.html" title="Land detection implementation for multicopters. " alt="" coords="819,102,998,143"/>
-<area shape="rect" id="node14" href="$d4/d94/_landing_target_estimator_8h.html" title="src/modules/landing\l_target_estimator/LandingTarget\lEstimator.h" alt="" coords="1077,95,1287,151"/>
-<area shape="rect" id="node17" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="1311,102,1474,143"/>
-<area shape="rect" id="node18" href="$d1/d72/mc__att__control_8hpp.html" title="src/modules/mc_att\l_control/mc_att_control.hpp" alt="" coords="1609,102,1792,143"/>
-<area shape="rect" id="node4" href="$dc/d51/_fixedwing_position_control_8cpp.html" title="src/modules/fw_pos\l_control_l1/FixedwingPosition\lControl.cpp" alt="" coords="55,199,250,255"/>
-<area shape="rect" id="node6" href="$db/d79/_ground_rover_position_control_8cpp.html" title="src/modules/gnd_pos\l_control/GroundRoverPosition\lControl.cpp" alt="" coords="275,199,471,255"/>
-<area shape="rect" id="node8" href="$d6/d8a/_fixedwing_land_detector_8cpp.html" title="src/modules/land_detector\l/FixedwingLandDetector.cpp" alt="" coords="495,206,683,247"/>
-<area shape="rect" id="node9" href="$db/d99/land__detector__main_8cpp.html" title="Land detection algorithm. " alt="" coords="659,303,833,344"/>
-<area shape="rect" id="node11" href="$da/db8/_vtol_land_detector_8h.html" title="Land detection implementation for VTOL also called hybrids. " alt="" coords="809,206,984,247"/>
-<area shape="rect" id="node13" href="$dc/d02/_multicopter_land_detector_8cpp.html" title="The MC land&#45;detector goes through 3 states before it will detect landed: " alt="" coords="1008,206,1201,247"/>
-<area shape="rect" id="node12" href="$d3/d9a/_vtol_land_detector_8cpp.html" title="Land detection algorithm for VTOL. " alt="" coords="857,303,1032,344"/>
-<area shape="rect" id="node15" href="$dc/d01/landing__target__estimator__main_8cpp.html" title="Landing target position estimator. " alt="" coords="1225,199,1408,255"/>
-<area shape="rect" id="node16" href="$d2/d54/_landing_target_estimator_8cpp.html" title="src/modules/landing\l_target_estimator/LandingTarget\lEstimator.cpp" alt="" coords="1432,199,1641,255"/>
-<area shape="rect" id="node19" href="$d4/d98/mc__att__control__main_8cpp.html" title="Multicopter attitude controller. " alt="" coords="1665,199,1824,255"/>
+<area shape="rect" id="node2" href="$d3/d87/ekf2__main_8cpp.html" title="Implementation of the attitude and position estimator. " alt="" coords="300,102,451,143"/>
+<area shape="rect" id="node3" href="$d7/d37/_land_detector_8h.html" title="Land detector interface for multicopter, fixedwing and VTOL implementations. " alt="" coords="475,102,649,143"/>
+<area shape="rect" id="node14" href="$d6/d8f/mavlink__messages_8cpp.html" title="MAVLink 2.0 message formatters implementation. " alt="" coords="679,102,842,143"/>
+<area shape="rect" id="node15" href="$d2/d74/_vehicle_acceleration_8hpp.html" title="src/modules/sensors\l/vehicle_acceleration\l/VehicleAcceleration.hpp" alt="" coords="869,95,1036,151"/>
+<area shape="rect" id="node18" href="$d7/ddc/_vehicle_angular_velocity_8hpp.html" title="src/modules/sensors\l/vehicle_angular_velocity\l/VehicleAngularVelocity.hpp" alt="" coords="1060,95,1245,151"/>
+<area shape="rect" id="node4" href="$d6/d25/_fixedwing_land_detector_8h.html" title="Land detector implementation for fixedwing. " alt="" coords="473,206,648,247"/>
+<area shape="rect" id="node7" href="$d9/d62/_multicopter_land_detector_8h.html" title="Land detection implementation for multicopters. " alt="" coords="263,206,442,247"/>
+<area shape="rect" id="node11" href="$db/d71/_rover_land_detector_8h.html" title="Land detection implementation for VTOL also called hybrids. " alt="" coords="672,206,847,247"/>
+<area shape="rect" id="node13" href="$da/df2/_land_detector_8cpp.html" title="src/modules/land_detector\l/LandDetector.cpp" alt="" coords="64,206,239,247"/>
+<area shape="rect" id="node5" href="$d6/d8a/_fixedwing_land_detector_8cpp.html" title="src/modules/land_detector\l/FixedwingLandDetector.cpp" alt="" coords="473,303,661,344"/>
+<area shape="rect" id="node6" href="$db/d99/land__detector__main_8cpp.html" title="Land detection algorithm. " alt="" coords="408,392,583,433"/>
+<area shape="rect" id="node8" href="$da/db8/_vtol_land_detector_8h.html" title="Land detection implementation for VTOL also called hybrids. " alt="" coords="5,303,180,344"/>
+<area shape="rect" id="node10" href="$dc/d02/_multicopter_land_detector_8cpp.html" title="The MC land&#45;detector goes through 3 states before it will detect landed: " alt="" coords="256,303,449,344"/>
+<area shape="rect" id="node9" href="$d3/d9a/_vtol_land_detector_8cpp.html" title="Land detection algorithm for VTOL. " alt="" coords="5,392,180,433"/>
+<area shape="rect" id="node12" href="$d6/df6/_rover_land_detector_8cpp.html" title="Land detection algorithm for Rovers. " alt="" coords="788,303,963,344"/>
+<area shape="rect" id="node16" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="1061,206,1204,247"/>
+<area shape="rect" id="node17" href="$d7/d31/_vehicle_acceleration_8cpp.html" title="src/modules/sensors\l/vehicle_acceleration\l/VehicleAcceleration.cpp" alt="" coords="871,199,1037,255"/>
+<area shape="rect" id="node19" href="$d1/d68/_vehicle_angular_velocity_8cpp.html" title="src/modules/sensors\l/vehicle_angular_velocity\l/VehicleAngularVelocity.cpp" alt="" coords="1228,199,1413,255"/>
 </map>

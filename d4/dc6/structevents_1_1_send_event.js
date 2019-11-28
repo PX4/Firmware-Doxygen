@@ -11,7 +11,6 @@ var structevents_1_1_send_event =
     [ "process_commands", "d4/dc6/structevents_1_1_send_event.html#a0da60ffc84a7d44ec3bdded7cff9c466", null ],
     [ "start", "d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e", null ],
     [ "task_spawn", "d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32", null ],
-    [ "_command_ack_pub", "d4/dc6/structevents_1_1_send_event.html#a1377b9a1449987668042949c094d2b31", null ],
     [ "_rc_loss_alarm", "d4/dc6/structevents_1_1_send_event.html#aaaad8f7fa5dcda8708323779a07fa0a9", null ],
     [ "_status_display", "d4/dc6/structevents_1_1_send_event.html#a5c99d993939ae901913b1e6f3b65f2cb", null ],
     [ "_subscriber_handler", "d4/dc6/structevents_1_1_send_event.html#a415392352fc0338aaf354275d9b3e8dc", null ],

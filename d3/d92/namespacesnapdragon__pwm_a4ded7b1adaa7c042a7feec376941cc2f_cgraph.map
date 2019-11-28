@@ -1,51 +1,51 @@
 <map id="snapdragon_pwm::start" name="snapdragon_pwm::start">
-<area shape="rect" id="node2" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="215,779,367,806"/>
-<area shape="rect" id="node3" href="$d3/d92/namespacesnapdragon__pwm.html#a2ba69ca6582c4546ff158d57c18fec22" title="snapdragon_pwm::task\l_main_trampoline" alt="" coords="212,831,369,872"/>
-<area shape="rect" id="node4" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="417,838,609,865"/>
-<area shape="rect" id="node5" href="$d3/d92/namespacesnapdragon__pwm.html#ad3a2b74cea473ed572076cac3b04f0ba" title="snapdragon_pwm::pwm\l_initialize" alt="" coords="671,116,831,157"/>
-<area shape="rect" id="node6" href="$d3/d92/namespacesnapdragon__pwm.html#a93b6b0bb882ce58ce034393bacc74d61" title="snapdragon_pwm::initialize\l_mixer" alt="" coords="662,181,841,223"/>
-<area shape="rect" id="node14" href="$d5/dd1/class_multirotor_mixer.html#a22fbebf21a4ab83b4d06ebe5ac9c3eff" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="674,268,829,309"/>
-<area shape="rect" id="node15" href="$d3/d92/namespacesnapdragon__pwm.html#aca23bb23ca849686725f29a040dc247a" title="snapdragon_pwm::subscribe" alt="" coords="657,813,845,839"/>
-<area shape="rect" id="node16" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="927,813,1030,839"/>
-<area shape="rect" id="node19" href="$d3/d92/namespacesnapdragon__pwm.html#a7ecc55e447a4f33789f0093bbbcf2013" title="snapdragon_pwm::update\l_params" alt="" coords="666,333,837,375"/>
-<area shape="rect" id="node23" href="$d2/d09/pwm__limit_8cpp.html#ae3de6fee4531aea8b7281b9876803c09" title="pwm_limit_init" alt="" coords="699,594,804,621"/>
-<area shape="rect" id="node24" href="$d5/dd1/class_multirotor_mixer.html#accbf9dc0f9483c454848149e689ecdff" title="Set airmode. " alt="" coords="684,645,819,687"/>
-<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="716,493,787,519"/>
-<area shape="rect" id="node29" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="949,543,1009,570"/>
-<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="937,863,1020,890"/>
-<area shape="rect" id="node32" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="941,914,1016,941"/>
-<area shape="rect" id="node34" href="$d5/dd1/class_multirotor_mixer.html#aa716ac6e88a1aa0f7bac14982c80cfb3" title="Perform the mixing function. " alt="" coords="683,711,820,738"/>
-<area shape="rect" id="node38" href="$d2/d09/pwm__limit_8cpp.html#a1f8a7620629f6261224f8c4c9c28ee7d" title="pwm_limit_calc" alt="" coords="695,1133,807,1159"/>
-<area shape="rect" id="node39" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="916,1082,1041,1109"/>
-<area shape="rect" id="node41" href="$d3/d92/namespacesnapdragon__pwm.html#a902a33cb68b19601adf5af0624425a4e" title="snapdragon_pwm::send\l_outputs_pwm" alt="" coords="671,1067,831,1108"/>
-<area shape="rect" id="node42" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="935,1183,1023,1210"/>
-<area shape="rect" id="node44" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="701,965,801,991"/>
-<area shape="rect" id="node47" href="$dd/d78/perf__counter_8c.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="691,1234,812,1261"/>
-<area shape="rect" id="node48" href="$d3/d92/namespacesnapdragon__pwm.html#a93f1881c80f7d309bb629d2d5b757f37" title="snapdragon_pwm::pwm\l_deinitialize" alt="" coords="671,1285,831,1327"/>
-<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="920,1234,1037,1261"/>
-<area shape="rect" id="node50" href="$dd/d78/perf__counter_8c.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="715,1402,788,1429"/>
-<area shape="rect" id="node7" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="893,71,1064,98"/>
-<area shape="rect" id="node12" href="$d3/d92/namespacesnapdragon__pwm.html#a6af5db53eb14add95ed08839dde544b8" title="snapdragon_pwm::mixer\l_control_callback" alt="" coords="897,123,1061,164"/>
-<area shape="rect" id="node13" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="955,189,1002,215"/>
-<area shape="rect" id="node8" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1181,703,1220,730"/>
-<area shape="rect" id="node9" href="$d5/dd1/class_multirotor_mixer.html#a4d5cdf8a2011732337db808bbc8d48bc" title="MultirotorMixer::Multirotor\lMixer" alt="" coords="1115,5,1286,47"/>
-<area shape="rect" id="node10" href="$de/d2d/class_mixer.html#a2f8fa80f069727fcb9a1abb25e007470" title="Skip a line. " alt="" coords="1147,71,1254,98"/>
-<area shape="rect" id="node11" href="$de/d2d/class_mixer.html#ae496f246c8434d0c6d3fcff164e81640" title="Check wether the string is well formed and suitable for parsing. " alt="" coords="1139,123,1263,164"/>
-<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1129,1023,1272,1064"/>
-<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1129,815,1272,856"/>
-<area shape="rect" id="node20" href="$de/de9/px4__param_8h.html#a2b8101dab7f22f9995c2db92891af07e" title="get the parameter handle from a parameter enum " alt="" coords="927,239,1030,266"/>
-<area shape="rect" id="node21" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="935,290,1022,317"/>
-<area shape="rect" id="node22" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="937,341,1020,367"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="941,391,1016,418"/>
-<area shape="rect" id="node27" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="913,442,1044,469"/>
-<area shape="rect" id="node28" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="932,493,1025,519"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1129,897,1272,939"/>
-<area shape="rect" id="node33" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1112,969,1289,995"/>
-<area shape="rect" id="node35" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="923,594,1035,621"/>
-<area shape="rect" id="node36" href="$de/d2d/class_mixer.html#a5f11135236af8787120e394bd1ba0108" title="Invoke the client callback to fetch a control value. " alt="" coords="915,645,1042,671"/>
-<area shape="rect" id="node37" href="$d5/dd1/class_multirotor_mixer.html#afe7c882450706b82757a93d3c621d8ca" title="MultirotorMixer::update\l_saturation_status" alt="" coords="901,696,1056,737"/>
-<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="918,1133,1039,1159"/>
-<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1129,1105,1272,1147"/>
-<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="907,965,1050,1007"/>
-<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1129,1207,1272,1248"/>
+<area shape="rect" id="node2" href="$d3/d92/namespacesnapdragon__pwm.html#a2ba69ca6582c4546ff158d57c18fec22" title="snapdragon_pwm::task\l_main_trampoline" alt="" coords="212,925,369,967"/>
+<area shape="rect" id="node3" href="$d3/d92/namespacesnapdragon__pwm.html#aac81928961ddcf167b03a8ff288b985b" title="snapdragon_pwm::task_main" alt="" coords="417,933,609,959"/>
+<area shape="rect" id="node4" href="$d3/d92/namespacesnapdragon__pwm.html#ad3a2b74cea473ed572076cac3b04f0ba" title="snapdragon_pwm::pwm\l_initialize" alt="" coords="671,116,831,157"/>
+<area shape="rect" id="node5" href="$d3/d92/namespacesnapdragon__pwm.html#a93b6b0bb882ce58ce034393bacc74d61" title="snapdragon_pwm::initialize\l_mixer" alt="" coords="662,181,841,223"/>
+<area shape="rect" id="node13" href="$d5/dd1/class_multirotor_mixer.html#a2eefd0c3d4a7538596809cf7f7df6732" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="674,253,829,295"/>
+<area shape="rect" id="node14" href="$d3/d92/namespacesnapdragon__pwm.html#aca23bb23ca849686725f29a040dc247a" title="snapdragon_pwm::subscribe" alt="" coords="657,857,845,883"/>
+<area shape="rect" id="node18" href="$d3/d92/namespacesnapdragon__pwm.html#aa420c204ca1b2d1ecc71d30902864f67" title="snapdragon_pwm::update\l_params" alt="" coords="666,319,837,360"/>
+<area shape="rect" id="node22" href="$d6/d1e/output__limit_8cpp.html#a00b867cb288ca411052bb2430e20ad78" title="output_limit_init" alt="" coords="695,613,808,639"/>
+<area shape="rect" id="node23" href="$d5/dd1/class_multirotor_mixer.html#a1283227e5bec15d91fb4d50147560dae" title="Set airmode. " alt="" coords="684,664,819,705"/>
+<area shape="rect" id="node24" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="716,391,787,418"/>
+<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="937,907,1020,934"/>
+<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="941,1075,1016,1102"/>
+<area shape="rect" id="node31" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="683,730,820,757"/>
+<area shape="rect" id="node38" href="$d6/d1e/output__limit_8cpp.html#a089de4a9d701e540686e6fcb1ffcc457" title="output_limit_calc" alt="" coords="691,1395,811,1422"/>
+<area shape="rect" id="node39" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1138,1345,1263,1371"/>
+<area shape="rect" id="node41" href="$d3/d92/namespacesnapdragon__pwm.html#a902a33cb68b19601adf5af0624425a4e" title="snapdragon_pwm::send\l_outputs_pwm" alt="" coords="671,1111,831,1152"/>
+<area shape="rect" id="node42" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="935,1126,1023,1153"/>
+<area shape="rect" id="node44" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="701,958,801,985"/>
+<area shape="rect" id="node47" href="$df/d7b/perf__counter_8cpp.html#adde433ddb52d2d83a57d33d40e4e576b" title="Register a measurement. " alt="" coords="691,1278,812,1305"/>
+<area shape="rect" id="node48" href="$d3/d92/namespacesnapdragon__pwm.html#a93f1881c80f7d309bb629d2d5b757f37" title="snapdragon_pwm::pwm\l_deinitialize" alt="" coords="671,1329,831,1371"/>
+<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="920,1177,1037,1203"/>
+<area shape="rect" id="node50" href="$df/d7b/perf__counter_8cpp.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="715,1446,788,1473"/>
+<area shape="rect" id="node6" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="893,71,1064,98"/>
+<area shape="rect" id="node11" href="$d3/d92/namespacesnapdragon__pwm.html#a6af5db53eb14add95ed08839dde544b8" title="snapdragon_pwm::mixer\l_control_callback" alt="" coords="897,123,1061,164"/>
+<area shape="rect" id="node12" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="955,189,1002,215"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1181,450,1220,477"/>
+<area shape="rect" id="node8" href="$d5/dd1/class_multirotor_mixer.html#a08611626d8940bdf3b5c1a623b96d408" title="Constructor. " alt="" coords="1115,5,1286,47"/>
+<area shape="rect" id="node9" href="$de/d2d/class_mixer.html#a2f8fa80f069727fcb9a1abb25e007470" title="Skip a line. " alt="" coords="1147,71,1254,98"/>
+<area shape="rect" id="node10" href="$de/d2d/class_mixer.html#ae496f246c8434d0c6d3fcff164e81640" title="Check wether the string is well formed and suitable for parsing. " alt="" coords="1139,123,1263,164"/>
+<area shape="rect" id="node15" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="927,857,1030,883"/>
+<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1129,1036,1272,1077"/>
+<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1129,852,1272,893"/>
+<area shape="rect" id="node19" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="935,239,1022,266"/>
+<area shape="rect" id="node21" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="937,290,1020,317"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="1133,239,1268,266"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="941,341,1016,367"/>
+<area shape="rect" id="node26" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="919,391,1039,418"/>
+<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1129,917,1272,959"/>
+<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1112,983,1289,1010"/>
+<area shape="rect" id="node32" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="923,705,1035,731"/>
+<area shape="rect" id="node33" href="$de/d2d/class_mixer.html#a5f11135236af8787120e394bd1ba0108" title="Invoke the client callback to fetch a control value. " alt="" coords="915,755,1042,782"/>
+<area shape="rect" id="node34" href="$d5/dd1/class_multirotor_mixer.html#aa53916371c303c865110ef71497dbf9d" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="910,508,1047,549"/>
+<area shape="rect" id="node35" href="$d5/dd1/class_multirotor_mixer.html#a228cd5ac502699728c1b8f2c8d33f03f" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="910,573,1047,615"/>
+<area shape="rect" id="node36" href="$d5/dd1/class_multirotor_mixer.html#a957ab3ca1ee85cb257082ef2624d8f82" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="910,639,1047,680"/>
+<area shape="rect" id="node37" href="$d5/dd1/class_multirotor_mixer.html#a992ef3744b23c0b28f740279c361f4a4" title="MultirotorMixer::update\l_saturation_status" alt="" coords="901,443,1056,484"/>
+<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="918,1395,1039,1422"/>
+<area shape="rect" id="node43" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1129,1103,1272,1144"/>
+<area shape="rect" id="node45" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="907,959,1050,1000"/>
+<area shape="rect" id="node46" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1129,1169,1272,1211"/>
 </map>

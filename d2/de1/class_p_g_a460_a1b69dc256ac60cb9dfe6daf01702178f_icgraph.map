@@ -1,0 +1,16 @@
+<map id="PGA460::calc_checksum" name="PGA460::calc_checksum">
+<area shape="rect" id="node2" href="$d2/de1/class_p_g_a460.html#a380e300f9163e3c85bc6f52c1d738d37" title="Send the program command to the EEPROM to start the flash process. " alt="" coords="229,294,386,321"/>
+<area shape="rect" id="node3" href="$d2/de1/class_p_g_a460.html#ad7eba50f170fa950b05a50462f3c0d72" title="Writes the user defined paramaters to device EEPROM. " alt="" coords="668,193,825,220"/>
+<area shape="rect" id="node6" href="$d2/de1/class_p_g_a460.html#ac8cc9815e162ba48a9f0d35582d37534" title="PGA460::get_temperature" alt="" coords="439,396,612,422"/>
+<area shape="rect" id="node9" href="$d2/de1/class_p_g_a460.html#a97e921ebda39c3289f4018183b9306d6" title="Writes the user defined paramaters to device register map. " alt="" coords="899,26,1026,67"/>
+<area shape="rect" id="node10" href="$d2/de1/class_p_g_a460.html#aa3cba392c1eacedd0d2b5db944fed810" title="Reads a register. " alt="" coords="448,92,603,118"/>
+<area shape="rect" id="node12" href="$d2/de1/class_p_g_a460.html#aaf4739d425f49eb9924c3e681521e076" title="Commands the device to perform an ultrasonic measurement. " alt="" coords="1092,442,1283,469"/>
+<area shape="rect" id="node13" href="$d2/de1/class_p_g_a460.html#a8e4e7002fbeb7cf50a321c0e52c8fcb1" title="Send the unlock command to the EEPROM to enable reading and writing – not needed w/ bulk write..." alt="" coords="224,193,391,220"/>
+<area shape="rect" id="node15" href="$d2/de1/class_p_g_a460.html#a3535cf2247d18a68103ae7a94c561a98" title="Writes a value to a register. " alt="" coords="447,244,604,270"/>
+<area shape="rect" id="node4" href="$d2/de1/class_p_g_a460.html#a6107cd56baa06f1b8225e3d525e56dd6" title="Writes program defined threshold defaults to the register map and checks/writes the EEPROM..." alt="" coords="1124,135,1251,176"/>
+<area shape="rect" id="node5" href="$d2/de1/class_p_g_a460.html#a899ed440e901f63d72bd6f17b337e221" title="PGA460::run" alt="" coords="1331,388,1428,414"/>
+<area shape="rect" id="node7" href="$d2/de1/class_p_g_a460.html#a01fbc4cdaa7d259c2fc638d0b5a97d68" title="Calculates the distance from the measurement time of flight (time_of_flight) and current temperature..." alt="" coords="660,380,833,422"/>
+<area shape="rect" id="node8" href="$d2/de1/class_p_g_a460.html#a2545d4d61e3ccc91709b46dcd5116bae" title="Collects the data in the serial port rx buffer, does math, and publishes the value to uORB..." alt="" coords="881,388,1044,414"/>
+<area shape="rect" id="node11" href="$d2/de1/class_p_g_a460.html#a0d04e4ba1f4b32608e894af655f181ca" title="Reports the diagnostic data from device status registers 1 and 2 if there is anything to report..." alt="" coords="672,26,821,67"/>
+<area shape="rect" id="node14" href="$d2/de1/class_p_g_a460.html#af7737132b56f05fe3b8c3594e2e2f657" title="Reads the EEPROM and checks to see if it matches the default parameters. " alt="" coords="885,142,1040,169"/>
+</map>

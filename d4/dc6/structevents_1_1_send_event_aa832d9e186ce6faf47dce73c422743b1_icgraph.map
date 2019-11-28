@@ -1,6 +1,6 @@
 <map id="events::SendEvent::cycle" name="events::SendEvent::cycle">
-<area shape="rect" id="node2" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Trampoline for the work queue. " alt="" coords="195,5,336,47"/>
-<area shape="rect" id="node3" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Start background listening for commands. " alt="" coords="195,71,336,112"/>
+<area shape="rect" id="node2" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Process cycle trampoline for the work queue. " alt="" coords="195,5,336,47"/>
+<area shape="rect" id="node3" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Starts background task listening for commands. " alt="" coords="195,71,336,112"/>
 <area shape="rect" id="node4" href="$d4/dc6/structevents_1_1_send_event.html#a716f60497ef234cfb7faead37f08d1df" title="Trampoline for initialisation. " alt="" coords="384,71,525,112"/>
-<area shape="rect" id="node5" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Initialize class in the same context as the work queue. " alt="" coords="573,71,715,112"/>
+<area shape="rect" id="node5" href="$d4/dc6/structevents_1_1_send_event.html#acd140a935ad643a0af9171002b220c32" title="Spawns and initializes the class in the same context as the work queue and starts the background list..." alt="" coords="573,71,715,112"/>
 </map>

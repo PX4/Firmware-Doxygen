@@ -1,25 +1,34 @@
 <map id="GPSDriverUBX::waitForAck" name="GPSDriverUBX::waitForAck">
-<area shape="rect" id="node2" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#af01fa3241c4688400fe3f6d855340d94" title="receive &amp; handle new data from the device " alt="" coords="240,284,403,311"/>
-<area shape="rect" id="node3" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8fb26fb23f2b793d0f11d903a09f606d" title="Parse the binary UBX packet. " alt="" coords="451,259,632,285"/>
-<area shape="rect" id="node24" href="$d2/d20/class_g_p_s_helper.html#ae499166387a2123074225fdcd21b855d" title="read from device " alt="" coords="481,309,602,336"/>
-<area shape="rect" id="node4" href="$d0/d7a/class_r_t_c_m_parsing.html#a019493622962a9532a512a81de1adbcc" title="add a byte to the message " alt="" coords="723,5,884,32"/>
-<area shape="rect" id="node5" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#aa61376cded8b50a35a4ec1f431c243d7" title="While parsing add every byte (except the sync bytes) to the checksum. " alt="" coords="680,56,927,83"/>
-<area shape="rect" id="node6" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#af5edd6e286581a9d5ca3304d88f8999e" title="Reset the parse state machine for a fresh start. " alt="" coords="713,107,894,133"/>
-<area shape="rect" id="node8" href="$d2/d20/class_g_p_s_helper.html#ab36eaf56dad199ed58124db25b1cce20" title="got an RTCM message from the device " alt="" coords="700,157,907,184"/>
-<area shape="rect" id="node9" href="$d0/d7a/class_r_t_c_m_parsing.html#a9bfdc2abeccf5ac753cdd6b66a7f4bc1" title="RTCMParsing::message" alt="" coords="720,208,887,235"/>
-<area shape="rect" id="node10" href="$d0/d7a/class_r_t_c_m_parsing.html#a6baac62864ba2a0abd6f615baac316cc" title="RTCMParsing::messageLength" alt="" coords="701,259,906,285"/>
-<area shape="rect" id="node11" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a1999704b323283fde5bf0e452341f24f" title="Add payload rx byte. " alt="" coords="700,309,907,336"/>
-<area shape="rect" id="node12" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8f160c8f92c72906544abd2ce804050b" title="Add MON&#45;VER payload rx byte. " alt="" coords="700,361,907,402"/>
-<area shape="rect" id="node14" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#ae9b275cc4500466ac41837badde07924" title="Add NAV&#45;SVINFO payload rx byte. " alt="" coords="700,426,907,467"/>
-<area shape="rect" id="node15" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a7741a82a136afc6332281f4a52426cc9" title="Finish payload rx. " alt="" coords="696,568,911,595"/>
-<area shape="rect" id="node23" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8c6f66f8738ee40b4addc88e0b6ddbd1" title="Start payload rx. " alt="" coords="703,492,904,519"/>
-<area shape="rect" id="node7" href="$d0/d7a/class_r_t_c_m_parsing.html#a81ed0df2217c926f122f9c6dec5b60d1" title="reset the parsing state " alt="" coords="1031,107,1173,133"/>
-<area shape="rect" id="node13" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a07cef25597f39fd239010853728e2eab" title="Calculate FNV1 hash. " alt="" coords="1029,361,1175,402"/>
-<area shape="rect" id="node16" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a092903f69f2ad4ef4376b2a90fb20eae" title="Configure message rate. " alt="" coords="975,479,1229,505"/>
-<area shape="rect" id="node17" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#abafe58c4721b8294ce477e0a51232163" title="Send a message. " alt="" coords="1277,504,1480,531"/>
-<area shape="rect" id="node20" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1083,580,1121,607"/>
-<area shape="rect" id="node21" href="$d2/d20/class_g_p_s_helper.html#a3b74fa1cbf17feab5a2c080fb17357c4" title="GPSHelper::setClock" alt="" coords="1028,631,1176,657"/>
-<area shape="rect" id="node22" href="$d2/d20/class_g_p_s_helper.html#a4c72f2656e1b467de223d5ed406d452e" title="GPSHelper::surveyInStatus" alt="" coords="1010,681,1194,708"/>
-<area shape="rect" id="node18" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8bff149b775ec9a858e48a240c8fe373" title="Calculate &amp; add checksum for given buffer. " alt="" coords="1528,479,1736,505"/>
-<area shape="rect" id="node19" href="$d2/d20/class_g_p_s_helper.html#a44d4a088facfe85131a8f2d4742070c8" title="write to the device " alt="" coords="1570,529,1694,556"/>
+<area shape="rect" id="node2" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#af01fa3241c4688400fe3f6d855340d94" title="receive &amp; handle new data from the device " alt="" coords="240,411,403,437"/>
+<area shape="rect" id="node3" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8fb26fb23f2b793d0f11d903a09f606d" title="Parse the binary UBX packet. " alt="" coords="451,411,632,437"/>
+<area shape="rect" id="node33" href="$d2/d20/class_g_p_s_helper.html#ae499166387a2123074225fdcd21b855d" title="read from device " alt="" coords="481,461,602,488"/>
+<area shape="rect" id="node4" href="$d0/d7a/class_r_t_c_m_parsing.html#a019493622962a9532a512a81de1adbcc" title="add a byte to the message " alt="" coords="723,259,884,285"/>
+<area shape="rect" id="node5" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#aa61376cded8b50a35a4ec1f431c243d7" title="While parsing add every byte (except the sync bytes) to the checksum. " alt="" coords="680,309,927,336"/>
+<area shape="rect" id="node6" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#af5edd6e286581a9d5ca3304d88f8999e" title="Reset the parse state machine for a fresh start. " alt="" coords="713,695,894,721"/>
+<area shape="rect" id="node8" href="$d2/d20/class_g_p_s_helper.html#ab36eaf56dad199ed58124db25b1cce20" title="got an RTCM message from the device " alt="" coords="700,360,907,387"/>
+<area shape="rect" id="node9" href="$d0/d7a/class_r_t_c_m_parsing.html#ae7d53e8133f6da78cfe0d88e75c97f34" title="RTCMParsing::message" alt="" coords="720,411,887,437"/>
+<area shape="rect" id="node10" href="$d0/d7a/class_r_t_c_m_parsing.html#a566d9147cc6522046b688bbe2a7bacf1" title="RTCMParsing::messageLength" alt="" coords="701,461,906,488"/>
+<area shape="rect" id="node11" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a1999704b323283fde5bf0e452341f24f" title="Add payload rx byte. " alt="" coords="700,512,907,539"/>
+<area shape="rect" id="node12" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8f160c8f92c72906544abd2ce804050b" title="Add MON&#45;VER payload rx byte. " alt="" coords="700,746,907,787"/>
+<area shape="rect" id="node14" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a5d08ff37071d6e239f06d7e73b29b2f0" title="GPSDriverUBX::payloadRxAdd\lNavSat" alt="" coords="700,563,907,605"/>
+<area shape="rect" id="node15" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#ae9b275cc4500466ac41837badde07924" title="Add NAV&#45;SVINFO payload rx byte. " alt="" coords="700,629,907,670"/>
+<area shape="rect" id="node16" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a7741a82a136afc6332281f4a52426cc9" title="Finish payload rx. " alt="" coords="696,208,911,235"/>
+<area shape="rect" id="node32" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8c6f66f8738ee40b4addc88e0b6ddbd1" title="Start payload rx. " alt="" coords="997,157,1198,184"/>
+<area shape="rect" id="node7" href="$d0/d7a/class_r_t_c_m_parsing.html#a81ed0df2217c926f122f9c6dec5b60d1" title="reset the parsing state " alt="" coords="1026,695,1169,721"/>
+<area shape="rect" id="node13" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a07cef25597f39fd239010853728e2eab" title="Calculate FNV1 hash. " alt="" coords="1024,746,1171,787"/>
+<area shape="rect" id="node17" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a6d819221ed27daddd63c8f0c9a4c1e73" title="GPSDriverUBX::activateRTCMOutput" alt="" coords="975,107,1220,133"/>
+<area shape="rect" id="node24" href="$d2/d20/class_g_p_s_helper.html#af391caec80af1ae46488e949dcfb7d60" title="Convert an ECEF (Earth Centered Earth Fixed) coordinate to LLA WGS84 (Lat, Lon, Alt). " alt="" coords="1021,360,1173,387"/>
+<area shape="rect" id="node29" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1078,309,1117,336"/>
+<area shape="rect" id="node30" href="$d2/d20/class_g_p_s_helper.html#a3b74fa1cbf17feab5a2c080fb17357c4" title="GPSHelper::setClock" alt="" coords="1023,208,1171,235"/>
+<area shape="rect" id="node31" href="$d2/d20/class_g_p_s_helper.html#a4c72f2656e1b467de223d5ed406d452e" title="GPSHelper::surveyInStatus" alt="" coords="1005,259,1189,285"/>
+<area shape="rect" id="node18" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8bd6a2d7575defc118484f80c419a186" title="Add a configuration value that is port&#45;specific (MSGOUT messages). " alt="" coords="1295,5,1495,32"/>
+<area shape="rect" id="node19" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a092903f69f2ad4ef4376b2a90fb20eae" title="Configure message rate. " alt="" coords="1268,157,1523,184"/>
+<area shape="rect" id="node20" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#abafe58c4721b8294ce477e0a51232163" title="Send a message. " alt="" coords="1571,107,1773,133"/>
+<area shape="rect" id="node23" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a5ee4591e2b8ea900a332a87b45bed1d0" title="Init _buf as CFG&#45;VALSET. " alt="" coords="1297,107,1493,133"/>
+<area shape="rect" id="node21" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8bff149b775ec9a858e48a240c8fe373" title="Calculate &amp; add checksum for given buffer. " alt="" coords="1821,81,2029,108"/>
+<area shape="rect" id="node22" href="$d2/d20/class_g_p_s_helper.html#a44d4a088facfe85131a8f2d4742070c8" title="write to the device " alt="" coords="1863,132,1987,159"/>
+<area shape="rect" id="node25" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="1351,461,1439,488"/>
+<area shape="rect" id="node26" href="$d0/de4/namespacematrix.html#a2dc2eb787a0bdc7634060b2a27a45714" title="matrix::atan2" alt="" coords="1346,360,1445,387"/>
+<area shape="rect" id="node27" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1354,309,1437,336"/>
+<area shape="rect" id="node28" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1629,309,1715,336"/>
 </map>

@@ -1,47 +1,51 @@
 <map id="ADIS16448::measure" name="ADIS16448::measure">
-<area shape="rect" id="node2" href="$de/dfc/classmath_1_1_low_pass_filter2p.html#a560a894bf85c80e56091096e2e9fc253" title="Add a new raw value to the filter. " alt="" coords="215,72,371,114"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="497,138,535,165"/>
-<area shape="rect" id="node4" href="$df/de7/test__sensors_8c.html#a7e59b8ff2e9eb4aba115d1a9fe3ff438" title="baro" alt="" coords="959,172,1006,198"/>
-<area shape="rect" id="node24" href="$d8/db8/class_a_d_i_s16448.html#a6a72ff4968ddc78575501d28c3560dc5" title="convert 12 bit integer format to int16. " alt="" coords="200,240,385,282"/>
-<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1141,357,1266,384"/>
-<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="249,408,337,434"/>
-<area shape="rect" id="node37" href="$da/dfc/class_a_d_i_s16448__gyro.html#a3678ec7f3b6017de7d10c9fd12c51a2f" title="ADIS16448_gyro::parent\l_poll_notify" alt="" coords="657,696,823,738"/>
-<area shape="rect" id="node38" href="$db/d2e/class_a_d_i_s16448__mag.html#a2cc7758d3019f1fe6c91fd32967d425f" title="ADIS16448_mag::parent\l_poll_notify" alt="" coords="433,596,599,638"/>
-<area shape="rect" id="node39" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="251,509,334,536"/>
-<area shape="rect" id="node40" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="251,560,334,586"/>
-<area shape="rect" id="node41" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="257,610,329,637"/>
-<area shape="rect" id="node42" href="$dd/d78/perf__counter_8c.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="231,661,354,688"/>
-<area shape="rect" id="node43" href="$d6/d55/class_integrator.html#a309325e7033f84c016b2b0a42af4aa88" title="Put an item into the integral. " alt="" coords="241,306,344,333"/>
-<area shape="rect" id="node46" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="256,762,329,789"/>
-<area shape="rect" id="node5" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1163,113,1244,140"/>
-<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1164,306,1243,333"/>
-<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1166,172,1241,198"/>
-<area shape="rect" id="node23" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1173,62,1233,89"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1333,154,1475,181"/>
-<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1367,104,1441,130"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1758,240,1897,266"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1751,458,1904,485"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1551,341,1685,368"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1533,172,1703,198"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1544,290,1692,317"/>
-<area shape="rect" id="node14" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="1323,560,1485,586"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1586,458,1650,485"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1335,408,1473,434"/>
-<area shape="rect" id="node20" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1357,306,1451,333"/>
-<area shape="rect" id="node15" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="1550,509,1686,536"/>
-<area shape="rect" id="node16" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1566,560,1670,586"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1549,392,1687,434"/>
-<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1337,205,1471,232"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="911,524,1054,566"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="445,419,587,460"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1132,575,1275,616"/>
-<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="1341,661,1467,688"/>
-<area shape="rect" id="node30" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="1551,661,1685,688"/>
-<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="647,430,833,457"/>
-<area shape="rect" id="node33" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="895,408,1070,434"/>
-<area shape="rect" id="node36" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="881,459,1084,500"/>
-<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1138,648,1269,690"/>
-<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="1339,712,1469,754"/>
-<area shape="rect" id="node44" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="455,306,577,333"/>
-<area shape="rect" id="node45" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="673,306,807,333"/>
+<area shape="rect" id="node2" href="$dc/d86/_a_d_i_s16448_8cpp.html#ad565f5d65c521d9c431c68ff8b2e7707" title="ComputeCRC16" alt="" coords="247,5,365,32"/>
+<area shape="rect" id="node3" href="$dc/d86/_a_d_i_s16448_8cpp.html#ad9930f0f2a9745d55bc595ab5225762e" title="convert 12 bit integer format to int16. " alt="" coords="233,56,379,83"/>
+<area shape="rect" id="node4" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1057,977,1095,1004"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1013,233,1139,260"/>
+<area shape="rect" id="node8" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="787,157,870,184"/>
+<area shape="rect" id="node9" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="265,208,347,235"/>
+<area shape="rect" id="node10" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="270,259,342,285"/>
+<area shape="rect" id="node11" href="$df/d7b/perf__counter_8cpp.html#abf86ab96e88f8663417a93dc97b05c4f" title="Return current event_count. " alt="" coords="245,376,367,403"/>
+<area shape="rect" id="node12" href="$db/dc8/class_p_x4_barometer.html#a766f4e6ec4d16308f412e74b65767b19" title="PX4Barometer::set_error\l_count" alt="" coords="484,411,651,453"/>
+<area shape="rect" id="node14" href="$df/d71/class_p_x4_magnetometer.html#a9309cfbb2de2d3c8bb863b1f91c0094c" title="PX4Magnetometer::set\l_error_count" alt="" coords="489,477,645,518"/>
+<area shape="rect" id="node15" href="$db/def/class_p_x4_accelerometer.html#a20803d10b121094c19391e26f74a3904" title="PX4Accelerometer::set\l_error_count" alt="" coords="489,542,646,583"/>
+<area shape="rect" id="node16" href="$d4/d1b/class_p_x4_gyroscope.html#ad46a441cfc661869ca3591a62755a380" title="PX4Gyroscope::set_error\l_count" alt="" coords="221,630,391,671"/>
+<area shape="rect" id="node17" href="$db/dc8/class_p_x4_barometer.html#a1d9a64015354387d2effd941a5f3c7b3" title="PX4Barometer::set_temperature" alt="" coords="201,711,411,737"/>
+<area shape="rect" id="node18" href="$db/dc8/class_p_x4_barometer.html#a28512b74ef68a64fc8dbef91ea54a23f" title="PX4Barometer::update" alt="" coords="490,1075,645,1101"/>
+<area shape="rect" id="node23" href="$df/d71/class_p_x4_magnetometer.html#a7de4f34048ad6bebbb551eccaa1deb16" title="PX4Magnetometer::set\l_temperature" alt="" coords="228,310,384,351"/>
+<area shape="rect" id="node24" href="$db/def/class_p_x4_accelerometer.html#aae188e31a6b5919ff82025f3c8600142" title="PX4Accelerometer::set\l_temperature" alt="" coords="227,845,385,886"/>
+<area shape="rect" id="node29" href="$db/def/class_p_x4_accelerometer.html#a98146e730c3d460ecae82545a1ba8fd4" title="PX4Accelerometer::update" alt="" coords="478,1227,657,1253"/>
+<area shape="rect" id="node35" href="$d4/d1b/class_p_x4_gyroscope.html#a6c904031bc9a43feabd1cec6ae0b3f3b" title="PX4Gyroscope::set_temperature" alt="" coords="200,961,412,988"/>
+<area shape="rect" id="node37" href="$d4/d1b/class_p_x4_gyroscope.html#a4e890722f5c54f832cfc5eca1aa1b216" title="PX4Gyroscope::update" alt="" coords="489,1277,646,1304"/>
+<area shape="rect" id="node50" href="$df/d71/class_p_x4_magnetometer.html#a4c4f95cfec9c4b4b0515bfd8475f3f3a" title="PX4Magnetometer::update" alt="" coords="479,1176,656,1203"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1243,977,1326,1004"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1400,977,1487,1004"/>
+<area shape="rect" id="node13" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="723,776,935,803"/>
+<area shape="rect" id="node22" href="$db/dc8/class_p_x4_barometer.html#ac9183625a4b2a9db01d416045a383ba3" title="PX4Barometer::print\l_status" alt="" coords="497,659,637,701"/>
+<area shape="rect" id="node19" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="749,1075,908,1101"/>
+<area shape="rect" id="node21" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#a42d8c47f80211bac32dfdf1792609a83" title="uORB::PublicationMultiData\l::update" alt="" coords="735,1126,922,1167"/>
+<area shape="rect" id="node20" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="983,1079,1169,1105"/>
+<area shape="rect" id="node25" href="$db/def/class_p_x4_accelerometer.html#aee383c85338f3b950515f72892bf93af" title="PX4Accelerometer::set\l_sample_rate" alt="" coords="489,1009,646,1050"/>
+<area shape="rect" id="node34" href="$db/def/class_p_x4_accelerometer.html#a591cda98e2c11eeebd49bacf189e01e1" title="PX4Accelerometer::print\l_status" alt="" coords="485,878,649,919"/>
+<area shape="rect" id="node26" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ab4843feee1dc19dbb68a28220c69533d" title="math::LowPassFilter2pVector3f\l::set_cutoff_frequency" alt="" coords="726,1009,931,1050"/>
+<area shape="rect" id="node28" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ac586a1dbb0bda72b081c296326746d0b" title="math::LowPassFilter2pVector3f\l::get_cutoff_freq" alt="" coords="726,943,931,985"/>
+<area shape="rect" id="node27" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1217,1083,1352,1109"/>
+<area shape="rect" id="node30" href="$da/d0e/rotation_8cpp.html#aa3c61ff4ad576f10e9c754189b1e5757" title="rotate a 3 element float vector in&#45;place " alt="" coords="792,1192,865,1219"/>
+<area shape="rect" id="node31" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a3a354392866066751ae5d5e318d563a5" title="Add a new raw value to the filter. " alt="" coords="726,1243,931,1285"/>
+<area shape="rect" id="node32" href="$d6/d55/class_integrator.html#ad97763793cd85018552cd3cd8ae626ed" title="Put an item into the integral. " alt="" coords="777,1360,880,1387"/>
+<area shape="rect" id="node33" href="$d6/d55/class_integrator.html#acab5d425afa9034ba5b5b26929512f64" title="Integrator::_reset" alt="" coords="1015,1137,1137,1164"/>
+<area shape="rect" id="node36" href="$d4/d1b/class_p_x4_gyroscope.html#ac8c2799d14ec524670b7ac460412086d" title="PX4Gyroscope::set_sample_rate" alt="" coords="460,1125,675,1152"/>
+<area shape="rect" id="node49" href="$d4/d1b/class_p_x4_gyroscope.html#a85a969fdb90ea9dec776174450c32680" title="PX4Gyroscope::print\l_status" alt="" coords="496,943,639,985"/>
+<area shape="rect" id="node38" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="768,1411,889,1437"/>
+<area shape="rect" id="node39" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="1027,1457,1125,1484"/>
+<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="1035,1508,1117,1535"/>
+<area shape="rect" id="node41" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="1025,1559,1127,1585"/>
+<area shape="rect" id="node42" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="1025,1609,1127,1636"/>
+<area shape="rect" id="node43" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="1032,1660,1120,1687"/>
+<area shape="rect" id="node44" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="1037,1204,1115,1231"/>
+<area shape="rect" id="node45" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="1035,1255,1117,1281"/>
+<area shape="rect" id="node46" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="993,1305,1159,1332"/>
+<area shape="rect" id="node47" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="1045,1356,1107,1383"/>
+<area shape="rect" id="node48" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="995,1407,1157,1433"/>
 </map>

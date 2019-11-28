@@ -1,41 +1,34 @@
 <map id="gyro_calibration_worker" name="gyro_calibration_worker">
-<area shape="rect" id="node2" href="$d0/d5a/calibration__routines_8cpp.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="212,493,371,519"/>
-<area shape="rect" id="node25" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="473,493,548,519"/>
-<area shape="rect" id="node30" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="475,594,546,621"/>
-<area shape="rect" id="node37" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="469,746,552,773"/>
-<area shape="rect" id="node3" href="$d0/d5a/calibration__routines_8cpp.html#a4ed47af7b5676ef2d10df342e47ed78e" title="calibrate_answer_command" alt="" coords="419,341,603,367"/>
-<area shape="rect" id="node4" href="$df/d08/commander__helper_8cpp.html#a95b47dab68ab6fcdd951fb1b9dfc64b8" title="Blink red LED and play negative tune (if use_buzzer == true). " alt="" coords="688,290,791,317"/>
-<area shape="rect" id="node24" href="$df/d08/commander__helper_8cpp.html#a24e135bf6ba98c55a652feab03293aa7" title="Blink green LED and play positive tune (if use_buzzer == true). " alt="" coords="690,341,789,367"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1978,173,2103,199"/>
-<area shape="rect" id="node6" href="$df/d08/commander__helper_8cpp.html#a305f75480edf19f6dccc6ea8bf7c46d5" title="rgbled_set_color_and_mode" alt="" coords="876,290,1060,317"/>
-<area shape="rect" id="node23" href="$df/d08/commander__helper_8cpp.html#a85bd5445469c33c209c0947ec5050d67" title="set_tune" alt="" coords="932,341,1004,367"/>
-<area shape="rect" id="node7" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1131,290,1219,317"/>
-<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1746,443,1889,484"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1291,224,1433,265"/>
-<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1969,584,2112,625"/>
-<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#a04ad8e5b517724c106e06b45e86a2445" title="Initialise the driver and make it ready for use. " alt="" coords="2165,666,2291,693"/>
-<area shape="rect" id="node11" href="$dd/dd3/classdevice_1_1_device.html#a88428ba671d9c225504fc2f0aed2a72a" title="Initialise the driver and make it ready for use. " alt="" coords="2341,666,2476,693"/>
-<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="2357,842,2461,869"/>
-<area shape="rect" id="node13" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="2531,805,2670,831"/>
-<area shape="rect" id="node14" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="2524,881,2677,907"/>
-<area shape="rect" id="node16" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1481,231,1668,258"/>
-<area shape="rect" id="node17" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abdae2690994dd47cce2b579b3785864f" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1730,71,1905,98"/>
-<area shape="rect" id="node22" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1716,224,1919,265"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1973,71,2108,98"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1967,122,2115,149"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1975,5,2106,47"/>
-<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="2163,5,2293,47"/>
-<area shape="rect" id="node26" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="651,493,828,519"/>
-<area shape="rect" id="node27" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="931,493,1005,519"/>
-<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1138,791,1213,818"/>
-<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="1108,493,1243,519"/>
-<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="674,594,805,621"/>
-<area shape="rect" id="node35" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="693,645,786,671"/>
-<area shape="rect" id="node36" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="709,543,769,570"/>
-<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="899,675,1037,716"/>
-<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="903,544,1033,585"/>
-<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="891,609,1045,651"/>
-<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="668,816,811,857"/>
-<area shape="rect" id="node39" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="931,842,1005,869"/>
-<area shape="rect" id="node40" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1108,842,1243,869"/>
+<area shape="rect" id="node2" href="$d0/d5a/calibration__routines_8cpp.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="212,331,371,357"/>
+<area shape="rect" id="node20" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="473,356,548,383"/>
+<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#ab58015a6dcb46cf377c9091677cd4417" title="px4_poll" alt="" coords="475,420,546,447"/>
+<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="469,640,552,667"/>
+<area shape="rect" id="node3" href="$d0/d5a/calibration__routines_8cpp.html#a4ed47af7b5676ef2d10df342e47ed78e" title="calibrate_answer_command" alt="" coords="419,152,603,179"/>
+<area shape="rect" id="node4" href="$df/d08/commander__helper_8cpp.html#a95b47dab68ab6fcdd951fb1b9dfc64b8" title="Blink red LED and play negative tune (if use_buzzer == true). " alt="" coords="688,152,791,179"/>
+<area shape="rect" id="node19" href="$df/d08/commander__helper_8cpp.html#a24e135bf6ba98c55a652feab03293aa7" title="Blink green LED and play positive tune (if use_buzzer == true). " alt="" coords="690,101,789,128"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1974,93,2099,120"/>
+<area shape="rect" id="node6" href="$df/d08/commander__helper_8cpp.html#a305f75480edf19f6dccc6ea8bf7c46d5" title="rgbled_set_color_and_mode" alt="" coords="876,101,1060,128"/>
+<area shape="rect" id="node18" href="$df/d08/commander__helper_8cpp.html#a85bd5445469c33c209c0947ec5050d67" title="set_tune" alt="" coords="932,152,1004,179"/>
+<area shape="rect" id="node7" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1127,152,1215,179"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1737,313,1879,354"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1281,145,1424,186"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1965,338,2108,379"/>
+<area shape="rect" id="node11" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1472,156,1659,183"/>
+<area shape="rect" id="node12" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a86db9fc8d841b0a4748611cec14ea546" title="writes the published data to the internal buffer to be read by subscribers later. ..." alt="" coords="1721,261,1895,288"/>
+<area shape="rect" id="node17" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#a3f4690d7b897f5f568cfed2c31d7b734" title="Sends the data message over the communication link. " alt="" coords="1707,145,1909,186"/>
+<area shape="rect" id="node13" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="1975,185,2099,212"/>
+<area shape="rect" id="node14" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="1967,236,2106,263"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#ad40710ea69dbc93561f7b0e3ae3d8435" title="Report new poll events. " alt="" coords="1957,287,2116,313"/>
+<area shape="rect" id="node16" href="$d8/d26/classcdev_1_1_c_dev.html#a152b2568dfbe9a096dcc38cca4a15106" title="Internal implementation of poll_notify. " alt="" coords="2164,287,2351,313"/>
+<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="651,363,828,389"/>
+<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="931,363,1005,389"/>
+<area shape="rect" id="node23" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="1133,413,1208,440"/>
+<area shape="rect" id="node24" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="1108,363,1233,389"/>
+<area shape="rect" id="node26" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="679,501,799,528"/>
+<area shape="rect" id="node27" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="890,465,1046,506"/>
+<area shape="rect" id="node28" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="890,531,1046,557"/>
+<area shape="rect" id="node29" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="897,582,1039,623"/>
+<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="668,633,811,674"/>
+<area shape="rect" id="node32" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="931,648,1005,675"/>
+<area shape="rect" id="node33" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="1109,648,1233,675"/>
 </map>

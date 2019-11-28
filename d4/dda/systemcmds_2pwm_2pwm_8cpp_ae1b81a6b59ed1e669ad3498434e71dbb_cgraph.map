@@ -1,36 +1,17 @@
 <map id="pwm_main" name="pwm_main">
-<area shape="rect" id="node2" href="$d4/dda/systemcmds_2pwm_2pwm_8cpp.html#a6b8b1f2c99740e638ece3b274ac2f7b8" title="get_parameter_value" alt="" coords="139,56,281,83"/>
-<area shape="rect" id="node5" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="167,157,253,184"/>
-<area shape="rect" id="node8" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="405,208,480,235"/>
-<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="171,385,249,412"/>
-<area shape="rect" id="node23" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="187,436,233,463"/>
-<area shape="rect" id="node24" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="151,512,269,539"/>
-<area shape="rect" id="node26" href="$d4/dda/systemcmds_2pwm_2pwm_8cpp.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="181,784,239,811"/>
-<area shape="rect" id="node35" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="180,835,240,861"/>
-<area shape="rect" id="node3" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="399,5,486,32"/>
-<area shape="rect" id="node4" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="401,56,484,83"/>
-<area shape="rect" id="node6" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="411,157,474,184"/>
-<area shape="rect" id="node7" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="639,107,717,133"/>
-<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="641,208,715,235"/>
-<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="611,157,745,184"/>
-<area shape="rect" id="node10" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="807,284,946,311"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="800,348,953,375"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="646,309,710,336"/>
-<area shape="rect" id="node15" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="361,411,524,437"/>
-<area shape="rect" id="node18" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="373,512,512,539"/>
-<area shape="rect" id="node22" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="396,309,489,336"/>
-<area shape="rect" id="node16" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="610,411,746,437"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="626,360,730,387"/>
-<area shape="rect" id="node19" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="611,629,745,656"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="609,513,747,554"/>
-<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="604,579,752,605"/>
-<area shape="rect" id="node25" href="$df/d04/kinetis_2drv__io__timer_8c.html#a42d48f771aa64e81484875298f360dfc" title="io_timer_trigger" alt="" coords="387,563,498,589"/>
-<area shape="rect" id="node27" href="$dd/d30/module_8cpp.html#a53dcf1637cabe04fa554ef0e38f266d2" title="Print module documentation (will also be used for online documentation). " alt="" coords="329,876,556,903"/>
-<area shape="rect" id="node28" href="$dd/d30/module_8cpp.html#a06777df5209dd638c8ee6ac49331a50c" title="Print the command name. " alt="" coords="329,927,556,953"/>
-<area shape="rect" id="node29" href="$dd/d30/module_8cpp.html#aff1dbaa4bef630dfbdcc72bd0061c75a" title="Print a command with a short description what it does. " alt="" coords="352,978,533,1019"/>
-<area shape="rect" id="node30" href="$dd/d30/module_8cpp.html#ac5bfc5f17f7305a0c6e85739cfe5100d" title="print definition for an argument, which does not have the typical &#45;p &lt;val&gt; form, but for example &#39;par..." alt="" coords="334,1044,551,1071"/>
-<area shape="rect" id="node31" href="$dd/d30/module_8cpp.html#af0c1bf63983446031b35bba1e13d49b3" title="print an integer parameter " alt="" coords="352,614,533,655"/>
-<area shape="rect" id="node32" href="$dd/d30/module_8cpp.html#af47df5c61eb0835e67336e0a5e17f925" title="print a comment, that applies to the next arguments or parameters. " alt="" coords="352,679,533,721"/>
-<area shape="rect" id="node33" href="$dd/d30/module_8cpp.html#a12e0d79176d6adbb56764d05171c1716" title="print a string parameter " alt="" coords="352,745,533,786"/>
-<area shape="rect" id="node34" href="$dd/d30/module_8cpp.html#a55f27bc51df04401d95a19e0ef8caf5d" title="print a flag parameter, without any value " alt="" coords="352,810,533,851"/>
+<area shape="rect" id="node2" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="160,56,235,83"/>
+<area shape="rect" id="node5" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="158,132,237,159"/>
+<area shape="rect" id="node14" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="174,183,221,209"/>
+<area shape="rect" id="node15" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="139,233,256,260"/>
+<area shape="rect" id="node16" href="$d4/dda/systemcmds_2pwm_2pwm_8cpp.html#a6140e286cfe677ffb07d7aee4446c31f" title="usage" alt="" coords="169,284,226,311"/>
+<area shape="rect" id="node3" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="343,5,418,32"/>
+<area shape="rect" id="node4" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="319,56,443,83"/>
+<area shape="rect" id="node6" href="$da/dc9/posix_2cdev__platform_8cpp.html#a3fe15a0fdcd00e34f4a29b3cea4c7c46" title="getDev" alt="" coords="349,107,413,133"/>
+<area shape="rect" id="node7" href="$dc/db4/classcdev_1_1_v_file.html#a76418692ad24fb60ee14bdb5ae66d19d" title="cdev::VFile::createFile" alt="" coords="304,157,457,184"/>
+<area shape="rect" id="node10" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="317,233,445,260"/>
+<area shape="rect" id="node8" href="$dc/db4/classcdev_1_1_v_file.html#a48ae3db836c0e14085465455ebbc9c99" title="cdev::VFile::VFile" alt="" coords="521,107,647,133"/>
+<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="532,157,636,184"/>
+<area shape="rect" id="node11" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="522,208,646,235"/>
+<area shape="rect" id="node12" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="505,259,663,285"/>
+<area shape="rect" id="node13" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="515,309,653,336"/>
 </map>

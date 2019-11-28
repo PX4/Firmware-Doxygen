@@ -43,7 +43,6 @@ var l3gd20_8cpp =
     [ "L3GD20_DEVICE_PATH", "d3/dca/l3gd20_8cpp.html#a3a4e2c28e121ae7c6d90a579bb3fd748", null ],
     [ "L3GD20_MAX_OFFSET", "d3/dca/l3gd20_8cpp.html#a74e0ba4bbe7047a2b5bf2a16032777f9", null ],
     [ "L3GD20_MAX_OUTPUT_RATE", "d3/dca/l3gd20_8cpp.html#a526206f3720a81b30de388cf51fb79c6", null ],
-    [ "L3GD20_NUM_CHECKED_REGISTERS", "d3/dca/l3gd20_8cpp.html#a4ba3fdca6144351eb17768723ab64b03", null ],
     [ "L3GD20_TEMP_OFFSET_CELSIUS", "d3/dca/l3gd20_8cpp.html#abc1209da7861d99db8f6a3a76e196050", null ],
     [ "L3GD20_TIMER_REDUCTION", "d3/dca/l3gd20_8cpp.html#a918370e2e50bb71c11cfbc7558caf76d", null ],
     [ "RANGE_2000DPS", "d3/dca/l3gd20_8cpp.html#a862e480aa10fc5bdd8d2563f330c1bdd", null ],
@@ -90,9 +89,7 @@ var l3gd20_8cpp =
     [ "info", "d3/dca/l3gd20_8cpp.html#aab87e8c68e689962ed61d51db0630215", null ],
     [ "l3gd20_main", "d3/dca/l3gd20_8cpp.html#a6155ea8a71c5febe9652d5e5c8da1292", null ],
     [ "regdump", "d3/dca/l3gd20_8cpp.html#aa5373a05432c680f0e8e83a8295ff5a4", null ],
-    [ "reset", "d3/dca/l3gd20_8cpp.html#a96a171363b93c30e9f03c74f97b6aedd", null ],
     [ "start", "d3/dca/l3gd20_8cpp.html#a061f260878adf25f94d9833dd6d0e54f", null ],
-    [ "test", "d3/dca/l3gd20_8cpp.html#a099f0465eb6a7ebd049953a47e975641", null ],
     [ "test_error", "d3/dca/l3gd20_8cpp.html#a932bfbbbb76b3f6ba8c9c67ea4a36f3b", null ],
     [ "usage", "d3/dca/l3gd20_8cpp.html#af05571b793bdabbda0303df7cf24f196", null ],
     [ "g_dev", "d3/dca/l3gd20_8cpp.html#a0b3fde6a2b9965d3cf3ab9b43ec8b69d", null ]

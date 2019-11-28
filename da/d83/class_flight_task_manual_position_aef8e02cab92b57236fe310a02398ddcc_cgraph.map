@@ -1,29 +1,51 @@
 <map id="FlightTaskManualPosition::_scaleSticks" name="FlightTaskManualPosition::_scaleSticks">
-<area shape="rect" id="node2" href="$d8/d4c/class_flight_task_manual_altitude.html#a104c129ccedc3a10e5917d82ef2ff363" title="scales sticks to velocity in z " alt="" coords="228,69,397,110"/>
-<area shape="rect" id="node5" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="257,157,369,184"/>
-<area shape="rect" id="node6" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="520,208,559,235"/>
-<area shape="rect" id="node7" href="$d1/d71/classmatrix_1_1_vector.html#adfde6b53c2c967f684dd5571d847781e" title="matrix::Vector::length" alt="" coords="239,309,386,336"/>
-<area shape="rect" id="node8" href="$df/de7/test__sensors_8c.html#a46c6cfc357986e1d96d9afba27ad8829" title="mag" alt="" coords="289,259,336,285"/>
-<area shape="rect" id="node28" href="$d1/d71/classmatrix_1_1_vector.html#a8cbb2d42da6488e74e0596b0e14bd825" title="matrix::Vector::normalized" alt="" coords="225,360,400,387"/>
-<area shape="rect" id="node3" href="$da/dc5/class_flight_task_manual_stabilized.html#a087093789f93783065ae5e498409ee2a" title="scales sticks to yaw and thrust " alt="" coords="448,22,631,63"/>
-<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="709,5,811,32"/>
-<area shape="rect" id="node9" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="719,411,801,437"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="500,259,579,285"/>
-<area shape="rect" id="node25" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="723,512,797,539"/>
-<area shape="rect" id="node27" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="509,309,569,336"/>
-<area shape="rect" id="node10" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="889,563,1031,589"/>
-<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="923,461,997,488"/>
-<area shape="rect" id="node15" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1094,360,1233,387"/>
-<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1087,259,1240,285"/>
-<area shape="rect" id="node11" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1096,563,1231,589"/>
-<area shape="rect" id="node12" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1079,613,1248,640"/>
-<area shape="rect" id="node13" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1089,512,1237,539"/>
-<area shape="rect" id="node18" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="679,208,841,235"/>
-<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="928,259,992,285"/>
-<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="891,512,1029,539"/>
-<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="713,56,807,83"/>
-<area shape="rect" id="node19" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="892,157,1028,184"/>
-<area shape="rect" id="node20" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="908,208,1012,235"/>
-<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1094,446,1233,487"/>
-<area shape="rect" id="node26" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="893,613,1027,640"/>
+<area shape="rect" id="node2" href="$d8/d4c/class_flight_task_manual_altitude.html#a2eb6bc264a3da6a1ec5aa15208d4e450" title="rotates vector into local frame " alt="" coords="463,1373,640,1415"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1257,1241,1296,1267"/>
+<area shape="rect" id="node6" href="$d8/d4c/class_flight_task_manual_altitude.html#a28450495bebce0519bf214e94fb0ff12" title="scales sticks to velocity in z " alt="" coords="467,173,636,215"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="257,1190,369,1217"/>
+<area shape="rect" id="node9" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="949,1139,1141,1166"/>
+<area shape="rect" id="node10" href="$d7/d08/class_collision_prevention.html#afa781282d20fdf8379c1bd5b9e4c4e86" title="Returs true if Collision Prevention is running. " alt="" coords="484,5,619,47"/>
+<area shape="rect" id="node13" href="$d1/d71/classmatrix_1_1_vector.html#abd91dec134022f2adbd739b4ced6806d" title="matrix::Vector::length" alt="" coords="239,1342,386,1369"/>
+<area shape="rect" id="node14" href="$d7/d08/class_collision_prevention.html#a8bf058150651509f59d2e9005f8794c4" title="Computes collision free setpoints. " alt="" coords="245,635,380,676"/>
+<area shape="rect" id="node50" href="$d1/d71/classmatrix_1_1_vector.html#aaed6e2f480ce5d7031d1547e05f8fe76" title="matrix::Vector::normalized" alt="" coords="225,1443,400,1470"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1458,1241,1541,1267"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1661,1241,1747,1267"/>
+<area shape="rect" id="node7" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="995,351,1096,378"/>
+<area shape="rect" id="node11" href="$d7/d08/class_collision_prevention.html#a156bf49395998920864b99fed852c431" title="CollisionPrevention\l::getTime" alt="" coords="978,104,1113,145"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1214,177,1339,203"/>
+<area shape="rect" id="node15" href="$d7/d08/class_collision_prevention.html#a32489852aa49005701d6a91e463c2497" title="Computes collision free setpoints. " alt="" coords="448,664,655,705"/>
+<area shape="rect" id="node42" href="$d7/d08/class_collision_prevention.html#a28c1bb2d391a6ab91db10f9588f8000f" title="CollisionPrevention\l::getElapsedTime" alt="" coords="978,235,1113,276"/>
+<area shape="rect" id="node44" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="976,605,1115,647"/>
+<area shape="rect" id="node49" href="$dd/df8/classmatrix_1_1_matrix.html#a46af950c7f4bdbba51525788362f1d85" title="matrix::Matrix::copyTo" alt="" coords="475,730,628,757"/>
+<area shape="rect" id="node16" href="$d7/d08/class_collision_prevention.html#a0d2bd6bcc1aaba0c27c9b4350f9ebc32" title="Computes an adaption to the setpoint direction to guide towards free space. " alt="" coords="717,493,887,535"/>
+<area shape="rect" id="node18" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="1659,422,1749,449"/>
+<area shape="rect" id="node19" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="Wrap value in range [0, 2π) " alt="" coords="1217,535,1336,562"/>
+<area shape="rect" id="node21" href="$d7/d08/class_collision_prevention.html#a4b0c3ac2900d1bb98cad399c1484add1" title="Publishes vehicle command. " alt="" coords="703,173,901,215"/>
+<area shape="rect" id="node23" href="$d7/d08/class_collision_prevention.html#ae1bf5f01c1709d1dcd966d1d3b913b71" title="Aggregates the sensor data into a internal obstacle map in body frame. " alt="" coords="725,796,879,837"/>
+<area shape="rect" id="node26" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="1224,674,1329,701"/>
+<area shape="rect" id="node27" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="1237,909,1317,935"/>
+<area shape="rect" id="node43" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="1003,1089,1087,1115"/>
+<area shape="rect" id="node46" href="$d7/dd2/namespacemath_1_1trajectory.html#acf5c5a374bb48f7f330cf2fcc2130302" title="math::trajectory::compute\lMaxSpeedFromDistance" alt="" coords="717,1124,887,1165"/>
+<area shape="rect" id="node47" href="$d1/d71/classmatrix_1_1_vector.html#aefa5113f98d71bdc40bf8212c0b1225b" title="matrix::Vector::dot" alt="" coords="737,921,867,947"/>
+<area shape="rect" id="node48" href="$d1/d71/classmatrix_1_1_vector.html#a100f3b10c5572ccd38edc745d99ef98d" title="matrix::Vector::norm" alt="" coords="731,971,873,998"/>
+<area shape="rect" id="node17" href="$d0/de4/namespacematrix.html#ab6f7d94a09ce448dc95ca2e7c2f64569" title="matrix::abs" alt="" coords="1002,453,1089,479"/>
+<area shape="rect" id="node20" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="1452,498,1547,525"/>
+<area shape="rect" id="node22" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="958,169,1133,211"/>
+<area shape="rect" id="node24" href="$d7/d08/class_collision_prevention.html#a51b38c2bf25c37f22a4a351c5103fd6e" title="CollisionPrevention\l::_addDistanceSensorData" alt="" coords="956,788,1135,829"/>
+<area shape="rect" id="node29" href="$d7/d08/class_collision_prevention.html#a14fdff6c6e89fca319ab8f470d0ad408" title="Updates obstacle distance message with measurement from offboard. " alt="" coords="956,723,1135,764"/>
+<area shape="rect" id="node31" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="976,1023,1115,1064"/>
+<area shape="rect" id="node45" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#a8c8967077b39cd29e07652cefe2293a9" title="uORB::SubscriptionData\l::update" alt="" coords="962,905,1129,947"/>
+<area shape="rect" id="node25" href="$d7/d08/class_collision_prevention.html#a1c8a95be8cb6106b7bd230e64700bf13" title="Determines whether a new sensor measurement is used. " alt="" coords="1209,725,1344,767"/>
+<area shape="rect" id="node28" href="$d5/d0f/classmatrix_1_1_quaternion.html#aaffd56d1de8bd00182f62dd92c3ba847" title="Rotate quaternion from rotation vector. " alt="" coords="1212,843,1341,884"/>
+<area shape="rect" id="node30" href="$d0/de4/namespacematrix.html#adac4ac9ec56396946f03e105abe89590" title="matrix::ceil" alt="" coords="1233,623,1320,650"/>
+<area shape="rect" id="node32" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="1207,980,1346,1021"/>
+<area shape="rect" id="node40" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1189,1069,1364,1095"/>
+<area shape="rect" id="node33" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="1430,933,1569,975"/>
+<area shape="rect" id="node34" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="1421,868,1577,909"/>
+<area shape="rect" id="node35" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="1430,999,1569,1040"/>
+<area shape="rect" id="node36" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1635,999,1773,1040"/>
+<area shape="rect" id="node37" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1823,999,1966,1040"/>
+<area shape="rect" id="node38" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2016,969,2159,1011"/>
+<area shape="rect" id="node39" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1821,1064,1968,1105"/>
+<area shape="rect" id="node41" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1412,1064,1587,1105"/>
 </map>

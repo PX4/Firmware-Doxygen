@@ -1,14 +1,9 @@
 <map id="MavlinkStream::update" name="MavlinkStream::update">
 <area shape="rect" id="node2" href="$d1/df2/class_mavlink_stream.html#aa00cbc49b71d724045ac6da83c66c80f" title="MavlinkStream::const_rate" alt="" coords="214,5,393,32"/>
-<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#af44bc86938a6f14962231c7e16582222" title="Mavlink::get_main_loop\l_delay" alt="" coords="224,57,383,98"/>
-<area shape="rect" id="node10" href="$df/d1f/class_mavlink.html#a77f4c47c8ed0a9148932fd0a3a65c167" title="Mavlink::get_rate_mult" alt="" coords="226,123,381,149"/>
-<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="241,173,366,200"/>
-<area shape="rect" id="node12" href="$d1/df2/class_mavlink_stream.html#a0af635adceca3e4bbfac5dc91070946e" title="MavlinkStream::send" alt="" coords="231,224,376,251"/>
-<area shape="rect" id="node13" href="$d1/df2/class_mavlink_stream.html#abafe90590f10c8160169d0bfaf2486cb" title="Function to collect/update data for the streams at a high rate independant of actual stream rate..." alt="" coords="209,275,397,301"/>
+<area shape="rect" id="node4" href="$df/d1f/class_mavlink.html#aa4d1d06e3052ec9270542d33cce8802a" title="Mavlink::get_main_loop\l_delay" alt="" coords="224,57,383,98"/>
+<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a13057ba84e5613861133a6a50d6fe6a1" title="Mavlink::get_rate_mult" alt="" coords="226,123,381,149"/>
+<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="241,173,366,200"/>
+<area shape="rect" id="node7" href="$d1/df2/class_mavlink_stream.html#a0af635adceca3e4bbfac5dc91070946e" title="MavlinkStream::send" alt="" coords="231,224,376,251"/>
+<area shape="rect" id="node8" href="$d1/df2/class_mavlink_stream.html#abafe90590f10c8160169d0bfaf2486cb" title="Function to collect/update data for the streams at a high rate independant of actual stream rate..." alt="" coords="209,275,397,301"/>
 <area shape="rect" id="node3" href="$d1/df2/class_mavlink_stream.html#a23d06f17eff1931144643c31a0a3da98" title="Get maximal total messages size on update. " alt="" coords="445,5,612,32"/>
-<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#af1b0ab44faaf26afe3c974e8438ab47f" title="close the Mavlink shell if it is open " alt="" coords="459,60,599,87"/>
-<area shape="rect" id="node6" href="$df/d1f/class_mavlink.html#ab0cacfa66680d7b28ae3a9eb774b8819" title="get the Mavlink shell. " alt="" coords="465,111,592,137"/>
-<area shape="rect" id="node7" href="$d1/dbf/class_mavlink_shell.html#a2a27fc2462e7b2e9fa227dcf6d493955" title="Start the mavlink shell. " alt="" coords="660,111,791,137"/>
-<area shape="rect" id="node8" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="839,81,991,108"/>
-<area shape="rect" id="node9" href="$d1/dbf/class_mavlink_shell.html#ad12b833de772b01102a5b1f707d7c847" title="MavlinkShell::shell\l_start_thread" alt="" coords="849,133,980,174"/>
 </map>

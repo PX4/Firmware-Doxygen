@@ -1,15 +1,24 @@
 <map id="main" name="main">
-<area shape="rect" id="node2" href="$dd/df8/classmatrix_1_1_matrix.html#a1ae9a64af1f7a157bcfe33a544239b99" title="Accessors/ Assignment etc. " alt="" coords="124,5,259,32"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="172,56,211,83"/>
-<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a5e08354a7f3db0924229eaa41bcea1c2" title="matrix::isEqual" alt="" coords="137,107,246,133"/>
-<area shape="rect" id="node7" href="$d0/d58/position__estimator__inav__main_8cpp.html#ab72387a3954ae834958e94d34cf610ea" title="min" alt="" coords="170,157,213,184"/>
-<area shape="rect" id="node8" href="$dd/df8/classmatrix_1_1_matrix.html#a37b6ac873e8b12c03afc8681986269a7" title="matrix::Matrix::min" alt="" coords="126,208,257,235"/>
-<area shape="rect" id="node9" href="$dd/df8/classmatrix_1_1_matrix.html#aa6e6ee73a8bb3f3de9dfd854ec4ba0e6" title="matrix::Matrix::setCol" alt="" coords="117,259,265,285"/>
-<area shape="rect" id="node10" href="$dd/df8/classmatrix_1_1_matrix.html#a75c7ef8b5f2ebb04b30ec25cb1bcf238" title="matrix::Matrix::setRow" alt="" coords="114,309,269,336"/>
-<area shape="rect" id="node11" href="$dd/df8/classmatrix_1_1_matrix.html#aa9a39da3eafb7684a4f22038bc3f8414" title="matrix::Matrix::setZero" alt="" coords="114,360,269,387"/>
-<area shape="rect" id="node12" href="$dd/df8/classmatrix_1_1_matrix.html#a08d4e0f2ffd3bef9e6776ba6eaa4efa7" title="matrix::Matrix::swapCols" alt="" coords="107,411,275,437"/>
-<area shape="rect" id="node13" href="$dd/df8/classmatrix_1_1_matrix.html#a6a088369caf65d9193cbc56778496f5f" title="matrix::Matrix::swapRows" alt="" coords="104,461,279,488"/>
-<area shape="rect" id="node14" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="124,512,259,539"/>
-<area shape="rect" id="node5" href="$d9/dcc/lib_2mathlib_2math_2test_2test_8cpp.html#a4bc1e8960997ec2c8c281982580b9bb0" title="equal" alt="" coords="369,77,423,104"/>
-<area shape="rect" id="node6" href="$dd/df8/classmatrix_1_1_matrix.html#a22028d708e2c5ac759803f4b5f3ca28a" title="Misc. " alt="" coords="327,129,465,170"/>
+<area shape="rect" id="node2" href="$d0/d80/namespacematrix_1_1type_function.html#a256127568cd74b680f5da2ffeee8c181" title="matrix::typeFunction\l::constrain" alt="" coords="333,82,475,124"/>
+<area shape="rect" id="node3" href="$d0/d80/namespacematrix_1_1type_function.html#a1436d59e0102f698d3ea2fce1e745e57" title="matrix::typeFunction::max" alt="" coords="529,56,704,83"/>
+<area shape="rect" id="node4" href="$d0/d80/namespacematrix_1_1type_function.html#a337dccfe0853bc0ca8c2fc529b0c97d2" title="matrix::typeFunction::min" alt="" coords="531,166,702,192"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#addb32f97a4fc0bcbfb32ea8a0d37765d" title="matrix::constrain" alt="" coords="132,123,251,150"/>
+<area shape="rect" id="node6" href="$dd/df8/classmatrix_1_1_matrix.html#ada9bfd0f49cd59efb265c47e4e79cde5" title="matrix::Matrix::setNaN" alt="" coords="327,156,481,183"/>
+<area shape="rect" id="node7" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="172,275,211,302"/>
+<area shape="rect" id="node10" href="$dd/df8/classmatrix_1_1_matrix.html#a6c2a9f97658d25430fa2511f94b5bfe9" title="matrix::Matrix::isAllNan" alt="" coords="112,326,271,352"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a5e08354a7f3db0924229eaa41bcea1c2" title="matrix::isEqual" alt="" coords="137,376,246,403"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a8b8c4a141ae445eef10c4b84c46bf620" title="Compare if two floating point numbers are equal. " alt="" coords="345,402,463,428"/>
+<area shape="rect" id="node13" href="$d0/de4/namespacematrix.html#ab332f4ca09e497a27509ed1074219677" title="matrix::max" alt="" coords="146,478,237,504"/>
+<area shape="rect" id="node14" href="$d0/de4/namespacematrix.html#af9fc27184dd6150db31c0e350817eb8b" title="matrix::min" alt="" coords="148,528,235,555"/>
+<area shape="rect" id="node15" href="$dd/df8/classmatrix_1_1_matrix.html#a184f48675233112bd26743b7bf1fa1a8" title="matrix::Matrix::min" alt="" coords="126,579,257,606"/>
+<area shape="rect" id="node16" href="$dd/df8/classmatrix_1_1_matrix.html#a013a59acfeb36f417e4bf8a8c0b6feb0" title="matrix::Matrix::print" alt="" coords="124,630,259,656"/>
+<area shape="rect" id="node17" href="$dd/df8/classmatrix_1_1_matrix.html#aa85ca536324f89e04dab5546196628e8" title="matrix::Matrix::setCol" alt="" coords="117,680,265,707"/>
+<area shape="rect" id="node18" href="$dd/df8/classmatrix_1_1_matrix.html#a00a65167b171bad9ea7a323631dd631f" title="matrix::Matrix::setRow" alt="" coords="114,731,269,758"/>
+<area shape="rect" id="node19" href="$dd/df8/classmatrix_1_1_matrix.html#aa9a39da3eafb7684a4f22038bc3f8414" title="matrix::Matrix::setZero" alt="" coords="114,782,269,808"/>
+<area shape="rect" id="node20" href="$dd/df8/classmatrix_1_1_matrix.html#a08d4e0f2ffd3bef9e6776ba6eaa4efa7" title="matrix::Matrix::swapCols" alt="" coords="107,832,275,859"/>
+<area shape="rect" id="node21" href="$dd/df8/classmatrix_1_1_matrix.html#a6a088369caf65d9193cbc56778496f5f" title="matrix::Matrix::swapRows" alt="" coords="104,883,279,910"/>
+<area shape="rect" id="node22" href="$dd/df8/classmatrix_1_1_matrix.html#af2d15a565e2fb241545a3e21537be09d" title="Misc. " alt="" coords="122,934,261,976"/>
+<area shape="rect" id="node23" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="124,1000,259,1027"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="363,275,445,302"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="573,275,660,302"/>
 </map>

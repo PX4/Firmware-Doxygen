@@ -1,26 +1,29 @@
-<map id="src/drivers/vmount/vmount.cpp" name="src/drivers/vmount/vmount.cpp">
-<area shape="rect" id="node9" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="826,102,934,129"/>
-<area shape="rect" id="node15" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="662,266,765,293"/>
-<area shape="rect" id="node17" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="43,184,136,211"/>
-<area shape="rect" id="node18" href="$d2/db2/input__mavlink_8h.html" title="input_mavlink.h" alt="" coords="1735,102,1849,129"/>
-<area shape="rect" id="node21" href="$da/d52/src_2drivers_2vmount_2input__rc_8h.html" title="input_rc.h" alt="" coords="1911,184,1990,211"/>
-<area shape="rect" id="node23" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1313,348,1423,375"/>
-<area shape="rect" id="node27" href="$db/dbd/input__test_8h.html" title="input_test.h" alt="" coords="1981,102,2072,129"/>
-<area shape="rect" id="node28" href="$d1/d5e/output__rc_8h.html" title="output_rc.h" alt="" coords="1258,102,1345,129"/>
-<area shape="rect" id="node36" href="$db/da3/output__mavlink_8h.html" title="output_mavlink.h" alt="" coords="1369,102,1490,129"/>
-<area shape="rect" id="node37" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="1075,95,1234,136"/>
-<area shape="rect" id="node38" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="2332,102,2428,129"/>
-<area shape="rect" id="node39" href="$d7/dc9/px4__module_8h.html" title="px4_module.h" alt="" coords="386,102,489,129"/>
-<area shape="rect" id="node10" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="643,184,722,211"/>
-<area shape="rect" id="node19" href="$de/ded/input_8h.html" title="input.h" alt="" coords="2049,266,2111,293"/>
-<area shape="rect" id="node25" href="$da/d5c/vehicle__roi_8h.html" title="uORB/topics/vehicle\l_roi.h" alt="" coords="1497,259,1639,300"/>
-<area shape="rect" id="node26" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="1715,259,1858,300"/>
-<area shape="rect" id="node20" href="$d5/de8/drivers_2vmount_2common_8h.html" title="common.h" alt="" coords="1636,348,1719,375"/>
-<area shape="rect" id="node22" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="1882,259,2025,300"/>
-<area shape="rect" id="node29" href="$d8/d30/output_8h.html" title="output.h" alt="" coords="1267,184,1336,211"/>
-<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="934,266,1050,293"/>
-<area shape="rect" id="node34" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1131,348,1248,375"/>
-<area shape="rect" id="node35" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="1227,259,1370,300"/>
-<area shape="rect" id="node31" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="574,348,661,375"/>
-<area shape="rect" id="node41" href="$de/d37/px4__macros_8h.html" title="A set of useful macros for enhanced runtime and compile time error detection and warning suppression..." alt="" coords="211,184,375,211"/>
+<map id="src/modules/vmount/vmount.cpp" name="src/modules/vmount/vmount.cpp">
+<area shape="rect" id="node10" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="1939,452,2047,479"/>
+<area shape="rect" id="node14" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1122,452,1277,479"/>
+<area shape="rect" id="node18" href="$d2/db2/input__mavlink_8h.html" title="input_mavlink.h" alt="" coords="461,191,575,218"/>
+<area shape="rect" id="node21" href="$d4/d1b/src_2modules_2vmount_2input__rc_8h.html" title="input_rc.h" alt="" coords="312,281,391,307"/>
+<area shape="rect" id="node27" href="$db/dbd/input__test_8h.html" title="input_test.h" alt="" coords="215,191,306,218"/>
+<area shape="rect" id="node28" href="$d1/d5e/output__rc_8h.html" title="output_rc.h" alt="" coords="671,191,757,218"/>
+<area shape="rect" id="node35" href="$db/da3/output__mavlink_8h.html" title="output_mavlink.h" alt="" coords="977,191,1099,218"/>
+<area shape="rect" id="node37" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="1567,102,1725,129"/>
+<area shape="rect" id="node49" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="787,184,945,225"/>
+<area shape="rect" id="node19" href="$de/ded/input_8h.html" title="input.h" alt="" coords="143,370,205,397"/>
+<area shape="rect" id="node25" href="$d7/d94/vehicle__command_8h.html" title="uORB/topics/vehicle\l_command.h" alt="" coords="869,273,1012,315"/>
+<area shape="rect" id="node26" href="$da/d5c/vehicle__roi_8h.html" title="uORB/topics/vehicle\l_roi.h" alt="" coords="396,363,539,404"/>
+<area shape="rect" id="node20" href="$d1/dd3/modules_2vmount_2common_8h.html" title="common.h" alt="" coords="774,452,857,479"/>
+<area shape="rect" id="node22" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="229,363,372,404"/>
+<area shape="rect" id="node23" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="918,452,1027,479"/>
+<area shape="rect" id="node29" href="$d8/d30/output_8h.html" title="output.h" alt="" coords="694,281,763,307"/>
+<area shape="rect" id="node30" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1519,452,1635,479"/>
+<area shape="rect" id="node33" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="633,452,750,479"/>
+<area shape="rect" id="node34" href="$d6/d55/vehicle__global__position_8h.html" title="uORB/topics/vehicle\l_global_position.h" alt="" coords="767,363,909,404"/>
+<area shape="rect" id="node36" href="$de/d61/_publication_queued_8hpp.html" title="uORB/PublicationQueued.hpp" alt="" coords="1088,281,1284,307"/>
+<area shape="rect" id="node38" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="uORBDeviceNode.hpp" alt="" coords="2006,191,2161,218"/>
+<area shape="rect" id="node45" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="uORBManager.hpp" alt="" coords="1587,191,1721,218"/>
+<area shape="rect" id="node48" href="$d9/d38/u_o_r_b_utils_8hpp.html" title="uORBUtils.hpp" alt="" coords="1761,191,1872,218"/>
+<area shape="rect" id="node39" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="1727,370,1863,397"/>
+<area shape="rect" id="node40" href="$d5/d10/u_o_r_b_device_master_8hpp.html" title="uORBDeviceMaster.hpp" alt="" coords="1909,281,2073,307"/>
+<area shape="rect" id="node41" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="2123,370,2255,397"/>
+<area shape="rect" id="node42" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="2327,281,2458,307"/>
 </map>

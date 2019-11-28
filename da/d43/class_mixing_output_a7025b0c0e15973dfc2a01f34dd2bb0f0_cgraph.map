@@ -1,0 +1,39 @@
+<map id="MixingOutput::handleCommands" name="MixingOutput::handleCommands">
+<area shape="rect" id="node2" href="$da/d43/class_mixing_output.html#a0a87c51bcfefeccb877f19019cece342" title="MixingOutput::loadMixer" alt="" coords="268,817,431,844"/>
+<area shape="rect" id="node38" href="$da/d43/class_mixing_output.html#a17e395114a93f1044e557048ba6e68ac" title="MixingOutput::resetMixer" alt="" coords="265,872,433,899"/>
+<area shape="rect" id="node3" href="$d9/dbb/class_mixer_group.html#a5f745eabec06661908cbbfa7c656d0a6" title="Adds mixers to the group based on a text description in a buffer. " alt="" coords="491,356,669,383"/>
+<area shape="rect" id="node25" href="$da/d43/class_mixing_output.html#a6a4ebb6d5ac66ccf389219ab5a4882d7" title="MixingOutput::controlCallback" alt="" coords="481,792,679,819"/>
+<area shape="rect" id="node27" href="$d9/dbb/class_mixer_group.html#a95370b24c6d70c644d2abd2bebc360cb" title="MixerGroup::groups\l_required" alt="" coords="512,174,648,215"/>
+<area shape="rect" id="node29" href="$da/d43/class_mixing_output.html#aff811ccfd13179bb09780593f1be94a4" title="MixingOutput::updateParams" alt="" coords="485,843,675,869"/>
+<area shape="rect" id="node37" href="$de/dfa/class_output_module_interface.html#ad809de8b69bcfe428bc017fb6254faf4" title="called whenever the mixer gets updated/reset " alt="" coords="503,894,657,935"/>
+<area shape="rect" id="node4" href="$d9/dbb/class_mixer_group.html#ae68ac6b84a9213ca7c984d935d90d33b" title="Add a mixer to the group. " alt="" coords="743,232,901,259"/>
+<area shape="rect" id="node5" href="$d8/d40/class_null_mixer.html#a898d2500fcf86c626c17c9080497eb65" title="Factory method. " alt="" coords="752,181,892,208"/>
+<area shape="rect" id="node11" href="$d3/d18/class_helicopter_mixer.html#aa74c76554b6aecf5e5f5498472764f1f" title="Factory method. " alt="" coords="734,283,910,309"/>
+<area shape="rect" id="node15" href="$d3/dc4/class_simple_mixer.html#a4db178ad15ab4ff1815f92fccb472bb3" title="Factory method with full external configuration. " alt="" coords="743,413,901,440"/>
+<area shape="rect" id="node20" href="$d5/dd1/class_multirotor_mixer.html#a16fb4d4340fa2eda5a361b5b9bf9666b" title="Factory method. " alt="" coords="737,624,907,651"/>
+<area shape="rect" id="node6" href="$de/d2d/class_mixer.html#ae496f246c8434d0c6d3fcff164e81640" title="Check wether the string is well formed and suitable for parsing. " alt="" coords="993,275,1117,317"/>
+<area shape="rect" id="node7" href="$d8/d40/class_null_mixer.html#a54bdcbfea2e55f5c43a5211e52fb9da2" title="NullMixer::NullMixer" alt="" coords="985,56,1125,83"/>
+<area shape="rect" id="node8" href="$d8/d40/class_null_mixer.html#ad2b1b06a394143bbbe0446e9b8e6b0bf" title="NullMixer::~NullMixer" alt="" coords="1193,56,1341,83"/>
+<area shape="rect" id="node9" href="$d8/d40/class_null_mixer.html#ada87b5d36990f434d40d4df783f69a67" title="NullMixer::operator=" alt="" coords="1197,107,1337,133"/>
+<area shape="rect" id="node10" href="$d8/d40/class_null_mixer.html#a5bcd6ddb3e11d29e328858ad898175b9" title="Perform the mixing function. " alt="" coords="1214,5,1321,32"/>
+<area shape="rect" id="node12" href="$de/d2d/class_mixer.html#a6cf503fd87b4ffe395978376cfd0f3e4" title="Find a tag. " alt="" coords="1217,348,1318,375"/>
+<area shape="rect" id="node13" href="$d3/d18/class_helicopter_mixer.html#a29ae987fad0abc3a34095e76fc7c6ef9" title="Constructor. " alt="" coords="965,158,1145,199"/>
+<area shape="rect" id="node14" href="$de/d2d/class_mixer.html#a2f8fa80f069727fcb9a1abb25e007470" title="Skip a line. " alt="" coords="1214,413,1321,440"/>
+<area shape="rect" id="node16" href="$de/d2d/class_mixer.html#af7700fca6686a37e9b84b8028843010a" title="Find next tag and return it (0 is returned if no tag is found) " alt="" coords="992,472,1119,499"/>
+<area shape="rect" id="node17" href="$d3/dc4/class_simple_mixer.html#a3748661dfe004123e411d995c673f4fc" title="SimpleMixer::parse\l_output_scaler" alt="" coords="988,406,1123,447"/>
+<area shape="rect" id="node18" href="$d3/dc4/class_simple_mixer.html#a8a8f623c91b686cedb8ceeb77b09f491" title="SimpleMixer::parse\l_control_scaler" alt="" coords="988,341,1123,382"/>
+<area shape="rect" id="node19" href="$d3/dc4/class_simple_mixer.html#a0b0ce6973b9dc3c2dea6ee924a480715" title="Constructor. " alt="" coords="968,523,1143,549"/>
+<area shape="rect" id="node21" href="$d5/dd1/class_multirotor_mixer.html#a08611626d8940bdf3b5c1a623b96d408" title="Constructor. " alt="" coords="970,675,1141,717"/>
+<area shape="rect" id="node22" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1248,817,1287,844"/>
+<area shape="rect" id="node23" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1389,817,1472,844"/>
+<area shape="rect" id="node24" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1520,817,1607,844"/>
+<area shape="rect" id="node26" href="$da/d43/class_mixing_output.html#a90feca57ebfa1a6a2f3ae323e900995c" title="MixingOutput::armNoThrottle" alt="" coords="727,741,917,768"/>
+<area shape="rect" id="node28" href="$d5/dd1/class_multirotor_mixer.html#a2eefd0c3d4a7538596809cf7f7df6732" title="Analyses the mix configuration and updates a bitmask of groups that are required. ..." alt="" coords="745,115,899,157"/>
+<area shape="rect" id="node30" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="749,894,895,935"/>
+<area shape="rect" id="node32" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to motor control signal output..." alt="" coords="745,1021,899,1062"/>
+<area shape="rect" id="node35" href="$d9/dbb/class_mixer_group.html#a7b494ee1ca8c3b215a5be0ffec0328ab" title="MixerGroup::set_airmode" alt="" coords="738,963,906,989"/>
+<area shape="rect" id="node31" href="$d5/dd1/class_multirotor_mixer.html#a133f0cc74143214984787b48891eb415" title="Update slew rate parameter. " alt="" coords="981,894,1130,935"/>
+<area shape="rect" id="node33" href="$d5/dd1/class_multirotor_mixer.html#a777bd71eb9a403954db5b8d2d47d2eee" title="Sets the thrust factor used to calculate mapping from desired thrust to motor control signal output..." alt="" coords="988,1025,1123,1066"/>
+<area shape="rect" id="node34" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="1211,1032,1323,1059"/>
+<area shape="rect" id="node36" href="$d5/dd1/class_multirotor_mixer.html#a1283227e5bec15d91fb4d50147560dae" title="Set airmode. " alt="" coords="988,959,1123,1001"/>
+</map>

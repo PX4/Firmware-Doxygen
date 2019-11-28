@@ -1,25 +1,13 @@
 <map id="src/modules/muorb/krait/muorb_main.cpp" name="src/modules/muorb/krait/muorb_main.cpp">
-<area shape="rect" id="node3" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="modules/uORB/uORBManager.hpp" alt="" coords="507,95,733,121"/>
-<area shape="rect" id="node44" href="$dd/d27/u_o_r_b_krait_fast_rpc_channel_8hpp.html" title="uORBKraitFastRpcChannel.hpp" alt="" coords="291,169,499,196"/>
-<area shape="rect" id="node4" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="1296,244,1432,271"/>
-<area shape="rect" id="node40" href="$df/df3/u_o_r_b_devices_8hpp.html" title="uORBDevices.hpp" alt="" coords="688,169,819,196"/>
-<area shape="rect" id="node5" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="982,319,1138,345"/>
-<area shape="rect" id="node27" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1132,617,1236,644"/>
-<area shape="rect" id="node32" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2077,692,2185,719"/>
-<area shape="rect" id="node35" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1833,617,1903,644"/>
-<area shape="rect" id="node36" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1645,543,1761,569"/>
-<area shape="rect" id="node6" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="897,468,985,495"/>
-<area shape="rect" id="node29" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="1019,393,1101,420"/>
-<area shape="rect" id="node7" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="1093,543,1189,569"/>
-<area shape="rect" id="node8" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="977,543,1069,569"/>
-<area shape="rect" id="node24" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="615,543,753,569"/>
-<area shape="rect" id="node9" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="1437,692,1539,719"/>
-<area shape="rect" id="node16" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="1343,617,1436,644"/>
-<area shape="rect" id="node22" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="929,617,1015,644"/>
-<area shape="rect" id="node10" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="1871,767,1950,793"/>
-<area shape="rect" id="node26" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="635,617,733,644"/>
-<area shape="rect" id="node30" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="1111,468,1275,495"/>
-<area shape="rect" id="node37" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1927,617,2014,644"/>
-<area shape="rect" id="node46" href="$d3/ddd/u_o_r_b_communicator_8hpp.html" title="uORB/uORBCommunicator.hpp" alt="" coords="291,319,499,345"/>
-<area shape="rect" id="node47" href="$d0/dbd/px4muorb___krait_rpc_wrapper_8hpp.html" title="px4muorb_KraitRpcWrapper.hpp" alt="" coords="5,393,216,420"/>
+<area shape="rect" id="node3" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="modules/uORB/uORBManager.hpp" alt="" coords="867,95,1093,121"/>
+<area shape="rect" id="node26" href="$dd/d27/u_o_r_b_krait_fast_rpc_channel_8hpp.html" title="uORBKraitFastRpcChannel.hpp" alt="" coords="1220,251,1428,278"/>
+<area shape="rect" id="node4" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="761,251,897,278"/>
+<area shape="rect" id="node21" href="$d5/d10/u_o_r_b_device_master_8hpp.html" title="uORBDeviceMaster.hpp" alt="" coords="539,169,703,196"/>
+<area shape="rect" id="node5" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="620,333,767,360"/>
+<area shape="rect" id="node10" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="341,333,449,360"/>
+<area shape="rect" id="node15" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="932,333,1001,360"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="791,333,907,360"/>
+<area shape="rect" id="node23" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="310,251,442,278"/>
+<area shape="rect" id="node28" href="$d3/ddd/u_o_r_b_communicator_8hpp.html" title="uORB/uORBCommunicator.hpp" alt="" coords="1257,333,1465,360"/>
+<area shape="rect" id="node29" href="$d0/dbd/px4muorb___krait_rpc_wrapper_8hpp.html" title="px4muorb_KraitRpcWrapper.hpp" alt="" coords="1560,333,1771,360"/>
 </map>

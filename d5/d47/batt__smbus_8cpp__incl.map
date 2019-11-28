@@ -1,24 +1,18 @@
 <map id="src/drivers/batt_smbus/batt_smbus.cpp" name="src/drivers/batt_smbus/batt_smbus.cpp">
-<area shape="rect" id="node2" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="231,632,334,659"/>
-<area shape="rect" id="node9" href="$d0/d08/batt__smbus_8h.html" title="Header for a battery monitor connected via SMBus (I2C). " alt="" coords="992,95,1093,121"/>
-<area shape="rect" id="node3" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="362,707,440,733"/>
-<area shape="rect" id="node10" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="918,483,1014,509"/>
-<area shape="rect" id="node11" href="$d8/dc7/px4__workqueue_8h.html" title="px4_workqueue.h" alt="" coords="1322,169,1446,196"/>
-<area shape="rect" id="node13" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="980,557,1080,584"/>
-<area shape="rect" id="node15" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="795,333,962,360"/>
-<area shape="rect" id="node16" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="601,408,689,435"/>
-<area shape="rect" id="node25" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="326,483,465,509"/>
-<area shape="rect" id="node32" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="584,169,719,196"/>
-<area shape="rect" id="node36" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="1470,483,1586,509"/>
-<area shape="rect" id="node40" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="1105,244,1246,285"/>
-<area shape="rect" id="node17" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="680,483,772,509"/>
-<area shape="rect" id="node30" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="764,408,928,435"/>
-<area shape="rect" id="node18" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="1105,557,1198,584"/>
-<area shape="rect" id="node23" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="778,557,864,584"/>
-<area shape="rect" id="node27" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="44,557,142,584"/>
-<area shape="rect" id="node28" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="388,557,492,584"/>
-<area shape="rect" id="node33" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="616,251,719,278"/>
-<area shape="rect" id="node34" href="$dd/d8a/px4__i2c_8h.html" title="Includes device headers depending on the build target. " alt="" coords="628,333,707,360"/>
-<area shape="rect" id="node37" href="$d3/d2d/px4__time_8h.html" title="px4_time.h" alt="" coords="1602,557,1688,584"/>
-<area shape="rect" id="node41" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1273,557,1382,584"/>
+<area shape="rect" id="node2" href="$d0/d08/batt__smbus_8h.html" title="Header for a battery monitor connected via SMBus (I2C). " alt="" coords="932,95,1033,121"/>
+<area shape="rect" id="node33" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="1125,691,1280,717"/>
+<area shape="rect" id="node3" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="1002,691,1102,717"/>
+<area shape="rect" id="node6" href="$d6/d7e/_s_m_bus_8hpp.html" title="SMBus v2.0 protocol implementation. " alt="" coords="402,184,595,211"/>
+<area shape="rect" id="node27" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="713,691,844,717"/>
+<area shape="rect" id="node31" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="1079,273,1220,315"/>
+<area shape="rect" id="node7" href="$d5/daf/i2c_8h.html" title="Base class for devices connected via I2C. " alt="" coords="429,281,563,307"/>
+<area shape="rect" id="node8" href="$da/da0/posix_2_i2_c_8hpp.html" title="posix/I2C.hpp" alt="" coords="445,363,547,389"/>
+<area shape="rect" id="node9" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="../CDev.hpp" alt="" coords="316,445,409,471"/>
+<area shape="rect" id="node10" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="253,527,341,553"/>
+<area shape="rect" id="node20" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="416,527,547,553"/>
+<area shape="rect" id="node13" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="5,609,144,635"/>
+<area shape="rect" id="node15" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="99,691,197,717"/>
+<area shape="rect" id="node17" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="221,691,325,717"/>
+<area shape="rect" id="node21" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="526,609,690,635"/>
+<area shape="rect" id="node32" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="868,691,977,717"/>
 </map>

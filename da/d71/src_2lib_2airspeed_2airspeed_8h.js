@@ -9,9 +9,11 @@ var src_2lib_2airspeed_2airspeed_8h =
       [ "AIRSPEED_SENSOR_MODEL_MEMBRANE", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a2f87d95247918074c1b7ef67264157c2a0c1b2d4feba12b892c43dda11fb07560", null ],
       [ "AIRSPEED_SENSOR_MODEL_SDP3X", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a2f87d95247918074c1b7ef67264157c2ad146c689db310cba458d61fcc176258c", null ]
     ] ],
-    [ "calc_indicated_airspeed", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#ac46b31b4a3f93e4afd3e2f0147049d24", null ],
-    [ "calc_indicated_airspeed_corrected", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a548fb9ca88aeea8bab9f589e39d31a0c", null ],
-    [ "calc_true_airspeed", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a9b19ad2e4c750138f1017e6715771aa6", null ],
-    [ "calc_true_airspeed_from_indicated", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#ad24725a391e0c4376e9f2d8df8b15282", null ],
+    [ "calc_EAS_from_IAS", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#ac5853b5a49603fea9c64b08dd16864d8", null ],
+    [ "calc_EAS_from_TAS", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a632efadf20b691dc6dec7ca619a3002a", null ],
+    [ "calc_IAS", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#aad098393113f7a4a855904eb6bc45f6e", null ],
+    [ "calc_IAS_corrected", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a7b3f24e1b033afbd180a65ece8fbf524", null ],
+    [ "calc_TAS", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a3df0b5aaa7feff5d3ad918717d5369e1", null ],
+    [ "calc_TAS_from_EAS", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#aad82f81abb1023dd730b03e6478ac75f", null ],
     [ "get_air_density", "da/d71/src_2lib_2airspeed_2airspeed_8h.html#a999e2f9b0fdf904e0047736a5556db50", null ]
 ];

@@ -1,25 +1,22 @@
 <map id="control::BlockLowPass::getState" name="control::BlockLowPass::getState">
-<area shape="rect" id="node2" href="$dd/d7b/namespacecontrol.html#ac1675123a66a1bea5a6781d288b01d6e" title="control::blockLowPassTest" alt="" coords="451,132,631,159"/>
-<area shape="rect" id="node7" href="$d9/de9/controllib__test__main_8cpp.html#ac1675123a66a1bea5a6781d288b01d6e" title="blockLowPassTest" alt="" coords="475,361,608,388"/>
-<area shape="rect" id="node8" href="$d5/d01/class_block_local_position_estimator.html#af961bc48276d6b8e8ef5751070b1fb6b" title="BlockLocalPositionEstimator\l::publishLocalPos" alt="" coords="209,434,399,475"/>
-<area shape="rect" id="node11" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a1c8b0f01f7883e2fb68984271a1e49d5" title="control::BlockLowPass\l::update" alt="" coords="226,295,382,337"/>
-<area shape="rect" id="node3" href="$dd/d7b/namespacecontrol.html#a213586553ff1fb69f41627504f7e7309" title="control::basicBlocksTest" alt="" coords="950,48,1117,75"/>
-<area shape="rect" id="node6" href="$d9/de9/controllib__test__main_8cpp.html#a213586553ff1fb69f41627504f7e7309" title="basicBlocksTest" alt="" coords="974,124,1093,151"/>
-<area shape="rect" id="node4" href="$d5/d69/tests__main_8h.html#a6d80dfe13b380ca974674e83117d03a9" title="controllib_test_main" alt="" coords="1211,48,1350,75"/>
-<area shape="rect" id="node5" href="$d9/de9/controllib__test__main_8cpp.html#aa61b9540192392bfe67a791ff3c65e05" title="blockDelayTest" alt="" coords="1447,48,1560,75"/>
-<area shape="rect" id="node9" href="$d5/d01/class_block_local_position_estimator.html#ad15c4f6a9868f57abfc5b78f4e2165d9" title="BlockLocalPositionEstimator\l::update" alt="" coords="684,455,873,497"/>
-<area shape="rect" id="node10" href="$dc/d09/class_local_position_estimator_module.html#a6e620e76d8f8c8d6a87fe2246c30bde9" title="LocalPositionEstimatorModule::run" alt="" coords="921,463,1145,489"/>
-<area shape="rect" id="node12" href="$d4/d23/classcontrol_1_1_block_derivative.html#ab84cde3d35e011eef7f6eec0dc623174" title="Update the state and get current derivative. " alt="" coords="461,230,622,271"/>
-<area shape="rect" id="node24" href="$d5/d01/class_block_local_position_estimator.html#ad571659898a5b86267f098d2f1e8183d" title="BlockLocalPositionEstimator\l::predict" alt="" coords="447,295,636,337"/>
-<area shape="rect" id="node13" href="$dd/d7b/namespacecontrol.html#a2767c4d0fe673354db2954c831c64970" title="control::blockDerivativeTest" alt="" coords="686,136,871,163"/>
-<area shape="rect" id="node14" href="$d9/de9/controllib__test__main_8cpp.html#a2767c4d0fe673354db2954c831c64970" title="blockDerivativeTest" alt="" coords="709,187,848,213"/>
-<area shape="rect" id="node15" href="$dd/d7b/namespacecontrol.html#ab7d854377ec051b372ad6b1639dcd26b" title="control::blockPDTest" alt="" coords="706,339,851,365"/>
-<area shape="rect" id="node16" href="$d9/de9/controllib__test__main_8cpp.html#ab7d854377ec051b372ad6b1639dcd26b" title="blockPDTest" alt="" coords="729,237,828,264"/>
-<area shape="rect" id="node17" href="$d9/de9/controllib__test__main_8cpp.html#ad9c6cef485ad53d7676095006ee03e15" title="blockPIDTest" alt="" coords="727,288,830,315"/>
-<area shape="rect" id="node18" href="$dd/d7b/namespacecontrol.html#ad9c6cef485ad53d7676095006ee03e15" title="control::blockPIDTest" alt="" coords="704,35,853,61"/>
-<area shape="rect" id="node19" href="$dd/d4e/class_multicopter_position_control.html#a671e6cadddd89a4d31a12cc378f251e4" title="Check for validity of positon/velocity states. " alt="" coords="691,390,866,431"/>
-<area shape="rect" id="node20" href="$dd/d4e/class_multicopter_position_control.html#a80765880029027fea4cbfbcd8d351e75" title="Main sensor collection task. " alt="" coords="946,390,1121,431"/>
-<area shape="rect" id="node21" href="$dd/d4e/class_multicopter_position_control.html#a13fd2690dfd7020b492665a2112ea79a" title="Shim for calling task_main from task_create. " alt="" coords="1193,390,1368,431"/>
-<area shape="rect" id="node22" href="$dd/d4e/class_multicopter_position_control.html#a88e3626ffe7511b0d13ea49b15eb5ef9" title="Start task. " alt="" coords="1416,390,1591,431"/>
-<area shape="rect" id="node23" href="$dd/d8c/mc__pos__control__main_8cpp.html#a7884ebd670051753c0536cd46034cca8" title="Multicopter position control app start / stop handling function. " alt="" coords="1639,397,1788,424"/>
+<area shape="rect" id="node2" href="$dd/d7b/namespacecontrol.html#ac1675123a66a1bea5a6781d288b01d6e" title="control::blockLowPassTest" alt="" coords="451,94,631,121"/>
+<area shape="rect" id="node7" href="$d9/de9/controllib__test__main_8cpp.html#ac1675123a66a1bea5a6781d288b01d6e" title="blockLowPassTest" alt="" coords="475,342,608,369"/>
+<area shape="rect" id="node8" href="$d5/d01/class_block_local_position_estimator.html#af961bc48276d6b8e8ef5751070b1fb6b" title="BlockLocalPositionEstimator\l::publishLocalPos" alt="" coords="209,387,399,428"/>
+<area shape="rect" id="node10" href="$d5/d01/class_block_local_position_estimator.html#a612a57d3429f11a54691a2bc85f0dd31" title="BlockLocalPositionEstimator\l::publishOdom" alt="" coords="209,452,399,493"/>
+<area shape="rect" id="node11" href="$d6/d0c/classcontrol_1_1_block_low_pass.html#a1c8b0f01f7883e2fb68984271a1e49d5" title="control::BlockLowPass\l::update" alt="" coords="226,269,382,311"/>
+<area shape="rect" id="node3" href="$dd/d7b/namespacecontrol.html#a213586553ff1fb69f41627504f7e7309" title="control::basicBlocksTest" alt="" coords="973,79,1140,106"/>
+<area shape="rect" id="node6" href="$d9/de9/controllib__test__main_8cpp.html#a213586553ff1fb69f41627504f7e7309" title="basicBlocksTest" alt="" coords="997,130,1116,157"/>
+<area shape="rect" id="node4" href="$d5/d69/tests__main_8h.html#a6d80dfe13b380ca974674e83117d03a9" title="controllib_test_main" alt="" coords="1208,79,1347,106"/>
+<area shape="rect" id="node5" href="$d9/de9/controllib__test__main_8cpp.html#aa61b9540192392bfe67a791ff3c65e05" title="blockDelayTest" alt="" coords="1395,79,1508,106"/>
+<area shape="rect" id="node9" href="$d5/d01/class_block_local_position_estimator.html#a34216107cee0bbde413b794a4c76da59" title="BlockLocalPositionEstimator::Run" alt="" coords="684,450,905,477"/>
+<area shape="rect" id="node12" href="$d4/d23/classcontrol_1_1_block_derivative.html#ab84cde3d35e011eef7f6eec0dc623174" title="Update the state and get current derivative. " alt="" coords="461,211,622,252"/>
+<area shape="rect" id="node21" href="$d5/d01/class_block_local_position_estimator.html#ac303a1b83515c6faf9e6b53f647525f4" title="BlockLocalPositionEstimator\l::predict" alt="" coords="447,276,636,317"/>
+<area shape="rect" id="node13" href="$dd/d7b/namespacecontrol.html#a2767c4d0fe673354db2954c831c64970" title="control::blockDerivativeTest" alt="" coords="702,130,887,157"/>
+<area shape="rect" id="node14" href="$d9/de9/controllib__test__main_8cpp.html#a2767c4d0fe673354db2954c831c64970" title="blockDerivativeTest" alt="" coords="725,231,864,258"/>
+<area shape="rect" id="node15" href="$dd/d7b/namespacecontrol.html#ab7d854377ec051b372ad6b1639dcd26b" title="control::blockPDTest" alt="" coords="722,79,867,106"/>
+<area shape="rect" id="node16" href="$d9/de9/controllib__test__main_8cpp.html#ab7d854377ec051b372ad6b1639dcd26b" title="blockPDTest" alt="" coords="745,349,844,375"/>
+<area shape="rect" id="node17" href="$d9/de9/controllib__test__main_8cpp.html#ad9c6cef485ad53d7676095006ee03e15" title="blockPIDTest" alt="" coords="743,399,846,426"/>
+<area shape="rect" id="node18" href="$dd/d7b/namespacecontrol.html#ad9c6cef485ad53d7676095006ee03e15" title="control::blockPIDTest" alt="" coords="720,181,869,207"/>
+<area shape="rect" id="node19" href="$dd/d4e/class_multicopter_position_control.html#a671e6cadddd89a4d31a12cc378f251e4" title="Check for validity of positon/velocity states. " alt="" coords="707,283,882,324"/>
+<area shape="rect" id="node20" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="953,290,1160,317"/>
 </map>

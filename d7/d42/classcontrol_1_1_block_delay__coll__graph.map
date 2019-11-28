@@ -1,9 +1,7 @@
 <map id="control::BlockDelay&lt; Type, M, N, LEN &gt;" name="control::BlockDelay&lt; Type, M, N, LEN &gt;">
-<area shape="rect" id="node2" href="$da/d87/classcontrol_1_1_block.html" title="{control::Block\n|# _name\l# _dt\l|+ Block()\l+ ~Block()\l+ Block()\l+ operator=()\l+ Block()\l+ operator=()\land 6 more...\l# updateParamsSubclass()\l# getParent()\l# getSubscriptions()\l# getPublications()\l# getParams()\l}" alt="" coords="242,160,421,413"/>
-<area shape="rect" id="node3" href="$df/db4/class_list_node.html" title="{ListNode\&lt; Block * \&gt;\n||+ ListNode()\l+ ListNode()\l+ ListNode()\l+ ~ListNode()\l+ operator=()\l+ operator=()\l+ setSibling()\l+ getSibling()\l}" alt="" coords="291,498,431,678"/>
-<area shape="rect" id="node5" href="$d6/dbf/classcontrol_1_1_super_block.html" title="{control::SuperBlock\n||+ SuperBlock()\l+ ~SuperBlock()\l+ SuperBlock()\l+ operator=()\l+ SuperBlock()\l+ operator=()\land 4 more...\l# getChildren()\l# updateChildParams()\l# updateChildSubscriptions()\l# updateChildPublications()\l}" alt="" coords="77,476,266,700"/>
-<area shape="rect" id="node4" href="$d1/d34/class_list.html" title="{List\&lt; uORB::PublicationNode * \&gt;\n||}" alt="" coords="5,13,220,90"/>
-<area shape="rect" id="node6" href="$d1/d34/class_list.html" title="{List\&lt; control::Block * \&gt;\n||}" alt="" coords="40,248,196,325"/>
-<area shape="rect" id="node7" href="$d1/d34/class_list.html" title="{List\&lt; control::BlockParam\lBase * \&gt;\n||}" alt="" coords="245,5,418,97"/>
-<area shape="rect" id="node8" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lNode * \&gt;\n||}" alt="" coords="442,5,613,97"/>
+<area shape="rect" id="node2" href="$da/d87/classcontrol_1_1_block.html" title="{control::Block\n|# _name\l# _dt\l|+ Block()\l+ ~Block()\l+ Block()\l+ operator=()\l+ Block()\l+ operator=()\land 4 more...\l# updateParamsSubclass()\l# getParent()\l# getParams()\l}" alt="" coords="205,160,384,384"/>
+<area shape="rect" id="node3" href="$df/db4/class_list_node.html" title="{ListNode\&lt; Block *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="248,505,384,597"/>
+<area shape="rect" id="node5" href="$d6/dbf/classcontrol_1_1_super_block.html" title="{control::SuperBlock\n||+ SuperBlock()\l+ ~SuperBlock()\l+ SuperBlock()\l+ operator=()\l+ SuperBlock()\l+ operator=()\l+ setDt()\l+ updateParams()\l# getChildren()\l# updateChildParams()\l}" alt="" coords="69,447,224,656"/>
+<area shape="rect" id="node4" href="$d1/d34/class_list.html" title="{List\&lt; control::BlockParam\lBase *\&gt;\n||}" alt="" coords="208,5,381,97"/>
+<area shape="rect" id="node6" href="$d1/d34/class_list.html" title="{List\&lt; control::Block *\&gt;\n||}" alt="" coords="5,233,157,311"/>
 </map>

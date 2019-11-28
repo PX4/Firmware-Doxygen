@@ -1,0 +1,45 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$df/d55/test__data__validator__group_8cpp.html#a500f3e6675ddc2ae311f22f90e919653" title="test_init" alt="" coords="337,1188,405,1215"/>
+<area shape="rect" id="node28" href="$df/d55/test__data__validator__group_8cpp.html#a4310f6f17170e972bc771f5989d774e6" title="Verify that the DataValidatorGroup will select the sensor with the latest higher priority as &quot;best&quot;..." alt="" coords="106,1138,241,1164"/>
+<area shape="rect" id="node37" href="$df/d55/test__data__validator__group_8cpp.html#a932e91024ed7fac76356fbc1e76030b7" title="Happy path test of put method – ensure the &quot;best&quot; sensor selected is the one with highest priority..." alt="" coords="139,1290,208,1316"/>
+<area shape="rect" id="node38" href="$df/d55/test__data__validator__group_8cpp.html#aa80cdcfaa86958409467a0d87eace16f" title="Force once sensor to fail and ensure that we detect it. " alt="" coords="305,932,437,959"/>
+<area shape="rect" id="node40" href="$df/d55/test__data__validator__group_8cpp.html#a9ac28a32da3c8341c9d261039a5179fa" title="Verify that the DataGroupValidator will prefer a sensor with no errors over a sensor with high errors..." alt="" coords="104,1530,243,1556"/>
+<area shape="rect" id="node42" href="$df/d55/test__data__validator__group_8cpp.html#ac861720d204e73704d37bc840420dc9b" title="Verify that we get expected vibration values after injecting samples. " alt="" coords="321,228,421,255"/>
+<area shape="rect" id="node3" href="$df/d55/test__data__validator__group_8cpp.html#aabb863c5344bae69a66064011b31906a" title="Initialize a DataValidatorGroup with some common settings;. " alt="" coords="527,932,655,959"/>
+<area shape="rect" id="node25" href="$d3/d4d/class_data_validator_group.html#a4d9ec49141c2d4515ad7744bc3fbea70" title="Get the best data triplet of the group. " alt="" coords="523,1388,659,1429"/>
+<area shape="rect" id="node4" href="$d3/d4d/class_data_validator_group.html#aed6a6065255edb6da38dd390e5b99e3e" title="Print the validator value. " alt="" coords="947,1072,1083,1113"/>
+<area shape="rect" id="node10" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1589,194,1628,220"/>
+<area shape="rect" id="node14" href="$d3/d4d/class_data_validator_group.html#a4a63d5fe1e8b1e017734212c7f21bb1c" title="Get the number of failover events. " alt="" coords="735,1072,871,1113"/>
+<area shape="rect" id="node15" href="$d3/d4d/class_data_validator_group.html#ab233d26fcba266eea07b1faacb4eb40f" title="Get the index of the failed sensor in the group. " alt="" coords="947,1189,1083,1230"/>
+<area shape="rect" id="node16" href="$d3/d4d/class_data_validator_group.html#a40954f86393eaebe9b35cb139bff3722" title="Get the error state of the failed sensor in the group. " alt="" coords="947,1254,1083,1296"/>
+<area shape="rect" id="node17" href="$d3/d4d/class_data_validator_group.html#a42cebf39950fc1d6c0eb4dd61a69f592" title="Set the timeout value for the whole group. " alt="" coords="947,889,1083,930"/>
+<area shape="rect" id="node19" href="$d3/d4d/class_data_validator_group.html#a323ad7e81d442a228c7e56cb48d8d4e6" title="Set the equal count threshold for the whole group. " alt="" coords="923,954,1107,996"/>
+<area shape="rect" id="node21" href="$d3/d4d/class_data_validator_group.html#a149799e390cc3deda9bb856cf061756b" title="Get the vibration offset in the sensor unit. " alt="" coords="731,305,875,346"/>
+<area shape="rect" id="node23" href="$d3/d4d/class_data_validator_group.html#a8028e0e8b57544a05d6677191b1f9e6f" title="Get the RMS / vibration factor. " alt="" coords="731,482,875,524"/>
+<area shape="rect" id="node5" href="$d5/d70/class_data_validator.html#ad258bfc5abd113d5f5ab7d7aca9578fe" title="Get the used status of this validator. " alt="" coords="1169,1179,1307,1206"/>
+<area shape="rect" id="node6" href="$d5/d70/class_data_validator.html#a1ecc639bf3cdac8706705bf8b0fcb351" title="Get the error state of this validator. " alt="" coords="1169,1280,1307,1307"/>
+<area shape="rect" id="node7" href="$d5/d70/class_data_validator.html#a07140caca7f2df669ba4458f7c88000f" title="Get the priority of this validator. " alt="" coords="1164,1230,1312,1256"/>
+<area shape="rect" id="node8" href="$d5/d70/class_data_validator.html#a4dd46bdc5fcb37b88fb77adc13e50971" title="Print the validator value. " alt="" coords="1171,564,1305,591"/>
+<area shape="rect" id="node13" href="$d5/d70/class_data_validator.html#a82fe9bb4260cfb4ee1d43982693431a2" title="Get the next sibling in the group. " alt="" coords="1165,1020,1311,1047"/>
+<area shape="rect" id="node9" href="$d5/d70/class_data_validator.html#a672ea71241439cb19d613ed9eb4d2b32" title="Get the confidence of this validator. " alt="" coords="1369,463,1541,490"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1676,194,1759,220"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1807,194,1893,220"/>
+<area shape="rect" id="node18" href="$d5/d70/class_data_validator.html#a821a6f90f44be11be21a5afb1c69c1c1" title="Set the timeout value. " alt="" coords="1175,616,1301,657"/>
+<area shape="rect" id="node20" href="$d5/d70/class_data_validator.html#a4dcd9549ed499f1f761ae25c7dc52bff" title="Set the equal count threshold. " alt="" coords="1159,721,1317,762"/>
+<area shape="rect" id="node22" href="$d5/d70/class_data_validator.html#a57a9a70f43c3c79dc632d030b6ae5668" title="Get the vibration offset. " alt="" coords="935,296,1094,337"/>
+<area shape="rect" id="node24" href="$d5/d70/class_data_validator.html#a08d597b0672e490fc08b5cf096888458" title="Get the RMS values of this validator. " alt="" coords="949,362,1080,388"/>
+<area shape="rect" id="node26" href="$d5/d70/class_data_validator.html#a91d70b1301d02d1f1abd496e7265b4b8" title="Reset the error state of this validator. " alt="" coords="733,1493,872,1534"/>
+<area shape="rect" id="node27" href="$d5/d70/class_data_validator.html#a24d9bdfb86351d6b236a8d2a2643e9a4" title="Get the values of this validator. " alt="" coords="733,1610,873,1636"/>
+<area shape="rect" id="node29" href="$df/d55/test__data__validator__group_8cpp.html#aef7ac2723fe058c494c17744cdc5cb0d" title="Create a DataValidatorGroup and tack on two additional DataValidators. " alt="" coords="295,1072,447,1113"/>
+<area shape="rect" id="node34" href="$df/d55/test__data__validator__group_8cpp.html#ae308cbba2b2df8d6a99b1b055c161175" title="Fill two validators in the group with samples, by index. " alt="" coords="291,1290,451,1316"/>
+<area shape="rect" id="node35" href="$d3/d4d/class_data_validator_group.html#a1c60e55b37a6a489678ee2b158d7ceaf" title="Put an item into the validator group. " alt="" coords="509,1286,672,1312"/>
+<area shape="rect" id="node30" href="$df/d55/test__data__validator__group_8cpp.html#a55b66a81b3a01f326520907cf0229559" title="Dynamically add a validator to the group after construction. " alt="" coords="513,730,669,756"/>
+<area shape="rect" id="node31" href="$d3/d4d/class_data_validator_group.html#a99b6db1c2c5be642ce5e6c52f69320d7" title="Create a new Validator (with index equal to the number of currently existing validators) ..." alt="" coords="945,514,1084,556"/>
+<area shape="rect" id="node33" href="$d5/d70/class_data_validator.html#aa320ef7d086d92f6ee484f6b579ca159" title="Get the timeout value. " alt="" coords="739,752,866,793"/>
+<area shape="rect" id="node32" href="$d5/d70/class_data_validator.html#a31a6104b329e93907c06571bba6dd67f" title="Set the sibling to the next node in the group. " alt="" coords="1155,514,1321,540"/>
+<area shape="rect" id="node36" href="$d5/d70/class_data_validator.html#aceabb7ed565eaee66ce1442dff081b0d" title="Put an item into the validator. " alt="" coords="739,431,866,458"/>
+<area shape="rect" id="node39" href="$d9/d70/tests__common_8cpp.html#ab8153dfcd3207c107cf598d527841ab4" title="Insert a time series of samples into the validator. " alt="" coords="529,592,652,633"/>
+<area shape="rect" id="node41" href="$d5/d70/class_data_validator.html#aafab4f3fa8cef6bc95e9304c3f0a220e" title="Get the error count of this validator. " alt="" coords="303,1493,438,1534"/>
+<area shape="rect" id="node43" href="$d9/d70/tests__common_8cpp.html#a34bf000d641bff84cefb974275cae938" title="Insert a series of samples around a mean value. " alt="" coords="499,178,683,204"/>
+<area shape="rect" id="node44" href="$d0/de4/namespacematrix.html#a3fd7237277d21ed856d97c311c0e2db7" title="matrix::sqrt" alt="" coords="759,152,847,179"/>
+</map>

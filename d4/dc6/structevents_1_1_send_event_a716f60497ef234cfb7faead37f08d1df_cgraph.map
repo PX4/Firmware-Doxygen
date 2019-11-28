@@ -1,51 +1,51 @@
 <map id="events::SendEvent::initialize_trampoline" name="events::SendEvent::initialize_trampoline">
-<area shape="rect" id="node2" href="$d4/dc6/structevents_1_1_send_event.html#a0b9733caf86db97d7790784acc63ca16" title="events::SendEvent::\lSendEvent" alt="" coords="195,259,336,301"/>
-<area shape="rect" id="node3" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Start background listening for commands. " alt="" coords="195,325,336,366"/>
-<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="431,273,513,300"/>
-<area shape="rect" id="node5" href="$da/d17/classevents_1_1_subscriber_handler.html#a03889232378b49c5cf39a9d228429d54" title="events::SubscriberHandler\l::subscribe" alt="" coords="384,325,560,366"/>
-<area shape="rect" id="node12" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="call process_commands() and schedule the next cycle. " alt="" coords="401,537,543,578"/>
-<area shape="rect" id="node6" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="897,121,999,148"/>
-<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1366,486,1509,527"/>
-<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="1123,209,1266,250"/>
-<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1579,373,1721,414"/>
-<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1344,216,1531,243"/>
-<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1611,157,1689,184"/>
-<area shape="rect" id="node13" href="$da/d17/classevents_1_1_subscriber_handler.html#a5cece8500c7ed7351247b2642d31900c" title="events::SubscriberHandler\l::check_for_updates" alt="" coords="617,990,793,1031"/>
-<area shape="rect" id="node16" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Trampoline for the work queue. " alt="" coords="635,537,776,578"/>
-<area shape="rect" id="node17" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a43d944ccf84dbe7561e4f6d2711d08d0" title="regularily called to handle state updates " alt="" coords="629,471,781,513"/>
-<area shape="rect" id="node28" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a9538b93eb3a14e08c31e1b272d1e70b8" title="regularily called to handle state updates " alt="" coords="608,733,803,774"/>
-<area shape="rect" id="node37" href="$d4/dc6/structevents_1_1_send_event.html#a0da60ffc84a7d44ec3bdded7cff9c466" title="check for new commands and process them. " alt="" coords="635,297,776,338"/>
-<area shape="rect" id="node49" href="$da/d17/classevents_1_1_subscriber_handler.html#a544a97fbb605001efea7d11eb7d5376c" title="events::SubscriberHandler\l::unsubscribe" alt="" coords="617,602,793,643"/>
-<area shape="rect" id="node14" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="907,1189,989,1216"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1123,1182,1266,1223"/>
-<area shape="rect" id="node18" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5a61fa7b58fe3f8ea8442b61893f924b" title="check for topic updates " alt="" coords="867,639,1029,695"/>
-<area shape="rect" id="node24" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5c61178b0b9292f5ba14392f73d73d75" title="Publish tune control to sound alarm. " alt="" coords="867,471,1029,513"/>
-<area shape="rect" id="node19" href="$da/d17/classevents_1_1_subscriber_handler.html#aaf471519a3cde123060ef992158f4ba0" title="events::SubscriberHandler\l::vehicle_status_updated" alt="" coords="1107,711,1283,753"/>
-<area shape="rect" id="node20" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1157,595,1232,621"/>
-<area shape="rect" id="node23" href="$da/d17/classevents_1_1_subscriber_handler.html#a6ea27ad434acfd1ffa517d5c343f1649" title="events::SubscriberHandler\l::get_vehicle_status_sub" alt="" coords="1107,646,1283,687"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1349,573,1526,600"/>
-<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1613,208,1687,235"/>
-<area shape="rect" id="node25" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1132,443,1257,469"/>
-<area shape="rect" id="node26" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="1145,493,1245,520"/>
-<area shape="rect" id="node27" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1151,392,1239,419"/>
-<area shape="rect" id="node29" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a8aaf43e77ed1f2d81f94909002c179be" title="check for topic updates " alt="" coords="851,827,1045,869"/>
-<area shape="rect" id="node36" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a891641e40ab27895d20f400545856d13" title="handle LED logic changes &amp; call publish() " alt="" coords="851,733,1045,774"/>
-<area shape="rect" id="node30" href="$da/d17/classevents_1_1_subscriber_handler.html#a59e4e8a7ef84575ded5f9629eb97e582" title="events::SubscriberHandler\l::battery_status_updated" alt="" coords="1107,842,1283,883"/>
-<area shape="rect" id="node31" href="$da/d17/classevents_1_1_subscriber_handler.html#a4b5073be236f2460bfc062b14024a33c" title="events::SubscriberHandler\l::get_battery_status_sub" alt="" coords="1107,907,1283,949"/>
-<area shape="rect" id="node32" href="$da/d17/classevents_1_1_subscriber_handler.html#a317e2b58b294abe293a4a04dc5a5fca0" title="events::SubscriberHandler\l::cpuload_updated" alt="" coords="1107,973,1283,1014"/>
-<area shape="rect" id="node33" href="$da/d17/classevents_1_1_subscriber_handler.html#a812b9c4ec572d69baeb8682e507c903c" title="events::SubscriberHandler\l::get_cpuload_sub" alt="" coords="1107,1038,1283,1079"/>
-<area shape="rect" id="node34" href="$da/d17/classevents_1_1_subscriber_handler.html#a61eb7250b6549023f9ad150e4eeaf332" title="events::SubscriberHandler\l::vehicle_status_flags\l_updated" alt="" coords="1107,1103,1283,1159"/>
-<area shape="rect" id="node35" href="$da/d17/classevents_1_1_subscriber_handler.html#a7f2cc69bde2b2515582ce9a317bee7b1" title="events::SubscriberHandler\l::get_vehicle_status_flags_sub" alt="" coords="1093,777,1296,818"/>
-<area shape="rect" id="node38" href="$da/d17/classevents_1_1_subscriber_handler.html#ae5839314987ed788fb4982574b7a0eac" title="events::SubscriberHandler\l::vehicle_command_updated" alt="" coords="854,173,1042,214"/>
-<area shape="rect" id="node39" href="$da/d17/classevents_1_1_subscriber_handler.html#a8d3a9a59d232fa390a752aff6aaeffae" title="events::SubscriberHandler\l::get_vehicle_command_sub" alt="" coords="854,238,1042,279"/>
-<area shape="rect" id="node40" href="$df/de7/test__sensors_8c.html#ac1266d7ace90667fc0e56fac4969b4f0" title="accel" alt="" coords="1411,56,1464,83"/>
-<area shape="rect" id="node44" href="$df/de7/test__sensors_8c.html#a7e59b8ff2e9eb4aba115d1a9fe3ff438" title="baro" alt="" coords="1414,157,1461,184"/>
-<area shape="rect" id="node45" href="$df/de7/test__sensors_8c.html#a78feae888b23b1cb63e35f9f90e92e1e" title="gyro" alt="" coords="1414,107,1461,133"/>
-<area shape="rect" id="node46" href="$d9/d9c/task_8cpp.html#a34b406ade258e7d4659d6f4c082e581f" title="start temperature calibration in a new task for one or multiple sensors " alt="" coords="857,355,1039,381"/>
-<area shape="rect" id="node48" href="$d4/dc6/structevents_1_1_send_event.html#a91fd60303315ccc0400fef38a246eff0" title="return an ACK to a vehicle_command " alt="" coords="877,406,1019,447"/>
-<area shape="rect" id="node41" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1631,5,1669,32"/>
-<area shape="rect" id="node42" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1609,107,1691,133"/>
-<area shape="rect" id="node43" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1620,56,1680,83"/>
-<area shape="rect" id="node47" href="$d5/dce/class_temperature_calibration.html#ade82c5dd7e5f8787ffb0fecdfd9ef596" title="Start task. " alt="" coords="1116,326,1273,367"/>
-<area shape="rect" id="node50" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="889,588,1007,615"/>
+<area shape="rect" id="node2" href="$d4/dc6/structevents_1_1_send_event.html#a0b9733caf86db97d7790784acc63ca16" title="events::SendEvent::\lSendEvent" alt="" coords="195,245,336,286"/>
+<area shape="rect" id="node3" href="$d4/dc6/structevents_1_1_send_event.html#a06aac5352f6f26b6c363939a9f42aa5e" title="Starts background task listening for commands. " alt="" coords="195,310,336,351"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="431,259,513,285"/>
+<area shape="rect" id="node5" href="$da/d17/classevents_1_1_subscriber_handler.html#a03889232378b49c5cf39a9d228429d54" title="events::SubscriberHandler\l::subscribe" alt="" coords="384,310,560,351"/>
+<area shape="rect" id="node16" href="$d4/dc6/structevents_1_1_send_event.html#aa832d9e186ce6faf47dce73c422743b1" title="Calls process_commands() and schedules the next cycle. " alt="" coords="401,498,543,539"/>
+<area shape="rect" id="node6" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="654,184,757,211"/>
+<area shape="rect" id="node7" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1374,526,1517,567"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="877,118,1019,159"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1595,297,1737,338"/>
+<area shape="rect" id="node10" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1101,129,1288,156"/>
+<area shape="rect" id="node11" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1356,253,1535,280"/>
+<area shape="rect" id="node12" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1406,5,1485,32"/>
+<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1369,57,1521,98"/>
+<area shape="rect" id="node14" href="$d9/d8a/classu_o_r_b_communicator_1_1_i_channel.html#aba1c6e430848e447334c5be5c06e1d14" title="Register Message Handler. " alt="" coords="1344,122,1547,163"/>
+<area shape="rect" id="node15" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1372,187,1519,229"/>
+<area shape="rect" id="node17" href="$da/d17/classevents_1_1_subscriber_handler.html#a5cece8500c7ed7351247b2642d31900c" title="events::SubscriberHandler\l::check_for_updates" alt="" coords="617,427,793,469"/>
+<area shape="rect" id="node20" href="$d4/dc6/structevents_1_1_send_event.html#ae68c9f273a5af990b008cfe926b3875b" title="Process cycle trampoline for the work queue. " alt="" coords="635,498,776,539"/>
+<area shape="rect" id="node21" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a43d944ccf84dbe7561e4f6d2711d08d0" title="regularily called to handle state updates " alt="" coords="629,574,781,615"/>
+<area shape="rect" id="node32" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a9538b93eb3a14e08c31e1b272d1e70b8" title="regularily called to handle state updates " alt="" coords="608,866,803,907"/>
+<area shape="rect" id="node41" href="$d4/dc6/structevents_1_1_send_event.html#a0da60ffc84a7d44ec3bdded7cff9c466" title="Checks for new commands and processes them. " alt="" coords="635,359,776,401"/>
+<area shape="rect" id="node48" href="$da/d17/classevents_1_1_subscriber_handler.html#a544a97fbb605001efea7d11eb7d5376c" title="events::SubscriberHandler\l::unsubscribe" alt="" coords="617,662,793,703"/>
+<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="907,424,989,451"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1123,366,1266,407"/>
+<area shape="rect" id="node22" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5a61fa7b58fe3f8ea8442b61893f924b" title="check for topic updates " alt="" coords="867,779,1029,835"/>
+<area shape="rect" id="node27" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#a5c61178b0b9292f5ba14392f73d73d75" title="Publish tune control to sound alarm. " alt="" coords="867,541,1029,582"/>
+<area shape="rect" id="node31" href="$de/d60/classevents_1_1rc__loss_1_1_r_c___loss___alarm.html#acef2607178ecb5910d50e008eae1c675" title="Publish tune control to interrupt any sound. " alt="" coords="867,606,1029,647"/>
+<area shape="rect" id="node23" href="$da/d17/classevents_1_1_subscriber_handler.html#a8211ba60c293c51ddb61a0ee9791580b" title="events::SubscriberHandler\l::vehicle_status_updated" alt="" coords="1107,869,1283,910"/>
+<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="1157,752,1232,779"/>
+<area shape="rect" id="node26" href="$da/d17/classevents_1_1_subscriber_handler.html#a94c3a122af8198da3ca1ea0e7d3d9c38" title="events::SubscriberHandler\l::get_vehicle_status_sub" alt="" coords="1107,803,1283,845"/>
+<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="1357,752,1534,779"/>
+<area shape="rect" id="node28" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1132,483,1257,509"/>
+<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="1123,584,1266,611"/>
+<area shape="rect" id="node30" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="1151,533,1239,560"/>
+<area shape="rect" id="node33" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a8aaf43e77ed1f2d81f94909002c179be" title="check for topic updates " alt="" coords="851,966,1045,1007"/>
+<area shape="rect" id="node40" href="$d3/d55/classevents_1_1status_1_1_status_display.html#a891641e40ab27895d20f400545856d13" title="handle LED logic changes &amp; call publish() " alt="" coords="851,866,1045,907"/>
+<area shape="rect" id="node34" href="$da/d17/classevents_1_1_subscriber_handler.html#a4456b18c16f444c6daf7266b36727a30" title="events::SubscriberHandler\l::battery_status_updated" alt="" coords="1107,934,1283,975"/>
+<area shape="rect" id="node35" href="$da/d17/classevents_1_1_subscriber_handler.html#af9b7e4052cbd4b9d64f9896c92d9ab2f" title="events::SubscriberHandler\l::get_battery_status_sub" alt="" coords="1107,999,1283,1041"/>
+<area shape="rect" id="node36" href="$da/d17/classevents_1_1_subscriber_handler.html#ab53ed641bcab33f330b0588ecb089591" title="events::SubscriberHandler\l::cpuload_updated" alt="" coords="1107,1065,1283,1106"/>
+<area shape="rect" id="node37" href="$da/d17/classevents_1_1_subscriber_handler.html#a71bc1a93076ebd7ffc60c0b488e35ee7" title="events::SubscriberHandler\l::get_cpuload_sub" alt="" coords="1107,1130,1283,1171"/>
+<area shape="rect" id="node38" href="$da/d17/classevents_1_1_subscriber_handler.html#a75e577c648886fe5fd22282be59e0335" title="events::SubscriberHandler\l::vehicle_status_flags\l_updated" alt="" coords="1107,1196,1283,1252"/>
+<area shape="rect" id="node39" href="$da/d17/classevents_1_1_subscriber_handler.html#a63a51e8659a71a4cc0557339a4c0b2b7" title="events::SubscriberHandler\l::get_vehicle_status_flags_sub" alt="" coords="1093,1277,1296,1318"/>
+<area shape="rect" id="node42" href="$da/d17/classevents_1_1_subscriber_handler.html#a27cf50c924ce8041f349062f0c3f4d01" title="events::SubscriberHandler\l::vehicle_command_updated" alt="" coords="854,293,1042,334"/>
+<area shape="rect" id="node43" href="$da/d17/classevents_1_1_subscriber_handler.html#a268057bec8b3855dfcce9d1fd3137d14" title="events::SubscriberHandler\l::get_vehicle_command_sub" alt="" coords="854,358,1042,399"/>
+<area shape="rect" id="node44" href="$d9/d9c/task_8cpp.html#a34b406ade258e7d4659d6f4c082e581f" title="start temperature calibration in a new task for one or multiple sensors " alt="" coords="857,241,1039,268"/>
+<area shape="rect" id="node47" href="$d4/dc6/structevents_1_1_send_event.html#a91fd60303315ccc0400fef38a246eff0" title="Returns an ACK to a vehicle_command. " alt="" coords="877,475,1019,517"/>
+<area shape="rect" id="node45" href="$d5/dce/class_temperature_calibration.html#ade82c5dd7e5f8787ffb0fecdfd9ef596" title="Start task. " alt="" coords="1116,235,1273,277"/>
+<area shape="rect" id="node46" href="$d5/dce/class_temperature_calibration.html#a5daa8e50cc48af675281f4d6ad346d3f" title="Constructor. " alt="" coords="1112,301,1277,342"/>
+<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="889,672,1007,699"/>
+<area shape="rect" id="node50" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1123,635,1266,677"/>
 </map>

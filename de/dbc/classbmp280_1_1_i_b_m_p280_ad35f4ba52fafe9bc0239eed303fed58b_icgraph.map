@@ -1,6 +1,13 @@
 <map id="bmp280::IBMP280::get_calibration" name="bmp280::IBMP280::get_calibration">
-<area shape="rect" id="node2" href="$d1/daf/class_b_m_p280.html#a19cb357451895c41f211837684d90f84" title="Initialise the driver and make it ready for use. " alt="" coords="209,13,307,39"/>
-<area shape="rect" id="node3" href="$db/de6/class_df_bmp280_wrapper.html#afa29b3109398937f91ac9df7fc542e5a" title="Start automatic measurement. " alt="" coords="355,13,521,39"/>
+<area shape="rect" id="node2" href="$d1/daf/class_b_m_p280.html#a19cb357451895c41f211837684d90f84" title="BMP280::init" alt="" coords="209,71,307,98"/>
+<area shape="rect" id="node3" href="$db/de6/class_df_bmp280_wrapper.html#afa29b3109398937f91ac9df7fc542e5a" title="Start automatic measurement. " alt="" coords="355,30,521,57"/>
+<area shape="rect" id="node6" href="$dc/d5d/namespacebmp280.html#a46ca323dc841bfbe75928ccef91ad749" title="bmp280::start_bus" alt="" coords="373,97,503,123"/>
 <area shape="rect" id="node4" href="$d5/ded/namespacedf__bmp280__wrapper.html#ad9b55e45815d137f66c4629db9b6e4ef" title="Attempt to start driver on all available I2C busses. " alt="" coords="569,5,716,47"/>
 <area shape="rect" id="node5" href="$d3/d30/df__bmp280__wrapper_8cpp.html#a8dabc96381e6fe19aa059cf51f8963f1" title="df_bmp280_wrapper_main" alt="" coords="764,13,939,39"/>
+<area shape="rect" id="node7" href="$df/d89/namespacerm3100.html#a1f0663af1da0c49baa8687320182faa9" title="Starts the driver. " alt="" coords="593,71,692,98"/>
+<area shape="rect" id="node9" href="$d9/d1e/namespacelis3mdl.html#a10774d9132d6d1c7dae8c9346e77d6f3" title="Starts the driver. " alt="" coords="594,122,691,149"/>
+<area shape="rect" id="node11" href="$dc/d5d/namespacebmp280.html#a6aa94234ba9cde402bea81154bc616ba" title="bmp280::start" alt="" coords="591,173,694,199"/>
+<area shape="rect" id="node8" href="$d1/d11/rm3100__main_8cpp.html#a8851abf4a5db1d0259ea78f5bd53f697" title="Driver &#39;main&#39; command. " alt="" coords="801,71,901,98"/>
+<area shape="rect" id="node10" href="$de/d50/lis3mdl__main_8cpp.html#a5a1a250829c9ac5a02805549f24e87af" title="Driver &#39;main&#39; command. " alt="" coords="802,122,901,149"/>
+<area shape="rect" id="node12" href="$d7/dd6/bmp280__main_8cpp.html#a18609c5745affa47a4a79f461c25ae7e" title="bmp280_main" alt="" coords="800,173,903,199"/>
 </map>

@@ -1,5 +1,8 @@
 <map id="RoboClaw::resetEncoders" name="RoboClaw::resetEncoders">
-<area shape="rect" id="node2" href="$d2/dba/class_robo_claw.html#a40b7ef38e9c29944546731efb5d37c2e" title="RoboClaw::_sendCommand" alt="" coords="228,31,415,57"/>
-<area shape="rect" id="node3" href="$d2/dba/class_robo_claw.html#a9c4547b4cdfce0dac346ac1fe8105443" title="RoboClaw::_sumBytes" alt="" coords="463,5,620,32"/>
-<area shape="rect" id="node4" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="516,56,567,83"/>
+<area shape="rect" id="node2" href="$d2/dba/class_robo_claw.html#aca3462b489519290574b20d4fd269cbc" title="RoboClaw::_sendNothing" alt="" coords="228,63,399,90"/>
+<area shape="rect" id="node3" href="$d2/dba/class_robo_claw.html#ad576dfbf9954fb9c88b6e9a5b4f38f34" title="Perform a round&#45;trip write and read. " alt="" coords="447,63,609,90"/>
+<area shape="rect" id="node4" href="$d2/dba/class_robo_claw.html#af9cd163b26ff783ecebf61b7b7f5bc3b" title="RoboClaw::_calcCRC" alt="" coords="657,13,809,39"/>
+<area shape="rect" id="node6" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="710,63,757,90"/>
+<area shape="rect" id="node7" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="708,114,759,141"/>
+<area shape="rect" id="node5" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="857,5,993,47"/>
 </map>

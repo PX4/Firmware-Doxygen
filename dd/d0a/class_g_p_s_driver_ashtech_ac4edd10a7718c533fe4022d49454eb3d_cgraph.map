@@ -1,19 +1,22 @@
 <map id="GPSDriverAshtech::writeAckedCommand" name="GPSDriverAshtech::writeAckedCommand">
-<area shape="rect" id="node2" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a04eeb8d4cab06961f727d646222c5ccb" title="GPSDriverAshtech::waitFor\lReply" alt="" coords="260,177,444,219"/>
-<area shape="rect" id="node8" href="$d2/d20/class_g_p_s_helper.html#a44d4a088facfe85131a8f2d4742070c8" title="write to the device " alt="" coords="1270,210,1394,237"/>
-<area shape="rect" id="node3" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a33d6a07ed337cafb5e45ca15cbe8d983" title="receive &amp; handle new data from the device " alt="" coords="492,193,675,219"/>
-<area shape="rect" id="node4" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a5495dfedac462e88411392bf96785a30" title="GPSDriverAshtech::handle\lMessage" alt="" coords="734,76,913,117"/>
-<area shape="rect" id="node11" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa363d656a797f8a2542bc656861e6168" title="GPSDriverAshtech::parseChar" alt="" coords="723,298,924,325"/>
-<area shape="rect" id="node18" href="$d2/d20/class_g_p_s_helper.html#ae499166387a2123074225fdcd21b855d" title="read from device " alt="" coords="763,193,884,219"/>
-<area shape="rect" id="node5" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa9c1abdf3104dcbdc19cd33bbefa3b70" title="enable output of correction output " alt="" coords="982,135,1169,176"/>
-<area shape="rect" id="node6" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a17b7c4de9e3f11c88c3eab4164c98f3b" title="GPSDriverAshtech::sendSurvey\lInStatusUpdate" alt="" coords="1227,68,1437,109"/>
-<area shape="rect" id="node9" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1056,33,1095,59"/>
-<area shape="rect" id="node10" href="$d2/d20/class_g_p_s_helper.html#a3b74fa1cbf17feab5a2c080fb17357c4" title="GPSHelper::setClock" alt="" coords="1001,83,1149,110"/>
-<area shape="rect" id="node7" href="$d2/d20/class_g_p_s_helper.html#a4c72f2656e1b467de223d5ed406d452e" title="GPSHelper::surveyInStatus" alt="" coords="1485,75,1669,102"/>
-<area shape="rect" id="node12" href="$d0/d7a/class_r_t_c_m_parsing.html#a019493622962a9532a512a81de1adbcc" title="add a byte to the message " alt="" coords="995,201,1156,227"/>
-<area shape="rect" id="node13" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa33973c12d0a6f6476885d224efb2489" title="GPSDriverAshtech::decodeInit" alt="" coords="975,403,1176,430"/>
-<area shape="rect" id="node15" href="$d2/d20/class_g_p_s_helper.html#ab36eaf56dad199ed58124db25b1cce20" title="got an RTCM message from the device " alt="" coords="972,251,1179,278"/>
-<area shape="rect" id="node16" href="$d0/d7a/class_r_t_c_m_parsing.html#a9bfdc2abeccf5ac753cdd6b66a7f4bc1" title="RTCMParsing::message" alt="" coords="992,302,1159,329"/>
-<area shape="rect" id="node17" href="$d0/d7a/class_r_t_c_m_parsing.html#a6baac62864ba2a0abd6f615baac316cc" title="RTCMParsing::messageLength" alt="" coords="973,353,1178,379"/>
-<area shape="rect" id="node14" href="$d0/d7a/class_r_t_c_m_parsing.html#a81ed0df2217c926f122f9c6dec5b60d1" title="reset the parsing state " alt="" coords="1261,403,1403,430"/>
+<area shape="rect" id="node2" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a04eeb8d4cab06961f727d646222c5ccb" title="GPSDriverAshtech::waitFor\lReply" alt="" coords="260,458,444,499"/>
+<area shape="rect" id="node9" href="$d2/d20/class_g_p_s_helper.html#a44d4a088facfe85131a8f2d4742070c8" title="write to the device " alt="" coords="1270,549,1394,576"/>
+<area shape="rect" id="node3" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a33d6a07ed337cafb5e45ca15cbe8d983" title="receive &amp; handle new data from the device " alt="" coords="492,393,675,420"/>
+<area shape="rect" id="node4" href="$dd/d0a/class_g_p_s_driver_ashtech.html#a5495dfedac462e88411392bf96785a30" title="GPSDriverAshtech::handle\lMessage" alt="" coords="734,357,913,398"/>
+<area shape="rect" id="node14" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa363d656a797f8a2542bc656861e6168" title="GPSDriverAshtech::parseChar" alt="" coords="723,183,924,209"/>
+<area shape="rect" id="node21" href="$d2/d20/class_g_p_s_helper.html#ae499166387a2123074225fdcd21b855d" title="read from device " alt="" coords="763,423,884,449"/>
+<area shape="rect" id="node5" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa9c1abdf3104dcbdc19cd33bbefa3b70" title="enable output of correction output " alt="" coords="982,513,1169,554"/>
+<area shape="rect" id="node6" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aaacbdcb8a570a99895563fcf462f38ab" title="GPSDriverAshtech::activate\lRTCMOutput" alt="" coords="1239,302,1425,343"/>
+<area shape="rect" id="node7" href="$dd/d0a/class_g_p_s_driver_ashtech.html#ac4f2d68ffaa74e5431a2060630296fa0" title="GPSDriverAshtech::sendSurvey\lInStatusUpdate" alt="" coords="1227,382,1437,423"/>
+<area shape="rect" id="node10" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1056,461,1095,488"/>
+<area shape="rect" id="node13" href="$d2/d20/class_g_p_s_helper.html#a3b74fa1cbf17feab5a2c080fb17357c4" title="GPSHelper::setClock" alt="" coords="1001,411,1149,437"/>
+<area shape="rect" id="node8" href="$d2/d20/class_g_p_s_helper.html#a4c72f2656e1b467de223d5ed406d452e" title="GPSHelper::surveyInStatus" alt="" coords="1485,389,1669,416"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1291,461,1373,488"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1534,461,1621,488"/>
+<area shape="rect" id="node15" href="$d0/d7a/class_r_t_c_m_parsing.html#a019493622962a9532a512a81de1adbcc" title="add a byte to the message " alt="" coords="995,107,1156,133"/>
+<area shape="rect" id="node16" href="$dd/d0a/class_g_p_s_driver_ashtech.html#aa33973c12d0a6f6476885d224efb2489" title="GPSDriverAshtech::decodeInit" alt="" coords="975,5,1176,32"/>
+<area shape="rect" id="node18" href="$d2/d20/class_g_p_s_helper.html#ab36eaf56dad199ed58124db25b1cce20" title="got an RTCM message from the device " alt="" coords="972,157,1179,184"/>
+<area shape="rect" id="node19" href="$d0/d7a/class_r_t_c_m_parsing.html#ae7d53e8133f6da78cfe0d88e75c97f34" title="RTCMParsing::message" alt="" coords="992,208,1159,235"/>
+<area shape="rect" id="node20" href="$d0/d7a/class_r_t_c_m_parsing.html#a566d9147cc6522046b688bbe2a7bacf1" title="RTCMParsing::messageLength" alt="" coords="973,259,1178,285"/>
+<area shape="rect" id="node17" href="$d0/d7a/class_r_t_c_m_parsing.html#a81ed0df2217c926f122f9c6dec5b60d1" title="reset the parsing state " alt="" coords="1261,5,1403,32"/>
 </map>

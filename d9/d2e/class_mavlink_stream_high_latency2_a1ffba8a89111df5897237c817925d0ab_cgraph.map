@@ -1,51 +1,51 @@
 <map id="MavlinkStreamHighLatency2::send" name="MavlinkStreamHighLatency2::send">
-<area shape="rect" id="node2" href="$de/d39/mavlink__simple__analyzer_8h.html#acb687beaefa15e52fd663ca409be493c" title="convert_limit_safe" alt="" coords="515,89,643,115"/>
-<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a194a3b8f53d8f45849ad522c7f273215" title="Mavlink::get_channel" alt="" coords="265,833,410,859"/>
-<area shape="rect" id="node6" href="$df/dc8/class_simple_analyzer.html#a1bd2afbd5a55bf82a4cbc595b7f14035" title="Get the scaled value of the current result of the analyzer. " alt="" coords="268,884,407,925"/>
-<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#acb4aa1dcf0ecb45f9849b050d73241a8" title="Mavlink::get_system_type" alt="" coords="250,950,425,977"/>
-<area shape="rect" id="node8" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a51e0b2b121245c88059a5bfa76eecbda" title="MavlinkStreamHighLatency2\l::reset_analysers" alt="" coords="243,1001,432,1043"/>
-<area shape="rect" id="node10" href="$d9/d2e/class_mavlink_stream_high_latency2.html#abec532e364527042671ffc043b76e861" title="MavlinkStreamHighLatency2\l::set_default_values" alt="" coords="243,1067,432,1108"/>
-<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a4a775bd09b746cc56f26c3b7b2438e12" title="Mavlink::should_transmit" alt="" coords="254,1133,421,1159"/>
-<area shape="rect" id="node13" href="$df/dc8/class_simple_analyzer.html#a1718929f073aee58ef9cbd28d1878e6d" title="Returns true if at least one value has been added to the analyzer. " alt="" coords="263,1183,411,1210"/>
-<area shape="rect" id="node14" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a8e760b440e47870f0fb9cd9d824016e0" title="MavlinkStreamHighLatency2\l::write_airspeed" alt="" coords="243,179,432,220"/>
-<area shape="rect" id="node36" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a0cecf600c20e4cf49929edb3707bfc24" title="MavlinkStreamHighLatency2\l::write_attitude_sp" alt="" coords="243,636,432,677"/>
-<area shape="rect" id="node40" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a80beefe90c012f315a5886387bedaf50" title="MavlinkStreamHighLatency2\l::write_battery_status" alt="" coords="243,244,432,285"/>
-<area shape="rect" id="node41" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a8720e5952b19f057bbb7b14bde60a42a" title="MavlinkStreamHighLatency2\l::write_estimator_status" alt="" coords="243,309,432,351"/>
-<area shape="rect" id="node42" href="$d9/d2e/class_mavlink_stream_high_latency2.html#ade4d8e2fe527a8c12a72102b69e8de29" title="MavlinkStreamHighLatency2\l::write_fw_ctrl_status" alt="" coords="243,48,432,89"/>
-<area shape="rect" id="node43" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a51e39849af82d15e67ab222d8f95733f" title="MavlinkStreamHighLatency2\l::write_geofence_result" alt="" coords="243,375,432,416"/>
-<area shape="rect" id="node44" href="$d9/d2e/class_mavlink_stream_high_latency2.html#aa5e046b37e28354d0282fa6677758673" title="MavlinkStreamHighLatency2\l::write_global_position" alt="" coords="243,571,432,612"/>
-<area shape="rect" id="node45" href="$d9/d2e/class_mavlink_stream_high_latency2.html#ae68b7bb355c7a40caa9b6eec4f58a51a" title="MavlinkStreamHighLatency2\l::write_mission_result" alt="" coords="243,440,432,481"/>
-<area shape="rect" id="node46" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a6ad529aa3bda42b92a6ccac61fb39f90" title="MavlinkStreamHighLatency2\l::write_tecs_status" alt="" coords="243,113,432,155"/>
-<area shape="rect" id="node47" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a3a4cbaaa8383013f4ab568b2b4691c37" title="MavlinkStreamHighLatency2\l::write_vehicle_status" alt="" coords="243,767,432,808"/>
-<area shape="rect" id="node49" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a63194f40cd085f6ebbd76ecbbb33ef81" title="MavlinkStreamHighLatency2\l::write_vehicle_status_flags" alt="" coords="243,505,432,547"/>
-<area shape="rect" id="node50" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a6f78fb330e68ecd0fbba0549fb57300a" title="MavlinkStreamHighLatency2\l::write_wind_estimate" alt="" coords="243,701,432,743"/>
-<area shape="rect" id="node3" href="$d0/d58/position__estimator__inav__main_8cpp.html#a9788a89a1fa912669102bc6049a9ed9b" title="max" alt="" coords="782,63,829,90"/>
-<area shape="rect" id="node4" href="$d0/d58/position__estimator__inav__main_8cpp.html#ab72387a3954ae834958e94d34cf610ea" title="min" alt="" coords="784,114,827,141"/>
-<area shape="rect" id="node9" href="$df/dc8/class_simple_analyzer.html#a3cce901aa6817291742bb92088102539" title="Reset the analyzer to the initial state. " alt="" coords="503,1009,654,1035"/>
-<area shape="rect" id="node12" href="$df/d1f/class_mavlink.html#a1c7d9b0bcbd0ba099fe6ef7958e4f527" title="Mavlink::message_buffer\l_write" alt="" coords="495,1125,663,1167"/>
-<area shape="rect" id="node15" href="$de/dea/class_mavlink_orb_subscription.html#a9f219e480311597a86a3f7a5366aac25" title="Check if subscription updated based on timestamp. " alt="" coords="499,407,659,448"/>
-<area shape="rect" id="node16" href="$de/dea/class_mavlink_orb_subscription.html#a10b522a40df5d4cefc3326841a7b84e0" title="Check if the topic has been published. " alt="" coords="725,407,885,448"/>
-<area shape="rect" id="node31" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="768,494,843,521"/>
-<area shape="rect" id="node34" href="$d9/d97/u_o_r_b_8cpp.html#ade1bac66c3d565ab0e335caf9212995c" title="orb_stat" alt="" coords="987,291,1057,318"/>
-<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="959,393,1085,419"/>
-<area shape="rect" id="node18" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="981,443,1063,470"/>
-<area shape="rect" id="node23" href="$d9/d97/u_o_r_b_8cpp.html#a840e123b2492357b5a302b7a867b8916" title="orb_exists" alt="" coords="981,545,1063,571"/>
-<area shape="rect" id="node29" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="953,342,1091,369"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1173,400,1315,441"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="1173,465,1315,507"/>
-<area shape="rect" id="node20" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1395,388,1538,429"/>
-<area shape="rect" id="node22" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1429,454,1504,481"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1173,537,1315,579"/>
-<area shape="rect" id="node25" href="$d6/d20/classu_o_r_b_1_1_utils.html#a83fea5453fe535f1b39fd7b7a1c858aa" title="uORB::Utils::node_mkpath" alt="" coords="1377,657,1556,683"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a437c1aaa6a5b9b5f368579a2076cb373" title="px4_access" alt="" coords="1421,505,1513,531"/>
-<area shape="rect" id="node27" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1427,555,1506,582"/>
-<area shape="rect" id="node28" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1426,606,1507,633"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1173,335,1315,376"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="933,599,1111,626"/>
-<area shape="rect" id="node33" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1207,603,1281,630"/>
-<area shape="rect" id="node35" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1159,283,1329,310"/>
-<area shape="rect" id="node37" href="$dd/d47/namespacemath.html#ae9e716b64956468f69c53a1ee1821a60" title="math::degrees" alt="" coords="526,669,631,695"/>
-<area shape="rect" id="node38" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="matrix::wrap_2pi" alt="" coords="519,618,638,645"/>
-<area shape="rect" id="node39" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="750,618,861,645"/>
-<area shape="rect" id="node48" href="$d6/d8f/mavlink__messages_8cpp.html#a01ae8ba938450048095ddccaee1f58da" title="get_mavlink_navigation_mode" alt="" coords="480,774,677,801"/>
+<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="559,33,598,59"/>
+<area shape="rect" id="node5" href="$df/d1f/class_mavlink.html#a685f6edd65eead49486f2af05325e178" title="Mavlink::get_channel" alt="" coords="265,58,410,85"/>
+<area shape="rect" id="node6" href="$df/dc8/class_simple_analyzer.html#abbb3459bf0976a4eed6548f2f390c200" title="Get the scaled value of the current result of the analyzer. " alt="" coords="268,109,407,151"/>
+<area shape="rect" id="node7" href="$df/d1f/class_mavlink.html#acb4aa1dcf0ecb45f9849b050d73241a8" title="Mavlink::get_system_type" alt="" coords="250,175,425,202"/>
+<area shape="rect" id="node8" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a51e0b2b121245c88059a5bfa76eecbda" title="MavlinkStreamHighLatency2\l::reset_analysers" alt="" coords="243,227,432,268"/>
+<area shape="rect" id="node10" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a400fb1d6b58baca3ea001f43066c9eb9" title="MavlinkStreamHighLatency2\l::set_default_values" alt="" coords="243,292,432,333"/>
+<area shape="rect" id="node11" href="$df/d1f/class_mavlink.html#a4a775bd09b746cc56f26c3b7b2438e12" title="Mavlink::should_transmit" alt="" coords="254,358,421,385"/>
+<area shape="rect" id="node12" href="$df/dc8/class_simple_analyzer.html#aad9a8c915aad954829cd5122310d0d6a" title="Returns true if at least one value has been added to the analyzer. " alt="" coords="263,409,411,435"/>
+<area shape="rect" id="node13" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a8e760b440e47870f0fb9cd9d824016e0" title="MavlinkStreamHighLatency2\l::write_airspeed" alt="" coords="243,460,432,501"/>
+<area shape="rect" id="node34" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a0cecf600c20e4cf49929edb3707bfc24" title="MavlinkStreamHighLatency2\l::write_attitude_sp" alt="" coords="243,787,432,828"/>
+<area shape="rect" id="node39" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a80beefe90c012f315a5886387bedaf50" title="MavlinkStreamHighLatency2\l::write_battery_status" alt="" coords="243,1179,432,1220"/>
+<area shape="rect" id="node40" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a8720e5952b19f057bbb7b14bde60a42a" title="MavlinkStreamHighLatency2\l::write_estimator_status" alt="" coords="243,525,432,567"/>
+<area shape="rect" id="node41" href="$d9/d2e/class_mavlink_stream_high_latency2.html#ade4d8e2fe527a8c12a72102b69e8de29" title="MavlinkStreamHighLatency2\l::write_fw_ctrl_status" alt="" coords="243,917,432,959"/>
+<area shape="rect" id="node43" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a51e39849af82d15e67ab222d8f95733f" title="MavlinkStreamHighLatency2\l::write_geofence_result" alt="" coords="243,591,432,632"/>
+<area shape="rect" id="node44" href="$d9/d2e/class_mavlink_stream_high_latency2.html#aa5e046b37e28354d0282fa6677758673" title="MavlinkStreamHighLatency2\l::write_global_position" alt="" coords="243,983,432,1024"/>
+<area shape="rect" id="node45" href="$d9/d2e/class_mavlink_stream_high_latency2.html#ae68b7bb355c7a40caa9b6eec4f58a51a" title="MavlinkStreamHighLatency2\l::write_mission_result" alt="" coords="243,656,432,697"/>
+<area shape="rect" id="node46" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a6ad529aa3bda42b92a6ccac61fb39f90" title="MavlinkStreamHighLatency2\l::write_tecs_status" alt="" coords="243,1048,432,1089"/>
+<area shape="rect" id="node47" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a3a4cbaaa8383013f4ab568b2b4691c37" title="MavlinkStreamHighLatency2\l::write_vehicle_status" alt="" coords="243,1113,432,1155"/>
+<area shape="rect" id="node49" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a63194f40cd085f6ebbd76ecbbb33ef81" title="MavlinkStreamHighLatency2\l::write_vehicle_status_flags" alt="" coords="243,721,432,763"/>
+<area shape="rect" id="node50" href="$d9/d2e/class_mavlink_stream_high_latency2.html#a6f78fb330e68ecd0fbba0549fb57300a" title="MavlinkStreamHighLatency2\l::write_wind_estimate" alt="" coords="243,852,432,893"/>
+<area shape="rect" id="node3" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="753,33,836,59"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="938,33,1025,59"/>
+<area shape="rect" id="node9" href="$df/dc8/class_simple_analyzer.html#a3cce901aa6817291742bb92088102539" title="Reset the analyzer to the initial state. " alt="" coords="503,234,654,261"/>
+<area shape="rect" id="node14" href="$de/dea/class_mavlink_orb_subscription.html#a9f219e480311597a86a3f7a5366aac25" title="Check if subscription updated based on timestamp. " alt="" coords="499,787,659,828"/>
+<area shape="rect" id="node15" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a2376542413f8b31c20bcbfc1a11b13ea" title="Update the struct. " alt="" coords="725,787,864,828"/>
+<area shape="rect" id="node16" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="912,724,1051,765"/>
+<area shape="rect" id="node31" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="912,789,1051,831"/>
+<area shape="rect" id="node17" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="1117,757,1255,799"/>
+<area shape="rect" id="node29" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1731,628,1932,669"/>
+<area shape="rect" id="node18" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af4675ee1722445e07e50d1a984b8d8c0" title="uORB::Subscription\l::valid" alt="" coords="1339,823,1478,864"/>
+<area shape="rect" id="node19" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a16d1880bc99853428a8d8a240f24857b" title="Return true if this topic has been advertised. " alt="" coords="1331,692,1487,733"/>
+<area shape="rect" id="node20" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="1339,757,1478,799"/>
+<area shape="rect" id="node21" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1544,759,1683,800"/>
+<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1982,821,2125,863"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2175,880,2317,921"/>
+<area shape="rect" id="node24" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1758,693,1905,735"/>
+<area shape="rect" id="node27" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abb03278ff4ddd2a50e0f2996e856f2cc" title="Add the subscriber to the node&#39;s list of subscriber. " alt="" coords="1748,876,1915,917"/>
+<area shape="rect" id="node30" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a7877236ac1912c32c2ab6ae06899392d" title="uORB::DeviceNode::get\l_queue_size" alt="" coords="1749,759,1913,800"/>
+<area shape="rect" id="node25" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="1980,756,2127,797"/>
+<area shape="rect" id="node26" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="1980,691,2127,732"/>
+<area shape="rect" id="node28" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="1991,887,2115,914"/>
+<area shape="rect" id="node32" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1099,859,1273,886"/>
+<area shape="rect" id="node33" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a78fb27934bdfd069855885da1be4bb5f" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="1321,888,1496,929"/>
+<area shape="rect" id="node35" href="$dd/d47/namespacemath.html#afa4c38bf29632e844290514731913caa" title="math::degrees" alt="" coords="526,909,631,935"/>
+<area shape="rect" id="node36" href="$d0/de4/namespacematrix.html#a8eee4e5c87c7b1ade2c232012d215641" title="Wrap value in range [0, 2π) " alt="" coords="519,858,638,885"/>
+<area shape="rect" id="node37" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="747,858,842,885"/>
+<area shape="rect" id="node38" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="936,858,1027,885"/>
+<area shape="rect" id="node42" href="$dd/d21/mavlink__simple__analyzer_8cpp.html#a8df870781fdc9bda9b0228eb513e52f2" title="convert_limit_safe" alt="" coords="515,990,643,1017"/>
+<area shape="rect" id="node48" href="$d6/d8f/mavlink__messages_8cpp.html#a01ae8ba938450048095ddccaee1f58da" title="get_mavlink_navigation_mode" alt="" coords="480,1121,677,1147"/>
 </map>

@@ -5,8 +5,8 @@ var classu_o_r_b_1_1_manager =
     [ "get_device_master", "d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4", null ],
     [ "get_instance", "d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5", null ],
     [ "initialize", "d3/da9/classu_o_r_b_1_1_manager.html#abb160fdd7ba0fe448ffa7f654a796267", null ],
-    [ "node_advertise", "d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640", null ],
-    [ "node_open", "d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719", null ],
+    [ "node_advertise", "d3/da9/classu_o_r_b_1_1_manager.html#a1cf62cf5347947d12094e9b8e50b2121", null ],
+    [ "node_open", "d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654", null ],
     [ "orb_advertise", "d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f", null ],
     [ "orb_advertise_multi", "d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d", null ],
     [ "orb_check", "d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7", null ],
@@ -21,6 +21,7 @@ var classu_o_r_b_1_1_manager =
     [ "orb_subscribe_multi", "d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe", null ],
     [ "orb_unadvertise", "d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824", null ],
     [ "orb_unsubscribe", "d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81", null ],
+    [ "terminate", "d3/da9/classu_o_r_b_1_1_manager.html#a306a9970d2f7cf304fba4a918e238558", null ],
     [ "_device_master", "d3/da9/classu_o_r_b_1_1_manager.html#a6f97f18502f949ce99908fab98d968fd", null ],
     [ "_Instance", "d3/da9/classu_o_r_b_1_1_manager.html#a0c242b04076341baf19222f981f1bb4c", null ]
 ];

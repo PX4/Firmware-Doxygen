@@ -1,51 +1,51 @@
 <map id="Mission::on_inactive" name="Mission::on_inactive">
-<area shape="rect" id="node2" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="411,1151,573,1192"/>
-<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#ac06b22528a29f5026a17c3a94ebefc0f" title="Navigator::home_position\l_valid" alt="" coords="877,423,1048,464"/>
-<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="1171,476,1243,502"/>
-<area shape="rect" id="node19" href="$d0/df9/class_navigator.html#a195ae35247b8133508746e9cbb4ba287" title="Navigator::get_mission\l_result" alt="" coords="1129,1108,1285,1150"/>
-<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="1140,314,1275,355"/>
-<area shape="rect" id="node28" href="$db/dad/class_mission.html#a109d984e22dba040bb8587e4a7735043" title="Find and store the index of the landing sequence (DO_LAND_START) " alt="" coords="633,364,784,406"/>
-<area shape="rect" id="node34" href="$d6/d47/dataman_8cpp.html#a1fa2ba1e37a3615ca23fe3cbf42c12be" title="Lock all items of a type. " alt="" coords="1172,110,1243,137"/>
-<area shape="rect" id="node35" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="1165,60,1250,86"/>
-<area shape="rect" id="node36" href="$d0/df9/class_navigator.html#a919b872e25ad4c3d52f0229572a41579" title="Navigator::get_can\l_loiter_at_sp" alt="" coords="213,1370,345,1411"/>
-<area shape="rect" id="node37" href="$d0/df9/class_navigator.html#a0925580d414bb54fc536a08c0d6a3ed6" title="Navigator::get_offboard\l_mission_sub" alt="" coords="413,1476,571,1518"/>
-<area shape="rect" id="node38" href="$db/dad/class_mission.html#a7bbee8fc743f3a5a462dcffca4b9b203" title="Returns true if we need to reset the mission. " alt="" coords="413,288,571,330"/>
-<area shape="rect" id="node39" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="237,1318,320,1345"/>
-<area shape="rect" id="node42" href="$d0/df9/class_navigator.html#a118e53f014f6d15a14d4a5188eee47c5" title="Reset cruising speed to default values. " alt="" coords="195,1435,362,1476"/>
-<area shape="rect" id="node43" href="$db/dad/class_mission.html#a7f410937084a02056293c52acdb93a98" title="Reset offboard mission. " alt="" coords="883,103,1042,144"/>
-<area shape="rect" id="node46" href="$d0/df9/class_navigator.html#a74b7532beec44c110e8dd61bbeaa5e53" title="Set the cruising speed. " alt="" coords="201,1500,357,1542"/>
-<area shape="rect" id="node47" href="$db/dad/class_mission.html#af0f2816fb1303ccc94827f7f7f2d2b99" title="Update offboard mission topic. " alt="" coords="195,1202,363,1243"/>
-<area shape="rect" id="node3" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="621,743,796,784"/>
-<area shape="rect" id="node29" href="$d0/df9/class_navigator.html#ac968d2895795be36ed43fe0c8023a03d" title="Navigator::increment\l_mission_instance_count" alt="" coords="624,1268,793,1310"/>
-<area shape="rect" id="node31" href="$d0/df9/class_navigator.html#a7ab887dfa8f6543d42ad6564eadd9924" title="Navigator::set_mission\l_result_updated" alt="" coords="1129,1386,1285,1427"/>
-<area shape="rect" id="node32" href="$d0/df9/class_navigator.html#a13297058904e4fbeaa9b3a8fea380af2" title="Navigator::mission\l_landing_required" alt="" coords="643,1151,774,1192"/>
-<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#af420cf45eb57f6d30688e5be39f6b5be" title="Navigator::home_alt\l_valid" alt="" coords="893,619,1032,660"/>
-<area shape="rect" id="node6" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="1129,714,1285,755"/>
-<area shape="rect" id="node7" href="$d0/d52/class_mission_feasibility_checker.html#ad2f505f8086fe3cf231ee07b96e354fa" title="MissionFeasibilityChecker\l::checkDistanceToFirstWaypoint" alt="" coords="856,867,1069,908"/>
-<area shape="rect" id="node18" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Navigator::get_home\l_position" alt="" coords="1136,896,1279,938"/>
-<area shape="rect" id="node20" href="$d0/d52/class_mission_feasibility_checker.html#acd2aa67347aa222e7fbfc810e6ddc41d" title="MissionFeasibilityChecker\l::checkMissionItemValidity" alt="" coords="873,488,1052,530"/>
-<area shape="rect" id="node22" href="$d0/d52/class_mission_feasibility_checker.html#ac4a0f0b4cc2f87d4631c882428afe85d" title="MissionFeasibilityChecker\l::checkDistancesBetweenWaypoints" alt="" coords="844,802,1081,843"/>
-<area shape="rect" id="node23" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="875,684,1050,726"/>
-<area shape="rect" id="node24" href="$d0/d52/class_mission_feasibility_checker.html#a5e0f002d5237c920181f7d13c0e199d9" title="MissionFeasibilityChecker\l::checkHomePositionAltitude" alt="" coords="867,1050,1058,1091"/>
-<area shape="rect" id="node25" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="885,270,1040,297"/>
-<area shape="rect" id="node26" href="$d0/d52/class_mission_feasibility_checker.html#ac20191a66873ba5a153419de9924162d" title="MissionFeasibilityChecker\l::checkRotarywing" alt="" coords="875,554,1050,595"/>
-<area shape="rect" id="node27" href="$d0/d52/class_mission_feasibility_checker.html#a0c21dc24c2ca1a2c2619abb34b565ddb" title="MissionFeasibilityChecker\l::checkFixedwing" alt="" coords="875,984,1050,1026"/>
-<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="1551,322,1677,349"/>
-<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="1333,447,1500,488"/>
-<area shape="rect" id="node17" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="1376,212,1457,238"/>
-<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1735,373,1823,400"/>
-<area shape="rect" id="node11" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="1736,424,1823,450"/>
-<area shape="rect" id="node12" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="1736,322,1823,349"/>
-<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1728,474,1831,501"/>
-<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="1548,474,1680,501"/>
-<area shape="rect" id="node16" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="1571,424,1657,450"/>
-<area shape="rect" id="node30" href="$d0/df9/class_navigator.html#a2eb2d134cd59a4266f854075c9f2a8b9" title="Navigator::set_mission\l_failure" alt="" coords="885,1268,1041,1310"/>
-<area shape="rect" id="node33" href="$d8/d7e/class_r_t_l.html#a4d8eee6dfb478d9130c0ee642a180397" title="RTL::rtl_type" alt="" coords="913,1166,1012,1193"/>
-<area shape="rect" id="node40" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="637,1524,780,1566"/>
-<area shape="rect" id="node41" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="421,1594,563,1635"/>
-<area shape="rect" id="node44" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="1170,237,1245,264"/>
-<area shape="rect" id="node45" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1145,161,1270,188"/>
-<area shape="rect" id="node48" href="$d0/df9/class_navigator.html#aadb6e4e2fc72366317916bf4c0672d28" title="Set triplets to invalid. " alt="" coords="411,1324,573,1350"/>
-<area shape="rect" id="node49" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="455,1425,529,1452"/>
-<area shape="rect" id="node50" href="$db/dad/class_mission.html#a5a6db7f3f28dcba943af76ffe74546da" title="Set the current offboard mission item. " alt="" coords="883,1386,1043,1427"/>
+<area shape="rect" id="node2" href="$db/dad/class_mission.html#a5fc318978e5ed67af2e013eea6a41b2e" title="Check whether a mission is ready to go. " alt="" coords="409,1052,572,1093"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#ac06b22528a29f5026a17c3a94ebefc0f" title="Navigator::home_position\l_valid" alt="" coords="876,209,1047,251"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a3e79510848c9ee7d821d33a35f6779f3" title="Retrieve from the data manager file. " alt="" coords="1183,305,1255,331"/>
+<area shape="rect" id="node22" href="$d0/df9/class_navigator.html#a195ae35247b8133508746e9cbb4ba287" title="Navigator::get_mission\l_result" alt="" coords="1141,1009,1297,1051"/>
+<area shape="rect" id="node24" href="$d0/df9/class_navigator.html#adb7546138df58a04abb0f9121207bd9d" title="Navigator::get_land\l_detected" alt="" coords="1152,1461,1287,1503"/>
+<area shape="rect" id="node33" href="$db/dad/class_mission.html#a1ce838aa04eceb422cb0cddbd95be9db" title="Find and store the index of the landing sequence (DO_LAND_START) " alt="" coords="633,1403,781,1444"/>
+<area shape="rect" id="node39" href="$d6/d47/dataman_8cpp.html#a1fa2ba1e37a3615ca23fe3cbf42c12be" title="Lock all items of a type. " alt="" coords="1184,86,1255,113"/>
+<area shape="rect" id="node40" href="$d6/d47/dataman_8cpp.html#a9a75eafdd8cf3393993fa2d129a0c16f" title="Unlock a data Item. " alt="" coords="1177,137,1262,163"/>
+<area shape="rect" id="node41" href="$d0/df9/class_navigator.html#a919b872e25ad4c3d52f0229572a41579" title="Navigator::get_can\l_loiter_at_sp" alt="" coords="212,1540,344,1581"/>
+<area shape="rect" id="node42" href="$db/dad/class_mission.html#a7bbee8fc743f3a5a462dcffca4b9b203" title="Returns true if we need to reset the mission. " alt="" coords="412,935,569,976"/>
+<area shape="rect" id="node43" href="$d0/df9/class_navigator.html#a118e53f014f6d15a14d4a5188eee47c5" title="Reset cruising speed to default values. " alt="" coords="195,1605,361,1647"/>
+<area shape="rect" id="node44" href="$db/dad/class_mission.html#a2b7fcee1d3f0f896bf24854571afb76c" title="Reset mission. " alt="" coords="883,107,1039,134"/>
+<area shape="rect" id="node46" href="$d0/df9/class_navigator.html#a74b7532beec44c110e8dd61bbeaa5e53" title="Set the cruising speed. " alt="" coords="200,1671,356,1712"/>
+<area shape="rect" id="node47" href="$db/dad/class_mission.html#aa717a0c8f848c0feaff1307664e749e6" title="Update mission topic. " alt="" coords="195,1169,361,1195"/>
+<area shape="rect" id="node3" href="$d0/d52/class_mission_feasibility_checker.html#a0e2dc0a164e6afa0f257078c9537e3f5" title="MissionFeasibilityChecker\l::checkMissionFeasible" alt="" coords="620,653,795,695"/>
+<area shape="rect" id="node34" href="$d0/df9/class_navigator.html#ac968d2895795be36ed43fe0c8023a03d" title="Navigator::increment\l_mission_instance_count" alt="" coords="623,1337,792,1379"/>
+<area shape="rect" id="node36" href="$d0/df9/class_navigator.html#a7ab887dfa8f6543d42ad6564eadd9924" title="Navigator::set_mission\l_result_updated" alt="" coords="1141,1313,1297,1355"/>
+<area shape="rect" id="node37" href="$d0/df9/class_navigator.html#a13297058904e4fbeaa9b3a8fea380af2" title="Navigator::mission\l_landing_required" alt="" coords="642,1052,773,1093"/>
+<area shape="rect" id="node5" href="$d0/df9/class_navigator.html#af420cf45eb57f6d30688e5be39f6b5be" title="Navigator::home_alt\l_valid" alt="" coords="892,471,1031,512"/>
+<area shape="rect" id="node6" href="$d0/df9/class_navigator.html#a77f2b42e7b47ccad204fa6cecb4b0b55" title="Navigator::get_mavlink\l_log_pub" alt="" coords="1141,573,1297,615"/>
+<area shape="rect" id="node7" href="$d0/d52/class_mission_feasibility_checker.html#ad2f505f8086fe3cf231ee07b96e354fa" title="MissionFeasibilityChecker\l::checkDistanceToFirstWaypoint" alt="" coords="855,784,1068,825"/>
+<area shape="rect" id="node21" href="$d0/df9/class_navigator.html#a0c139e93bfd881fd79ee9e47f326895c" title="Getters. " alt="" coords="1148,873,1291,915"/>
+<area shape="rect" id="node23" href="$d0/d52/class_mission_feasibility_checker.html#acd2aa67347aa222e7fbfc810e6ddc41d" title="MissionFeasibilityChecker\l::checkMissionItemValidity" alt="" coords="872,653,1051,695"/>
+<area shape="rect" id="node25" href="$d0/d52/class_mission_feasibility_checker.html#ac4a0f0b4cc2f87d4631c882428afe85d" title="MissionFeasibilityChecker\l::checkDistancesBetweenWaypoints" alt="" coords="843,719,1080,760"/>
+<area shape="rect" id="node26" href="$d0/d52/class_mission_feasibility_checker.html#a1cbc7d04baff29ddc8894ca7ea1d32db" title="MissionFeasibilityChecker\l::checkGeofence" alt="" coords="874,340,1049,381"/>
+<area shape="rect" id="node29" href="$d0/d52/class_mission_feasibility_checker.html#a5e0f002d5237c920181f7d13c0e199d9" title="MissionFeasibilityChecker\l::checkHomePositionAltitude" alt="" coords="866,588,1057,629"/>
+<area shape="rect" id="node30" href="$d0/df9/class_navigator.html#a6ba35989131fb991f6ff0e107230272e" title="Navigator::get_vstatus" alt="" coords="884,966,1039,993"/>
+<area shape="rect" id="node31" href="$d0/d52/class_mission_feasibility_checker.html#a4404f88391d8d4d060609381c43ec6ed" title="MissionFeasibilityChecker\l::checkRotarywing" alt="" coords="874,849,1049,891"/>
+<area shape="rect" id="node32" href="$d0/d52/class_mission_feasibility_checker.html#ad9970b6f3d1584b0a33461e4c4bc960d" title="MissionFeasibilityChecker\l::checkFixedwing" alt="" coords="874,405,1049,447"/>
+<area shape="rect" id="node8" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1200,790,1239,817"/>
+<area shape="rect" id="node19" href="$da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923" title="MissionBlock::item\l_contains_position" alt="" coords="1153,640,1286,681"/>
+<area shape="rect" id="node20" href="$d7/d09/geo_8cpp.html#aa534a8020615f97fdd342c587211d557" title="Returns the distance to the next waypoint in meters. " alt="" coords="1146,721,1293,763"/>
+<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="1577,305,1702,331"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="1359,137,1525,179"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="1401,86,1483,113"/>
+<area shape="rect" id="node16" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1401,254,1483,281"/>
+<area shape="rect" id="node18" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1406,305,1478,331"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1761,203,1849,230"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1753,153,1856,179"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="1573,153,1705,179"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="1577,254,1702,281"/>
+<area shape="rect" id="node27" href="$d0/df9/class_navigator.html#a76da78150b850b4aec9b736a24f7a158" title="Navigator::get_geofence" alt="" coords="1137,507,1301,534"/>
+<area shape="rect" id="node28" href="$d7/dbe/class_geofence.html#a4320f677f09ba52177dfb86e09875bfe" title="Geofence::isHomeRequired" alt="" coords="1128,457,1311,483"/>
+<area shape="rect" id="node35" href="$d0/df9/class_navigator.html#a2eb2d134cd59a4266f854075c9f2a8b9" title="Navigator::set_mission\l_failure" alt="" coords="883,1372,1039,1413"/>
+<area shape="rect" id="node38" href="$d8/d7e/class_r_t_l.html#ad1ed0e8f86c143b13292d918a3b3cb64" title="RTL::rtl_type" alt="" coords="912,1067,1011,1094"/>
+<area shape="rect" id="node45" href="$d6/d47/dataman_8cpp.html#a9d8d206c43b9939cfd6f5d3aed46983b" title="Write to the data manager file. " alt="" coords="1182,203,1257,230"/>
+<area shape="rect" id="node48" href="$d0/df9/class_navigator.html#adf88a45dcede1b433e9a28c7a94ab0c8" title="Navigator::reset_vroi" alt="" coords="419,1118,562,1145"/>
+<area shape="rect" id="node49" href="$db/dad/class_mission.html#a31e680db5d2c427b6ca71bfdcc8db6fc" title="Set the current mission item. " alt="" coords="637,1220,777,1261"/>
+<area shape="rect" id="node50" href="$db/dad/class_mission.html#ac119815548db9afb0a79440b62cc7295" title="Save current mission state to dataman. " alt="" coords="884,275,1039,316"/>
 </map>

@@ -1,0 +1,41 @@
+<map id="src/modules/commander/Commander.cpp" name="src/modules/commander/Commander.cpp">
+<area shape="rect" id="node2" href="$d8/d55/_commander_8hpp.html" title="Commander.hpp" alt="" coords="827,102,946,129"/>
+<area shape="rect" id="node3" href="$d2/de8/state__machine__helper_8h.html" title="State machine helper functions definitions. " alt="" coords="509,191,669,218"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="111,281,227,307"/>
+<area shape="rect" id="node6" href="$d5/dc1/battery__status_8h.html" title="uORB/topics/battery\l_status.h" alt="" coords="604,273,745,315"/>
+<area shape="rect" id="node7" href="$d9/da0/safety_8h.html" title="uORB/topics/safety.h" alt="" coords="398,281,546,307"/>
+<area shape="rect" id="node11" href="$d9/d33/telemetry__status_8h.html" title="uORB/topics/telemetry\l_status.h" alt="" coords="744,184,899,225"/>
+<area shape="rect" id="node12" href="$d1/d0c/esc__status_8h.html" title="uORB/topics/esc_status.h" alt="" coords="1285,191,1461,218"/>
+<area shape="rect" id="node13" href="$db/d25/_pre_flight_check_8hpp.html" title="Check if flight is safely possible if not prevent it and inform the user. " alt="" coords="277,184,435,225"/>
+<area shape="rect" id="node14" href="$d6/d2f/_arm_authorization_8h.html" title="Arming/ArmAuthorization\l/ArmAuthorization.h" alt="" coords="86,184,253,225"/>
+<area shape="rect" id="node15" href="$d4/d79/_health_flags_8h.html" title="Contains helper functions to efficiently set the system health flags from commander and preflight che..." alt="" coords="1073,95,1210,136"/>
+<area shape="rect" id="node16" href="$d0/db5/accelerometer__calibration_8h.html" title="Definition of accelerometer calibration. " alt="" coords="1235,102,1416,129"/>
+<area shape="rect" id="node17" href="$d0/dc9/airspeed__calibration_8h.html" title="airspeed_calibration.h" alt="" coords="1441,102,1589,129"/>
+<area shape="rect" id="node18" href="$d8/d51/baro__calibration_8h.html" title="baro_calibration.h" alt="" coords="1613,102,1737,129"/>
+<area shape="rect" id="node19" href="$d7/da9/calibration__routines_8h.html" title="calibration_routines.h" alt="" coords="1761,102,1906,129"/>
+<area shape="rect" id="node20" href="$d0/dbe/commander__helper_8h.html" title="Commander helper functions definitions. " alt="" coords="1930,102,2073,129"/>
+<area shape="rect" id="node21" href="$d1/d14/esc__calibration_8h.html" title="Definition of esc calibration. " alt="" coords="2097,102,2217,129"/>
+<area shape="rect" id="node22" href="$df/d3a/gyro__calibration_8h.html" title="Airspeed sensor calibration routine. " alt="" coords="2242,102,2366,129"/>
+<area shape="rect" id="node23" href="$d4/db8/mag__calibration_8h.html" title="Barometer calibration routine. " alt="" coords="2390,102,2514,129"/>
+<area shape="rect" id="node24" href="$dd/d20/px4__custom__mode_8h.html" title="PX4 custom flight modes. " alt="" coords="2538,102,2681,129"/>
+<area shape="rect" id="node25" href="$d3/dc5/rc__calibration_8h.html" title="Remote Control calibration routine. " alt="" coords="2705,102,2815,129"/>
+<area shape="rect" id="node26" href="$db/d6e/dataman_8h.html" title="DATAMANAGER driver. " alt="" coords="2891,102,3029,129"/>
+<area shape="rect" id="node27" href="$d4/d9d/navigation_8h.html" title="Definition of a mission consisting of mission items. " alt="" coords="2967,191,3116,218"/>
+<area shape="rect" id="node28" href="$db/d02/build_2doxygen_2u_o_r_b_2topics_2mission_8h.html" title="uORB/topics/mission.h" alt="" coords="2851,281,3008,307"/>
+<area shape="rect" id="node29" href="$d9/d25/drv__tone__alarm_8h.html" title="Driver for the PX4 audio alarm port, /dev/tone_alarm. " alt="" coords="3104,102,3269,129"/>
+<area shape="rect" id="node30" href="$db/d35/geo_8h.html" title="Definition of geo / math functions to perform geodesic calculations. " alt="" coords="3293,102,3411,129"/>
+<area shape="rect" id="node36" href="$d2/dd4/circuit__breaker_8h.html" title="circuit_breaker/circuit\l_breaker.h" alt="" coords="4328,95,4475,136"/>
+<area shape="rect" id="node37" href="$d2/d58/src_2lib_2systemlib_2mavlink__log_8h.html" title="systemlib/mavlink_log.h" alt="" coords="4499,102,4661,129"/>
+<area shape="rect" id="node41" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="4942,95,5090,136"/>
+<area shape="rect" id="node42" href="$d3/dfb/build_2doxygen_2u_o_r_b_2topics_2cpuload_8h.html" title="uORB/topics/cpuload.h" alt="" coords="5115,102,5272,129"/>
+<area shape="rect" id="node43" href="$d7/ddd/geofence__result_8h.html" title="uORB/topics/geofence\l_result.h" alt="" coords="5296,95,5451,136"/>
+<area shape="rect" id="node44" href="$d0/d28/manual__control__setpoint_8h.html" title="uORB/topics/manual\l_control_setpoint.h" alt="" coords="5475,95,5618,136"/>
+<area shape="rect" id="node45" href="$d1/d88/build_2doxygen_2u_o_r_b_2topics_2mavlink__log_8h.html" title="uORB/topics/mavlink\l_log.h" alt="" coords="5643,95,5789,136"/>
+<area shape="rect" id="node46" href="$d4/d58/power__button__state_8h.html" title="uORB/topics/power_button\l_state.h" alt="" coords="5813,95,5992,136"/>
+<area shape="rect" id="node47" href="$dc/d50/subsystem__info_8h.html" title="uORB/topics/subsystem\l_info.h" alt="" coords="6016,95,6181,136"/>
+<area shape="rect" id="node48" href="$d6/d0c/system__power_8h.html" title="uORB/topics/system\l_power.h" alt="" coords="6205,95,6349,136"/>
+<area shape="rect" id="node49" href="$d8/ddd/vehicle__land__detected_8h.html" title="uORB/topics/vehicle\l_land_detected.h" alt="" coords="6374,95,6517,136"/>
+<area shape="rect" id="node50" href="$d0/d75/vtol__vehicle__status_8h.html" title="uORB/topics/vtol_vehicle\l_status.h" alt="" coords="6541,95,6712,136"/>
+<area shape="rect" id="node8" href="$db/d33/_failure_detector_8hpp.html" title="Base class for failure detection logic based on vehicle states for failsafe triggering. " alt="" coords="923,184,1077,225"/>
+<area shape="rect" id="node10" href="$df/def/blocks_8hpp.html" title="Controller library code. " alt="" coords="1102,191,1261,218"/>
+</map>

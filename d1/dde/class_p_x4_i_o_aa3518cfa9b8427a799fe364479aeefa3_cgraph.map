@@ -1,51 +1,51 @@
 <map id="PX4IO::set_update_rate" name="PX4IO::set_update_rate">
-<area shape="rect" id="node2" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="876,79,1017,105"/>
-<area shape="rect" id="node6" href="$d1/dde/class_p_x4_i_o.html#a85db0292370b5380301fa2c1422486c8" title="Detect if a PX4IO is connected. " alt="" coords="451,971,556,997"/>
-<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="231,1224,357,1251"/>
-<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="233,1275,355,1301"/>
-<area shape="rect" id="node13" href="$d8/daf/class_airspeed.html#a8a2f9a36f6bf04dfa1c7cd189559bf78" title="Airspeed::init" alt="" coords="245,844,343,871"/>
-<area shape="rect" id="node18" href="$d8/daf/class_airspeed.html#a92d892eca983708055b4fa95169a1ab2" title="Airspeed::ioctl" alt="" coords="451,1123,556,1149"/>
-<area shape="rect" id="node22" href="$dd/dd3/classdevice_1_1_device.html#a48f38b84572d31ca4ff699213907437e" title="Perform a device&#45;specific operation. " alt="" coords="223,1325,365,1352"/>
-<area shape="rect" id="node23" href="$d1/dde/class_p_x4_i_o.html#a37995636f5b1dacc47fa338963f38c9b" title="IO Control handler. " alt="" coords="247,585,341,612"/>
-<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="877,129,1016,156"/>
-<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="881,231,1012,257"/>
-<area shape="rect" id="node35" href="$db/dcf/classdevice_1_1_c_dev.html#ae56454829799e967eadc8bc87927c21b" title="Perform a read from the device. " alt="" coords="879,281,1014,308"/>
-<area shape="rect" id="node36" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="917,383,977,409"/>
-<area shape="rect" id="node38" href="$d1/dde/class_p_x4_i_o.html#afa47c2f4de1c150b0f40829ed09ebef4" title="Constructor. " alt="" coords="449,920,557,947"/>
-<area shape="rect" id="node39" href="$de/dfe/px4io_8cpp.html#ab5e695dd74013984141ba0a62efe22fa" title="px4io_main" alt="" coords="250,1021,338,1048"/>
-<area shape="rect" id="node40" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="479,1199,527,1225"/>
-<area shape="rect" id="node47" href="$d0/d52/px4io__serial_8cpp.html#a56dafde1d10b8e76a1a27f7e34fa0f4c" title="PX4IO_serial_interface" alt="" coords="216,1376,372,1403"/>
-<area shape="rect" id="node48" href="$d1/dde/class_p_x4_i_o.html#a63ce8280fad3cb365a958b8f2c17b6ac" title="write handler. " alt="" coords="245,1173,343,1200"/>
-<area shape="rect" id="node3" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1101,107,1236,133"/>
-<area shape="rect" id="node4" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1084,5,1253,32"/>
-<area shape="rect" id="node5" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1095,56,1243,83"/>
-<area shape="rect" id="node7" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="678,869,766,896"/>
-<area shape="rect" id="node9" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="882,661,1011,688"/>
-<area shape="rect" id="node8" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="884,869,1009,896"/>
-<area shape="rect" id="node10" href="$dd/dd3/classdevice_1_1_device.html#a0700ecd19a8206ba1a378ca8d2eca273" title="Read directly from the device. " alt="" coords="1097,661,1240,688"/>
-<area shape="rect" id="node14" href="$d8/daf/class_airspeed.html#a27d2443455edb77d4232ce10494983fb" title="Airspeed::measure" alt="" coords="438,819,569,845"/>
-<area shape="rect" id="node15" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="436,768,571,795"/>
-<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="651,803,793,845"/>
-<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="651,738,793,779"/>
-<area shape="rect" id="node19" href="$d8/daf/class_airspeed.html#a68fc3d30a0797e4288a0e3944ffc532c" title="Initialise the automatic measurement state machine and start it. " alt="" coords="669,1224,775,1251"/>
-<area shape="rect" id="node21" href="$d8/daf/class_airspeed.html#a4ea58242d6de23cefa9c5a5046be1ebe" title="Stop the automatic measurement state machine. " alt="" coords="669,1173,775,1200"/>
-<area shape="rect" id="node20" href="$d8/daf/class_airspeed.html#a8eba04e2651ee7f7f06f2b68bbecb440" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="857,1224,1036,1251"/>
-<area shape="rect" id="node24" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="647,585,797,612"/>
-<area shape="rect" id="node25" href="$d1/dde/class_p_x4_i_o.html#aba8d6360b436affe17f67a8df1784c55" title="write register(s) " alt="" coords="882,560,1011,587"/>
-<area shape="rect" id="node27" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="435,484,571,511"/>
-<area shape="rect" id="node37" href="$d1/dde/class_p_x4_i_o.html#ab1b846bd66eace9b6b685a59f41618d1" title="PX4IO::system_status" alt="" coords="426,585,581,612"/>
-<area shape="rect" id="node26" href="$dd/dd3/classdevice_1_1_device.html#a233074b15f0089e91f498121d4d85a53" title="Write directly to the device. " alt="" coords="1096,560,1241,587"/>
-<area shape="rect" id="node28" href="$d1/dde/class_p_x4_i_o.html#a742baa5843143d89cd3d0c9672e812c9" title="Fetch and print debug console output. " alt="" coords="654,231,790,257"/>
-<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1099,158,1238,199"/>
-<area shape="rect" id="node32" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="1099,223,1238,265"/>
-<area shape="rect" id="node33" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="1103,289,1234,330"/>
-<area shape="rect" id="node34" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="1092,354,1245,395"/>
-<area shape="rect" id="node43" href="$d4/d36/class_p_x4_i_o___uploader.html#a18292fa384d55d539ed8792f7ff180ad" title="PX4IO_Uploader::upload" alt="" coords="420,1021,587,1048"/>
-<area shape="rect" id="node41" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="646,1325,798,1352"/>
-<area shape="rect" id="node42" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="681,1275,763,1301"/>
-<area shape="rect" id="node44" href="$d4/d36/class_p_x4_i_o___uploader.html#a71919be9924a7eb5300cb7e59ed3257f" title="PX4IO_Uploader::log" alt="" coords="649,1021,795,1048"/>
-<area shape="rect" id="node45" href="$d4/d36/class_p_x4_i_o___uploader.html#a95aa70b1252b8bff39d3dc62d88950a4" title="PX4IO_Uploader::sync" alt="" coords="644,1072,800,1099"/>
-<area shape="rect" id="node46" href="$d4/d36/class_p_x4_i_o___uploader.html#aac78543a9598274f9a227a565859d23a" title="PX4IO_Uploader::get_info" alt="" coords="635,1123,809,1149"/>
-<area shape="rect" id="node49" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="462,1427,545,1453"/>
-<area shape="rect" id="node50" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="467,1477,539,1504"/>
+<area shape="rect" id="node2" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="645,60,775,87"/>
+<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="238,1783,350,1809"/>
+<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a85db0292370b5380301fa2c1422486c8" title="Detect if a PX4IO is connected. " alt="" coords="451,871,556,897"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="647,668,773,695"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="233,1200,355,1227"/>
+<area shape="rect" id="node22" href="$d8/daf/class_airspeed.html#a8a2f9a36f6bf04dfa1c7cd189559bf78" title="Airspeed::init" alt="" coords="245,339,343,365"/>
+<area shape="rect" id="node25" href="$d8/daf/class_airspeed.html#a92d892eca983708055b4fa95169a1ab2" title="Airspeed::ioctl" alt="" coords="451,921,556,948"/>
+<area shape="rect" id="node27" href="$dd/dd3/classdevice_1_1_device.html#a48f38b84572d31ca4ff699213907437e" title="Perform a device&#45;specific operation. " alt="" coords="223,1833,365,1860"/>
+<area shape="rect" id="node28" href="$d1/dde/class_p_x4_i_o.html#a37995636f5b1dacc47fa338963f38c9b" title="IO Control handler. " alt="" coords="247,1605,341,1632"/>
+<area shape="rect" id="node33" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="646,111,774,137"/>
+<area shape="rect" id="node35" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="650,216,770,243"/>
+<area shape="rect" id="node39" href="$d1/dde/class_p_x4_i_o.html#afa47c2f4de1c150b0f40829ed09ebef4" title="Constructor. " alt="" coords="449,719,557,745"/>
+<area shape="rect" id="node40" href="$de/dfe/px4io_8cpp.html#ab5e695dd74013984141ba0a62efe22fa" title="px4io_main" alt="" coords="250,769,338,796"/>
+<area shape="rect" id="node41" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="479,820,527,847"/>
+<area shape="rect" id="node42" href="$d8/d04/namespacelps25h.html#accc089fb6426d2bed21ea7513ce0b70f" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="458,161,549,188"/>
+<area shape="rect" id="node44" href="$d0/d52/px4io__serial_8cpp.html#a56dafde1d10b8e76a1a27f7e34fa0f4c" title="PX4IO_serial_interface" alt="" coords="216,541,372,568"/>
+<area shape="rect" id="node49" href="$d8/d26/classcdev_1_1_c_dev.html#a27aeca35ca67af03a4206b8409ec615b" title="Perform a read from the device. " alt="" coords="231,1884,357,1911"/>
+<area shape="rect" id="node50" href="$d1/dde/class_p_x4_i_o.html#a63ce8280fad3cb365a958b8f2c17b6ac" title="write handler. " alt="" coords="661,1783,759,1809"/>
+<area shape="rect" id="node3" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="851,56,975,83"/>
+<area shape="rect" id="node4" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="833,5,992,32"/>
+<area shape="rect" id="node5" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="843,107,982,133"/>
+<area shape="rect" id="node8" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="642,407,778,449"/>
+<area shape="rect" id="node9" href="$d1/dde/class_p_x4_i_o.html#a78a41abc35fc123c07895b4eba64b5f3" title="read register(s) " alt="" coords="848,1555,977,1581"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="455,1175,552,1201"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="462,1225,545,1252"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="452,1276,555,1303"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="452,1327,555,1353"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="459,1377,547,1404"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="464,1428,543,1455"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="462,1479,545,1505"/>
+<area shape="rect" id="node19" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="420,1023,587,1049"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="473,1073,534,1100"/>
+<area shape="rect" id="node21" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="423,1124,584,1151"/>
+<area shape="rect" id="node23" href="$d8/daf/class_airspeed.html#a27d2443455edb77d4232ce10494983fb" title="Airspeed::measure" alt="" coords="438,263,569,289"/>
+<area shape="rect" id="node24" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="436,313,571,340"/>
+<area shape="rect" id="node26" href="$d8/daf/class_airspeed.html#a68fc3d30a0797e4288a0e3944ffc532c" title="Initialise the automatic measurement state machine and start it. " alt="" coords="657,921,763,948"/>
+<area shape="rect" id="node29" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="635,1631,785,1657"/>
+<area shape="rect" id="node30" href="$d1/dde/class_p_x4_i_o.html#aba8d6360b436affe17f67a8df1784c55" title="write register(s) " alt="" coords="848,1707,977,1733"/>
+<area shape="rect" id="node31" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="435,1631,571,1657"/>
+<area shape="rect" id="node32" href="$d1/dde/class_p_x4_i_o.html#a61cf06fa1e4219e34c970ad4fd3c6dd8" title="PX4IO::system_status" alt="" coords="426,1580,581,1607"/>
+<area shape="rect" id="node34" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="834,157,991,184"/>
+<area shape="rect" id="node36" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="835,209,991,250"/>
+<area shape="rect" id="node37" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="835,275,991,301"/>
+<area shape="rect" id="node38" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="841,326,984,367"/>
+<area shape="rect" id="node43" href="$d4/d36/class_p_x4_i_o___uploader.html#a18292fa384d55d539ed8792f7ff180ad" title="PX4IO_Uploader::upload" alt="" coords="420,769,587,796"/>
+<area shape="rect" id="node45" href="$d2/d5e/protocol_8h.html#abe83ee7cb08ded2374a1a97e0279e07b" title="crc_packet" alt="" coords="460,516,547,543"/>
+<area shape="rect" id="node46" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="462,617,545,644"/>
+<area shape="rect" id="node47" href="$df/d7b/perf__counter_8cpp.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="467,567,540,593"/>
+<area shape="rect" id="node48" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="480,465,527,492"/>
 </map>

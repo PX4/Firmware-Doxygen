@@ -1,9 +1,12 @@
 <map id="frsky_send_frame2" name="frsky_send_frame2">
-<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="413,6,451,33"/>
-<area shape="rect" id="node3" href="$dc/dcb/frsky__data_8cpp.html#af2fd23e5387d33d3bb338820d8092888" title="Formats the decimal latitude/longitude to the required degrees/minutes. " alt="" coords="188,32,311,58"/>
-<area shape="rect" id="node4" href="$dc/dcb/frsky__data_8cpp.html#aa6e8e4ac66c46816835eda3cd831afe6" title="Sends one data id/value pair. " alt="" coords="190,82,309,109"/>
-<area shape="rect" id="node7" href="$dc/dcb/frsky__data_8cpp.html#a636e09e512cf6ffb4b5eb71fb3b1dddb" title="Sends a 0x5E start/stop byte. " alt="" coords="360,133,504,160"/>
-<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="187,184,312,210"/>
-<area shape="rect" id="node5" href="$dc/dcb/frsky__data_8cpp.html#ac1927a5aa3e3f076df7c9cc27c735781" title="Sends one byte, performing byte&#45;stuffing if necessary. " alt="" coords="373,82,491,109"/>
-<area shape="rect" id="node6" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="552,108,603,134"/>
+<area shape="rect" id="node2" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="479,25,518,51"/>
+<area shape="rect" id="node5" href="$dc/dcb/frsky__data_8cpp.html#af2fd23e5387d33d3bb338820d8092888" title="Formats the decimal latitude/longitude to the required degrees/minutes. " alt="" coords="221,37,344,63"/>
+<area shape="rect" id="node6" href="$dc/dcb/frsky__data_8cpp.html#aa6e8e4ac66c46816835eda3cd831afe6" title="Sends one data id/value pair. " alt="" coords="223,87,342,114"/>
+<area shape="rect" id="node9" href="$dc/dcb/frsky__data_8cpp.html#a636e09e512cf6ffb4b5eb71fb3b1dddb" title="Sends a 0x5E start/stop byte. " alt="" coords="427,138,571,165"/>
+<area shape="rect" id="node10" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="187,189,379,215"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="220,239,345,266"/>
+<area shape="rect" id="node3" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="619,25,701,51"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="749,25,836,51"/>
+<area shape="rect" id="node7" href="$dc/dcb/frsky__data_8cpp.html#ac1927a5aa3e3f076df7c9cc27c735781" title="Sends one byte, performing byte&#45;stuffing if necessary. " alt="" coords="439,87,558,114"/>
+<area shape="rect" id="node8" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="635,101,685,127"/>
 </map>

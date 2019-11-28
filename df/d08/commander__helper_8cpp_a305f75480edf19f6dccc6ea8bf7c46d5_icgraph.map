@@ -1,33 +1,33 @@
 <map id="rgbled_set_color_and_mode" name="rgbled_set_color_and_mode">
-<area shape="rect" id="node2" href="$d7/da9/calibration__routines_8h.html#acdad53be697f37d7a6082152b0be508b" title="Perform calibration sequence which require a rest orientation detection prior to calibration. " alt="" coords="908,625,1079,652"/>
-<area shape="rect" id="node6" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1808,334,1927,361"/>
-<area shape="rect" id="node10" href="$da/d73/_commander_8cpp.html#a11781677749dd4c7b3306165a9db7235" title="control_status_leds" alt="" coords="713,52,848,78"/>
-<area shape="rect" id="node11" href="$d0/dbe/commander__helper_8h.html#a29d9478f6945e9b121b2c11c4a83e314" title="set the LED color &amp; mode " alt="" coords="237,153,421,180"/>
-<area shape="rect" id="node12" href="$d0/dbe/commander__helper_8h.html#ab335c1f1cc07d57fa0b0a10af3c024f7" title="tune_failsafe" alt="" coords="733,102,829,129"/>
-<area shape="rect" id="node13" href="$d0/dbe/commander__helper_8h.html#a93b848866e8f1f475dba5d34c911a7fb" title="tune_home_set" alt="" coords="506,305,617,332"/>
-<area shape="rect" id="node16" href="$d0/dbe/commander__helper_8h.html#a0fbfdcc7204af2e319abaf40e7d2b0be" title="tune_mission_fail" alt="" coords="719,169,842,196"/>
-<area shape="rect" id="node17" href="$d0/dbe/commander__helper_8h.html#aa021364ef29e453bc47ea80afec2af55" title="tune_mission_ok" alt="" coords="933,220,1053,246"/>
-<area shape="rect" id="node18" href="$d0/dbe/commander__helper_8h.html#a95b47dab68ab6fcdd951fb1b9dfc64b8" title="Blink red LED and play negative tune (if use_buzzer == true). " alt="" coords="278,498,381,525"/>
-<area shape="rect" id="node31" href="$d0/dbe/commander__helper_8h.html#ad3a2cfa84c8bc14c5d6dc35fcb98ec27" title="Blink white LED and play neutral tune (if use_buzzer == true). " alt="" coords="1159,980,1253,1006"/>
-<area shape="rect" id="node32" href="$d0/dbe/commander__helper_8h.html#a24e135bf6ba98c55a652feab03293aa7" title="Blink green LED and play positive tune (if use_buzzer == true). " alt="" coords="280,878,379,905"/>
-<area shape="rect" id="node3" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="1136,610,1276,651"/>
-<area shape="rect" id="node8" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="1145,676,1267,702"/>
-<area shape="rect" id="node4" href="$d0/db5/accelerometer__calibration_8h.html#ad01f28350f810d176a4ae4bc4e9fa81f" title="do_accel_calibration" alt="" coords="1365,625,1505,652"/>
-<area shape="rect" id="node5" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="1584,752,1760,778"/>
-<area shape="rect" id="node7" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="1609,676,1735,702"/>
-<area shape="rect" id="node9" href="$d4/db8/mag__calibration_8h.html#afc0e4e0619e1f2846eeec88a20aa9b8e" title="do_mag_calibration" alt="" coords="1367,676,1502,702"/>
-<area shape="rect" id="node14" href="$d3/dc6/class_commander.html#a3dffe66c51639e52593d68626698ba60" title="This function initializes the home position an altitude of the vehicle. " alt="" coords="1127,255,1285,296"/>
-<area shape="rect" id="node15" href="$d3/dc6/class_commander.html#a228a3bb17659b7a44a845e304da1191a" title="Commander::handle_command" alt="" coords="1333,422,1536,449"/>
-<area shape="rect" id="node19" href="$d0/d5a/calibration__routines_8cpp.html#a4ed47af7b5676ef2d10df342e47ed78e" title="calibrate_answer_command" alt="" coords="469,878,653,905"/>
-<area shape="rect" id="node25" href="$da/d73/_commander_8cpp.html#ae0d147ece8faaedae07ffcb987b28d42" title="arm_disarm" alt="" coords="1161,524,1251,550"/>
-<area shape="rect" id="node26" href="$da/d73/_commander_8cpp.html#a1eff7d714ab54b99193e7d3a8090e8c8" title="print_reject_mode" alt="" coords="1143,372,1269,398"/>
-<area shape="rect" id="node29" href="$da/d73/_commander_8cpp.html#a01c628c7d19678d54ee677fd2c062a6e" title="print_reject_arm" alt="" coords="504,356,619,382"/>
-<area shape="rect" id="node30" href="$da/d73/_commander_8cpp.html#a0220800d92bc1bc7338fc81a3985c99b" title="answer_command" alt="" coords="497,828,625,854"/>
-<area shape="rect" id="node20" href="$d7/da9/calibration__routines_8h.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="701,726,860,753"/>
-<area shape="rect" id="node21" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="1355,777,1514,804"/>
-<area shape="rect" id="node22" href="$df/d5e/gyro__calibration_8cpp.html#aa965e14493ef6d7bf8afe4d455e871e2" title="gyro_calibration_worker" alt="" coords="914,726,1073,753"/>
-<area shape="rect" id="node24" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="914,676,1073,702"/>
-<area shape="rect" id="node23" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="1367,726,1502,753"/>
-<area shape="rect" id="node27" href="$d3/dc6/class_commander.html#aadc83535d40152c2a955887915ef60d6" title="Commander::set_main\l_state_rc" alt="" coords="1357,356,1512,398"/>
-<area shape="rect" id="node28" href="$d3/dc6/class_commander.html#ade5d0ec0717254516d98549218e1ed74" title="Commander::set_main\l_state" alt="" coords="1595,356,1749,398"/>
+<area shape="rect" id="node2" href="$d7/da9/calibration__routines_8h.html#acdad53be697f37d7a6082152b0be508b" title="Perform calibration sequence which require a rest orientation detection prior to calibration. " alt="" coords="908,644,1079,670"/>
+<area shape="rect" id="node6" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="1772,353,1891,380"/>
+<area shape="rect" id="node10" href="$da/d73/_commander_8cpp.html#ad46b9206dc2d7bcecf66d98233e8900f" title="control_status_leds" alt="" coords="713,58,848,85"/>
+<area shape="rect" id="node11" href="$d0/dbe/commander__helper_8h.html#a29d9478f6945e9b121b2c11c4a83e314" title="set the LED color &amp; mode " alt="" coords="237,160,421,186"/>
+<area shape="rect" id="node12" href="$d0/dbe/commander__helper_8h.html#ab335c1f1cc07d57fa0b0a10af3c024f7" title="tune_failsafe" alt="" coords="513,109,609,136"/>
+<area shape="rect" id="node13" href="$d0/dbe/commander__helper_8h.html#a93b848866e8f1f475dba5d34c911a7fb" title="tune_home_set" alt="" coords="506,312,617,338"/>
+<area shape="rect" id="node16" href="$d0/dbe/commander__helper_8h.html#a0fbfdcc7204af2e319abaf40e7d2b0be" title="tune_mission_fail" alt="" coords="500,185,623,212"/>
+<area shape="rect" id="node17" href="$d0/dbe/commander__helper_8h.html#aa021364ef29e453bc47ea80afec2af55" title="tune_mission_ok" alt="" coords="721,225,841,252"/>
+<area shape="rect" id="node18" href="$d0/dbe/commander__helper_8h.html#a95b47dab68ab6fcdd951fb1b9dfc64b8" title="Blink red LED and play negative tune (if use_buzzer == true). " alt="" coords="278,505,381,532"/>
+<area shape="rect" id="node31" href="$d0/dbe/commander__helper_8h.html#ad3a2cfa84c8bc14c5d6dc35fcb98ec27" title="Blink white LED and play neutral tune (if use_buzzer == true). " alt="" coords="1150,1002,1243,1029"/>
+<area shape="rect" id="node32" href="$d0/dbe/commander__helper_8h.html#a24e135bf6ba98c55a652feab03293aa7" title="Blink green LED and play positive tune (if use_buzzer == true). " alt="" coords="280,876,379,902"/>
+<area shape="rect" id="node3" href="$dd/dcd/accelerometer__calibration_8cpp.html#acd4f65f9010d54644b4089745735d5db" title="do_accel_calibration\l_measurements" alt="" coords="1127,632,1267,674"/>
+<area shape="rect" id="node8" href="$de/d14/mag__calibration_8cpp.html#a2dc4128b387fe7184c94376b0f695485" title="mag_calibrate_all" alt="" coords="1135,698,1258,725"/>
+<area shape="rect" id="node4" href="$d0/db5/accelerometer__calibration_8h.html#ad01f28350f810d176a4ae4bc4e9fa81f" title="do_accel_calibration" alt="" coords="1324,648,1464,674"/>
+<area shape="rect" id="node5" href="$da/d73/_commander_8cpp.html#af62ee6f05861387a2bc3831c160afea8" title="Loop that runs at a lower rate and priority for calibration and parameter tasks. " alt="" coords="1535,749,1711,776"/>
+<area shape="rect" id="node7" href="$da/d73/_commander_8cpp.html#a9351d6b0ff1efb4fd6d687f143be98c7" title="The daemon app only briefly exists to start the background job. " alt="" coords="1560,698,1685,725"/>
+<area shape="rect" id="node9" href="$d4/db8/mag__calibration_8h.html#afc0e4e0619e1f2846eeec88a20aa9b8e" title="do_mag_calibration" alt="" coords="1327,698,1461,725"/>
+<area shape="rect" id="node14" href="$d3/dc6/class_commander.html#a9eb3ab68bc9f6a5fa6d4cf1309f25f7b" title="This function initializes the home position an altitude of the vehicle. " alt="" coords="1315,262,1473,303"/>
+<area shape="rect" id="node15" href="$d3/dc6/class_commander.html#a92e07914c36f1325d54f9b4112702503" title="Commander::handle_command" alt="" coords="1521,378,1724,405"/>
+<area shape="rect" id="node19" href="$d0/d5a/calibration__routines_8cpp.html#a4ed47af7b5676ef2d10df342e47ed78e" title="calibrate_answer_command" alt="" coords="469,850,653,877"/>
+<area shape="rect" id="node25" href="$da/d73/_commander_8cpp.html#a9bcf71d6d1ab4bae79c67bf3d388e1b1" title="arm_disarm" alt="" coords="1349,328,1439,354"/>
+<area shape="rect" id="node26" href="$da/d73/_commander_8cpp.html#a1eff7d714ab54b99193e7d3a8090e8c8" title="print_reject_mode" alt="" coords="1134,429,1259,456"/>
+<area shape="rect" id="node29" href="$da/d73/_commander_8cpp.html#a01c628c7d19678d54ee677fd2c062a6e" title="print_reject_arm" alt="" coords="723,480,838,506"/>
+<area shape="rect" id="node30" href="$da/d73/_commander_8cpp.html#adc02d6b4e57dff77e6f3fe5d6c1002cd" title="answer_command" alt="" coords="1330,546,1458,573"/>
+<area shape="rect" id="node20" href="$d7/da9/calibration__routines_8h.html#abdf15d49cbd1568e504e658e53213f2d" title="Used to periodically check for a cancel command. " alt="" coords="701,749,860,776"/>
+<area shape="rect" id="node21" href="$d0/dc9/airspeed__calibration_8h.html#a86965ddfd735f86625739ca51be885d7" title="do_airspeed_calibration" alt="" coords="1315,800,1473,826"/>
+<area shape="rect" id="node22" href="$df/d5e/gyro__calibration_8cpp.html#aa965e14493ef6d7bf8afe4d455e871e2" title="gyro_calibration_worker" alt="" coords="914,749,1073,776"/>
+<area shape="rect" id="node24" href="$de/d14/mag__calibration_8cpp.html#a836daa065e8db33f120feb0794e03c44" title="mag_calibration_worker" alt="" coords="914,698,1073,725"/>
+<area shape="rect" id="node23" href="$df/d3a/gyro__calibration_8h.html#a4efe4d135d3df2f59371abd80f19801a" title="do_gyro_calibration" alt="" coords="1327,749,1461,776"/>
+<area shape="rect" id="node27" href="$d3/dc6/class_commander.html#aadc83535d40152c2a955887915ef60d6" title="Commander::set_main\l_state_rc" alt="" coords="1317,430,1471,471"/>
+<area shape="rect" id="node28" href="$d3/dc6/class_commander.html#ade5d0ec0717254516d98549218e1ed74" title="Commander::set_main\l_state" alt="" coords="1545,430,1700,471"/>
 </map>

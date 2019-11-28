@@ -11,8 +11,10 @@ var estimator__status_8h =
     [ "ESTIMATOR_STATUS_CS_GND_EFFECT", "d8/d3d/estimator__status_8h.html#ad5b8f638db7b38198a696374902dc145", null ],
     [ "ESTIMATOR_STATUS_CS_GPS", "d8/d3d/estimator__status_8h.html#a3e978c7e0ac627d51ebffdfbd3574533", null ],
     [ "ESTIMATOR_STATUS_CS_GPS_HGT", "d8/d3d/estimator__status_8h.html#adf39637deac52e089783e31c83aadc6e", null ],
+    [ "ESTIMATOR_STATUS_CS_GPS_YAW", "d8/d3d/estimator__status_8h.html#a653ae00d4d5f660050b8f6b34f5e0dda", null ],
     [ "ESTIMATOR_STATUS_CS_IN_AIR", "d8/d3d/estimator__status_8h.html#ad07f0d4d7a9eb81110230cc0c165d38d", null ],
     [ "ESTIMATOR_STATUS_CS_MAG_3D", "d8/d3d/estimator__status_8h.html#a805020de02f0e291194b8e22c65364c6", null ],
+    [ "ESTIMATOR_STATUS_CS_MAG_ALIGNED", "d8/d3d/estimator__status_8h.html#ad2107bbf5e4ace54e81182a0c7803fc5", null ],
     [ "ESTIMATOR_STATUS_CS_MAG_DEC", "d8/d3d/estimator__status_8h.html#a2315e8e1dd05c6f283caa742943c513f", null ],
     [ "ESTIMATOR_STATUS_CS_MAG_FAULT", "d8/d3d/estimator__status_8h.html#a99e38578b41da8c28d5292df1d27d192", null ],
     [ "ESTIMATOR_STATUS_CS_MAG_FIELD", "d8/d3d/estimator__status_8h.html#ac5a3598c05c6555444cf6140c3dc81d1", null ],
@@ -31,7 +33,7 @@ var estimator__status_8h =
     [ "ESTIMATOR_STATUS_GPS_CHECK_FAIL_MAX_VERT_DRIFT", "d8/d3d/estimator__status_8h.html#acd773bdc9f2dcfc22ec0fb1435f946c5", null ],
     [ "ESTIMATOR_STATUS_GPS_CHECK_FAIL_MAX_VERT_ERR", "d8/d3d/estimator__status_8h.html#aeeda4ba88c82f2915d4767d96b622dc9", null ],
     [ "ESTIMATOR_STATUS_GPS_CHECK_FAIL_MAX_VERT_SPD_ERR", "d8/d3d/estimator__status_8h.html#a57c6c426f1c462923e242efc904fde04", null ],
-    [ "ESTIMATOR_STATUS_GPS_CHECK_FAIL_MIN_GDOP", "d8/d3d/estimator__status_8h.html#a8bcd95dc62ae2134ed5ff712238fa2cc", null ],
+    [ "ESTIMATOR_STATUS_GPS_CHECK_FAIL_MIN_PDOP", "d8/d3d/estimator__status_8h.html#a204a38365fcbd869ed154bf3e0730968", null ],
     [ "ESTIMATOR_STATUS_GPS_CHECK_FAIL_MIN_SAT_COUNT", "d8/d3d/estimator__status_8h.html#ad019aa5cbe61706c8a81c2fa2c42292f", null ],
     [ "ORB_DECLARE", "d8/d3d/estimator__status_8h.html#a63f391214aa55adb63850c42c6b58d66", null ]
 ];

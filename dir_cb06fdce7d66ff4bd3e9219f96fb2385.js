@@ -18,6 +18,6 @@ var dir_cb06fdce7d66ff4bd3e9219f96fb2385 =
       [ "s_period_hi", "d6/dae/structlinux__pwm__out_1_1_ocpoc_mmap_p_w_m_out_1_1s__period__hi.html", "d6/dae/structlinux__pwm__out_1_1_ocpoc_mmap_p_w_m_out_1_1s__period__hi" ],
       [ "pwm_cmd", "d8/dfa/structlinux__pwm__out_1_1_ocpoc_mmap_p_w_m_out_1_1pwm__cmd.html", "d8/dfa/structlinux__pwm__out_1_1_ocpoc_mmap_p_w_m_out_1_1pwm__cmd" ]
     ] ],
-    [ "PCA9685.cpp", "d1/dc2/_p_c_a9685_8cpp.html", null ],
+    [ "PCA9685.cpp", "da/dfb/linux__pwm__out_2_p_c_a9685_8cpp.html", null ],
     [ "PCA9685.h", "d4/deb/_p_c_a9685_8h.html", "d4/deb/_p_c_a9685_8h" ]
 ];

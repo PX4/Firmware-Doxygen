@@ -1,22 +1,51 @@
 <map id="device::Device::write" name="device::Device::write">
-<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#aba8d6360b436affe17f67a8df1784c55" title="write register(s) " alt="" coords="199,566,328,593"/>
-<area shape="rect" id="node3" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="1058,237,1145,264"/>
-<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="376,465,527,492"/>
-<area shape="rect" id="node10" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="1231,440,1360,466"/>
-<area shape="rect" id="node12" href="$d1/dde/class_p_x4_i_o.html#a37995636f5b1dacc47fa338963f38c9b" title="IO Control handler. " alt="" coords="834,642,927,669"/>
-<area shape="rect" id="node15" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="590,642,726,669"/>
-<area shape="rect" id="node16" href="$d1/dde/class_p_x4_i_o.html#a8cfa6b6aa261884e8565aace0e0e1d16" title="write a register " alt="" coords="387,592,516,618"/>
-<area shape="rect" id="node17" href="$d1/dde/class_p_x4_i_o.html#a87c6d20b85048636ff90b68f19f91e50" title="Send controls for one group to IO. " alt="" coords="376,120,527,162"/>
-<area shape="rect" id="node19" href="$d1/dde/class_p_x4_i_o.html#aac7b9556eef5abb6fff69a791e1c3a86" title="Push RC channel configuration to IO. " alt="" coords="799,186,963,213"/>
-<area shape="rect" id="node20" href="$d1/dde/class_p_x4_i_o.html#a5f43407295337806319a6db14ff8fd70" title="Print IO status. " alt="" coords="383,744,520,770"/>
-<area shape="rect" id="node21" href="$d1/dde/class_p_x4_i_o.html#a63ce8280fad3cb365a958b8f2c17b6ac" title="write handler. " alt="" coords="609,592,707,618"/>
-<area shape="rect" id="node4" href="$d1/dde/class_p_x4_i_o.html#a99c74f789dc80ee9a7affdd823bae5b7" title="Initialize the PX4IO class. " alt="" coords="1252,237,1339,264"/>
-<area shape="rect" id="node6" href="$d1/dde/class_p_x4_i_o.html#a74cb890a6900e694628206508712f623" title="Disable RC input handling. " alt="" coords="585,323,731,364"/>
-<area shape="rect" id="node8" href="$d1/dde/class_p_x4_i_o.html#aa0019dbf5dc3358f1c7bd9b7d9ab51a9" title="Handle a status update from IO. " alt="" coords="575,389,741,416"/>
-<area shape="rect" id="node11" href="$d1/dde/class_p_x4_i_o.html#acc9f77b9afa6a440b379c0cee93cd93f" title="Update IO&#39;s arming&#45;related state. " alt="" coords="1026,491,1177,532"/>
-<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a8194579120b9bd1afa57bdde73cb4b14" title="Disable RC input handling. " alt="" coords="789,338,972,365"/>
-<area shape="rect" id="node9" href="$d1/dde/class_p_x4_i_o.html#af4f72301ac94392b7e3e1ae734989667" title="Fetch status and alarms from IO. " alt="" coords="807,389,954,416"/>
-<area shape="rect" id="node13" href="$d1/dde/class_p_x4_i_o.html#ab0f88576afa5981275587ab1c4ee974a" title="Handle issuing dsm bind ioctl to px4io. " alt="" coords="1023,642,1179,669"/>
-<area shape="rect" id="node14" href="$d1/dde/class_p_x4_i_o.html#aa3518cfa9b8427a799fe364479aeefa3" title="Set the update rate for actuator outputs from FMU to IO. " alt="" coords="1020,592,1183,618"/>
-<area shape="rect" id="node18" href="$d1/dde/class_p_x4_i_o.html#a13a7232c61281a84cdd5163ca7e32518" title="Send all controls to IO. " alt="" coords="805,120,956,162"/>
+<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#aba8d6360b436affe17f67a8df1784c55" title="write register(s) " alt="" coords="239,299,369,326"/>
+<area shape="rect" id="node14" href="$da/d2e/class_i_c_m20948.html#ac98dca5d5ccd271e119bd0732cf7423e" title="Select a register bank in ICM20948. " alt="" coords="199,746,409,773"/>
+<area shape="rect" id="node20" href="$da/d2e/class_i_c_m20948.html#afa4709b478278444a9da6f8c87428902" title="Write a register in the mpu. " alt="" coords="494,847,637,874"/>
+<area shape="rect" id="node24" href="$d6/df3/class_i_c_m20948__mag.html#ac47774e85be36f261caf87f29c74bfe5" title="ICM20948_mag::write_reg" alt="" coords="745,914,920,941"/>
+<area shape="rect" id="node26" href="$d5/d16/class_m_p_u9250__mag.html#adc6747d96e400031f52949fabef851f8" title="MPU9250_mag::write_reg" alt="" coords="992,1607,1165,1634"/>
+<area shape="rect" id="node30" href="$d6/d73/class_l_p_s22_h_b.html#a4c8639bd3a9d702fa13bfa972d9b847b" title="Write a register. " alt="" coords="233,974,375,1001"/>
+<area shape="rect" id="node33" href="$dc/d03/class_l_p_s25_h.html#a26bd42c9cab415b8b4f0c11fe61c7bf8" title="Write a register. " alt="" coords="238,1050,370,1077"/>
+<area shape="rect" id="node36" href="$df/dd9/class_m_p_u9250.html#ad1709c24cbe9e442c6f097c855b9bbb8" title="Write a register in the mpu. " alt="" coords="233,1329,375,1355"/>
+<area shape="rect" id="node45" href="$d5/d19/class_m_p_u6000.html#a01cf9bdd2aeb79a0f1af424299e9b7f5" title="Write a register in the MPU6000. " alt="" coords="233,1734,375,1761"/>
+<area shape="rect" id="node3" href="$d1/dde/class_p_x4_i_o.html#af587d72e007771e652f8f54aa8d60721" title="check and handle test_motor topic updates " alt="" coords="477,223,653,250"/>
+<area shape="rect" id="node4" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="768,249,897,275"/>
+<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="789,325,876,351"/>
+<area shape="rect" id="node6" href="$d1/dde/class_p_x4_i_o.html#a41f657665797289b1d5b42a1fddda190" title="modify a register " alt="" coords="490,375,641,402"/>
+<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a37995636f5b1dacc47fa338963f38c9b" title="IO Control handler. " alt="" coords="1032,426,1125,453"/>
+<area shape="rect" id="node8" href="$d1/dde/class_p_x4_i_o.html#a259f9594b47c9f89fbf181753c92b2ec" title="Send mixer definition text to IO. " alt="" coords="765,426,901,453"/>
+<area shape="rect" id="node9" href="$d1/dde/class_p_x4_i_o.html#a8cfa6b6aa261884e8565aace0e0e1d16" title="write a register " alt="" coords="501,527,630,554"/>
+<area shape="rect" id="node10" href="$d1/dde/class_p_x4_i_o.html#a87c6d20b85048636ff90b68f19f91e50" title="Send controls for one group to IO. " alt="" coords="490,5,641,47"/>
+<area shape="rect" id="node11" href="$d1/dde/class_p_x4_i_o.html#aac7b9556eef5abb6fff69a791e1c3a86" title="Push RC channel configuration to IO. " alt="" coords="483,274,647,301"/>
+<area shape="rect" id="node12" href="$d1/dde/class_p_x4_i_o.html#a5f43407295337806319a6db14ff8fd70" title="Print IO status. " alt="" coords="497,122,634,149"/>
+<area shape="rect" id="node13" href="$d1/dde/class_p_x4_i_o.html#a63ce8280fad3cb365a958b8f2c17b6ac" title="write handler. " alt="" coords="517,173,614,199"/>
+<area shape="rect" id="node15" href="$da/d2e/class_i_c_m20948.html#a0fa8a88dd60f823e58901a30759c036e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="763,658,903,685"/>
+<area shape="rect" id="node16" href="$da/d2e/class_i_c_m20948.html#a1f13d7a82e3e56bb814da546d20d9ae9" title="whoami result " alt="" coords="771,746,894,773"/>
+<area shape="rect" id="node17" href="$da/d2e/class_i_c_m20948.html#a6a0cad351e917caebcde6f458ed4eee4" title="Read a register from the mpu. " alt="" coords="495,746,635,773"/>
+<area shape="rect" id="node18" href="$da/d2e/class_i_c_m20948.html#ab92b436ee33376505b7861657e88ae0d" title="ICM20948::read_reg16" alt="" coords="488,578,643,605"/>
+<area shape="rect" id="node19" href="$da/d2e/class_i_c_m20948.html#a612377c28415ff8f8cc9978826ab2772" title="Read a register range from the mpu. " alt="" coords="495,680,635,721"/>
+<area shape="rect" id="node21" href="$d6/df3/class_i_c_m20948__mag.html#a490d7c0e4c29dc3858c44be3cbbd4e05" title="ICM20948_mag::ak09916\l_setup" alt="" coords="993,848,1164,889"/>
+<area shape="rect" id="node23" href="$d6/df3/class_i_c_m20948__mag.html#aa38ba3c4cb94c15edf00f15848c4aba9" title="ICM20948_mag::ak09916\l_setup_master_i2c" alt="" coords="747,848,918,889"/>
+<area shape="rect" id="node22" href="$d6/df3/class_i_c_m20948__mag.html#a0e984b8f397e4bdccf1b47ce40d5f389" title="ICM20948_mag::ak09916\l_reset" alt="" coords="1213,877,1384,919"/>
+<area shape="rect" id="node25" href="$d6/df3/class_i_c_m20948__mag.html#a4a61e602f5ad4ecf66aa8d4f1beca3d7" title="ICM20948_mag::ak09916\l_read_adjustments" alt="" coords="993,965,1164,1007"/>
+<area shape="rect" id="node27" href="$d5/d16/class_m_p_u9250__mag.html#af8883d49dda86c44a059a284d6c35f70" title="MPU9250_mag::ak8963\l_read_adjustments" alt="" coords="1217,1545,1380,1587"/>
+<area shape="rect" id="node28" href="$d5/d16/class_m_p_u9250__mag.html#a1c6736e5581e4034713c7c4dcc85dfc8" title="MPU9250_mag::ak8963\l_setup" alt="" coords="1432,1487,1595,1528"/>
+<area shape="rect" id="node29" href="$d5/d16/class_m_p_u9250__mag.html#ae13ace90a4918b9b438b79884c95b370" title="MPU9250_mag::ak8963\l_reset" alt="" coords="1643,1571,1805,1612"/>
+<area shape="rect" id="node31" href="$d6/d73/class_l_p_s22_h_b.html#aa8442fac57341a97bde24c5beb16aafc" title="Issue a measurement command. " alt="" coords="496,999,635,1026"/>
+<area shape="rect" id="node32" href="$d6/d73/class_l_p_s22_h_b.html#a26c3714f696818153dd8832eb4e29560" title="Reset the device. " alt="" coords="507,949,624,975"/>
+<area shape="rect" id="node34" href="$dc/d03/class_l_p_s25_h.html#ac56100e60240e8ec438c571c7452c682" title="Issue a measurement command. " alt="" coords="501,1101,630,1127"/>
+<area shape="rect" id="node35" href="$dc/d03/class_l_p_s25_h.html#a983293e14c580ec4c457d2645d37932e" title="Reset the device. " alt="" coords="511,1050,619,1077"/>
+<area shape="rect" id="node37" href="$d5/d16/class_m_p_u9250__mag.html#a9156db865ad78a6dd9e718424afce215" title="MPU9250_mag::ak8963\l_setup_master_i2c" alt="" coords="1217,1340,1380,1381"/>
+<area shape="rect" id="node38" href="$df/dd9/class_m_p_u9250.html#ab21f0c81e809c5cba3d4b4ff4a4e5f17" title="MPU9250::check_registers" alt="" coords="475,1354,655,1381"/>
+<area shape="rect" id="node39" href="$df/dd9/class_m_p_u9250.html#a50b91655e63f68a9fa3d989a5f75f051" title="Modify a register in the mpu. " alt="" coords="1223,1151,1375,1178"/>
+<area shape="rect" id="node40" href="$d5/d16/class_m_p_u9250__mag.html#ae46a0f0911a434547ce139050e0e245e" title="MPU9250_mag::passthrough_read" alt="" coords="721,1553,944,1579"/>
+<area shape="rect" id="node41" href="$d5/d16/class_m_p_u9250__mag.html#aaba06f81d78e4bbd63af7bafc27fd86e" title="MPU9250_mag::passthrough\l_write" alt="" coords="737,1433,928,1475"/>
+<area shape="rect" id="node42" href="$df/dd9/class_m_p_u9250.html#a167b38dd4cb9e7db71bf5e32c520d34d" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="758,1342,907,1369"/>
+<area shape="rect" id="node43" href="$d5/d16/class_m_p_u9250__mag.html#adea1751a0228dde6dbf8dcec6a3caa9c" title="MPU9250_mag::set_passthrough" alt="" coords="457,1506,673,1533"/>
+<area shape="rect" id="node44" href="$df/dd9/class_m_p_u9250.html#aad574c302a288d9dfa495e473904d4f3" title="Write a register in the mpu, updating _checked_values. " alt="" coords="467,1303,664,1330"/>
+<area shape="rect" id="node46" href="$d5/d19/class_m_p_u6000.html#a5f296518f21c4554674a0e2e2f3394cf" title="MPU6000::check_registers" alt="" coords="475,1759,655,1786"/>
+<area shape="rect" id="node47" href="$d5/d19/class_m_p_u6000.html#a0b33ac62276b8e1eca7d3a3e7ffe6a8b" title="Test behaviour against factory offsets. " alt="" coords="473,1810,658,1837"/>
+<area shape="rect" id="node48" href="$d5/d19/class_m_p_u6000.html#a3b72f9b57d8adf1972d3e1656392bccf" title="Modify a register in the MPU6000. " alt="" coords="489,1861,641,1887"/>
+<area shape="rect" id="node49" href="$d5/d19/class_m_p_u6000.html#a086086441e0859214b9506711cd323ae" title="Reset chip. " alt="" coords="774,1683,891,1710"/>
+<area shape="rect" id="node50" href="$d5/d19/class_m_p_u6000.html#acf314e5c0ecadec602704bc75da45379" title="Write a register in the MPU6000, updating _checked_values. " alt="" coords="467,1658,664,1685"/>
 </map>

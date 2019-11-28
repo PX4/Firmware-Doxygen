@@ -1,0 +1,13 @@
+<map id="BatteryStatus" name="BatteryStatus">
+<area shape="rect" id="node15" href="$dc/df2/class_battery.html" title="{Battery\n|&#45; _voltage_filtered_v\l&#45; _throttle_filtered\l&#45; _current_filtered_a\l&#45; _discharged_mah\l&#45; _discharged_mah_loop\l&#45; _remaining_voltage\land 4 more...\l|+ Battery()\l+ reset()\l+ cell_count()\l+ empty_cell_voltage()\l+ full_cell_voltage()\l+ updateBatteryStatus()\l&#45; filterVoltage()\l&#45; filterThrottle()\l&#45; filterCurrent()\l&#45; sumDischarged()\l&#45; estimateRemaining()\l&#45; determineWarning()\l&#45; computeScale()\l&#45; DEFINE_PARAMETERS()\l}" alt="" coords="279,1027,467,1383"/>
+<area shape="rect" id="node5" href="$d0/d29/structbattery__status_1_1_parameter_handles.html" title="{battery_status::Parameter\lHandles\n|+ battery_voltage_scaling\l+ battery_current_scaling\l+ battery_current_offset\l+ battery_v_div\l+ battery_a_per_v\l+ battery_source\l+ battery_adc_channel\l|}" alt="" coords="655,1115,829,1295"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="853,1100,991,1309"/>
+<area shape="rect" id="node7" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="812,270,957,391"/>
+<area shape="rect" id="node8" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="975,579,1114,964"/>
+<area shape="rect" id="node11" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="1015,1159,1234,1251"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="981,145,1164,516"/>
+<area shape="rect" id="node10" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="1001,5,1144,83"/>
+<area shape="rect" id="node12" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="1189,285,1359,377"/>
+<area shape="rect" id="node13" href="$d4/dc7/structbattery__status_1_1_parameters.html" title="{battery_status::Parameters\n|+ battery_voltage_scaling\l+ battery_current_scaling\l+ battery_current_offset\l+ battery_v_div\l+ battery_a_per_v\l+ battery_source\l+ battery_adc_channel\l|}" alt="" coords="1259,1122,1439,1287"/>
+<area shape="rect" id="node14" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="1463,1151,1575,1258"/>
+</map>

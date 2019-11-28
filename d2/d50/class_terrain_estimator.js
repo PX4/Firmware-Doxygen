@@ -1,8 +1,8 @@
 var class_terrain_estimator =
 [
-    [ "n_x", "d2/d50/class_terrain_estimator.html#a79891dcabf9bd09fb63ce428710147afa1e2c1a8eee81248b613bdabcc1795335", null ],
+    [ "n_x", "d2/d50/class_terrain_estimator.html#af768758b5735b4af65c9a2d0c66eba0fa1e2c1a8eee81248b613bdabcc1795335", null ],
     [ "TerrainEstimator", "d2/d50/class_terrain_estimator.html#a7024898d24ba775a8836aa3baeca6520", null ],
-    [ "~TerrainEstimator", "d2/d50/class_terrain_estimator.html#a07c34eae2a952170ded98a5dc201b09f", null ],
+    [ "~TerrainEstimator", "d2/d50/class_terrain_estimator.html#a4e054076cc3765feadadb4b81c95754a", null ],
     [ "get_distance_to_ground", "d2/d50/class_terrain_estimator.html#a68ff00fa53747a87d677bf7fd8d8ce14", null ],
     [ "get_velocity", "d2/d50/class_terrain_estimator.html#aa2103e527bc907511d46658fbcd91677", null ],
     [ "is_distance_valid", "d2/d50/class_terrain_estimator.html#a158caf98ce8ca04b0e8fd446181953b8", null ],

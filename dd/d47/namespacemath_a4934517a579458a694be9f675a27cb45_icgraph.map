@@ -1,4 +1,12 @@
 <map id="math::signNoZero" name="math::signNoZero">
-<area shape="rect" id="node2" href="$d9/d0c/class_multicopter_attitude_control.html#af1a62e2fc06cb9482dd8cc533803f630" title="Attitude controller. " alt="" coords="180,5,353,47"/>
-<area shape="rect" id="node3" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="401,13,600,39"/>
+<area shape="rect" id="node2" href="$d2/d7a/class_flight_task_orbit.html#a0e9ce6c7c066dab7daa7a200f5f6babc" title="Send out telemetry information for the log and MAVLink. " alt="" coords="180,20,385,47"/>
+<area shape="rect" id="node4" href="$d9/d57/class_attitude_control.html#aac180ba23a01fc3d0c4fe158ff706fac" title="Run one control loop cycle calculation. " alt="" coords="205,85,361,112"/>
+<area shape="rect" id="node3" href="$d2/d7a/class_flight_task_orbit.html#a25fad66b24edad70e6dfcfdad04398a0" title="To be called regularly in the control loop cycle to execute the task. " alt="" coords="435,5,594,32"/>
+<area shape="rect" id="node5" href="$d9/d0c/class_multicopter_attitude_control.html#a5cdb410d4601bb24ebed927788237717" title="Attitude controller. " alt="" coords="644,45,817,86"/>
+<area shape="rect" id="node7" href="$d9/d57/class_attitude_control.html#ac3d0e5d227e086eddbae4a46f8866d68" title="Set hard limit for output rate setpoints. " alt="" coords="433,107,596,149"/>
+<area shape="rect" id="node11" href="$d8/d08/_attitude_control_test_8cpp.html#a4a8c74b301722c1222e1ae2fbb3ae784" title="TEST" alt="" coords="487,173,543,200"/>
+<area shape="rect" id="node6" href="$d9/d0c/class_multicopter_attitude_control.html#af1b60dba92718a043b3dd37ad9bdec58" title="MulticopterAttitudeControl::Run" alt="" coords="865,56,1071,83"/>
+<area shape="rect" id="node8" href="$d9/d0c/class_multicopter_attitude_control.html#a72315657f11582aefd1777046ee6b036" title="initialize some vectors/matrices from parameters " alt="" coords="644,110,817,151"/>
+<area shape="rect" id="node9" href="$d9/d0c/class_multicopter_attitude_control.html#ae4d5bc070557f794173355cb3e3257ba" title="MulticopterAttitudeControl\l::MulticopterAttitudeControl" alt="" coords="877,110,1059,151"/>
+<area shape="rect" id="node10" href="$d9/d0c/class_multicopter_attitude_control.html#aedbb9921f179ce507362d251764bd4c5" title="MulticopterAttitudeControl\l::task_spawn" alt="" coords="1119,110,1292,151"/>
 </map>

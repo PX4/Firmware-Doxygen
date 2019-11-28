@@ -3,8 +3,8 @@ var class_mission_block =
     [ "MissionBlock", "da/d7b/class_mission_block.html#a69c5365e9d921dfc264f1d5ff6e44174", null ],
     [ "~MissionBlock", "da/d7b/class_mission_block.html#adf6a2213d850f29fac7bb31b1be87639", null ],
     [ "MissionBlock", "da/d7b/class_mission_block.html#a6a2921f9fac19f09eda19c62434048e6", null ],
-    [ "get_absolute_altitude_for_item", "da/d7b/class_mission_block.html#ab1ec02b6ac5b533b1d2981f87067c739", null ],
-    [ "get_time_inside", "da/d7b/class_mission_block.html#aa96269ba0a47a789df1d2c7046c0a1dd", null ],
+    [ "get_absolute_altitude_for_item", "da/d7b/class_mission_block.html#a2c7cca2725589876053fee7474d77517", null ],
+    [ "get_time_inside", "da/d7b/class_mission_block.html#acb7e882e3324a449627ab5fcdaa5bb3c", null ],
     [ "is_mission_item_reached", "da/d7b/class_mission_block.html#a6ecd406f400032b5ea48176bb884eb66", null ],
     [ "issue_command", "da/d7b/class_mission_block.html#a866828c72416fdb13bb766b8e88ffcd3", null ],
     [ "item_contains_position", "da/d7b/class_mission_block.html#a6ce0b199dd3e49bebc4e1a3a45424923", null ],
@@ -18,10 +18,11 @@ var class_mission_block =
     [ "set_takeoff_item", "da/d7b/class_mission_block.html#ae82878c39c7645d0642928433dfea177", null ],
     [ "set_vtol_transition_item", "da/d7b/class_mission_block.html#a3ac4ddc138170f26c374f119da79e30b", null ],
     [ "_action_start", "da/d7b/class_mission_block.html#ae01577b05217252d1482b3a48414ac48", null ],
-    [ "_actuator_pub", "da/d7b/class_mission_block.html#ad62dd25769e9caf09c5bc87b39d9908a", null ],
+    [ "_actuator_pub", "da/d7b/class_mission_block.html#aeb0dc6239e8f57d93c992343e1085dd5", null ],
     [ "_mission_item", "da/d7b/class_mission_block.html#abb7e3ca3d960bea0c956ee8fbc386921", null ],
     [ "_time_first_inside_orbit", "da/d7b/class_mission_block.html#af510074377a1dda32f0a83cbe803768b", null ],
     [ "_time_wp_reached", "da/d7b/class_mission_block.html#a92f1492197a65635c23202e07c38b77e", null ],
     [ "_waypoint_position_reached", "da/d7b/class_mission_block.html#a79a03f529e0a8d4001da29971ac113e2", null ],
+    [ "_waypoint_position_reached_previously", "da/d7b/class_mission_block.html#a324a4cd695b132cbb6001abdaf00357b", null ],
     [ "_waypoint_yaw_reached", "da/d7b/class_mission_block.html#aaf874ac6ada3f2b3a78b31da3fdd0c87", null ]
 ];

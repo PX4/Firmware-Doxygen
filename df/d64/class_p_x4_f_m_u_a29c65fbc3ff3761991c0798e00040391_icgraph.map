@@ -1,15 +1,5 @@
 <map id="PX4FMU::capture_callback" name="PX4FMU::capture_callback">
-<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="236,107,403,133"/>
-<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#a07eaf4b71a7f442f116b88d2166cfe52" title="PX4FMU::capture_trampoline" alt="" coords="677,208,872,235"/>
-<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="451,107,629,133"/>
-<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="483,5,597,32"/>
-<area shape="rect" id="node4" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="703,107,846,133"/>
-<area shape="rect" id="node5" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="937,107,1045,133"/>
-<area shape="rect" id="node6" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="1144,139,1251,165"/>
-<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#a2be5e5695b54ad07a8e905b64992a46d" title="PX4FMU::custom_command" alt="" coords="1333,139,1524,165"/>
-<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="683,56,866,83"/>
-<area shape="rect" id="node11" href="$df/d64/class_p_x4_f_m_u.html#a00f750c72c6cc1f0bd156b5de4d9fac9" title="PX4FMU::run" alt="" coords="723,5,826,32"/>
-<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a622e54b376f05bfd26ec16cbbe2889bf" title="PX4FMU::task_spawn" alt="" coords="1120,63,1275,89"/>
-<area shape="rect" id="node13" href="$df/d64/class_p_x4_f_m_u.html#afaf6d3dbe9e8b90780abc3cdb53ffd83" title="PX4FMU::get_mode" alt="" coords="920,208,1061,235"/>
-<area shape="rect" id="node14" href="$df/d64/class_p_x4_f_m_u.html#ae9c7f7c1c52a03cf6a1229f4b0fc475b" title="change the FMU mode of the running module " alt="" coords="1109,201,1285,228"/>
+<area shape="rect" id="node2" href="$df/d64/class_p_x4_f_m_u.html#a07eaf4b71a7f442f116b88d2166cfe52" title="PX4FMU::capture_trampoline" alt="" coords="236,5,431,32"/>
+<area shape="rect" id="node3" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="479,5,585,32"/>
+<area shape="rect" id="node4" href="$df/d64/class_p_x4_f_m_u.html#a2be5e5695b54ad07a8e905b64992a46d" title="PX4FMU::custom_command" alt="" coords="633,5,824,32"/>
 </map>

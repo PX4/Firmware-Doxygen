@@ -3,7 +3,7 @@ var calibration__routines_8h =
     [ "calibration_log_critical", "d7/da9/calibration__routines_8h.html#a91c54956de66206c633b3508673cdadb", null ],
     [ "calibration_log_emergency", "d7/da9/calibration__routines_8h.html#ab237374ef314f7a27c48fe61c6c4a117", null ],
     [ "calibration_log_info", "d7/da9/calibration__routines_8h.html#a1062d21e968db08e061695dfaf0f29d4", null ],
-    [ "calibration_from_orientation_worker_t", "d7/da9/calibration__routines_8h.html#a23f6e789339f8a32f04523db69874b1a", null ],
+    [ "calibration_from_orientation_worker_t", "d7/da9/calibration__routines_8h.html#a87dd75025b74c9cf536228f8c06d7d74", null ],
     [ "calibrate_return", "d7/da9/calibration__routines_8h.html#aeb1a49af37cf0e965adb0b93dd3f9c23", [
       [ "calibrate_return_ok", "d7/da9/calibration__routines_8h.html#aeb1a49af37cf0e965adb0b93dd3f9c23ae226e61a3223d5f7e7978e2698200c9c", null ],
       [ "calibrate_return_error", "d7/da9/calibration__routines_8h.html#aeb1a49af37cf0e965adb0b93dd3f9c23aa3a4c462afd2a5ee1a7d06ada0fd655a", null ],

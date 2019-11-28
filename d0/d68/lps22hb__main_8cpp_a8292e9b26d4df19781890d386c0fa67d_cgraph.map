@@ -1,31 +1,23 @@
 <map id="lps22hb_main" name="lps22hb_main">
-<area shape="rect" id="node2" href="$d9/d4a/namespacelps22hb.html#a09204e05483b4f96a4d488847e87b490" title="Print a little info about the driver. " alt="" coords="163,31,259,57"/>
-<area shape="rect" id="node5" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="168,107,255,133"/>
-<area shape="rect" id="node8" href="$d9/d4a/namespacelps22hb.html#a62b4635afb61929425ab4a9472893bca" title="Reset the driver. " alt="" coords="159,157,263,184"/>
-<area shape="rect" id="node15" href="$d9/d4a/namespacelps22hb.html#ab027ec496a420f7f0527d25fc729b626" title="Start the driver. " alt="" coords="161,208,262,235"/>
-<area shape="rect" id="node30" href="$d9/d4a/namespacelps22hb.html#a3bc80277efca02ca43adfd1f7e77b10f" title="Prints info about the driver argument usage. " alt="" coords="156,259,267,285"/>
-<area shape="rect" id="node3" href="$d6/d73/class_l_p_s22_h_b.html#a2dc000dc8f83b851f464655e4099ee9e" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="315,5,456,32"/>
-<area shape="rect" id="node4" href="$dd/d78/perf__counter_8c.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="504,5,631,32"/>
-<area shape="rect" id="node6" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="354,107,417,133"/>
-<area shape="rect" id="node7" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="529,81,606,108"/>
-<area shape="rect" id="node9" href="$d9/d4a/namespacelps22hb.html#ad8b3913403f355512822dd2bd6398f26" title="find a bus structure for a busid " alt="" coords="323,157,447,184"/>
-<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="530,201,605,228"/>
-<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="923,315,997,341"/>
-<area shape="rect" id="node14" href="$db/dcf/classdevice_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="693,125,827,152"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1094,315,1233,341"/>
-<area shape="rect" id="node13" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1087,416,1240,443"/>
-<area shape="rect" id="node16" href="$d9/d4a/namespacelps22hb.html#a4cad24392c439abdbfdfc13d80b913e2" title="start driver for a specific bus option " alt="" coords="321,271,450,297"/>
-<area shape="rect" id="node17" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="528,404,607,431"/>
-<area shape="rect" id="node27" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="719,303,801,329"/>
-<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="928,365,992,392"/>
-<area shape="rect" id="node19" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="679,455,841,481"/>
-<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="891,669,1029,696"/>
-<area shape="rect" id="node26" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="713,353,807,380"/>
-<area shape="rect" id="node20" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="892,517,1028,544"/>
-<area shape="rect" id="node21" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="908,416,1012,443"/>
-<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1096,669,1231,696"/>
-<area shape="rect" id="node24" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1094,721,1233,762"/>
-<area shape="rect" id="node25" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1089,619,1237,645"/>
-<area shape="rect" id="node28" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="889,619,1031,645"/>
-<area shape="rect" id="node29" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1079,568,1248,595"/>
+<area shape="rect" id="node2" href="$d9/d4a/namespacelps22hb.html#a09204e05483b4f96a4d488847e87b490" title="Print a little info about the driver. " alt="" coords="163,19,259,45"/>
+<area shape="rect" id="node3" href="$d9/d4a/namespacelps22hb.html#a62b4635afb61929425ab4a9472893bca" title="Reset the driver. " alt="" coords="159,69,263,96"/>
+<area shape="rect" id="node8" href="$d9/d4a/namespacelps22hb.html#ab027ec496a420f7f0527d25fc729b626" title="Start the driver. " alt="" coords="161,120,262,147"/>
+<area shape="rect" id="node22" href="$d9/d4a/namespacelps22hb.html#a3bc80277efca02ca43adfd1f7e77b10f" title="Prints info about the driver argument usage. " alt="" coords="156,171,267,197"/>
+<area shape="rect" id="node4" href="$d9/d4a/namespacelps22hb.html#ad8b3913403f355512822dd2bd6398f26" title="find a bus structure for a busid " alt="" coords="317,69,441,96"/>
+<area shape="rect" id="node5" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="495,44,570,71"/>
+<area shape="rect" id="node6" href="$da/dc9/posix_2cdev__platform_8cpp.html#abea81ef5044c7986b51a035f42582323" title="get_vdev" alt="" coords="661,56,735,83"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html#a8a73e7749516363c59d3eac6d6343083" title="Perform an ioctl operation on the device. " alt="" coords="636,5,760,32"/>
+<area shape="rect" id="node9" href="$d9/d4a/namespacelps22hb.html#a4cad24392c439abdbfdfc13d80b913e2" title="start driver for a specific bus option " alt="" coords="315,120,444,147"/>
+<area shape="rect" id="node10" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="493,183,572,209"/>
+<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="492,107,573,133"/>
+<area shape="rect" id="node11" href="$da/dc9/posix_2cdev__platform_8cpp.html#a3fe15a0fdcd00e34f4a29b3cea4c7c46" title="getDev" alt="" coords="666,157,730,184"/>
+<area shape="rect" id="node12" href="$dc/db4/classcdev_1_1_v_file.html#a76418692ad24fb60ee14bdb5ae66d19d" title="cdev::VFile::createFile" alt="" coords="621,259,775,285"/>
+<area shape="rect" id="node15" href="$d8/d26/classcdev_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="634,208,762,235"/>
+<area shape="rect" id="node13" href="$dc/db4/classcdev_1_1_v_file.html#a48ae3db836c0e14085465455ebbc9c99" title="cdev::VFile::VFile" alt="" coords="839,259,965,285"/>
+<area shape="rect" id="node14" href="$da/dc9/posix_2cdev__platform_8cpp.html#aa770be826c3eeb8554e677a3a4c9c11c" title="register_driver" alt="" coords="850,309,954,336"/>
+<area shape="rect" id="node16" href="$d8/d26/classcdev_1_1_c_dev.html#ae676cccee31dd393ab681414a146d868" title="Take the driver lock. " alt="" coords="840,107,964,133"/>
+<area shape="rect" id="node17" href="$d8/d26/classcdev_1_1_c_dev.html#add6ba5112cbd1b9c3d61c148040a5c76" title="Notification of the first open. " alt="" coords="823,208,981,235"/>
+<area shape="rect" id="node18" href="$d8/d26/classcdev_1_1_c_dev.html#af65273e0578b277deea057dc7d558e9d" title="Release the driver lock. " alt="" coords="833,157,971,184"/>
+<area shape="rect" id="node20" href="$d8/d26/classcdev_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="633,107,763,133"/>
+<area shape="rect" id="node21" href="$d8/d26/classcdev_1_1_c_dev.html#aa702ea380fc8be473512558e5e4463ee" title="Notification of the last close. " alt="" coords="823,56,981,83"/>
 </map>

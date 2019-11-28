@@ -4,8 +4,6 @@ var class_l_p_s25_h =
     [ "~LPS25H", "dc/d03/class_l_p_s25_h.html#a1633fe66573af30718d103135e25a4ae", null ],
     [ "LPS25H", "dc/d03/class_l_p_s25_h.html#a759c352770a17c082bb0f812a223e04a", null ],
     [ "collect", "dc/d03/class_l_p_s25_h.html#a54bf0a1c6dbdbcb2c3ea7f57d6979869", null ],
-    [ "cycle", "dc/d03/class_l_p_s25_h.html#a9949c12a0c7431a6cd3ffd5c28324592", null ],
-    [ "cycle_trampoline", "dc/d03/class_l_p_s25_h.html#a92dfa3fb19111ed9dbdc2915f86ccca4", null ],
     [ "init", "dc/d03/class_l_p_s25_h.html#a5d624b7267cda44c4e9fd8f5656c1972", null ],
     [ "ioctl", "dc/d03/class_l_p_s25_h.html#a9ed2ed02a0e076781b828049852a67ef", null ],
     [ "measure", "dc/d03/class_l_p_s25_h.html#ac56100e60240e8ec438c571c7452c682", null ],
@@ -14,6 +12,7 @@ var class_l_p_s25_h =
     [ "read", "dc/d03/class_l_p_s25_h.html#aa27d6889d10944e32adbd715bd3f8a38", null ],
     [ "read_reg", "dc/d03/class_l_p_s25_h.html#a5999ec991eac5b27eb8774a94b7729ef", null ],
     [ "reset", "dc/d03/class_l_p_s25_h.html#a983293e14c580ec4c457d2645d37932e", null ],
+    [ "Run", "dc/d03/class_l_p_s25_h.html#a90aafcaa887f8b6508945983dabf9879", null ],
     [ "start", "dc/d03/class_l_p_s25_h.html#a17a24c4a29a0821ad17794ee884dcfd9", null ],
     [ "stop", "dc/d03/class_l_p_s25_h.html#a10e84ef25dc810903ac851962fea61b2", null ],
     [ "write_reg", "dc/d03/class_l_p_s25_h.html#a26bd42c9cab415b8b4f0c11fe61c7bf8", null ],
@@ -21,11 +20,10 @@ var class_l_p_s25_h =
     [ "_class_instance", "dc/d03/class_l_p_s25_h.html#a5cd5190fc7bf7218c17f8e6ea1f1ebf1", null ],
     [ "_collect_phase", "dc/d03/class_l_p_s25_h.html#ae37a47cf0aed3bfc13dd8565db148ad7", null ],
     [ "_comms_errors", "dc/d03/class_l_p_s25_h.html#a3c86f6d0ce092822cc850ccb55cf04c0", null ],
-    [ "_interface", "dc/d03/class_l_p_s25_h.html#a6c941838b8e0da6caf8e36e8d580f053", null ],
+    [ "_interface", "dc/d03/class_l_p_s25_h.html#a9262d2c7c0cdb8732859339631eab9ca", null ],
     [ "_last_report", "dc/d03/class_l_p_s25_h.html#a507bb315bc3a3abbfad1c11b6da68c1f", null ],
-    [ "_measure_ticks", "dc/d03/class_l_p_s25_h.html#a16247cb68ea61c819302a4839d46faf4", null ],
+    [ "_measure_interval", "dc/d03/class_l_p_s25_h.html#ac405ac91182eaca6ab31fdc9ff0355f0", null ],
     [ "_orb_class_instance", "dc/d03/class_l_p_s25_h.html#a6c1f126d1aa980cbea56c283d5bba825", null ],
     [ "_reports", "dc/d03/class_l_p_s25_h.html#a637315af2875d9cffbe6b4071970581a", null ],
-    [ "_sample_perf", "dc/d03/class_l_p_s25_h.html#a2dac1072c5946bd058c745badd2cdeee", null ],
-    [ "_work", "dc/d03/class_l_p_s25_h.html#a1c7b87b9d37613695643c26c911cd71c", null ]
+    [ "_sample_perf", "dc/d03/class_l_p_s25_h.html#a2dac1072c5946bd058c745badd2cdeee", null ]
 ];

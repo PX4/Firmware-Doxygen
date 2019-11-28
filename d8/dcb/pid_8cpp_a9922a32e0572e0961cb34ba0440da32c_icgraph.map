@@ -1,11 +1,5 @@
 <map id="pid_calculate" name="pid_calculate">
-<area shape="rect" id="node2" href="$d7/d8c/class_ground_rover_position_control.html#a4f2f86b3be874fbb7928271fa49aa511" title="Control position. " alt="" coords="152,5,340,47"/>
-<area shape="rect" id="node7" href="$de/dbb/class_ground_rover_attitude_control.html#a0ed57947e501e36f2a9330af3ba7ab0d" title="GroundRoverAttitudeControl\l::task_main" alt="" coords="153,71,339,112"/>
-<area shape="rect" id="node3" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="388,5,576,47"/>
-<area shape="rect" id="node4" href="$d7/d8c/class_ground_rover_position_control.html#aa2ea14b3608ff1d5a718e79ba2de7a88" title="Shim for calling task_main from task_create. " alt="" coords="624,5,812,47"/>
-<area shape="rect" id="node5" href="$d7/d8c/class_ground_rover_position_control.html#a037e8b87973e3f89c49f3124d2da228b" title="Start the sensors task. " alt="" coords="860,5,1048,47"/>
-<area shape="rect" id="node6" href="$db/d79/_ground_rover_position_control_8cpp.html#aea00b48df935476be5ad8e9ad7149791" title="L1 control app start / stop handling function. " alt="" coords="1096,13,1248,39"/>
-<area shape="rect" id="node8" href="$de/dbb/class_ground_rover_attitude_control.html#a2ac6f0c818b70ab9241eaccc832c844a" title="GroundRoverAttitudeControl\l::task_main_trampoline" alt="" coords="389,71,575,112"/>
-<area shape="rect" id="node9" href="$de/dbb/class_ground_rover_attitude_control.html#aeb56a9104834c1b9f650a1c8b3619489" title="GroundRoverAttitudeControl\l::start" alt="" coords="625,71,811,112"/>
-<area shape="rect" id="node10" href="$d5/dc7/_ground_rover_attitude_control_8cpp.html#af9c7c85bc94c5f2b73bfec21127a8509" title="This module is a modification of the fixed wing module and it is designed for ground rovers..." alt="" coords="881,78,1027,105"/>
+<area shape="rect" id="node2" href="$d6/db2/class_rover_position_control.html#ae739efccc037fff57e0cbbd61feff46f" title="Control position. " alt="" coords="152,5,299,47"/>
+<area shape="rect" id="node4" href="$d6/db2/class_rover_position_control.html#aa47ed72a66227b5ba91195572a97699e" title="RoverPositionControl\l::control_velocity" alt="" coords="152,71,299,112"/>
+<area shape="rect" id="node3" href="$d6/db2/class_rover_position_control.html#ad5e3ecea34622085d64a9b2822f3b377" title="RoverPositionControl::run" alt="" coords="347,46,519,73"/>
 </map>

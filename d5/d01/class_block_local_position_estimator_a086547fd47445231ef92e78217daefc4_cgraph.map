@@ -1,15 +1,17 @@
 <map id="BlockLocalPositionEstimator::flowMeasure" name="BlockLocalPositionEstimator::flowMeasure">
 <area shape="rect" id="node2" href="$d5/d01/class_block_local_position_estimator.html#a6888a2b4e5b9f9b567922ccfeb2891e8" title="BlockLocalPositionEstimator::agl" alt="" coords="243,5,457,32"/>
 <area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="331,56,369,83"/>
-<area shape="rect" id="node4" href="$d0/d65/classu_o_r_b_1_1_subscription.html#aa01d2ff362359aa05b64e93c6df668e0" title="uORB::Subscription::get" alt="" coords="268,107,432,133"/>
-<area shape="rect" id="node5" href="$d5/dcc/classmatrix_1_1_euler.html#a134776bf2b97d2ed41bb00daed9a3214" title="matrix::Euler::phi" alt="" coords="289,157,411,184"/>
-<area shape="rect" id="node6" href="$d5/dcc/classmatrix_1_1_euler.html#a5acb18c91a269f349cd2449e63e59dae" title="matrix::Euler::theta" alt="" coords="283,208,417,235"/>
-<area shape="rect" id="node7" href="$db/dbb/classcontrol_1_1_block_stats.html#aeeba45f0642426149fceecf3b73bd2c6" title="control::BlockStats\l::update" alt="" coords="283,259,417,301"/>
-<area shape="rect" id="node8" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a4e6e5cfc54956dff41ffb8571279fc9b" title="control::BlockHighPass\l::update" alt="" coords="271,325,429,366"/>
-<area shape="rect" id="node9" href="$d8/d53/classcontrol_1_1_block_high_pass.html#ab373e7f4a26e1c502aa3e08490fc983b" title="control::BlockHighPass\l::getFCut" alt="" coords="505,174,664,215"/>
-<area shape="rect" id="node10" href="$da/d87/classcontrol_1_1_block.html#a3b464ef71352123ba61f32019c943e78" title="control::Block::getDt" alt="" coords="513,240,656,267"/>
-<area shape="rect" id="node11" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a5662cd5d677fd5cfd4af5fcac2789670" title="control::BlockHighPass\l::setY" alt="" coords="505,291,664,333"/>
-<area shape="rect" id="node12" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a19b7705d2e6cd31892c869be5c4084c2" title="control::BlockHighPass\l::getY" alt="" coords="505,357,664,398"/>
-<area shape="rect" id="node13" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a5197f1efc36e779ba328cef66ddd8a85" title="control::BlockHighPass\l::getU" alt="" coords="505,422,664,463"/>
-<area shape="rect" id="node14" href="$d8/d53/classcontrol_1_1_block_high_pass.html#aada953d9a92a08bb56a0170d1a187528" title="control::BlockHighPass\l::setU" alt="" coords="505,487,664,529"/>
+<area shape="rect" id="node6" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html#ab75614b7adbc3ba5cbf0c3ec82e70fd2" title="uORB::SubscriptionData::get" alt="" coords="254,107,446,133"/>
+<area shape="rect" id="node7" href="$d5/dcc/classmatrix_1_1_euler.html#a02ac02872c4d9453c012e28c328dd48d" title="matrix::Euler::phi" alt="" coords="289,157,411,184"/>
+<area shape="rect" id="node8" href="$d5/dcc/classmatrix_1_1_euler.html#a2fe75bec2af37a95ceaec18f0039e79b" title="matrix::Euler::theta" alt="" coords="283,208,417,235"/>
+<area shape="rect" id="node9" href="$db/dbb/classcontrol_1_1_block_stats.html#aeeba45f0642426149fceecf3b73bd2c6" title="control::BlockStats\l::update" alt="" coords="283,259,417,301"/>
+<area shape="rect" id="node10" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a4e6e5cfc54956dff41ffb8571279fc9b" title="control::BlockHighPass\l::update" alt="" coords="271,325,429,366"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="543,56,626,83"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="712,56,799,83"/>
+<area shape="rect" id="node11" href="$d8/d53/classcontrol_1_1_block_high_pass.html#ab373e7f4a26e1c502aa3e08490fc983b" title="control::BlockHighPass\l::getFCut" alt="" coords="505,174,664,215"/>
+<area shape="rect" id="node12" href="$da/d87/classcontrol_1_1_block.html#a3b464ef71352123ba61f32019c943e78" title="control::Block::getDt" alt="" coords="513,240,656,267"/>
+<area shape="rect" id="node13" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a5662cd5d677fd5cfd4af5fcac2789670" title="control::BlockHighPass\l::setY" alt="" coords="505,291,664,333"/>
+<area shape="rect" id="node14" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a19b7705d2e6cd31892c869be5c4084c2" title="control::BlockHighPass\l::getY" alt="" coords="505,357,664,398"/>
+<area shape="rect" id="node15" href="$d8/d53/classcontrol_1_1_block_high_pass.html#a5197f1efc36e779ba328cef66ddd8a85" title="control::BlockHighPass\l::getU" alt="" coords="505,422,664,463"/>
+<area shape="rect" id="node16" href="$d8/d53/classcontrol_1_1_block_high_pass.html#aada953d9a92a08bb56a0170d1a187528" title="control::BlockHighPass\l::setU" alt="" coords="505,487,664,529"/>
 </map>

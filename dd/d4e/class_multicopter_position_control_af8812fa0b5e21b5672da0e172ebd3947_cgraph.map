@@ -1,6 +1,8 @@
 <map id="MulticopterPositionControl::start_flight_task" name="MulticopterPositionControl::start_flight_task">
-<area shape="rect" id="node2" href="$dc/d0c/class_flight_tasks.html#aecfb5285ba3a8c4a289e74b6c82552d7" title="Call this method to get the description of a task error. " alt="" coords="229,5,402,32"/>
-<area shape="rect" id="node3" href="$dc/d0c/class_flight_tasks.html#ac82559255ca3f7ec7b79ee2bd51cdd9e" title="Switch to the next task in the available list (for testing) " alt="" coords="233,80,398,107"/>
-<area shape="rect" id="node4" href="$dd/d4e/class_multicopter_position_control.html#a295cfbd7e03a24311f04f1f380e8516e" title="Prints a warning message at a lowered rate. " alt="" coords="228,131,403,173"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="451,139,576,165"/>
+<area shape="rect" id="node2" href="$dd/d4e/class_multicopter_position_control.html#ae678366b1ff3cf67977d9e21195c4eab" title="check if task should be switched because of failsafe " alt="" coords="228,27,403,69"/>
+<area shape="rect" id="node6" href="$dc/d0c/class_flight_tasks.html#adcb45e812f9b34d4bdfdf157dfe1a1dd" title="Call this method to get the description of a task error. " alt="" coords="229,93,402,120"/>
+<area shape="rect" id="node7" href="$dc/d0c/class_flight_tasks.html#a4c84dfc04361cb6310a045e5e6e90a24" title="Switch to the next task in the available list (for testing) " alt="" coords="233,168,398,195"/>
+<area shape="rect" id="node3" href="$dd/d4e/class_multicopter_position_control.html#a05fdc46b25c32028edf6b1f1422b1600" title="send vehicle command to inform commander about failsafe " alt="" coords="451,27,625,69"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="698,5,823,32"/>
+<area shape="rect" id="node5" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="673,57,848,98"/>
 </map>

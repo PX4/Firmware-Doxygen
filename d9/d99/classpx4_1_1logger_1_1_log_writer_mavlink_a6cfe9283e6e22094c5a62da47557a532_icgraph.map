@@ -1,8 +1,10 @@
 <map id="px4::logger::LogWriterMavlink::start_log" name="px4::logger::LogWriterMavlink::start_log">
-<area shape="rect" id="node2" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af73f63d05436e8a79a546f494120cf45" title="px4::logger::LogWriter\l::start_log_mavlink" alt="" coords="248,117,399,159"/>
-<area shape="rect" id="node3" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#a331cecaa22ecd90b3cdccafb209c6dc4" title="px4::logger::LogWriter\l::backend" alt="" coords="447,77,597,119"/>
-<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="455,156,589,197"/>
-<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a200ba0903d384e28507898c4813db256" title="get the configured backend as string " alt="" coords="645,5,831,47"/>
-<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="879,101,1037,127"/>
-<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a8b8522c1627ae32d642e8a6b3f39d78a" title="px4::logger::Logger\l::start_log_file" alt="" coords="671,123,805,164"/>
+<area shape="rect" id="node2" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#af73f63d05436e8a79a546f494120cf45" title="px4::logger::LogWriter\l::start_log_mavlink" alt="" coords="248,131,399,172"/>
+<area shape="rect" id="node3" href="$d8/d19/classpx4_1_1logger_1_1_log_writer.html#ae6ae82f2d2aca666824d87f20af16661" title="px4::logger::LogWriter\l::backend" alt="" coords="447,93,597,135"/>
+<area shape="rect" id="node8" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#ade524d17cb3995a527f23e10dfd04f5b" title="px4::logger::Logger\l::start_log_mavlink" alt="" coords="455,163,589,204"/>
+<area shape="rect" id="node4" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1942784224f1065124994217fd3b535c" title="get the configured backend as string " alt="" coords="873,5,1059,47"/>
+<area shape="rect" id="node5" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a68543e963a7f5706e96e53c14fdf8daa" title="px4::logger::Logger::run" alt="" coords="1107,122,1265,149"/>
+<area shape="rect" id="node6" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a1012590d5f49e119e9f9ea3d3efd8832" title="px4::logger::Logger\l::start_log_file" alt="" coords="669,123,802,164"/>
+<area shape="rect" id="node7" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#aaf49fbf64b15d924c47f1da7d699f30b" title="check current arming state or aux channel and start/stop logging if state changed and according to co..." alt="" coords="898,173,1034,215"/>
+<area shape="rect" id="node9" href="$d1/d23/classpx4_1_1logger_1_1_logger.html#a414334dfad305aa284bea1225e5d1061" title="px4::logger::Logger\l::handle_vehicle_command\l_update" alt="" coords="645,206,825,262"/>
 </map>

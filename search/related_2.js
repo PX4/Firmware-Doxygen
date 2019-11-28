@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['fxos8701cq',['FXOS8701CQ',['../db/d23/class_f_x_o_s8701_c_q__mag.html#aad23d603100c51309b2d09667d551017',1,'FXOS8701CQ_mag']]],
-  ['fxos8701cq_5fmag',['FXOS8701CQ_mag',['../db/d27/class_f_x_o_s8701_c_q.html#aae34f9eb07ecfa75cd9ad429769c91da',1,'FXOS8701CQ']]]
+  ['mavlinkftptest',['MavlinkFtpTest',['../d4/d6b/class_mavlink_f_t_p.html#a83f30b0c5a4fbaaf3590c0b478c04426',1,'MavlinkFTP']]],
+  ['mpu9250',['MPU9250',['../d5/d16/class_m_p_u9250__mag.html#a22fbab1c67caedfc98eb8ff5addc18f6',1,'MPU9250_mag']]],
+  ['mpu9250_5fmag',['MPU9250_mag',['../df/dd9/class_m_p_u9250.html#aa70fd0c34fd4538c974a43d91078e6f8',1,'MPU9250']]]
 ];

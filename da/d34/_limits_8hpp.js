@@ -1,10 +1,13 @@
 var _limits_8hpp =
 [
-    [ "UINT64_C", "da/d34/_limits_8hpp.html#a26a7bac63d90ef61175acb9f6fc4f2ca", null ],
-    [ "constrain", "da/d34/_limits_8hpp.html#a9ab5768499dc798629f31a3e785ea313", null ],
-    [ "degrees", "da/d34/_limits_8hpp.html#ae9e716b64956468f69c53a1ee1821a60", null ],
-    [ "isInRange", "da/d34/_limits_8hpp.html#a7c711a70ecc984d758513b6b5721eb4f", null ],
-    [ "max", "da/d34/_limits_8hpp.html#a098014542ac24ca312f6090b2f364dd6", null ],
-    [ "min", "da/d34/_limits_8hpp.html#a7642973d6d246edffd3506fa36548b10", null ],
-    [ "radians", "da/d34/_limits_8hpp.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9", null ]
+    [ "MATH_PI", "da/d34/_limits_8hpp.html#ac58cbaeae310f551049f77b7c098599e", null ],
+    [ "constrain", "da/d34/_limits_8hpp.html#a4a49a65edaf29055a3cb021908a031d7", null ],
+    [ "constrainFloatToInt16", "da/d34/_limits_8hpp.html#a08978faa5fd994b743ddb69b90ade51e", null ],
+    [ "degrees", "da/d34/_limits_8hpp.html#afa4c38bf29632e844290514731913caa", null ],
+    [ "isInRange", "da/d34/_limits_8hpp.html#a2a8637305c43d238827c8a819c05f50f", null ],
+    [ "isZero", "da/d34/_limits_8hpp.html#ae5e8cbe3d01a60e3d29d45638dea5ca9", null ],
+    [ "isZero", "da/d34/_limits_8hpp.html#ae61d09db2a7eec6f5fb3601581443097", null ],
+    [ "max", "da/d34/_limits_8hpp.html#ad42187b143e9e0e96bb14c7edcfbfef6", null ],
+    [ "min", "da/d34/_limits_8hpp.html#a0590ec5bbbdad228b5a47307af425055", null ],
+    [ "radians", "da/d34/_limits_8hpp.html#a7e34369248d5d1565073dc552dd90d5c", null ]
 ];

@@ -1,0 +1,51 @@
+<map id="FlightTaskOrbit::generate_circle_approach_setpoints" name="FlightTaskOrbit::generate_circle_approach_setpoints">
+<area shape="rect" id="node2" href="$da/d2b/class_straight_line.html#ae7d10c8f770a3f7175c2b82ad99b7b4b" title="Generate setpoints on a straight line according to parameters. " alt="" coords="468,111,672,137"/>
+<area shape="rect" id="node4" href="$d1/d71/classmatrix_1_1_vector.html#a100f3b10c5572ccd38edc745d99ef98d" title="matrix::Vector::norm" alt="" coords="727,161,868,188"/>
+<area shape="rect" id="node9" href="$d1/d71/classmatrix_1_1_vector.html#a2738cfd95f6ac29a88738e54e5b83e94" title="matrix::Vector::unit\l_or_zero" alt="" coords="731,213,864,254"/>
+<area shape="rect" id="node10" href="$da/d2b/class_straight_line.html#a74d3fad5899f39b94fb62dd3b74773ad" title="Check if the end was reached. " alt="" coords="235,321,419,348"/>
+<area shape="rect" id="node11" href="$da/d2b/class_straight_line.html#af59f3bedf9fd2adfbdfcf22853eacb5d" title="StraightLine::setLineFromTo" alt="" coords="233,271,420,297"/>
+<area shape="rect" id="node50" href="$da/d2b/class_straight_line.html#a4d02de9d725911635512149ddf9c461d" title="StraightLine::setSpeed" alt="" coords="249,119,404,145"/>
+<area shape="rect" id="node3" href="$dd/df8/classmatrix_1_1_matrix.html#ada9bfd0f49cd59efb265c47e4e79cde5" title="matrix::Matrix::setNaN" alt="" coords="720,9,875,36"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1368,5,1407,32"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="757,111,837,137"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1551,5,1633,32"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1750,5,1837,32"/>
+<area shape="rect" id="node12" href="$d1/d71/classmatrix_1_1_vector.html#a654e7329525d3818abf20afe965f3b5b" title="matrix::Vector::norm\l_squared" alt="" coords="499,322,641,363"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="546,271,594,297"/>
+<area shape="rect" id="node14" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="756,901,839,928"/>
+<area shape="rect" id="node15" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="923,1116,1061,1143"/>
+<area shape="rect" id="node18" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="953,1167,1031,1193"/>
+<area shape="rect" id="node19" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="965,781,1019,808"/>
+<area shape="rect" id="node20" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="949,989,1035,1016"/>
+<area shape="rect" id="node26" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="951,832,1033,859"/>
+<area shape="rect" id="node49" href="$df/d7b/perf__counter_8cpp.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="955,901,1029,928"/>
+<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="1139,1136,1227,1163"/>
+<area shape="rect" id="node17" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="1131,1187,1234,1213"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="1115,1085,1250,1112"/>
+<area shape="rect" id="node22" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1718,1085,1869,1112"/>
+<area shape="rect" id="node23" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a24b06f4c1ce7a626a123d2c109bc4e72" title="param_set_used_internal" alt="" coords="1304,1187,1471,1213"/>
+<area shape="rect" id="node24" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="1346,731,1429,757"/>
+<area shape="rect" id="node25" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="1351,832,1423,859"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1735,452,1851,479"/>
+<area shape="rect" id="node29" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1111,933,1254,960"/>
+<area shape="rect" id="node34" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="1117,883,1249,909"/>
+<area shape="rect" id="node35" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="1339,680,1436,707"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="1117,401,1249,428"/>
+<area shape="rect" id="node42" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1547,427,1637,453"/>
+<area shape="rect" id="node47" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1138,1035,1227,1061"/>
+<area shape="rect" id="node48" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="1109,984,1256,1011"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1921,452,2072,479"/>
+<area shape="rect" id="node30" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1534,1060,1650,1087"/>
+<area shape="rect" id="node31" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1519,908,1665,935"/>
+<area shape="rect" id="node32" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1316,933,1459,960"/>
+<area shape="rect" id="node33" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1342,1035,1433,1061"/>
+<area shape="rect" id="node37" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="1307,528,1467,555"/>
+<area shape="rect" id="node38" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="1328,579,1447,605"/>
+<area shape="rect" id="node39" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1713,81,1873,108"/>
+<area shape="rect" id="node40" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1521,107,1663,133"/>
+<area shape="rect" id="node41" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="1316,477,1459,504"/>
+<area shape="rect" id="node43" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="1316,310,1459,351"/>
+<area shape="rect" id="node44" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="1323,376,1451,403"/>
+<area shape="rect" id="node45" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="1319,427,1455,453"/>
+<area shape="rect" id="node46" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="1343,208,1432,235"/>
+</map>

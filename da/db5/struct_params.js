@@ -4,6 +4,8 @@ var struct_params =
     [ "airspeed_disabled", "da/db5/struct_params.html#a540255f28e6d89daab65d9a66dbc4f06", null ],
     [ "back_trans_duration", "da/db5/struct_params.html#ad6fbb11a7731b34ba1938ebe22eee5ac", null ],
     [ "back_trans_throttle", "da/db5/struct_params.html#a8ccefa475dd2d5feada14385b0fd1d56", null ],
+    [ "diff_thrust", "da/db5/struct_params.html#a08ec02eac4ed7bd05d5b0692ad6e1379", null ],
+    [ "diff_thrust_scale", "da/db5/struct_params.html#a12dc8fb62d0225a8ade55505827b315b", null ],
     [ "elevons_mc_lock", "da/db5/struct_params.html#adc2c8fd89379dc6815ac65a4e6b8081c", null ],
     [ "front_trans_duration", "da/db5/struct_params.html#a22291d14645f1d97cda3904e42464966", null ],
     [ "front_trans_throttle", "da/db5/struct_params.html#a28a601662a88c8167b55a81870ebce2c", null ],
@@ -18,9 +20,6 @@ var struct_params =
     [ "idle_pwm_mc", "da/db5/struct_params.html#a20a9fcb901686ed03678f122fbf89654", null ],
     [ "mpc_xy_cruise", "da/db5/struct_params.html#a3c80453495edf37e383f1decfb5a7566", null ],
     [ "transition_airspeed", "da/db5/struct_params.html#a59f3de38be40948a28ecdb3ca8c1bcc6", null ],
-    [ "vtol_motor_count", "da/db5/struct_params.html#a568daf6f8164e7919a786e166954a0c7", null ],
-    [ "vtol_type", "da/db5/struct_params.html#a5d6a4e25e1c7950ad408f735d877c344", null ],
-    [ "wv_land", "da/db5/struct_params.html#ad2ee1d716f2fc977b3861484896b0deb", null ],
-    [ "wv_loiter", "da/db5/struct_params.html#aa3a68d8a15ae4b9f521a38d4b8e087d5", null ],
-    [ "wv_takeoff", "da/db5/struct_params.html#a836e9648f2f6517de2da0cbc6e1552c1", null ]
+    [ "vtol_motor_id", "da/db5/struct_params.html#a6b91e12d59e4271239fb96b7cfd2a902", null ],
+    [ "vtol_type", "da/db5/struct_params.html#a5d6a4e25e1c7950ad408f735d877c344", null ]
 ];

@@ -1,43 +1,43 @@
 <map id="src/lib/controllib/controllib_test/controllib_test_main.cpp" name="src/lib/controllib/controllib_test/controllib_test_main.cpp">
-<area shape="rect" id="node5" href="$df/def/blocks_8hpp.html" title="Controller library code. " alt="" coords="1213,109,1355,136"/>
-<area shape="rect" id="node6" href="$dd/de1/_block_delay_8hpp.html" title="BlockDelay.hpp" alt="" coords="424,259,539,285"/>
-<area shape="rect" id="node34" href="$d3/d8d/_block_derivative_8hpp.html" title="BlockDerivative.hpp" alt="" coords="263,184,401,211"/>
-<area shape="rect" id="node35" href="$de/d3d/_block_low_pass_8hpp.html" title="BlockLowPass.hpp" alt="" coords="265,259,399,285"/>
-<area shape="rect" id="node36" href="$dc/db5/_block_high_pass_8hpp.html" title="BlockHighPass.hpp" alt="" coords="2173,259,2310,285"/>
-<area shape="rect" id="node37" href="$d0/db1/_block_integral_8hpp.html" title="BlockIntegral.hpp" alt="" coords="2721,184,2844,211"/>
-<area shape="rect" id="node38" href="$d6/de8/_block_limit_sym_8hpp.html" title="BlockLimitSym.hpp" alt="" coords="2509,259,2643,285"/>
-<area shape="rect" id="node39" href="$db/dcb/_block_integral_trap_8hpp.html" title="BlockIntegralTrap.hpp" alt="" coords="2335,259,2484,285"/>
-<area shape="rect" id="node40" href="$d0/dbc/_block_limit_8hpp.html" title="BlockLimit.hpp" alt="" coords="1561,259,1669,285"/>
-<area shape="rect" id="node41" href="$d5/d5b/_block_low_pass2_8hpp.html" title="BlockLowPass2.hpp" alt="" coords="1811,259,1952,285"/>
-<area shape="rect" id="node42" href="$d5/d8b/_block_low_pass_vector_8hpp.html" title="BlockLowPassVector.hpp" alt="" coords="1977,259,2149,285"/>
-<area shape="rect" id="node43" href="$dc/d2c/_block_output_8hpp.html" title="BlockOutput.hpp" alt="" coords="698,259,817,285"/>
-<area shape="rect" id="node44" href="$df/d17/_block_p_d_8hpp.html" title="BlockPD.hpp" alt="" coords="841,259,940,285"/>
-<area shape="rect" id="node45" href="$d1/d7f/_block_p_8hpp.html" title="BlockP.hpp" alt="" coords="965,259,1054,285"/>
-<area shape="rect" id="node46" href="$db/df6/_block_p_i_d_8hpp.html" title="BlockPID.hpp" alt="" coords="1078,259,1181,285"/>
-<area shape="rect" id="node47" href="$db/d5f/_block_p_i_8hpp.html" title="BlockPI.hpp" alt="" coords="1693,259,1787,285"/>
-<area shape="rect" id="node48" href="$d5/d5f/_block_rand_gauss_8hpp.html" title="BlockRandGauss.hpp" alt="" coords="1387,259,1536,285"/>
-<area shape="rect" id="node49" href="$df/db7/_block_rand_uniform_8hpp.html" title="BlockRandUniform.hpp" alt="" coords="1205,259,1363,285"/>
-<area shape="rect" id="node50" href="$d1/d2b/_block_stats_8hpp.html" title="BlockStats.hpp" alt="" coords="563,259,674,285"/>
-<area shape="rect" id="node7" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="723,497,826,524"/>
-<area shape="rect" id="node14" href="$d6/d11/test_8hpp.html" title="Controller library code. " alt="" coords="1131,341,1306,367"/>
-<area shape="rect" id="node15" href="$d0/d28/_low_pass_filter2p_8hpp.html" title="mathlib/math/filter\l/LowPassFilter2p.hpp" alt="" coords="1330,333,1478,375"/>
-<area shape="rect" id="node16" href="$d3/d25/_block_8hpp.html" title="Controller library code. " alt="" coords="1831,341,1945,367"/>
-<area shape="rect" id="node20" href="$d0/ddd/_block_param_8hpp.html" title="Controller library code. " alt="" coords="803,423,1013,449"/>
-<area shape="rect" id="node22" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="2274,341,2390,367"/>
-<area shape="rect" id="node8" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="735,572,814,599"/>
-<area shape="rect" id="node17" href="$dc/d72/_list_8hpp.html" title="A linked list. " alt="" coords="1139,497,1271,524"/>
-<area shape="rect" id="node18" href="$dc/de7/_publication_8hpp.html" title="uORB/Publication.hpp" alt="" coords="1219,423,1370,449"/>
-<area shape="rect" id="node19" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="1037,423,1195,449"/>
-<area shape="rect" id="node21" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="839,572,977,599"/>
-<area shape="rect" id="node23" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1919,423,2047,449"/>
-<area shape="rect" id="node24" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="2071,423,2153,449"/>
-<area shape="rect" id="node25" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="2177,423,2301,449"/>
-<area shape="rect" id="node26" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="2325,423,2411,449"/>
-<area shape="rect" id="node27" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="2435,423,2527,449"/>
-<area shape="rect" id="node28" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="2551,423,2643,449"/>
-<area shape="rect" id="node29" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="2668,423,2745,449"/>
-<area shape="rect" id="node30" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="1445,423,1520,449"/>
-<area shape="rect" id="node31" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="1545,423,1629,449"/>
-<area shape="rect" id="node32" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="1653,423,1763,449"/>
-<area shape="rect" id="node33" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="1788,423,1895,449"/>
+<area shape="rect" id="node5" href="$df/def/blocks_8hpp.html" title="Controller library code. " alt="" coords="1912,109,2053,136"/>
+<area shape="rect" id="node6" href="$dd/de1/_block_delay_8hpp.html" title="BlockDelay.hpp" alt="" coords="1773,259,1888,285"/>
+<area shape="rect" id="node34" href="$d3/d8d/_block_derivative_8hpp.html" title="BlockDerivative.hpp" alt="" coords="3032,184,3170,211"/>
+<area shape="rect" id="node35" href="$de/d3d/_block_low_pass_8hpp.html" title="BlockLowPass.hpp" alt="" coords="3034,259,3168,285"/>
+<area shape="rect" id="node36" href="$dc/db5/_block_high_pass_8hpp.html" title="BlockHighPass.hpp" alt="" coords="2566,259,2703,285"/>
+<area shape="rect" id="node37" href="$d0/db1/_block_integral_8hpp.html" title="BlockIntegral.hpp" alt="" coords="588,184,710,211"/>
+<area shape="rect" id="node38" href="$d6/de8/_block_limit_sym_8hpp.html" title="BlockLimitSym.hpp" alt="" coords="880,259,1015,285"/>
+<area shape="rect" id="node39" href="$db/dcb/_block_integral_trap_8hpp.html" title="BlockIntegralTrap.hpp" alt="" coords="2392,259,2541,285"/>
+<area shape="rect" id="node40" href="$d0/dbc/_block_limit_8hpp.html" title="BlockLimit.hpp" alt="" coords="2727,259,2835,285"/>
+<area shape="rect" id="node41" href="$d5/d5b/_block_low_pass2_8hpp.html" title="BlockLowPass2.hpp" alt="" coords="1912,259,2053,285"/>
+<area shape="rect" id="node42" href="$d5/d8b/_block_low_pass_vector_8hpp.html" title="BlockLowPassVector.hpp" alt="" coords="2078,259,2250,285"/>
+<area shape="rect" id="node43" href="$dc/d2c/_block_output_8hpp.html" title="BlockOutput.hpp" alt="" coords="738,259,856,285"/>
+<area shape="rect" id="node44" href="$df/d17/_block_p_d_8hpp.html" title="BlockPD.hpp" alt="" coords="1040,259,1138,285"/>
+<area shape="rect" id="node45" href="$d1/d7f/_block_p_8hpp.html" title="BlockP.hpp" alt="" coords="1163,259,1252,285"/>
+<area shape="rect" id="node46" href="$db/df6/_block_p_i_d_8hpp.html" title="BlockPID.hpp" alt="" coords="1328,259,1431,285"/>
+<area shape="rect" id="node47" href="$db/d5f/_block_p_i_8hpp.html" title="BlockPI.hpp" alt="" coords="2274,259,2368,285"/>
+<area shape="rect" id="node48" href="$d5/d5f/_block_rand_gauss_8hpp.html" title="BlockRandGauss.hpp" alt="" coords="2860,259,3009,285"/>
+<area shape="rect" id="node49" href="$df/db7/_block_rand_uniform_8hpp.html" title="BlockRandUniform.hpp" alt="" coords="1456,259,1613,285"/>
+<area shape="rect" id="node50" href="$d1/d2b/_block_stats_8hpp.html" title="BlockStats.hpp" alt="" coords="1638,259,1748,285"/>
+<area shape="rect" id="node11" href="$d6/d11/test_8hpp.html" title="Controller library code. " alt="" coords="1580,341,1755,367"/>
+<area shape="rect" id="node12" href="$d0/d28/_low_pass_filter2p_8hpp.html" title="mathlib/math/filter\l/LowPassFilter2p.hpp" alt="" coords="1779,333,1927,375"/>
+<area shape="rect" id="node13" href="$d3/d25/_block_8hpp.html" title="Controller library code. " alt="" coords="1340,341,1454,367"/>
+<area shape="rect" id="node15" href="$d0/ddd/_block_param_8hpp.html" title="Controller library code. " alt="" coords="2276,423,2486,449"/>
+<area shape="rect" id="node18" href="$d4/d78/math_8hpp.html" title="matrix/math.hpp" alt="" coords="844,341,960,367"/>
+<area shape="rect" id="node14" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="2100,505,2232,531"/>
+<area shape="rect" id="node16" href="$d5/d33/param_8h.html" title="Global flash based parameter store. " alt="" coords="2270,505,2409,531"/>
+<area shape="rect" id="node19" href="$db/de5/stdlib__imports_8hpp.html" title="This file is needed to shadow the C standard library math functions with ones provided by the C++ sta..." alt="" coords="1354,423,1482,449"/>
+<area shape="rect" id="node20" href="$dd/d28/helper__functions_8hpp.html" title="helper_functions.hpp" alt="" coords="1507,423,1650,449"/>
+<area shape="rect" id="node21" href="$d8/d49/_matrix_8hpp.html" title="A simple matrix template library. " alt="" coords="1674,423,1757,449"/>
+<area shape="rect" id="node22" href="$df/d5f/_square_matrix_8hpp.html" title="A square matrix. " alt="" coords="1782,423,1906,449"/>
+<area shape="rect" id="node23" href="$dd/da6/_slice_8hpp.html" title="A simple matrix template library. " alt="" coords="1930,423,2006,449"/>
+<area shape="rect" id="node24" href="$db/d20/_vector_8hpp.html" title="Vector class. " alt="" coords="2030,423,2116,449"/>
+<area shape="rect" id="node25" href="$d3/d12/_vector2_8hpp.html" title="2D vector class. " alt="" coords="259,423,351,449"/>
+<area shape="rect" id="node26" href="$d2/d6a/_vector3_8hpp.html" title="3D vector class. " alt="" coords="375,423,467,449"/>
+<area shape="rect" id="node27" href="$d3/d40/_euler_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="492,423,569,449"/>
+<area shape="rect" id="node28" href="$d9/d6f/_dcm_8hpp.html" title="A direction cosine matrix class. " alt="" coords="593,423,668,449"/>
+<area shape="rect" id="node29" href="$de/d6b/_scalar_8hpp.html" title="Defines conversion of matrix to scalar. " alt="" coords="692,423,776,449"/>
+<area shape="rect" id="node30" href="$d6/d42/_quaternion_8hpp.html" title="All rotations and axis systems follow the right&#45;hand rule. " alt="" coords="800,423,911,449"/>
+<area shape="rect" id="node31" href="$de/dbe/_axis_angle_8hpp.html" title="AxisAngle.hpp" alt="" coords="936,423,1042,449"/>
+<area shape="rect" id="node32" href="$d9/d19/_least_squares_solver_8hpp.html" title="Least Squares Solver using QR householder decomposition. " alt="" coords="1067,423,1231,449"/>
+<area shape="rect" id="node33" href="$d5/dd8/_dual_8hpp.html" title="This is a dual number type for calculating automatic derivatives. " alt="" coords="1256,423,1330,449"/>
 </map>

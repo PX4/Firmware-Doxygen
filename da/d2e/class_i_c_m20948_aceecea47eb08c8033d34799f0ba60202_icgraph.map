@@ -1,0 +1,15 @@
+<map id="ICM20948::write_checked_reg" name="ICM20948::write_checked_reg">
+<area shape="rect" id="node2" href="$da/d2e/class_i_c_m20948.html#a0906640f147d4e6838f1d443a38c8b34" title="ICM20948::_set_dlpf\l_filter" alt="" coords="525,48,667,90"/>
+<area shape="rect" id="node3" href="$da/d2e/class_i_c_m20948.html#a15c271d1a998d2855897b1d20405c4ea" title="Resets the main chip (excluding the magnetometer if any). " alt="" coords="739,144,890,170"/>
+<area shape="rect" id="node9" href="$da/d2e/class_i_c_m20948.html#a2e3865c431fe28908dcc1be6fc661313" title="ICM20948::_set_sample_rate" alt="" coords="261,113,454,140"/>
+<area shape="rect" id="node10" href="$da/d2e/class_i_c_m20948.html#aaa9b0fac9c4b5a8530a93dd8d5b7b806" title="Modify a checked register in the mpu. " alt="" coords="252,232,463,258"/>
+<area shape="rect" id="node4" href="$da/d2e/class_i_c_m20948.html#a00f0803b54f422398a61667ec082f273" title="ICM20948::check_registers" alt="" coords="948,118,1131,145"/>
+<area shape="rect" id="node7" href="$da/d2e/class_i_c_m20948.html#ad8970a5ba6ed66c53eaf2308a34c9aa3" title="ICM20948::init" alt="" coords="1195,256,1302,282"/>
+<area shape="rect" id="node8" href="$da/d2e/class_i_c_m20948.html#a13a11cde04f0d6296175e70fb314cbe7" title="ICM20948::reset" alt="" coords="1189,201,1308,228"/>
+<area shape="rect" id="node5" href="$da/d2e/class_i_c_m20948.html#a0fa8a88dd60f823e58901a30759c036e" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="1179,118,1319,145"/>
+<area shape="rect" id="node6" href="$da/d2e/class_i_c_m20948.html#a9a2792028b35b8f611b7351c6dfc00a7" title="ICM20948::Run" alt="" coords="1367,118,1481,145"/>
+<area shape="rect" id="node11" href="$d6/df3/class_i_c_m20948__mag.html#a490d7c0e4c29dc3858c44be3cbbd4e05" title="ICM20948_mag::ak09916\l_setup" alt="" coords="729,283,900,324"/>
+<area shape="rect" id="node13" href="$d6/df3/class_i_c_m20948__mag.html#aa38ba3c4cb94c15edf00f15848c4aba9" title="ICM20948_mag::ak09916\l_setup_master_i2c" alt="" coords="511,283,681,324"/>
+<area shape="rect" id="node14" href="$da/d2e/class_i_c_m20948.html#a107acc9c81bb04d3526bb75e66e6771a" title="Set the mpu measurement range. " alt="" coords="523,166,669,207"/>
+<area shape="rect" id="node12" href="$d6/df3/class_i_c_m20948__mag.html#a0e984b8f397e4bdccf1b47ce40d5f389" title="ICM20948_mag::ak09916\l_reset" alt="" coords="954,220,1125,262"/>
+</map>

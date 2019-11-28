@@ -1,0 +1,48 @@
+<map id="matrix::Matrix::copyTo" name="matrix::Matrix::copyTo">
+<area shape="rect" id="node2" href="$d9/d0c/class_multicopter_attitude_control.html#ad9cd99568233a87506af5d669fa18f80" title="Generate &amp; publish an attitude setpoint from stick inputs. " alt="" coords="230,23,413,65"/>
+<area shape="rect" id="node4" href="$da/dbc/class_flight_task.html#aa57d35ea8258f1d45cbf7c43b16106a7" title="Get the output data. " alt="" coords="219,144,423,171"/>
+<area shape="rect" id="node13" href="$da/d89/class_mavlink_receiver.html#a20e5061a848da7005cb01777ab79eb79" title="MavlinkReceiver::handle\l_message_hil_state_quaternion" alt="" coords="219,473,424,514"/>
+<area shape="rect" id="node22" href="$dd/dd1/class_simulator.html#a64161dc6c4a8a8c641eca46afe37760b" title="Simulator::handle_message\l_hil_state_quaternion" alt="" coords="230,290,413,331"/>
+<area shape="rect" id="node23" href="$da/d89/class_mavlink_receiver.html#ad68e912762debb0112dbf26302c1e9ee" title="MavlinkReceiver::handle\l_message_odometry" alt="" coords="239,590,404,631"/>
+<area shape="rect" id="node24" href="$da/d89/class_mavlink_receiver.html#a5458b4cd0336f664b8db7a1b25275f7c" title="MavlinkReceiver::handle\l_message_set_attitude\l_target" alt="" coords="239,721,404,777"/>
+<area shape="rect" id="node25" href="$da/d89/class_mavlink_receiver.html#a7c6f7fda759616cd6e2c512ada810513" title="MavlinkReceiver::handle\l_message_vision_position\l_estimate" alt="" coords="234,919,409,975"/>
+<area shape="rect" id="node26" href="$d8/d2e/copyto_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="296,539,347,565"/>
+<area shape="rect" id="node27" href="$d7/d08/class_collision_prevention.html#a8bf058150651509f59d2e9005f8794c4" title="Computes collision free setpoints. " alt="" coords="254,225,389,266"/>
+<area shape="rect" id="node31" href="$dd/dd1/class_simulator.html#a395d0a8faed817d4689de53113401e28" title="Simulator::publish\l_odometry_topic" alt="" coords="258,655,385,697"/>
+<area shape="rect" id="node32" href="$d5/d01/class_block_local_position_estimator.html#a612a57d3429f11a54691a2bc85f0dd31" title="BlockLocalPositionEstimator\l::publishOdom" alt="" coords="227,407,416,449"/>
+<area shape="rect" id="node34" href="$de/d9c/class_ekf2.html#aa9d0494340430e589883d23899a2bd76" title="Ekf2::Run" alt="" coords="281,801,362,828"/>
+<area shape="rect" id="node35" href="$de/d78/class_mavlink_stream_attitude_quaternion.html#ae397b66c6790f335fddf226b731cd28e" title="MavlinkStreamAttitudeQuaternion\l::send" alt="" coords="213,853,430,894"/>
+<area shape="rect" id="node36" href="$d5/d30/namespace_control_math.html#ad717ded6d5b709feff11c5757ce9cfd2" title="Converts thrust vector and yaw set&#45;point to a desired attitude. " alt="" coords="224,356,419,383"/>
+<area shape="rect" id="node40" href="$de/df2/class_standard.html#aed46185c44c762df8eb499ea190cb6a0" title="Update multicopter state. " alt="" coords="248,999,395,1041"/>
+<area shape="rect" id="node41" href="$d2/db7/class_tailsitter.html#a99e085d4adfc7c12a3d5650f3f3eb94e" title="Update transition state. " alt="" coords="262,1065,381,1106"/>
+<area shape="rect" id="node42" href="$de/df2/class_standard.html#a9b73fe84db645bad0a39c9f677ff6e92" title="Update transition state. " alt="" coords="231,1130,412,1171"/>
+<area shape="rect" id="node43" href="$d2/da2/class_obstacle_avoidance.html#a23c095f2e838bad3fed93279cf5457fa" title="Updates the desired setpoints to send to the obstacle avoidance system. " alt="" coords="210,1195,433,1237"/>
+<area shape="rect" id="node45" href="$d2/da2/class_obstacle_avoidance.html#a6d09dece2f4df92c8d916884f8341114" title="Updates the desired waypoints to send to the obstacle avoidance system. " alt="" coords="207,1261,436,1302"/>
+<area shape="rect" id="node3" href="$d9/d0c/class_multicopter_attitude_control.html#af1b60dba92718a043b3dd37ad9bdec58" title="MulticopterAttitudeControl::Run" alt="" coords="492,5,697,32"/>
+<area shape="rect" id="node5" href="$dc/d0c/class_flight_tasks.html#a5bcf5880e6b54f08170826d4814d37fc" title="Get the output data from the current task. " alt="" coords="513,107,676,149"/>
+<area shape="rect" id="node8" href="$da/dbc/class_flight_task.html#ad5bb0b1e3d751c3c106405e4b30c7348" title="Call this to reset an active Flight Task. " alt="" coords="519,173,670,200"/>
+<area shape="rect" id="node11" href="$da/dbc/class_flight_task.html#a7eef925a62b6dde292212a6ce551d320" title="Call after update() to constrain the generated setpoints in order to comply with the constraints of t..." alt="" coords="507,56,682,83"/>
+<area shape="rect" id="node6" href="$dd/d4e/class_multicopter_position_control.html#a295b07c9916c3949dab8c3584415e392" title="MulticopterPositionControl::Run" alt="" coords="1007,169,1213,196"/>
+<area shape="rect" id="node7" href="$dc/d0c/class_flight_tasks.html#adbfe677fc3a415e08f897d938cc641d8" title="Switch to a specific task (for normal usage) " alt="" coords="773,68,939,95"/>
+<area shape="rect" id="node9" href="$da/dbc/class_flight_task.html#adc254d6f0f38487df20a894b0fa017ab" title="FlightTask::FlightTask" alt="" coords="780,169,932,196"/>
+<area shape="rect" id="node10" href="$dc/d0c/class_flight_tasks.html#ab0ad84cee380875369ad44f7745dacb2" title="This method will re&#45;activate current task. " alt="" coords="777,220,935,247"/>
+<area shape="rect" id="node12" href="$dc/d0c/class_flight_tasks.html#add80b7c3af85774bd332f6667cbf7c7b" title="Call regularly in the control loop cycle to execute the task. " alt="" coords="787,17,925,44"/>
+<area shape="rect" id="node14" href="$da/d89/class_mavlink_receiver.html#ac939c806679dc4278968b1d3e865cc72" title="MavlinkReceiver::handle\l_message" alt="" coords="512,659,677,701"/>
+<area shape="rect" id="node15" href="$da/d89/class_mavlink_receiver.html#a2a2904ed386bbb6a4ff3528527006a58" title="Receive data from UART/UDP. " alt="" coords="781,667,931,693"/>
+<area shape="rect" id="node16" href="$da/d89/class_mavlink_receiver.html#a4e6d064186fe746bc3934959a991a908" title="MavlinkReceiver::start\l_helper" alt="" coords="1033,659,1187,701"/>
+<area shape="rect" id="node17" href="$da/d89/class_mavlink_receiver.html#aae6564d759626eeebeb19a9dfbdcaf6d" title="Start the receiver thread. " alt="" coords="1261,659,1431,701"/>
+<area shape="rect" id="node18" href="$df/d1f/class_mavlink.html#a2325401a575b272fc1474d502388241f" title="Main mavlink task. " alt="" coords="1479,667,1613,693"/>
+<area shape="rect" id="node19" href="$df/d1f/class_mavlink.html#aad2c17a259e6cfbfe20113c8da8f6cae" title="Mavlink::start_helper" alt="" coords="1661,667,1804,693"/>
+<area shape="rect" id="node20" href="$df/d1f/class_mavlink.html#a3f96c3503833a477332c8584bb8fbc67" title="Start the mavlink task. " alt="" coords="1852,667,1953,693"/>
+<area shape="rect" id="node21" href="$de/d24/mavlink__main_8cpp.html#ab81e9b009119f143f3b54a1390b92427" title="Mavlink app start / stop handling function. " alt="" coords="2001,667,2104,693"/>
+<area shape="rect" id="node28" href="$da/d83/class_flight_task_manual_position.html#aef8e02cab92b57236fe310a02398ddcc" title="scales sticks to velocity in z " alt="" coords="509,225,681,266"/>
+<area shape="rect" id="node30" href="$db/dc6/_collision_prevention_test_8cpp.html#a04b3e98a02053358fe120b133a089cab" title="TEST_F" alt="" coords="559,291,630,317"/>
+<area shape="rect" id="node29" href="$da/d83/class_flight_task_manual_position.html#a4a6b240320d94deaca158a5ce4d986e4" title="Sets an external yaw handler which can be used to implement a different yaw control strategy..." alt="" coords="770,271,942,313"/>
+<area shape="rect" id="node33" href="$d5/d01/class_block_local_position_estimator.html#a34216107cee0bbde413b794a4c76da59" title="BlockLocalPositionEstimator::Run" alt="" coords="484,459,705,485"/>
+<area shape="rect" id="node37" href="$d8/d5a/class_position_control.html#a4c871d392085f11713a648289714ba54" title="Get the controllers output attitude setpoint This attitude setpoint was generated from the resulting ..." alt="" coords="503,342,686,383"/>
+<area shape="rect" id="node39" href="$d8/df1/_control_math_test_8cpp.html#aa8d4cc0bd9d9615b84904414b015d496" title="TEST" alt="" coords="567,408,623,435"/>
+<area shape="rect" id="node38" href="$d8/d36/_position_control_test_8cpp.html#ac6d3cd16938d51958121f33b5b2d354c" title="TEST" alt="" coords="828,388,884,415"/>
+<area shape="rect" id="node44" href="$df/dfc/_obstacle_avoidance_test_8cpp.html#ae498d33ff409fadd2f38af6f49537383" title="TEST_F" alt="" coords="559,1207,630,1233"/>
+<area shape="rect" id="node46" href="$d8/d0b/class_flight_task_auto.html#a6ba395901628042b73583f6657e489bc" title="Checks and sets triplets. " alt="" coords="507,1261,682,1302"/>
+<area shape="rect" id="node47" href="$d8/d0b/class_flight_task_auto.html#a6632a22e2e4eebe37e94ace639930a58" title="Call before activate() or update() to initialize time and input data. " alt="" coords="753,1268,959,1295"/>
+</map>

@@ -9,9 +9,7 @@ var dir_de6c09d828de34463dd7697c5d1b68c5 =
     [ "land_detector_params_mc.c", "dc/d7c/land__detector__params__mc_8c.html", "dc/d7c/land__detector__params__mc_8c" ],
     [ "LandDetector.cpp", "da/df2/_land_detector_8cpp.html", null ],
     [ "LandDetector.h", "d7/d37/_land_detector_8h.html", [
-      [ "LandDetector", "d8/d1f/classland__detector_1_1_land_detector.html", "d8/d1f/classland__detector_1_1_land_detector" ],
-      [ "_arming", "d7/de4/structland__detector_1_1_land_detector_1_1__arming.html", null ],
-      [ "_work", "de/db9/structland__detector_1_1_land_detector_1_1__work.html", null ]
+      [ "LandDetector", "d8/d1f/classland__detector_1_1_land_detector.html", "d8/d1f/classland__detector_1_1_land_detector" ]
     ] ],
     [ "MulticopterLandDetector.cpp", "dc/d02/_multicopter_land_detector_8cpp.html", null ],
     [ "MulticopterLandDetector.h", "d9/d62/_multicopter_land_detector_8h.html", [

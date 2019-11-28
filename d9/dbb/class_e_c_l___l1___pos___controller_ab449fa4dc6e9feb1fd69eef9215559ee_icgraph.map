@@ -1,17 +1,11 @@
 <map id="ECL_L1_Pos_Controller::set_l1_period" name="ECL_L1_Pos_Controller::set_l1_period">
-<area shape="rect" id="node2" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19" title="Returns true if following a circle (loiter) " alt="" coords="216,136,379,177"/>
-<area shape="rect" id="node11" href="$d7/d8c/class_ground_rover_position_control.html#a486c644a7a677782a8f3f964855c40ae" title="Update our local parameter cache. " alt="" coords="441,5,629,47"/>
-<area shape="rect" id="node13" href="$d9/d31/class_fixedwing_position_control.html#a9fcb348a9e7a6a55c69e017810573a48" title="Update our local parameter cache. " alt="" coords="449,256,620,297"/>
-<area shape="rect" id="node3" href="$d9/d31/class_fixedwing_position_control.html#a89788c32dcd3ff791d183bd9d1aafca0" title="FixedwingPositionControl\l::calculate_gndspeed_undershoot" alt="" coords="427,136,643,177"/>
-<area shape="rect" id="node4" href="$d9/d31/class_fixedwing_position_control.html#ad90bcc3a1e81fdd41fd6d8b8ec462529" title="FixedwingPositionControl\l::control_position" alt="" coords="703,136,874,177"/>
-<area shape="rect" id="node6" href="$d7/d8c/class_ground_rover_position_control.html#a4f2f86b3be874fbb7928271fa49aa511" title="Control position. " alt="" coords="441,71,629,112"/>
-<area shape="rect" id="node5" href="$d9/d31/class_fixedwing_position_control.html#a8fae2d5637f3783149fc8408a4378136" title="FixedwingPositionControl::run" alt="" coords="935,209,1131,235"/>
-<area shape="rect" id="node7" href="$d7/d8c/class_ground_rover_position_control.html#a48e871da8654ed949ac034719d6712a4" title="Main sensor collection task. " alt="" coords="695,71,883,112"/>
-<area shape="rect" id="node8" href="$d7/d8c/class_ground_rover_position_control.html#aa2ea14b3608ff1d5a718e79ba2de7a88" title="Shim for calling task_main from task_create. " alt="" coords="939,39,1127,80"/>
-<area shape="rect" id="node9" href="$d7/d8c/class_ground_rover_position_control.html#a037e8b87973e3f89c49f3124d2da228b" title="Start the sensors task. " alt="" coords="1179,39,1367,80"/>
-<area shape="rect" id="node10" href="$db/d79/_ground_rover_position_control_8cpp.html#aea00b48df935476be5ad8e9ad7149791" title="L1 control app start / stop handling function. " alt="" coords="1415,46,1567,73"/>
-<area shape="rect" id="node12" href="$d7/d8c/class_ground_rover_position_control.html#a7a46f5fdad2a22139244a3ae8f3c89f5" title="GroundRoverPositionControl\l::GroundRoverPositionControl" alt="" coords="691,5,887,47"/>
-<area shape="rect" id="node14" href="$d9/d31/class_fixedwing_position_control.html#a903d5f213fea0a5d5e24fee43aebb7cd" title="FixedwingPositionControl\l::FixedwingPositionControl" alt="" coords="699,319,878,360"/>
-<area shape="rect" id="node16" href="$d9/d31/class_fixedwing_position_control.html#accc12e21242a82a421eb6a3365c965cb" title="FixedwingPositionControl\l::vehicle_status_poll" alt="" coords="703,201,874,243"/>
-<area shape="rect" id="node15" href="$d9/d31/class_fixedwing_position_control.html#a914ed9528c9ba9d7ae4d94f42de7f4d8" title="FixedwingPositionControl\l::instantiate" alt="" coords="947,319,1118,360"/>
+<area shape="rect" id="node2" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a63a6db4a88343a8a746ad401613bae19" title="Returns true if following a circle (loiter) " alt="" coords="220,151,383,192"/>
+<area shape="rect" id="node8" href="$d9/d31/class_fixedwing_position_control.html#a577797e3ff0db4f2fa3aa83354b024f3" title="FixedwingPositionControl\l::init" alt="" coords="216,216,387,258"/>
+<area shape="rect" id="node10" href="$d6/db2/class_rover_position_control.html#a06c48dfee5ba00318095666a02a50b17" title="RoverPositionControl\l::~RoverPositionControl" alt="" coords="220,282,383,323"/>
+<area shape="rect" id="node3" href="$d9/d31/class_fixedwing_position_control.html#a2706f73f0117f43380a5b6d196e52ac0" title="FixedwingPositionControl\l::calculate_target_airspeed" alt="" coords="435,64,613,106"/>
+<area shape="rect" id="node4" href="$d9/d31/class_fixedwing_position_control.html#a4b6c09ae04794bb21ea7b0705313390b" title="FixedwingPositionControl\l::control_position" alt="" coords="880,64,1051,106"/>
+<area shape="rect" id="node6" href="$d9/d31/class_fixedwing_position_control.html#afdf6c72fd9553ae0ba2bbbef27aea7c5" title="FixedwingPositionControl\l::control_takeoff" alt="" coords="661,31,832,72"/>
+<area shape="rect" id="node7" href="$d9/d31/class_fixedwing_position_control.html#a2a6cc4d147623709e78bcdf344dfd650" title="FixedwingPositionControl\l::control_landing" alt="" coords="661,96,832,138"/>
+<area shape="rect" id="node5" href="$d9/d31/class_fixedwing_position_control.html#af035541f01c63d2d494a58a8271f9389" title="FixedwingPositionControl::Run" alt="" coords="1099,72,1301,98"/>
+<area shape="rect" id="node9" href="$d9/d31/class_fixedwing_position_control.html#a9d4fdbccdeba3c1142dd1b606dee76e3" title="FixedwingPositionControl\l::task_spawn" alt="" coords="439,216,609,258"/>
 </map>

@@ -1,51 +1,51 @@
-<map id="src/lib/drivers/device/posix/cdev_platform.hpp" name="src/lib/drivers/device/posix/cdev_platform.hpp">
-<area shape="rect" id="node2" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="4559,95,4701,136"/>
-<area shape="rect" id="node49" href="$da/dc9/posix_2cdev__platform_8cpp.html" title="src/lib/drivers/device\l/posix/cdev_platform.cpp" alt="" coords="6642,281,6810,322"/>
-<area shape="rect" id="node3" href="$d0/d7e/_l_p_s22_h_b_8hpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.hpp" alt="" coords="411,184,569,225"/>
-<area shape="rect" id="node8" href="$d0/d08/batt__smbus_8h.html" title="Header for a battery monitor connected via SMBus (I2C). " alt="" coords="1083,184,1238,225"/>
-<area shape="rect" id="node12" href="$dc/dab/_a_d_i_s16477__gyro_8hpp.html" title="src/drivers/imu/adis16477\l/ADIS16477_gyro.hpp" alt="" coords="1546,184,1717,225"/>
-<area shape="rect" id="node15" href="$d1/d5b/_c_dev_8cpp.html" title="Character device base class. " alt="" coords="4047,184,4189,225"/>
-<area shape="rect" id="node16" href="$db/de9/device_8h.html" title="src/lib/drivers/device\l/device.h" alt="" coords="4213,184,4356,225"/>
-<area shape="rect" id="node44" href="$da/da0/posix_2_i2_c_8hpp.html" title="src/lib/drivers/device\l/posix/I2C.hpp" alt="" coords="4380,184,4523,225"/>
-<area shape="rect" id="node45" href="$d2/d75/nuttx_2cdev__platform_8cpp.html" title="src/lib/drivers/device\l/nuttx/cdev_platform.cpp" alt="" coords="4547,184,4713,225"/>
-<area shape="rect" id="node46" href="$d6/d86/nuttx_2_i2_c_8hpp.html" title="src/lib/drivers/device\l/nuttx/I2C.hpp" alt="" coords="4737,184,4880,225"/>
-<area shape="rect" id="node47" href="$d5/d49/nuttx_2_s_p_i_8hpp.html" title="src/lib/drivers/device\l/nuttx/SPI.hpp" alt="" coords="4904,184,5047,225"/>
-<area shape="rect" id="node48" href="$d9/d95/vfile_8h.html" title="src/lib/drivers/device\l/posix/vfile.h" alt="" coords="5071,184,5213,225"/>
-<area shape="rect" id="node50" href="$d3/d41/posix_2_s_p_i_8hpp.html" title="src/lib/drivers/device\l/posix/SPI.hpp" alt="" coords="5289,184,5432,225"/>
-<area shape="rect" id="node4" href="$d4/dbd/_l_p_s22_h_b_8cpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.cpp" alt="" coords="5,281,164,322"/>
-<area shape="rect" id="node5" href="$d9/de1/_l_p_s22_h_b___i2_c_8cpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB_I2C.cpp" alt="" coords="189,281,375,322"/>
-<area shape="rect" id="node6" href="$d0/d68/lps22hb__main_8cpp.html" title="src/drivers/barometer\l/lps22hb/lps22hb_main.cpp" alt="" coords="400,281,580,322"/>
-<area shape="rect" id="node7" href="$d3/d5f/_l_p_s22_h_b___s_p_i_8cpp.html" title="SPI interface for LPS22HB. " alt="" coords="605,281,791,322"/>
-<area shape="rect" id="node9" href="$d0/d0b/batt__smbus_8cpp.html" title="Driver for a battery monitor connected via SMBus (I2C). " alt="" coords="815,281,970,322"/>
-<area shape="rect" id="node10" href="$d9/dec/batt__smbus__i2c_8cpp.html" title="I2C interface for batt_smbus. " alt="" coords="994,281,1149,322"/>
-<area shape="rect" id="node11" href="$d0/de7/batt__smbus__main_8cpp.html" title="src/drivers/batt_smbus\l/batt_smbus_main.cpp" alt="" coords="1173,281,1327,322"/>
-<area shape="rect" id="node13" href="$d9/d08/_a_d_i_s16477_8cpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.cpp" alt="" coords="1351,281,1522,322"/>
-<area shape="rect" id="node14" href="$de/d6e/_a_d_i_s16477__gyro_8cpp.html" title="src/drivers/imu/adis16477\l/ADIS16477_gyro.cpp" alt="" coords="1546,281,1717,322"/>
-<area shape="rect" id="node17" href="$dc/da6/bmp280_8cpp.html" title="Driver for the BMP280 barometric pressure sensor connected via I2C TODO or SPI. " alt="" coords="1741,281,1887,322"/>
-<area shape="rect" id="node18" href="$db/dac/mpl3115a2_8cpp.html" title="FIXME!: This is stubberd out driver for the NXP MPL3115A2 it has bogus code in it and is just being u..." alt="" coords="1911,281,2093,322"/>
-<area shape="rect" id="node19" href="$d6/d17/ms5611_8cpp.html" title="Driver for the MS5611 and MS6507 barometric pressure sensor connected via I2C or SPI. " alt="" coords="2117,281,2263,322"/>
-<area shape="rect" id="node20" href="$d9/d50/hc__sr04_8cpp.html" title="Driver for the hc_sr04 sonar range finders . " alt="" coords="2288,281,2481,322"/>
-<area shape="rect" id="node21" href="$d5/d80/leddar__one_8cpp.html" title="src/drivers/distance\l_sensor/leddar_one/leddar\l_one.cpp" alt="" coords="2505,273,2680,329"/>
-<area shape="rect" id="node22" href="$d3/d00/_lidar_lite_8h.html" title="src/drivers/distance\l_sensor/ll40ls/LidarLite.h" alt="" coords="2704,281,2871,322"/>
-<area shape="rect" id="node23" href="$d6/d95/sf0x_8cpp.html" title="src/drivers/distance\l_sensor/sf0x/sf0x.cpp" alt="" coords="2895,281,3045,322"/>
-<area shape="rect" id="node24" href="$dc/d77/tfmini_8cpp.html" title="src/drivers/distance\l_sensor/tfmini/tfmini.cpp" alt="" coords="3070,281,3235,322"/>
-<area shape="rect" id="node25" href="$d4/dd7/ulanding_8cpp.html" title="src/drivers/distance\l_sensor/ulanding/ulanding.cpp" alt="" coords="3259,281,3457,322"/>
-<area shape="rect" id="node26" href="$de/d97/kinetis_2adc_2adc_8cpp.html" title="src/drivers/kinetis\l/adc/adc.cpp" alt="" coords="3481,281,3606,322"/>
-<area shape="rect" id="node27" href="$d3/dad/drivers_2kinetis_2tone__alarm_2tone__alarm_8cpp.html" title="src/drivers/kinetis\l/tone_alarm/tone_alarm.cpp" alt="" coords="3631,281,3813,322"/>
-<area shape="rect" id="node28" href="$df/db3/mkblctrl_8cpp.html" title="Driver/configurator for the Mikrokopter BL&#45;Ctrl. " alt="" coords="3838,281,3971,322"/>
-<area shape="rect" id="node29" href="$d4/d1e/protocol__splitter_8cpp.html" title="NuttX Driver to multiplex mavlink and RTPS on a single serial port. " alt="" coords="3995,281,4185,322"/>
-<area shape="rect" id="node30" href="$d9/d8a/pwm__input_8cpp.html" title="PWM input driver based on earlier driver from Evan Slatyer, which in turn was based on drv_hrt..." alt="" coords="4209,281,4360,322"/>
-<area shape="rect" id="node31" href="$d6/de8/_p_w_m_sim_8hpp.html" title="src/drivers/pwm_out\l_sim/PWMSim.hpp" alt="" coords="4384,281,4524,322"/>
-<area shape="rect" id="node32" href="$de/d74/fmu_8cpp.html" title="Driver/configurator for the PX4 FMU. " alt="" coords="4549,281,4679,322"/>
-<area shape="rect" id="node33" href="$de/dfe/px4io_8cpp.html" title="Driver for the PX4IO board. " alt="" coords="4703,288,4882,315"/>
-<area shape="rect" id="node34" href="$de/df7/px4io__serial_8h.html" title="src/drivers/px4io/px4io\l_serial.h" alt="" coords="4907,281,5060,322"/>
-<area shape="rect" id="node35" href="$d2/d4d/rgbled__pwm_8cpp.html" title="Driver for the onboard RGB LED controller by PWM. " alt="" coords="5084,281,5240,322"/>
-<area shape="rect" id="node36" href="$df/dc9/samv7_2adc_2adc_8cpp.html" title="src/drivers/samv7/adc\l/adc.cpp" alt="" coords="5264,281,5415,322"/>
-<area shape="rect" id="node37" href="$db/d23/drivers_2samv7_2tone__alarm_2tone__alarm_8cpp.html" title="src/drivers/samv7/tone\l_alarm/tone_alarm.cpp" alt="" coords="5439,281,5594,322"/>
-<area shape="rect" id="node38" href="$df/d49/stm32_2adc_2adc_8cpp.html" title="src/drivers/stm32/adc\l/adc.cpp" alt="" coords="5619,281,5767,322"/>
-<area shape="rect" id="node39" href="$de/de9/drivers_2stm32_2tone__alarm_2tone__alarm_8cpp.html" title="src/drivers/stm32/tone\l_alarm/tone_alarm.cpp" alt="" coords="5791,281,5946,322"/>
-<area shape="rect" id="node40" href="$de/d96/tap__esc_8cpp.html" title="src/drivers/tap_esc\l/tap_esc.cpp" alt="" coords="5970,281,6103,322"/>
-<area shape="rect" id="node41" href="$d1/dc6/_iridium_s_b_d_8h.html" title="src/drivers/telemetry\l/iridiumsbd/IridiumSBD.h" alt="" coords="6128,281,6295,322"/>
-<area shape="rect" id="node42" href="$d0/d00/drivers_2airspeed_2airspeed_8cpp.html" title="src/lib/drivers/airspeed\l/airspeed.cpp" alt="" coords="6319,281,6472,322"/>
-<area shape="rect" id="node43" href="$d0/df0/lib_2drivers_2led_2led_8cpp.html" title="src/lib/drivers/led\l/led.cpp" alt="" coords="6496,281,6617,322"/>
+<map id="src/lib/cdev/posix/cdev_platform.hpp" name="src/lib/cdev/posix/cdev_platform.hpp">
+<area shape="rect" id="node2" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="src/lib/cdev/CDev.hpp" alt="" coords="3151,95,3303,121"/>
+<area shape="rect" id="node37" href="$da/dc9/posix_2cdev__platform_8cpp.html" title="src/lib/cdev/posix\l/cdev_platform.cpp" alt="" coords="5372,266,5505,307"/>
+<area shape="rect" id="node3" href="$db/d33/adc_8cpp.html" title="Driver for an ADC. " alt="" coords="3710,177,3869,203"/>
+<area shape="rect" id="node4" href="$d4/d38/bmp388_8h.html" title="Shared defines for the bmp388 driver. " alt="" coords="2175,266,2321,307"/>
+<area shape="rect" id="node9" href="$d0/d7e/_l_p_s22_h_b_8hpp.html" title="src/drivers/barometer\l/lps22hb/LPS22HB.hpp" alt="" coords="435,169,594,211"/>
+<area shape="rect" id="node14" href="$d6/d51/lps25h_8h.html" title="Shared defines for the lps25h driver. " alt="" coords="1082,169,1227,211"/>
+<area shape="rect" id="node18" href="$d6/d0c/mpl3115a2_8h.html" title="Shared defines for the mpl3115a2 driver. " alt="" coords="1335,169,1502,211"/>
+<area shape="rect" id="node21" href="$d7/d46/_m_s5611_8hpp.html" title="src/drivers/barometer\l/ms5611/MS5611.hpp" alt="" coords="3160,266,3309,307"/>
+<area shape="rect" id="node22" href="$d6/d17/ms5611_8cpp.html" title="Driver for the MS5611 and MS5607 barometric pressure sensor connected via I2C or SPI. " alt="" coords="2987,377,3133,419"/>
+<area shape="rect" id="node25" href="$d3/d79/ms5611_8h.html" title="Shared defines for the ms5611 driver. " alt="" coords="3541,169,3686,211"/>
+<area shape="rect" id="node28" href="$df/d26/dshot_8cpp.html" title="src/drivers/dshot/dshot.cpp" alt="" coords="2426,177,2606,203"/>
+<area shape="rect" id="node29" href="$d4/d1e/protocol__splitter_8cpp.html" title="NuttX Driver to multiplex mavlink and RTPS on a single serial port. " alt="" coords="2631,169,2820,211"/>
+<area shape="rect" id="node30" href="$de/d74/fmu_8cpp.html" title="Driver/configurator for the PX4 FMU. " alt="" coords="2844,169,2975,211"/>
+<area shape="rect" id="node31" href="$de/d96/tap__esc_8cpp.html" title="src/drivers/tap_esc\l/tap_esc.cpp" alt="" coords="2999,169,3132,211"/>
+<area shape="rect" id="node32" href="$d1/dc6/_iridium_s_b_d_8h.html" title="src/drivers/telemetry\l/iridiumsbd/IridiumSBD.h" alt="" coords="3893,169,4059,211"/>
+<area shape="rect" id="node34" href="$d2/daa/cdev_2_c_dev_8cpp.html" title="src/lib/cdev/CDev.cpp" alt="" coords="3207,177,3359,203"/>
+<area shape="rect" id="node35" href="$d2/d75/nuttx_2cdev__platform_8cpp.html" title="src/lib/cdev/nuttx\l/cdev_platform.cpp" alt="" coords="3383,169,3516,211"/>
+<area shape="rect" id="node36" href="$d9/d95/vfile_8h.html" title="src/lib/cdev/posix\l/vfile.h" alt="" coords="5251,169,5375,211"/>
+<area shape="rect" id="node39" href="$db/d83/cdevtest__example_8cpp.html" title="Example for Linux. " alt="" coords="4083,169,4253,211"/>
+<area shape="rect" id="node40" href="$d2/d54/_p_x4_accelerometer_8hpp.html" title="src/lib/drivers/accelerometer\l/PX4Accelerometer.hpp" alt="" coords="1527,169,1713,211"/>
+<area shape="rect" id="node43" href="$d2/d0c/_p_x4_barometer_8hpp.html" title="src/lib/drivers/barometer\l/PX4Barometer.hpp" alt="" coords="2137,169,2300,211"/>
+<area shape="rect" id="node44" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="src/lib/drivers/device\l/CDev.hpp" alt="" coords="4277,169,4419,211"/>
+<area shape="rect" id="node45" href="$df/dc3/_p_x4_gyroscope_8hpp.html" title="src/lib/drivers/gyroscope\l/PX4Gyroscope.hpp" alt="" coords="1738,169,1902,211"/>
+<area shape="rect" id="node46" href="$d0/df0/lib_2drivers_2led_2led_8cpp.html" title="src/lib/drivers/led\l/led.cpp" alt="" coords="4443,169,4565,211"/>
+<area shape="rect" id="node47" href="$d3/d07/_p_x4_magnetometer_8hpp.html" title="src/lib/drivers/magnetometer\l/PX4Magnetometer.hpp" alt="" coords="1927,169,2113,211"/>
+<area shape="rect" id="node48" href="$dc/d32/_p_x4_rangefinder_8hpp.html" title="src/lib/drivers/rangefinder\l/PX4Rangefinder.hpp" alt="" coords="4589,169,4757,211"/>
+<area shape="rect" id="node49" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="src/modules/uORB/uORBDevice\lNode.hpp" alt="" coords="4782,169,4997,211"/>
+<area shape="rect" id="node50" href="$d4/d34/u_o_r_b_test___unit_test_8cpp.html" title="src/modules/uORB/uORB\l_tests/uORBTest_UnitTest.cpp" alt="" coords="5021,169,5227,211"/>
+<area shape="rect" id="node5" href="$da/da5/bmp388_8cpp.html" title="Driver for the BMP388 barometric pressure sensor connected via I2C (SPI still TODO/test). " alt="" coords="2457,377,2604,419"/>
+<area shape="rect" id="node6" href="$d0/dbc/bmp388__i2c_8cpp.html" title="I2C interface for BMP388. " alt="" coords="1860,377,2031,419"/>
+<area shape="rect" id="node7" href="$d3/d3f/bmp388__main_8cpp.html" title="src/drivers/barometer\l/bmp388/bmp388_main.cpp" alt="" coords="2055,377,2238,419"/>
+<area shape="rect" id="node8" href="$db/dd8/bmp388__spi_8cpp.html" title="SPI interface for BMP388 (NOTE: untested!) " alt="" coords="2263,377,2433,419"/>
+<area shape="rect" id="node10" href="$d4/dbd/_l_p_s22_h_b_8cpp.html" title="Driver for the LPS22HB barometer connected via I2C or SPI. " alt="" coords="633,266,791,307"/>
+<area shape="rect" id="node11" href="$d9/de1/_l_p_s22_h_b___i2_c_8cpp.html" title="I2C interface for lps22hb. " alt="" coords="5,266,192,307"/>
+<area shape="rect" id="node12" href="$d0/d68/lps22hb__main_8cpp.html" title="src/drivers/barometer\l/lps22hb/lps22hb_main.cpp" alt="" coords="217,266,397,307"/>
+<area shape="rect" id="node13" href="$d3/d5f/_l_p_s22_h_b___s_p_i_8cpp.html" title="SPI interface for LPS22HB. " alt="" coords="421,266,608,307"/>
+<area shape="rect" id="node15" href="$d5/d75/lps25h_8cpp.html" title="Driver for the LPS25H barometer connected via I2C or SPI. " alt="" coords="1174,266,1319,307"/>
+<area shape="rect" id="node16" href="$d5/d8e/lps25h__i2c_8cpp.html" title="I2C interface for LPS25H. " alt="" coords="816,266,971,307"/>
+<area shape="rect" id="node17" href="$d8/db4/lps25h__spi_8cpp.html" title="SPI interface for LPS25H. " alt="" coords="995,266,1149,307"/>
+<area shape="rect" id="node19" href="$db/dac/mpl3115a2_8cpp.html" title="Driver for the MPL3115A2 barometric pressure sensor connected via I2C. " alt="" coords="1524,266,1705,307"/>
+<area shape="rect" id="node20" href="$db/dc5/mpl3115a2__i2c_8cpp.html" title="I2C interface for MPL3115A2. " alt="" coords="1343,259,1499,315"/>
+<area shape="rect" id="node23" href="$d0/d72/ms5611__main_8cpp.html" title="src/drivers/barometer\l/ms5611/ms5611_main.cpp" alt="" coords="3522,377,3705,419"/>
+<area shape="rect" id="node24" href="$d4/d7c/df__ms5611__wrapper_8cpp.html" title="Lightweight driver to access the MS5611 of the DriverFramework. " alt="" coords="3158,363,3354,433"/>
+<area shape="rect" id="node26" href="$df/db8/ms5611__i2c_8cpp.html" title="I2C interface for MS5611. " alt="" coords="3333,266,3504,307"/>
+<area shape="rect" id="node27" href="$da/d34/ms5611__spi_8cpp.html" title="SPI interface for MS5611. " alt="" coords="3528,266,3699,307"/>
+<area shape="rect" id="node33" href="$d5/d77/_iridium_s_b_d_8cpp.html" title="src/drivers/telemetry\l/iridiumsbd/IridiumSBD.cpp" alt="" coords="3885,266,4067,307"/>
+<area shape="rect" id="node38" href="$d8/d19/vfile_8cpp.html" title="Virtual file. " alt="" coords="5223,266,5347,307"/>
+<area shape="rect" id="node41" href="$d6/dea/_a_d_i_s16448_8h.html" title="src/drivers/imu/adis16448\l/ADIS16448.h" alt="" coords="1932,266,2103,307"/>
+<area shape="rect" id="node42" href="$d7/d43/_a_d_i_s16477_8hpp.html" title="src/drivers/imu/adis16477\l/ADIS16477.hpp" alt="" coords="1733,266,1904,307"/>
 </map>

@@ -1,10 +1,12 @@
 <map id="tap_esc_common::crc8_esc" name="tap_esc_common::crc8_esc">
-<area shape="rect" id="node2" href="$d4/da3/namespacetap__esc__common.html#a29aec5f6c8a51ea28c886aa17d82b5fc" title="tap_esc_common::crc\l_packet" alt="" coords="240,37,391,78"/>
-<area shape="rect" id="node9" href="$d4/da3/namespacetap__esc__common.html#a04127c06d2a33f0868ae596a120b0207" title="Parse feedback from an ESC. " alt="" coords="439,99,604,141"/>
-<area shape="rect" id="node3" href="$d4/da3/namespacetap__esc__common.html#a8c4eb259cd5b3b548a97609dc6772ebf" title="Sends a packet to all ESCs and requests a specific ESC to respond. " alt="" coords="441,34,602,75"/>
-<area shape="rect" id="node4" href="$d2/da9/class_t_a_p___e_s_c.html#afb50b959b4ca3467d5e4fa7676e9459e" title="Initialise the driver and make it ready for use. " alt="" coords="697,5,805,32"/>
-<area shape="rect" id="node6" href="$d2/da9/class_t_a_p___e_s_c.html#a219f85f8e2707f3f41481d423c2fd875" title="TAP_ESC::send_esc_outputs" alt="" coords="652,56,849,83"/>
-<area shape="rect" id="node5" href="$d2/da9/class_t_a_p___e_s_c.html#abb422ddc36bd219390bff22d9ca497eb" title="TAP_ESC::instantiate" alt="" coords="897,5,1048,32"/>
-<area shape="rect" id="node7" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="911,81,1034,108"/>
-<area shape="rect" id="node8" href="$d2/da9/class_t_a_p___e_s_c.html#a24c08fd964d11944b1f351dbb5723dd5" title="TAP_ESC::run" alt="" coords="1096,81,1205,108"/>
+<area shape="rect" id="node2" href="$d4/da3/namespacetap__esc__common.html#a29aec5f6c8a51ea28c886aa17d82b5fc" title="tap_esc_common::crc\l_packet" alt="" coords="240,70,391,111"/>
+<area shape="rect" id="node11" href="$d4/da3/namespacetap__esc__common.html#a04127c06d2a33f0868ae596a120b0207" title="Parse feedback from an ESC. " alt="" coords="439,133,604,174"/>
+<area shape="rect" id="node3" href="$d4/da3/namespacetap__esc__common.html#a8c4eb259cd5b3b548a97609dc6772ebf" title="Sends a packet to all ESCs and requests a specific ESC to respond. " alt="" coords="441,58,602,99"/>
+<area shape="rect" id="node4" href="$d2/da9/class_t_a_p___e_s_c.html#afb50b959b4ca3467d5e4fa7676e9459e" title="TAP_ESC::init" alt="" coords="697,56,805,83"/>
+<area shape="rect" id="node6" href="$d2/da9/class_t_a_p___e_s_c.html#a219f85f8e2707f3f41481d423c2fd875" title="TAP_ESC::send_esc_outputs" alt="" coords="652,107,849,133"/>
+<area shape="rect" id="node9" href="$df/d1f/class_mavlink.html#a695f9d69a4d0f138f10c673a64b15206" title="This is the beginning of a MAVLINK_START_UART_SEND/MAVLINK_END_UART_SEND transaction. " alt="" coords="680,5,821,32"/>
+<area shape="rect" id="node5" href="$d2/da9/class_t_a_p___e_s_c.html#abb422ddc36bd219390bff22d9ca497eb" title="TAP_ESC::instantiate" alt="" coords="904,56,1055,83"/>
+<area shape="rect" id="node7" href="$d2/da9/class_t_a_p___e_s_c.html#a4edd57e3842a3ed37fd6af6f9a0113a4" title="TAP_ESC::cycle" alt="" coords="918,132,1041,159"/>
+<area shape="rect" id="node8" href="$d2/da9/class_t_a_p___e_s_c.html#a24c08fd964d11944b1f351dbb5723dd5" title="TAP_ESC::run" alt="" coords="1109,132,1219,159"/>
+<area shape="rect" id="node10" href="$de/d24/mavlink__main_8cpp.html#ac22a13b4a16eef5bcb99905368b62d59" title="mavlink_start_uart_send" alt="" coords="897,5,1061,32"/>
 </map>

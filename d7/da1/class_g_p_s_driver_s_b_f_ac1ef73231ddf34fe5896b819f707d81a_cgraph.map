@@ -1,0 +1,22 @@
+<map id="GPSDriverSBF::configure" name="GPSDriverSBF::configure">
+<area shape="rect" id="node2" href="$d7/da1/class_g_p_s_driver_s_b_f.html#aef61300b318fa3da32fcd289f80ec615" title="Reset the parse state machine for a fresh start. " alt="" coords="717,5,895,32"/>
+<area shape="rect" id="node4" href="$d7/da1/class_g_p_s_driver_s_b_f.html#a09e652b35c1a267877d898bdfd747fd5" title="receive &amp; handle new data from the device " alt="" coords="245,129,406,156"/>
+<area shape="rect" id="node18" href="$d7/da1/class_g_p_s_driver_s_b_f.html#a9d35d1947147079ff4c11f7061a033e7" title="Send a message. " alt="" coords="225,247,425,273"/>
+<area shape="rect" id="node20" href="$d7/da1/class_g_p_s_driver_s_b_f.html#af6e1f040912ad96ab7a30ca02af2ef14" title="Send a message and waits for acknowledge. " alt="" coords="225,181,425,222"/>
+<area shape="rect" id="node21" href="$d2/d20/class_g_p_s_helper.html#a64153014f22bae312960ad3112dd4b47" title="set the Baudrate " alt="" coords="242,297,409,324"/>
+<area shape="rect" id="node3" href="$d0/d7a/class_r_t_c_m_parsing.html#a81ed0df2217c926f122f9c6dec5b60d1" title="reset the parsing state " alt="" coords="963,5,1105,32"/>
+<area shape="rect" id="node5" href="$d2/d20/class_g_p_s_helper.html#ae499166387a2123074225fdcd21b855d" title="read from device " alt="" coords="502,185,623,212"/>
+<area shape="rect" id="node6" href="$d7/da1/class_g_p_s_driver_s_b_f.html#ab1268322b3cd934c069a134b8444eea8" title="Parse the binary SBF packet. " alt="" coords="473,132,652,159"/>
+<area shape="rect" id="node7" href="$d7/da1/class_g_p_s_driver_s_b_f.html#a0ce9eb2d98c92d4cf3c8e7d031ac719c" title="Add payload rx byte. " alt="" coords="704,56,908,83"/>
+<area shape="rect" id="node8" href="$d0/d7a/class_r_t_c_m_parsing.html#a019493622962a9532a512a81de1adbcc" title="add a byte to the message " alt="" coords="725,107,887,133"/>
+<area shape="rect" id="node9" href="$d7/da1/class_g_p_s_driver_s_b_f.html#a3f839ac8d681628d0e73ceff071b35a2" title="Finish payload rx. " alt="" coords="700,157,912,184"/>
+<area shape="rect" id="node15" href="$d0/d7a/class_r_t_c_m_parsing.html#a566d9147cc6522046b688bbe2a7bacf1" title="RTCMParsing::messageLength" alt="" coords="703,208,909,235"/>
+<area shape="rect" id="node16" href="$d2/d20/class_g_p_s_helper.html#ab36eaf56dad199ed58124db25b1cce20" title="got an RTCM message from the device " alt="" coords="703,259,909,285"/>
+<area shape="rect" id="node17" href="$d0/d7a/class_r_t_c_m_parsing.html#ae7d53e8133f6da78cfe0d88e75c97f34" title="RTCMParsing::message" alt="" coords="723,309,889,336"/>
+<area shape="rect" id="node10" href="$d8/dbc/sbf_8cpp.html#a0e45e204da9d6f1272403dd03e369200" title="Calculate buffer CRC16. " alt="" coords="1007,107,1061,133"/>
+<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1015,157,1053,184"/>
+<area shape="rect" id="node14" href="$d2/d20/class_g_p_s_helper.html#a3b74fa1cbf17feab5a2c080fb17357c4" title="GPSHelper::setClock" alt="" coords="960,208,1108,235"/>
+<area shape="rect" id="node12" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1156,157,1239,184"/>
+<area shape="rect" id="node13" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1287,157,1373,184"/>
+<area shape="rect" id="node19" href="$d2/d20/class_g_p_s_helper.html#a44d4a088facfe85131a8f2d4742070c8" title="write to the device " alt="" coords="501,240,625,267"/>
+</map>

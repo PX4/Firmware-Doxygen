@@ -1,32 +1,51 @@
 <map id="Ekf::controlGpsFusion" name="Ekf::controlGpsFusion">
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="1065,308,1177,335"/>
-<area shape="rect" id="node3" href="$d5/d73/class_estimator_interface.html#a77d05a1f59aa289a8a82dab18d06b815" title="EstimatorInterface\l::cross_product" alt="" coords="212,82,341,123"/>
-<area shape="rect" id="node4" href="$d9/d30/param_8cpp.html#a46b4927569d3ca48877a3f2a6b1dd512" title="do_reset" alt="" coords="241,31,313,57"/>
-<area shape="rect" id="node7" href="$dc/d66/class_ekf.html#a7896e8c019d0df0a0725a5f463800044" title="Ekf::realignYawGPS" alt="" coords="205,705,348,732"/>
-<area shape="rect" id="node8" href="$dc/d66/class_ekf.html#ac557eacd06bd597b3ab097cab74c1c39" title="Ekf::sq" alt="" coords="646,975,710,1001"/>
-<area shape="rect" id="node16" href="$dc/d66/class_ekf.html#a3e1cf1f594a9d829c03e3672816a7f07" title="Ekf::setDiag" alt="" coords="865,1532,959,1559"/>
-<area shape="rect" id="node28" href="$dc/d66/class_ekf.html#ab25624586299a1a74ccbe6524cbfc996" title="Ekf::resetMagHeading" alt="" coords="397,655,549,681"/>
-<area shape="rect" id="node30" href="$dc/d66/class_ekf.html#a427d41afde8eb4acb8fc5290bcfbcb9a" title="Ekf::resetPosition" alt="" coords="409,1380,536,1407"/>
-<area shape="rect" id="node31" href="$dc/d66/class_ekf.html#a0268d0e1335a60952fa8bb722f821674" title="Ekf::resetVelocity" alt="" coords="409,1279,536,1305"/>
-<area shape="rect" id="node5" href="$d9/da5/param_8c.html#aab3a3324b8f2b8a6d4d33583024ea7cc" title="Reset all parameters to their default values. " alt="" coords="415,5,530,32"/>
-<area shape="rect" id="node6" href="$d9/da5/param_8c.html#ac579e1a9910cc9e997cceeefbbf51d05" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="396,56,549,83"/>
-<area shape="rect" id="node13" href="$dc/d66/class_ekf.html#a49a4da2e831b46876b307eb8e0560a12" title="Ekf::zeroRows" alt="" coords="1067,1152,1176,1179"/>
-<area shape="rect" id="node14" href="$dc/d66/class_ekf.html#a421983af018ca82e2c5c0ba3fa5ad769" title="Ekf::zeroCols" alt="" coords="1070,1431,1173,1457"/>
-<area shape="rect" id="node18" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1102,493,1141,520"/>
-<area shape="rect" id="node19" href="$dc/d66/class_ekf.html#ab3c6e783a4a9cd982d1fb2e01a4cd54b" title="Ekf::calcRotVecVariances" alt="" coords="824,351,1000,377"/>
-<area shape="rect" id="node20" href="$dc/d66/class_ekf.html#a8c9fb4e5919264cdf44c8e940c488443" title="Ekf::initialiseQuatCovariances" alt="" coords="813,823,1011,849"/>
-<area shape="rect" id="node26" href="$d5/d73/class_estimator_interface.html#abd942d9d704d30a740da35a2494eb8e2" title="EstimatorInterface\l::quat_to_invrotmat" alt="" coords="845,402,979,443"/>
-<area shape="rect" id="node27" href="$d4/d8f/class_ring_buffer.html#a8144e160c580bedcd051d9e4a76be332" title="RingBuffer::get_length" alt="" coords="602,1279,754,1305"/>
-<area shape="rect" id="node9" href="$dc/d66/class_ekf.html#aa34f4d9d89e096b542a287fbe1b91d92" title="Ekf::setControlBaroHeight" alt="" coords="825,873,999,900"/>
-<area shape="rect" id="node10" href="$dc/d66/class_ekf.html#a3a839968be88e4e47f265d8f62b0155a" title="Ekf::setControlRangeHeight" alt="" coords="819,924,1005,951"/>
-<area shape="rect" id="node11" href="$dc/d66/class_ekf.html#a8b687c82c5dfbdeebae02685783fc2ef" title="Ekf::setControlGPSHeight" alt="" coords="824,975,1000,1001"/>
-<area shape="rect" id="node12" href="$dc/d66/class_ekf.html#aaf80ea102825ba5755fba7f2a7446578" title="Ekf::setControlEVHeight" alt="" coords="829,1025,995,1052"/>
-<area shape="rect" id="node15" href="$dc/d66/class_ekf.html#a5b85c3509e588863acecef05b7d0a195" title="Ekf::zeroOffDiag" alt="" coords="852,1380,972,1407"/>
-<area shape="rect" id="node17" href="$dc/d66/class_ekf.html#a235e6e03f6e6611fd053b395adc71b3a" title="Ekf::calcOptFlowMeasVar" alt="" coords="825,671,999,697"/>
-<area shape="rect" id="node21" href="$dc/d66/class_ekf.html#abf112176caac8eea3e129602723e517b" title="Ekf::resetMagCovariance" alt="" coords="827,1228,997,1255"/>
-<area shape="rect" id="node22" href="$dc/d66/class_ekf.html#aede08985fc3703e505df3538134c1d40" title="Ekf::resetWindCovariance" alt="" coords="825,721,999,748"/>
-<area shape="rect" id="node24" href="$dc/d66/class_ekf.html#a999d2ee6ba6c99901f9de895101d68b2" title="Ekf::resetWindStates" alt="" coords="839,1127,985,1153"/>
-<area shape="rect" id="node25" href="$dc/d66/class_ekf.html#ac5f733e16663a74a15964ef6dbe27c5b" title="Ekf::checkRangeDataContinuity" alt="" coords="807,1177,1017,1204"/>
-<area shape="rect" id="node23" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="1071,645,1172,672"/>
-<area shape="rect" id="node29" href="$dc/d66/class_ekf.html#a14d54802f5c7618d0101916fffe092a2" title="Ekf::resetExtVisRotMat" alt="" coords="597,553,759,580"/>
+<area shape="rect" id="node2" href="$dc/d66/class_ekf.html#a5f256767a45b3d7c57f75edade49287c" title="Ekf::canResetMagHeading" alt="" coords="205,5,384,32"/>
+<area shape="rect" id="node4" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="1473,208,1585,235"/>
+<area shape="rect" id="node5" href="$d5/d73/class_estimator_interface.html#a77d05a1f59aa289a8a82dab18d06b815" title="EstimatorInterface\l::cross_product" alt="" coords="230,2691,359,2733"/>
+<area shape="rect" id="node6" href="$d9/d30/param_8cpp.html#a46b4927569d3ca48877a3f2a6b1dd512" title="do_reset" alt="" coords="259,2757,331,2784"/>
+<area shape="rect" id="node9" href="$dc/d66/class_ekf.html#ae320167eb2316dd746f4efe919b5aee6" title="Ekf::fuseGpsAntYaw" alt="" coords="470,993,615,1020"/>
+<area shape="rect" id="node12" href="$dc/d66/class_ekf.html#ac557eacd06bd597b3ab097cab74c1c39" title="Ekf::sq" alt="" coords="1018,1272,1082,1299"/>
+<area shape="rect" id="node18" href="$dc/d66/class_ekf.html#aa148e57137bf741e4ea5797152d1fe19" title="Ekf::stopMag3DFusion" alt="" coords="1451,2451,1607,2477"/>
+<area shape="rect" id="node20" href="$dc/d66/class_ekf.html#ab01e08a118d9778ea0a79d552f286ba3" title="Ekf::stopMagHdgFusion" alt="" coords="1448,2324,1611,2351"/>
+<area shape="rect" id="node27" href="$dc/d66/class_ekf.html#a3e1cf1f594a9d829c03e3672816a7f07" title="Ekf::setDiag" alt="" coords="1241,613,1336,640"/>
+<area shape="rect" id="node40" href="$dc/d8f/class_alpha_filter.html#ab4d2a41daa2d7d1e6b2fa83d4047b26b" title="AlphaFilter::getState" alt="" coords="472,2539,613,2565"/>
+<area shape="rect" id="node41" href="$dc/d66/class_ekf.html#a7896e8c019d0df0a0725a5f463800044" title="Ekf::realignYawGPS" alt="" coords="223,2032,366,2059"/>
+<area shape="rect" id="node45" href="$dc/d66/class_ekf.html#aabb8e6ed59b04c33697c3a5105825f98" title="Ekf::resetMagHeading" alt="" coords="467,2133,619,2160"/>
+<area shape="rect" id="node48" href="$dc/d66/class_ekf.html#a8ca7e1028dd6a193acb64631036ee757" title="Ekf::resetGpsAntYaw" alt="" coords="468,1868,617,1895"/>
+<area shape="rect" id="node49" href="$dc/d66/class_ekf.html#a427d41afde8eb4acb8fc5290bcfbcb9a" title="Ekf::resetPosition" alt="" coords="749,1069,875,1096"/>
+<area shape="rect" id="node50" href="$dc/d66/class_ekf.html#a0268d0e1335a60952fa8bb722f821674" title="Ekf::resetVelocity" alt="" coords="749,765,875,792"/>
+<area shape="rect" id="node3" href="$dc/d66/class_ekf.html#a11ae2a99f3c1d016c51dc7521b0c6384" title="Ekf::isStrongMagneticDisturbance" alt="" coords="432,5,653,32"/>
+<area shape="rect" id="node7" href="$d5/d33/param_8h.html#aba23d08f1756d0ab3e8cbd610abaf6af" title="Reset all parameters to their default values. " alt="" coords="485,2732,600,2759"/>
+<area shape="rect" id="node8" href="$d5/d33/param_8h.html#ab6c1c91bd7dcb9fc540805e112e22d9a" title="Reset all parameters to their default values except for excluded parameters. " alt="" coords="466,2783,619,2809"/>
+<area shape="rect" id="node10" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="1479,2159,1580,2185"/>
+<area shape="rect" id="node11" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1510,1728,1549,1755"/>
+<area shape="rect" id="node24" href="$dc/d66/class_ekf.html#a49a4da2e831b46876b307eb8e0560a12" title="Ekf::zeroRows" alt="" coords="1475,867,1584,893"/>
+<area shape="rect" id="node25" href="$dc/d66/class_ekf.html#a421983af018ca82e2c5c0ba3fa5ad769" title="Ekf::zeroCols" alt="" coords="1478,664,1581,691"/>
+<area shape="rect" id="node35" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="757,1677,867,1704"/>
+<area shape="rect" id="node36" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="770,613,854,640"/>
+<area shape="rect" id="node37" href="$dc/d66/class_ekf.html#a39e266caf9178e9c60950122c8bdb323" title="Ekf::initialiseCovariance" alt="" coords="731,1019,893,1045"/>
+<area shape="rect" id="node38" href="$dc/d66/class_ekf.html#a44ed26d116c7af6ecc6c8973d439ff2d" title="Ekf::fixCovarianceErrors" alt="" coords="729,715,895,741"/>
+<area shape="rect" id="node39" href="$dc/d66/class_ekf.html#aac63e41e363c1f8d21375662a700e65a" title="Ekf::fuse" alt="" coords="775,664,849,691"/>
+<area shape="rect" id="node13" href="$dc/d66/class_ekf.html#aa34f4d9d89e096b542a287fbe1b91d92" title="Ekf::setControlBaroHeight" alt="" coords="1201,1171,1376,1197"/>
+<area shape="rect" id="node14" href="$dc/d66/class_ekf.html#a3a839968be88e4e47f265d8f62b0155a" title="Ekf::setControlRangeHeight" alt="" coords="1195,1221,1382,1248"/>
+<area shape="rect" id="node15" href="$dc/d66/class_ekf.html#a8b687c82c5dfbdeebae02685783fc2ef" title="Ekf::setControlGPSHeight" alt="" coords="1201,1272,1377,1299"/>
+<area shape="rect" id="node16" href="$dc/d66/class_ekf.html#aaf80ea102825ba5755fba7f2a7446578" title="Ekf::setControlEVHeight" alt="" coords="1205,1323,1372,1349"/>
+<area shape="rect" id="node17" href="$dc/d66/class_ekf.html#aa3557241350622e78d0ef053e28177dc" title="Ekf::stopMagFusion" alt="" coords="1219,2488,1358,2515"/>
+<area shape="rect" id="node22" href="$dc/d66/class_ekf.html#a0828d9e222ff448c3686d36d3eafbad3" title="Ekf::startMagHdgFusion" alt="" coords="1207,2133,1371,2160"/>
+<area shape="rect" id="node23" href="$dc/d66/class_ekf.html#a8722aaa3baa6b8fb1a837b9478f35105" title="Ekf::startMag3DFusion" alt="" coords="1210,2032,1367,2059"/>
+<area shape="rect" id="node26" href="$dc/d66/class_ekf.html#a5b85c3509e588863acecef05b7d0a195" title="Ekf::zeroOffDiag" alt="" coords="1229,715,1349,741"/>
+<area shape="rect" id="node28" href="$dc/d66/class_ekf.html#a235e6e03f6e6611fd053b395adc71b3a" title="Ekf::calcOptFlowMeasVar" alt="" coords="1201,917,1376,944"/>
+<area shape="rect" id="node29" href="$dc/d66/class_ekf.html#ab3c6e783a4a9cd982d1fb2e01a4cd54b" title="Ekf::calcRotVecVariances" alt="" coords="1201,1576,1377,1603"/>
+<area shape="rect" id="node30" href="$dc/d66/class_ekf.html#a8c9fb4e5919264cdf44c8e940c488443" title="Ekf::initialiseQuatCovariances" alt="" coords="1189,1019,1388,1045"/>
+<area shape="rect" id="node31" href="$dc/d66/class_ekf.html#a43b43d423a1c6d45dc4cf6de7fe3bdfe" title="Ekf::resetMagRelatedCovariances" alt="" coords="1177,1475,1400,1501"/>
+<area shape="rect" id="node32" href="$dc/d66/class_ekf.html#aede08985fc3703e505df3538134c1d40" title="Ekf::resetWindCovariance" alt="" coords="1201,1120,1376,1147"/>
+<area shape="rect" id="node33" href="$dc/d66/class_ekf.html#a999d2ee6ba6c99901f9de895101d68b2" title="Ekf::resetWindStates" alt="" coords="1215,1373,1362,1400"/>
+<area shape="rect" id="node34" href="$dc/d66/class_ekf.html#a5d30376fa415773e9f477b012ecc522f" title="Ekf::updateRangeDataContinuity" alt="" coords="1181,1424,1396,1451"/>
+<area shape="rect" id="node21" href="$dc/d66/class_ekf.html#afd14b23a4b1aa308c74651d2e91bba47" title="Ekf::clearMagCov" alt="" coords="1466,2520,1593,2547"/>
+<area shape="rect" id="node19" href="$dc/d66/class_ekf.html#a8a167edfb8ae0887a7f965b6876ea422" title="Ekf::saveMagCovData" alt="" coords="1659,2451,1813,2477"/>
+<area shape="rect" id="node42" href="$dc/d66/class_ekf.html#a5e11064b04c01923452d6523d4d29542" title="Ekf::uncorrelateQuatStates" alt="" coords="722,1728,902,1755"/>
+<area shape="rect" id="node43" href="$dc/d66/class_ekf.html#a2ebf3a417f7a40089ab9cd2e24980bf3" title="Ekf::increaseQuatYawErrVariance" alt="" coords="701,1931,923,1957"/>
+<area shape="rect" id="node44" href="$d4/d8f/class_ring_buffer.html#a330f23a9ac96203bb4cf42cec677a242" title="RingBuffer::get_length" alt="" coords="974,1829,1126,1856"/>
+<area shape="rect" id="node46" href="$dc/d66/class_ekf.html#a83ac4e7952563683069107eaea8825a8" title="Ekf::getMagDeclination" alt="" coords="971,2285,1129,2312"/>
+<area shape="rect" id="node47" href="$dc/d66/class_ekf.html#a14d54802f5c7618d0101916fffe092a2" title="Ekf::resetExtVisRotMat" alt="" coords="731,2184,893,2211"/>
 </map>

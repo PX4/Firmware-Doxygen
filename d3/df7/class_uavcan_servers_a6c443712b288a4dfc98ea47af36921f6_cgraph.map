@@ -1,51 +1,27 @@
 <map id="UavcanServers::run" name="UavcanServers::run">
-<area shape="rect" id="node2" href="$d3/df7/class_uavcan_servers.html#a80dcf9f89bccab6f3103b3ee0b5bacb1" title="UavcanServers::beep" alt="" coords="496,744,644,771"/>
-<area shape="rect" id="node3" href="$d3/df7/class_uavcan_servers.html#a091dd2c9a6f2419bbe44cf5df62236d6" title="UavcanServers::cb_enumeration\l_begin" alt="" coords="209,546,421,588"/>
-<area shape="rect" id="node4" href="$d3/df7/class_uavcan_servers.html#aa76f36e48c0b8234a43286e7fe2b6e08" title="UavcanServers::get\l_next_active_node_id" alt="" coords="496,546,644,588"/>
-<area shape="rect" id="node5" href="$d3/df7/class_uavcan_servers.html#ad185fb9274f90b346951341e13ac958b" title="UavcanServers::cb_enumeration\l_getset" alt="" coords="209,664,421,705"/>
-<area shape="rect" id="node8" href="$d3/df7/class_uavcan_servers.html#a80cc2d608052391656fa736e5532c086" title="UavcanServers::cb_enumeration\l_indication" alt="" coords="209,729,421,770"/>
-<area shape="rect" id="node9" href="$d3/df7/class_uavcan_servers.html#a3df5482d48deafc511256092f8d2639e" title="UavcanServers::cb_enumeration_save" alt="" coords="192,612,439,639"/>
-<area shape="rect" id="node10" href="$d3/df7/class_uavcan_servers.html#a6c479b334777a84ced505537fda3b99d" title="UavcanServers::cb_getset" alt="" coords="227,896,404,923"/>
-<area shape="rect" id="node33" href="$d9/d97/u_o_r_b_8cpp.html#af7a143a80b6b04689a3a4890ce8df4ae" title="orb_publish" alt="" coords="729,972,817,999"/>
-<area shape="rect" id="node34" href="$d3/df7/class_uavcan_servers.html#add33de7607977bbf5ca301c3953476ea" title="UavcanServers::cb_opcode" alt="" coords="224,1352,407,1379"/>
-<area shape="rect" id="node35" href="$d3/df7/class_uavcan_servers.html#a6b62746385699a2a2d704022b2d49da3" title="UavcanServers::get\l_next_dirty_node_id" alt="" coords="501,1360,639,1401"/>
-<area shape="rect" id="node37" href="$d3/df7/class_uavcan_servers.html#a3ea0c1a322f41b95c881a4f14617d17b" title="UavcanServers::param\l_opcode" alt="" coords="492,1294,648,1336"/>
-<area shape="rect" id="node38" href="$d3/df7/class_uavcan_servers.html#af8744f5dadc8f0143fcbda7ba73a6de4" title="UavcanServers::cb_restart" alt="" coords="226,1251,405,1278"/>
-<area shape="rect" id="node40" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="253,1150,378,1176"/>
-<area shape="rect" id="node41" href="$d2/d70/namespace_micro_bench_h_r_t.html#aca2d9f12c0defb51efac182da6a55f12" title="MicroBenchHRT::lock" alt="" coords="240,1200,391,1227"/>
-<area shape="rect" id="node42" href="$d9/d97/u_o_r_b_8cpp.html#a91df70141220b84c1c01619db0c3e105" title="orb_advertise_queue" alt="" coords="499,947,641,974"/>
-<area shape="rect" id="node43" href="$d9/d97/u_o_r_b_8cpp.html#a29b31278909062127ba89245a8182706" title="orb_check" alt="" coords="731,84,814,111"/>
-<area shape="rect" id="node44" href="$d9/d97/u_o_r_b_8cpp.html#a2c09f842c44c64a06bcfe7a921f63cdf" title="orb_copy" alt="" coords="735,1175,810,1202"/>
-<area shape="rect" id="node45" href="$d9/d97/u_o_r_b_8cpp.html#a196a292b740589eff958aa42c4e96ef5" title="orb_subscribe" alt="" coords="721,1048,824,1075"/>
-<area shape="rect" id="node46" href="$d3/df7/class_uavcan_servers.html#a1a0afad8200f40e2caf21bef33367d79" title="UavcanServers::param\l_count" alt="" coords="237,1454,393,1496"/>
-<area shape="rect" id="node47" href="$d3/df7/class_uavcan_servers.html#a867d0e73b9ae5cd631c2262558c59e27" title="UavcanServers::set\l_node_params_dirty" alt="" coords="246,1520,385,1561"/>
-<area shape="rect" id="node48" href="$d3/df7/class_uavcan_servers.html#ac582742a814fa8193041536782a297e3" title="UavcanServers::unpackFwFrom\lROMFS" alt="" coords="210,1585,421,1626"/>
-<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="528,682,612,708"/>
-<area shape="rect" id="node7" href="$dd/d47/namespacemath.html#a7642973d6d246edffd3506fa36548b10" title="math::min" alt="" coords="530,631,610,658"/>
-<area shape="rect" id="node11" href="$d9/d97/u_o_r_b_8cpp.html#ac5ba0a0d1dc62f813314c0ff37a9a82a" title="orb_advertise" alt="" coords="520,846,620,872"/>
-<area shape="rect" id="node12" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1587,940,1729,981"/>
-<area shape="rect" id="node14" href="$d3/da9/classu_o_r_b_1_1_manager.html#a42e075fba5970aa0730faab182e2083f" title="Advertise as the publisher of a topic. " alt="" coords="701,506,844,548"/>
-<area shape="rect" id="node13" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="1777,792,1920,833"/>
-<area shape="rect" id="node15" href="$d3/da9/classu_o_r_b_1_1_manager.html#ab21185efcac7524e78f2c31c7f98195d" title="Advertise as the publisher of a topic. " alt="" coords="909,754,1052,796"/>
-<area shape="rect" id="node16" href="$d3/da9/classu_o_r_b_1_1_manager.html#a96b449ea43c9aec0421aecc047b9b719" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1117,607,1304,634"/>
-<area shape="rect" id="node17" href="$d3/da9/classu_o_r_b_1_1_manager.html#a73bf34fcae6f9f3fdef162a7209e1640" title="Advertise a node; don&#39;t consider it an error if the node has already been advertised. " alt="" coords="1369,448,1521,489"/>
-<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#abbe6966f841886ce3003ebc6d2198447" title="Publish new data to a topic. " alt="" coords="1139,834,1282,876"/>
-<area shape="rect" id="node21" href="$d3/da9/classu_o_r_b_1_1_manager.html#a45601ddc722320b9cd660d9548263824" title="Unadvertise a topic. " alt="" coords="909,389,1052,430"/>
-<area shape="rect" id="node22" href="$d3/da9/classu_o_r_b_1_1_manager.html#ae54072a80ad4de6d127e2dad8182b8fb" title="Subscribe to a topic. " alt="" coords="909,689,1052,730"/>
-<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="909,506,1052,548"/>
-<area shape="rect" id="node24" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="909,624,1052,665"/>
-<area shape="rect" id="node25" href="$d3/da9/classu_o_r_b_1_1_manager.html#af1048c82b439300c706fe0a083b61f90" title="Fetch data from a topic. " alt="" coords="892,1023,1069,1050"/>
-<area shape="rect" id="node27" href="$d3/da9/classu_o_r_b_1_1_manager.html#a5503920d25d544ce3be1cf79cda869f7" title="Check whether a topic has been published to since the last orb_copy. " alt="" coords="909,18,1052,60"/>
-<area shape="rect" id="node28" href="$d3/da9/classu_o_r_b_1_1_manager.html#a60db0c79ba79363868fb979f21a469b4" title="Return the last time that the topic was updated. " alt="" coords="1360,244,1531,271"/>
-<area shape="rect" id="node29" href="$d3/da9/classu_o_r_b_1_1_manager.html#a446823738a75847a6732008784445c9f" title="Check if a topic has already been created and published (advertised) " alt="" coords="1139,288,1282,329"/>
-<area shape="rect" id="node30" href="$d3/da9/classu_o_r_b_1_1_manager.html#a59727e82e65d2d285b4e2dc362cc5aa8" title="Return the priority of the topic. " alt="" coords="1374,346,1517,388"/>
-<area shape="rect" id="node31" href="$d3/da9/classu_o_r_b_1_1_manager.html#aade04ff2a8a3aaf275b39fc32934fc56" title="Set the minimum interval between which updates are seen for a subscription. " alt="" coords="1139,69,1282,110"/>
-<area shape="rect" id="node32" href="$d3/da9/classu_o_r_b_1_1_manager.html#a627a7e6ef16970d2b6d8f02471795963" title="Get the minimum interval between which updates are seen for a subscription. " alt="" coords="1374,128,1517,169"/>
-<area shape="rect" id="node18" href="$da/dc9/posix_2cdev__platform_8cpp.html#a9c7539e3995014273bd29fb01758763e" title="px4_ioctl" alt="" coords="1621,270,1695,296"/>
-<area shape="rect" id="node20" href="$d0/d18/classu_o_r_b_1_1_device_node.html#ae715517a1f3a2f361e37d061b59a4560" title="Method to publish a data to this node. " alt="" coords="1352,856,1539,883"/>
-<area shape="rect" id="node26" href="$da/dc9/posix_2cdev__platform_8cpp.html#a2fc1ca62e376a5c0dd2ad9be1b196afa" title="px4_read" alt="" coords="1173,1023,1248,1050"/>
-<area shape="rect" id="node36" href="$d3/df7/class_uavcan_servers.html#acbfe2b918806d0f7d5f2cb66b69feac9" title="UavcanServers::are\l_node_params_dirty" alt="" coords="703,1360,842,1401"/>
-<area shape="rect" id="node39" href="$d3/df7/class_uavcan_servers.html#adbf2f8909ae8f97f9f909bdd20315af9" title="UavcanServers::clear\l_node_params_dirty" alt="" coords="496,1229,644,1270"/>
-<area shape="rect" id="node49" href="$d3/df7/class_uavcan_servers.html#aebe57b329199e25c24fd8e5ca4636683" title="UavcanServers::copyFw" alt="" coords="487,1592,653,1619"/>
-<area shape="rect" id="node50" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="749,1592,796,1619"/>
+<area shape="rect" id="node2" href="$d3/df7/class_uavcan_servers.html#a80dcf9f89bccab6f3103b3ee0b5bacb1" title="UavcanServers::beep" alt="" coords="496,71,644,98"/>
+<area shape="rect" id="node3" href="$d3/df7/class_uavcan_servers.html#a091dd2c9a6f2419bbe44cf5df62236d6" title="UavcanServers::cb_enumeration\l_begin" alt="" coords="209,169,421,211"/>
+<area shape="rect" id="node4" href="$d3/df7/class_uavcan_servers.html#aa76f36e48c0b8234a43286e7fe2b6e08" title="UavcanServers::get\l_next_active_node_id" alt="" coords="496,169,644,211"/>
+<area shape="rect" id="node5" href="$d3/df7/class_uavcan_servers.html#ad185fb9274f90b346951341e13ac958b" title="UavcanServers::cb_enumeration\l_getset" alt="" coords="209,287,421,328"/>
+<area shape="rect" id="node8" href="$d3/df7/class_uavcan_servers.html#a80cc2d608052391656fa736e5532c086" title="UavcanServers::cb_enumeration\l_indication" alt="" coords="209,352,421,393"/>
+<area shape="rect" id="node9" href="$d3/df7/class_uavcan_servers.html#a3df5482d48deafc511256092f8d2639e" title="UavcanServers::cb_enumeration_save" alt="" coords="192,118,439,145"/>
+<area shape="rect" id="node10" href="$d3/df7/class_uavcan_servers.html#a6c479b334777a84ced505537fda3b99d" title="UavcanServers::cb_getset" alt="" coords="227,17,404,43"/>
+<area shape="rect" id="node12" href="$d3/df7/class_uavcan_servers.html#add33de7607977bbf5ca301c3953476ea" title="UavcanServers::cb_opcode" alt="" coords="224,519,407,546"/>
+<area shape="rect" id="node13" href="$d3/df7/class_uavcan_servers.html#a6b62746385699a2a2d704022b2d49da3" title="UavcanServers::get\l_next_dirty_node_id" alt="" coords="501,461,639,503"/>
+<area shape="rect" id="node15" href="$d3/df7/class_uavcan_servers.html#a3ea0c1a322f41b95c881a4f14617d17b" title="UavcanServers::param\l_opcode" alt="" coords="492,527,648,568"/>
+<area shape="rect" id="node16" href="$d3/df7/class_uavcan_servers.html#af8744f5dadc8f0143fcbda7ba73a6de4" title="UavcanServers::cb_restart" alt="" coords="226,469,405,495"/>
+<area shape="rect" id="node18" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="253,621,378,647"/>
+<area shape="rect" id="node19" href="$d2/d70/namespace_micro_bench_h_r_t.html#aca2d9f12c0defb51efac182da6a55f12" title="MicroBenchHRT::lock" alt="" coords="240,671,391,698"/>
+<area shape="rect" id="node20" href="$d3/df7/class_uavcan_servers.html#a1a0afad8200f40e2caf21bef33367d79" title="UavcanServers::param\l_count" alt="" coords="237,723,393,764"/>
+<area shape="rect" id="node21" href="$d9/d39/classu_o_r_b_1_1_publication_queued.html#aff357a02d25bf3f21d571af5228ef235" title="Publish the struct. " alt="" coords="228,788,403,829"/>
+<area shape="rect" id="node22" href="$d3/df7/class_uavcan_servers.html#a867d0e73b9ae5cd631c2262558c59e27" title="UavcanServers::set\l_node_params_dirty" alt="" coords="246,853,385,895"/>
+<area shape="rect" id="node23" href="$d3/df7/class_uavcan_servers.html#ac582742a814fa8193041536782a297e3" title="UavcanServers::unpackFwFrom\lROMFS" alt="" coords="210,919,421,960"/>
+<area shape="rect" id="node6" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="528,319,612,346"/>
+<area shape="rect" id="node7" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="530,269,610,295"/>
+<area shape="rect" id="node11" href="$d3/de9/classu_o_r_b_1_1_publication.html#a91d62138475fc6ab2c96859a8abc896c" title="Publish the struct. " alt="" coords="501,5,639,47"/>
+<area shape="rect" id="node14" href="$d3/df7/class_uavcan_servers.html#aa32c8658e17997532228a8f2c23b399a" title="UavcanServers::are\l_node_params_dirty" alt="" coords="701,461,840,503"/>
+<area shape="rect" id="node17" href="$d3/df7/class_uavcan_servers.html#adbf2f8909ae8f97f9f909bdd20315af9" title="UavcanServers::clear\l_node_params_dirty" alt="" coords="496,396,644,437"/>
+<area shape="rect" id="node24" href="$d3/df7/class_uavcan_servers.html#aebe57b329199e25c24fd8e5ca4636683" title="UavcanServers::copyFw" alt="" coords="487,926,653,953"/>
+<area shape="rect" id="node25" href="$da/d60/boot__app__shared_8c.html#a86a20ed376cc63753233354a7f555699" title="read" alt="" coords="747,951,794,978"/>
+<area shape="rect" id="node26" href="$da/d60/boot__app__shared_8c.html#a6e76822ee32581d3159ae2f6ce9ae229" title="write" alt="" coords="745,901,796,927"/>
 </map>

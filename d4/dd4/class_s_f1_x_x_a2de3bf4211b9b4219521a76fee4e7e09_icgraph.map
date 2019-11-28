@@ -1,14 +1,13 @@
 <map id="SF1XX::measure" name="SF1XX::measure">
-<area shape="rect" id="node2" href="$d4/dd4/class_s_f1_x_x.html#a7fd8a9e91f695698235aec4ce5d3b931" title="SF1XX::init" alt="" coords="335,25,424,51"/>
-<area shape="rect" id="node6" href="$d4/dd4/class_s_f1_x_x.html#aff53fa9c23fb8da1b79effc9dbcd38d7" title="SF1XX::probe" alt="" coords="176,177,280,203"/>
-<area shape="rect" id="node7" href="$d4/dd4/class_s_f1_x_x.html#a145c40a54877553b66e9afe20911d03a" title="SF1XX::read" alt="" coords="179,75,277,102"/>
-<area shape="rect" id="node9" href="$d4/dd4/class_s_f1_x_x.html#a5ab0451b75c98de3c94dccb6663b8286" title="Initialise the automatic measurement state machine and start it. " alt="" coords="179,126,277,153"/>
-<area shape="rect" id="node3" href="$da/d92/namespacesf1xx.html#a8d8b606ddf67b13374b9fab973665327" title="Start the driver on a specific bus. " alt="" coords="506,25,622,51"/>
-<area shape="rect" id="node4" href="$da/d92/namespacesf1xx.html#a3c280ccde8d79d3f348a464537c897b8" title="Attempt to start driver on all available I2C busses. " alt="" coords="699,25,787,51"/>
-<area shape="rect" id="node5" href="$d6/df1/sf1xx_8cpp.html#af785f9f6d75d358108f489f8613962c2" title="sf1xx_main" alt="" coords="836,50,925,77"/>
-<area shape="rect" id="node8" href="$da/d92/namespacesf1xx.html#a59f3b4d39170a9e9a544b3cb059c70e6" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="522,75,606,102"/>
-<area shape="rect" id="node10" href="$d4/dd4/class_s_f1_x_x.html#a6e0c461ca69fae17fa4f567d47969299" title="SF1XX::ioctl" alt="" coords="331,126,427,153"/>
-<area shape="rect" id="node12" href="$d4/dd4/class_s_f1_x_x.html#acb057e77a9203540f012babd47bbdc66" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="328,227,431,254"/>
-<area shape="rect" id="node11" href="$da/d92/namespacesf1xx.html#a72944ec37396078507375bab2b323bd1" title="Reset the driver. " alt="" coords="697,126,788,153"/>
-<area shape="rect" id="node13" href="$d4/dd4/class_s_f1_x_x.html#a9e53de2c64d74d122dd94eec8376d48d" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="479,227,649,254"/>
+<area shape="rect" id="node2" href="$d4/dd4/class_s_f1_x_x.html#a62b15bfd232cb150acff9a9317d4b7c1" title="SF1XX::init" alt="" coords="331,23,421,50"/>
+<area shape="rect" id="node6" href="$d4/dd4/class_s_f1_x_x.html#a962f482343c6e5a5dd29af6306afd546" title="SF1XX::probe" alt="" coords="176,213,280,239"/>
+<area shape="rect" id="node7" href="$d4/dd4/class_s_f1_x_x.html#a95b8bea7943a242bffe674178548f11d" title="SF1XX::read" alt="" coords="179,162,277,189"/>
+<area shape="rect" id="node9" href="$d4/dd4/class_s_f1_x_x.html#a5ab0451b75c98de3c94dccb6663b8286" title="Initialise the automatic measurement state machine and start it. " alt="" coords="179,111,277,138"/>
+<area shape="rect" id="node3" href="$da/d92/namespacesf1xx.html#a8d8b606ddf67b13374b9fab973665327" title="Start the driver on a specific bus. " alt="" coords="472,23,588,50"/>
+<area shape="rect" id="node4" href="$da/d92/namespacesf1xx.html#a3c280ccde8d79d3f348a464537c897b8" title="Attempt to start driver on all available I2C busses. " alt="" coords="637,23,725,50"/>
+<area shape="rect" id="node5" href="$d6/df1/sf1xx_8cpp.html#af785f9f6d75d358108f489f8613962c2" title="sf1xx_main" alt="" coords="775,49,864,75"/>
+<area shape="rect" id="node8" href="$da/d92/namespacesf1xx.html#a59f3b4d39170a9e9a544b3cb059c70e6" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="488,125,572,151"/>
+<area shape="rect" id="node10" href="$d4/dd4/class_s_f1_x_x.html#acf12c93e586ce70d0aff000bf2f565b8" title="SF1XX::ioctl" alt="" coords="328,74,424,101"/>
+<area shape="rect" id="node12" href="$d4/dd4/class_s_f1_x_x.html#a20bf7ce6b89708e4799e01b4a097b6c0" title="Perform a poll cycle; collect from the previous measurement and start a new one. " alt="" coords="328,125,424,151"/>
+<area shape="rect" id="node11" href="$da/d92/namespacesf1xx.html#a72944ec37396078507375bab2b323bd1" title="Reset the driver. " alt="" coords="636,74,727,101"/>
 </map>

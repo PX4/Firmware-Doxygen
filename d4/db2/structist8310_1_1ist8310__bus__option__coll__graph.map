@@ -1,5 +1,5 @@
 <map id="ist8310::ist8310_bus_option" name="ist8310::ist8310_bus_option">
-<area shape="rect" id="node2" href="$db/df0/class_i_s_t8310.html" title="{IST8310\n|&#45; _work\l&#45; _measure_ticks\l&#45; _reports\l&#45; _range_scale\l&#45; _collect_phase\l&#45; _class_instance\land 8 more...\l|+ IST8310()\l+ ~IST8310()\l+ init()\l+ read()\l+ ioctl()\l+ print_info()\l# probe()\l&#45; start()\l&#45; stop()\l&#45; reset()\l&#45; calibrate()\l&#45; check_conf()\l&#45; cycle()\land 12 more...\l&#45; cycle_trampoline()\l}" alt="" coords="60,277,196,648"/>
-<area shape="rect" id="node4" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="72,35,184,141"/>
-<area shape="rect" id="node5" href="$de/deb/structsensor__mag__s.html" title="{sensor_mag_s\n|+ timestamp\l+ error_count\l+ device_id\l+ x\l+ y\l+ z\land 7 more...\l|}" alt="" coords="208,5,315,171"/>
+<area shape="rect" id="node2" href="$db/df0/class_i_s_t8310.html" title="{IST8310\n|&#45; _measure_interval\l&#45; _reports\l&#45; _range_scale\l&#45; _collect_phase\l&#45; _class_instance\l&#45; _orb_class_instance\land 6 more...\l|+ IST8310()\l+ ~IST8310()\l+ init()\l+ read()\l+ ioctl()\l+ print_info()\l# probe()\l&#45; start()\l&#45; stop()\l&#45; reset()\l&#45; calibrate()\l&#45; check_conf()\l&#45; Run()\land 12 more...\l}" alt="" coords="143,277,292,633"/>
+<area shape="rect" id="node5" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="237,35,349,141"/>
+<area shape="rect" id="node6" href="$de/deb/structsensor__mag__s.html" title="{sensor_mag_s\n|+ timestamp\l+ error_count\l+ device_id\l+ x\l+ y\l+ z\land 7 more...\l|}" alt="" coords="373,5,480,171"/>
 </map>

@@ -1,9 +1,30 @@
-<map id="src/modules/uavcan/actuators/esc.hpp" name="src/modules/uavcan/actuators/esc.hpp">
-<area shape="rect" id="node5" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="518,102,649,129"/>
-<area shape="rect" id="node13" href="$d1/d0c/esc__status_8h.html" title="uORB/topics/esc_status.h" alt="" coords="673,102,849,129"/>
-<area shape="rect" id="node18" href="$df/d1d/actuator__outputs_8h.html" title="uORB/topics/actuator\l_outputs.h" alt="" coords="869,184,1017,225"/>
-<area shape="rect" id="node7" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="443,191,545,218"/>
-<area shape="rect" id="node8" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="455,273,533,300"/>
-<area shape="rect" id="node14" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="769,273,878,300"/>
-<area shape="rect" id="node17" href="$da/d48/esc__report_8h.html" title="uORB/topics/esc_report.h" alt="" coords="621,191,794,218"/>
+<map id="src/drivers/uavcan/actuators/esc.hpp" name="src/drivers/uavcan/actuators/esc.hpp">
+<area shape="rect" id="node5" href="$db/d79/perf__counter_8h.html" title="Performance measuring tools. " alt="" coords="2333,385,2481,411"/>
+<area shape="rect" id="node8" href="$d3/dfb/_publication_multi_8hpp.html" title="uORB/PublicationMulti.hpp" alt="" coords="2347,549,2526,575"/>
+<area shape="rect" id="node17" href="$df/d1d/actuator__outputs_8h.html" title="uORB/topics/actuator\l_outputs.h" alt="" coords="628,191,776,233"/>
+<area shape="rect" id="node18" href="$d1/d0c/esc__status_8h.html" title="uORB/topics/esc_status.h" alt="" coords="595,467,771,493"/>
+<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html" title="High&#45;resolution timer with callouts and timekeeping. " alt="" coords="871,638,987,665"/>
+<area shape="rect" id="node25" href="$dd/dbe/mixer__module_8hpp.html" title="lib/mixer_module/mixer\l_module.hpp" alt="" coords="1344,95,1500,136"/>
+<area shape="rect" id="node9" href="$d6/d40/err_8h.html" title="Simple error/warning functions, heavily inspired by the BSD functions of the same names..." alt="" coords="2449,638,2557,665"/>
+<area shape="rect" id="node14" href="$db/dd6/u_o_r_b_8h.html" title="API for the uORB lightweight object broker. " alt="" coords="1182,638,1291,665"/>
+<area shape="rect" id="node19" href="$da/d48/esc__report_8h.html" title="uORB/topics/esc_report.h" alt="" coords="646,549,819,575"/>
+<area shape="rect" id="node27" href="$d0/dbb/drv__pwm__output_8h.html" title="drivers/drv_pwm_output.h" alt="" coords="1791,549,1963,575"/>
+<area shape="rect" id="node29" href="$d0/d68/_mixer_group_8hpp.html" title="lib/mixer/MixerGroup.hpp" alt="" coords="1796,199,1963,225"/>
+<area shape="rect" id="node33" href="$da/d89/output__limit_8h.html" title="Library for output limiting (PWM for example) " alt="" coords="1011,631,1158,672"/>
+<area shape="rect" id="node37" href="$dc/de7/_publication_8hpp.html" title="uORB/Publication.hpp" alt="" coords="2551,549,2701,575"/>
+<area shape="rect" id="node38" href="$d7/d2a/_subscription_8hpp.html" title="uORB/Subscription.hpp" alt="" coords="1461,385,1620,411"/>
+<area shape="rect" id="node43" href="$d0/de8/_subscription_callback_8hpp.html" title="uORB/SubscriptionCallback.hpp" alt="" coords="1459,199,1670,225"/>
+<area shape="rect" id="node46" href="$d5/d5d/actuator__armed_8h.html" title="uORB/topics/actuator\l_armed.h" alt="" coords="1084,288,1232,329"/>
+<area shape="rect" id="node47" href="$dc/d46/actuator__controls_8h.html" title="uORB/topics/actuator\l_controls.h" alt="" coords="1187,377,1335,419"/>
+<area shape="rect" id="node48" href="$d0/d6d/multirotor__motor__limits_8h.html" title="uORB/topics/multirotor\l_motor_limits.h" alt="" coords="903,288,1058,329"/>
+<area shape="rect" id="node49" href="$de/d76/parameter__update_8h.html" title="uORB/topics/parameter\l_update.h" alt="" coords="1004,377,1163,419"/>
+<area shape="rect" id="node50" href="$d4/dbf/test__motor_8h.html" title="uORB/topics/test_motor.h" alt="" coords="847,467,1021,493"/>
+<area shape="rect" id="node28" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="1437,638,1541,665"/>
+<area shape="rect" id="node30" href="$d4/de5/_mixer_8hpp.html" title="Generic, programmable, procedural control signal mixers. " alt="" coords="2130,295,2245,322"/>
+<area shape="rect" id="node31" href="$dc/d72/_list_8hpp.html" title="An intrusive linked list. " alt="" coords="2089,549,2221,575"/>
+<area shape="rect" id="node39" href="$d6/daa/u_o_r_b_device_node_8hpp.html" title="uORBDeviceNode.hpp" alt="" coords="1587,467,1742,493"/>
+<area shape="rect" id="node41" href="$dd/d36/u_o_r_b_manager_8hpp.html" title="uORBManager.hpp" alt="" coords="1766,467,1899,493"/>
+<area shape="rect" id="node42" href="$d9/d38/u_o_r_b_utils_8hpp.html" title="uORBUtils.hpp" alt="" coords="1452,467,1563,493"/>
+<area shape="rect" id="node40" href="$d6/d6e/u_o_r_b_common_8hpp.html" title="uORBCommon.hpp" alt="" coords="1579,549,1715,575"/>
+<area shape="rect" id="node44" href="$d5/d0a/_subscription_interval_8hpp.html" title="uORB/SubscriptionInterval.hpp" alt="" coords="1462,295,1665,322"/>
 </map>

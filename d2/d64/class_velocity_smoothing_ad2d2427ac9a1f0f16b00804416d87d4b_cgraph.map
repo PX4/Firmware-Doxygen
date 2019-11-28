@@ -1,0 +1,13 @@
+<map id="VelocitySmoothing::timeSynchronization" name="VelocitySmoothing::timeSynchronization">
+<area shape="rect" id="node2" href="$d2/d64/class_velocity_smoothing.html#aed64c0a5ae62b3b53229276782217d46" title="VelocitySmoothing::\lgetTotalTime" alt="" coords="229,20,367,61"/>
+<area shape="rect" id="node3" href="$d2/d64/class_velocity_smoothing.html#a288234188e7a40220d55a5633929b36e" title="Compute T1, T2, T3 depending on the current state and velocity setpoint. " alt="" coords="193,85,403,127"/>
+<area shape="rect" id="node4" href="$d2/d64/class_velocity_smoothing.html#ae5035257c82d8e41d020139f4627e3c8" title="Compute increasing acceleration time. " alt="" coords="451,20,589,61"/>
+<area shape="rect" id="node10" href="$d2/d64/class_velocity_smoothing.html#a695059ec4a5d6ca0114c0c43c7422a4a" title="Compute decreasing acceleration time. " alt="" coords="451,85,589,127"/>
+<area shape="rect" id="node11" href="$d2/d64/class_velocity_smoothing.html#aaa01a5b0dc16a3963ebe6644aef6d8b6" title="Compute constant acceleration time. " alt="" coords="451,151,589,192"/>
+<area shape="rect" id="node5" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="687,71,726,98"/>
+<area shape="rect" id="node8" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="665,122,749,149"/>
+<area shape="rect" id="node9" href="$d2/d64/class_velocity_smoothing.html#a0d95708c5c39b5efdc42a0ae1d09909f" title="Saturate T1 in order to respect the maximum acceleration constraint. " alt="" coords="637,5,776,47"/>
+<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="824,71,907,98"/>
+<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="955,71,1041,98"/>
+<area shape="rect" id="node12" href="$dd/d47/namespacemath.html#affae255211081a0cea17be3b29bfb87a" title="math::abs_t" alt="" coords="661,173,752,199"/>
+</map>

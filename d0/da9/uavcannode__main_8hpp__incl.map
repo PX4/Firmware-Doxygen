@@ -1,15 +1,16 @@
-<map id="src/modules/uavcannode/uavcannode_main.hpp" name="src/modules/uavcannode/uavcannode_main.hpp">
-<area shape="rect" id="node2" href="$d4/d35/px4__config_8h.html" title="Configuration flags used in code. " alt="" coords="977,333,1073,360"/>
-<area shape="rect" id="node4" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="818,102,974,129"/>
-<area shape="rect" id="node5" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="840,259,928,285"/>
-<area shape="rect" id="node27" href="$d3/da5/_c_dev_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="777,184,858,211"/>
-<area shape="rect" id="node6" href="$d2/de9/px4__posix_8h.html" title="Includes POSIX&#45;like functions for virtual character devices. " alt="" coords="415,408,507,435"/>
-<area shape="rect" id="node22" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="815,333,953,360"/>
-<area shape="rect" id="node7" href="$df/dd0/px4__defines_8h.html" title="Generally used magic defines. " alt="" coords="654,483,757,509"/>
-<area shape="rect" id="node14" href="$da/d65/px4__tasks_8h.html" title="px4_tasks.h" alt="" coords="5,483,99,509"/>
-<area shape="rect" id="node20" href="$d4/d7f/px4__sem_8h.html" title="Synchronization primitive: Semaphore. " alt="" coords="377,483,463,509"/>
-<area shape="rect" id="node8" href="$d7/d53/px4__log_8h.html" title="Platform dependant logging/debug implementation. " alt="" coords="526,557,605,584"/>
-<area shape="rect" id="node24" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="879,408,977,435"/>
-<area shape="rect" id="node25" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="700,408,804,435"/>
-<area shape="rect" id="node28" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="525,259,689,285"/>
+<map id="src/drivers/uavcannode/uavcannode_main.hpp" name="src/drivers/uavcannode/uavcannode_main.hpp">
+<area shape="rect" id="node3" href="$df/dfa/uavcan__stm32_8hpp.html" title="uavcan_stm32/uavcan\l_stm32.hpp" alt="" coords="653,95,806,136"/>
+<area shape="rect" id="node13" href="$db/de9/device_8h.html" title="drivers/device/device.h" alt="" coords="373,102,529,129"/>
+<area shape="rect" id="node5" href="$db/deb/stm32_2driver_2include_2uavcan__stm32_2thread_8hpp.html" title="uavcan_stm32/thread.hpp" alt="" coords="991,266,1163,293"/>
+<area shape="rect" id="node7" href="$d4/d85/stm32_2driver_2include_2uavcan__stm32_2clock_8hpp.html" title="uavcan_stm32/clock.hpp" alt="" coords="1178,184,1345,211"/>
+<area shape="rect" id="node9" href="$d2/d0d/stm32_2driver_2include_2uavcan__stm32_2can_8hpp.html" title="uavcan_stm32/can.hpp" alt="" coords="752,184,909,211"/>
+<area shape="rect" id="node6" href="$d1/d27/stm32_2driver_2include_2uavcan__stm32_2build__config_8hpp.html" title="uavcan_stm32/build\l_config.hpp" alt="" coords="967,348,1105,389"/>
+<area shape="rect" id="node11" href="$df/dfd/bxcan_8hpp.html" title="uavcan_stm32/bxcan.hpp" alt="" coords="745,266,916,293"/>
+<area shape="rect" id="node14" href="$d7/dfb/_device_8hpp.html" title="Definitions for the generic base classes in the device framework. " alt="" coords="407,266,495,293"/>
+<area shape="rect" id="node23" href="$d4/d7a/drivers_2device_2_c_dev_8hpp.html" title="CDev.hpp" alt="" coords="329,184,410,211"/>
+<area shape="rect" id="node16" href="$d3/dc5/drv__device_8h.html" title="Generic device / sensor interface. " alt="" coords="552,355,691,382"/>
+<area shape="rect" id="node18" href="$df/dae/drv__sensor_8h.html" title="Common sensor API and ioctl definitions. " alt="" coords="573,437,670,464"/>
+<area shape="rect" id="node20" href="$d8/d61/drv__orb__dev_8h.html" title="uORB published object driver. " alt="" coords="444,437,548,464"/>
+<area shape="rect" id="node24" href="$d5/da3/cdev_2_c_dev_8hpp.html" title="lib/cdev/CDev.hpp" alt="" coords="201,266,332,293"/>
+<area shape="rect" id="node25" href="$da/d7e/posix_2cdev__platform_8hpp.html" title="posix/cdev_platform.hpp" alt="" coords="185,355,349,382"/>
 </map>

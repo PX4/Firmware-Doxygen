@@ -2,6 +2,8 @@ var structmission__item__s =
 [
     [ "___lat_float", "df/df8/structmission__item__s.html#ae42723a44b0ff9c2e50eaef340cb395f", null ],
     [ "___lon_float", "df/df8/structmission__item__s.html#af3c2577ecaa4fa26b14b2cfe73fbc61a", null ],
+    [ "_padding0", "df/df8/structmission__item__s.html#a6b65fcd2438821c29fe2c5512a06dee1", null ],
+    [ "_padding1", "df/df8/structmission__item__s.html#ab32babb90350b49206feb9bec6a3b774", null ],
     [ "acceptance_radius", "df/df8/structmission__item__s.html#af4ef70f8580ec01490db9ccbec2f3995", null ],
     [ "altitude", "df/df8/structmission__item__s.html#a2257ba6328496d1f360bf7986595cb7e", null ],
     [ "altitude_is_relative", "df/df8/structmission__item__s.html#ac99b9957c7fc73ee4125c4d8b7f375ca", null ],

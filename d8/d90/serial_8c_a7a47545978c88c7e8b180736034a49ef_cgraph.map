@@ -1,35 +1,51 @@
 <map id="rx_handle_packet" name="rx_handle_packet">
-<area shape="rect" id="node2" href="$d2/d5e/protocol_8h.html#abe83ee7cb08ded2374a1a97e0279e07b" title="crc_packet" alt="" coords="183,31,269,57"/>
-<area shape="rect" id="node3" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="185,81,267,108"/>
-<area shape="rect" id="node4" href="$d8/d05/px4io_8h.html#a5b6feca2565b29aec20b8b25d7c7083e" title="registers_get" alt="" coords="338,107,435,133"/>
-<area shape="rect" id="node13" href="$d8/d05/px4io_8h.html#a79ff516383f902f7c580f60972f88484" title="Register space. " alt="" coords="177,208,275,235"/>
-<area shape="rect" id="node5" href="$de/d01/adc_8c.html#adb8e4695bf43be882f16f075e9b6ba8c" title="adc_measure" alt="" coords="536,56,636,83"/>
-<area shape="rect" id="node10" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="721,314,885,355"/>
-<area shape="rect" id="node6" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="741,157,866,184"/>
-<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="743,5,864,32"/>
-<area shape="rect" id="node8" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="762,56,845,83"/>
-<area shape="rect" id="node9" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="767,107,839,133"/>
-<area shape="rect" id="node11" href="$df/d04/kinetis_2drv__io__timer_8c.html#aad3a035250ee099bc93058614b0c0991" title="io_timer_get_group" alt="" coords="963,287,1095,313"/>
-<area shape="rect" id="node12" href="$df/d04/kinetis_2drv__io__timer_8c.html#aa05b59458783481df45d51f51d8eb30f" title="io_timer_get_mode_channels" alt="" coords="933,337,1124,364"/>
-<area shape="rect" id="node14" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a3b26101148510641898ef9875be36e67" title="mixer_handle_text" alt="" coords="323,259,451,285"/>
-<area shape="rect" id="node17" href="$d4/d28/registers_8c.html#acb76ce9506a2d7ebd08998a39fba7358" title="registers_set_one" alt="" coords="324,385,449,412"/>
-<area shape="rect" id="node33" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="328,208,445,235"/>
-<area shape="rect" id="node15" href="$dd/d87/px4io_8c.html#a1bfce2733e8cd310c4ad79ae0304f583" title="send a debug message to the console " alt="" coords="547,309,625,336"/>
-<area shape="rect" id="node16" href="$d9/dbb/class_mixer_group.html#afb9ab70e8cc93f2cdb4b6409cb4a66ee" title="Remove all the mixers from the group. " alt="" coords="523,259,649,285"/>
-<area shape="rect" id="node18" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a39986b40678dad1e1758554fda15002c" title="mixer_set_failsafe" alt="" coords="522,523,650,549"/>
-<area shape="rect" id="node28" href="$d4/d28/registers_8c.html#a1a7174a1a8b4c33aedb348f76c2ae2ae" title="pwm_configure_rates" alt="" coords="513,411,659,437"/>
-<area shape="rect" id="node31" href="$d6/daa/sbus_8cpp.html#af6161f310503db0603426d3e9cc3a141" title="sbus1_set_output_rate_hz" alt="" coords="499,461,673,488"/>
-<area shape="rect" id="node32" href="$dd/d87/px4io_8c.html#adb9f3a15fec5538dec2fa1c72cd65a8b" title="schedule a reboot in time_delta_usec microseconds " alt="" coords="527,360,645,387"/>
-<area shape="rect" id="node19" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a43e725d165db6bf11a8afcc09b008b76" title="mixer_mix_threadsafe" alt="" coords="728,528,879,555"/>
-<area shape="rect" id="node24" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="730,601,877,642"/>
-<area shape="rect" id="node26" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to pwm. " alt="" coords="726,462,881,503"/>
-<area shape="rect" id="node20" href="$d9/dbb/class_mixer_group.html#a7311c864d9bbd9a3583eb58b4c490a68" title="Get the saturation status. " alt="" coords="939,513,1118,554"/>
-<area shape="rect" id="node22" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="Perform the mixing function. " alt="" coords="969,579,1088,605"/>
-<area shape="rect" id="node21" href="$de/d2d/class_mixer.html#a0489d4761ca014a0269fa975811c0066" title="Get the saturation status. " alt="" coords="1172,513,1316,554"/>
-<area shape="rect" id="node23" href="$de/d2d/class_mixer.html#ac0c15f5f83798a1e5fe5ab5a4b6da958" title="Perform the mixing function. " alt="" coords="1203,579,1285,605"/>
-<area shape="rect" id="node25" href="$de/d2d/class_mixer.html#a3da8895824ce8c7653cfd5b7eb17d3e1" title="Empty method, only implemented for MultirotorMixer and MixerGroup class. " alt="" coords="955,630,1102,671"/>
-<area shape="rect" id="node27" href="$de/d2d/class_mixer.html#a40abfb73fb20c6cbe15a29978081a44e" title="Mixer::set_thrust_factor" alt="" coords="949,461,1109,488"/>
-<area shape="rect" id="node29" href="$d0/dbb/drv__pwm__output_8h.html#aace3976c339490fde77b5691afb34fcc" title="Set the update rate for a given rate group. " alt="" coords="721,397,885,438"/>
-<area shape="rect" id="node30" href="$df/d04/kinetis_2drv__io__timer_8c.html#ac0ff22c1218384d5e8d2a1edd783e8eb" title="io_timer_set_rate" alt="" coords="967,404,1090,431"/>
-<area shape="rect" id="node34" href="$df/d04/kinetis_2drv__io__timer_8c.html#a42d48f771aa64e81484875298f360dfc" title="io_timer_trigger" alt="" coords="531,208,641,235"/>
+<area shape="rect" id="node2" href="$d2/d5e/protocol_8h.html#abe83ee7cb08ded2374a1a97e0279e07b" title="crc_packet" alt="" coords="183,411,269,437"/>
+<area shape="rect" id="node3" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="185,512,267,539"/>
+<area shape="rect" id="node5" href="$d8/d05/px4io_8h.html#a5b6feca2565b29aec20b8b25d7c7083e" title="registers_get" alt="" coords="177,461,275,488"/>
+<area shape="rect" id="node21" href="$d8/d05/px4io_8h.html#a79ff516383f902f7c580f60972f88484" title="Register space. " alt="" coords="177,639,275,665"/>
+<area shape="rect" id="node4" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="742,512,867,539"/>
+<area shape="rect" id="node6" href="$de/d01/adc_8c.html#adb8e4695bf43be882f16f075e9b6ba8c" title="adc_measure" alt="" coords="337,360,437,387"/>
+<area shape="rect" id="node20" href="$d0/dbb/drv__pwm__output_8h.html#a3e7cac2ed4064fa4e922de9df79b495a" title="Get a bitmap of output channels assigned to a given rate group. " alt="" coords="723,598,887,639"/>
+<area shape="rect" id="node7" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="525,259,647,285"/>
+<area shape="rect" id="node18" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="545,309,627,336"/>
+<area shape="rect" id="node19" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="550,360,622,387"/>
+<area shape="rect" id="node8" href="$d6/d10/drv__hrt_8h.html#a185fdd7c4d51c3f7ef22133ef56f9a55" title="Call callout(arg) after delay has elapsed. " alt="" coords="756,411,853,437"/>
+<area shape="rect" id="node9" href="$d6/d10/drv__hrt_8h.html#a7d49af6c126c7e49c903e2e47e70d716" title="Call callout(arg) at absolute time calltime. " alt="" coords="763,461,846,488"/>
+<area shape="rect" id="node10" href="$d6/d10/drv__hrt_8h.html#a2c90bdef11ab9384cde0fa4c080ec697" title="hrt_call_delay" alt="" coords="753,5,856,32"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="753,56,856,83"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a0d90b23c796be1ed96cc58db0a38046d" title="Initialise a hrt_call structure. " alt="" coords="761,107,849,133"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a384e9e9c38310512247c86560adb0b6d" title="If this returns true, the entry has been invoked and removed from the callout list, or it has never been entered. " alt="" coords="765,157,844,184"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#aa4f22acddbadeed844ef6329629d2837" title="Remove the entry from the callout list. " alt="" coords="763,208,846,235"/>
+<area shape="rect" id="node15" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="721,259,888,285"/>
+<area shape="rect" id="node16" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="774,309,835,336"/>
+<area shape="rect" id="node17" href="$d6/d10/drv__hrt_8h.html#a37665926e3f760d970b8d2e5d63c94f8" title="Store the absolute time in an interrupt&#45;safe fashion. " alt="" coords="724,360,885,387"/>
+<area shape="rect" id="node22" href="$d1/da8/modules_2px4iofirmware_2_mixer_8cpp.html#a3b26101148510641898ef9875be36e67" title="mixer_handle_text" alt="" coords="323,841,451,868"/>
+<area shape="rect" id="node26" href="$d4/d28/registers_8c.html#acb76ce9506a2d7ebd08998a39fba7358" title="registers_set_one" alt="" coords="324,703,449,729"/>
+<area shape="rect" id="node50" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="328,639,445,665"/>
+<area shape="rect" id="node23" href="$dd/d87/px4io_8c.html#ab0b723e43f1feba5124006d3003ae109" title="atomic_modify_clear" alt="" coords="515,867,657,893"/>
+<area shape="rect" id="node24" href="$dd/d87/px4io_8c.html#a1bfce2733e8cd310c4ad79ae0304f583" title="send a debug message to the console " alt="" coords="547,816,625,843"/>
+<area shape="rect" id="node25" href="$d9/dbb/class_mixer_group.html#afb9ab70e8cc93f2cdb4b6409cb4a66ee" title="Remove all the mixers from the group. " alt="" coords="523,917,649,944"/>
+<area shape="rect" id="node27" href="$d1/da8/modules_2px4iofirmware_2_mixer_8cpp.html#a39986b40678dad1e1758554fda15002c" title="mixer_set_failsafe" alt="" coords="522,765,650,792"/>
+<area shape="rect" id="node46" href="$d4/d28/registers_8c.html#a1a7174a1a8b4c33aedb348f76c2ae2ae" title="pwm_configure_rates" alt="" coords="513,715,659,741"/>
+<area shape="rect" id="node48" href="$d6/daa/sbus_8cpp.html#af6161f310503db0603426d3e9cc3a141" title="sbus1_set_output_rate_hz" alt="" coords="499,664,673,691"/>
+<area shape="rect" id="node49" href="$dd/d87/px4io_8c.html#adb9f3a15fec5538dec2fa1c72cd65a8b" title="schedule a reboot in time_delta_usec microseconds " alt="" coords="527,613,645,640"/>
+<area shape="rect" id="node28" href="$d1/da8/modules_2px4iofirmware_2_mixer_8cpp.html#a43e725d165db6bf11a8afcc09b008b76" title="mixer_mix_threadsafe" alt="" coords="729,748,880,775"/>
+<area shape="rect" id="node42" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="731,857,878,898"/>
+<area shape="rect" id="node44" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to motor control signal output..." alt="" coords="948,797,1103,838"/>
+<area shape="rect" id="node29" href="$d9/dbb/class_mixer_group.html#af4ec388918d68f2f176251811dbdca05" title="MixerGroup::get_saturation\l_status" alt="" coords="936,679,1115,721"/>
+<area shape="rect" id="node31" href="$d9/dbb/class_mixer_group.html#a6f6b7701a01cb245a543a972dc52e750" title="MixerGroup::mix" alt="" coords="966,745,1085,772"/>
+<area shape="rect" id="node30" href="$d5/dd1/class_multirotor_mixer.html#a81e40a431f8d488c8d46cbef46dab96b" title="Get the saturation status. " alt="" coords="1164,679,1299,721"/>
+<area shape="rect" id="node32" href="$d5/dd1/class_multirotor_mixer.html#a1439549882a9ede8b992356d48f8f701" title="Perform the mixing function. " alt="" coords="1163,745,1300,772"/>
+<area shape="rect" id="node33" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="1361,872,1473,899"/>
+<area shape="rect" id="node34" href="$de/d2d/class_mixer.html#a5f11135236af8787120e394bd1ba0108" title="Invoke the client callback to fetch a control value. " alt="" coords="1353,720,1480,747"/>
+<area shape="rect" id="node35" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1749,763,1788,789"/>
+<area shape="rect" id="node37" href="$d5/dd1/class_multirotor_mixer.html#a228cd5ac502699728c1b8f2c8d33f03f" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="1348,654,1485,695"/>
+<area shape="rect" id="node39" href="$d5/dd1/class_multirotor_mixer.html#a957ab3ca1ee85cb257082ef2624d8f82" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="1348,589,1485,630"/>
+<area shape="rect" id="node40" href="$d5/dd1/class_multirotor_mixer.html#aa53916371c303c865110ef71497dbf9d" title="Mix roll, pitch, yaw, thrust and set the outputs vector. " alt="" coords="1348,523,1485,565"/>
+<area shape="rect" id="node41" href="$d5/dd1/class_multirotor_mixer.html#a992ef3744b23c0b28f740279c361f4a4" title="MultirotorMixer::update\l_saturation_status" alt="" coords="1540,755,1695,797"/>
+<area shape="rect" id="node36" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1836,763,1919,789"/>
+<area shape="rect" id="node38" href="$d5/dd1/class_multirotor_mixer.html#aa57fb59ca730dfc03e27505876b7f8a6" title="Minimize the saturation of the actuators by adding or substracting a fraction of desaturation_vector..." alt="" coords="1533,637,1701,678"/>
+<area shape="rect" id="node43" href="$d5/dd1/class_multirotor_mixer.html#a133f0cc74143214984787b48891eb415" title="Update slew rate parameter. " alt="" coords="951,862,1100,903"/>
+<area shape="rect" id="node45" href="$d5/dd1/class_multirotor_mixer.html#a777bd71eb9a403954db5b8d2d47d2eee" title="Sets the thrust factor used to calculate mapping from desired thrust to motor control signal output..." alt="" coords="1164,865,1299,906"/>
+<area shape="rect" id="node47" href="$d0/dbb/drv__pwm__output_8h.html#aace3976c339490fde77b5691afb34fcc" title="Set the update rate for a given rate group. " alt="" coords="723,682,887,723"/>
 </map>

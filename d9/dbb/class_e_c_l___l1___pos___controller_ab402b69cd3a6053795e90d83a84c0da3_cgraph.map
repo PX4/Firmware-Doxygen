@@ -1,11 +1,14 @@
 <map id="ECL_L1_Pos_Controller::navigate_loiter" name="ECL_L1_Pos_Controller::navigate_loiter">
-<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a9ab5768499dc798629f31a3e785ea313" title="math::constrain" alt="" coords="431,15,543,42"/>
-<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="467,84,506,111"/>
-<area shape="rect" id="node4" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="230,272,369,313"/>
-<area shape="rect" id="node8" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#a44d8387e2e22bf4df57d10cdb5bcc8d1" title="Convert a 2D vector from WGS84 to planar coordinates. " alt="" coords="216,154,383,196"/>
-<area shape="rect" id="node9" href="$dd/d47/namespacemath.html#a098014542ac24ca312f6090b2f364dd6" title="math::max" alt="" coords="257,220,341,247"/>
-<area shape="rect" id="node10" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#adcbf0ee88d4daf62942f15100a689af3" title="Update roll angle setpoint. " alt="" coords="218,37,381,78"/>
-<area shape="rect" id="node5" href="$dd/d47/namespacemath.html#a83e4c85de5ee6f9c0f7b91fd81a8d4f9" title="math::radians" alt="" coords="436,195,537,222"/>
-<area shape="rect" id="node6" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="matrix::wrap_pi" alt="" coords="431,279,542,306"/>
-<area shape="rect" id="node7" href="$d0/de4/namespacematrix.html#a9c9af1b28ba4487c1de34387e97d090a" title="matrix::is_finite" alt="" coords="591,279,701,306"/>
+<area shape="rect" id="node2" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="431,5,543,32"/>
+<area shape="rect" id="node3" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="467,60,506,87"/>
+<area shape="rect" id="node6" href="$d7/d09/geo_8cpp.html#a71a3f1dd74077ca88d95a943768c728b" title="Returns the bearing to the next waypoint in radians. " alt="" coords="230,170,369,211"/>
+<area shape="rect" id="node11" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#af693c7fe83fbb45f103062f97e412aae" title="Convert a 2D vector from WGS84 to planar coordinates. " alt="" coords="216,235,383,277"/>
+<area shape="rect" id="node12" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="257,301,341,328"/>
+<area shape="rect" id="node13" href="$d9/dbb/class_e_c_l___l1___pos___controller.html#adcbf0ee88d4daf62942f15100a689af3" title="Update roll angle setpoint. " alt="" coords="218,53,381,94"/>
+<area shape="rect" id="node4" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="597,111,679,137"/>
+<area shape="rect" id="node5" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="735,111,822,137"/>
+<area shape="rect" id="node7" href="$dd/d47/namespacemath.html#a7e34369248d5d1565073dc552dd90d5c" title="math::radians" alt="" coords="436,263,537,289"/>
+<area shape="rect" id="node8" href="$d0/de4/namespacematrix.html#ad36650ba691474397ef7ba79da6d3782" title="Wrap value in range [&#45;π, π) " alt="" coords="431,212,542,239"/>
+<area shape="rect" id="node9" href="$d0/de4/namespacematrix.html#aa5b19a62b4fa28f9a499ac931ca81c4a" title="Wrap value to stay in range [low, high) " alt="" coords="591,212,685,239"/>
+<area shape="rect" id="node10" href="$d0/de4/namespacematrix.html#a89504e6c83cabce5358bb65ee75f07fe" title="matrix::floor" alt="" coords="733,212,824,239"/>
 </map>

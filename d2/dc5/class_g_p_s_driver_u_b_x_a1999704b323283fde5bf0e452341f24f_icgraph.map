@@ -1,8 +1,13 @@
 <map id="GPSDriverUBX::payloadRxAdd" name="GPSDriverUBX::payloadRxAdd">
-<area shape="rect" id="node2" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8fb26fb23f2b793d0f11d903a09f606d" title="Parse the binary UBX packet. " alt="" coords="260,5,441,32"/>
-<area shape="rect" id="node3" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#af01fa3241c4688400fe3f6d855340d94" title="receive &amp; handle new data from the device " alt="" coords="489,5,652,32"/>
-<area shape="rect" id="node4" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a435183becff817ea04bb8dbee3b27938" title="GPSDriverUBX::configure" alt="" coords="1468,56,1643,83"/>
-<area shape="rect" id="node5" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a69d3e7aee41d76fb0650e045d75e63db" title="Wait for message acknowledge. " alt="" coords="700,56,887,83"/>
-<area shape="rect" id="node6" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#afc6bdbe210a98edae84e5e515a079bac" title="Start or restart the survey&#45;in procees. " alt="" coords="1209,81,1420,108"/>
-<area shape="rect" id="node7" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#aa98487cab6ea29baec6fd2746011c88a" title="combines the configure_message_rate &amp; wait_for_ack calls " alt="" coords="935,133,1161,174"/>
+<area shape="rect" id="node2" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a8fb26fb23f2b793d0f11d903a09f606d" title="Parse the binary UBX packet. " alt="" coords="260,58,441,84"/>
+<area shape="rect" id="node3" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#af01fa3241c4688400fe3f6d855340d94" title="receive &amp; handle new data from the device " alt="" coords="489,184,652,211"/>
+<area shape="rect" id="node4" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a435183becff817ea04bb8dbee3b27938" title="configure the device " alt="" coords="1753,276,1928,303"/>
+<area shape="rect" id="node5" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a69d3e7aee41d76fb0650e045d75e63db" title="Wait for message acknowledge. " alt="" coords="700,184,887,211"/>
+<area shape="rect" id="node6" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a01ad75d6fd2d895fb72a8641a9cf793f" title="Send configuration values and desired message rates (for protocol version &lt; 27) " alt="" coords="1228,269,1443,310"/>
+<area shape="rect" id="node7" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#ad6f376f00e941e04544f2701b7fb3683" title="Send configuration values and desired message rates. " alt="" coords="1491,340,1705,367"/>
+<area shape="rect" id="node8" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a6e57c1a45646725148eb8896a3c4dba5" title="restartSurveyIn for protocol version &lt; 27 (_proto_ver_27_or_higher == false) " alt="" coords="1236,134,1435,176"/>
+<area shape="rect" id="node9" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#afc6bdbe210a98edae84e5e515a079bac" title="Start or restart the survey&#45;in procees. " alt="" coords="1493,112,1703,139"/>
+<area shape="rect" id="node10" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a6d819221ed27daddd63c8f0c9a4c1e73" title="GPSDriverUBX::activateRTCMOutput" alt="" coords="935,83,1180,110"/>
+<area shape="rect" id="node12" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#aa98487cab6ea29baec6fd2746011c88a" title="Combines the configure_message_rate &amp; wait_for_ack calls. " alt="" coords="944,236,1171,277"/>
+<area shape="rect" id="node11" href="$d2/dc5/class_g_p_s_driver_u_b_x.html#a7741a82a136afc6332281f4a52426cc9" title="Finish payload rx. " alt="" coords="1228,32,1443,59"/>
 </map>

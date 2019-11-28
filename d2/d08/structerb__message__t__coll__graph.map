@@ -1,0 +1,10 @@
+<map id="erb_message_t" name="erb_message_t">
+<area shape="rect" id="node2" href="$d2/dd8/unionerb__payload__t.html" title="{erb_payload_t\n||}" alt="" coords="361,410,464,487"/>
+<area shape="rect" id="node3" href="$d9/d3e/structerb__geodic__position__t.html" title="{erb_geodic_position_t\n|+ timeGPS\l+ longitude\l+ latitude\l+ altElipsoid\l+ altMeanSeaLevel\l+ accHorizontal\l+ accVertical\l|}" alt="" coords="5,160,153,325"/>
+<area shape="rect" id="node4" href="$d5/d61/structerb__checksum__t.html" title="{erb_checksum_t\n|+ ck_a\l+ ck_b\l|}" alt="" coords="353,5,472,97"/>
+<area shape="rect" id="node5" href="$dc/d19/structerb__ned__velocity__t.html" title="{erb_ned_velocity_t\n|+ timeGPS\l+ velN\l+ velE\l+ velD\l+ speed\l+ heading\l+ speedAccuracy\l|}" alt="" coords="178,160,309,325"/>
+<area shape="rect" id="node6" href="$dd/d21/structerb__navigation__status__t.html" title="{erb_navigation_status_t\n|+ timeGPS\l+ weekGPS\l+ fixType\l+ fixStatus\l+ numSatUsed\l|}" alt="" coords="333,175,493,311"/>
+<area shape="rect" id="node7" href="$dd/d22/structerb__dop__t.html" title="{erb_dop_t\n|+ timeGPS\l+ dopGeometric\l+ dopPosition\l+ dopVertical\l+ dopHorizontal\l|}" alt="" coords="517,175,631,311"/>
+<area shape="rect" id="node8" href="$de/d3c/structerb__version__t.html" title="{erb_version_t\n|+ timeGPS\l+ verH\l+ verM\l+ verL\l|}" alt="" coords="656,182,756,303"/>
+<area shape="rect" id="node9" href="$dd/d92/structerb__header__t.html" title="{erb_header_t\n|+ sync1\l+ sync2\l+ id\l+ length\l|}" alt="" coords="488,388,585,509"/>
+</map>

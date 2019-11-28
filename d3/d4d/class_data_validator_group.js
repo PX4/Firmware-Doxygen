@@ -4,7 +4,7 @@ var class_data_validator_group =
     [ "~DataValidatorGroup", "d3/d4d/class_data_validator_group.html#aa7e62e3a80418b0ca6c74cbcea1ffa4f", null ],
     [ "DataValidatorGroup", "d3/d4d/class_data_validator_group.html#accdc66ebbcb3e21e2fb3c27210e908ad", null ],
     [ "add_new_validator", "d3/d4d/class_data_validator_group.html#a99b6db1c2c5be642ce5e6c52f69320d7", null ],
-    [ "failover_count", "d3/d4d/class_data_validator_group.html#ac6775cae2bd1dc8e09fbe716fd06de36", null ],
+    [ "failover_count", "d3/d4d/class_data_validator_group.html#a4a63d5fe1e8b1e017734212c7f21bb1c", null ],
     [ "failover_index", "d3/d4d/class_data_validator_group.html#ab233d26fcba266eea07b1faacb4eb40f", null ],
     [ "failover_state", "d3/d4d/class_data_validator_group.html#a40954f86393eaebe9b35cb139bff3722", null ],
     [ "get_best", "d3/d4d/class_data_validator_group.html#a4d9ec49141c2d4515ad7744bc3fbea70", null ],

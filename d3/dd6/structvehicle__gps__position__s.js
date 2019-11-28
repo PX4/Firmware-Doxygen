@@ -1,6 +1,6 @@
 var structvehicle__gps__position__s =
 [
-    [ "_padding0", "d3/dd6/structvehicle__gps__position__s.html#a8c2e8cda076fb8aaa715c56f414c0be9", null ],
+    [ "_padding0", "d3/dd6/structvehicle__gps__position__s.html#a83ea2ebbf5a72827dce8d6ffc2b7a7ce", null ],
     [ "alt", "d3/dd6/structvehicle__gps__position__s.html#a7d52aa5172be0396da1301172ccbae27", null ],
     [ "alt_ellipsoid", "d3/dd6/structvehicle__gps__position__s.html#a421330785dd97b7ebb5bec23d40e9aee", null ],
     [ "c_variance_rad", "d3/dd6/structvehicle__gps__position__s.html#adf6f10f7ca8c60b98734d1cb134cb8d6", null ],
@@ -10,6 +10,7 @@ var structvehicle__gps__position__s =
     [ "fix_type", "d3/dd6/structvehicle__gps__position__s.html#a69ebbbadffc88e229d4a08df944f50c6", null ],
     [ "hdop", "d3/dd6/structvehicle__gps__position__s.html#a7f1464fffac9da528e0460974fb30c01", null ],
     [ "heading", "d3/dd6/structvehicle__gps__position__s.html#a935d3af9d9a4bfd4a5f1eccfbd44b784", null ],
+    [ "heading_offset", "d3/dd6/structvehicle__gps__position__s.html#ae0d60620b9eb50411e133bb0812dd8f3", null ],
     [ "jamming_indicator", "d3/dd6/structvehicle__gps__position__s.html#aab9982682b346dcca172282eb1350f66", null ],
     [ "lat", "d3/dd6/structvehicle__gps__position__s.html#ac28728c4977d46f832c5bc1178293404", null ],
     [ "lon", "d3/dd6/structvehicle__gps__position__s.html#a1c52dbf12a28a7cd6eb316955e87e8c0", null ],

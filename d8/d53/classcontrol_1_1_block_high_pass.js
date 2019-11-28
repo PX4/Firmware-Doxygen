@@ -1,7 +1,7 @@
 var classcontrol_1_1_block_high_pass =
 [
     [ "BlockHighPass", "d8/d53/classcontrol_1_1_block_high_pass.html#aff9c2a0c558e60f162de09824f6cd0c6", null ],
-    [ "~BlockHighPass", "d8/d53/classcontrol_1_1_block_high_pass.html#a01ca91b65413a9e259510ac8258669f7", null ],
+    [ "~BlockHighPass", "d8/d53/classcontrol_1_1_block_high_pass.html#af12fb44829461fd7f028384f4037b619", null ],
     [ "getFCut", "d8/d53/classcontrol_1_1_block_high_pass.html#ab373e7f4a26e1c502aa3e08490fc983b", null ],
     [ "getU", "d8/d53/classcontrol_1_1_block_high_pass.html#a5197f1efc36e779ba328cef66ddd8a85", null ],
     [ "getY", "d8/d53/classcontrol_1_1_block_high_pass.html#a19b7705d2e6cd31892c869be5c4084c2", null ],

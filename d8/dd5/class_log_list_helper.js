@@ -1,8 +1,8 @@
 var class_log_list_helper =
 [
-    [ "LOG_HANDLER_IDLE", "d8/dd5/class_log_list_helper.html#a14f68448c3b24bd571578c6b09145bc2ab17d671533b2457e3e5281743c7452fc", null ],
-    [ "LOG_HANDLER_LISTING", "d8/dd5/class_log_list_helper.html#a14f68448c3b24bd571578c6b09145bc2a5c9f3737b5bac204bc1f1f568f24ead9", null ],
-    [ "LOG_HANDLER_SENDING_DATA", "d8/dd5/class_log_list_helper.html#a14f68448c3b24bd571578c6b09145bc2a5c5f7836f0cd029dc1b43054b63f78ba", null ],
+    [ "LOG_HANDLER_IDLE", "d8/dd5/class_log_list_helper.html#a20ac8e5dabefff19f0044ea885891705ab17d671533b2457e3e5281743c7452fc", null ],
+    [ "LOG_HANDLER_LISTING", "d8/dd5/class_log_list_helper.html#a20ac8e5dabefff19f0044ea885891705a5c9f3737b5bac204bc1f1f568f24ead9", null ],
+    [ "LOG_HANDLER_SENDING_DATA", "d8/dd5/class_log_list_helper.html#a20ac8e5dabefff19f0044ea885891705a5c5f7836f0cd029dc1b43054b63f78ba", null ],
     [ "LogListHelper", "d8/dd5/class_log_list_helper.html#aaa95b36a4bc1e9f73b629e3e906d4263", null ],
     [ "~LogListHelper", "d8/dd5/class_log_list_helper.html#a3758161effce6018caeedff3108e0551", null ],
     [ "_get_log_time_size", "d8/dd5/class_log_list_helper.html#a46463b73e24ce22ffbf0c688d5584e93", null ],

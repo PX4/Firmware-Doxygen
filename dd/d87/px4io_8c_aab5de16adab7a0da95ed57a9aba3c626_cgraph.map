@@ -1,51 +1,51 @@
 <map id="user_start" name="user_start">
 <area shape="rect" id="node2" href="$de/d01/adc_8c.html#a17f4991547e2a224daed40a939373d01" title="Sensors/misc inputs. " alt="" coords="181,5,248,32"/>
 <area shape="rect" id="node3" href="$dd/d87/px4io_8c.html#a24a82e1f711b1cc0384cb4956018c779" title="calculate_fw_crc" alt="" coords="155,56,275,83"/>
-<area shape="rect" id="node4" href="$dd/d87/px4io_8c.html#a85a11dcbfa69bcd044a15054bc1c1bd4" title="check for a scheduled reboot " alt="" coords="608,169,708,196"/>
-<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="781,360,907,387"/>
-<area shape="rect" id="node6" href="$d2/d2f/controls_8c.html#adf1ebcaca340f59f4a4c8eba0b6d336a" title="R/C receiver handling. " alt="" coords="169,259,261,285"/>
-<area shape="rect" id="node10" href="$d2/d2f/controls_8c.html#a1502c7d91b13589ed44b1e077574b26a" title="controls_tick" alt="" coords="167,639,263,665"/>
-<area shape="rect" id="node13" href="$dd/d78/perf__counter_8c.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="617,537,699,564"/>
-<area shape="rect" id="node14" href="$dd/d78/perf__counter_8c.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="622,613,694,640"/>
-<area shape="rect" id="node16" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="825,1505,863,1532"/>
-<area shape="rect" id="node19" href="$d8/d05/px4io_8h.html#a35c8be61dd9a2810802e2acbc4e0debc" title="failsafe_led_init" alt="" coords="159,1927,271,1953"/>
-<area shape="rect" id="node20" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="388,1876,491,1903"/>
-<area shape="rect" id="node22" href="$dd/d87/px4io_8c.html#af73613b49b20605ed407450b98b38861" title="heartbeat_blink" alt="" coords="159,1977,270,2004"/>
-<area shape="rect" id="node23" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="184,2028,245,2055"/>
-<area shape="rect" id="node24" href="$df/d19/modules_2px4iofirmware_2i2c_8c.html#a86489e4b72e9a378e39ebc48b6c95ece" title="FMU communications. " alt="" coords="167,2079,263,2105"/>
-<area shape="rect" id="node25" href="$dd/d87/px4io_8c.html#a1bfce2733e8cd310c4ad79ae0304f583" title="send a debug message to the console " alt="" coords="619,1673,697,1700"/>
-<area shape="rect" id="node26" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#ae4335b0132a371f64a91cbc19cb518e4" title="mixer_tick" alt="" coords="173,1313,256,1340"/>
-<area shape="rect" id="node39" href="$dd/d78/perf__counter_8c.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="173,2129,256,2156"/>
-<area shape="rect" id="node40" href="$d2/d09/pwm__limit_8cpp.html#ae3de6fee4531aea8b7281b9876803c09" title="pwm_limit_init" alt="" coords="162,2180,267,2207"/>
-<area shape="rect" id="node41" href="$dd/d87/px4io_8c.html#a44cf7c0b9f03760522c40abeae2b611f" title="ring_blink" alt="" coords="176,2231,253,2257"/>
-<area shape="rect" id="node42" href="$d8/d05/px4io_8h.html#a18ea05c1b66d1eb9c5070ae96bcbd8a0" title="Safety switch/LED. " alt="" coords="173,1825,256,1852"/>
-<area shape="rect" id="node44" href="$dd/d87/px4io_8c.html#a3fb17b756e61958fcf3c71d3e32512ca" title="show_debug_messages" alt="" coords="133,2281,296,2308"/>
-<area shape="rect" id="node45" href="$d0/dbb/drv__pwm__output_8h.html#a282045de007d89d6943369f466628546" title="Intialise the PWM servo outputs using the specified configuration. " alt="" coords="147,2332,282,2359"/>
-<area shape="rect" id="node50" href="$dd/d87/px4io_8c.html#a7cd4035b286f377add1d0731de60e2d6" title="update_mem_usage" alt="" coords="589,309,727,336"/>
-<area shape="rect" id="node7" href="$d3/d37/dsm_8cpp.html#a650fd06b0cf33eb946789d0490045c95" title="Initialize the DSM receive functionality. " alt="" coords="404,208,475,235"/>
-<area shape="rect" id="node9" href="$d6/daa/sbus_8cpp.html#a98d7712d4fbb3607bdf20b00811c6daf" title="sbus_init" alt="" coords="402,259,477,285"/>
-<area shape="rect" id="node8" href="$d3/d37/dsm_8cpp.html#ab38619ebbecd716b6e0757356d116039" title="dsm_config" alt="" coords="613,245,703,272"/>
-<area shape="rect" id="node11" href="$de/d01/adc_8c.html#adb8e4695bf43be882f16f075e9b6ba8c" title="adc_measure" alt="" coords="389,664,489,691"/>
-<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#a2bf33ff8e80c1112813843ddd3b5b55d" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="597,816,719,843"/>
-<area shape="rect" id="node15" href="$d2/d2f/controls_8c.html#a84a30a8308775eeff0c27fcd7f3e6cd6" title="dsm_port_input" alt="" coords="384,563,495,589"/>
-<area shape="rect" id="node17" href="$d2/d2f/controls_8c.html#a86da2916e703cf8cf7c0117df748960f" title="ppm_input" alt="" coords="398,816,481,843"/>
-<area shape="rect" id="node18" href="$d6/daa/sbus_8cpp.html#a3b8cbed10af4d9b77eef768524be77d8" title="sbus_input" alt="" coords="615,436,701,463"/>
-<area shape="rect" id="node21" href="$d4/d6d/safety_8c.html#a90fbb4b1fd02290453d3d4b8cdc5a96a" title="failsafe_blink" alt="" coords="390,1927,489,1953"/>
-<area shape="rect" id="node27" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a9ef13333149bafd85732495fb8abca03" title="mixer_handle_text_create\l_mixer" alt="" coords="354,1607,525,1649"/>
-<area shape="rect" id="node28" href="$d3/d53/modules_2px4iofirmware_2mixer_8cpp.html#a43e725d165db6bf11a8afcc09b008b76" title="mixer_mix_threadsafe" alt="" coords="364,1171,515,1197"/>
-<area shape="rect" id="node29" href="$d2/d09/pwm__limit_8cpp.html#a1f8a7620629f6261224f8c4c9c28ee7d" title="pwm_limit_calc" alt="" coords="383,917,495,944"/>
-<area shape="rect" id="node30" href="$d6/daa/sbus_8cpp.html#add8c6f30e9b70cdd72c306b9e961a115" title="sbus1_output" alt="" coords="608,1069,708,1096"/>
-<area shape="rect" id="node31" href="$d6/daa/sbus_8cpp.html#ae88029b20d80cfa238db76c28bdda8fc" title="sbus2_output" alt="" coords="389,1019,489,1045"/>
-<area shape="rect" id="node32" href="$d9/dbb/class_mixer_group.html#a8d51210f8f4d8e58ca8df44fba22b8a7" title="Set airmode. " alt="" coords="355,1221,523,1248"/>
-<area shape="rect" id="node33" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="366,1273,513,1314"/>
-<area shape="rect" id="node34" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to pwm. " alt="" coords="362,1338,517,1379"/>
-<area shape="rect" id="node35" href="$d9/dbb/class_mixer_group.html#a7c805254119d62180adbab7ed49e389b" title="MixerGroup::set_trims" alt="" coords="583,1556,733,1583"/>
-<area shape="rect" id="node36" href="$d0/dbb/drv__pwm__output_8h.html#acae7bc2a82d7fb3cfffab568cfccdaee" title="Arm or disarm servo outputs. " alt="" coords="370,1404,509,1431"/>
-<area shape="rect" id="node37" href="$d0/dbb/drv__pwm__output_8h.html#a4e3ecac6bbb17ef4c38ffd288a2a11e3" title="Set the current output value for a channel. " alt="" coords="372,1455,507,1481"/>
-<area shape="rect" id="node38" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="381,1069,498,1096"/>
-<area shape="rect" id="node43" href="$d4/d6d/safety_8c.html#a745f87a530e18a9607b36e5f360bcb20" title="safety_check_button" alt="" coords="368,1825,511,1852"/>
-<area shape="rect" id="node46" href="$df/d04/kinetis_2drv__io__timer_8c.html#a343379143ce0393538db2d45ecc62937" title="io_timer_channel_init" alt="" coords="367,2256,511,2283"/>
-<area shape="rect" id="node47" href="$df/d04/kinetis_2drv__io__timer_8c.html#af4ccab9ca17f8ab3707ce27720c598b1" title="io_timer_free_channel" alt="" coords="365,2307,514,2333"/>
-<area shape="rect" id="node48" href="$df/d04/kinetis_2drv__io__timer_8c.html#aa05b59458783481df45d51f51d8eb30f" title="io_timer_get_mode_channels" alt="" coords="344,2357,535,2384"/>
-<area shape="rect" id="node49" href="$df/d04/kinetis_2drv__io__timer_8c.html#a8652ddbf6db397a7600db2712eea5b44" title="io_timer_is_channel_free" alt="" coords="356,2408,523,2435"/>
+<area shape="rect" id="node4" href="$dd/d87/px4io_8c.html#a85a11dcbfa69bcd044a15054bc1c1bd4" title="check for a scheduled reboot " alt="" coords="588,157,688,184"/>
+<area shape="rect" id="node5" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="782,537,907,564"/>
+<area shape="rect" id="node6" href="$d2/d2f/controls_8c.html#adf1ebcaca340f59f4a4c8eba0b6d336a" title="R/C receiver handling. " alt="" coords="169,2281,261,2308"/>
+<area shape="rect" id="node9" href="$d2/d2f/controls_8c.html#a1502c7d91b13589ed44b1e077574b26a" title="controls_tick" alt="" coords="167,639,263,665"/>
+<area shape="rect" id="node12" href="$d6/d10/drv__hrt_8h.html#afef961eed389b142649f3d904df16cd2" title="Call callout(arg) after delay, and then after every interval. " alt="" coords="793,2155,896,2181"/>
+<area shape="rect" id="node14" href="$d6/d10/drv__hrt_8h.html#a4d623c5e3d99e6855ac85e606bd87e1c" title="hrt_init" alt="" coords="814,1952,875,1979"/>
+<area shape="rect" id="node15" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="597,461,679,488"/>
+<area shape="rect" id="node16" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="602,512,674,539"/>
+<area shape="rect" id="node20" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="825,1825,864,1852"/>
+<area shape="rect" id="node24" href="$d8/d05/px4io_8h.html#a35c8be61dd9a2810802e2acbc4e0debc" title="failsafe_led_init" alt="" coords="159,2079,271,2105"/>
+<area shape="rect" id="node26" href="$dd/d87/px4io_8c.html#af73613b49b20605ed407450b98b38861" title="heartbeat_blink" alt="" coords="159,2332,270,2359"/>
+<area shape="rect" id="node27" href="$d8/d05/px4io_8h.html#a86489e4b72e9a378e39ebc48b6c95ece" title="FMU communications. " alt="" coords="167,1657,263,1684"/>
+<area shape="rect" id="node29" href="$df/d7b/perf__counter_8cpp.html#a4a775bcac1518a89f1137003985d9e65" title="Count a performance event. " alt="" coords="597,917,679,944"/>
+<area shape="rect" id="node31" href="$dd/d87/px4io_8c.html#a1bfce2733e8cd310c4ad79ae0304f583" title="send a debug message to the console " alt="" coords="599,1775,677,1801"/>
+<area shape="rect" id="node32" href="$d1/da8/modules_2px4iofirmware_2_mixer_8cpp.html#a85ff3d74b79e298bc191c8cc2acd76e5" title="mixer_tick" alt="" coords="173,1364,256,1391"/>
+<area shape="rect" id="node45" href="$d6/d1e/output__limit_8cpp.html#a00b867cb288ca411052bb2430e20ad78" title="output_limit_init" alt="" coords="158,2383,271,2409"/>
+<area shape="rect" id="node46" href="$dd/d87/px4io_8c.html#a44cf7c0b9f03760522c40abeae2b611f" title="ring_blink" alt="" coords="176,2433,253,2460"/>
+<area shape="rect" id="node47" href="$d8/d05/px4io_8h.html#a18ea05c1b66d1eb9c5070ae96bcbd8a0" title="Safety switch/LED. " alt="" coords="597,2180,679,2207"/>
+<area shape="rect" id="node48" href="$dd/d87/px4io_8c.html#a3fb17b756e61958fcf3c71d3e32512ca" title="show_debug_messages" alt="" coords="133,2484,296,2511"/>
+<area shape="rect" id="node49" href="$d0/dbb/drv__pwm__output_8h.html#a282045de007d89d6943369f466628546" title="Intialise the PWM servo outputs using the specified configuration. " alt="" coords="147,2535,282,2561"/>
+<area shape="rect" id="node50" href="$dd/d87/px4io_8c.html#a7cd4035b286f377add1d0731de60e2d6" title="update_mem_usage" alt="" coords="569,259,707,285"/>
+<area shape="rect" id="node7" href="$d3/d37/dsm_8cpp.html#a650fd06b0cf33eb946789d0490045c95" title="Initialize the DSM receive functionality. " alt="" coords="394,2281,465,2308"/>
+<area shape="rect" id="node8" href="$d6/daa/sbus_8cpp.html#a98d7712d4fbb3607bdf20b00811c6daf" title="sbus_init" alt="" coords="392,2332,467,2359"/>
+<area shape="rect" id="node10" href="$de/d01/adc_8c.html#adb8e4695bf43be882f16f075e9b6ba8c" title="adc_measure" alt="" coords="379,563,479,589"/>
+<area shape="rect" id="node13" href="$d6/d10/drv__hrt_8h.html#a721dee0a94d421de75e4836aed05c0b8" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="761,791,928,817"/>
+<area shape="rect" id="node17" href="$dd/d87/px4io_8c.html#ab0b723e43f1feba5124006d3003ae109" title="atomic_modify_clear" alt="" coords="358,867,501,893"/>
+<area shape="rect" id="node18" href="$dd/d87/px4io_8c.html#a57935b5b5a854cd9b16c87df5ef8ada2" title="atomic_modify_or" alt="" coords="575,613,701,640"/>
+<area shape="rect" id="node19" href="$d2/d2f/controls_8c.html#a84a30a8308775eeff0c27fcd7f3e6cd6" title="dsm_port_input" alt="" coords="374,512,485,539"/>
+<area shape="rect" id="node22" href="$d2/d2f/controls_8c.html#a86da2916e703cf8cf7c0117df748960f" title="ppm_input" alt="" coords="388,816,471,843"/>
+<area shape="rect" id="node23" href="$d6/daa/sbus_8cpp.html#a3b8cbed10af4d9b77eef768524be77d8" title="sbus_input" alt="" coords="595,360,681,387"/>
+<area shape="rect" id="node11" href="$d6/d10/drv__hrt_8h.html#af3323411019f0236c77bf283463cb50b" title="Compute the delta between a timestamp taken in the past and now. " alt="" coords="577,867,699,893"/>
+<area shape="rect" id="node21" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="976,1825,1059,1852"/>
+<area shape="rect" id="node25" href="$d4/d6d/safety_8c.html#a90fbb4b1fd02290453d3d4b8cdc5a96a" title="failsafe_blink" alt="" coords="380,2079,479,2105"/>
+<area shape="rect" id="node28" href="$d8/d90/serial_8c.html#a4f42595963508e10e538baddbf85204a" title="serial_interrupt" alt="" coords="376,1607,483,1633"/>
+<area shape="rect" id="node30" href="$d8/d90/serial_8c.html#ab490e77cf58b14849740525ba5dc47ef" title="dma_reset" alt="" coords="597,1632,679,1659"/>
+<area shape="rect" id="node33" href="$d1/da8/modules_2px4iofirmware_2_mixer_8cpp.html#a9ef13333149bafd85732495fb8abca03" title="mixer_handle_text_create\l_mixer" alt="" coords="344,1709,515,1750"/>
+<area shape="rect" id="node34" href="$d1/da8/modules_2px4iofirmware_2_mixer_8cpp.html#a43e725d165db6bf11a8afcc09b008b76" title="mixer_mix_threadsafe" alt="" coords="354,1221,505,1248"/>
+<area shape="rect" id="node35" href="$d6/d1e/output__limit_8cpp.html#a089de4a9d701e540686e6fcb1ffcc457" title="output_limit_calc" alt="" coords="369,1019,489,1045"/>
+<area shape="rect" id="node36" href="$d6/daa/sbus_8cpp.html#add8c6f30e9b70cdd72c306b9e961a115" title="sbus1_output" alt="" coords="588,1120,688,1147"/>
+<area shape="rect" id="node37" href="$d6/daa/sbus_8cpp.html#ae88029b20d80cfa238db76c28bdda8fc" title="sbus2_output" alt="" coords="379,1171,479,1197"/>
+<area shape="rect" id="node38" href="$d9/dbb/class_mixer_group.html#a7b494ee1ca8c3b215a5be0ffec0328ab" title="MixerGroup::set_airmode" alt="" coords="345,1272,513,1299"/>
+<area shape="rect" id="node39" href="$d9/dbb/class_mixer_group.html#a5ce31fca4934fa3308811c90ade98555" title="Update slew rate parameter. " alt="" coords="356,1323,503,1365"/>
+<area shape="rect" id="node40" href="$d9/dbb/class_mixer_group.html#a39c51cb0a62b927c09baaaef668607d3" title="Sets the thrust factor used to calculate mapping from desired thrust to motor control signal output..." alt="" coords="352,1389,507,1430"/>
+<area shape="rect" id="node41" href="$d9/dbb/class_mixer_group.html#a7c805254119d62180adbab7ed49e389b" title="MixerGroup::set_trims" alt="" coords="563,1876,713,1903"/>
+<area shape="rect" id="node42" href="$d0/dbb/drv__pwm__output_8h.html#acae7bc2a82d7fb3cfffab568cfccdaee" title="Arm or disarm servo outputs. " alt="" coords="360,1455,499,1481"/>
+<area shape="rect" id="node43" href="$d0/dbb/drv__pwm__output_8h.html#a4e3ecac6bbb17ef4c38ffd288a2a11e3" title="Set the current output value for a channel. " alt="" coords="362,1505,497,1532"/>
+<area shape="rect" id="node44" href="$d0/dbb/drv__pwm__output_8h.html#a4d5cdf3232d3d0a4ec09086b49aa652b" title="Trigger all timer&#39;s channels in Oneshot mode to fire the oneshot with updated values. " alt="" coords="371,1120,488,1147"/>
 </map>

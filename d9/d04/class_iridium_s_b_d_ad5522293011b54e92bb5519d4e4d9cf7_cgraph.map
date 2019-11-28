@@ -1,15 +1,13 @@
 <map id="IridiumSBD::start_sbd_session" name="IridiumSBD::start_sbd_session">
-<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="791,5,916,32"/>
-<area shape="rect" id="node3" href="$d9/d04/class_iridium_s_b_d.html#adaf97cd439365ed8a40b7709c5ad5afb" title="IridiumSBD::is_modem\l_ready" alt="" coords="204,130,361,171"/>
-<area shape="rect" id="node11" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="974,151,1113,177"/>
-<area shape="rect" id="node13" href="$d9/d04/class_iridium_s_b_d.html#a072a63e324ee9d7f531a4cc9b83949f9" title="IridiumSBD::write_at" alt="" coords="409,79,552,105"/>
-<area shape="rect" id="node4" href="$d9/d04/class_iridium_s_b_d.html#abf5bc1e986efa858f207cb7c9cb651f2" title="IridiumSBD::read_at\l_command" alt="" coords="411,138,551,179"/>
-<area shape="rect" id="node5" href="$d9/d04/class_iridium_s_b_d.html#a9bf6a2383544e478ea80f23b7342c3eb" title="IridiumSBD::read_at" alt="" coords="600,157,740,184"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="788,269,919,296"/>
-<area shape="rect" id="node10" href="$d9/d04/class_iridium_s_b_d.html#a428f0761b398ad33b8321315a46e1eae" title="IridiumSBD::read" alt="" coords="792,157,915,184"/>
-<area shape="rect" id="node7" href="$db/dcf/classdevice_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="974,333,1113,374"/>
-<area shape="rect" id="node8" href="$db/dcf/classdevice_1_1_c_dev.html#a45d9c9e0630344d2d71002e015ddebab" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="978,202,1109,243"/>
-<area shape="rect" id="node9" href="$db/dcf/classdevice_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="967,267,1120,309"/>
-<area shape="rect" id="node12" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="967,81,1120,108"/>
-<area shape="rect" id="node14" href="$d9/d04/class_iridium_s_b_d.html#a356a320d842d4b23e0eb1f4f44932b7d" title="IridiumSBD::write" alt="" coords="607,71,733,97"/>
+<area shape="rect" id="node2" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="788,5,913,32"/>
+<area shape="rect" id="node3" href="$d9/d04/class_iridium_s_b_d.html#adaf97cd439365ed8a40b7709c5ad5afb" title="IridiumSBD::is_modem\l_ready" alt="" coords="204,91,361,133"/>
+<area shape="rect" id="node11" href="$d9/d04/class_iridium_s_b_d.html#a072a63e324ee9d7f531a4cc9b83949f9" title="IridiumSBD::write_at" alt="" coords="409,40,552,67"/>
+<area shape="rect" id="node4" href="$d9/d04/class_iridium_s_b_d.html#abf5bc1e986efa858f207cb7c9cb651f2" title="IridiumSBD::read_at\l_command" alt="" coords="411,91,551,133"/>
+<area shape="rect" id="node5" href="$d9/d04/class_iridium_s_b_d.html#a9bf6a2383544e478ea80f23b7342c3eb" title="IridiumSBD::read_at" alt="" coords="600,99,740,125"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html#a4e87079d3480b1d29fecc06314bb4c36" title="Perform a poll setup/teardown operation. " alt="" coords="791,73,911,100"/>
+<area shape="rect" id="node10" href="$d9/d04/class_iridium_s_b_d.html#a428f0761b398ad33b8321315a46e1eae" title="IridiumSBD::read" alt="" coords="789,124,912,151"/>
+<area shape="rect" id="node7" href="$d8/d26/classcdev_1_1_c_dev.html#a63c9bb78722c6d0be5dc52cf9cc6bb52" title="Store a pollwaiter in a slot where we can find it later. " alt="" coords="961,7,1117,49"/>
+<area shape="rect" id="node8" href="$d8/d26/classcdev_1_1_c_dev.html#a3db33a5bc64680d29da9470f606f4457" title="Check the current state of the device for poll events from the perspective of the file..." alt="" coords="961,73,1117,100"/>
+<area shape="rect" id="node9" href="$d8/d26/classcdev_1_1_c_dev.html#ab16e9c91aca41e5c7067f0d978ceee2a" title="Remove a poll waiter. " alt="" coords="968,125,1111,166"/>
+<area shape="rect" id="node12" href="$d9/d04/class_iridium_s_b_d.html#a356a320d842d4b23e0eb1f4f44932b7d" title="IridiumSBD::write" alt="" coords="607,40,733,67"/>
 </map>

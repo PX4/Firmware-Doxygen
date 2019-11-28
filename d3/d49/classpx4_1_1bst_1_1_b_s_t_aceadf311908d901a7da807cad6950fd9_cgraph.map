@@ -1,51 +1,7 @@
 <map id="px4::bst::BST::probe" name="px4::bst::BST::probe">
-<area shape="rect" id="node2" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#ad147d19ae5d244f04056457218cdf8b9" title="px4::bst::BST::crc8" alt="" coords="199,566,335,592"/>
-<area shape="rect" id="node3" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a4b98db7852f57caf3c2c88ff74fe2ec7" title="px4::bst::BST::send\l_packet" alt="" coords="198,617,337,658"/>
-<area shape="rect" id="node49" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#aca3dd8180b35c8447fe29a4e8deb45c3" title="Byte swap unsigned short. " alt="" coords="196,682,339,724"/>
-<area shape="rect" id="node50" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a5b6d14ca7b338ea12ce570d2e7553c66" title="Byte swap unsigned int. " alt="" coords="196,748,339,789"/>
-<area shape="rect" id="node4" href="$d7/db0/teraranger_8cpp.html#adfca4aaacc388b67c87559babec7bbb7" title="crc8" alt="" coords="387,624,433,651"/>
-<area shape="rect" id="node5" href="$d7/db0/teraranger_8cpp.html#aa26955b1a618f73984ca846a01e65da4" title="teraranger_main" alt="" coords="481,498,596,524"/>
-<area shape="rect" id="node6" href="$da/dc8/namespaceteraranger.html#a1268a822fba627ac7b20816159964b97" title="Print a little info about the driver. " alt="" coords="651,346,760,372"/>
-<area shape="rect" id="node9" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="662,396,749,423"/>
-<area shape="rect" id="node12" href="$da/dc8/namespaceteraranger.html#aa98f7ec79fc236ed2008a4817cc07ba5" title="Reset the driver. " alt="" coords="845,447,962,474"/>
-<area shape="rect" id="node33" href="$da/dc8/namespaceteraranger.html#a79a5c17bbe81130a545ed8903e2186c7" title="Attempt to start driver on all available I2C busses. " alt="" coords="648,650,763,676"/>
-<area shape="rect" id="node34" href="$da/dc8/namespaceteraranger.html#af2b09c2f35bdaaf510c9ce5be3ada61a" title="Start the driver on a specific bus. " alt="" coords="832,574,975,600"/>
-<area shape="rect" id="node43" href="$da/dc8/namespaceteraranger.html#a134ba243ddca3e199f1690f036d0e0bc" title="Stop the driver. " alt="" coords="649,599,762,626"/>
-<area shape="rect" id="node44" href="$d7/db0/teraranger_8cpp.html#abec7626c18b8b6770eb078ab3cde2a78" title="teraranger_usage" alt="" coords="644,295,767,322"/>
-<area shape="rect" id="node45" href="$da/dc8/namespaceteraranger.html#a523c45ae06a2ea07f6296a21ff3835c6" title="Perform some basic functional tests on the driver; make sure we can collect data from the sensor in p..." alt="" coords="848,498,959,524"/>
-<area shape="rect" id="node7" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a9cdb43effe9672980cba10b47ac807cc" title="Diagnostics &#45; print some basic information about the driver. " alt="" coords="815,295,992,322"/>
-<area shape="rect" id="node8" href="$dd/d78/perf__counter_8c.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="1086,295,1213,322"/>
-<area shape="rect" id="node10" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="1111,346,1188,372"/>
-<area shape="rect" id="node11" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="872,396,935,423"/>
-<area shape="rect" id="node13" href="$da/dc9/posix_2cdev__platform_8cpp.html#ae90495d7ed25116c6e19cd9163d8ed02" title="px4_open" alt="" coords="1110,396,1189,423"/>
-<area shape="rect" id="node25" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a7336a604030727e3cc608a7771803cc2" title="TERARANGER::ioctl" alt="" coords="1075,574,1223,600"/>
-<area shape="rect" id="node29" href="$da/dc9/posix_2cdev__platform_8cpp.html#a050ecef08105582119cf1adf517a9c06" title="px4_close" alt="" coords="1109,498,1190,524"/>
-<area shape="rect" id="node14" href="$db/d23/classdevice_1_1_v_file.html#a4d78fe75720f556099ae1d7fb6d8a411" title="device::VFile::createFile" alt="" coords="1313,127,1475,154"/>
-<area shape="rect" id="node16" href="$d6/dfb/stubs__posix_8c.html#a12809c44718c21544ceb280dc1a53573" title="pthread_mutex_lock" alt="" coords="1807,178,1946,204"/>
-<area shape="rect" id="node17" href="$d6/dfb/stubs__posix_8c.html#a96184290ffb60e04c53a52869cf960a2" title="pthread_mutex_unlock" alt="" coords="1800,279,1953,306"/>
-<area shape="rect" id="node19" href="$da/dc9/posix_2cdev__platform_8cpp.html#a7297cb261d3e818a0cdc23ccdc7a1251" title="getDev" alt="" coords="1609,178,1673,204"/>
-<area shape="rect" id="node20" href="$db/dcf/classdevice_1_1_c_dev.html#a398ee881e4eb691f7622e8f2e6da7863" title="Handle an open of the device. " alt="" coords="1325,396,1463,423"/>
-<area shape="rect" id="node24" href="$d6/dfb/stubs__posix_8c.html#a4c4f5f3b4f8f45d9d897847d53b11aaa" title="pthread_self" alt="" coords="1347,228,1441,255"/>
-<area shape="rect" id="node15" href="$da/dc9/posix_2cdev__platform_8cpp.html#a4c69ea88a27571245bd4dc9c06a3d18b" title="register_driver" alt="" coords="1589,127,1693,154"/>
-<area shape="rect" id="node18" href="$db/d23/classdevice_1_1_v_file.html#aace17999d47eb6b7553472a61bf71490" title="device::VFile::VFile" alt="" coords="1573,76,1709,103"/>
-<area shape="rect" id="node21" href="$db/dcf/classdevice_1_1_c_dev.html#a532f13f26f056bd17931efe7db10260e" title="Take the driver lock. " alt="" coords="1573,447,1708,474"/>
-<area shape="rect" id="node22" href="$db/dcf/classdevice_1_1_c_dev.html#a7a6a99908a6b433e554ad9cb532f30da" title="Notification of the first open. " alt="" coords="1571,330,1710,372"/>
-<area shape="rect" id="node23" href="$db/dcf/classdevice_1_1_c_dev.html#af34c341f89cc744e2f327ec01ed5e4dd" title="Release the driver lock. " alt="" coords="1567,396,1715,423"/>
-<area shape="rect" id="node26" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a7a96d3ac7d0ce8e8a0e56f0b42ae8aac" title="Initialise the automatic measurement state machine and start it. " alt="" coords="1319,650,1469,676"/>
-<area shape="rect" id="node28" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a82bff112645e05833630b6027d5ee4ec" title="Stop the automatic measurement state machine. " alt="" coords="1319,599,1469,626"/>
-<area shape="rect" id="node27" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#ac86628f358c37ead91cd46556b25bfd2" title="Static trampoline from the workq context; because we don&#39;t have a generic workq wrapper yet..." alt="" coords="1529,650,1752,676"/>
-<area shape="rect" id="node30" href="$db/dcf/classdevice_1_1_c_dev.html#aa4b6921cbd58b12e005fa5656f0fe546" title="Handle a close of the device. " alt="" coords="1323,447,1465,474"/>
-<area shape="rect" id="node32" href="$da/dc9/posix_2cdev__platform_8cpp.html#a06fbe4d696a8fc67079810478882f8b9" title="get_vdev" alt="" coords="1603,548,1678,575"/>
-<area shape="rect" id="node31" href="$db/dcf/classdevice_1_1_c_dev.html#aa941581fcab66cff1a3403233e5569ad" title="Notification of the last close. " alt="" coords="1556,498,1725,524"/>
-<area shape="rect" id="node35" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#aa9810b6d6a353455c270959374df3521" title="TERARANGER::TERARANGER" alt="" coords="1040,700,1259,727"/>
-<area shape="rect" id="node36" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#aa786894e092d97d92c1bbcabd594ccf0" title="TERARANGER::init" alt="" coords="1079,878,1220,904"/>
-<area shape="rect" id="node37" href="$d9/d1e/namespacelis3mdl.html#af7304d396b9385f9dfe55796aa805025" title="Initializes the driver – sets defaults and starts a cycle. " alt="" coords="1350,852,1438,879"/>
-<area shape="rect" id="node39" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#a5279da45b562d0dd9264f786aac49624" title="TERARANGER::measure" alt="" coords="1307,802,1481,828"/>
-<area shape="rect" id="node40" href="$d9/d97/u_o_r_b_8cpp.html#aece229410c185a7b9285ef206659dbdc" title="orb_advertise_multi" alt="" coords="1327,903,1461,930"/>
-<area shape="rect" id="node41" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="1351,954,1437,980"/>
-<area shape="rect" id="node42" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="1353,1004,1435,1031"/>
-<area shape="rect" id="node38" href="$dc/d5d/namespacebmp280.html#ada27253111a67d74f9740385dc8937bb" title="find a bus structure for a busid " alt="" coords="1578,852,1703,879"/>
-<area shape="rect" id="node46" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#ab1814c7317d7a8716be9ec3157b766fc" title="TERARANGER::read" alt="" coords="1075,650,1224,676"/>
-<area shape="rect" id="node47" href="$d3/d99/class_t_e_r_a_r_a_n_g_e_r.html#abe294b0787a8af5750b9a385070a18b7" title="TERARANGER::collect" alt="" coords="1313,751,1475,778"/>
-<area shape="rect" id="node48" href="$d6/dfb/stubs__posix_8c.html#ac0383719bafa9b5b2aa25fabc586bd1f" title="usleep" alt="" coords="1364,700,1424,727"/>
+<area shape="rect" id="node2" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#ad147d19ae5d244f04056457218cdf8b9" title="px4::bst::BST::crc8" alt="" coords="199,5,335,32"/>
+<area shape="rect" id="node3" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a4b98db7852f57caf3c2c88ff74fe2ec7" title="px4::bst::BST::send\l_packet" alt="" coords="198,57,337,98"/>
+<area shape="rect" id="node5" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#aca3dd8180b35c8447fe29a4e8deb45c3" title="Byte swap unsigned short. " alt="" coords="196,122,339,163"/>
+<area shape="rect" id="node6" href="$d3/d49/classpx4_1_1bst_1_1_b_s_t.html#a5b6d14ca7b338ea12ce570d2e7553c66" title="Byte swap unsigned int. " alt="" coords="196,187,339,229"/>
+<area shape="rect" id="node4" href="$d7/db0/teraranger_8cpp.html#adfca4aaacc388b67c87559babec7bbb7" title="crc8" alt="" coords="387,64,433,91"/>
 </map>

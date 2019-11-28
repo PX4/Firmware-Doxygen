@@ -1,10 +1,8 @@
 <map id="lps25h::lps25h_bus_option" name="lps25h::lps25h_bus_option">
-<area shape="rect" id="node2" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="427,329,560,597"/>
-<area shape="rect" id="node6" href="$db/dcf/classdevice_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="273,660,455,1075"/>
-<area shape="rect" id="node3" href="$df/d98/uniondevice_1_1_device_1_1_device_id.html" title="{device::Device::DeviceId\n|+ devid\l|}" alt="" coords="409,189,578,267"/>
-<area shape="rect" id="node4" href="$d6/d48/structdevice_1_1_device_1_1_device_structure.html" title="{device::Device::DeviceStructure\n|+ bus_type\l+ bus\l+ address\l+ devtype\l|}" alt="" coords="388,5,599,127"/>
-<area shape="rect" id="node5" href="$dc/d03/class_l_p_s25_h.html" title="{LPS25H\n|# _interface\l&#45; _work\l&#45; _measure_ticks\l&#45; _reports\l&#45; _collect_phase\l&#45; _baro_topic\l&#45; _orb_class_instance\l&#45; _class_instance\l|+ LPS25H()\l+ ~LPS25H()\l+ init()\l+ read()\l+ ioctl()\l+ print_info()\l&#45; start()\l&#45; stop()\l&#45; reset()\l&#45; cycle()\l&#45; write_reg()\l&#45; read_reg()\land 4 more...\l&#45; cycle_trampoline()\l}" alt="" coords="179,1152,328,1523"/>
-<area shape="rect" id="node7" href="$dc/d06/structdevice_1_1file__operations.html" title="{device::file_operations\n|+ op\l|}" alt="" coords="251,425,403,502"/>
-<area shape="rect" id="node8" href="$d8/dfe/structsensor__baro__s.html" title="{sensor_baro_s\n|+ timestamp\l+ error_count\l+ device_id\l+ pressure\l+ temperature\l+ _padding0\l|}" alt="" coords="5,792,112,943"/>
-<area shape="rect" id="node9" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="136,814,248,921"/>
+<area shape="rect" id="node2" href="$dd/dd3/classdevice_1_1_device.html" title="Fundamental base class for all physical drivers (I2C, SPI). " alt="" coords="5,204,177,457"/>
+<area shape="rect" id="node3" href="$dc/d03/class_l_p_s25_h.html" title="{LPS25H\n|&#45; _measure_interval\l&#45; _reports\l&#45; _collect_phase\l&#45; _baro_topic\l&#45; _orb_class_instance\l&#45; _class_instance\l|+ LPS25H()\l+ ~LPS25H()\l+ init()\l+ read()\l+ ioctl()\l+ print_info()\l&#45; start()\l&#45; stop()\l&#45; reset()\l&#45; Run()\l&#45; write_reg()\l&#45; read_reg()\land 4 more...\l}" alt="" coords="370,593,519,920"/>
+<area shape="rect" id="node4" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="201,145,384,516"/>
+<area shape="rect" id="node5" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="221,5,364,83"/>
+<area shape="rect" id="node7" href="$d8/dfe/structsensor__baro__s.html" title="{sensor_baro_s\n|+ timestamp\l+ error_count\l+ device_id\l+ pressure\l+ temperature\l+ _padding0\l|}" alt="" coords="573,255,679,406"/>
+<area shape="rect" id="node8" href="$d2/db8/structperf__ctr__header.html" title="Header common to all counters. " alt="" coords="703,277,815,384"/>
 </map>

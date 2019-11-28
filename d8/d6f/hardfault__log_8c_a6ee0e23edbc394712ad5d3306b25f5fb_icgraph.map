@@ -1,12 +1,11 @@
 <map id="identify" name="identify">
-<area shape="rect" id="node2" href="$d8/d6f/hardfault__log_8c.html#a5182d3830c2877d968bd3d63381212da" title="Append hardfault data to the stored ULog file (the log path is stored in BBSRAM). ..." alt="" coords="297,5,468,32"/>
-<area shape="rect" id="node3" href="$d8/d6f/hardfault__log_8c.html#a2de999924e08249feceb1702b90a70f8" title="hardfault_commit" alt="" coords="523,107,645,133"/>
-<area shape="rect" id="node5" href="$d8/d6f/hardfault__log_8c.html#a23afbf9773670baa5c9c8f19d33b5f1a" title="hardfault_check_status" alt="" coords="304,309,461,336"/>
-<area shape="rect" id="node7" href="$d8/d6f/hardfault__log_8c.html#af409f6f50ee6b6c0164b89d6cdf9997e" title="hardfault_dowrite" alt="" coords="123,208,244,235"/>
-<area shape="rect" id="node8" href="$d8/d6f/hardfault__log_8c.html#ac27fa69cb6ae9e22b27bb385add96250" title="hardfault_write" alt="" coords="329,157,436,184"/>
-<area shape="rect" id="node9" href="$d8/d6f/hardfault__log_8c.html#a5961b7d0d02e18725970b1767fb2bcba" title="hardfault_get_desc" alt="" coords="117,157,249,184"/>
-<area shape="rect" id="node10" href="$d8/d6f/hardfault__log_8c.html#a1a10910e0d5dabe97f8a4f93e526693c" title="hardfault_increment\l_reboot" alt="" coords="315,361,451,402"/>
-<area shape="rect" id="node11" href="$d8/d6f/hardfault__log_8c.html#abf9911c37b137dd0001897bc806c9dbc" title="hardfault_rearm" alt="" coords="127,259,239,285"/>
-<area shape="rect" id="node4" href="$d8/d6f/hardfault__log_8c.html#a593d493e312cd26a87ebb155512e4360" title="hardfault_log_main" alt="" coords="700,259,831,285"/>
-<area shape="rect" id="node6" href="$d2/d86/aerofc-v1_2init_8c.html#a35fd896ef77476c3e4c29c349c0ae39d" title="board_app_initialize" alt="" coords="516,259,652,285"/>
+<area shape="rect" id="node2" href="$d8/d6f/hardfault__log_8c.html#a5182d3830c2877d968bd3d63381212da" title="Append hardfault data to the stored ULog file (the log path is stored in BBSRAM). ..." alt="" coords="297,31,468,57"/>
+<area shape="rect" id="node3" href="$d8/d6f/hardfault__log_8c.html#a2de999924e08249feceb1702b90a70f8" title="hardfault_commit" alt="" coords="523,105,645,132"/>
+<area shape="rect" id="node5" href="$d8/d6f/hardfault__log_8c.html#a23afbf9773670baa5c9c8f19d33b5f1a" title="hardfault_check_status" alt="" coords="304,207,461,233"/>
+<area shape="rect" id="node6" href="$d8/d6f/hardfault__log_8c.html#af409f6f50ee6b6c0164b89d6cdf9997e" title="hardfault_dowrite" alt="" coords="123,108,244,135"/>
+<area shape="rect" id="node7" href="$d8/d6f/hardfault__log_8c.html#ac27fa69cb6ae9e22b27bb385add96250" title="hardfault_write" alt="" coords="329,105,436,132"/>
+<area shape="rect" id="node8" href="$d8/d6f/hardfault__log_8c.html#a5961b7d0d02e18725970b1767fb2bcba" title="hardfault_get_desc" alt="" coords="117,159,249,185"/>
+<area shape="rect" id="node9" href="$d8/d6f/hardfault__log_8c.html#a1a10910e0d5dabe97f8a4f93e526693c" title="hardfault_increment\l_reboot" alt="" coords="516,309,652,350"/>
+<area shape="rect" id="node10" href="$d8/d6f/hardfault__log_8c.html#abf9911c37b137dd0001897bc806c9dbc" title="hardfault_rearm" alt="" coords="127,209,239,236"/>
+<area shape="rect" id="node4" href="$d8/d6f/hardfault__log_8c.html#a593d493e312cd26a87ebb155512e4360" title="hardfault_log_main" alt="" coords="700,232,831,259"/>
 </map>

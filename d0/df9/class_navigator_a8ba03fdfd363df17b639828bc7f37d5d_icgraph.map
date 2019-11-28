@@ -1,6 +1,8 @@
 <map id="Navigator::get_vroi" name="Navigator::get_vroi">
 <area shape="rect" id="node2" href="$db/dad/class_mission.html#ad8efa954967af11e3183bc0af6d52eca" title="Updates the heading of the vehicle. " alt="" coords="185,5,327,47"/>
-<area shape="rect" id="node5" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="382,71,513,98"/>
-<area shape="rect" id="node3" href="$db/dad/class_mission.html#a66faf42bbcad511839c305a80893ee38" title="Mission::get_mission\l_waypoints_changed" alt="" coords="375,5,520,47"/>
-<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a3017930bf9ef9f3d6ead0a79989e4086" title="Navigator::run" alt="" coords="568,13,672,39"/>
+<area shape="rect" id="node7" href="$db/dad/class_mission.html#a14c34cbf0575ae27e9f016b1e038b8e8" title="This function is called while the mode is active. " alt="" coords="391,67,521,94"/>
+<area shape="rect" id="node3" href="$db/dad/class_mission.html#a33116a4afecc113b67d233f14de287ff" title="Mission::get_landing_alt" alt="" coords="375,13,537,39"/>
+<area shape="rect" id="node4" href="$d0/df9/class_navigator.html#a8e3be5708b076504322f33b7ef49f8a6" title="Navigator::get_mission\l_landing_alt" alt="" coords="585,5,741,47"/>
+<area shape="rect" id="node5" href="$d8/d7e/class_r_t_l.html#afa1df82479ac4da9c9d4f3d14798de22" title="RTL::find_RTL_destination" alt="" coords="789,13,968,39"/>
+<area shape="rect" id="node6" href="$d8/d7e/class_r_t_l.html#a70662870a113a01441428953874548e2" title="This function is called while the mode is inactive. " alt="" coords="1016,13,1137,39"/>
 </map>

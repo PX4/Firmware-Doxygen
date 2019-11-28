@@ -1,32 +1,10 @@
 <map id="circuit_breaker_enabled" name="circuit_breaker_enabled">
-<area shape="rect" id="node2" href="$d4/df0/class_tone_alarm.html#af8798dde809dba04968d935c81cc0dda" title="ToneAlarm::frequency\l_to_divisor" alt="" coords="925,495,1075,537"/>
-<area shape="rect" id="node3" href="$da/d73/_commander_8cpp.html#a55e27eff85d06cb0126947a279414da3" title="get_circuit_breaker\l_params" alt="" coords="233,41,365,82"/>
-<area shape="rect" id="node5" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="255,265,342,292"/>
-<area shape="rect" id="node7" href="$df/d64/class_p_x4_f_m_u.html#a72c4d0fb34c593ee5b21b97be6f14d84" title="Initialise the driver and make it ready for use. " alt="" coords="248,149,349,176"/>
-<area shape="rect" id="node18" href="$d9/d0c/class_multicopter_attitude_control.html#a72315657f11582aefd1777046ee6b036" title="initialize some vectors/matrices from parameters " alt="" coords="212,349,385,390"/>
-<area shape="rect" id="node23" href="$d4/df0/class_tone_alarm.html#affc8d802084b0d7595e70427da42f345" title="ToneAlarm::start_note" alt="" coords="223,481,374,508"/>
-<area shape="rect" id="node31" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="234,532,363,559"/>
-<area shape="rect" id="node4" href="$d3/dc6/class_commander.html#a86abaf98d17aeacd9aef07a0a9a6fb9a" title="Commander::run" alt="" coords="465,5,584,32"/>
-<area shape="rect" id="node6" href="$d1/dde/class_p_x4_i_o.html#a99c74f789dc80ee9a7affdd823bae5b7" title="Initialize the PX4IO class. " alt="" coords="481,248,568,275"/>
-<area shape="rect" id="node8" href="$df/d64/class_p_x4_f_m_u.html#ac9da4f8ca94a6a8dd1944fa60cd94c39" title="PX4FMU::cycle_trampoline" alt="" coords="433,149,616,176"/>
-<area shape="rect" id="node11" href="$df/d64/class_p_x4_f_m_u.html#a00f750c72c6cc1f0bd156b5de4d9fac9" title="PX4FMU::run" alt="" coords="1157,81,1260,108"/>
-<area shape="rect" id="node9" href="$df/d64/class_p_x4_f_m_u.html#a5b136c43e6ad85e8018a6202cf2a1d91" title="PX4FMU::arm_nothrottle" alt="" coords="680,181,847,208"/>
-<area shape="rect" id="node10" href="$df/d64/class_p_x4_f_m_u.html#a43ad674cda8424c0e73eef495a49e88c" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="943,107,1057,133"/>
-<area shape="rect" id="node17" href="$df/d64/class_p_x4_f_m_u.html#a622e54b376f05bfd26ec16cbbe2889bf" title="PX4FMU::task_spawn" alt="" coords="1497,259,1652,285"/>
-<area shape="rect" id="node12" href="$df/d64/class_p_x4_f_m_u.html#a8356cf6dbd154120ecef8b3a9c096f10" title="PX4FMU::control_callback" alt="" coords="911,208,1089,235"/>
-<area shape="rect" id="node13" href="$df/d64/class_p_x4_f_m_u.html#a752977b081b3aaff1e3b7bbc045f92da" title="PX4FMU::pwm_ioctl" alt="" coords="1137,208,1280,235"/>
-<area shape="rect" id="node14" href="$df/d64/class_p_x4_f_m_u.html#a6c7f1f9ce2ff2750102a5e1f2fa9d567" title="PX4FMU::ioctl" alt="" coords="1335,208,1443,235"/>
-<area shape="rect" id="node15" href="$df/d64/class_p_x4_f_m_u.html#a6df04f77bccef2ecc99e3b0fe63da5fc" title="PX4FMU::test" alt="" coords="1521,208,1628,235"/>
-<area shape="rect" id="node16" href="$df/d64/class_p_x4_f_m_u.html#a2be5e5695b54ad07a8e905b64992a46d" title="PX4FMU::custom_command" alt="" coords="1700,233,1891,260"/>
-<area shape="rect" id="node19" href="$d9/d0c/class_multicopter_attitude_control.html#ae4d5bc070557f794173355cb3e3257ba" title="MulticopterAttitudeControl\l::MulticopterAttitudeControl" alt="" coords="434,299,615,341"/>
-<area shape="rect" id="node21" href="$d9/d0c/class_multicopter_attitude_control.html#aeba8d9dfe82837dcce7cf06a9c8166e8" title="MulticopterAttitudeControl\l::parameter_update_poll" alt="" coords="438,365,611,406"/>
-<area shape="rect" id="node20" href="$d9/d0c/class_multicopter_attitude_control.html#a58525c619a2b60b31cfaf3e63efd0459" title="MulticopterAttitudeControl\l::instantiate" alt="" coords="677,310,850,351"/>
-<area shape="rect" id="node22" href="$d9/d0c/class_multicopter_attitude_control.html#a2d1865d38412d5e9a886fea8dc4cb527" title="MulticopterAttitudeControl::run" alt="" coords="664,376,863,403"/>
-<area shape="rect" id="node24" href="$d4/df0/class_tone_alarm.html#af526872d49f6a9d3164bb8e123236b01" title="ToneAlarm::next_note" alt="" coords="449,608,600,635"/>
-<area shape="rect" id="node29" href="$db/d7e/platforms_2posix_2drivers_2tonealrmsim_2tone__alarm_8cpp.html#a9880ab653f080790aa011b9fdd51b0a2" title="do_something" alt="" coords="1157,687,1260,713"/>
-<area shape="rect" id="node25" href="$d4/df0/class_tone_alarm.html#addf61ec3d0d5c438d3b4eb6f787f76c9" title="ToneAlarm::next_trampoline" alt="" coords="671,633,856,660"/>
-<area shape="rect" id="node26" href="$d4/df0/class_tone_alarm.html#a3a8c115d44be141094ee943ff79bf675" title="ToneAlarm::start_tune" alt="" coords="925,572,1075,599"/>
-<area shape="rect" id="node30" href="$d4/df0/class_tone_alarm.html#ae67b3e93527a00f2634dc9b5d05b66b8" title="ToneAlarm::~ToneAlarm" alt="" coords="918,673,1082,700"/>
-<area shape="rect" id="node27" href="$d4/df0/class_tone_alarm.html#a62402e05d485a152d87668462db90c48" title="ToneAlarm::ioctl" alt="" coords="1150,547,1267,573"/>
-<area shape="rect" id="node28" href="$d4/df0/class_tone_alarm.html#a8acb4b6e35fa114add58f914da418300" title="ToneAlarm::write" alt="" coords="1328,572,1449,599"/>
+<area shape="rect" id="node2" href="$d1/dde/class_p_x4_i_o.html#a338d407c284b7a0b46047f0eb34f1fef" title="Initialize the PX4IO class. " alt="" coords="244,5,331,32"/>
+<area shape="rect" id="node4" href="$d4/df0/class_tone_alarm.html#af24027cd453cf0838612a621650c9669" title="Starts playing the note. " alt="" coords="212,56,363,83"/>
+<area shape="rect" id="node7" href="$d1/dde/class_p_x4_i_o.html#a84adaa85620a9c70188b7456f99c33d1" title="worker task " alt="" coords="223,107,352,133"/>
+<area shape="rect" id="node8" href="$df/d84/class_safety_button.html#a5716ad394c7633ee564ba690328af92a" title="SafetyButton::task\l_spawn" alt="" coords="222,158,353,199"/>
+<area shape="rect" id="node3" href="$d1/dde/class_p_x4_i_o.html#a651d72264b62237f7f4bbc9462c4d4ac" title="Initialize the PX4IO class. " alt="" coords="459,5,545,32"/>
+<area shape="rect" id="node5" href="$d4/df0/class_tone_alarm.html#af526872d49f6a9d3164bb8e123236b01" title="Parses the next note out of the string and plays it. " alt="" coords="427,56,577,83"/>
+<area shape="rect" id="node6" href="$d4/df0/class_tone_alarm.html#aded6bd705fe403ed9724bf7fcfc2f587" title="Trampoline for the work queue. " alt="" coords="641,56,759,83"/>
+<area shape="rect" id="node9" href="$df/d84/class_safety_button.html#a7f0f74fec3b0e5bcf68d32cadd1fe8d8" title="SafetyButton::SafetyButton" alt="" coords="411,165,593,192"/>
 </map>

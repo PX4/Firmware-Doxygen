@@ -1,0 +1,28 @@
+<map id="LSM303D::init" name="LSM303D::init">
+<area shape="rect" id="node2" href="$dc/d43/namespace_tone_alarm_interface.html#a565a70f50ef50ec7d7d20351f32b9625" title="Activates/configures the hardware registers. " alt="" coords="159,255,295,297"/>
+<area shape="rect" id="node3" href="$d6/dd5/class_l_s_m303_d.html#a5f1f4db34131f350507192dbe4dd46b2" title="LSM303D::reset" alt="" coords="168,321,285,348"/>
+<area shape="rect" id="node26" href="$d6/dd5/class_l_s_m303_d.html#a90993a1bfd5a7d396989ff88d75db82d" title="LSM303D::start" alt="" coords="169,423,284,449"/>
+<area shape="rect" id="node4" href="$d6/dd5/class_l_s_m303_d.html#a312b66c90c9134bf7421cd430d23b9e0" title="disable I2C on the chip " alt="" coords="602,455,755,481"/>
+<area shape="rect" id="node7" href="$d6/dd5/class_l_s_m303_d.html#ae01c393885c97b626a1b1bdb66057b86" title="Write a register in the LSM303D, updating _checked_values. " alt="" coords="813,353,1010,380"/>
+<area shape="rect" id="node8" href="$d6/dd5/class_l_s_m303_d.html#a6b43adb7eb7739c63f278d291b7f481b" title="Set the LSM303D accel measurement range. " alt="" coords="375,142,519,183"/>
+<area shape="rect" id="node15" href="$d6/dd5/class_l_s_m303_d.html#a171677a1939ed7c4d73be3e8be59a01f" title="Set the LSM303D internal accel sampling frequency. " alt="" coords="375,207,519,249"/>
+<area shape="rect" id="node22" href="$d6/dd5/class_l_s_m303_d.html#ab8f45a014207b3e5afad605ba5e0b89b" title="Set the LSM303D on&#45;chip anti&#45;alias filter bandwith. " alt="" coords="370,273,525,329"/>
+<area shape="rect" id="node23" href="$d6/dd5/class_l_s_m303_d.html#ae00d2da66e47872a89bcfbbe2612f6e3" title="Set the LSM303D mag measurement range. " alt="" coords="359,68,536,95"/>
+<area shape="rect" id="node25" href="$d6/dd5/class_l_s_m303_d.html#a07c0af476f2b847a25282eef1b6a0f8d" title="Set the LSM303D internal mag sampling frequency. " alt="" coords="343,353,552,380"/>
+<area shape="rect" id="node5" href="$d6/dd5/class_l_s_m303_d.html#a5dc0b5d0de4a3ef9ccdf79326cc5b416" title="Read a register from the LSM303D. " alt="" coords="842,404,981,431"/>
+<area shape="rect" id="node6" href="$d6/dd5/class_l_s_m303_d.html#a8b8e71c3287211a03712a1be26fc2f09" title="Write a register in the LSM303D. " alt="" coords="1097,404,1239,431"/>
+<area shape="rect" id="node9" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1149,171,1187,197"/>
+<area shape="rect" id="node12" href="$d6/dd5/class_l_s_m303_d.html#a94d120e35d1ccfe5917a58ba03572138" title="Modify a register in the LSM303D. " alt="" coords="603,288,755,315"/>
+<area shape="rect" id="node13" href="$db/def/class_p_x4_accelerometer.html#a13af2eac41b4baaf5b0238e2b2a3891c" title="PX4Accelerometer::set\l_scale" alt="" coords="600,105,757,146"/>
+<area shape="rect" id="node10" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1380,171,1463,197"/>
+<area shape="rect" id="node11" href="$d0/de4/namespacematrix.html#a2e09123c750ed3a0315a31f3b27a3ed9" title="matrix::cos" alt="" coords="1572,171,1659,197"/>
+<area shape="rect" id="node14" href="$de/d84/classu_o_r_b_1_1_publication_multi_data.html#ad34053c0417701f6951d21e5b6618b34" title="uORB::PublicationMultiData::get" alt="" coords="805,79,1017,105"/>
+<area shape="rect" id="node16" href="$db/def/class_p_x4_accelerometer.html#aee383c85338f3b950515f72892bf93af" title="PX4Accelerometer::set\l_sample_rate" alt="" coords="600,222,757,263"/>
+<area shape="rect" id="node17" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ab4843feee1dc19dbb68a28220c69533d" title="math::LowPassFilter2pVector3f\l::set_cutoff_frequency" alt="" coords="809,222,1014,263"/>
+<area shape="rect" id="node19" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#ac586a1dbb0bda72b081c296326746d0b" title="math::LowPassFilter2pVector3f\l::get_cutoff_freq" alt="" coords="809,287,1014,329"/>
+<area shape="rect" id="node18" href="$dd/df8/classmatrix_1_1_matrix.html#ad8721eb35f3ba841530be24984f75d8f" title="matrix::Matrix::zero" alt="" coords="1101,229,1235,256"/>
+<area shape="rect" id="node20" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a95c2514501357aced2d8c1b5282bc710" title="math::LowPassFilter2pVector3f\l::reset" alt="" coords="1065,287,1271,329"/>
+<area shape="rect" id="node21" href="$d0/d30/classmath_1_1_low_pass_filter2p_vector3f.html#a3a354392866066751ae5d5e318d563a5" title="Add a new raw value to the filter. " alt="" coords="1319,287,1524,329"/>
+<area shape="rect" id="node24" href="$df/d71/class_p_x4_magnetometer.html#ad2f1706b978f073b10d14815e501134e" title="PX4Magnetometer::set\l_scale" alt="" coords="601,39,757,81"/>
+<area shape="rect" id="node27" href="$d6/dd5/class_l_s_m303_d.html#a7517d7fd402d1d94baf02a9c35ba3a94" title="LSM303D::stop" alt="" coords="391,505,504,532"/>
+</map>

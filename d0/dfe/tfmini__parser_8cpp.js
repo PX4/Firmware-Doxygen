@@ -1,4 +1,4 @@
 var tfmini__parser_8cpp =
 [
-    [ "tfmini_parser", "d0/dfe/tfmini__parser_8cpp.html#a6021b0fd88732a6bbff403f7034f1e73", null ]
+    [ "tfmini_parse", "d0/dfe/tfmini__parser_8cpp.html#a6ebd991d9c68594b37c15760f1a9f361", null ]
 ];

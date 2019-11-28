@@ -1,9 +1,10 @@
 <map id="crsf_parse" name="crsf_parse">
-<area shape="rect" id="node2" href="$d5/d45/class_r_c_test.html#ad92adf914cbd3859baa03e0796030fb1" title="RCTest::crsfTest" alt="" coords="136,5,260,32"/>
-<area shape="rect" id="node4" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="143,56,253,83"/>
-<area shape="rect" id="node3" href="$d5/d45/class_r_c_test.html#a24dc132b139993401308a4876b9b1afa" title="Override to run your unit tests. " alt="" coords="331,5,462,32"/>
-<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="308,56,485,83"/>
-<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="348,107,445,133"/>
-<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="533,56,683,83"/>
-<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="731,56,917,83"/>
+<area shape="rect" id="node2" href="$d5/d45/class_r_c_test.html#ad92adf914cbd3859baa03e0796030fb1" title="RCTest::crsfTest" alt="" coords="136,31,260,57"/>
+<area shape="rect" id="node4" href="$d4/d39/class_r_c_input.html#ace64f958902ab60b6bd9b8aea6060bd0" title="run the main loop: if running as task, continuously iterate, otherwise execute only one single cycle ..." alt="" coords="143,107,253,133"/>
+<area shape="rect" id="node3" href="$d5/d45/class_r_c_test.html#a152bfd2274a3e8e6472df1602d142ba3" title="Override to run your unit tests. " alt="" coords="343,5,474,32"/>
+<area shape="rect" id="node5" href="$d4/d39/class_r_c_input.html#aa0f747b469407c03b13fa0b70876b328" title="RCInput::cycle_trampoline_init" alt="" coords="308,56,509,83"/>
+<area shape="rect" id="node8" href="$d4/d39/class_r_c_input.html#a89e6d02e7210697d094f3f83a1e2bffa" title="RCInput::cycle_trampoline" alt="" coords="320,107,497,133"/>
+<area shape="rect" id="node9" href="$d4/d39/class_r_c_input.html#aae629b209df03bdf98055a0f934a740b" title="RCInput::run" alt="" coords="360,157,457,184"/>
+<area shape="rect" id="node6" href="$d4/d39/class_r_c_input.html#a00568f58bcad02fe2f6b0aec25b66d85" title="RCInput::task_spawn" alt="" coords="557,56,707,83"/>
+<area shape="rect" id="node7" href="$d4/d39/class_r_c_input.html#a94fd258efbf564c226e844922ca51c4d" title="RCInput::custom_command" alt="" coords="755,56,941,83"/>
 </map>

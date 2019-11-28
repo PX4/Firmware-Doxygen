@@ -1,0 +1,51 @@
+<map id="MulticopterPositionControl::task_spawn" name="MulticopterPositionControl::task_spawn">
+<area shape="rect" id="node2" href="$dd/d4e/class_multicopter_position_control.html#a47d5382dd52f7d47aa413d701f07530f" title="MulticopterPositionControl\l::init" alt="" coords="461,376,636,418"/>
+<area shape="rect" id="node25" href="$dd/d4e/class_multicopter_position_control.html#aae649eb7638f47f245a7b27889743eee" title="MulticopterPositionControl\l::MulticopterPositionControl" alt="" coords="228,886,411,927"/>
+<area shape="rect" id="node3" href="$d6/d10/drv__hrt_8h.html#a1450e339b7c5b8d47656500167a6676d" title="Get absolute time in [us] (does not wrap). " alt="" coords="724,292,849,318"/>
+<area shape="rect" id="node4" href="$df/dfa/classu_o_r_b_1_1_subscription_callback.html#a1c8b2b68441e61d7c460efe94617b3c4" title="uORB::SubscriptionCallback\l::registerCallback" alt="" coords="692,343,881,384"/>
+<area shape="rect" id="node24" href="$d9/d52/classu_o_r_b_1_1_subscription_interval.html#a53018b44bb431a80d47ac95327990b2a" title="Set the interval in microseconds. " alt="" coords="696,408,877,450"/>
+<area shape="rect" id="node5" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acfefc1961589348321e83851139512ce" title="uORB::Subscription\l::get_node" alt="" coords="964,539,1103,580"/>
+<area shape="rect" id="node7" href="$d0/d65/classu_o_r_b_1_1_subscription.html#acb0fbd4b56d5e3c8edca15206e110223" title="uORB::Subscription\l::subscribe" alt="" coords="1395,318,1533,359"/>
+<area shape="rect" id="node16" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a402819fd9ba1c33e39389a47406b5ff7" title="uORB::DeviceNode::register\l_callback" alt="" coords="939,343,1128,384"/>
+<area shape="rect" id="node17" href="$d9/d97/u_o_r_b_8cpp.html#a2c71c73d77220ff8faf2cb8eb7509e66" title="orb_subscribe_multi" alt="" coords="964,128,1103,154"/>
+<area shape="rect" id="node20" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a447b0f0a9e4745f3dcc2bcdf2540d940" title="uORB::Subscription\l::get_topic" alt="" coords="964,408,1103,450"/>
+<area shape="rect" id="node21" href="$d0/d65/classu_o_r_b_1_1_subscription.html#ab0c5d9ec0df8e62343413302d6e97fa0" title="uORB::Subscription\l::get_instance" alt="" coords="964,474,1103,515"/>
+<area shape="rect" id="node22" href="$d9/d97/u_o_r_b_8cpp.html#a8adc3c48c1860deac8bd2a520e391837" title="orb_unsubscribe" alt="" coords="975,237,1092,264"/>
+<area shape="rect" id="node6" href="$d0/d65/classu_o_r_b_1_1_subscription.html#af22634979d2da6afada8cdd3f84a236d" title="uORB::Subscription\l::init" alt="" coords="1182,539,1321,580"/>
+<area shape="rect" id="node8" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9d829b3ea49d16d03c2fa37ef2bb24a5" title="Method to get the singleton instance for the uORB::Manager. " alt="" coords="1857,211,1999,252"/>
+<area shape="rect" id="node9" href="$d3/da9/classu_o_r_b_1_1_manager.html#a083331e24ac4f99ac11a0aab1b1681b4" title="Get the DeviceMaster. " alt="" coords="2049,211,2192,252"/>
+<area shape="rect" id="node10" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a793df66a48dcabdd0f5bd8c85beee13c" title="Public interface for getDeviceNodeLocked(). " alt="" coords="1633,62,1779,103"/>
+<area shape="rect" id="node13" href="$d0/d18/classu_o_r_b_1_1_device_node.html#abb03278ff4ddd2a50e0f2996e856f2cc" title="Add the subscriber to the node&#39;s list of subscriber. " alt="" coords="1623,230,1789,271"/>
+<area shape="rect" id="node14" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a45adbc432af16d0f7dd5b8e0b4c0cc8b" title="uORB::DeviceNode::published\l_message_count" alt="" coords="1605,658,1807,699"/>
+<area shape="rect" id="node15" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a7877236ac1912c32c2ab6ae06899392d" title="uORB::DeviceNode::get\l_queue_size" alt="" coords="1624,347,1788,388"/>
+<area shape="rect" id="node11" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a7e0c3156fdf5875a74d1ad727930a70a" title="uORB::DeviceMaster\l::lock" alt="" coords="1855,62,2001,103"/>
+<area shape="rect" id="node12" href="$dd/d9d/classu_o_r_b_1_1_device_master.html#a5b85000ee723a160ca6ea6bce730efc3" title="uORB::DeviceMaster\l::unlock" alt="" coords="1855,127,2001,168"/>
+<area shape="rect" id="node18" href="$d3/da9/classu_o_r_b_1_1_manager.html#a9a31fb71a0962db44450963559296cfe" title="Subscribe to a multi&#45;instance of a topic. " alt="" coords="1180,62,1323,103"/>
+<area shape="rect" id="node19" href="$d3/da9/classu_o_r_b_1_1_manager.html#a2199a294303a3bf2351d75738a0e2654" title="Common implementation for orb_advertise and orb_subscribe. " alt="" coords="1371,69,1557,96"/>
+<area shape="rect" id="node23" href="$d3/da9/classu_o_r_b_1_1_manager.html#a77539878280b749d79d2c16dc5628c81" title="Unsubscribe from a topic. " alt="" coords="1180,230,1323,271"/>
+<area shape="rect" id="node26" href="$dd/d4e/class_multicopter_position_control.html#a3d233d69ff0d4eb2214d0672751a8bbe" title="Update our local parameter cache. " alt="" coords="461,886,636,927"/>
+<area shape="rect" id="node50" href="$de/da3/classsystemlib_1_1_hysteresis.html#ab6beddd49f853bc44d352bff928944fa" title="systemlib::Hysteresis\l::set_hysteresis_time_from" alt="" coords="459,951,639,992"/>
+<area shape="rect" id="node27" href="$dd/d47/namespacemath.html#a4a49a65edaf29055a3cb021908a031d7" title="math::constrain" alt="" coords="731,984,843,1010"/>
+<area shape="rect" id="node28" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a17a37eb5624b409379db434400de4582" title="Copy the struct. " alt="" coords="717,918,856,959"/>
+<area shape="rect" id="node31" href="$d8/d13/class_takeoff.html#ac954cbd8c86f8582770596106e5778b0" title="Calculate a vertical velocity to initialize the takeoff ramp that when passed to the velocity control..." alt="" coords="709,1035,864,1076"/>
+<area shape="rect" id="node34" href="$dc/d0c/class_flight_tasks.html#af790ba4505548862724e41d5f25122b6" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="689,1218,885,1259"/>
+<area shape="rect" id="node37" href="$dd/d47/namespacemath.html#a0590ec5bbbdad228b5a47307af425055" title="math::min" alt="" coords="993,1160,1073,1186"/>
+<area shape="rect" id="node38" href="$d8/d5a/class_position_control.html#aaeb2d20ede9716354c579763b8aa9ad6" title="Set the maximum tilt angle in radians the output attitude is allowed to have. " alt="" coords="701,1283,873,1324"/>
+<area shape="rect" id="node39" href="$d8/d5a/class_position_control.html#a6a3026ea66ee54a4f3d5be771f9f9aed" title="Set the position control gains. " alt="" coords="695,1100,879,1142"/>
+<area shape="rect" id="node40" href="$d8/d13/class_takeoff.html#adc463f3a49179cdd54e794df1d3bb5dc" title="Takeoff::setSpoolupTime" alt="" coords="703,1349,871,1376"/>
+<area shape="rect" id="node41" href="$d8/d13/class_takeoff.html#afafdcb8ff1195c39de48b5c8c12fa774" title="Takeoff::setTakeoffRampTime" alt="" coords="687,474,887,501"/>
+<area shape="rect" id="node42" href="$d8/d5a/class_position_control.html#ab7c062a511a76ab5598eac8b15be875a" title="Set the minimum and maximum collective normalized thrust [0,1] that can be output by the controller..." alt="" coords="699,526,874,567"/>
+<area shape="rect" id="node45" href="$d8/d5a/class_position_control.html#adfd553c1bc5b2a8081573bc657c12460" title="Set the maximum tilt angle in radians the output attitude is allowed to have. " alt="" coords="709,591,864,632"/>
+<area shape="rect" id="node46" href="$d8/d5a/class_position_control.html#af134a24e50a799459b7ff1a07345fdeb" title="Set the velocity control gains. " alt="" coords="695,656,879,698"/>
+<area shape="rect" id="node47" href="$d8/d5a/class_position_control.html#a068527b56f42c8ecb0a86a253f55719b" title="Set the maximum velocity to execute with feed forward and position control. " alt="" coords="695,722,879,763"/>
+<area shape="rect" id="node48" href="$d0/d24/class_weather_vane.html#a665c45c7188e82dd19d9fd3cc7841bec" title="WeatherVane::update\l_parameters" alt="" coords="713,787,861,828"/>
+<area shape="rect" id="node49" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a788d1848a46abe88a093be9a1f7cb2ca" title="Check if there is a new update. " alt="" coords="717,852,856,894"/>
+<area shape="rect" id="node29" href="$d0/d65/classu_o_r_b_1_1_subscription.html#a9c16cd791d522e477bfafbbc09729bc2" title="uORB::Subscription\l::advertised" alt="" coords="964,794,1103,835"/>
+<area shape="rect" id="node30" href="$d0/d18/classu_o_r_b_1_1_device_node.html#a89d9a792e1e38e04c65baba20f29d780" title="Copies data and the corresponding generation from a node to the buffer provided. " alt="" coords="946,925,1121,952"/>
+<area shape="rect" id="node32" href="$dd/d47/namespacemath.html#ad42187b143e9e0e96bb14c7edcfbfef6" title="math::max" alt="" coords="991,1101,1075,1128"/>
+<area shape="rect" id="node33" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="1014,1042,1053,1069"/>
+<area shape="rect" id="node35" href="$da/dbc/class_flight_task.html#aaebc7d92ecf165895988b76b7f1381d7" title="Call this whenever a parameter update notification is received (parameter_update uORB message) ..." alt="" coords="939,1218,1128,1259"/>
+<area shape="rect" id="node36" href="$dc/d0c/class_flight_tasks.html#adc5fd990fa35885a275ac5c6b3621d78" title="Check if any task is active. " alt="" coords="935,1284,1132,1310"/>
+<area shape="rect" id="node43" href="$d0/de4/namespacematrix.html#af9fc27184dd6150db31c0e350817eb8b" title="matrix::min" alt="" coords="990,605,1077,632"/>
+<area shape="rect" id="node44" href="$d0/de4/namespacematrix.html#ab332f4ca09e497a27509ed1074219677" title="matrix::max" alt="" coords="988,656,1079,682"/>
+</map>

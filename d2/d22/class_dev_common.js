@@ -8,7 +8,7 @@ var class_dev_common =
       [ "Idle", "d2/d22/class_dev_common.html#af7b47c937da096d5fe423863519a733dae599161956d626eda4cb0a5ffb85271c", null ],
       [ "GotLength", "d2/d22/class_dev_common.html#af7b47c937da096d5fe423863519a733da6d99f76821c47d6ab2a0edb1947756b5", null ]
     ] ],
-    [ "DevCommon", "d2/d22/class_dev_common.html#a39aceebe9de0404bbd45c1c77543a342", null ],
+    [ "DevCommon", "d2/d22/class_dev_common.html#ab0ff77f29a5440662fec277d8be693ef", null ],
     [ "~DevCommon", "d2/d22/class_dev_common.html#a5b7878b31cf80f13b5d56e2afc0d9360", null ],
     [ "close", "d2/d22/class_dev_common.html#af6652cd24c36ad4e202c7edb7cfce3bb", null ],
     [ "ioctl", "d2/d22/class_dev_common.html#a054a55b4b57c78f612117e67eb8c2d11", null ],

@@ -1,3 +1,12 @@
 <map id="MavlinkULog" name="MavlinkULog">
-<area shape="rect" id="node2" href="$d3/dae/structulog__stream__s.html" title="{ulog_stream_s\n|+ timestamp\l+ sequence\l+ length\l+ first_message_offset\l+ flags\l+ data\l+ _padding0\l|}" alt="" coords="15,5,171,171"/>
+<area shape="rect" id="node2" href="$d6/d4c/classu_o_r_b_1_1_subscription_data.html" title="{uORB::SubscriptionData\l\&lt; ulog_stream_s \&gt;\n||+ SubscriptionData()\l+ SubscriptionData()\l+ SubscriptionData()\l+ ~SubscriptionData()\l+ operator=()\l+ operator=()\l+ update()\l+ get()\l}" alt="" coords="157,1405,324,1600"/>
+<area shape="rect" id="node3" href="$d0/d65/classu_o_r_b_1_1_subscription.html" title="{uORB::Subscription\n|# _last_generation\l# _instance\l|+ Subscription()\l+ ~Subscription()\l+ subscribe()\l+ unsubscribe()\l+ valid()\l+ advertised()\land 6 more...\l# get_node()\l# init()\l}" alt="" coords="115,1133,254,1343"/>
+<area shape="rect" id="node4" href="$dc/d03/structorb__metadata.html" title="Object metadata. " alt="" coords="83,270,228,391"/>
+<area shape="rect" id="node5" href="$d0/d18/classu_o_r_b_1_1_device_node.html" title="Per&#45;object device instance. " alt="" coords="274,579,413,964"/>
+<area shape="rect" id="node11" href="$d3/de9/classu_o_r_b_1_1_publication.html" title="{uORB::Publication\&lt;\l ulog_stream_ack_s \&gt;\n|# _handle\l|+ Publication()\l+ ~Publication()\l+ publish()\l}" alt="" coords="5,988,156,1109"/>
+<area shape="rect" id="node8" href="$df/db4/class_list_node.html" title="{ListNode\&lt; uORB::DeviceNode *\&gt;\n||+ setSibling()\l+ getSibling()\l}" alt="" coords="278,1192,497,1284"/>
+<area shape="rect" id="node6" href="$d8/d26/classcdev_1_1_c_dev.html" title="Abstract class for any character device. " alt="" coords="252,145,435,516"/>
+<area shape="rect" id="node7" href="$d0/dbd/structcdev_1_1file__operations.html" title="{cdev::file_operations\n|+ op\l|}" alt="" coords="272,5,415,83"/>
+<area shape="rect" id="node9" href="$d1/d34/class_list.html" title="{List\&lt; uORB::Subscription\lCallback *\&gt;\n||}" alt="" coords="459,285,630,377"/>
+<area shape="rect" id="node10" href="$d3/dae/structulog__stream__s.html" title="{ulog_stream_s\n|+ timestamp\l+ msg_sequence\l+ length\l+ first_message_offset\l+ flags\l+ data\l+ _padding0\l|}" alt="" coords="521,1155,677,1321"/>
 </map>

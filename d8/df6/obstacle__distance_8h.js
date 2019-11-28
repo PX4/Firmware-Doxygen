@@ -5,5 +5,9 @@ var obstacle__distance_8h =
     [ "OBSTACLE_DISTANCE_MAV_DISTANCE_SENSOR_LASER", "d8/df6/obstacle__distance_8h.html#ade34de0f753f3d0f821ce9d9673dc381", null ],
     [ "OBSTACLE_DISTANCE_MAV_DISTANCE_SENSOR_RADAR", "d8/df6/obstacle__distance_8h.html#a61a1e292cea97200b7d29bd1c08ba5ab", null ],
     [ "OBSTACLE_DISTANCE_MAV_DISTANCE_SENSOR_ULTRASOUND", "d8/df6/obstacle__distance_8h.html#a50dd327e86c2aaededa9d10de8d2984c", null ],
-    [ "ORB_DECLARE", "d8/df6/obstacle__distance_8h.html#aa13e1a31074bda0f997880d1cbadd963", null ]
+    [ "OBSTACLE_DISTANCE_MAV_FRAME_BODY_FRD", "d8/df6/obstacle__distance_8h.html#a04d66822f8a88a823c3f687eb6ab39d0", null ],
+    [ "OBSTACLE_DISTANCE_MAV_FRAME_GLOBAL", "d8/df6/obstacle__distance_8h.html#a3ffa7a79e3b3e929188f48119c96cf3d", null ],
+    [ "OBSTACLE_DISTANCE_MAV_FRAME_LOCAL_NED", "d8/df6/obstacle__distance_8h.html#a8d64823900abc55a0f0166009b41c5c9", null ],
+    [ "ORB_DECLARE", "d8/df6/obstacle__distance_8h.html#aa13e1a31074bda0f997880d1cbadd963", null ],
+    [ "ORB_DECLARE", "d8/df6/obstacle__distance_8h.html#a8a54b94e4e33b4fbec6f3175bfc68786", null ]
 ];

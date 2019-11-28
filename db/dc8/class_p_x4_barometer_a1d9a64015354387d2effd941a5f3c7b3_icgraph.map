@@ -1,0 +1,18 @@
+<map id="PX4Barometer::set_temperature" name="PX4Barometer::set_temperature">
+<area shape="rect" id="node2" href="$d1/daf/class_b_m_p280.html#aa459a57ffbe6ca906f53555e016ec4e7" title="BMP280::collect" alt="" coords="277,31,395,57"/>
+<area shape="rect" id="node4" href="$d8/d99/class_b_m_p388.html#aace5f9b3c6ccd60dd359030207ee9f73" title="BMP388::collect" alt="" coords="277,107,395,133"/>
+<area shape="rect" id="node10" href="$d8/db8/class_a_d_i_s16448.html#a6bf03658298f1137f5e15fa7921a5c09" title="Fetch measurements from the sensor and update the report buffers. " alt="" coords="263,157,409,184"/>
+<area shape="rect" id="node15" href="$d7/d28/class_sih.html#a2a4e25760195cdd49239c8c0704ee18d" title="Sih::send_IMU" alt="" coords="281,233,391,260"/>
+<area shape="rect" id="node3" href="$d1/daf/class_b_m_p280.html#a9304155c400e12dc655ddad52916b138" title="BMP280::Run" alt="" coords="466,5,570,32"/>
+<area shape="rect" id="node5" href="$d8/d99/class_b_m_p388.html#a79523cd8b599be033ae37a91b8071d81" title="BMP388::init" alt="" coords="469,56,567,83"/>
+<area shape="rect" id="node9" href="$d8/d99/class_b_m_p388.html#a4364f90cd6bea8332fdce65e8fa01696" title="BMP388::Run" alt="" coords="466,107,570,133"/>
+<area shape="rect" id="node6" href="$de/dda/namespacebmp388.html#a7d84c65c1993fba0ba86c5e7322009c6" title="bmp388::start_bus" alt="" coords="627,56,757,83"/>
+<area shape="rect" id="node7" href="$de/dda/namespacebmp388.html#afd40db0e6f1df961d37d65e22f48edf7" title="bmp388::start" alt="" coords="812,56,915,83"/>
+<area shape="rect" id="node8" href="$d3/d3f/bmp388__main_8cpp.html#a8dc4838b79f1388fb2de532a3899f66e" title="bmp388_main" alt="" coords="969,56,1072,83"/>
+<area shape="rect" id="node11" href="$d8/db8/class_a_d_i_s16448.html#ae5539bb23371afbb4adc88331b562174" title="ADIS16448::init" alt="" coords="461,157,575,184"/>
+<area shape="rect" id="node14" href="$d8/db8/class_a_d_i_s16448.html#a6d53becf5edb296babe5c41b777a40f2" title="Static trampoline from the hrt_call context; because we don&#39;t have a generic hrt wrapper yet..." alt="" coords="457,208,579,235"/>
+<area shape="rect" id="node12" href="$d4/dc6/namespaceadis16448.html#ae7937575dbf2a50d9409474ade733c7b" title="adis16448::start" alt="" coords="635,157,749,184"/>
+<area shape="rect" id="node13" href="$dd/d0b/adis16448__main_8cpp.html#a7325a0caca0b01043f6827796555c498" title="adis16448_main" alt="" coords="805,157,921,184"/>
+<area shape="rect" id="node16" href="$d7/d28/class_sih.html#ae9c730a3bcefba814a268e9ce715834e" title="Sih::inner_loop" alt="" coords="464,259,572,285"/>
+<area shape="rect" id="node17" href="$d7/d28/class_sih.html#a50305f3a277e16908d0866e1e3f33a1f" title="Sih::run" alt="" coords="659,259,725,285"/>
+</map>

@@ -1,7 +1,7 @@
 var class_mavlink_timesync =
 [
     [ "MavlinkTimesync", "d1/dc6/class_mavlink_timesync.html#a534062163e973af4927c8dc055a22280", null ],
-    [ "~MavlinkTimesync", "d1/dc6/class_mavlink_timesync.html#aeab813d482233c7c709604e7136d0a5a", null ],
+    [ "~MavlinkTimesync", "d1/dc6/class_mavlink_timesync.html#a55410c730c306d6e3298ec7b9151f1a0", null ],
     [ "MavlinkTimesync", "d1/dc6/class_mavlink_timesync.html#a8d0ad8a12e8eaa519c0fa4c0cebbb887", null ],
     [ "add_sample", "d1/dc6/class_mavlink_timesync.html#a80fc8d1a024c52f8890e3ad363fe80ca", null ],
     [ "handle_message", "d1/dc6/class_mavlink_timesync.html#af2c41d81e08bf1be67e7c74d33a5dc12", null ],
@@ -17,5 +17,5 @@ var class_mavlink_timesync =
     [ "_sequence", "d1/dc6/class_mavlink_timesync.html#a2a6a352036c57fbf13f7033d9cee764e", null ],
     [ "_time_offset", "d1/dc6/class_mavlink_timesync.html#a986541803e3890a37e8d1c9d8902e1b2", null ],
     [ "_time_skew", "d1/dc6/class_mavlink_timesync.html#a73d04e5d133d779f1817e03737930715", null ],
-    [ "_timesync_status_pub", "d1/dc6/class_mavlink_timesync.html#add368bd316a09252b0746d8d572b0e1f", null ]
+    [ "_timesync_status_pub", "d1/dc6/class_mavlink_timesync.html#aba8fd9d40fb9c492dda9079fd62e4463", null ]
 ];

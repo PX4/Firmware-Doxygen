@@ -1,7 +1,11 @@
 var irlock_8cpp =
 [
+    [ "irlock_target_s", "d8/d66/structirlock__target__s.html", "d8/d66/structirlock__target__s" ],
+    [ "irlock_s", "d4/d2d/structirlock__s.html", "d4/d2d/structirlock__s" ],
     [ "IRLOCK", "d3/d5d/class_i_r_l_o_c_k.html", "d3/d5d/class_i_r_l_o_c_k" ],
+    [ "IRLOCK0_DEVICE_PATH", "dc/d8f/irlock_8cpp.html#ae28c9d26aae13bb99d4f896915e7178b", null ],
     [ "IRLOCK_ADJUST", "dc/d8f/irlock_8cpp.html#a9f26a3354b034db6158152ed2d2760d8", null ],
+    [ "IRLOCK_BASE_DEVICE_PATH", "dc/d8f/irlock_8cpp.html#a61213b21cc5be6b9e794529a9a95d4bb", null ],
     [ "IRLOCK_CENTER_X", "dc/d8f/irlock_8cpp.html#a2122dc8e00fa8a6c4976ddd325d47f9b", null ],
     [ "IRLOCK_CENTER_Y", "dc/d8f/irlock_8cpp.html#ada3c01ca7056ef18d1c3b289bb38903a", null ],
     [ "IRLOCK_CONVERSION_INTERVAL_US", "dc/d8f/irlock_8cpp.html#a016ead2a128f4ab8cba608510fbba5f8", null ],
@@ -9,6 +13,7 @@ var irlock_8cpp =
     [ "IRLOCK_FOV_Y", "dc/d8f/irlock_8cpp.html#a2b696d08c841910a6b8195037a2f0ab3", null ],
     [ "IRLOCK_I2C_ADDRESS", "dc/d8f/irlock_8cpp.html#ad7c7d057a1e9d412a0af22e0c487b7cc", null ],
     [ "IRLOCK_I2C_BUS", "dc/d8f/irlock_8cpp.html#aa099dc906aabb596c680ef24c793d15a", null ],
+    [ "IRLOCK_OBJECTS_MAX", "dc/d8f/irlock_8cpp.html#aed2b16b5db13a416f418f6bbf54387b9", null ],
     [ "IRLOCK_RES_X", "dc/d8f/irlock_8cpp.html#a122c273740ea087472e899ffe7d636be", null ],
     [ "IRLOCK_RES_Y", "dc/d8f/irlock_8cpp.html#ab183150d9ad302ac0bdd43d077fde115", null ],
     [ "IRLOCK_RESYNC", "dc/d8f/irlock_8cpp.html#a2f7b9d0722af62d93b20bc7d91cd03f0", null ],

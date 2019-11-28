@@ -9,7 +9,7 @@ var classevents_1_1status_1_1_status_display =
     [ "_cpu_load", "d3/d55/classevents_1_1status_1_1_status_display.html#a6c1c7c015dc3626d77c64d0156b13650", null ],
     [ "_critical_battery", "d3/d55/classevents_1_1status_1_1_status_display.html#aeca2e0dc0b5f6e2cc76d92a125d0b34b", null ],
     [ "_led_control", "d3/d55/classevents_1_1status_1_1_status_display.html#a60ef0df39f08be1761bf68b53cb0e6a9", null ],
-    [ "_led_control_pub", "d3/d55/classevents_1_1status_1_1_status_display.html#ac676f4c1ae3f0c3ec5115fc0cac512ed", null ],
+    [ "_led_control_pub", "d3/d55/classevents_1_1status_1_1_status_display.html#ad97b64ae913afff1d067c70316b95630", null ],
     [ "_low_battery", "d3/d55/classevents_1_1status_1_1_status_display.html#aaba945d7550af45f999d1494dc6c30b6", null ],
     [ "_old_battery_status_warning", "d3/d55/classevents_1_1status_1_1_status_display.html#a1da102b68fabdf1c0d5bfe4b40007a64", null ],
     [ "_old_gps_lock_valid", "d3/d55/classevents_1_1status_1_1_status_display.html#a41a26d7cad9873049a6b8cdd41a1a45d", null ],

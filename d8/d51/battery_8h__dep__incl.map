@@ -1,19 +1,14 @@
 <map id="src/lib/battery/battery.h" name="src/lib/battery/battery.h">
-<area shape="rect" id="node2" href="$d4/d41/battery_8cpp.html" title="Library calls for battery functionality. " alt="" coords="570,102,741,129"/>
-<area shape="rect" id="node3" href="$d4/d34/sensors_8cpp.html" title="src/modules/sensors\l/sensors.cpp" alt="" coords="765,95,908,136"/>
-<area shape="rect" id="node4" href="$d3/d9e/simulator_8h.html" title="A device simulator. " alt="" coords="932,95,1083,136"/>
-<area shape="rect" id="node13" href="$d8/dec/syslink__main_8h.html" title="src/modules/syslink\l/syslink_main.h" alt="" coords="1331,95,1470,136"/>
-<area shape="rect" id="node17" href="$d4/dbd/df__bebop__bus__wrapper_8cpp.html" title="This is a wrapper around the Parrot Bebop bus driver of the DriverFramework. " alt="" coords="1494,80,1654,151"/>
-<area shape="rect" id="node18" href="$d0/d77/df__ltc2946__wrapper_8cpp.html" title="Driver to access the LTC2946 of the DriverFramework. " alt="" coords="1679,87,1896,143"/>
-<area shape="rect" id="node5" href="$de/d76/accelsim_8cpp.html" title="Driver for a simulated accelerometer / magnetometer. " alt="" coords="5,199,164,240"/>
-<area shape="rect" id="node6" href="$d3/dd5/airspeedsim_8cpp.html" title="src/modules/simulator\l/airspeedsim/airspeedsim.cpp" alt="" coords="189,199,383,240"/>
-<area shape="rect" id="node7" href="$dc/dba/simulator_2barosim_2baro_8cpp.html" title="src/modules/simulator\l/barosim/baro.cpp" alt="" coords="408,199,559,240"/>
-<area shape="rect" id="node8" href="$de/d29/gpssim_8cpp.html" title="Simulated GPS driver. " alt="" coords="583,199,733,240"/>
-<area shape="rect" id="node9" href="$db/d47/ubx__sim_8cpp.html" title="src/modules/simulator\l/gpssim/ubx_sim.cpp" alt="" coords="757,199,908,240"/>
-<area shape="rect" id="node10" href="$d0/d91/gyrosim_8cpp.html" title="Driver for the simulated gyro. " alt="" coords="932,199,1083,240"/>
-<area shape="rect" id="node11" href="$da/d56/simulator_8cpp.html" title="A device simulator. " alt="" coords="1107,199,1257,240"/>
-<area shape="rect" id="node12" href="$dd/d94/simulator__mavlink_8cpp.html" title="src/modules/simulator\l/simulator_mavlink.cpp" alt="" coords="1281,199,1437,240"/>
-<area shape="rect" id="node14" href="$de/dcb/syslink__bridge_8cpp.html" title="Character device for talking to the radio as a plain serial port. " alt="" coords="1462,199,1601,240"/>
-<area shape="rect" id="node15" href="$de/dbe/syslink__main_8cpp.html" title="Entry point for syslink module used to communicate with the NRF module on a Crazyflie. " alt="" coords="1625,199,1763,240"/>
-<area shape="rect" id="node16" href="$d0/db2/syslink__memory_8cpp.html" title="src/modules/syslink\l/syslink_memory.cpp" alt="" coords="1787,199,1934,240"/>
+<area shape="rect" id="node2" href="$d4/dbd/df__bebop__bus__wrapper_8cpp.html" title="This is a wrapper around the Parrot Bebop bus driver of the DriverFramework. " alt="" coords="5,80,176,151"/>
+<area shape="rect" id="node3" href="$d0/d77/df__ltc2946__wrapper_8cpp.html" title="Driver to access the LTC2946 of the DriverFramework. " alt="" coords="201,80,389,151"/>
+<area shape="rect" id="node4" href="$df/d8e/voxlpm_8hpp.html" title="Shared defines for the voxlpm (QTY2 LTC2946) driver. " alt="" coords="413,95,585,136"/>
+<area shape="rect" id="node7" href="$d2/dde/lib_2battery_2battery_8cpp.html" title="src/lib/battery/battery.cpp" alt="" coords="609,102,780,129"/>
+<area shape="rect" id="node8" href="$d6/d9d/battery__status_8cpp.html" title="src/modules/battery\l_status/battery_status.cpp" alt="" coords="805,95,982,136"/>
+<area shape="rect" id="node9" href="$d3/d9e/simulator_8h.html" title="This module interfaces via MAVLink to a software in the loop simulator (SITL) such as jMAVSim or Gaze..." alt="" coords="1006,95,1157,136"/>
+<area shape="rect" id="node5" href="$dc/d88/voxlpm_8cpp.html" title="Driver for the VOXL Power Management unit. " alt="" coords="238,199,410,240"/>
+<area shape="rect" id="node6" href="$d1/dc1/voxlpm__main_8cpp.html" title="src/drivers/power_monitor\l/voxlpm/voxlpm_main.cpp" alt="" coords="434,199,609,240"/>
+<area shape="rect" id="node10" href="$de/d29/gpssim_8cpp.html" title="Simulated GPS driver. " alt="" coords="743,199,894,240"/>
+<area shape="rect" id="node11" href="$db/d47/ubx__sim_8cpp.html" title="src/modules/simulator\l/gpssim/ubx_sim.cpp" alt="" coords="918,199,1069,240"/>
+<area shape="rect" id="node12" href="$da/d56/simulator_8cpp.html" title="This module interfaces via MAVLink to a software in the loop simulator (SITL) such as jMAVSim or Gaze..." alt="" coords="1093,199,1243,240"/>
+<area shape="rect" id="node13" href="$dd/d94/simulator__mavlink_8cpp.html" title="src/modules/simulator\l/simulator_mavlink.cpp" alt="" coords="1267,199,1423,240"/>
 </map>

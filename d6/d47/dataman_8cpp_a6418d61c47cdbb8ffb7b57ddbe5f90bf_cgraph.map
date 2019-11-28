@@ -1,33 +1,51 @@
 <map id="dataman_main" name="dataman_main">
-<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a23171d05588d60a704bb19b3e10f0f17" title="backend_check" alt="" coords="160,239,273,265"/>
-<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="usage" alt="" coords="376,213,433,240"/>
-<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#a59cfb8801fd1f2d8b797e5dab8dfa9d9" title="Tell the data manager about the type of the last reset. " alt="" coords="175,481,259,508"/>
-<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="364,408,445,435"/>
-<area shape="rect" id="node20" href="$d7/d21/px4__getopt_8c.html#aa46b3a38313a0bb2d8ad9ee8d250e7d4" title="px4_getopt" alt="" coords="173,561,260,588"/>
-<area shape="rect" id="node23" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="193,612,241,639"/>
-<area shape="rect" id="node31" href="$d6/d47/dataman_8cpp.html#adfc8e05ca16b581a45d855d3033c1ab9" title="status" alt="" coords="187,663,246,689"/>
-<area shape="rect" id="node32" href="$d6/d47/dataman_8cpp.html#acc7baf226fbd7801b4118c7a009ff257" title="stop" alt="" coords="193,713,240,740"/>
-<area shape="rect" id="node4" href="$dd/d30/module_8cpp.html#a53dcf1637cabe04fa554ef0e38f266d2" title="Print module documentation (will also be used for online documentation). " alt="" coords="536,5,763,32"/>
-<area shape="rect" id="node5" href="$dd/d30/module_8cpp.html#a06777df5209dd638c8ee6ac49331a50c" title="Print the command name. " alt="" coords="536,56,763,83"/>
-<area shape="rect" id="node6" href="$dd/d30/module_8cpp.html#a12e0d79176d6adbb56764d05171c1716" title="print a string parameter " alt="" coords="559,107,740,149"/>
-<area shape="rect" id="node7" href="$dd/d30/module_8cpp.html#a55f27bc51df04401d95a19e0ef8caf5d" title="print a flag parameter, without any value " alt="" coords="559,173,740,214"/>
-<area shape="rect" id="node8" href="$dd/d30/module_8cpp.html#af47df5c61eb0835e67336e0a5e17f925" title="print a comment, that applies to the next arguments or parameters. " alt="" coords="559,238,740,279"/>
-<area shape="rect" id="node9" href="$dd/d30/module_8cpp.html#aff1dbaa4bef630dfbdcc72bd0061c75a" title="Print a command with a short description what it does. " alt="" coords="559,303,740,345"/>
-<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="587,572,712,599"/>
-<area shape="rect" id="node17" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="321,459,488,501"/>
-<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="818,521,906,548"/>
-<area shape="rect" id="node14" href="$d2/dbd/queue_8c.html#a982c17523b5919c371eb11c43ac97f09" title="sq_addfirst" alt="" coords="819,471,905,497"/>
-<area shape="rect" id="node15" href="$d6/d59/sq__remfirst_8c.html#a728a42b33fc1c7894f0840dbe164302b" title="sq_remfirst" alt="" coords="819,673,905,700"/>
-<area shape="rect" id="node16" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="811,572,913,599"/>
-<area shape="rect" id="node18" href="$d2/db6/sq__addlast_8c.html#ab758fafca1d2ba46bf9175fffbfd5c12" title="sq_addlast" alt="" coords="607,369,692,396"/>
-<area shape="rect" id="node19" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="583,471,715,497"/>
-<area shape="rect" id="node21" href="$d7/d21/px4__getopt_8c.html#a67df7a22bcc79f3b2ab2b0746a08c26d" title="reorder" alt="" coords="373,576,436,603"/>
-<area shape="rect" id="node22" href="$d7/d21/px4__getopt_8c.html#a1ffe4b2441fedeb10c88ef1e12bb99ad" title="isvalidopt" alt="" coords="611,623,688,649"/>
-<area shape="rect" id="node24" href="$da/d65/px4__tasks_8h.html#a9c9c04f140b8e63904e0e0c6597a5fc8" title="Starts a task and performs any specific accounting, scheduler setup, etc. " alt="" coords="329,677,481,704"/>
-<area shape="rect" id="node25" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="363,775,446,801"/>
-<area shape="rect" id="node26" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="623,724,676,751"/>
-<area shape="rect" id="node27" href="$d9/da5/param_8c.html#acda250bde94d605ace974a67c1012d4a" title="Copy the value of a parameter. " alt="" coords="608,775,691,801"/>
-<area shape="rect" id="node28" href="$d9/da5/param_8c.html#ac0eb17a3cb026fd36cc681b5ef762531" title="Look up a parameter by name. " alt="" coords="606,825,693,852"/>
-<area shape="rect" id="node29" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="580,673,719,700"/>
-<area shape="rect" id="node30" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="610,927,689,953"/>
+<area shape="rect" id="node2" href="$d6/d47/dataman_8cpp.html#a23171d05588d60a704bb19b3e10f0f17" title="backend_check" alt="" coords="160,89,273,115"/>
+<area shape="rect" id="node3" href="$d6/d47/dataman_8cpp.html#a64a6014565bb3e03294ec4a952d5add0" title="usage" alt="" coords="376,49,433,75"/>
+<area shape="rect" id="node4" href="$d6/d47/dataman_8cpp.html#a59cfb8801fd1f2d8b797e5dab8dfa9d9" title="Tell the data manager about the type of the last reset. " alt="" coords="175,190,259,217"/>
+<area shape="rect" id="node5" href="$d6/d47/dataman_8cpp.html#a5e50c5261793c6661dca9b5179f19012" title="is_running" alt="" coords="364,121,445,147"/>
+<area shape="rect" id="node11" href="$d6/d47/dataman_8cpp.html#a1a2cdf68c15e00b9b2b48792edcdd43c" title="start" alt="" coords="193,241,241,267"/>
+<area shape="rect" id="node47" href="$d6/d47/dataman_8cpp.html#adfc8e05ca16b581a45d855d3033c1ab9" title="status" alt="" coords="187,291,246,318"/>
+<area shape="rect" id="node50" href="$d6/d47/dataman_8cpp.html#acc7baf226fbd7801b4118c7a009ff257" title="stop" alt="" coords="193,342,240,369"/>
+<area shape="rect" id="node6" href="$d6/d47/dataman_8cpp.html#a180c89691e7ec914149e2099205bc5a2" title="create_work_item" alt="" coords="545,93,671,119"/>
+<area shape="rect" id="node9" href="$d6/d47/dataman_8cpp.html#a4e6d1f41693c6130e44997501a003099" title="enqueue_work_item_and\l_wait_for_result" alt="" coords="321,172,488,213"/>
+<area shape="rect" id="node7" href="$d6/d47/dataman_8cpp.html#a0ba409860a05272f9cab723bd8358d05" title="lock_queue" alt="" coords="757,42,845,69"/>
+<area shape="rect" id="node8" href="$d6/d47/dataman_8cpp.html#a237e22359180c49a601391c8d8fde80e" title="unlock_queue" alt="" coords="750,93,853,119"/>
+<area shape="rect" id="node10" href="$d6/d47/dataman_8cpp.html#ad17f30be41ab52424f14d24242ee9fd9" title="destroy_work_item" alt="" coords="542,42,674,69"/>
+<area shape="rect" id="node12" href="$d6/d47/dataman_8cpp.html#ab125feda9347bf0ad3821d9a4a57be87" title="task_main" alt="" coords="363,310,446,337"/>
+<area shape="rect" id="node13" href="$d6/d47/dataman_8cpp.html#abefc3578000f8ce9445b3259ef483ab8" title="init_q" alt="" coords="581,361,635,387"/>
+<area shape="rect" id="node14" href="$d5/d33/param_8h.html#ac68728b411c2c4af9ad46ea664f1dc42" title="Copy the value of a parameter. " alt="" coords="567,447,649,474"/>
+<area shape="rect" id="node42" href="$d5/d33/param_8h.html#a41eaf676b34d8ad2a70b4aadd3d415c0" title="Look up a parameter by name. " alt="" coords="565,498,651,525"/>
+<area shape="rect" id="node44" href="$d6/d47/dataman_8cpp.html#a1ef147f3115799ec851dd6fd29a7f619" title="dequeue_work_item" alt="" coords="539,143,677,170"/>
+<area shape="rect" id="node45" href="$d6/d47/dataman_8cpp.html#a1a94689dd210dec0f39d57daf21125a7" title="destroy_q" alt="" coords="569,259,647,286"/>
+<area shape="rect" id="node46" href="$df/d7b/perf__counter_8cpp.html#ae8aa20c525af8228a069d98211369870" title="Free a counter. " alt="" coords="571,310,645,337"/>
+<area shape="rect" id="node15" href="$d8/da1/integration_8cpp.html#af5ba872dd09316732300733cc164ac1a" title="f" alt="" coords="983,295,1022,322"/>
+<area shape="rect" id="node17" href="$d9/db5/parameters__shmem_8cpp.html#a3838c5d4deba92f67b48083b3954df1a" title="Test whether a param_t is value. " alt="" coords="1347,422,1463,449"/>
+<area shape="rect" id="node19" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="730,194,873,221"/>
+<area shape="rect" id="node24" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#af909083f0b6277c36894221c3a983bcb" title="lock the parameter store for read access " alt="" coords="735,995,867,1022"/>
+<area shape="rect" id="node25" href="$d9/db5/parameters__shmem_8cpp.html#ac7602bf9d21d212e9f0d795f3ac27cdd" title="Obtain the name of a parameter. " alt="" coords="954,245,1051,271"/>
+<area shape="rect" id="node26" href="$d9/db5/parameters__shmem_8cpp.html#a25fbb1caf834c5fc1151a21643c82f78" title="param_set_internal" alt="" coords="735,658,867,685"/>
+<area shape="rect" id="node32" href="$d9/db5/parameters__shmem_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="1159,447,1249,474"/>
+<area shape="rect" id="node38" href="$df/d7b/perf__counter_8cpp.html#a29199d9ba42a60894e4f593f677ff2d7" title="Begin a performance event. " alt="" coords="961,1071,1044,1098"/>
+<area shape="rect" id="node39" href="$df/d7b/perf__counter_8cpp.html#a8a89ea6639744897e494e5d2139751aa" title="End a performance event. " alt="" coords="967,1122,1039,1149"/>
+<area shape="rect" id="node40" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="757,143,846,170"/>
+<area shape="rect" id="node41" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#abdab42cee1e4e566abe64ce3e5c70e6e" title="unlock the parameter store " alt="" coords="728,945,875,971"/>
+<area shape="rect" id="node16" href="$d0/de4/namespacematrix.html#a761295febb473ca1226309513533e801" title="matrix::sin" alt="" coords="1163,295,1245,322"/>
+<area shape="rect" id="node18" href="$d9/db5/parameters__shmem_8cpp.html#ae5f1a3ec4c36a62c860d384fffaf1b69" title="get_param_info_count" alt="" coords="1533,422,1684,449"/>
+<area shape="rect" id="node20" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a2e8101fac5e7a15f2862a5d76e723052" title="Test whether a param_t is value. " alt="" coords="1146,42,1262,69"/>
+<area shape="rect" id="node21" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#ad0b192d2711654e544b950c67ac9675a" title="assert that the parameter store is locked " alt="" coords="1131,169,1277,195"/>
+<area shape="rect" id="node22" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9d20313129889654bea031c7235c5765" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="931,143,1074,170"/>
+<area shape="rect" id="node23" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a9e102ffa056bd99c6239b6d213fbf366" title="Obtain the type of a parameter. " alt="" coords="957,42,1048,69"/>
+<area shape="rect" id="node27" href="$d9/db5/parameters__shmem_8cpp.html#a33755672b9b0c18228b38c7d47a5b905" title="_param_notify_changes" alt="" coords="923,498,1083,525"/>
+<area shape="rect" id="node28" href="$d9/db5/parameters__shmem_8cpp.html#a678be2ee8ef59629254a6f7b39b2af89" title="Automatically save the parameters after a timeout and limited rate. " alt="" coords="943,549,1062,575"/>
+<area shape="rect" id="node29" href="$d9/db5/parameters__shmem_8cpp.html#a82c07a9322da35881211e48945b63186" title="Compare two modifid parameter structures to determine ordering. " alt="" coords="1325,919,1485,946"/>
+<area shape="rect" id="node30" href="$d9/db5/parameters__shmem_8cpp.html#ac411878d8324bf44870e0a647c9111be" title="Locate the modified parameter structure for a parameter, if it exists. " alt="" coords="1133,869,1275,895"/>
+<area shape="rect" id="node31" href="$d9/db5/parameters__shmem_8cpp.html#a69899819b7064f496f2786013c2dad25" title="Obtain a pointer to the storage allocated for a parameter. " alt="" coords="931,818,1074,845"/>
+<area shape="rect" id="node33" href="$d3/d19/flashparams_8h.html#a35b6d315faa79a25df2f299898d1f67a" title="param_get_value_ptr\l_external" alt="" coords="931,651,1074,692"/>
+<area shape="rect" id="node34" href="$d9/db5/parameters__shmem_8cpp.html#a8c9b2abe8f93c4ae499d759ee957de46" title="lock the parameter store for write access " alt="" coords="939,717,1067,743"/>
+<area shape="rect" id="node35" href="$d3/d19/flashparams_8h.html#a91d3441661691c9b00b8bd7939a65b50" title="param_set_external" alt="" coords="935,767,1071,794"/>
+<area shape="rect" id="node36" href="$d9/db5/parameters__shmem_8cpp.html#aab087588494ce55486dd60b81e35fff4" title="Determine the size of a parameter. " alt="" coords="958,397,1047,423"/>
+<area shape="rect" id="node37" href="$d9/db5/parameters__shmem_8cpp.html#a3f859beecf13dfc502167129e58e990f" title="unlock the parameter store " alt="" coords="931,919,1074,946"/>
+<area shape="rect" id="node43" href="$d6/d02/lib_2parameters_2parameters_8cpp.html#a70c8749ad87f25785a524bf38b28c02a" title="param_find_internal" alt="" coords="734,1097,869,1123"/>
+<area shape="rect" id="node48" href="$df/d7b/perf__counter_8cpp.html#a9ef0940a2dc6d642b13f817b3443e660" title="Print one performance counter to stdout. " alt="" coords="341,458,468,485"/>
+<area shape="rect" id="node49" href="$df/d7b/perf__counter_8cpp.html#ac15423e549766f6c8eaca3478223e5f2" title="Print one performance counter to a fd. " alt="" coords="536,549,680,575"/>
 </map>

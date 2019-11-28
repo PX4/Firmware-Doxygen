@@ -1,0 +1,27 @@
+var class_vehicle_angular_velocity =
+[
+    [ "VehicleAngularVelocity", "db/daf/class_vehicle_angular_velocity.html#af417992d5dacab8e2f9ed3285d24f4d0", null ],
+    [ "~VehicleAngularVelocity", "db/daf/class_vehicle_angular_velocity.html#a492248e2321c5f5581cff528982108a1", null ],
+    [ "ParametersUpdate", "db/daf/class_vehicle_angular_velocity.html#a3ee36f040c0de8410d4d7ae7cd7939fa", null ],
+    [ "PrintStatus", "db/daf/class_vehicle_angular_velocity.html#a9484413f69131c9836d265d1b3fd8ed0", null ],
+    [ "Run", "db/daf/class_vehicle_angular_velocity.html#abdc0c5a152e24b1103d39d531dd7a221", null ],
+    [ "SensorBiasUpdate", "db/daf/class_vehicle_angular_velocity.html#a7e2261fe95815ee13dac3ab1647736d3", null ],
+    [ "SensorCorrectionsUpdate", "db/daf/class_vehicle_angular_velocity.html#a64c62e079dcb0995b034373c1002637d", null ],
+    [ "Start", "db/daf/class_vehicle_angular_velocity.html#a232ee740944d85514ffc475749938c03", null ],
+    [ "Stop", "db/daf/class_vehicle_angular_velocity.html#ae45cc9a1ddfac7f7601763ade53ccc06", null ],
+    [ "_bias", "db/daf/class_vehicle_angular_velocity.html#ae3a9dc23acaa0a822fb1d6a637a698fd", null ],
+    [ "_board_rotation", "db/daf/class_vehicle_angular_velocity.html#aaf5fd9227f2b9ebe938bddd9d1918879", null ],
+    [ "_offset", "db/daf/class_vehicle_angular_velocity.html#a1e0360e30998a8390403ebb7c763b323", null ],
+    [ "_params_sub", "db/daf/class_vehicle_angular_velocity.html#a7cff25f9bd656f8ecd13429576398585", null ],
+    [ "_scale", "db/daf/class_vehicle_angular_velocity.html#a0ec55db5cd9f0b2b7ccca1e716f6b2bd", null ],
+    [ "_selected_sensor", "db/daf/class_vehicle_angular_velocity.html#a6a38b0b7788ef0b65755dcc28beaaccf", null ],
+    [ "_selected_sensor_control", "db/daf/class_vehicle_angular_velocity.html#ae556fbf78a162799af727989c6ddbdc9", null ],
+    [ "_selected_sensor_device_id", "db/daf/class_vehicle_angular_velocity.html#a71d70361ae5ce9b8a12dca6727a5c575", null ],
+    [ "_sensor_bias_sub", "db/daf/class_vehicle_angular_velocity.html#a6e631711cab83e0298f8bbd1df0c965c", null ],
+    [ "_sensor_control_available", "db/daf/class_vehicle_angular_velocity.html#ae655521d5e596ec77c7c7d7a604ce4f4", null ],
+    [ "_sensor_control_sub", "db/daf/class_vehicle_angular_velocity.html#af4a6c1e7897994df5fc0245951c1805f", null ],
+    [ "_sensor_correction_sub", "db/daf/class_vehicle_angular_velocity.html#a453f0e05e11a03c42521e55e44dc9081", null ],
+    [ "_sensor_selection_sub", "db/daf/class_vehicle_angular_velocity.html#a6ecda04581b7c4031030106a9dfe0af1", null ],
+    [ "_sensor_sub", "db/daf/class_vehicle_angular_velocity.html#a453a83c65650387635dc4ec592b89f5f", null ],
+    [ "MAX_SENSOR_COUNT", "db/daf/class_vehicle_angular_velocity.html#afc8e880b3b3627edb9d89e3465caa282", null ]
+];
